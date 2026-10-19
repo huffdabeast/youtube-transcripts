@@ -1,0 +1,1628 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.960
+So, a couple years ago I was stuck
+
+00:00:01.280 --> 00:00:05.200
+making YouTube videos that would get 10
+
+00:00:02.960 --> 00:00:07.040
+or maybe 20 views if I was lucky, and I
+
+00:00:05.200 --> 00:00:08.800
+was doing what all the common YouTube
+
+00:00:07.040 --> 00:00:10.440
+advice tells you to do. I posted on a
+
+00:00:08.800 --> 00:00:12.000
+consistent schedule, I make clean
+
+00:00:10.440 --> 00:00:13.480
+thumbnails, and I wrote titles that I
+
+00:00:12.000 --> 00:00:14.760
+thought people would click, but it
+
+00:00:13.480 --> 00:00:16.080
+didn't work. Then I found the method I'm
+
+00:00:14.760 --> 00:00:17.960
+about to show you, and it took me from
+
+00:00:16.080 --> 00:00:19.480
+those 10 views to more than a million
+
+00:00:17.960 --> 00:00:21.400
+subscribers. And I didn't just do it on
+
+00:00:19.480 --> 00:00:23.080
+my main channel, I did it on three other
+
+00:00:21.400 --> 00:00:24.880
+channels as well just to make sure that
+
+00:00:23.080 --> 00:00:26.480
+it works. And it also didn't just work
+
+00:00:24.880 --> 00:00:28.120
+for me. This same method took a
+
+00:00:26.480 --> 00:00:30.840
+community member of mine, Nurse Jen,
+
+00:00:28.120 --> 00:00:31.920
+from zero to 25k subscribers 4 months of
+
+00:00:30.840 --> 00:00:33.320
+starting the channel. Took another
+
+00:00:31.920 --> 00:00:35.280
+community member of mine from a couple
+
+00:00:33.320 --> 00:00:37.400
+hundred subscribers to 11,000, and it
+
+00:00:35.280 --> 00:00:39.280
+got my brother Zach to 1,000 subscribers
+
+00:00:37.400 --> 00:00:41.000
+in 19 days. And all of this has gotten
+
+00:00:39.280 --> 00:00:42.360
+significantly easier because of Claude
+
+00:00:41.000 --> 00:00:44.120
+AI. So, today I'm going to show you the
+
+00:00:42.360 --> 00:00:45.960
+exact steps on the screen. It works in
+
+00:00:44.120 --> 00:00:47.480
+any niche, at any subscriber count, no
+
+00:00:45.960 --> 00:00:48.720
+matter how long you've been posting. So,
+
+00:00:47.480 --> 00:00:50.880
+if you appreciate me making this type of
+
+00:00:48.720 --> 00:00:54.200
+content, let me know by gently cheersing
+
+00:00:50.880 --> 00:00:55.680
+that like button, and let's jump into it
+
+00:00:54.200 --> 00:00:56.600
+right now.
+
+00:00:55.680 --> 00:00:58.160
+And by the way, if you're struggling to
+
+00:00:56.600 --> 00:01:00.440
+get views, subscribers, or just picking
+
+00:00:58.160 --> 00:01:02.320
+a niche on YouTube, I have a free live
+
+00:01:00.440 --> 00:01:03.280
+training that I'm doing this week. Click
+
+00:01:02.320 --> 00:01:04.559
+the link in the description and the pin
+
+00:01:03.280 --> 00:01:06.120
+comment below, where I'm going to walk
+
+00:01:04.559 --> 00:01:07.720
+people through this in real time, and
+
+00:01:06.120 --> 00:01:08.960
+you can ask me questions directly. And
+
+00:01:07.720 --> 00:01:11.160
+everyone who shows up to the workshop
+
+00:01:08.960 --> 00:01:12.440
+live also gets the niche validator pro,
+
+00:01:11.160 --> 00:01:13.800
+which is a new tool that we made that is
+
+00:01:12.440 --> 00:01:15.160
+powered by Claude. So, that'll be the
+
+00:01:13.800 --> 00:01:16.800
+first link below. Now, the second thing
+
+00:01:15.160 --> 00:01:18.400
+is I put my free Claude skills in the
+
+00:01:16.800 --> 00:01:20.560
+third link below so that you can run the
+
+00:01:18.400 --> 00:01:21.600
+same prompts I run while you watch. Oh,
+
+00:01:20.560 --> 00:01:23.280
+and by the way, I'm also going to show
+
+00:01:21.600 --> 00:01:24.720
+you three alternative methods to get to
+
+00:01:23.280 --> 00:01:26.560
+1,000 subscribers at the very end of
+
+00:01:24.720 --> 00:01:28.400
+this video as well. So, step one is to
+
+00:01:26.560 --> 00:01:30.120
+understand the math. Why views come
+
+00:01:28.400 --> 00:01:32.080
+before subscribers. So, the first step
+
+00:01:30.120 --> 00:01:34.000
+before I show you how to hit 1,000 with
+
+00:01:32.080 --> 00:01:35.280
+Claude is to let me clear up what
+
+00:01:34.000 --> 00:01:36.920
+actually gets you there. Most people
+
+00:01:35.280 --> 00:01:38.920
+look at their subscriber count, and that
+
+00:01:36.920 --> 00:01:40.760
+is the wrong number to monitor. You get
+
+00:01:38.920 --> 00:01:42.360
+subscribers from views. So, views are
+
+00:01:40.760 --> 00:01:44.560
+the number that matters, and the math is
+
+00:01:42.360 --> 00:01:46.600
+simple. In my experience, about one to
+
+00:01:44.560 --> 00:01:48.880
+two out of every 100 people, typically
+
+00:01:46.600 --> 00:01:50.240
+two, who watch a video subscribe to it.
+
+00:01:48.880 --> 00:01:52.400
+And that's a conservative number. So,
+
+00:01:50.240 --> 00:01:54.160
+let's just say 2% of viewers subscribe.
+
+00:01:52.400 --> 00:01:56.240
+So, to get 1,000 subscribers, you need
+
+00:01:54.160 --> 00:01:57.920
+somewhere around 50,000 views across
+
+00:01:56.240 --> 00:02:00.000
+your videos. Now, on some channels, it's
+
+00:01:57.920 --> 00:02:02.480
+closer to 100,000. But, framed that way,
+
+00:02:00.000 --> 00:02:04.360
+the goal gets a lot smaller. So, stop
+
+00:02:02.480 --> 00:02:06.960
+counting subscribers and start counting
+
+00:02:04.360 --> 00:02:08.960
+views. Get to 50,000 views and the 1,000
+
+00:02:06.960 --> 00:02:10.080
+subscribers come with them. So, next,
+
+00:02:08.960 --> 00:02:11.200
+I'm going to show you how to get that.
+
+00:02:10.080 --> 00:02:13.520
+So, one of the big traps that people
+
+00:02:11.200 --> 00:02:14.959
+make is posting without a strategy.
+
+00:02:13.520 --> 00:02:16.640
+Because most creators fall into the same
+
+00:02:14.959 --> 00:02:18.440
+trap. They repeat the same process and
+
+00:02:16.640 --> 00:02:20.600
+they expect a different result. You post
+
+00:02:18.440 --> 00:02:22.760
+a video, you get 10 views, you post
+
+00:02:20.600 --> 00:02:24.760
+another one the same way, you get 20,
+
+00:02:22.760 --> 00:02:26.840
+and it keeps going. The advice sounds
+
+00:02:24.760 --> 00:02:28.840
+fine. Stay consistent, keep posting, and
+
+00:02:26.840 --> 00:02:30.400
+the algorithm finds you eventually. But,
+
+00:02:28.840 --> 00:02:32.680
+posting on a schedule with no strategy
+
+00:02:30.400 --> 00:02:34.840
+behind it just waste months. So, I've
+
+00:02:32.680 --> 00:02:36.640
+seen channels with over 400 uploads that
+
+00:02:34.840 --> 00:02:38.160
+are still under 500 subscribers. I've
+
+00:02:36.640 --> 00:02:40.000
+seen channels with more than 200 uploads
+
+00:02:38.160 --> 00:02:41.560
+that never passed 100 subscribers. And
+
+00:02:40.000 --> 00:02:43.600
+they posted that much and stayed that
+
+00:02:41.560 --> 00:02:45.400
+small because they kept picking ideas
+
+00:02:43.600 --> 00:02:47.320
+that nobody was searching for. And I'm
+
+00:02:45.400 --> 00:02:49.959
+not making fun of them. I did the same
+
+00:02:47.320 --> 00:02:51.160
+exact thing and it is painful to watch.
+
+00:02:49.959 --> 00:02:53.760
+So, here's the strategy that actually
+
+00:02:51.160 --> 00:02:55.440
+works. Step two, find a proven idea with
+
+00:02:53.760 --> 00:02:56.840
+the hot dog method. So, this worked for
+
+00:02:55.440 --> 00:02:58.560
+people that I just mentioned and it's
+
+00:02:56.840 --> 00:03:00.000
+how I got to 1 million subscribers
+
+00:02:58.560 --> 00:03:01.680
+myself. So, I call it the hot dog
+
+00:03:00.000 --> 00:03:03.480
+method. So, say you open a high-end
+
+00:03:01.680 --> 00:03:05.360
+steakhouse on a street that already has
+
+00:03:03.480 --> 00:03:06.880
+five well-known steakhouses. You're
+
+00:03:05.360 --> 00:03:09.160
+fighting on price, quality, and
+
+00:03:06.880 --> 00:03:11.200
+reputation for years before anyone
+
+00:03:09.160 --> 00:03:13.200
+notices you. Now, flip it. You roll a
+
+00:03:11.200 --> 00:03:15.239
+hot dog cart up to a crowd leaving a
+
+00:03:13.200 --> 00:03:16.920
+concert hungry with nothing else to eat,
+
+00:03:15.239 --> 00:03:18.640
+nothing else open nearby, and you're
+
+00:03:16.920 --> 00:03:20.440
+going to sell out. The hot dogs do not
+
+00:03:18.640 --> 00:03:21.920
+have to be great because the demand is
+
+00:03:20.440 --> 00:03:22.959
+already there. YouTube works the same
+
+00:03:21.920 --> 00:03:24.200
+way. You find a group that wants
+
+00:03:22.959 --> 00:03:25.720
+something, you notice they're getting
+
+00:03:24.200 --> 00:03:26.640
+bad videos on it, and they're watching
+
+00:03:25.720 --> 00:03:28.080
+those videos even though they're
+
+00:03:26.640 --> 00:03:29.560
+terrible, and then you give them a
+
+00:03:28.080 --> 00:03:31.000
+better one. And this step matters the
+
+00:03:29.560 --> 00:03:32.959
+most, so pay attention here. You're
+
+00:03:31.000 --> 00:03:34.840
+looking for a video that got far more
+
+00:03:32.959 --> 00:03:36.840
+views than the channel has subscribers.
+
+00:03:34.840 --> 00:03:38.600
+My rule is a five to one ratio. So, the
+
+00:03:36.840 --> 00:03:40.239
+video needs at least five times more
+
+00:03:38.600 --> 00:03:41.880
+views than the channel has subscribers.
+
+00:03:40.239 --> 00:03:44.480
+So, a channel with 50,000 subscribers
+
+00:03:41.880 --> 00:03:46.840
+and a video with 250,000 views is a five
+
+00:03:44.480 --> 00:03:49.160
+to one ratio. When you see that gap, the
+
+00:03:46.840 --> 00:03:50.840
+idea did the work, not the channel. And
+
+00:03:49.160 --> 00:03:52.440
+I also stick to channels under 100,000
+
+00:03:50.840 --> 00:03:53.920
+subscribers. So, finding these used to
+
+00:03:52.440 --> 00:03:55.840
+take me hours manually researching
+
+00:03:53.920 --> 00:03:57.400
+YouTube. Claude does it in one prompt
+
+00:03:55.840 --> 00:03:59.400
+now. So, I typed, "Find me YouTube
+
+00:03:57.400 --> 00:04:01.040
+videos in the high-paying trades niche
+
+00:03:59.400 --> 00:04:02.800
+with at least five times more views than
+
+00:04:01.040 --> 00:04:04.120
+the channel has subscribers, and give me
+
+00:04:02.800 --> 00:04:05.280
+the link." You can write that prompt
+
+00:04:04.120 --> 00:04:06.800
+however you want, and here's what it
+
+00:04:05.280 --> 00:04:08.720
+returned. It found a video called
+
+00:04:06.800 --> 00:04:10.720
+highest-paying trades jobs that nobody
+
+00:04:08.720 --> 00:04:12.760
+is talking about. Almost 2 million views
+
+00:04:10.720 --> 00:04:15.520
+on a channel with fewer than 50,000
+
+00:04:12.760 --> 00:04:17.920
+subscribers, and that's well past 5:1.
+
+00:04:15.520 --> 00:04:19.680
+And that video is the exact video idea
+
+00:04:17.920 --> 00:04:21.680
+that my brother used for the first video
+
+00:04:19.680 --> 00:04:23.919
+that he ever posted. Oh, and that video
+
+00:04:21.680 --> 00:04:25.600
+popped off and got over 800,000 views.
+
+00:04:23.919 --> 00:04:27.560
+He didn't come up with anything new. He
+
+00:04:25.600 --> 00:04:29.000
+found an idea that already worked from a
+
+00:04:27.560 --> 00:04:30.919
+channel that was making mediocre or
+
+00:04:29.000 --> 00:04:32.280
+preferably bad content, and then he made
+
+00:04:30.919 --> 00:04:33.840
+his own version. And there were other
+
+00:04:32.280 --> 00:04:35.160
+strong ideas in that same list, too. So,
+
+00:04:33.840 --> 00:04:36.600
+when Claude gives you an idea like
+
+00:04:35.160 --> 00:04:38.480
+these, screenshot the title and
+
+00:04:36.600 --> 00:04:39.960
+thumbnail and save them in a Google Doc.
+
+00:04:38.480 --> 00:04:41.919
+And that brings us to step number two,
+
+00:04:39.960 --> 00:04:43.560
+which is make a better version. Okay, so
+
+00:04:41.919 --> 00:04:45.880
+don't skip this part. You take their
+
+00:04:43.560 --> 00:04:47.800
+idea and you make your own video out of
+
+00:04:45.880 --> 00:04:49.160
+it. That means a better title, a better
+
+00:04:47.800 --> 00:04:51.480
+thumbnail, and a better video than
+
+00:04:49.160 --> 00:04:52.720
+theirs. So, Zack took that trades idea
+
+00:04:51.480 --> 00:04:54.919
+and gave it a stronger title than the
+
+00:04:52.720 --> 00:04:57.400
+original. Same idea, better packaging.
+
+00:04:54.919 --> 00:05:00.480
+And his version got more than 800,000
+
+00:04:57.400 --> 00:05:02.680
+views. Literally, one shot, one kill,
+
+00:05:00.480 --> 00:05:04.440
+very first video we tried worked like
+
+00:05:02.680 --> 00:05:07.240
+gangbusters. All right, guys, quick
+
+00:05:04.440 --> 00:05:08.520
+break. This video is sponsored by me. I
+
+00:05:07.240 --> 00:05:10.640
+wanted to let you know that I'm going to
+
+00:05:08.520 --> 00:05:12.480
+be doing a live training this week where
+
+00:05:10.640 --> 00:05:15.040
+I'm going to be revealing the YouTube
+
+00:05:12.480 --> 00:05:17.200
+content advantage in 2026. It is a
+
+00:05:15.040 --> 00:05:19.440
+completely free training, no strings
+
+00:05:17.200 --> 00:05:21.520
+attached. In fact, I'm giving away even
+
+00:05:19.440 --> 00:05:22.919
+more bonuses at the training. Just as an
+
+00:05:21.520 --> 00:05:24.880
+example, I'm going to be giving away my
+
+00:05:22.919 --> 00:05:26.919
+niche validator. And this is going to be
+
+00:05:24.880 --> 00:05:29.360
+available for both Claude as well as
+
+00:05:26.919 --> 00:05:31.000
+ChatGPT, which is a super valuable piece
+
+00:05:29.360 --> 00:05:33.360
+of software where you can finally figure
+
+00:05:31.000 --> 00:05:35.000
+out what the best niche for you is. So,
+
+00:05:33.360 --> 00:05:36.240
+do not miss out on this training. Uh
+
+00:05:35.000 --> 00:05:37.600
+make sure you sign up for it down in the
+
+00:05:36.240 --> 00:05:39.480
+description and the pin comment below
+
+00:05:37.600 --> 00:05:41.640
+because you only get it if you join the
+
+00:05:39.480 --> 00:05:43.880
+training. So, if you don't join now, you
+
+00:05:41.640 --> 00:05:45.480
+might miss it. But, that being said, in
+
+00:05:43.880 --> 00:05:47.160
+the workshop, you'll get to meet me.
+
+00:05:45.480 --> 00:05:48.680
+You'll get have me questions directly.
+
+00:05:47.160 --> 00:05:49.720
+So, I look forward to meeting you. So,
+
+00:05:48.680 --> 00:05:51.040
+click the link in the description and
+
+00:05:49.720 --> 00:05:52.880
+pin comment below. Make sure you put it
+
+00:05:51.040 --> 00:05:54.400
+on your calendar. And if for whatever
+
+00:05:52.880 --> 00:05:56.000
+reason you missed out on it, you weren't
+
+00:05:54.400 --> 00:05:57.560
+able to attend, make sure you still
+
+00:05:56.000 --> 00:05:59.560
+click that link because we might be
+
+00:05:57.560 --> 00:06:00.960
+having workshops in the future as well,
+
+00:05:59.560 --> 00:06:02.600
+and you'll be the first to know about
+
+00:06:00.960 --> 00:06:04.120
+it. So, yeah, hope to see you there. And
+
+00:06:02.600 --> 00:06:06.160
+now back to your regularly scheduled
+
+00:06:04.120 --> 00:06:07.920
+programming. And step four is write the
+
+00:06:06.160 --> 00:06:09.720
+script and publish. So, the video that
+
+00:06:07.920 --> 00:06:11.200
+Zach made, the guy had 800k views, he
+
+00:06:09.720 --> 00:06:12.520
+wrote that with Claude in about 15
+
+00:06:11.200 --> 00:06:13.760
+minutes. Because this is probably where
+
+00:06:12.520 --> 00:06:14.840
+Claude saves you the most time.
+
+00:06:13.760 --> 00:06:16.120
+Actually, it's really good at every
+
+00:06:14.840 --> 00:06:17.440
+single step. But this this is one of the
+
+00:06:16.120 --> 00:06:19.720
+better ones. And really, you just have
+
+00:06:17.440 --> 00:06:21.680
+to keep the prompt simple. Just as an
+
+00:06:19.720 --> 00:06:23.919
+example, this is roughly the same prompt
+
+00:06:21.680 --> 00:06:25.520
+that we used in Zach's first video. And
+
+00:06:23.919 --> 00:06:27.000
+you will see how simple it is. Zach
+
+00:06:25.520 --> 00:06:28.600
+basically just said, "Write me a script
+
+00:06:27.000 --> 00:06:30.040
+for the video title, and these are the
+
+00:06:28.600 --> 00:06:32.040
+jobs that I want to talk about." And
+
+00:06:30.040 --> 00:06:33.840
+then he just yapped, right? He just did
+
+00:06:32.040 --> 00:06:36.000
+what I like to call a yap session, where
+
+00:06:33.840 --> 00:06:37.280
+he turns on voice command, and he just
+
+00:06:36.000 --> 00:06:38.560
+yaps off the top of his head for a
+
+00:06:37.280 --> 00:06:40.200
+little bit. And then maybe he'd press
+
+00:06:38.560 --> 00:06:42.360
+enter, goes back and forth with it one
+
+00:06:40.200 --> 00:06:43.880
+or two times, and that's it. It's done.
+
+00:06:42.360 --> 00:06:45.600
+And that took him 15 minutes because he
+
+00:06:43.880 --> 00:06:47.520
+did tweak things here and there, but it
+
+00:06:45.600 --> 00:06:48.680
+came out clean, and it sounded like him.
+
+00:06:47.520 --> 00:06:50.320
+Then he filmed it with a very basic
+
+00:06:48.680 --> 00:06:52.680
+camera on his phone, and that's the
+
+00:06:50.320 --> 00:06:55.240
+whole process. No expensive camera, no
+
+00:06:52.680 --> 00:06:57.880
+studio. That first video got more than
+
+00:06:55.240 --> 00:07:00.200
+800,000 views, and Zach hit 1,000
+
+00:06:57.880 --> 00:07:02.040
+subscribers in 19 days. His editing was
+
+00:07:00.200 --> 00:07:03.919
+basic, and his thumbnail was plain, and
+
+00:07:02.040 --> 00:07:05.560
+it didn't matter because the idea was
+
+00:07:03.919 --> 00:07:07.440
+right. He didn't open a steakhouse, he
+
+00:07:05.560 --> 00:07:09.000
+ran a hot dog cart in front of a crowd
+
+00:07:07.440 --> 00:07:10.880
+that was already hungry. Now, one honest
+
+00:07:09.000 --> 00:07:12.520
+note here, this is simple, but it's not
+
+00:07:10.880 --> 00:07:14.680
+effortless, and it did require a little
+
+00:07:12.520 --> 00:07:16.280
+bit of work, but it really is that
+
+00:07:14.680 --> 00:07:17.520
+simple. And again, the basic Claude
+
+00:07:16.280 --> 00:07:18.600
+skills to do this, click that link in
+
+00:07:17.520 --> 00:07:20.080
+the description and pin comment below.
+
+00:07:18.600 --> 00:07:21.160
+Should be the third link down there. And
+
+00:07:20.080 --> 00:07:22.600
+also, if you want to learn how to do it
+
+00:07:21.160 --> 00:07:23.960
+better, or you want to ask me questions
+
+00:07:22.600 --> 00:07:25.240
+directly, then attend my live training
+
+00:07:23.960 --> 00:07:26.520
+this week. Click the first link in the
+
+00:07:25.240 --> 00:07:29.200
+description and pin comment below. All
+
+00:07:26.520 --> 00:07:30.960
+right, step five is to plan the next two
+
+00:07:29.200 --> 00:07:32.800
+months. So, for step five, you need to
+
+00:07:30.960 --> 00:07:34.960
+plan the next two months. You publish 16
+
+00:07:32.800 --> 00:07:37.160
+videos, two a week, each one built on an
+
+00:07:34.960 --> 00:07:39.080
+idea that you already know works. Then
+
+00:07:37.160 --> 00:07:40.800
+say a third of them find their audience.
+
+00:07:39.080 --> 00:07:43.000
+Those keep getting views day after day,
+
+00:07:40.800 --> 00:07:44.520
+and at about 2% subscribing, you get new
+
+00:07:43.000 --> 00:07:46.320
+subscribers every day, and by the end of
+
+00:07:44.520 --> 00:07:48.080
+1 to 2 months, you're past 1,000. Now,
+
+00:07:46.320 --> 00:07:49.680
+not every video works. Zach's first one
+
+00:07:48.080 --> 00:07:51.800
+didn't, it got him 1,000 subscribers in
+
+00:07:49.680 --> 00:07:53.560
+19 days. But, he also had me as a
+
+00:07:51.800 --> 00:07:55.360
+brother. But, realistically, probably
+
+00:07:53.560 --> 00:07:57.440
+one video hitting, or maybe two or three
+
+00:07:55.360 --> 00:07:59.240
+videos max hitting, is going to get you
+
+00:07:57.440 --> 00:08:00.520
+to 1,000 subscribers, and that's the
+
+00:07:59.240 --> 00:08:01.880
+best way to do it. And that's the way
+
+00:08:00.520 --> 00:08:03.880
+that we recommend to almost all of our
+
+00:08:01.880 --> 00:08:06.200
+clients at first. With that being said,
+
+00:08:03.880 --> 00:08:08.200
+there are three alternative ways to get
+
+00:08:06.200 --> 00:08:10.280
+to 1,000 subscribers, which are
+
+00:08:08.200 --> 00:08:11.880
+shortcuts or cheat codes, but they have
+
+00:08:10.280 --> 00:08:13.760
+their pros and their cons. Now, by the
+
+00:08:11.880 --> 00:08:16.120
+way, these are all ways that are within
+
+00:08:13.760 --> 00:08:17.560
+YouTube's terms of service. So, I want
+
+00:08:16.120 --> 00:08:20.440
+you to check out this video right here
+
+00:08:17.560 --> 00:08:22.240
+from Dan Martell, 1,000 plus hours of
+
+00:08:20.440 --> 00:08:25.600
+learning cloud in 15 minutes, beginner
+
+00:08:22.240 --> 00:08:27.919
+to pro. It got about 486,000 views, and
+
+00:08:25.600 --> 00:08:29.880
+it was posted 2 weeks ago. Now, I saw
+
+00:08:27.919 --> 00:08:31.400
+Dan Martell pop off, and I think his
+
+00:08:29.880 --> 00:08:32.680
+content's really good, but I was
+
+00:08:31.400 --> 00:08:34.440
+wondering, how in the world is he
+
+00:08:32.680 --> 00:08:36.039
+getting so many views? Is he just
+
+00:08:34.440 --> 00:08:38.719
+especially handsome? Is it something
+
+00:08:36.039 --> 00:08:40.919
+about his nice blue shirts with his
+
+00:08:38.719 --> 00:08:43.560
+muscular body, and really nice
+
+00:08:40.919 --> 00:08:45.080
+background? I I just couldn't quite see
+
+00:08:43.560 --> 00:08:46.800
+why he was getting so many views. Like,
+
+00:08:45.080 --> 00:08:48.200
+I thought his content was good, but I
+
+00:08:46.800 --> 00:08:50.080
+just didn't understand why he would be
+
+00:08:48.200 --> 00:08:52.320
+getting that many views. But then, you
+
+00:08:50.080 --> 00:08:54.680
+go to settings here, and you look at
+
+00:08:52.320 --> 00:08:57.120
+audio track, and it says 17. And
+
+00:08:54.680 --> 00:08:59.760
+basically, what that means is it is auto
+
+00:08:57.120 --> 00:09:02.320
+dubbed in many different languages. And
+
+00:08:59.760 --> 00:09:05.520
+so, a significant amount of his views on
+
+00:09:02.320 --> 00:09:07.000
+this channel are coming from
+
+00:09:05.520 --> 00:09:08.520
+the fact that the channel is auto
+
+00:09:07.000 --> 00:09:10.720
+dubbed. In fact, I would probably
+
+00:09:08.520 --> 00:09:12.880
+estimate that at least 80% of his views
+
+00:09:10.720 --> 00:09:14.839
+are coming from people outside of first
+
+00:09:12.880 --> 00:09:16.400
+world English-speaking countries. Now,
+
+00:09:14.839 --> 00:09:18.400
+there's nothing necessarily wrong with
+
+00:09:16.400 --> 00:09:19.920
+that. I'm not making fun of him, I'm not
+
+00:09:18.400 --> 00:09:21.680
+calling him out, or anything along those
+
+00:09:19.920 --> 00:09:23.280
+lines. I think this is actually smart
+
+00:09:21.680 --> 00:09:25.680
+move. What the game of YouTube is all
+
+00:09:23.280 --> 00:09:27.480
+about is getting most of the right
+
+00:09:25.680 --> 00:09:29.160
+views. And you might be thinking, "Well,
+
+00:09:27.480 --> 00:09:30.480
+Shane, most of the views he's getting
+
+00:09:29.160 --> 00:09:31.920
+are the wrong views. So, what in the
+
+00:09:30.480 --> 00:09:34.080
+world are you talking about?" Well,
+
+00:09:31.920 --> 00:09:36.280
+there's a very powerful concept called
+
+00:09:34.080 --> 00:09:38.800
+social proof. And when you click on a
+
+00:09:36.280 --> 00:09:41.120
+video, and you see that 400,000 other
+
+00:09:38.800 --> 00:09:42.720
+people watch the video, you're just more
+
+00:09:41.120 --> 00:09:44.520
+likely to actually watch the video
+
+00:09:42.720 --> 00:09:46.960
+yourself than if you click on a video
+
+00:09:44.520 --> 00:09:48.560
+and you see that 17 people watched it.
+
+00:09:46.960 --> 00:09:50.280
+And when you're watching a channel and
+
+00:09:48.560 --> 00:09:52.560
+it has, let's just say 100,000
+
+00:09:50.280 --> 00:09:54.000
+subscribers or 2.8 million subscribers
+
+00:09:52.560 --> 00:09:55.680
+like in his case, you're much more
+
+00:09:54.000 --> 00:09:57.400
+likely to actually give the channel a
+
+00:09:55.680 --> 00:09:58.960
+chance and watch the videos than if you
+
+00:09:57.400 --> 00:10:00.760
+click on a channel that has 50
+
+00:09:58.960 --> 00:10:02.720
+subscribers. So, social proof is an
+
+00:10:00.760 --> 00:10:05.920
+incredibly powerful concept and this
+
+00:10:02.720 --> 00:10:07.280
+clearly gives a lot of social proof. And
+
+00:10:05.920 --> 00:10:09.040
+so, I think it's a really smart move for
+
+00:10:07.280 --> 00:10:11.240
+him to do this, but I don't think it's
+
+00:10:09.040 --> 00:10:13.360
+right for everybody. This is definitely
+
+00:10:11.240 --> 00:10:15.560
+a case-by-case basis because there are
+
+00:10:13.360 --> 00:10:17.240
+downsides to doing this. The main one is
+
+00:10:15.560 --> 00:10:19.120
+80% of the audience you attract is
+
+00:10:17.240 --> 00:10:20.680
+probably not going to be people that are
+
+00:10:19.120 --> 00:10:22.640
+ever going to be able to buy anything
+
+00:10:20.680 --> 00:10:24.440
+that you have to offer. But, let's just
+
+00:10:22.640 --> 00:10:26.360
+say he posted this video and this
+
+00:10:24.440 --> 00:10:28.440
+channel in general just didn't do this,
+
+00:10:26.360 --> 00:10:30.280
+but he posted this video without having
+
+00:10:28.440 --> 00:10:32.120
+all those audio tracks on, he probably
+
+00:10:30.280 --> 00:10:34.240
+would have gotten significantly less
+
+00:10:32.120 --> 00:10:36.280
+views. Let's just say maybe 40,000
+
+00:10:34.240 --> 00:10:37.800
+views. But, because of the fact that he
+
+00:10:36.280 --> 00:10:40.800
+posted this video with those audio
+
+00:10:37.800 --> 00:10:43.040
+tracks on, he got 486,000 views and he
+
+00:10:40.800 --> 00:10:45.800
+probably got like maybe 80,000 or maybe
+
+00:10:43.040 --> 00:10:47.800
+100,000 of the right people to view his
+
+00:10:45.800 --> 00:10:49.160
+channel because of the extra social
+
+00:10:47.800 --> 00:10:50.680
+proof. Now, by the way, if you want to
+
+00:10:49.160 --> 00:10:53.600
+know how to turn this on, you really
+
+00:10:50.680 --> 00:10:55.600
+need to do it upon upload of a video and
+
+00:10:53.600 --> 00:10:57.560
+we are recommending this method to a
+
+00:10:55.600 --> 00:11:00.400
+decent amount of our community members
+
+00:10:57.560 --> 00:11:01.760
+now. But again, this is not a 100% it
+
+00:11:00.400 --> 00:11:04.560
+works in every single case type of
+
+00:11:01.760 --> 00:11:06.680
+method. You typically want to pick ideas
+
+00:11:04.560 --> 00:11:08.680
+or topics where it would be interesting
+
+00:11:06.680 --> 00:11:11.120
+to an international audience, which
+
+00:11:08.680 --> 00:11:12.800
+obviously talking about AI is something
+
+00:11:11.120 --> 00:11:15.160
+that is interesting to an international
+
+00:11:12.800 --> 00:11:17.040
+audience. Okay, next method of getting
+
+00:11:15.160 --> 00:11:18.520
+to 1,000 subscribers fast is probably
+
+00:11:17.040 --> 00:11:20.120
+one that you know about already and that
+
+00:11:18.520 --> 00:11:22.000
+is to simply just post a bunch of
+
+00:11:20.120 --> 00:11:23.800
+shorts. So, there are definitely
+
+00:11:22.000 --> 00:11:25.280
+downsides of doing this. There are
+
+00:11:23.800 --> 00:11:27.520
+countless amounts of videos from people
+
+00:11:25.280 --> 00:11:29.680
+basically saying that shorts actually
+
+00:11:27.520 --> 00:11:31.600
+ruined their long-form content or shorts
+
+00:11:29.680 --> 00:11:33.880
+were just a a waste of time and on and
+
+00:11:31.600 --> 00:11:35.520
+on and on. And for the most part, I kind
+
+00:11:33.880 --> 00:11:36.920
+of agree. I think that that same amount
+
+00:11:35.520 --> 00:11:38.400
+of time that you put into shorts, if you
+
+00:11:36.920 --> 00:11:39.920
+just would have put that into long-form
+
+00:11:38.400 --> 00:11:41.320
+content instead, or just, you know,
+
+00:11:39.920 --> 00:11:43.040
+working twice as hard on long-form
+
+00:11:41.320 --> 00:11:44.560
+content instead of doing half shorts,
+
+00:11:43.040 --> 00:11:46.120
+half long-form, you would have gotten a
+
+00:11:44.560 --> 00:11:48.600
+lot more out of it. With that being
+
+00:11:46.120 --> 00:11:51.080
+said, there is an argument to be made
+
+00:11:48.600 --> 00:11:54.320
+again, just for social proof, to get to
+
+00:11:51.080 --> 00:11:56.160
+a few thousand subscribers using shorts,
+
+00:11:54.320 --> 00:11:57.760
+and then kind of taper off of the shorts
+
+00:11:56.160 --> 00:12:00.320
+and just start posting long-form. With
+
+00:11:57.760 --> 00:12:03.000
+that being said, generally speaking, and
+
+00:12:00.320 --> 00:12:04.600
+probably about 99% of cases, your
+
+00:12:03.000 --> 00:12:06.400
+short-form audience is going to be very
+
+00:12:04.600 --> 00:12:08.160
+different than your long-form audience,
+
+00:12:06.400 --> 00:12:09.800
+and you're going to struggle to break
+
+00:12:08.160 --> 00:12:12.400
+through from short-form to long-form.
+
+00:12:09.800 --> 00:12:14.440
+Typically, the people that do well are
+
+00:12:12.400 --> 00:12:15.680
+people where their short-form audience
+
+00:12:14.440 --> 00:12:17.560
+and their long-form audience are just
+
+00:12:15.680 --> 00:12:18.480
+simply different. Right? So, it's almost
+
+00:12:17.560 --> 00:12:20.480
+like you're growing two different
+
+00:12:18.480 --> 00:12:23.440
+platforms at once. There are notable
+
+00:12:20.480 --> 00:12:26.120
+exceptions, such as Law By Mike. So, Law
+
+00:12:23.440 --> 00:12:28.520
+By Mike is somebody who originally kind
+
+00:12:26.120 --> 00:12:30.280
+of popped off with short-form content,
+
+00:12:28.520 --> 00:12:31.840
+and he did a really good job of doing
+
+00:12:30.280 --> 00:12:33.880
+that, and he got millions and millions
+
+00:12:31.840 --> 00:12:35.760
+of subscribers, and then lately he has
+
+00:12:33.880 --> 00:12:38.320
+been posting a lot more long-form
+
+00:12:35.760 --> 00:12:39.760
+content and having a ton of success with
+
+00:12:38.320 --> 00:12:41.440
+it. Right? All of his videos are doing
+
+00:12:39.760 --> 00:12:43.280
+like a million views plus, and he's
+
+00:12:41.440 --> 00:12:45.040
+crushing it. And that is because, in my
+
+00:12:43.280 --> 00:12:47.160
+opinion, without getting too much into
+
+00:12:45.040 --> 00:12:49.240
+the details, the value proposition of
+
+00:12:47.160 --> 00:12:50.520
+his shorts are almost exactly the same
+
+00:12:49.240 --> 00:12:52.440
+as the value proposition of his
+
+00:12:50.520 --> 00:12:54.080
+long-form content, which is great. So,
+
+00:12:52.440 --> 00:12:55.720
+this is an option for some people as
+
+00:12:54.080 --> 00:12:58.400
+well, and we do recommend this to
+
+00:12:55.720 --> 00:13:01.280
+certain people. All right. So, the next
+
+00:12:58.400 --> 00:13:02.920
+option is what's known as promotions.
+
+00:13:01.280 --> 00:13:05.400
+So, this is where you take one of your
+
+00:13:02.920 --> 00:13:08.120
+videos and you promote it, and you get
+
+00:13:05.400 --> 00:13:09.800
+subscribers from doing that. So, you can
+
+00:13:08.120 --> 00:13:11.160
+see here, of course, I've messed around
+
+00:13:09.800 --> 00:13:12.920
+with this. I've tested this out a little
+
+00:13:11.160 --> 00:13:14.240
+bit. I have a big channel, so it doesn't
+
+00:13:12.920 --> 00:13:15.680
+really matter to me, but I messed around
+
+00:13:14.240 --> 00:13:18.040
+and tested it out. And you can see I
+
+00:13:15.680 --> 00:13:20.880
+paid about $200, and I would get about
+
+00:13:18.040 --> 00:13:22.800
+2,000 subscribers, in fact, 2,600. And
+
+00:13:20.880 --> 00:13:24.960
+pretty consistently across almost all of
+
+00:13:22.800 --> 00:13:26.440
+these videos, I got about 2,000
+
+00:13:24.960 --> 00:13:28.720
+subscribers. So, I only tested it out
+
+00:13:26.440 --> 00:13:30.640
+about, I think, 12 times overall. But,
+
+00:13:28.720 --> 00:13:33.280
+yeah, pretty consistently I would get
+
+00:13:30.640 --> 00:13:35.520
+2,000 subscribers across all these
+
+00:13:33.280 --> 00:13:37.040
+videos that I spent about $200 on. And
+
+00:13:35.520 --> 00:13:38.680
+this is a way of getting your
+
+00:13:37.040 --> 00:13:40.240
+subscribers up a little bit as well, and
+
+00:13:38.680 --> 00:13:42.560
+also boosting your videos just a little
+
+00:13:40.240 --> 00:13:44.040
+bit. Now, there are downsides to this
+
+00:13:42.560 --> 00:13:45.480
+method, too. Just like all of the other
+
+00:13:44.040 --> 00:13:47.120
+methods, there are downsides. It's not
+
+00:13:45.480 --> 00:13:48.600
+just pure good with no downside, right?
+
+00:13:47.120 --> 00:13:49.720
+First thing is, it costs money. So,
+
+00:13:48.600 --> 00:13:50.720
+you're probably going to have to spend a
+
+00:13:49.720 --> 00:13:52.600
+little bit of money to get those
+
+00:13:50.720 --> 00:13:54.120
+subscribers. Second thing is, these are
+
+00:13:52.600 --> 00:13:56.040
+not going to be very dedicated
+
+00:13:54.120 --> 00:13:57.440
+subscribers. Now, these are real people.
+
+00:13:56.040 --> 00:13:59.080
+These are not like fake subscribers.
+
+00:13:57.440 --> 00:14:00.560
+They are sending real people to your
+
+00:13:59.080 --> 00:14:03.040
+channel, but they're not going to be
+
+00:14:00.560 --> 00:14:05.440
+especially dedicated subscribers,
+
+00:14:03.040 --> 00:14:07.440
+because they saw your channel pop up via
+
+00:14:05.440 --> 00:14:09.120
+an ad, right? So, it's always going to
+
+00:14:07.440 --> 00:14:11.400
+be a little bit different than someone
+
+00:14:09.120 --> 00:14:13.240
+who saw your channel pop up organically.
+
+00:14:11.400 --> 00:14:15.000
+With that being said, again, in the
+
+00:14:13.240 --> 00:14:16.480
+right situation, for the right channel,
+
+00:14:15.000 --> 00:14:17.880
+this can work out really well, because
+
+00:14:16.480 --> 00:14:20.280
+you're basically just promoting your
+
+00:14:17.880 --> 00:14:22.000
+video to the exact audience that you
+
+00:14:20.280 --> 00:14:23.320
+want to attract with your video. Now,
+
+00:14:22.000 --> 00:14:24.960
+there's a way of doing this, the simple
+
+00:14:23.320 --> 00:14:26.720
+way is to just do it within promotions.
+
+00:14:24.960 --> 00:14:28.680
+More complicated way, if you want to get
+
+00:14:26.720 --> 00:14:31.200
+really detailed with the targeting, is
+
+00:14:28.680 --> 00:14:33.080
+to actually go into Google AdWords,
+
+00:14:31.200 --> 00:14:34.960
+which is the company that owns YouTube,
+
+00:14:33.080 --> 00:14:36.800
+and run ads directly in there. That is
+
+00:14:34.960 --> 00:14:38.480
+another way of really getting the right
+
+00:14:36.800 --> 00:14:40.280
+people to watch your channel and
+
+00:14:38.480 --> 00:14:42.040
+subscribe to your channel. Now, do you
+
+00:14:40.280 --> 00:14:44.560
+have to do any of these three methods?
+
+00:14:42.040 --> 00:14:45.839
+Absolutely not. The vast majority of
+
+00:14:44.560 --> 00:14:47.880
+people in my community that have gotten
+
+00:14:45.839 --> 00:14:50.160
+results have not done these methods.
+
+00:14:47.880 --> 00:14:51.720
+But, with that being said, these can
+
+00:14:50.160 --> 00:14:53.640
+probably help you get there a little bit
+
+00:14:51.720 --> 00:14:55.360
+faster if, again, it's the right
+
+00:14:53.640 --> 00:14:57.160
+situation and the right person. And
+
+00:14:55.360 --> 00:14:58.600
+that's where having a proper strategy
+
+00:14:57.160 --> 00:15:00.000
+comes into play. And that's exactly what
+
+00:14:58.600 --> 00:15:01.520
+I want to talk about doing in this
+
+00:15:00.000 --> 00:15:02.560
+week's live training. So, again, attend
+
+00:15:01.520 --> 00:15:03.400
+that by clicking the link down in the
+
+00:15:02.560 --> 00:15:05.040
+description and the pinned comment
+
+00:15:03.400 --> 00:15:07.000
+below. And I know 99% of you are just
+
+00:15:05.040 --> 00:15:08.480
+going to watch my videos, get a ton of
+
+00:15:07.000 --> 00:15:09.920
+value from them, you're going to attend
+
+00:15:08.480 --> 00:15:11.560
+my live trainings, get a ton of value
+
+00:15:09.920 --> 00:15:13.280
+from that, and we are never going to end
+
+00:15:11.560 --> 00:15:15.560
+up working together one-on-one. And that
+
+00:15:13.280 --> 00:15:16.960
+is completely fine. I always want to
+
+00:15:15.560 --> 00:15:18.839
+give 100 times more value than I
+
+00:15:16.960 --> 00:15:20.440
+receive. With that being said, there is
+
+00:15:18.839 --> 00:15:22.720
+going to be 1% of you out there, maybe
+
+00:15:20.440 --> 00:15:24.600
+0.1% of you out there, that want that
+
+00:15:22.720 --> 00:15:26.160
+one-on-one attention, right? You either
+
+00:15:24.600 --> 00:15:27.960
+want one-on-one mentorship or you want
+
+00:15:26.160 --> 00:15:29.920
+us to literally just do the work for
+
+00:15:27.960 --> 00:15:31.040
+you. If that sounds like you, go ahead
+
+00:15:29.920 --> 00:15:32.480
+and click the second link in the
+
+00:15:31.040 --> 00:15:33.800
+description in the pinned comment below
+
+00:15:32.480 --> 00:15:35.120
+to book a call with the team. We are
+
+00:15:33.800 --> 00:15:36.560
+very limited in the amount of people
+
+00:15:35.120 --> 00:15:38.680
+that we can work with one-on-one. We
+
+00:15:36.560 --> 00:15:39.960
+accept less than 18% of people who apply
+
+00:15:38.680 --> 00:15:41.240
+and we're only accepting five people
+
+00:15:39.960 --> 00:15:42.640
+right now. With that being said, if you
+
+00:15:41.240 --> 00:15:44.080
+want help growing your YouTube channel,
+
+00:15:42.640 --> 00:15:45.640
+growing your personal brand, and coming
+
+00:15:44.080 --> 00:15:47.320
+up with a strategy to monetize it, well,
+
+00:15:45.640 --> 00:15:48.520
+that's exactly what we help people do.
+
+00:15:47.320 --> 00:15:50.640
+The typical people that we help are
+
+00:15:48.520 --> 00:15:52.440
+going to be business owners both online
+
+00:15:50.640 --> 00:15:54.280
+and in-person. Typically, these are
+
+00:15:52.440 --> 00:15:56.000
+business owners that get clients, but
+
+00:15:54.280 --> 00:15:57.040
+also we help YouTubers who are getting a
+
+00:15:56.000 --> 00:15:59.120
+lot of views but struggling with
+
+00:15:57.040 --> 00:16:00.320
+monetization. We also help YouTubers
+
+00:15:59.120 --> 00:16:01.880
+that are crushing it but they want to
+
+00:16:00.320 --> 00:16:03.440
+crush it even harder. And we help people
+
+00:16:01.880 --> 00:16:05.240
+who are experts or people who are very
+
+00:16:03.440 --> 00:16:06.800
+experienced in their careers, typically
+
+00:16:05.240 --> 00:16:08.680
+on the older side, and they have a lot
+
+00:16:06.800 --> 00:16:10.280
+of value to give to the world, right? we
+
+00:16:08.680 --> 00:16:11.600
+only work with educational channels, we
+
+00:16:10.280 --> 00:16:12.880
+don't work with entertainment channels.
+
+00:16:11.600 --> 00:16:13.840
+But if that sounds like you, go ahead
+
+00:16:12.880 --> 00:16:15.360
+click that link in the description in
+
+00:16:13.840 --> 00:16:16.320
+the pinned comment below to book a call
+
+00:16:15.360 --> 00:16:17.480
+and we look forward to talking to you
+
+00:16:16.320 --> 00:16:19.280
+there. With that being said, check out
+
+00:16:17.480 --> 00:16:20.400
+this video right here on exactly how we
+
+00:16:19.280 --> 00:16:22.160
+were able to help my brother Zach's
+
+00:16:20.400 --> 00:16:26.760
+channel grow from zero to 1,000
+
+00:16:22.160 --> 00:16:26.760
+subscribers in less than 19 days.
+

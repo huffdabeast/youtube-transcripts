@@ -1,0 +1,1016 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.800
+It's already done. What the crap? Oh my
+
+00:00:01.880 --> 00:00:07.040
+gosh, it works. That's crazy.
+
+00:00:04.800 --> 00:00:08.280
+Okay, that was very easy. Oh jeez.
+
+00:00:07.040 --> 00:00:09.800
+>> It's an AI tool that goes out and
+
+00:00:08.280 --> 00:00:11.800
+actually does stuff for you and not just
+
+00:00:09.800 --> 00:00:13.360
+returns answers to you. We have a
+
+00:00:11.800 --> 00:00:15.360
+sellable product here. That was one
+
+00:00:13.360 --> 00:00:16.960
+prompt. It just built this for me.
+
+00:00:15.360 --> 00:00:19.600
+Freaking [music] incredible. Now I need
+
+00:00:16.960 --> 00:00:19.600
+to sell it.
+
+00:00:20.640 --> 00:00:24.080
+Everyone's talking about AI agents and
+
+00:00:22.560 --> 00:00:26.000
+lately they have all been talking about
+
+00:00:24.080 --> 00:00:28.240
+Grok Bot, which is the tool built on
+
+00:00:26.000 --> 00:00:29.760
+Grok, which is like ChatGPT and Claude,
+
+00:00:28.240 --> 00:00:31.480
+that will go out and do stuff for you.
+
+00:00:29.760 --> 00:00:33.840
+So today I'm going to find out is the
+
+00:00:31.480 --> 00:00:36.640
+hype real? Is it not? Can I build and
+
+00:00:33.840 --> 00:00:38.720
+code a sellable software product without
+
+00:00:36.640 --> 00:00:40.800
+any coding knowledge in less than an
+
+00:00:38.720 --> 00:00:42.920
+hour? I want to build a Chrome extension
+
+00:00:40.800 --> 00:00:44.880
+and an app, a Mac app specifically, for
+
+00:00:42.920 --> 00:00:47.000
+something that I need solved. I've never
+
+00:00:44.880 --> 00:00:48.280
+touched Grok Bot in my life. Today we're
+
+00:00:47.000 --> 00:00:49.640
+going to see if we can do it and I'm
+
+00:00:48.280 --> 00:00:51.400
+going to share my screen and show you
+
+00:00:49.640 --> 00:00:53.000
+exactly how to do it too because let's
+
+00:00:51.400 --> 00:00:55.280
+get real. None of us really know how to
+
+00:00:53.000 --> 00:00:56.840
+code. Let's dive in. Okay, so I just got
+
+00:00:55.280 --> 00:00:58.920
+out of massage and during the massage I
+
+00:00:56.840 --> 00:01:01.160
+of course didn't have my phone so I of
+
+00:00:58.920 --> 00:01:02.520
+course was able to think and I was
+
+00:01:01.160 --> 00:01:05.199
+thinking about Grok Bot, believe it or
+
+00:01:02.520 --> 00:01:06.600
+not. And I was wondering what I could
+
+00:01:05.199 --> 00:01:08.280
+do. I've never used Grok Bot before.
+
+00:01:06.600 --> 00:01:09.720
+This is not sponsored by Grok Bot. This
+
+00:01:08.280 --> 00:01:12.880
+is just me wanting to try the new AI
+
+00:01:09.720 --> 00:01:14.920
+thing. So, Grok Bot is an agentic AI
+
+00:01:12.880 --> 00:01:16.120
+tool. In other words, it's an AI tool
+
+00:01:14.920 --> 00:01:17.880
+that goes out and actually does stuff
+
+00:01:16.120 --> 00:01:19.800
+for you and not just returns answers to
+
+00:01:17.880 --> 00:01:21.080
+you. So, some of my best videos have
+
+00:01:19.800 --> 00:01:22.640
+been the ones where I'm out and about
+
+00:01:21.080 --> 00:01:23.880
+doing something. I get a business idea
+
+00:01:22.640 --> 00:01:25.400
+and then instead of just building it, I
+
+00:01:23.880 --> 00:01:26.600
+build it on screen. So that's what this
+
+00:01:25.400 --> 00:01:28.240
+is going to be today. I'm downloading
+
+00:01:26.600 --> 00:01:30.520
+Grok Bot for the first time ever. Here's
+
+00:01:28.240 --> 00:01:32.800
+the business idea that I had. So, I want
+
+00:01:30.520 --> 00:01:34.160
+to build a product that does not exist.
+
+00:01:32.800 --> 00:01:35.560
+I want to build it for myself cuz I
+
+00:01:34.160 --> 00:01:37.360
+think this will help me be more
+
+00:01:35.560 --> 00:01:38.640
+productive. But I think I could also
+
+00:01:37.360 --> 00:01:39.680
+sell it. I could sell access to it. I
+
+00:01:38.640 --> 00:01:41.520
+think other people would find it
+
+00:01:39.680 --> 00:01:43.560
+productive. So, you maybe heard of the
+
+00:01:41.520 --> 00:01:45.920
+concept of time boxing, right? A lot of
+
+00:01:43.560 --> 00:01:47.760
+successful people time box. They
+
+00:01:45.920 --> 00:01:49.960
+literally go to their calendar and say,
+
+00:01:47.760 --> 00:01:51.880
+you know, 7:00 a.m. to 8:00 a.m.
+
+00:01:49.960 --> 00:01:53.680
+meditation, 8:00 a.m. to 9:00 a.m.
+
+00:01:51.880 --> 00:01:55.560
+emails, 9:00 a.m. to 10:00 a.m. They
+
+00:01:53.680 --> 00:01:57.080
+schedule and plan out their their entire
+
+00:01:55.560 --> 00:01:58.840
+day so they're more productive. Not my
+
+00:01:57.080 --> 00:02:01.240
+thing, but it's hard for me to be
+
+00:01:58.840 --> 00:02:03.400
+accountable to a calendar event that no
+
+00:02:01.240 --> 00:02:05.320
+other human is a part of, right? Whereas
+
+00:02:03.400 --> 00:02:06.760
+if I put money into something, I will be
+
+00:02:05.320 --> 00:02:08.600
+accountable to it. I will do that thing.
+
+00:02:06.760 --> 00:02:11.600
+But that's not what this idea is. My
+
+00:02:08.600 --> 00:02:14.000
+idea is to lock me out of my inbox for
+
+00:02:11.600 --> 00:02:16.040
+the majority of the day, so I have to
+
+00:02:14.000 --> 00:02:17.880
+get caught up on my emails in a specific
+
+00:02:16.040 --> 00:02:19.720
+time frame. So it's like forced time
+
+00:02:17.880 --> 00:02:20.880
+boxing, right? As opposed to like, "Oh,
+
+00:02:19.720 --> 00:02:22.480
+I put it in my calendar, so now I'm
+
+00:02:20.880 --> 00:02:24.959
+going to do it." No, you won't. I won't.
+
+00:02:22.480 --> 00:02:26.959
+You won't. So originally, this was going
+
+00:02:24.959 --> 00:02:29.400
+to be an app that locked everything on
+
+00:02:26.959 --> 00:02:31.600
+my computer except for my mail app or
+
+00:02:29.400 --> 00:02:33.400
+gmail.com. That way, while working
+
+00:02:31.600 --> 00:02:34.880
+during the work day, I was forced to get
+
+00:02:33.400 --> 00:02:36.360
+caught up on my emails during that time.
+
+00:02:34.880 --> 00:02:37.600
+I couldn't get distracted, browse
+
+00:02:36.360 --> 00:02:39.280
+Twitter, whatever. But I don't really
+
+00:02:37.600 --> 00:02:42.760
+like that. So instead, I'm going to do
+
+00:02:39.280 --> 00:02:46.200
+the opposite, and I'm going to lock down
+
+00:02:42.760 --> 00:02:48.240
+gmail.com and my mail app for 90 plus
+
+00:02:46.200 --> 00:02:49.760
+percent of the time, 95 plus percent of
+
+00:02:48.240 --> 00:02:51.320
+the time. On some days, it will be
+
+00:02:49.760 --> 00:02:53.520
+completely locked, like on the weekend,
+
+00:02:51.320 --> 00:02:56.080
+so I don't work, but during the week, it
+
+00:02:53.520 --> 00:02:58.080
+will be unlocked. It will be usable
+
+00:02:56.080 --> 00:02:59.720
+until like 10:00 a.m. That way, I will
+
+00:02:58.080 --> 00:03:00.800
+feel pressure to get caught up on all my
+
+00:02:59.720 --> 00:03:02.239
+emails cuz that's something that I
+
+00:03:00.800 --> 00:03:03.760
+struggle to do. That way, I have to
+
+00:03:02.239 --> 00:03:05.040
+finish my emails until 10:00, or else I
+
+00:03:03.760 --> 00:03:07.640
+won't get another shot until the next
+
+00:03:05.040 --> 00:03:09.519
+day. I think that pressure will force me
+
+00:03:07.640 --> 00:03:11.000
+to be more productive. And I can use
+
+00:03:09.519 --> 00:03:13.440
+this app for other things, not just
+
+00:03:11.000 --> 00:03:14.800
+email, but for making sure that I just
+
+00:03:13.440 --> 00:03:16.640
+do what I need to do on the computer.
+
+00:03:14.800 --> 00:03:18.440
+Like it will literally block certain
+
+00:03:16.640 --> 00:03:20.600
+websites or certain apps. So either I
+
+00:03:18.440 --> 00:03:22.600
+have to stay in there, or I can only use
+
+00:03:20.600 --> 00:03:24.239
+it for a defined period of time. Hey,
+
+00:03:22.600 --> 00:03:25.800
+please subscribe to this channel if
+
+00:03:24.239 --> 00:03:27.959
+you're enjoying this content because it
+
+00:03:25.800 --> 00:03:29.640
+takes a lot of work. So, thank you. So,
+
+00:03:27.959 --> 00:03:31.959
+I could vibe code this, but I want
+
+00:03:29.640 --> 00:03:33.800
+GrokBot to vibe code it for me because I
+
+00:03:31.959 --> 00:03:35.880
+just had this conversation with Billy,
+
+00:03:33.800 --> 00:03:37.040
+and he's a GrokBot expert, and he said
+
+00:03:35.880 --> 00:03:38.840
+he's never tried it. He's never had
+
+00:03:37.040 --> 00:03:40.920
+GrokBot go into rep it for him, prompt
+
+00:03:38.840 --> 00:03:42.480
+it for him, and then fix it, test the
+
+00:03:40.920 --> 00:03:44.040
+website, test the software, look at the
+
+00:03:42.480 --> 00:03:46.519
+code, test it back and forth, cuz that's
+
+00:03:44.040 --> 00:03:48.519
+the hardest and most tedious part of
+
+00:03:46.519 --> 00:03:50.200
+vibe coding something is getting it to
+
+00:03:48.519 --> 00:03:51.920
+being perfect, or close enough to
+
+00:03:50.200 --> 00:03:53.400
+perfect to sell the thing or to use the
+
+00:03:51.920 --> 00:03:55.320
+thing yourself. So, that's what I'm
+
+00:03:53.400 --> 00:03:59.040
+going to do here. Okay, I'm installing
+
+00:03:55.320 --> 00:04:01.080
+Grokbot. Okay. Okay. All right, it wants
+
+00:03:59.040 --> 00:04:02.960
+me to connect a bunch of stuff. I don't
+
+00:04:01.080 --> 00:04:05.040
+want it to do a bunch of stuff. Billy
+
+00:04:02.960 --> 00:04:07.160
+said, my friend Billy said that you want
+
+00:04:05.040 --> 00:04:09.200
+to treat Grokbot like an employee,
+
+00:04:07.160 --> 00:04:10.720
+right? A good boss, and I'm not saying
+
+00:04:09.200 --> 00:04:12.560
+I'm good to boss cuz I'm not very good
+
+00:04:10.720 --> 00:04:14.000
+at doing this. A good boss does not tell
+
+00:04:12.560 --> 00:04:15.320
+an employee, "Do this. Now try this. Do
+
+00:04:14.000 --> 00:04:16.400
+this. Do this. Do this. Do this. Try
+
+00:04:15.320 --> 00:04:18.600
+this work project. Work on that
+
+00:04:16.400 --> 00:04:20.519
+project." I do that. It's not good. A
+
+00:04:18.600 --> 00:04:22.160
+good boss says, "This is your job. Just
+
+00:04:20.519 --> 00:04:24.400
+do this. Just focus on this." That's
+
+00:04:22.160 --> 00:04:25.480
+what I'm going to do here. So, I'm not
+
+00:04:24.400 --> 00:04:27.800
+going to connect it to any of this
+
+00:04:25.480 --> 00:04:29.720
+stuff. Okay. Now, I'm going to go into
+
+00:04:27.800 --> 00:04:31.440
+Claude, and I want Claude to know what
+
+00:04:29.720 --> 00:04:33.040
+I'm doing. All right, here's my prompt.
+
+00:04:31.440 --> 00:04:34.720
+I'm going to use Grokbot to code an app
+
+00:04:33.040 --> 00:04:36.560
+for me that I can use myself and
+
+00:04:34.720 --> 00:04:38.240
+eventually sell. I want to prompt
+
+00:04:36.560 --> 00:04:39.800
+Grokbot to go into my Replit account to
+
+00:04:38.240 --> 00:04:42.000
+build this for me. Not just build it,
+
+00:04:39.800 --> 00:04:43.760
+but build, test, fix, build, test, fix
+
+00:04:42.000 --> 00:04:45.919
+over and over until it's ready. The app
+
+00:04:43.760 --> 00:04:48.040
+needs to allow me to open windows
+
+00:04:45.919 --> 00:04:50.320
+of time where my Mac Mail app plus
+
+00:04:48.040 --> 00:04:51.480
+gmail.com is only accessible from 5:00
+
+00:04:50.320 --> 00:04:52.400
+a.m. to 10:00 a.m. every day of the
+
+00:04:51.480 --> 00:04:54.120
+week.
+
+00:04:52.400 --> 00:04:56.160
+Outside of those hours, I cannot visit
+
+00:04:54.120 --> 00:04:58.800
+either Gmail inside my Arc / Chrome
+
+00:04:56.160 --> 00:05:00.760
+browser or even open my mail app. This
+
+00:04:58.800 --> 00:05:02.360
+is intended to force me to get to inbox
+
+00:05:00.760 --> 00:05:04.160
+zero every morning since this will be my
+
+00:05:02.360 --> 00:05:05.680
+only opportunity. I can unlock this lock
+
+00:05:04.160 --> 00:05:07.000
+with a password, but ideally only what
+
+00:05:05.680 --> 00:05:08.360
+my wife knows this. I guess it needs to
+
+00:05:07.000 --> 00:05:11.240
+function like a Mac app or a Chrome
+
+00:05:08.360 --> 00:05:12.800
+extension or both, but Grokbot needs to
+
+00:05:11.240 --> 00:05:14.280
+first build a workable version of this
+
+00:05:12.800 --> 00:05:15.760
+that I can use for myself and ultimately
+
+00:05:14.280 --> 00:05:18.200
+build a website and sell this app as a
+
+00:05:15.760 --> 00:05:19.400
+SaaS on this website using my Stripe API
+
+00:05:18.200 --> 00:05:20.720
+and anything else it needs. Write a
+
+00:05:19.400 --> 00:05:22.160
+beautiful prompt that is Grokbot
+
+00:05:20.720 --> 00:05:23.800
+friendly using all the technical coding
+
+00:05:22.160 --> 00:05:25.360
+terms I know nothing about so I can just
+
+00:05:23.800 --> 00:05:26.840
+build this with as little intervention
+
+00:05:25.360 --> 00:05:28.760
+from me as possible. It is okay to
+
+00:05:26.840 --> 00:05:30.320
+approve any and all Replit overages and
+
+00:05:28.760 --> 00:05:32.080
+charges without my approval not
+
+00:05:30.320 --> 00:05:33.440
+exceeding $100 a day. I really don't
+
+00:05:32.080 --> 00:05:35.240
+want to mess with this. Grokbot needs to
+
+00:05:33.440 --> 00:05:36.800
+keep testing the app for bugs and asking
+
+00:05:35.240 --> 00:05:39.040
+Replit to fix it over and over. Go.
+
+00:05:36.800 --> 00:05:41.080
+Okay, push back from Claude. The blocker
+
+00:05:39.040 --> 00:05:42.880
+has to live on your Mac. Yes, Replit
+
+00:05:41.080 --> 00:05:44.880
+builds web apps. A website can never
+
+00:05:42.880 --> 00:05:46.880
+force quit your mail app. So, the real
+
+00:05:44.880 --> 00:05:49.360
+build is a Mac menu bar app plus a
+
+00:05:46.880 --> 00:05:50.960
+browser extension. Two things an AI
+
+00:05:49.360 --> 00:05:53.000
+agent physically cannot do for you,
+
+00:05:50.960 --> 00:05:54.680
+create your Apple developer account and
+
+00:05:53.000 --> 00:05:56.800
+your Chrome Web Store dev account.
+
+00:05:54.680 --> 00:05:59.840
+Budget 20 minutes total for those. Test
+
+00:05:56.800 --> 00:06:02.560
+the habit first for $0. It's structured
+
+00:05:59.840 --> 00:06:04.560
+in phases with an autonomous build test
+
+00:06:02.560 --> 00:06:06.120
+fix. Okay, so I don't know what any of
+
+00:06:04.560 --> 00:06:07.280
+this stuff means, but I'm going to try
+
+00:06:06.120 --> 00:06:09.320
+it. We're going to copy it. We're going
+
+00:06:07.280 --> 00:06:11.280
+to go back to GrokBot. Claude named it
+
+00:06:09.320 --> 00:06:12.920
+Morning Lock, so we'll just we'll go
+
+00:06:11.280 --> 00:06:15.360
+with that even though I don't like it.
+
+00:06:12.920 --> 00:06:16.960
+Okay, there's the prompt. Okay. So it's
+
+00:06:15.360 --> 00:06:18.560
+working. Ask me for anything you need so
+
+00:06:16.960 --> 00:06:20.520
+I can walk away and be confident you can
+
+00:06:18.560 --> 00:06:22.720
+work uninterrupted. Credit card number,
+
+00:06:20.520 --> 00:06:25.040
+logins, etc. Okay, we're going to
+
+00:06:22.720 --> 00:06:28.880
+authorize Stripe. Uh we're going to go
+
+00:06:25.040 --> 00:06:30.560
+back to Stripe test mode. Authorize.
+
+00:06:28.880 --> 00:06:33.080
+Resend.
+
+00:06:30.560 --> 00:06:35.640
+Okay, that was very easy. So it's going
+
+00:06:33.080 --> 00:06:37.440
+to do GitHub and Replit next. Okay, I'm
+
+00:06:35.640 --> 00:06:39.480
+not 100% that I'm seeing what I think
+
+00:06:37.440 --> 00:06:40.760
+I'm seeing, but it looks like extension
+
+00:06:39.480 --> 00:06:42.000
+test. That means Chrome extension. I
+
+00:06:40.760 --> 00:06:44.120
+think it's it's already building this
+
+00:06:42.000 --> 00:06:46.240
+thing in the background and it just
+
+00:06:44.120 --> 00:06:48.600
+tested 23 different things and all of
+
+00:06:46.240 --> 00:06:52.800
+them were green, so that's kind of wild.
+
+00:06:48.600 --> 00:06:55.640
+GitHub. Okay, so it says open that. Sign
+
+00:06:52.800 --> 00:06:57.360
+that device. Okay, GitHub is ready. It's
+
+00:06:55.640 --> 00:06:59.480
+already done. What the crap? Is it
+
+00:06:57.360 --> 00:07:01.919
+already done? It just put the thing in
+
+00:06:59.480 --> 00:07:03.919
+my downloads. It's right there. Okay,
+
+00:07:01.919 --> 00:07:07.040
+Mac menu bar app is Okay, so it just
+
+00:07:03.919 --> 00:07:07.040
+built a Chrome extension.
+
+00:07:10.160 --> 00:07:13.919
+Okay.
+
+00:07:11.280 --> 00:07:16.640
+Open Chrome colon slash slash
+
+00:07:13.919 --> 00:07:17.960
+extensions. Okay, there it is. Okay,
+
+00:07:16.640 --> 00:07:19.480
+those are all the domains it's going to
+
+00:07:17.960 --> 00:07:20.880
+block.
+
+00:07:19.480 --> 00:07:23.240
+Okay, there's the accountability
+
+00:07:20.880 --> 00:07:25.240
+password. Confirm and start. It already
+
+00:07:23.240 --> 00:07:26.800
+works. Oh my gosh, guys, I've only been
+
+00:07:25.240 --> 00:07:27.919
+recording this. You're seeing the edited
+
+00:07:26.800 --> 00:07:30.760
+version, but it's only been recording
+
+00:07:27.919 --> 00:07:32.280
+for 31 minutes and 37 seconds. And it's
+
+00:07:30.760 --> 00:07:33.600
+done. And then I can change the
+
+00:07:32.280 --> 00:07:34.960
+settings.
+
+00:07:33.600 --> 00:07:36.360
+It's locked right now. Oh yeah, of
+
+00:07:34.960 --> 00:07:38.080
+course it's locked. Yeah, cuz it's
+
+00:07:36.360 --> 00:07:39.520
+supposed to be locked. Oh my gosh, it
+
+00:07:38.080 --> 00:07:41.560
+works.
+
+00:07:39.520 --> 00:07:43.920
+That's crazy.
+
+00:07:41.560 --> 00:07:47.200
+But let's say, you know, today is Friday
+
+00:07:43.920 --> 00:07:48.960
+at 4:34 p.m. So, we're going to say it
+
+00:07:47.200 --> 00:07:50.400
+should be unlocked on Friday until 10:00
+
+00:07:48.960 --> 00:07:52.400
+p.m. today.
+
+00:07:50.400 --> 00:07:55.200
+Save schedule. Okay?
+
+00:07:52.400 --> 00:07:57.040
+Now, go to Gmail and it works. Change it
+
+00:07:55.200 --> 00:08:00.320
+back.
+
+00:07:57.040 --> 00:08:03.800
+Save schedule. Go back to Gmail.
+
+00:08:00.320 --> 00:08:05.320
+And it's locked. Okay.
+
+00:08:03.800 --> 00:08:06.880
+That's amazing. Look at me. I have this
+
+00:08:05.320 --> 00:08:08.840
+tweet pulled up right here. I was going
+
+00:08:06.880 --> 00:08:10.840
+to like live tweet this, but I didn't
+
+00:08:08.840 --> 00:08:13.080
+have time to hit tweet. How's the Mac
+
+00:08:10.840 --> 00:08:15.680
+app coming? Need my Replit login? Glad
+
+00:08:13.080 --> 00:08:17.360
+it's sticking. Check the Mac app. Ooh,
+
+00:08:15.680 --> 00:08:20.520
+what if I had Grokbot go into my Replit
+
+00:08:17.360 --> 00:08:24.720
+account and finish all of the projects
+
+00:08:20.520 --> 00:08:24.720
+that I have like 90% finished.
+
+00:08:25.240 --> 00:08:28.640
+Spelled it got it wrong. Whatever. All
+
+00:08:27.240 --> 00:08:32.919
+right, we're good. It's signed into
+
+00:08:28.640 --> 00:08:34.919
+Replit. It's signed into GitHub for me.
+
+00:08:32.919 --> 00:08:36.960
+GitHub is a place where you can store
+
+00:08:34.919 --> 00:08:38.159
+code. Okay, it's pizza night, so I got
+
+00:08:36.960 --> 00:08:39.440
+to step away for a minute. I'll be right
+
+00:08:38.159 --> 00:08:41.000
+back. Hey, if you want to learn how to
+
+00:08:39.440 --> 00:08:42.599
+build stuff with AI, check out
+
+00:08:41.000 --> 00:08:44.280
+playmakers.ai.com.
+
+00:08:42.599 --> 00:08:45.960
+It's my own private community where we
+
+00:08:44.280 --> 00:08:48.240
+are becoming AI consultants. We are
+
+00:08:45.960 --> 00:08:49.960
+finding paying customers paying hundreds
+
+00:08:48.240 --> 00:08:51.520
+or thousands or sometimes tens of
+
+00:08:49.960 --> 00:08:53.520
+thousands of dollars per month. We've
+
+00:08:51.520 --> 00:08:56.000
+got hundreds of hours of content, three
+
+00:08:53.520 --> 00:08:57.920
+to eight live calls with experts every
+
+00:08:56.000 --> 00:09:00.000
+week, myself included. And it's all
+
+00:08:57.920 --> 00:09:02.240
+found at playmakers.ai.com.
+
+00:09:00.000 --> 00:09:05.120
+We'll see you there. Guys, I did it. We
+
+00:09:02.240 --> 00:09:07.400
+did it together. We have a sellable
+
+00:09:05.120 --> 00:09:08.720
+product here. It's done. I I want I want
+
+00:09:07.400 --> 00:09:10.839
+to show you something real quick. Okay?
+
+00:09:08.720 --> 00:09:12.520
+Right here. Okay. So, look what happens
+
+00:09:10.839 --> 00:09:13.839
+when I click this little lock icon up
+
+00:09:12.520 --> 00:09:16.480
+here on my Mac. I think you can see
+
+00:09:13.839 --> 00:09:18.920
+that. This pops up. And I added some
+
+00:09:16.480 --> 00:09:21.760
+more features off camera because I
+
+00:09:18.920 --> 00:09:24.360
+couldn't help myself. And now it does
+
+00:09:21.760 --> 00:09:27.720
+all kinds of other things. So, unlocks
+
+00:09:24.360 --> 00:09:31.360
+my mail, but then in addition, the
+
+00:09:27.720 --> 00:09:34.640
+Chrome extension right here, okay? Look
+
+00:09:31.360 --> 00:09:37.000
+at this. It pulled in my most visited
+
+00:09:34.640 --> 00:09:39.280
+websites. That was one prompt. And I can
+
+00:09:37.000 --> 00:09:41.320
+block all of them, I can block none of
+
+00:09:39.280 --> 00:09:43.880
+them, I can block all but one. And so,
+
+00:09:41.320 --> 00:09:45.400
+hey, stop looking at YouTube Studio. So,
+
+00:09:43.880 --> 00:09:47.040
+this this could be embarrassing, right?
+
+00:09:45.400 --> 00:09:48.520
+You can see everything I look at here. I
+
+00:09:47.040 --> 00:09:51.040
+There's no editing here.
+
+00:09:48.520 --> 00:09:52.680
+RV rental websites, whatever. I can
+
+00:09:51.040 --> 00:09:54.600
+block all of these, none of these. So, I
+
+00:09:52.680 --> 00:09:56.960
+can lock in and then I can even send my
+
+00:09:54.600 --> 00:09:59.080
+password to a spouse, a loved one,
+
+00:09:56.960 --> 00:10:00.520
+whatever, so they have to be the one to
+
+00:09:59.080 --> 00:10:02.520
+unlock it for me.
+
+00:10:00.520 --> 00:10:04.200
+So, I didn't tell it how to look, what
+
+00:10:02.520 --> 00:10:06.320
+colors to use, what the user interface
+
+00:10:04.200 --> 00:10:08.320
+should look like. It just built this for
+
+00:10:06.320 --> 00:10:10.080
+me. Freaking incredible. And it works,
+
+00:10:08.320 --> 00:10:12.000
+and I'm using it. Now, I need to sell
+
+00:10:10.080 --> 00:10:13.840
+it. That's going to be on part two. So,
+
+00:10:12.000 --> 00:10:15.640
+stick around. And look, here are my
+
+00:10:13.840 --> 00:10:17.280
+prompts here. It wasn't that long. It
+
+00:10:15.640 --> 00:10:18.840
+didn't take that long. Can you have it
+
+00:10:17.280 --> 00:10:20.160
+list out all the most commonly used apps
+
+00:10:18.840 --> 00:10:22.600
+and websites on that computer and
+
+00:10:20.160 --> 00:10:24.160
+browser to make it easier for the user
+
+00:10:22.600 --> 00:10:26.040
+to block ones they struggle with. Boom,
+
+00:10:24.160 --> 00:10:28.640
+done. The icon doesn't work. Boom,
+
+00:10:26.040 --> 00:10:30.120
+fixed. Cool. Everything works. So, I
+
+00:10:28.640 --> 00:10:31.960
+don't know if this is clear or not, but
+
+00:10:30.120 --> 00:10:33.720
+this is not a sponsored video for Grok
+
+00:10:31.960 --> 00:10:35.680
+Pot. Nobody paid me to post this video.
+
+00:10:33.720 --> 00:10:37.240
+I just think this is transformative and
+
+00:10:35.680 --> 00:10:38.160
+you can profit from it. Please enjoy.
+
+00:10:37.240 --> 00:10:39.640
+Please share with a friend. And we'll
+
+00:10:38.160 --> 00:10:41.800
+see you next time on the Corner Office.
+
+00:10:39.640 --> 00:10:44.520
+>> If you or someone you know went to
+
+00:10:41.800 --> 00:10:46.520
+ChatGPT and said, "Make me money." and
+
+00:10:44.520 --> 00:10:48.440
+then it did, I want to hear from you. I
+
+00:10:46.520 --> 00:10:50.680
+want to have you on my podcast to hear
+
+00:10:48.440 --> 00:10:52.720
+your story. If it's you, great, you'll
+
+00:10:50.680 --> 00:10:54.680
+get free publicity. If it's your friend,
+
+00:10:52.720 --> 00:10:56.640
+great, I'll give you a thousand dollars
+
+00:10:54.680 --> 00:10:58.640
+for sending your friend. Send them to
+
+00:10:56.640 --> 00:11:00.080
+tko.yes.com
+
+00:10:58.640 --> 00:11:03.000
+and fill out the form and we'll have you
+
+00:11:00.080 --> 00:11:03.000
+on the podcast.
+

@@ -1,0 +1,682 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:04.800
+Did you know that 40% of home buyers speak a 
+language other than English at home? And in some  
+
+00:00:04.800 --> 00:00:10.400
+markets like Dallas, New York, LA, Miami, that 
+number is over 50%. Realtors know this, but they  
+
+00:00:10.400 --> 00:00:15.200
+can't do anything about it until now because they 
+can't leave voicemails in languages other than  
+
+00:00:15.200 --> 00:00:20.480
+English. We're going to solve that problem for 
+them and charge $200 to $500 a month to do so.  
+
+00:00:20.480 --> 00:00:26.400
+What if you could clone a realtor's voice and then 
+leave personalized voicemails in their same voice,  
+
+00:00:26.400 --> 00:00:30.800
+intonation, and style in the language of the 
+person you're calling? I'll tell you right now,  
+
+00:00:30.800 --> 00:00:34.400
+realtors are not about to figure this out for 
+their own, and they would love to pay us to  
+
+00:00:34.400 --> 00:00:38.000
+figure it out for them every single month. So, 
+today, we're going to do that. I'm going to do  
+
+00:00:41.130 --> 00:00:46.970
+realtors. I'm going to show you how to build it. 
+It's very easy. And how to sell it, also easy.
+
+00:00:49.050 --> 00:00:52.170
+Okay, so why would a realtor 
+even want this? First of all,  
+
+00:00:52.170 --> 00:00:57.450
+realtors live and die by speed and personal 
+connection. If they don't have speed to lead,  
+
+00:00:57.450 --> 00:01:02.890
+aka fastest to call back or to call a lead. 
+And they can't build a relationship of trust,  
+
+00:01:02.890 --> 00:01:07.690
+BRT, then they're not successful. This is going to 
+help them do both that because it's much easier to  
+
+00:01:07.690 --> 00:01:12.330
+build trust with someone if we identify with them, 
+if we feel like we have something in common. Even  
+
+00:01:12.330 --> 00:01:16.650
+though we're cloning a voice, the person we're 
+calling is still going to feel more welcome,  
+
+00:01:16.650 --> 00:01:21.530
+more at home, more affinity towards the realtor 
+if it's in the native language. So, right now,  
+
+00:01:21.530 --> 00:01:25.770
+if a realtor wanted to do this, they would 
+have to like fumble through Google Translate,  
+
+00:01:25.770 --> 00:01:29.930
+find another third party tool to maybe translate 
+it. It wouldn't be in their voice. It would sound  
+
+00:01:29.930 --> 00:01:34.570
+totally different. All the sayings, the the 
+pauses, the intonations, it wouldn't be the  
+
+00:01:34.570 --> 00:01:39.210
+same. It would just sound off, and you might 
+end up doing yourself more harm than good. So,  
+
+00:01:39.210 --> 00:01:43.450
+with this service, the realtor just needs 
+to record a 30 to 60 second audio clip.  
+
+00:01:43.450 --> 00:01:47.930
+And if they've ever posted a video to Instagram, 
+YouTube, or anywhere, we don't even need them to  
+
+00:01:47.930 --> 00:01:52.410
+do that. We can just snag that for them, upload it 
+ourselves, and clone it for them. Because the more  
+
+00:01:52.410 --> 00:01:57.770
+friction we can remove from this process or any 
+sales process, the better. After we clone their  
+
+00:01:57.770 --> 00:02:03.690
+voice, we can generate a library of pre-recorded 
+voicemails that relate to certain properties that  
+
+00:02:03.690 --> 00:02:09.050
+they may be listing or that their buyers may be 
+interested in buying. With just a couple prompts,  
+
+00:02:09.050 --> 00:02:14.730
+we can pre-record price drop alerts, new listing 
+alerts, showing confirmations, missed appointment  
+
+00:02:14.730 --> 00:02:20.650
+notifications. These plug-andplay templates we 
+can just plug into any of their listings. So,  
+
+00:02:20.650 --> 00:02:24.810
+without further ado, let's build this entire 
+package for you. Let me share my screen. So,  
+
+00:02:24.810 --> 00:02:30.810
+this product is called Fish Audio S2 Pro, and 
+it's beating basically every other competitor  
+
+00:02:30.810 --> 00:02:35.530
+on benchmarks with regards to text to speech and 
+voice cloning. Now, the three things that matter  
+
+00:02:35.530 --> 00:02:40.650
+the very most for this business is number one, 
+you can clone any voice from as little as 10 to  
+
+00:02:40.650 --> 00:02:46.570
+60 seconds of audio. Number two, it works in 80 
+plus languages with the same voice and same tone.  
+
+00:02:46.570 --> 00:02:53.050
+And number three, there's over 15,000 emotion 
+tags that let you control how the voice sounds,  
+
+00:02:53.050 --> 00:02:57.770
+whether it's warm or excited, professional, or 
+whatever the message may need. So, we're going  
+
+00:02:57.770 --> 00:03:02.570
+to start by going to products, voice cloning, 
+and I'm just going to read this prompt while  
+
+00:03:02.570 --> 00:03:08.890
+I speak. The system converts written text into 
+natural sounding speech. Each word is processed,  
+
+00:03:08.890 --> 00:03:14.330
+analyzed for context, and generated with the 
+correct intonation. The goal is to make digital  
+
+00:03:14.330 --> 00:03:22.330
+voices sound as close to human conversation as 
+possible. Okay, done. 17 seconds. TTS is text to  
+
+00:03:22.330 --> 00:03:28.810
+speech. Advanced algorithms allow the software 
+to interpret nuanced linguistic patterns by  
+
+00:03:28.810 --> 00:03:35.610
+leveraging deep learning. The engine adjusts pitch 
+and rhythm. Inhale maximum clarity. This process  
+
+00:03:35.610 --> 00:03:41.930
+ensures that every synthesized sentence provides 
+a seamless listening experience for users across  
+
+00:03:41.930 --> 00:03:47.450
+all digital platforms today. Okay, that's freaky. 
+And it doesn't have to only be 15 or 60 seconds.  
+
+00:03:47.450 --> 00:03:52.810
+If you have like an hour of you speaking, giving 
+a talk, something, you can just upload that and it  
+
+00:03:52.810 --> 00:03:57.690
+will be even more accurate. But I honestly don't 
+know how it could get more accurate than what  
+
+00:03:57.690 --> 00:04:02.730
+it spit out from just that 17-second memo that I 
+recorded. So, I'm going to save that to my voice  
+
+00:04:02.730 --> 00:04:10.730
+library with one click. So, it discerned that 
+I am male, middle-aged, narration, educational,  
+
+00:04:10.730 --> 00:04:15.930
+46 different voice qualities. Okay, I'm going 
+to give it the rights to use my voice. Okay,  
+
+00:04:15.930 --> 00:04:20.250
+and it is right there. That took about a minute. 
+Now, we're going to build the actual product. So,  
+
+00:04:20.250 --> 00:04:24.810
+now in the other window, we're going to open 
+our favorite AI tool, Claude, Grock, Chad, GPT,  
+
+00:04:24.810 --> 00:04:30.010
+Gemini, whatever you like. I prefer Claude, so 
+I'll roll with that. I'm going to say, write 10  
+
+00:04:30.010 --> 00:04:34.090
+common real estate voicemail messages a realtor 
+would leave for clients. Include new listing  
+
+00:04:34.090 --> 00:04:38.250
+alert, price reduction, showing confirmation, 
+offer accepted, counter offer received, inspection  
+
+00:04:38.250 --> 00:04:42.570
+scheduled, closing reminder, happy anniversary 
+of home purchase, referral request, and holiday  
+
+00:04:42.570 --> 00:04:48.250
+check-in. Keep each under 30 seconds when spoken. 
+Okay, let's see what this spits out. Okay. Hey  
+
+00:04:48.250 --> 00:04:52.090
+Chris, it's Sarah. A new listing just hit the 
+market that fits everything you wanted. Three bed,  
+
+00:04:52.090 --> 00:04:56.010
+two bath, big backyard, great school zone. It's 
+priced under 400K. We'll move fast. call me back  
+
+00:04:56.010 --> 00:05:02.090
+today and I'll get you in to see it tomorrow. Talk 
+soon. So, I could prompt this again and say, "Hey,  
+
+00:05:02.090 --> 00:05:07.050
+make this generic so I can plug and play these 
+10 messages into any given property." So, don't  
+
+00:05:07.050 --> 00:05:12.250
+include any specifics about how many bedrooms and 
+baths, prices, square footage, etc. But I want to  
+
+00:05:12.250 --> 00:05:16.170
+see all these specifics in the translation. 
+So, I'm just pretending like I'm doing this  
+
+00:05:16.170 --> 00:05:22.010
+for myself and I have actual listings right now. 
+That way I can get a more realistic example of  
+
+00:05:22.010 --> 00:05:26.330
+what these are actually going to look like for 
+a realtor and not just generic ones. So in the  
+
+00:05:26.330 --> 00:05:32.010
+same chat window I'm going to say translate all 
+10 messages into Spanish, Vietnamese, Mandarin,  
+
+00:05:32.010 --> 00:05:36.890
+and Portuguese. Why did I pick those languages? 
+Because they're very commonly spoken here in the  
+
+00:05:36.890 --> 00:05:42.650
+United States. You could also do Italian, German, 
+French. You get the idea. Hindi would also be a  
+
+00:05:42.650 --> 00:05:48.170
+good idea because with these new visas that came 
+out a few years ago, the influx of Indians moving  
+
+00:05:48.170 --> 00:05:54.410
+to America has exploded. Okay. And here they are. 
+We've got 10 in Spanish, Vietnamese, and Mandarin,  
+
+00:05:54.410 --> 00:05:59.450
+and Portuguese. So, I'm going to go to the first 
+one, the new listing alert in Spanish. I'm going  
+
+00:05:59.450 --> 00:06:04.410
+to copy it. Then, I'm going to go back to 
+Fish Audio. Click on text to speech. Okay,  
+
+00:06:04.410 --> 00:06:08.250
+there's my voice clone. I'm going to click this 
+black button, use, and I'm going to take this  
+
+00:06:08.250 --> 00:06:24.410
+text and replace it with the Spanish version of a 
+new listing alert. And let's generate the speech.
+
+00:06:34.090 --> 00:06:37.770
+Okay, you know what I love about this? So, 
+I'm not going to profess to speak Spanish,  
+
+00:06:37.770 --> 00:06:42.250
+but I did take four years in high school and I 
+was the treasure of the Spanish Honor Society  
+
+00:06:42.250 --> 00:06:47.370
+at Astronaut High School. So, shout out. But 
+no, I don't speak Spanish. But I know it well  
+
+00:06:47.370 --> 00:06:51.850
+enough to know that that kind of sounds like a 
+bad accent. That does not sound like I'm from  
+
+00:06:51.850 --> 00:06:56.730
+Mexico or Spain or that I'm a native speaker 
+at all. It sounds like a guy that looks like  
+
+00:06:56.730 --> 00:07:01.450
+me and sounds like me trying to speak a foreign 
+language. And I love that. I love that it sounds  
+
+00:07:01.450 --> 00:07:04.890
+realistic. Kind of blows my mind to be 
+honest. And of course, it still sounds  
+
+00:07:04.890 --> 00:07:16.810
+like my voice. Let's see what the home purchasing 
+anniversary message sounds like in Mandarin. Chris
+
+00:07:24.410 --> 00:07:28.090
+I mean, I didn't conjugate the verbs 
+perfectly, but just kidding. I have  
+
+00:07:28.090 --> 00:07:34.250
+no idea what I'm listening to, but yeah. Cool. 
+Sounds like Mandarin, I think. So, keep in mind,  
+
+00:07:34.250 --> 00:07:40.010
+if we want to download these cloned messages 
+in their respective languages, you need to  
+
+00:07:40.010 --> 00:07:46.970
+do it one by one, not all together, or it will 
+just combine them all. Chris and it gives you  
+
+00:07:46.970 --> 00:07:51.690
+two different versions of each one. So cool. All 
+you got to do is click the download button. Let's  
+
+00:07:51.690 --> 00:07:56.490
+say I want this second version. And then we're 
+going to go to we're going to go to Google Drive,  
+
+00:07:56.490 --> 00:08:03.050
+create a new folder called voice cloning, and then 
+we'll create a subfolder called Mandarin. And then  
+
+00:08:03.050 --> 00:08:09.530
+inside there, we're going to add the file. We're 
+just going to say home purchase. Home purchase  
+
+00:08:09.530 --> 00:08:13.530
+anniversary. Spelled that wrong. Oh well. That's 
+it. We would just repeat that with the other  
+
+00:08:13.530 --> 00:08:20.090
+languages and the other nine messages as well. Now 
+we have like a nice tidy package of languages and  
+
+00:08:20.090 --> 00:08:25.530
+messages to send to an agent. And you know what 
+would be creepy but highly effective is if we did  
+
+00:08:25.530 --> 00:08:30.410
+this proactively before even getting in touch with 
+the agent. Imagine what our close rate would be if  
+
+00:08:30.410 --> 00:08:37.130
+we said, "Hey, I've got 40 audio files with your 
+voice in four different languages of 10 different  
+
+00:08:37.130 --> 00:08:41.450
+voicemails that you're using on a daily basis. 
+Would you like to hear these?" or you could send  
+
+00:08:41.450 --> 00:08:45.450
+that message before you even make them. And then 
+if they say yes, then you go ahead and generate  
+
+00:08:45.450 --> 00:08:51.850
+them. So to give you an idea of how much it cost 
+me to make these two recordings so far, I spent 15  
+
+00:08:51.850 --> 00:08:59.770
+bucks on 250,000 credits and I still have 249,577 
+credits left. It's a fraction of a percent. So it  
+
+00:08:59.770 --> 00:09:04.810
+cost me like 3 cents or less to make these. 
+Stupid cheap. We don't have to do recurring,  
+
+00:09:04.810 --> 00:09:08.650
+right? We all want recurring, but people are less 
+likely to pay for recurring. So, if we can just  
+
+00:09:08.650 --> 00:09:13.770
+do this once and sell a one-time package, that 
+could be a great loss leader or a great way to  
+
+00:09:13.770 --> 00:09:17.930
+get our foot in the door of the realtor and say, 
+"Hey, I know a lot about AI. I can do this for  
+
+00:09:17.930 --> 00:09:22.170
+you. Why don't I do this for you for free? It 
+might cost you like a couple bucks in credits."  
+
+00:09:22.170 --> 00:09:26.250
+And then we look at some other things that I 
+can help you with with AI. I can help you make  
+
+00:09:26.250 --> 00:09:30.890
+or save more money or get more leads or respond 
+faster to leads, get more listings, whatever it  
+
+00:09:30.890 --> 00:09:36.090
+is. And it doesn't have to be realtors, insurance 
+agents, car dealerships, lawyers, medical offices,  
+
+00:09:36.090 --> 00:09:40.890
+anyone who serves multilingual clients and leaves 
+voicemails. In fact, an immigration attorney could  
+
+00:09:40.890 --> 00:09:45.930
+be perfect for this. They've got money and they're 
+only dealing with multilingual clients. But back  
+
+00:09:45.930 --> 00:09:50.650
+to realtors, imagine if you had five realtors 
+paying 300 bucks a month. That's 1,500 bucks  
+
+00:09:50.650 --> 00:09:55.770
+a month recurring, $18,000 a year. And it's very 
+passive once you build this upfront. 10 realtors,  
+
+00:09:55.770 --> 00:10:00.490
+you're at 3,000 from a service you could deliver 
+from your laptop. And keep in mind, this whole  
+
+00:10:00.490 --> 00:10:05.690
+realtor voicemail thing is just one play. Why 
+not like an audiobook narration service? Look at  
+
+00:10:05.690 --> 00:10:10.330
+how many books and audio books are being written 
+every year. Most of them you will never hear of,  
+
+00:10:10.330 --> 00:10:15.050
+but they still need their books narrated. And 
+a lot of these authors don't have the budget to  
+
+00:10:15.050 --> 00:10:20.730
+pay a studio or they don't have the time, like 12 
+hours to set aside to record their book in audio  
+
+00:10:20.730 --> 00:10:25.370
+form, especially when most books don't even sell 
+that many copies, right? So, there's this perfect  
+
+00:10:25.370 --> 00:10:29.530
+dichotomy that serves you well. They don't have 
+the time to do it. They don't think it's worth  
+
+00:10:29.530 --> 00:10:32.970
+it because they're probably not going to sell 
+that many. They don't have the budget to pay a  
+
+00:10:32.970 --> 00:10:37.450
+professional voice actor to do it. So, it's like 
+boom, 500 bucks. I'll do it for you in your voice.  
+
+00:10:37.450 --> 00:10:41.930
+And you don't have to spend time in a studio or 
+give thousands of dollars to a studio. You could  
+
+00:10:41.930 --> 00:10:46.490
+charge a couple grand for this and they would 
+still come out way ahead on savings. The output  
+
+00:10:46.490 --> 00:10:52.250
+of Fish Audio meets all of the like specs that 
+companies like Audible require. And of course,  
+
+00:10:52.250 --> 00:10:57.450
+you could do multilingual versions of those books 
+or faceless YouTube channels or YouTube dubbing.  
+
+00:10:57.450 --> 00:11:01.690
+I dubbed my channels into 14 different languages 
+and it helps me make more money because I'm able  
+
+00:11:01.690 --> 00:11:05.770
+to sell ads in those other countries, but it 
+took a lot of work to get to that point. You  
+
+00:11:05.770 --> 00:11:09.610
+can do all that work for YouTubers. Where 
+do you get their emails? Right here. Every  
+
+00:11:09.610 --> 00:11:15.850
+YouTuber's email address is right there. Or you 
+can use sites like Upwork, online jobs.ph to buy  
+
+00:11:15.850 --> 00:11:21.290
+email list of YouTubers. You could specialize in 
+a niche, specialize in a size of a channel like I  
+
+00:11:21.290 --> 00:11:26.890
+only clone voices and dub languages for YouTube 
+channels with 100,000 to 500,000 subscribers,  
+
+00:11:26.890 --> 00:11:31.610
+etc. You could have a voiceover agency for local 
+businesses. Every single business needs audio for  
+
+00:11:31.610 --> 00:11:36.890
+ads or hold messages, training videos, phone 
+systems. You walk in with samples, charge 200  
+
+00:11:36.890 --> 00:11:42.410
+to 500 bucks per project and deliver it the same 
+day in the voice of the owner or the receptionist  
+
+00:11:42.410 --> 00:11:47.690
+or whatever. 300 to 500 a month per realtor or 
+per business owner is very reasonable. So that's  
+
+00:11:47.690 --> 00:11:53.370
+three to $5,000 a month for 10 clients. You can 
+add setup fees onto that. 500 bucks to $1,000 per  
+
+00:11:53.370 --> 00:11:59.210
+new client in setup fees. Your only cost is paying 
+for fish audio, which ranges from this to this.  
+
+00:11:59.210 --> 00:12:03.610
+This is going to take you like 20 to 40 minutes 
+per new client. You don't have to choose between  
+
+00:12:03.610 --> 00:12:08.010
+doing this for business owners or realtors and 
+audio books. You could do both at the same time.  
+
+00:12:08.010 --> 00:12:12.490
+If I were starting this from ground zero and I 
+wanted to find my first customers, on day one,  
+
+00:12:12.490 --> 00:12:17.450
+I would sign up for Fish Audio and I would clone 
+my own voice, I'd use that voice to generate three  
+
+00:12:17.450 --> 00:12:23.450
+sample voicemails in English, Spanish, Chinese. 
+That's going to be my demo. Day two, I'm going  
+
+00:12:23.450 --> 00:12:28.890
+to either look through my phone list, go to my 
+Facebook friends, my Instagram friends, and find  
+
+00:12:28.890 --> 00:12:33.450
+all the people I know that are already real estate 
+agents. We all know about a half dozen or more.  
+
+00:12:33.450 --> 00:12:38.570
+Shoot them a text. Take them to lunch. Proactively 
+clone their voice. Show them what you did at lunch  
+
+00:12:38.570 --> 00:12:42.010
+so they can hear it. Be like, "What?" They're 
+going to have that wow effect. You're going to  
+
+00:12:42.010 --> 00:12:46.250
+be much more likely to close people that know you 
+personally than you are to close a stranger. It's  
+
+00:12:46.250 --> 00:12:51.050
+going to be much easier to close a stranger once 
+you have some testimonials of your friends. And  
+
+00:12:51.050 --> 00:12:54.410
+they don't need to know that your testimonials are 
+from your friends. It doesn't matter. If it's a  
+
+00:12:54.410 --> 00:12:58.490
+happy customer that you served, whether they 
+paid you or not, and it's a fivestar review,  
+
+00:12:58.490 --> 00:13:04.010
+then it's a data point in your court. It's one 
+more reason for them to say yes to a stranger.  
+
+00:13:04.010 --> 00:13:08.170
+I interviewed a guy that got out of prison and 
+started a junk removal business. And he found all  
+
+00:13:08.170 --> 00:13:13.450
+of his customers by going to Dollar Tree, buying 
+like a little plastic dish, a candy dish, and then  
+
+00:13:13.450 --> 00:13:19.050
+a bag of candy and some business cards and walking 
+in physically to realtor offices and leaving the  
+
+00:13:19.050 --> 00:13:24.010
+business cards, the candy dish, and the candy 
+with the receptionist. He started a six-figure  
+
+00:13:24.010 --> 00:13:29.210
+business out of prison with no experience, just 
+a truck doing that. There's no reason you can't  
+
+00:13:29.210 --> 00:13:34.410
+do the same thing for them. They are begging for 
+people to come teach their realtors, these broker  
+
+00:13:34.410 --> 00:13:39.850
+offices, to come teach their realtors on anything, 
+anything new and exciting. Bring in some Subway,  
+
+00:13:39.850 --> 00:13:44.570
+bring in some Jason's Deli, whatever. Teach 
+them how to do this for themselves for free.  
+
+00:13:44.570 --> 00:13:48.010
+Most of them are going to be shocked, and most 
+of them aren't going to want to do it themselves,  
+
+00:13:48.010 --> 00:13:50.890
+even though they know how to do it. They're 
+going to say, "Can you just do this for me?  
+
+00:13:50.890 --> 00:13:56.410
+Give away the secrets. Sell the implementation. 
+Leave a one-page flyer, QR code, pricing, URL,  
+
+00:13:56.410 --> 00:14:01.930
+etc." Days 3 to seven, I would follow up with 
+every single office or every single friend that  
+
+00:14:01.930 --> 00:14:06.010
+you went to lunch with. Follow-up, follow-up, 
+follow-up. That's where the magic is. Weeks two  
+
+00:14:06.010 --> 00:14:11.050
+to four, I would land my first three clients or 
+five, I would deliver it super fast. I would overd  
+
+00:14:11.050 --> 00:14:15.290
+deliver. I would deliver faster than I promised. 
+I would get testimonials, fivestar reviews,  
+
+00:14:15.290 --> 00:14:20.090
+Google business profile. I would list everywhere. 
+And then month two, why not expand to audiobooks  
+
+00:14:20.090 --> 00:14:26.170
+or insurance agencies or immigration attorneys? 
+Same service, different script. Guys, the audio  
+
+00:14:26.170 --> 00:14:31.370
+industry is worth over $10 billion and is growing 
+every year. And the cost of production just  
+
+00:14:31.370 --> 00:14:36.490
+dropped to nearly zero while the quality somehow 
+went up. So, the people who move on this right  
+
+00:14:36.490 --> 00:14:41.370
+now are going to build businesses the rest of the 
+market doesn't see coming for another 2 years. So,  
+
+00:14:41.370 --> 00:14:46.890
+go try it. Fish.audio is the website. I'll put the 
+link in the description. Use code kerner 20 for  
+
+00:14:46.890 --> 00:14:51.690
+20% off. Clone your voice. Generate a sample in 
+another language. Hear it for yourself. Go build  
+

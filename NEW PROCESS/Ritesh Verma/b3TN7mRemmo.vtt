@@ -1,0 +1,1250 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.680
+When do you think there'll [music] be
+
+00:00:00.800 --> 00:00:03.840
+the first billion-dollar company with
+
+00:00:02.680 --> 00:00:05.000
+one human employee?
+
+00:00:03.840 --> 00:00:06.920
+>> 2026.
+
+00:00:05.000 --> 00:00:08.515
+>> In the last few months, I have seen a
+
+00:00:06.920 --> 00:00:10.440
+lot of people who just kind of grew
+
+00:00:08.515 --> 00:00:12.240
+[music] up using AI the last few years
+
+00:00:10.440 --> 00:00:14.080
+who are like, I can kind of automate an
+
+00:00:12.240 --> 00:00:15.720
+entire startup of agents.
+
+00:00:14.080 --> 00:00:17.600
+>> I don't write [music] any code anymore.
+
+00:00:15.720 --> 00:00:19.480
+I just let Opus do the work and I edit
+
+00:00:17.600 --> 00:00:22.000
+it. This was built in a week and a half
+
+00:00:19.480 --> 00:00:23.720
+almost entirely with quad code.
+
+00:00:22.000 --> 00:00:25.320
+>> The New York Times just ran a story
+
+00:00:23.720 --> 00:00:26.560
+about a guy who built a billion-dollar
+
+00:00:25.320 --> 00:00:29.680
+company with AI. [music]
+
+00:00:26.560 --> 00:00:31.200
+>> We've fully incorporated AI into our
+
+00:00:29.680 --> 00:00:33.000
+content creation and media as a
+
+00:00:31.200 --> 00:00:35.120
+business. So, that's only possible
+
+00:00:33.000 --> 00:00:36.600
+because of of AI.
+
+00:00:35.120 --> 00:00:38.400
+>> You're running a one-person AI business,
+
+00:00:36.600 --> 00:00:39.840
+but I guarantee you're doing it wrong.
+
+00:00:38.400 --> 00:00:41.640
+Why else are you struggling to get
+
+00:00:39.840 --> 00:00:44.160
+clients? Why else does your business
+
+00:00:41.640 --> 00:00:46.040
+feel more like a job? Why else are you
+
+00:00:44.160 --> 00:00:47.120
+feeling like this is all too much work
+
+00:00:46.040 --> 00:00:49.400
+and your brain [music] is going to
+
+00:00:47.120 --> 00:00:50.960
+explode? Well, in the next 15 minutes, I
+
+00:00:49.400 --> 00:00:52.680
+will show you how to use Claude to hit
+
+00:00:50.960 --> 00:00:54.360
+your next record month with your
+
+00:00:52.680 --> 00:00:55.280
+one-person AI business. [music]
+
+00:00:54.360 --> 00:00:57.080
+If you don't know me, my name is
+
+00:00:55.280 --> 00:00:59.280
+Arshaday Sharma and I'm an ex-software
+
+00:00:57.080 --> 00:01:01.200
+engineer who worked for 2 years at a big
+
+00:00:59.280 --> 00:01:03.320
+tech [music] company in New York City,
+
+00:01:01.200 --> 00:01:05.680
+quit my job, and now run a seven-figure
+
+00:01:03.320 --> 00:01:06.480
+AI business. I've also helped nearly 200
+
+00:01:05.680 --> 00:01:08.000
+plus founders grow
+
+00:01:06.480 --> 00:01:09.760
+multi-six-to-seven-figure
+
+00:01:08.000 --> 00:01:11.280
+businesses. They all start as one-person
+
+00:01:09.760 --> 00:01:12.600
+businesses just like you. [music] So, in
+
+00:01:11.280 --> 00:01:14.280
+this video, I'm going to walk you
+
+00:01:12.600 --> 00:01:15.880
+through the four systems to fix your
+
+00:01:14.280 --> 00:01:17.880
+one-person business so you can hit a
+
+00:01:15.880 --> 00:01:19.280
+record month while working [music] less.
+
+00:01:17.880 --> 00:01:21.320
+And towards the end of the video, I'll
+
+00:01:19.280 --> 00:01:23.000
+even share with you a classified prompt
+
+00:01:21.320 --> 00:01:24.760
+you can use [music] to rebuild the
+
+00:01:23.000 --> 00:01:26.600
+intelligence system that runs my
+
+00:01:24.760 --> 00:01:28.640
+seven-figure business. Now, the first
+
+00:01:26.600 --> 00:01:31.000
+system that you need to replicate is the
+
+00:01:28.640 --> 00:01:33.240
+following monetization system, which is
+
+00:01:31.000 --> 00:01:35.800
+broken down into two key parts. The
+
+00:01:33.240 --> 00:01:37.880
+first part solves a cash flow error 90%
+
+00:01:35.800 --> 00:01:39.320
+of businesses make. Let me explain. And
+
+00:01:37.880 --> 00:01:41.320
+I want you to leave a like on the video
+
+00:01:39.320 --> 00:01:42.880
+if you've ever done this. A client asks
+
+00:01:41.320 --> 00:01:44.720
+you, "How much would it cost for you to
+
+00:01:42.880 --> 00:01:46.480
+build an AI automation that solves
+
+00:01:44.720 --> 00:01:48.680
+whatever task?" And then you either
+
+00:01:46.480 --> 00:01:50.840
+freeze and say a number that's such a
+
+00:01:48.680 --> 00:01:53.080
+lowball that the client is so happy and
+
+00:01:50.840 --> 00:01:54.880
+laughs and says, "Wow, that's cheap." Or
+
+00:01:53.080 --> 00:01:57.000
+you give an extremely high number and
+
+00:01:54.880 --> 00:01:59.200
+the client gets immediately turned off.
+
+00:01:57.000 --> 00:02:00.840
+Either way, you've lost a deal. Yes,
+
+00:01:59.200 --> 00:02:02.760
+closing at a cheap rate is the same
+
+00:02:00.840 --> 00:02:04.440
+thing as losing a deal. I'm sure you
+
+00:02:02.760 --> 00:02:06.280
+have done this. So, here's a simple
+
+00:02:04.440 --> 00:02:08.000
+formula to follow to make sure this
+
+00:02:06.280 --> 00:02:10.119
+never happens again. First, you
+
+00:02:08.000 --> 00:02:12.320
+calculate the hourly cost of the client
+
+00:02:10.119 --> 00:02:14.360
+to do the task that's being automated.
+
+00:02:12.320 --> 00:02:16.200
+Ask your client the number of total
+
+00:02:14.360 --> 00:02:18.320
+hours it takes [music] to do the task on
+
+00:02:16.200 --> 00:02:20.080
+a monthly basis. You multiply the hourly
+
+00:02:18.320 --> 00:02:22.000
+cost times the number of hours to
+
+00:02:20.080 --> 00:02:24.720
+calculate the total expenditure. Then
+
+00:02:22.000 --> 00:02:27.720
+you charge 30 or 40% of that number as a
+
+00:02:24.720 --> 00:02:29.680
+subscription or 100 to 200% that number
+
+00:02:27.720 --> 00:02:31.920
+as a one-time build fee. So, if they're
+
+00:02:29.680 --> 00:02:34.280
+saving, let's say $20,000 a month, you
+
+00:02:31.920 --> 00:02:36.600
+can charge $40,000 one time and they'll
+
+00:02:34.280 --> 00:02:38.440
+be in the ROI month three onwards. It's
+
+00:02:36.600 --> 00:02:40.040
+an easy pitch. This will ensure that you
+
+00:02:38.440 --> 00:02:41.520
+are getting paid what you deserve, if
+
+00:02:40.040 --> 00:02:43.040
+not more. This will increase your
+
+00:02:41.520 --> 00:02:45.080
+business cash flow, which allows you to
+
+00:02:43.040 --> 00:02:47.120
+reinvest into training, resources, or
+
+00:02:45.080 --> 00:02:48.840
+more A+ talent. If you use this prompt
+
+00:02:47.120 --> 00:02:50.560
+and paste it into Claude code, you can
+
+00:02:48.840 --> 00:02:52.840
+have your very own calculator that you
+
+00:02:50.560 --> 00:02:55.000
+can use to paste the numbers into during
+
+00:02:52.840 --> 00:02:56.720
+your sales calls so you make no pricing
+
+00:02:55.000 --> 00:02:58.000
+mistakes. And please use this calculator
+
+00:02:56.720 --> 00:02:59.519
+because the last thing you want is to be
+
+00:02:58.000 --> 00:03:00.880
+running these numbers by hand while your
+
+00:02:59.519 --> 00:03:02.400
+client is watching you and while you're
+
+00:03:00.880 --> 00:03:03.880
+trying to sell them. Now, the second
+
+00:03:02.400 --> 00:03:05.880
+part of the system is capturing your
+
+00:03:03.880 --> 00:03:07.640
+client's value in a different way. See,
+
+00:03:05.880 --> 00:03:09.280
+a lot of business owners fail to get a
+
+00:03:07.640 --> 00:03:11.840
+video testimony from [music] a client,
+
+00:03:09.280 --> 00:03:14.120
+which is a huge loss in value. Yes, it
+
+00:03:11.840 --> 00:03:16.080
+might not be monetary loss, but it is
+
+00:03:14.120 --> 00:03:17.959
+still a loss. Every video testimony a
+
+00:03:16.080 --> 00:03:19.720
+client gives you makes it exponentially
+
+00:03:17.959 --> 00:03:21.959
+easier to get the next client. Here's a
+
+00:03:19.720 --> 00:03:23.640
+simple message you can ask a client to
+
+00:03:21.959 --> 00:03:25.560
+get a testimony from them. Now, the
+
+00:03:23.640 --> 00:03:27.519
+second system that everyone person AI
+
+00:03:25.560 --> 00:03:29.360
+business needs is an operation system.
+
+00:03:27.519 --> 00:03:30.720
+And this is the part nobody talks about
+
+00:03:29.360 --> 00:03:32.840
+because everyone wants to talk about
+
+00:03:30.720 --> 00:03:34.480
+prompts, automations, agents, and fancy
+
+00:03:32.840 --> 00:03:36.640
+AI tools. But the reason your business
+
+00:03:34.480 --> 00:03:38.200
+feels chaotic is not because you need
+
+00:03:36.640 --> 00:03:40.519
+another AI tool. It is because [music]
+
+00:03:38.200 --> 00:03:42.400
+your business has no memory. This might
+
+00:03:40.519 --> 00:03:43.720
+be you. Every time you open Claude, you
+
+00:03:42.400 --> 00:03:45.800
+are starting from scratch. You are
+
+00:03:43.720 --> 00:03:47.800
+explaining the same context again. You
+
+00:03:45.800 --> 00:03:49.959
+are pasting the same client details
+
+00:03:47.800 --> 00:03:52.400
+again. You are reminding it of the same
+
+00:03:49.959 --> 00:03:54.680
+rules again. You are rebuilding the same
+
+00:03:52.400 --> 00:03:56.280
+processes again. If this is you, you
+
+00:03:54.680 --> 00:03:57.720
+need to build an internal second brain
+
+00:03:56.280 --> 00:04:00.160
+for your business the [music] correct
+
+00:03:57.720 --> 00:04:02.440
+way. Here are the five core folders I'd
+
+00:04:00.160 --> 00:04:04.760
+add immediately in your second brain.
+
+00:04:02.440 --> 00:04:06.720
+The first one is clients. This stores
+
+00:04:04.760 --> 00:04:08.520
+every client's business goals,
+
+00:04:06.720 --> 00:04:10.360
+bottlenecks, tech stack, offer,
+
+00:04:08.520 --> 00:04:12.680
+automation, and results. Your second
+
+00:04:10.360 --> 00:04:14.400
+folder will be offers. This stores exact
+
+00:04:12.680 --> 00:04:16.320
+services you sell, pricing logic,
+
+00:04:14.400 --> 00:04:18.959
+deliverables, guarantees, timelines, and
+
+00:04:16.320 --> 00:04:21.200
+case studies. Your third folder is SOPs.
+
+00:04:18.959 --> 00:04:23.400
+This stores every repeatable process in
+
+00:04:21.200 --> 00:04:25.600
+your business. How do you onboard new
+
+00:04:23.400 --> 00:04:27.480
+clients? How do you build an automation
+
+00:04:25.600 --> 00:04:29.200
+that you know will work? How do you send
+
+00:04:27.480 --> 00:04:30.680
+follow-ups? How do you write content?
+
+00:04:29.200 --> 00:04:32.800
+How do you film content? How do you
+
+00:04:30.680 --> 00:04:34.840
+request testimonials from clients? How
+
+00:04:32.800 --> 00:04:36.840
+to QA a system before delivery? Your
+
+00:04:34.840 --> 00:04:38.480
+fourth folder is assets. This stores
+
+00:04:36.840 --> 00:04:40.600
+prompts, templates, scripts,
+
+00:04:38.480 --> 00:04:42.640
+calculators, dashboards, looms, landing
+
+00:04:40.600 --> 00:04:45.360
+pages, and anything else that you can
+
+00:04:42.640 --> 00:04:46.919
+reuse for the next client. Number five
+
+00:04:45.360 --> 00:04:48.800
+is change log. This one's extremely
+
+00:04:46.919 --> 00:04:50.520
+important and very overlooked. Because
+
+00:04:48.800 --> 00:04:52.080
+the second biggest operational mistake
+
+00:04:50.520 --> 00:04:53.919
+people make is building blind with
+
+00:04:52.080 --> 00:04:56.400
+Claude. Here's what building blind looks
+
+00:04:53.919 --> 00:04:58.000
+like. You tell Claude, "Hey, fix this
+
+00:04:56.400 --> 00:04:59.960
+automation." And then Claude makes
+
+00:04:58.000 --> 00:05:01.320
+changes. And then something breaks. And
+
+00:04:59.960 --> 00:05:03.360
+now you're telling Claude, "Hey, can you
+
+00:05:01.320 --> 00:05:05.120
+please fix what you just broke?" And now
+
+00:05:03.360 --> 00:05:06.480
+Claude makes changes, [music] something
+
+00:05:05.120 --> 00:05:08.840
+else breaks, and you're stuck in this
+
+00:05:06.480 --> 00:05:10.720
+constant loop. 3 hours pass and you've
+
+00:05:08.840 --> 00:05:12.520
+made barely any progress even though
+
+00:05:10.720 --> 00:05:13.720
+you're using AI to build for you. Now,
+
+00:05:12.520 --> 00:05:15.480
+this might work when you're building
+
+00:05:13.720 --> 00:05:16.960
+your own personal projects or internal
+
+00:05:15.480 --> 00:05:18.320
+systems, but when you're building client
+
+00:05:16.960 --> 00:05:20.040
+systems this way, you're going to
+
+00:05:18.320 --> 00:05:21.400
+destroy your own confidence, your client
+
+00:05:20.040 --> 00:05:23.160
+will not be happy, your products will
+
+00:05:21.400 --> 00:05:24.240
+take exponentially longer, and you're
+
+00:05:23.160 --> 00:05:25.680
+going to lose out on the number of
+
+00:05:24.240 --> 00:05:28.200
+clients you potentially could have
+
+00:05:25.680 --> 00:05:29.400
+gotten if your system was dialed in. So,
+
+00:05:28.200 --> 00:05:30.560
+every time Claude changes something,
+
+00:05:29.400 --> 00:05:32.520
+here's what it should do. It should
+
+00:05:30.560 --> 00:05:33.840
+document what changed, why it changed,
+
+00:05:32.520 --> 00:05:35.600
+what files were edited, what the
+
+00:05:33.840 --> 00:05:37.680
+expected result is, what still needs to
+
+00:05:35.600 --> 00:05:39.640
+be tested, what broke, what decision was
+
+00:05:37.680 --> 00:05:41.360
+made, [music] and then that change log
+
+00:05:39.640 --> 00:05:42.880
+goes back into your second brain. So,
+
+00:05:41.360 --> 00:05:44.400
+the next time you open Claude, you're
+
+00:05:42.880 --> 00:05:47.000
+not saying, "Hey, remember that thing we
+
+00:05:44.400 --> 00:05:48.880
+built?" because Claude already remembers
+
+00:05:47.000 --> 00:05:50.440
+based on the change log and knows
+
+00:05:48.880 --> 00:05:52.240
+exactly what they last time it knows
+
+00:05:50.440 --> 00:05:53.920
+exactly what must be done this session
+
+00:05:52.240 --> 00:05:55.640
+so that way there is no loss of
+
+00:05:53.920 --> 00:05:57.200
+information. And this is how you stop
+
+00:05:55.640 --> 00:05:59.040
+being a random prompt engineer and you
+
+00:05:57.200 --> 00:06:00.840
+start operating like a real AI business
+
+00:05:59.040 --> 00:06:02.960
+owner. The goal is simple, your business
+
+00:06:00.840 --> 00:06:04.560
+should get smarter every single week.
+
+00:06:02.960 --> 00:06:06.400
+Now with your pricing fixed, your
+
+00:06:04.560 --> 00:06:08.360
+business having internal memory layer,
+
+00:06:06.400 --> 00:06:10.680
+the big question still remains. Why does
+
+00:06:08.360 --> 00:06:12.480
+nobody know you exist? And this is where
+
+00:06:10.680 --> 00:06:14.120
+growth systems come in, probably the
+
+00:06:12.480 --> 00:06:15.360
+most important system for any business.
+
+00:06:14.120 --> 00:06:16.720
+Because you can have the best AI
+
+00:06:15.360 --> 00:06:18.440
+automations in the world but if nobody
+
+00:06:16.720 --> 00:06:20.720
+knows you exist, you're broke. Every
+
+00:06:18.440 --> 00:06:22.760
+one-person AI business needs exactly two
+
+00:06:20.720 --> 00:06:24.919
+lead generation engines, not one but
+
+00:06:22.760 --> 00:06:26.640
+two. Engine one is outreach. This is the
+
+00:06:24.919 --> 00:06:28.320
+engine that you control. Every single
+
+00:06:26.640 --> 00:06:30.360
+day you send messages, you track who
+
+00:06:28.320 --> 00:06:32.349
+reply, you book calls. It's manual, it's
+
+00:06:30.360 --> 00:06:34.160
+boring but it pays the month's bills.
+
+00:06:32.349 --> 00:06:36.400
+[music] Engine two is content, the
+
+00:06:34.160 --> 00:06:38.480
+engine that compounds. Every video,
+
+00:06:36.400 --> 00:06:40.440
+every post is a little sales person that
+
+00:06:38.480 --> 00:06:42.520
+works for you forever, pitching people
+
+00:06:40.440 --> 00:06:44.040
+while you sleep, doing work without you
+
+00:06:42.520 --> 00:06:45.520
+having to tell it to do [music] work.
+
+00:06:44.040 --> 00:06:47.240
+But here's a trap that most one-person
+
+00:06:45.520 --> 00:06:49.080
+businesses fall in. Most people would
+
+00:06:47.240 --> 00:06:50.440
+just pick one. Outreach only means the
+
+00:06:49.080 --> 00:06:52.280
+day you stop sending is the day the
+
+00:06:50.440 --> 00:06:54.200
+leads stop. [music] Content only means
+
+00:06:52.280 --> 00:06:55.960
+that you are playing the long game and
+
+00:06:54.200 --> 00:06:57.919
+you have no short-term engines. So
+
+00:06:55.960 --> 00:07:00.000
+that's why you run both engines at once.
+
+00:06:57.919 --> 00:07:01.880
+Outreach feeds you today, content feeds
+
+00:07:00.000 --> 00:07:03.200
+you forever. In fact, this is my client
+
+00:07:01.880 --> 00:07:04.720
+Ty and he's been able to get
+
+00:07:03.200 --> 00:07:06.520
+exponentially more clients after he
+
+00:07:04.720 --> 00:07:08.080
+dialed in his YouTube and he created
+
+00:07:06.520 --> 00:07:09.600
+videos like this that resulted in a
+
+00:07:08.080 --> 00:07:11.880
+bunch of leads hitting him up for his
+
+00:07:09.600 --> 00:07:13.400
+agency. It [music] works, it's proven.
+
+00:07:11.880 --> 00:07:14.840
+But now that you know it works, let's
+
+00:07:13.400 --> 00:07:17.000
+build these engines. So let's start off
+
+00:07:14.840 --> 00:07:18.560
+with the engine one, outreach. Most of
+
+00:07:17.000 --> 00:07:20.440
+you are doing spray and pray, which is
+
+00:07:18.560 --> 00:07:22.120
+basically a burst of DMs when the bank
+
+00:07:20.440 --> 00:07:23.919
+account gets scary and then nothing for
+
+00:07:22.120 --> 00:07:25.400
+3 weeks, no tracking, no follow-up, no
+
+00:07:23.919 --> 00:07:27.440
+idea what's working. That's not an
+
+00:07:25.400 --> 00:07:29.800
+engine, that's a slot machine. So here's
+
+00:07:27.440 --> 00:07:31.640
+a proper structure. You pick one or two
+
+00:07:29.800 --> 00:07:33.840
+channels where your clients actually
+
+00:07:31.640 --> 00:07:36.200
+live, LinkedIn, email, Instagram,
+
+00:07:33.840 --> 00:07:38.040
+wherever. Commit [music] to a daily send
+
+00:07:36.200 --> 00:07:40.640
+number you can hit even on your worst
+
+00:07:38.040 --> 00:07:41.640
+day, sick, depressed, just broke up,
+
+00:07:40.640 --> 00:07:43.240
+doesn't matter. [music] You have to hit
+
+00:07:41.640 --> 00:07:45.640
+that number. And track every single
+
+00:07:43.240 --> 00:07:47.560
+prospect. Name, company, status, last
+
+00:07:45.640 --> 00:07:49.000
+touch, next follow-up date. That last
+
+00:07:47.560 --> 00:07:50.880
+column is the money column because most
+
+00:07:49.000 --> 00:07:52.680
+deals don't close on message one, they
+
+00:07:50.880 --> 00:07:54.440
+close on follow-up four. And the
+
+00:07:52.680 --> 00:07:56.160
+follow-up only happens if a system
+
+00:07:54.440 --> 00:07:57.440
+reminds you. There's no way your brain
+
+00:07:56.160 --> 00:08:00.240
+can remember all the follows you need to
+
+00:07:57.440 --> 00:08:02.760
+do. And no, you don't need to spend $99
+
+00:08:00.240 --> 00:08:04.120
+a month on some custom CRM. Just ask
+
+00:08:02.760 --> 00:08:06.160
+Claude to build you a simple pipeline
+
+00:08:04.120 --> 00:08:07.640
+tracker and it'll spit one out before
+
+00:08:06.160 --> 00:08:09.160
+you finish your coffee. Here's an
+
+00:08:07.640 --> 00:08:11.240
+example prompt that you can pass into
+
+00:08:09.160 --> 00:08:13.240
+Claude to generate a custom CRM. An
+
+00:08:11.240 --> 00:08:15.160
+example of the custom CRM that I have.
+
+00:08:13.240 --> 00:08:17.160
+Now, engine two, your content arm.
+
+00:08:15.160 --> 00:08:18.680
+Outreach is you knocking on doors,
+
+00:08:17.160 --> 00:08:20.560
+content is clients knocking on your
+
+00:08:18.680 --> 00:08:22.120
+door. Every piece of content you publish
+
+00:08:20.560 --> 00:08:23.919
+is a salesperson that never sleeps,
+
+00:08:22.120 --> 00:08:24.640
+never quits, never asks for a raise. And
+
+00:08:23.919 --> 00:08:26.880
+you don't need to become [music] a
+
+00:08:24.640 --> 00:08:28.400
+full-time creator. I I I'm not I don't
+
+00:08:26.880 --> 00:08:30.880
+want you to be one either. The play is
+
+00:08:28.400 --> 00:08:32.520
+simple. One long-form piece a week. A
+
+00:08:30.880 --> 00:08:34.280
+video or a post breaking down something
+
+00:08:32.520 --> 00:08:36.200
+you actually did. A build, a client
+
+00:08:34.280 --> 00:08:37.840
+result, a lesson. Then slice that one
+
+00:08:36.200 --> 00:08:40.360
+piece into short-form clips for the rest
+
+00:08:37.840 --> 00:08:42.080
+of the week. So, one hour documentation,
+
+00:08:40.360 --> 00:08:43.680
+seven days of distribution. If you want
+
+00:08:42.080 --> 00:08:45.600
+to up the volume of videos, go for two
+
+00:08:43.680 --> 00:08:47.120
+or three videos a week. Your client wins
+
+00:08:45.600 --> 00:08:48.800
+are actually your content goldmine.
+
+00:08:47.120 --> 00:08:50.600
+Every automation you ship is a story,
+
+00:08:48.800 --> 00:08:52.200
+every result is proof. You're already
+
+00:08:50.600 --> 00:08:54.160
+doing the work, you're just not showing
+
+00:08:52.200 --> 00:08:56.240
+it. So, don't say I don't know what to
+
+00:08:54.160 --> 00:08:58.080
+post about. You have personal projects,
+
+00:08:56.240 --> 00:08:59.360
+client projects. You have wins that you
+
+00:08:58.080 --> 00:09:01.320
+can post about. [music] So, with the
+
+00:08:59.360 --> 00:09:03.240
+growth system solved, there's still one
+
+00:09:01.320 --> 00:09:05.000
+final problem. Even with all three
+
+00:09:03.240 --> 00:09:06.360
+systems running, you're still the one
+
+00:09:05.000 --> 00:09:08.240
+doing everything [music] and we have to
+
+00:09:06.360 --> 00:09:09.560
+fix that. But before we do, if you are
+
+00:09:08.240 --> 00:09:11.680
+serious about taking your business to
+
+00:09:09.560 --> 00:09:13.560
+the next level hit a record month after
+
+00:09:11.680 --> 00:09:15.080
+record month, then I recommend you join
+
+00:09:13.560 --> 00:09:17.240
+Agent Rise. Where my team and I will
+
+00:09:15.080 --> 00:09:19.520
+help you scale your personal business to
+
+00:09:17.240 --> 00:09:21.600
+record month levels. My client David hit
+
+00:09:19.520 --> 00:09:22.651
+his first $20,000 a month after working
+
+00:09:21.600 --> 00:09:22.760
+with me where as before,
+
+00:09:22.651 --> 00:09:25.040
+>> [music]
+
+00:09:22.760 --> 00:09:27.640
+>> his cap was $1,000 a month. Yannick's
+
+00:09:25.040 --> 00:09:30.520
+biggest deal ever was $10,000 and now he
+
+00:09:27.640 --> 00:09:32.440
+just secured a $102,000 12-month deal
+
+00:09:30.520 --> 00:09:33.960
+working as a member of Agent Rise. If
+
+00:09:32.440 --> 00:09:36.080
+you're looking for results like this and
+
+00:09:33.960 --> 00:09:37.061
+many more, book a free strategy call
+
+00:09:36.080 --> 00:09:37.600
+using the link in the description.
+
+00:09:37.061 --> 00:09:39.640
+[music]
+
+00:09:37.600 --> 00:09:41.960
+And now it's time to unveil the final
+
+00:09:39.640 --> 00:09:43.480
+system. A system that goes against idea
+
+00:09:41.960 --> 00:09:45.440
+of one-person [music] business, but is
+
+00:09:43.480 --> 00:09:47.320
+absolutely necessary. A one-person
+
+00:09:45.440 --> 00:09:49.680
+business does not mean one person does
+
+00:09:47.320 --> 00:09:51.800
+every task. It means one person owns the
+
+00:09:49.680 --> 00:09:54.040
+system. Let's read that again. If you're
+
+00:09:51.800 --> 00:09:55.880
+editing your own videos, chasing your
+
+00:09:54.040 --> 00:09:57.920
+own invoices, and formatting your own
+
+00:09:55.880 --> 00:10:00.400
+proposals, you don't have a business.
+
+00:09:57.920 --> 00:10:02.480
+You [music] have three minimum wage jobs
+
+00:10:00.400 --> 00:10:04.400
+stapled together. So, here's a rule.
+
+00:10:02.480 --> 00:10:06.160
+Your time goes to the two things only
+
+00:10:04.400 --> 00:10:08.000
+you can do. Selling and building client
+
+00:10:06.160 --> 00:10:10.040
+systems. Everything else gets handed off
+
+00:10:08.000 --> 00:10:12.040
+either to an AI agent or a human you pay
+
+00:10:10.040 --> 00:10:14.000
+a fraction of what your hour is actually
+
+00:10:12.040 --> 00:10:15.320
+worth. The founders who scale aren't the
+
+00:10:14.000 --> 00:10:16.960
+ones who work the most hours, they're
+
+00:10:15.320 --> 00:10:18.640
+the ones who protect their hours the
+
+00:10:16.960 --> 00:10:20.120
+hardest and delegate the other
+
+00:10:18.640 --> 00:10:21.960
+responsibilities. Now, the leverage
+
+00:10:20.120 --> 00:10:23.640
+system has two parts, hiring and an
+
+00:10:21.960 --> 00:10:24.680
+intelligence layer. So, let's touch on
+
+00:10:23.640 --> 00:10:26.600
+hiring first. I know what you're
+
+00:10:24.680 --> 00:10:27.920
+thinking, Ritesh, it's a one-person
+
+00:10:26.600 --> 00:10:31.280
+business. Hiring defeats the whole
+
+00:10:27.920 --> 00:10:33.840
+point. No, doing $12 an hour task with
+
+00:10:31.280 --> 00:10:35.960
+your $500 an hour brain defeats the
+
+00:10:33.840 --> 00:10:38.440
+whole point. That's the real loss. Your
+
+00:10:35.960 --> 00:10:40.360
+first hire isn't some big scary [music]
+
+00:10:38.440 --> 00:10:41.960
+full-time salary. It's a part-time
+
+00:10:40.360 --> 00:10:43.680
+contractor to take the lowest leverage
+
+00:10:41.960 --> 00:10:45.320
+thing off your plate. For example, my
+
+00:10:43.680 --> 00:10:46.960
+first hire was my [music] video editor
+
+00:10:45.320 --> 00:10:48.560
+because video editing takes hours and
+
+00:10:46.960 --> 00:10:50.520
+I'd rather not do it. I'd rather spend
+
+00:10:48.560 --> 00:10:52.480
+those hours doing higher level 10X
+
+00:10:50.520 --> 00:10:53.960
+tasks. In fact, use the pricing formula
+
+00:10:52.480 --> 00:10:55.600
+from system one on yourself. What does
+
+00:10:53.960 --> 00:10:57.320
+an hour of your time produce when it's
+
+00:10:55.600 --> 00:10:58.480
+spent selling? [music] Now, compare that
+
+00:10:57.320 --> 00:11:00.240
+to what you'd pay someone to do the
+
+00:10:58.480 --> 00:11:02.040
+grunt work. If those numbers aren't even
+
+00:11:00.240 --> 00:11:03.600
+close, and I'm trusting they're not,
+
+00:11:02.040 --> 00:11:06.040
+every week you don't delegate, you're
+
+00:11:03.600 --> 00:11:07.960
+the most overpaid intern at your own
+
+00:11:06.040 --> 00:11:10.240
+company. How does that sound? You're an
+
+00:11:07.960 --> 00:11:12.120
+intern, not a CEO. Now, the second part
+
+00:11:10.240 --> 00:11:13.680
+is an all-in-one intelligence system.
+
+00:11:12.120 --> 00:11:15.000
+This is a piece that ties all four
+
+00:11:13.680 --> 00:11:16.560
+systems together and it's where that
+
+00:11:15.000 --> 00:11:18.240
+classified prompt from the beginning of
+
+00:11:16.560 --> 00:11:19.720
+the video comes in. Here's the problem
+
+00:11:18.240 --> 00:11:21.160
+it solves. Even with every system
+
+00:11:19.720 --> 00:11:22.560
+running, you still start each day with
+
+00:11:21.160 --> 00:11:24.040
+the hardest question in business. What
+
+00:11:22.560 --> 00:11:25.520
+should I actually work on today? Your
+
+00:11:24.040 --> 00:11:27.080
+pipeline says one thing, your client
+
+00:11:25.520 --> 00:11:27.880
+work says another, your content calendar
+
+00:11:27.080 --> 00:11:29.560
+is screaming, and your brain [music]
+
+00:11:27.880 --> 00:11:31.880
+just picks whatever feels urgent. You
+
+00:11:29.560 --> 00:11:33.560
+have no actual system. So, I built an
+
+00:11:31.880 --> 00:11:35.080
+intelligence system on top of Cloud that
+
+00:11:33.560 --> 00:11:36.440
+acts like a chief of staff. It sits on
+
+00:11:35.080 --> 00:11:38.440
+top of my second brain, my pipeline
+
+00:11:36.440 --> 00:11:40.000
+tracker, my change log, my content plan,
+
+00:11:38.440 --> 00:11:41.560
+all the systems you just learned. And
+
+00:11:40.000 --> 00:11:43.240
+every morning, it tells me the highest
+
+00:11:41.560 --> 00:11:45.480
+leverage moves for the day, gives me
+
+00:11:43.240 --> 00:11:46.520
+cash flow insights, has its own COO,
+
+00:11:45.480 --> 00:11:48.280
+tells me where the money is, what's
+
+00:11:46.520 --> 00:11:49.760
+performing, and honestly, it sometimes
+
+00:11:48.280 --> 00:11:51.520
+even makes decisions for me. I mean,
+
+00:11:49.760 --> 00:11:53.240
+it's literally a built-in COO. And as
+
+00:11:51.520 --> 00:11:54.840
+promised, here's the classified prompt.
+
+00:11:53.240 --> 00:11:56.600
+This is the one I'd gatekeep if I were
+
+00:11:54.840 --> 00:11:58.080
+smarter about it. And my team told me to
+
+00:11:56.600 --> 00:11:59.520
+gatekeep this, so the fact I'm sharing
+
+00:11:58.080 --> 00:12:01.080
+this, please use this for your
+
+00:11:59.520 --> 00:12:02.560
+advantage. Run that on top of your
+
+00:12:01.080 --> 00:12:04.040
+second brain from system two, and you
+
+00:12:02.560 --> 00:12:05.640
+rebuild the intelligence layer that runs
+
+00:12:04.040 --> 00:12:07.600
+my business, one person, [music] four
+
+00:12:05.640 --> 00:12:09.120
+systems, zero chaos. Now, as these four
+
+00:12:07.600 --> 00:12:10.520
+systems apply, you just have one last
+
+00:12:09.120 --> 00:12:12.280
+step to take, and this is unfortunately
+
+00:12:10.520 --> 00:12:13.920
+where a lot of business owners fall off.
+
+00:12:12.280 --> 00:12:15.600
+That's [music] execution. You may know
+
+00:12:13.920 --> 00:12:17.120
+what you must do, but will you actually
+
+00:12:15.600 --> 00:12:18.360
+do it? I know you might tell yourself
+
+00:12:17.120 --> 00:12:20.040
+that you will, but a lot of business
+
+00:12:18.360 --> 00:12:21.760
+owners that I've seen have failed to do
+
+00:12:20.040 --> 00:12:23.480
+so. This is why if you want the extra
+
+00:12:21.760 --> 00:12:25.240
+guidance, I recommend booking a free
+
+00:12:23.480 --> 00:12:27.360
+strategy call with myself and my team.
+
+00:12:25.240 --> 00:12:28.800
+We'll help you develop an execution plan
+
+00:12:27.360 --> 00:12:30.760
+so you can put your knowledge into
+
+00:12:28.800 --> 00:12:32.560
+action. And if you're not ready yet, go
+
+00:12:30.760 --> 00:12:35.840
+ahead and watch this 5-hour free course
+
+00:12:32.560 --> 00:12:35.840
+I prepared just for you.
+

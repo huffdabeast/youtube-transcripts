@@ -1,0 +1,1787 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.680
+So, one Claude AI prompt made me six
+
+00:00:03.040 --> 00:00:07.200
+figures a month, and it's the same
+
+00:00:04.680 --> 00:00:09.280
+prompt that turned both ends of my money
+
+00:00:07.200 --> 00:00:11.120
+machine on this channel. It wrote the
+
+00:00:09.280 --> 00:00:13.160
+scripts that took my main channel past
+
+00:00:11.120 --> 00:00:15.520
+$477,000
+
+00:00:13.160 --> 00:00:16.680
+just in AdSense alone last year, and
+
+00:00:15.520 --> 00:00:19.080
+it's the prompt that I used to make
+
+00:00:16.680 --> 00:00:20.920
+almost every AI tool that I use on my
+
+00:00:19.080 --> 00:00:22.840
+channel. And not just my channel, I even
+
+00:00:20.920 --> 00:00:25.160
+used it to build the Facebook ad system
+
+00:00:22.840 --> 00:00:26.880
+that retargets every viewer who clicks
+
+00:00:25.160 --> 00:00:27.920
+on one of my links. And by the way, this
+
+00:00:26.880 --> 00:00:30.040
+is coming from someone who runs a
+
+00:00:27.920 --> 00:00:31.600
+YouTube channel with over 1.5 million
+
+00:00:30.040 --> 00:00:33.960
+subscribers. I've personally made over
+
+00:00:31.600 --> 00:00:35.400
+$10 million from YouTube alone, and I've
+
+00:00:33.960 --> 00:00:37.960
+worked with clients who've collectively
+
+00:00:35.400 --> 00:00:40.000
+generated over $100 million in revenue
+
+00:00:37.960 --> 00:00:42.440
+from YouTube. So, this isn't a cool
+
+00:00:40.000 --> 00:00:44.680
+prompt, this is the master prompt that
+
+00:00:42.440 --> 00:00:45.960
+builds every other prompt that I use on
+
+00:00:44.680 --> 00:00:47.360
+this channel. And today I'm going to be
+
+00:00:45.960 --> 00:00:49.280
+giving this prompt to you, and I'm going
+
+00:00:47.360 --> 00:00:51.680
+to be demonstrating exactly how I use it
+
+00:00:49.280 --> 00:00:53.960
+with two different examples, with a full
+
+00:00:51.680 --> 00:00:55.160
+walk-through, step by step. So, if you
+
+00:00:53.960 --> 00:00:56.840
+appreciate me making this type of
+
+00:00:55.160 --> 00:00:58.560
+content and you want to see me make more
+
+00:00:56.840 --> 00:01:00.480
+of it in the future, then gently tap
+
+00:00:58.560 --> 00:01:01.680
+that like button, and let's dive into it
+
+00:01:00.480 --> 00:01:03.040
+right now. Now, before we jump into
+
+00:01:01.680 --> 00:01:05.400
+this, I just want to say something about
+
+00:01:03.040 --> 00:01:08.080
+AI on YouTube right now. Uh most
+
+00:01:05.400 --> 00:01:10.280
+creators are using AI completely wrong,
+
+00:01:08.080 --> 00:01:12.120
+and almost all of the AI content on
+
+00:01:10.280 --> 00:01:13.200
+YouTube is terrible. And by the way,
+
+00:01:12.120 --> 00:01:14.880
+this is coming from someone who's been
+
+00:01:13.200 --> 00:01:16.600
+using Claude ever since it first came
+
+00:01:14.880 --> 00:01:18.400
+out. I would say that I'm one of the
+
+00:01:16.600 --> 00:01:20.320
+world-renowned experts on using Claude
+
+00:01:18.400 --> 00:01:22.080
+specifically for YouTube and content
+
+00:01:20.320 --> 00:01:24.240
+creation in general. And I hired
+
+00:01:22.080 --> 00:01:27.760
+somebody who's even better than me at
+
+00:01:24.240 --> 00:01:29.200
+AI. He's truly 0.1% when it comes to AI,
+
+00:01:27.760 --> 00:01:30.520
+and I literally hired him and I paid for
+
+00:01:29.200 --> 00:01:32.200
+him to stay in the apartment right next
+
+00:01:30.520 --> 00:01:33.560
+to me. So, I know exactly how to use AI
+
+00:01:32.200 --> 00:01:35.360
+correctly, and I can tell you right now
+
+00:01:33.560 --> 00:01:37.080
+that most creators aren't using it
+
+00:01:35.360 --> 00:01:38.720
+right, and one of the biggest reasons is
+
+00:01:37.080 --> 00:01:40.240
+because all the content on YouTube is
+
+00:01:38.720 --> 00:01:42.200
+terrible, right? So, most creators,
+
+00:01:40.240 --> 00:01:43.440
+they're going to open Claude or ChatGPT,
+
+00:01:42.200 --> 00:01:45.320
+they're going to type, "Write me a
+
+00:01:43.440 --> 00:01:47.560
+script about topic," and then they
+
+00:01:45.320 --> 00:01:50.080
+wonder why what comes back sounds like a
+
+00:01:47.560 --> 00:01:51.240
+corporate blog post written by a robot
+
+00:01:50.080 --> 00:01:52.360
+intern. And then they wonder why their
+
+00:01:51.240 --> 00:01:53.400
+channel isn't growing. Because of
+
+00:01:52.360 --> 00:01:55.480
+course, if you do this, you're going to
+
+00:01:53.400 --> 00:01:57.640
+create AI slop. When in reality, what
+
+00:01:55.480 --> 00:02:00.200
+you want to create is content that
+
+00:01:57.640 --> 00:02:01.960
+sounds like you. It's your opinion. It's
+
+00:02:00.200 --> 00:02:03.800
+tailored to you and your voice and the
+
+00:02:01.960 --> 00:02:05.440
+way that you write and or speak. And the
+
+00:02:03.800 --> 00:02:07.600
+secret to accomplishing this is you
+
+00:02:05.440 --> 00:02:09.520
+don't want to write the prompt yourself.
+
+00:02:07.600 --> 00:02:12.080
+You build a master prompt that
+
+00:02:09.520 --> 00:02:14.520
+interviews you, learns your voice, your
+
+00:02:12.080 --> 00:02:16.440
+channel, your audience, and then it
+
+00:02:14.520 --> 00:02:18.520
+builds the custom prompt that actually
+
+00:02:16.440 --> 00:02:21.320
+does the work. And then that custom
+
+00:02:18.520 --> 00:02:23.800
+prompt is going to interview you again
+
+00:02:21.320 --> 00:02:26.000
+to do the specific task. So, there's one
+
+00:02:23.800 --> 00:02:27.280
+master prompt that builds every other
+
+00:02:26.000 --> 00:02:29.320
+prompt that you need. And I'm going to
+
+00:02:27.280 --> 00:02:31.000
+show you exactly how it works. I'm going
+
+00:02:29.320 --> 00:02:32.840
+to walk you through two of the biggest
+
+00:02:31.000 --> 00:02:34.600
+builds on my channel, and I'm going to
+
+00:02:32.840 --> 00:02:36.400
+give you the prompt itself. So, whether
+
+00:02:34.600 --> 00:02:38.480
+you've never touched Claude or you've
+
+00:02:36.400 --> 00:02:40.160
+been messing with AI for a few months or
+
+00:02:38.480 --> 00:02:41.720
+you're a Claude expert, you're going to
+
+00:02:40.160 --> 00:02:43.240
+get a lot out of this video. So, let's
+
+00:02:41.720 --> 00:02:44.240
+go ahead and jump into it right now. So,
+
+00:02:43.240 --> 00:02:46.000
+first of all, let's talk about the
+
+00:02:44.240 --> 00:02:48.280
+prompt that builds prompts. So, here's
+
+00:02:46.000 --> 00:02:50.400
+why writing your own prompt cold just
+
+00:02:48.280 --> 00:02:52.440
+doesn't work. There are hundreds of
+
+00:02:50.400 --> 00:02:54.720
+different jobs that you might want AI to
+
+00:02:52.440 --> 00:02:56.600
+do on your channel. Scripts, titles,
+
+00:02:54.720 --> 00:02:58.480
+thumbnails, emails, ads, outlier
+
+00:02:56.600 --> 00:03:01.160
+research, audience mining, hooks, the
+
+00:02:58.480 --> 00:03:03.519
+list is endless. And every single one of
+
+00:03:01.160 --> 00:03:04.920
+these needs a totally different prompt.
+
+00:03:03.519 --> 00:03:06.640
+And you cannot sit down and write the
+
+00:03:04.920 --> 00:03:08.480
+perfect prompt for any one of those off
+
+00:03:06.640 --> 00:03:10.040
+the top of your head. Nobody can. You
+
+00:03:08.480 --> 00:03:12.080
+don't know what to include. You don't
+
+00:03:10.040 --> 00:03:14.120
+know what details actually matter. You
+
+00:03:12.080 --> 00:03:15.519
+don't know what edge cases to plan for.
+
+00:03:14.120 --> 00:03:17.120
+You're just guessing. And here's the
+
+00:03:15.519 --> 00:03:19.000
+thing about guessing with AI. You're
+
+00:03:17.120 --> 00:03:20.480
+going to get garbage every single time,
+
+00:03:19.000 --> 00:03:23.000
+right? It is going to create AI slop.
+
+00:03:20.480 --> 00:03:25.080
+Now, imagine the alternative. One master
+
+00:03:23.000 --> 00:03:27.720
+prompt. You tell it, "Here is the
+
+00:03:25.080 --> 00:03:30.040
+outcome that I want. Interview me until
+
+00:03:27.720 --> 00:03:32.600
+you have everything you need to build
+
+00:03:30.040 --> 00:03:34.920
+the perfect prompt for this."
+
+00:03:32.600 --> 00:03:36.360
+And then it goes to work on you. It asks
+
+00:03:34.920 --> 00:03:37.959
+you question after question after
+
+00:03:36.360 --> 00:03:39.760
+question about your voice, your
+
+00:03:37.959 --> 00:03:41.800
+audience, your goals, your style, the
+
+00:03:39.760 --> 00:03:43.400
+objections that your viewers have, the
+
+00:03:41.800 --> 00:03:45.200
+angles you want to hit. And if you don't
+
+00:03:43.400 --> 00:03:47.200
+know how to get at the information that
+
+00:03:45.200 --> 00:03:48.640
+it wants, you can literally just ask it
+
+00:03:47.200 --> 00:03:50.680
+and it'll tell you exactly how to do
+
+00:03:48.640 --> 00:03:53.480
+that. And then, when it has enough, it
+
+00:03:50.680 --> 00:03:55.880
+builds you a prompt, A real one tailored
+
+00:03:53.480 --> 00:03:56.760
+to you, reusable forever. And here's the
+
+00:03:55.880 --> 00:03:58.480
+thing that you need to understand
+
+00:03:56.760 --> 00:04:01.400
+because most people screw this up
+
+00:03:58.480 --> 00:04:04.200
+royally, okay? The raw material has to
+
+00:04:01.400 --> 00:04:05.600
+come from you, not the AI, right? That's
+
+00:04:04.200 --> 00:04:07.760
+the difference between AI that makes
+
+00:04:05.600 --> 00:04:10.240
+real money on YouTube and AI slop that
+
+00:04:07.760 --> 00:04:11.840
+gets you demonetized or even banned or
+
+00:04:10.240 --> 00:04:13.920
+just doesn't work in the first place.
+
+00:04:11.840 --> 00:04:16.359
+And yes, that is a real risk right now,
+
+00:04:13.920 --> 00:04:19.160
+right? YouTube is mass demonetizing or
+
+00:04:16.359 --> 00:04:20.760
+banning AI slop AI slop channels. Now,
+
+00:04:19.160 --> 00:04:22.800
+the AI master prompt is not really
+
+00:04:20.760 --> 00:04:24.480
+writing for you. It's pulling your brain
+
+00:04:22.800 --> 00:04:26.840
+out of your head and then structuring
+
+00:04:24.480 --> 00:04:28.840
+it. The voice, the stories, the angles,
+
+00:04:26.840 --> 00:04:31.680
+the experience, all of that comes from
+
+00:04:28.840 --> 00:04:33.520
+you. The AI is just the container. And
+
+00:04:31.680 --> 00:04:36.360
+that's why I'm going to have you yap out
+
+00:04:33.520 --> 00:04:37.440
+loud, voice chat, right? Do not type
+
+00:04:36.360 --> 00:04:39.320
+this.
+
+00:04:37.440 --> 00:04:41.280
+More on that in a second because your
+
+00:04:39.320 --> 00:04:43.880
+voice equals the source material.
+
+00:04:41.280 --> 00:04:45.280
+Anything else equals slop. Hey, quick
+
+00:04:43.880 --> 00:04:46.800
+break. I'm going to be doing a live
+
+00:04:45.280 --> 00:04:48.360
+training this week on how to start a
+
+00:04:46.800 --> 00:04:49.840
+YouTube channel step-by-step for
+
+00:04:48.360 --> 00:04:51.320
+beginners. This is going to be for
+
+00:04:49.840 --> 00:04:52.919
+people who want to start a channel, but
+
+00:04:51.320 --> 00:04:54.520
+they don't know what niche to pick, what
+
+00:04:52.919 --> 00:04:55.840
+videos to make, or how to actually get
+
+00:04:54.520 --> 00:04:57.960
+started the right way. And it's a
+
+00:04:55.840 --> 00:05:00.440
+completely free training, no strings
+
+00:04:57.960 --> 00:05:02.440
+attached. In fact, I'm giving away even
+
+00:05:00.440 --> 00:05:03.680
+more bonuses at the training. So, just
+
+00:05:02.440 --> 00:05:05.960
+as an example, I'm going to be giving
+
+00:05:03.680 --> 00:05:08.080
+away my niche validator. Um, this is
+
+00:05:05.960 --> 00:05:10.000
+going to be available both for ChatGPT
+
+00:05:08.080 --> 00:05:11.600
+as well as Claude, which is a super
+
+00:05:10.000 --> 00:05:13.640
+valuable piece of software where you can
+
+00:05:11.600 --> 00:05:15.800
+finally figure out what the best niche
+
+00:05:13.640 --> 00:05:17.240
+for you is. So, do not miss out on this
+
+00:05:15.800 --> 00:05:18.320
+training. Make sure you sign up for it
+
+00:05:17.240 --> 00:05:20.400
+down in the description and the pin
+
+00:05:18.320 --> 00:05:22.280
+comment below because you only get it if
+
+00:05:20.400 --> 00:05:24.280
+you join the training. So, if you don't
+
+00:05:22.280 --> 00:05:25.760
+join now, you might miss it. But, that
+
+00:05:24.280 --> 00:05:27.480
+being said, in the workshop, you'll get
+
+00:05:25.760 --> 00:05:29.120
+to meet me and you'll get to ask me
+
+00:05:27.480 --> 00:05:30.200
+questions directly. So, I look forward
+
+00:05:29.120 --> 00:05:31.040
+to seeing you in there. So, click the
+
+00:05:30.200 --> 00:05:32.520
+link in the description and the pin
+
+00:05:31.040 --> 00:05:33.800
+comment below, put it in your calendar,
+
+00:05:32.520 --> 00:05:35.480
+and if for whatever reason you missed
+
+00:05:33.800 --> 00:05:37.120
+out on it or you weren't able to attend,
+
+00:05:35.480 --> 00:05:39.320
+make sure you still click that link
+
+00:05:37.120 --> 00:05:40.720
+because we might be having workshops in
+
+00:05:39.320 --> 00:05:42.160
+the future as well, and you'll be the
+
+00:05:40.720 --> 00:05:43.800
+first to know about it. So, yeah, hope
+
+00:05:42.160 --> 00:05:45.560
+to see you there. And now, back to your
+
+00:05:43.800 --> 00:05:47.000
+regularly scheduled content. Okay, so,
+
+00:05:45.560 --> 00:05:48.400
+here's the actual workflow step-by-step.
+
+00:05:47.000 --> 00:05:50.640
+And by the way, I personally recommend
+
+00:05:48.400 --> 00:05:52.920
+Claude over Chat GPT for this one.
+
+00:05:50.640 --> 00:05:54.480
+Claude is just better at long interviews
+
+00:05:52.920 --> 00:05:56.280
+and matching your voice.
+
+00:05:54.480 --> 00:05:57.640
+Right, Chat GPT works, but Claude is the
+
+00:05:56.280 --> 00:05:59.280
+move. Gemini has also been getting
+
+00:05:57.640 --> 00:06:00.600
+better lately, but again, Claude is the
+
+00:05:59.280 --> 00:06:02.400
+best when it comes to creative stuff.
+
+00:06:00.600 --> 00:06:03.880
+Except for visuals like thumbnails and
+
+00:06:02.400 --> 00:06:05.800
+that kind of thing. In that case, Chat
+
+00:06:03.880 --> 00:06:07.040
+GPT or Gemini are still better. But step
+
+00:06:05.800 --> 00:06:09.440
+one, you're going to open Claude. Step
+
+00:06:07.040 --> 00:06:11.200
+two is to tell Claude the outcome that
+
+00:06:09.440 --> 00:06:12.680
+you want, and be specific. Don't just
+
+00:06:11.200 --> 00:06:14.640
+say, "Help me write scripts." Say
+
+00:06:12.680 --> 00:06:16.720
+something like, "I want a custom prompt
+
+00:06:14.640 --> 00:06:18.440
+that helps me write 15-to-20-minute
+
+00:06:16.720 --> 00:06:20.720
+YouTube scripts in my voice for my
+
+00:06:18.440 --> 00:06:22.320
+niche. I want you to interview me until
+
+00:06:20.720 --> 00:06:24.280
+you have enough information to build it.
+
+00:06:22.320 --> 00:06:26.919
+Ask me one question at a time." And
+
+00:06:24.280 --> 00:06:29.120
+then, if you have reference material for
+
+00:06:26.919 --> 00:06:30.880
+what you actually want the end product
+
+00:06:29.120 --> 00:06:32.560
+to be, that is when you would add the
+
+00:06:30.880 --> 00:06:34.200
+reference material. So for instance, if
+
+00:06:32.560 --> 00:06:36.440
+there's a video you've written where you
+
+00:06:34.200 --> 00:06:38.080
+were like, "Wow, this script was really,
+
+00:06:36.440 --> 00:06:39.919
+really good." You spent a lot of time on
+
+00:06:38.080 --> 00:06:42.280
+the script, for instance. Go ahead and
+
+00:06:39.919 --> 00:06:44.400
+copy and paste that script in and load
+
+00:06:42.280 --> 00:06:46.600
+it into this as well. Then step three is
+
+00:06:44.400 --> 00:06:47.960
+to, yeah, hit the voice button. You can
+
+00:06:46.600 --> 00:06:49.680
+either hit the one that's directly on
+
+00:06:47.960 --> 00:06:51.240
+Claude, or you can use something like
+
+00:06:49.680 --> 00:06:53.600
+Whisper Flow. I prefer Whisper Flow
+
+00:06:51.240 --> 00:06:55.600
+slightly. And then talk to it just like
+
+00:06:53.600 --> 00:06:57.480
+you're talking to a friend, okay? And
+
+00:06:55.600 --> 00:06:59.080
+then just answer its questions. And this
+
+00:06:57.480 --> 00:07:00.520
+part is huge. Typing limits how much you
+
+00:06:59.080 --> 00:07:02.600
+can actually say, but voice gets you
+
+00:07:00.520 --> 00:07:04.320
+talking like you, and it becomes much
+
+00:07:02.600 --> 00:07:05.640
+easier to answer the questions that it
+
+00:07:04.320 --> 00:07:06.960
+asks you. And the whole thing is going
+
+00:07:05.640 --> 00:07:09.040
+to fall apart if you type. It's just too
+
+00:07:06.960 --> 00:07:10.680
+much work, and it also doesn't actually
+
+00:07:09.040 --> 00:07:12.800
+sound like you're going to sound when
+
+00:07:10.680 --> 00:07:14.720
+you record the video. Then step four, go
+
+00:07:12.800 --> 00:07:16.280
+back and forth, sometimes 20 questions,
+
+00:07:14.720 --> 00:07:17.640
+sometimes 50. A lot of the time it'll
+
+00:07:16.280 --> 00:07:19.080
+start off asking you about five to 10
+
+00:07:17.640 --> 00:07:20.480
+questions at a time, and then you go
+
+00:07:19.080 --> 00:07:22.520
+through several cycles of that. But the
+
+00:07:20.480 --> 00:07:24.840
+deeper you go, the better the prompt
+
+00:07:22.520 --> 00:07:27.200
+that comes out. Then step five, when it
+
+00:07:24.840 --> 00:07:29.360
+has enough, ask it to build the prompt,
+
+00:07:27.200 --> 00:07:31.040
+and it'll spit out a massive custom
+
+00:07:29.360 --> 00:07:32.960
+reusable prompt. And then you want to
+
+00:07:31.040 --> 00:07:34.840
+save that prompt, okay? So this is your
+
+00:07:32.960 --> 00:07:36.280
+asset, so save it in a Google Doc, save
+
+00:07:34.840 --> 00:07:37.640
+it in a notes file, whatever you got to
+
+00:07:36.280 --> 00:07:39.600
+do, right? Don't lose it. Now you might
+
+00:07:37.640 --> 00:07:41.560
+be thinking, "But Shane, that sounds
+
+00:07:39.600 --> 00:07:42.720
+like it takes a long time." Yeah, it
+
+00:07:41.560 --> 00:07:44.200
+does. It's probably going to take you a
+
+00:07:42.720 --> 00:07:46.040
+couple hours. And I'll be honest with
+
+00:07:44.200 --> 00:07:48.520
+you, building the master prompt
+
+00:07:46.040 --> 00:07:50.880
+correctly does take hours. But here's
+
+00:07:48.520 --> 00:07:52.480
+the trade. You just have to pay the cost
+
+00:07:50.880 --> 00:07:54.920
+one time. And then, you're going to save
+
+00:07:52.480 --> 00:07:56.600
+yourself hundreds of hours over the next
+
+00:07:54.920 --> 00:07:58.120
+year. Every single time you sit down to
+
+00:07:56.600 --> 00:07:59.480
+make a video, you're not going to start
+
+00:07:58.120 --> 00:08:01.160
+from scratch. You're going to paste the
+
+00:07:59.480 --> 00:08:02.600
+prompt, you're going to yap your you're
+
+00:08:01.160 --> 00:08:04.120
+going to yap your topic, and then you're
+
+00:08:02.600 --> 00:08:06.520
+going to get a script tailored to your
+
+00:08:04.120 --> 00:08:08.160
+voice in 10 minutes. So, pay once and
+
+00:08:06.520 --> 00:08:09.520
+then print money forever. That's the
+
+00:08:08.160 --> 00:08:11.360
+trade. And look, I haven't just used
+
+00:08:09.520 --> 00:08:14.680
+this for one thing. I have literally
+
+00:08:11.360 --> 00:08:16.320
+built prompts and Claude skills for just
+
+00:08:14.680 --> 00:08:17.760
+about every possible thing you can
+
+00:08:16.320 --> 00:08:19.840
+imagine on YouTube. We're talking
+
+00:08:17.760 --> 00:08:21.880
+scripts, titles, thumbnails, email
+
+00:08:19.840 --> 00:08:24.320
+sequences, Facebook ads, outlier video
+
+00:08:21.880 --> 00:08:26.240
+research, audience comment mining, sales
+
+00:08:24.320 --> 00:08:27.880
+VSL scripts, niche selection, channel
+
+00:08:26.240 --> 00:08:29.919
+positioning, et cetera, et cetera. All
+
+00:08:27.880 --> 00:08:32.120
+of it. Every single one of those is a
+
+00:08:29.919 --> 00:08:34.360
+custom prompt and a custom Claude skill
+
+00:08:32.120 --> 00:08:36.120
+that I built using the master prompt.
+
+00:08:34.360 --> 00:08:37.680
+And today, I'm going to walk you through
+
+00:08:36.120 --> 00:08:39.800
+two of them. The two biggest ones, the
+
+00:08:37.680 --> 00:08:41.120
+ones that quietly do most of the work on
+
+00:08:39.800 --> 00:08:42.520
+this channel. And a bunch of the rest of
+
+00:08:41.120 --> 00:08:44.480
+them, I'm going to be giving away at a
+
+00:08:42.520 --> 00:08:45.640
+free live workshop that I'm doing this
+
+00:08:44.480 --> 00:08:46.960
+week. Link in the description in the
+
+00:08:45.640 --> 00:08:48.160
+pinned comment below. So, if you want
+
+00:08:46.960 --> 00:08:49.520
+those other prompts and those Claude
+
+00:08:48.160 --> 00:08:50.839
+skills, just go ahead and click that.
+
+00:08:49.520 --> 00:08:52.880
+But right now, let me show you how I
+
+00:08:50.839 --> 00:08:55.520
+built prompt number one. Okay, so build
+
+00:08:52.880 --> 00:08:56.640
+number one is going to be the scripting
+
+00:08:55.520 --> 00:08:57.800
+prompt. And this is the prompt that
+
+00:08:56.640 --> 00:08:59.040
+writes a lot of the scripts that you
+
+00:08:57.800 --> 00:09:00.600
+watch on this channel. Now, do I
+
+00:08:59.040 --> 00:09:02.440
+necessarily go word for word? No, I
+
+00:09:00.600 --> 00:09:04.000
+don't always go word for word, but I do
+
+00:09:02.440 --> 00:09:05.720
+have it there in case I don't know what
+
+00:09:04.000 --> 00:09:06.720
+to say. Usually, I'll just read it and
+
+00:09:05.720 --> 00:09:08.400
+then I'll kind of just say it in my own
+
+00:09:06.720 --> 00:09:10.120
+words. So, in this particular case, it's
+
+00:09:08.400 --> 00:09:11.720
+a PowerPoint. Now, this is a meta
+
+00:09:10.120 --> 00:09:14.200
+prompt. It doesn't write your scripts
+
+00:09:11.720 --> 00:09:16.400
+directly. What it does is it interviews
+
+00:09:14.200 --> 00:09:17.640
+you about your channel, your voice, your
+
+00:09:16.400 --> 00:09:19.839
+audience, your offer, your
+
+00:09:17.640 --> 00:09:21.920
+differentiator, your backstory, your
+
+00:09:19.839 --> 00:09:23.200
+philosophies, what videos have already
+
+00:09:21.920 --> 00:09:24.640
+done well on your channel or haven't
+
+00:09:23.200 --> 00:09:27.000
+done well on your channel, et cetera, et
+
+00:09:24.640 --> 00:09:29.200
+cetera. And then it builds you a custom
+
+00:09:27.000 --> 00:09:30.440
+script writing prompt tailored to you.
+
+00:09:29.200 --> 00:09:32.160
+From then on, every time you want to
+
+00:09:30.440 --> 00:09:34.520
+write a script, you paste that custom
+
+00:09:32.160 --> 00:09:36.880
+prompt into Claude, you yap your video
+
+00:09:34.520 --> 00:09:38.840
+topic for 5 minutes, and out comes a
+
+00:09:36.880 --> 00:09:40.480
+script that actually sounds like you.
+
+00:09:38.840 --> 00:09:43.080
+So, this is the master prompt right
+
+00:09:40.480 --> 00:09:44.320
+here. Uh it's a lot, and so if you want
+
+00:09:43.080 --> 00:09:45.520
+access to it, go ahead and click the
+
+00:09:44.320 --> 00:09:47.080
+link in the description and the pin
+
+00:09:45.520 --> 00:09:48.960
+comment below cuz it's a literally too
+
+00:09:47.080 --> 00:09:50.480
+much for me to even put on the screen.
+
+00:09:48.960 --> 00:09:52.480
+Now, let me show you what happens when
+
+00:09:50.480 --> 00:09:54.200
+you actually run it, right? To prove
+
+00:09:52.480 --> 00:09:56.360
+that this works on a regular person, not
+
+00:09:54.200 --> 00:09:58.280
+a YouTube veteran, I ran this on my
+
+00:09:56.360 --> 00:10:00.160
+brother Zach's channel. Now, Zach is
+
+00:09:58.280 --> 00:10:02.400
+older, he's never made a video in his
+
+00:10:00.160 --> 00:10:03.800
+life, uh not tech-savvy, and he didn't
+
+00:10:02.400 --> 00:10:05.800
+even know what RPM means, right? He
+
+00:10:03.800 --> 00:10:07.240
+doesn't know anything about YouTube.
+
+00:10:05.800 --> 00:10:08.600
+And he's been in the trades for about 30
+
+00:10:07.240 --> 00:10:10.400
+years. So, I had him use this prompt,
+
+00:10:08.600 --> 00:10:12.040
+and I had him yap to Claude for one
+
+00:10:10.400 --> 00:10:14.000
+session, and the master prompt
+
+00:10:12.040 --> 00:10:15.760
+interviewed him for about an hour about
+
+00:10:14.000 --> 00:10:17.720
+his trade, about his audience, about his
+
+00:10:15.760 --> 00:10:19.320
+voice, and about his offers. And we
+
+00:10:17.720 --> 00:10:20.960
+actually did the interview together, and
+
+00:10:19.320 --> 00:10:23.080
+when the interview finished, the prompt
+
+00:10:20.960 --> 00:10:24.840
+spat out the custom scriptwriting prompt
+
+00:10:23.080 --> 00:10:27.040
+for his channel, Zach of All Trades. And
+
+00:10:24.840 --> 00:10:28.840
+it had his trade knowledge baked in, his
+
+00:10:27.040 --> 00:10:30.720
+voice, his audience, and his affiliate
+
+00:10:28.840 --> 00:10:32.200
+offer. Then we used that second prompt
+
+00:10:30.720 --> 00:10:34.360
+that was produced to actually write his
+
+00:10:32.200 --> 00:10:36.840
+first scripts. Now, the second prompt
+
+00:10:34.360 --> 00:10:38.840
+that was produced also interviewed him,
+
+00:10:36.840 --> 00:10:40.720
+but it didn't have to ask him all the
+
+00:10:38.840 --> 00:10:43.400
+same questions it asked him before. It
+
+00:10:40.720 --> 00:10:44.920
+was just asking specifically about that
+
+00:10:43.400 --> 00:10:46.880
+video he was creating, right? So, the
+
+00:10:44.920 --> 00:10:48.760
+second interview is much faster than the
+
+00:10:46.880 --> 00:10:50.360
+first one. And we used this to create
+
+00:10:48.760 --> 00:10:52.440
+his first scripts, and here's what
+
+00:10:50.360 --> 00:10:54.480
+happened. Brand new channel, zero
+
+00:10:52.440 --> 00:10:56.839
+existing subscribers, he yapped each
+
+00:10:54.480 --> 00:10:58.360
+video topic for less than 15 minutes,
+
+00:10:56.839 --> 00:11:00.680
+out came the scripts in his voice, he
+
+00:10:58.360 --> 00:11:02.920
+recorded them, and his very first video
+
+00:11:00.680 --> 00:11:05.560
+blew up and got over 800,000 views. And
+
+00:11:02.920 --> 00:11:07.600
+by day 29 after posting his first video,
+
+00:11:05.560 --> 00:11:09.480
+he hit a $214
+
+00:11:07.600 --> 00:11:11.760
+day just from AdSense alone. And that is
+
+00:11:09.480 --> 00:11:13.520
+a $70,000 plus dollar year run rate. So,
+
+00:11:11.760 --> 00:11:16.080
+he literally went from zero to a
+
+00:11:13.520 --> 00:11:18.080
+full-time income in less than 1 month on
+
+00:11:16.080 --> 00:11:20.240
+YouTube. 50-year-old guy, brand new
+
+00:11:18.080 --> 00:11:21.880
+channel, uh technologically challenged,
+
+00:11:20.240 --> 00:11:24.320
+full-time income in less than a month on
+
+00:11:21.880 --> 00:11:26.560
+YouTube. Now, this created a Zach of All
+
+00:11:24.320 --> 00:11:29.040
+Trades master scriptwriting prompt, but
+
+00:11:26.560 --> 00:11:32.000
+it did more than just that. It also
+
+00:11:29.040 --> 00:11:34.200
+created a very detailed trade career
+
+00:11:32.000 --> 00:11:36.280
+database, which actually had to go out
+
+00:11:34.200 --> 00:11:38.080
+and scrape and mine information from the
+
+00:11:36.280 --> 00:11:39.560
+internet in order to create this trade
+
+00:11:38.080 --> 00:11:42.040
+career database. And this is an
+
+00:11:39.560 --> 00:11:44.200
+extremely detailed database that is not
+
+00:11:42.040 --> 00:11:46.520
+only very good, but more than that, it
+
+00:11:44.200 --> 00:11:47.960
+doesn't repeat the same careers over and
+
+00:11:46.520 --> 00:11:49.360
+over again, which is something that you
+
+00:11:47.960 --> 00:11:50.880
+run into if you make these types of
+
+00:11:49.360 --> 00:11:52.000
+videos. So, it actually chooses new
+
+00:11:50.880 --> 00:11:53.640
+careers, so it doesn't just sound like
+
+00:11:52.000 --> 00:11:55.920
+the same video over and over again. So,
+
+00:11:53.640 --> 00:11:57.640
+here's how you start. Open Claude, paste
+
+00:11:55.920 --> 00:11:59.280
+the script prompt builder that you got
+
+00:11:57.640 --> 00:12:01.200
+from the free link in the description in
+
+00:11:59.280 --> 00:12:03.720
+the pin comment below, hit the voice
+
+00:12:01.200 --> 00:12:05.440
+button, the mic icon on Claude, and
+
+00:12:03.720 --> 00:12:07.000
+start yapping. Literally just start
+
+00:12:05.440 --> 00:12:09.040
+answering the questions that it asks
+
+00:12:07.000 --> 00:12:10.440
+you, start yapping, then it's probably
+
+00:12:09.040 --> 00:12:11.840
+going to ask you some more questions,
+
+00:12:10.440 --> 00:12:13.520
+right? It's going to go deep on your
+
+00:12:11.840 --> 00:12:15.680
+voice, your niche, your dream viewer,
+
+00:12:13.520 --> 00:12:17.440
+your offer, etc., etc. And then save the
+
+00:12:15.680 --> 00:12:19.000
+custom prompt that it builds you. You
+
+00:12:17.440 --> 00:12:21.520
+can save it in Google Docs, notes,
+
+00:12:19.000 --> 00:12:24.360
+whatever. And then from now on, every
+
+00:12:21.520 --> 00:12:26.120
+single script, you paste the prompt, you
+
+00:12:24.360 --> 00:12:28.240
+yap your topic, and you script it in 10
+
+00:12:26.120 --> 00:12:29.360
+minutes. Now, one other thing you can do
+
+00:12:28.240 --> 00:12:30.680
+to make this really easy is you can
+
+00:12:29.360 --> 00:12:32.960
+actually just turn it into a Claude
+
+00:12:30.680 --> 00:12:34.600
+project or a Claude skill. I recommend
+
+00:12:32.960 --> 00:12:35.920
+that you don't do that until it's really
+
+00:12:34.600 --> 00:12:37.480
+dialed in because you're never going to
+
+00:12:35.920 --> 00:12:38.760
+get it absolutely perfect on the first
+
+00:12:37.480 --> 00:12:40.080
+time. There's always going to be some
+
+00:12:38.760 --> 00:12:41.600
+things that it does that you don't quite
+
+00:12:40.080 --> 00:12:43.520
+agree with, and then you just want to
+
+00:12:41.600 --> 00:12:45.160
+adjust the prompt from there until it's
+
+00:12:43.520 --> 00:12:47.520
+perfect. And then at that point, you can
+
+00:12:45.160 --> 00:12:48.760
+turn it into a project and or a skill.
+
+00:12:47.520 --> 00:12:49.960
+Now, by the way, if you're watching this
+
+00:12:48.760 --> 00:12:51.720
+and you're thinking, "Well, Shane, I
+
+00:12:49.960 --> 00:12:53.520
+don't really know what my niche is, or I
+
+00:12:51.720 --> 00:12:55.080
+think I know what my niche is, but I
+
+00:12:53.520 --> 00:12:57.040
+don't really know if I have it dialed
+
+00:12:55.080 --> 00:12:58.440
+in. I'm very unsure of my niche." Well,
+
+00:12:57.040 --> 00:13:00.760
+that is exactly what we're going to be
+
+00:12:58.440 --> 00:13:02.520
+going over in this week's live training.
+
+00:13:00.760 --> 00:13:04.720
+Okay, so let's talk about build number
+
+00:13:02.520 --> 00:13:06.920
+two, which is the Facebook Ads prompt.
+
+00:13:04.720 --> 00:13:09.200
+And this is a situation where I was
+
+00:13:06.920 --> 00:13:11.800
+actually talking to a very experienced
+
+00:13:09.200 --> 00:13:13.480
+media buyer who is extremely good at
+
+00:13:11.800 --> 00:13:15.240
+Facebook Ads, and specifically for
+
+00:13:13.480 --> 00:13:17.600
+creating content for Facebook Ads. And I
+
+00:13:15.240 --> 00:13:18.920
+had very little experience. I don't
+
+00:13:17.600 --> 00:13:20.480
+really know what I'm doing when it comes
+
+00:13:18.920 --> 00:13:22.480
+to Facebook Ads. Now, we were running
+
+00:13:20.480 --> 00:13:24.240
+Facebook Ads cuz we wanted to retarget
+
+00:13:22.480 --> 00:13:27.040
+people who come to our page from
+
+00:13:24.240 --> 00:13:29.880
+YouTube. And I I used this master prompt
+
+00:13:27.040 --> 00:13:32.800
+to build out a Facebook ads prompt that
+
+00:13:29.880 --> 00:13:35.800
+allowed me to create 350 completely
+
+00:13:32.800 --> 00:13:37.400
+unique creative videos, short videos,
+
+00:13:35.800 --> 00:13:40.200
+but usually they were between 1 to 2
+
+00:13:37.400 --> 00:13:41.960
+minutes each in less than 3 hours. And
+
+00:13:40.200 --> 00:13:43.640
+that was the entire thing, creating the
+
+00:13:41.960 --> 00:13:45.720
+prompt, then answering the questions for
+
+00:13:43.640 --> 00:13:47.080
+the prompt, then filming all the videos.
+
+00:13:45.720 --> 00:13:49.800
+And the media buyer that I was working
+
+00:13:47.080 --> 00:13:51.400
+with was absolutely dumbfounded that I
+
+00:13:49.800 --> 00:13:52.920
+was able to do this. Because not only
+
+00:13:51.400 --> 00:13:54.680
+did it actually create all those videos,
+
+00:13:52.920 --> 00:13:56.760
+but it actually created a spreadsheet
+
+00:13:54.680 --> 00:13:59.040
+that organized everything as well. And
+
+00:13:56.760 --> 00:14:01.320
+it created this insanely powerful matrix
+
+00:13:59.040 --> 00:14:02.600
+Google Sheets, right? So, it was all of
+
+00:14:01.320 --> 00:14:04.880
+the different words that I was supposed
+
+00:14:02.600 --> 00:14:06.680
+to say, it was all color coded, it was
+
+00:14:04.880 --> 00:14:08.120
+all named, so it's very easy for us to
+
+00:14:06.680 --> 00:14:09.920
+see in the future which ones are
+
+00:14:08.120 --> 00:14:11.360
+successful and which ones aren't. There
+
+00:14:09.920 --> 00:14:13.280
+are also different blocks for different
+
+00:14:11.360 --> 00:14:14.800
+types of avatars we were targeting,
+
+00:14:13.280 --> 00:14:17.800
+different hooks, different leads,
+
+00:14:14.800 --> 00:14:20.200
+different CTAs, different bodies, one
+
+00:14:17.800 --> 00:14:22.480
+page that was the combo matrix, and the
+
+00:14:20.200 --> 00:14:24.480
+filming order, and there was direction
+
+00:14:22.480 --> 00:14:26.480
+for exactly what the video editor should
+
+00:14:24.480 --> 00:14:28.040
+do as well. Along with the actual ads
+
+00:14:26.480 --> 00:14:29.440
+themselves, which we ended up getting a
+
+00:14:28.040 --> 00:14:30.720
+bunch of winners from, too. And here's
+
+00:14:29.440 --> 00:14:32.880
+the point, the point is I did something
+
+00:14:30.720 --> 00:14:34.160
+that I wasn't an expert on, right? I am
+
+00:14:32.880 --> 00:14:35.839
+pretty good at making content, I'm
+
+00:14:34.160 --> 00:14:37.800
+pretty good at copywriting, but I wasn't
+
+00:14:35.839 --> 00:14:39.600
+an expert specifically on Facebook
+
+00:14:37.800 --> 00:14:41.560
+retargeting ads. And I went into this
+
+00:14:39.600 --> 00:14:43.400
+knowing absolutely nothing, and 2 to 3
+
+00:14:41.560 --> 00:14:45.720
+hours later I did something that blew
+
+00:14:43.400 --> 00:14:48.080
+away someone who is an expert on
+
+00:14:45.720 --> 00:14:50.240
+Facebook ads. And that is the power of
+
+00:14:48.080 --> 00:14:51.960
+this prompt. So, how do you start this?
+
+00:14:50.240 --> 00:14:53.760
+Well, you open Claude, you tell the
+
+00:14:51.960 --> 00:14:55.360
+Claude the outcome, you use the master
+
+00:14:53.760 --> 00:14:56.640
+prompt that I put below, and then make
+
+00:14:55.360 --> 00:14:57.680
+sure you're specific about the outcome,
+
+00:14:56.640 --> 00:14:58.880
+right? Give it a good little yap
+
+00:14:57.680 --> 00:15:01.520
+session, you know, something like
+
+00:14:58.880 --> 00:15:04.160
+generate and organize this number of ad
+
+00:15:01.520 --> 00:15:06.040
+variations targeting this audience for
+
+00:15:04.160 --> 00:15:07.640
+this offer. Then, tell it to interview
+
+00:15:06.040 --> 00:15:09.640
+you until it's had enough, and then do a
+
+00:15:07.640 --> 00:15:11.000
+good old yap session, be specific about
+
+00:15:09.640 --> 00:15:12.640
+your audience, your offer, your
+
+00:15:11.000 --> 00:15:14.520
+objections, your brand voice, anything
+
+00:15:12.640 --> 00:15:15.880
+that it asks you for, try to get it. And
+
+00:15:14.520 --> 00:15:17.440
+if you don't know how to get it, ask it
+
+00:15:15.880 --> 00:15:18.920
+how to get it and it'll tell you. Then,
+
+00:15:17.440 --> 00:15:20.720
+it's going to create a master prompt,
+
+00:15:18.920 --> 00:15:22.840
+you save that prompt, and you run it
+
+00:15:20.720 --> 00:15:23.760
+whenever you need new variations, and
+
+00:15:22.840 --> 00:15:25.240
+it's going to go through that same
+
+00:15:23.760 --> 00:15:26.480
+process of interviewing you, but it's
+
+00:15:25.240 --> 00:15:28.280
+going to be much faster the second time
+
+00:15:26.480 --> 00:15:30.040
+around. And this way you never have to
+
+00:15:28.280 --> 00:15:31.400
+start from scratch again. Now, I have
+
+00:15:30.040 --> 00:15:33.120
+gone through this process, I've done all
+
+00:15:31.400 --> 00:15:34.960
+these Yap sessions being someone who's
+
+00:15:33.120 --> 00:15:37.000
+actually an expert on this myself, and
+
+00:15:34.960 --> 00:15:39.360
+we've created tools for just about every
+
+00:15:37.000 --> 00:15:41.360
+possible thing that you could possibly
+
+00:15:39.360 --> 00:15:43.360
+need on YouTube. For instance, there are
+
+00:15:41.360 --> 00:15:44.480
+some people who have messed up settings
+
+00:15:43.360 --> 00:15:45.560
+on their YouTube channel and that's the
+
+00:15:44.480 --> 00:15:47.040
+thing that's stopping their YouTube
+
+00:15:45.560 --> 00:15:48.800
+channel from growing. We have a Claude
+
+00:15:47.040 --> 00:15:50.080
+skill as well as a GPT created for that.
+
+00:15:48.800 --> 00:15:51.840
+A lot of people struggle selecting their
+
+00:15:50.080 --> 00:15:53.320
+niche. We have a Claude skill and a GPT
+
+00:15:51.840 --> 00:15:54.440
+created for that as well. Again, attend
+
+00:15:53.320 --> 00:15:55.400
+the live training by clicking the link
+
+00:15:54.440 --> 00:15:56.920
+in the description in the pin comment
+
+00:15:55.400 --> 00:15:57.960
+below. of people struggle with figuring
+
+00:15:56.920 --> 00:16:00.120
+out how to monetize their channel
+
+00:15:57.960 --> 00:16:01.840
+correctly. We have a Claude skill and a
+
+00:16:00.120 --> 00:16:03.160
+GPT created for that, too. And these are
+
+00:16:01.840 --> 00:16:04.400
+the things we actually make available to
+
+00:16:03.160 --> 00:16:05.840
+our clients completely free so they
+
+00:16:04.400 --> 00:16:07.920
+don't have to go through the hundreds of
+
+00:16:05.840 --> 00:16:09.320
+hours that I did to create them. And I
+
+00:16:07.920 --> 00:16:10.760
+didn't just create them, I created them
+
+00:16:09.320 --> 00:16:12.680
+and then I stress tested them and I
+
+00:16:10.760 --> 00:16:14.600
+tweaked them for sometimes months. So,
+
+00:16:12.680 --> 00:16:16.120
+they're really, really good. Now, I know
+
+00:16:14.600 --> 00:16:17.720
+that 99% of people that are watching
+
+00:16:16.120 --> 00:16:19.440
+this are just going to enjoy our free
+
+00:16:17.720 --> 00:16:21.080
+content. They're going to enjoy our live
+
+00:16:19.440 --> 00:16:22.520
+trainings also completely free and we
+
+00:16:21.080 --> 00:16:24.480
+give away a bunch of awesome free stuff
+
+00:16:22.520 --> 00:16:25.760
+at those live trainings as well. And I
+
+00:16:24.480 --> 00:16:27.280
+literally answer your questions at the
+
+00:16:25.760 --> 00:16:28.440
+end as well so you literally, like, any
+
+00:16:27.280 --> 00:16:29.920
+question you have for me, I'll answer it
+
+00:16:28.440 --> 00:16:31.400
+at the end. But, we're never going to
+
+00:16:29.920 --> 00:16:33.480
+end up working together and that's
+
+00:16:31.400 --> 00:16:35.160
+completely fine. I've said this before
+
+00:16:33.480 --> 00:16:36.800
+and I'll say it again, I love giving
+
+00:16:35.160 --> 00:16:38.680
+away at least 10 times more value than
+
+00:16:36.800 --> 00:16:40.480
+what I receive. That's completely fine
+
+00:16:38.680 --> 00:16:41.839
+with me. But, for the 1% of you out
+
+00:16:40.480 --> 00:16:43.720
+there that want a hand-holding
+
+00:16:41.839 --> 00:16:45.680
+experience, you either want one-on-one
+
+00:16:43.720 --> 00:16:47.560
+coaching where we work directly with you
+
+00:16:45.680 --> 00:16:49.560
+in a done-with-you capacity to help you
+
+00:16:47.560 --> 00:16:51.400
+reach your YouTube goals, or you just
+
+00:16:49.560 --> 00:16:52.600
+want us to do it for you. Go ahead and
+
+00:16:51.400 --> 00:16:53.720
+book a call with us by clicking the link
+
+00:16:52.600 --> 00:16:55.680
+in the description in the pin comment
+
+00:16:53.720 --> 00:16:56.760
+below. We only work with about 18% of
+
+00:16:55.680 --> 00:16:58.400
+people who apply and that's actually
+
+00:16:56.760 --> 00:16:59.680
+going down lately. We're getting more
+
+00:16:58.400 --> 00:17:00.960
+and more picky about who we work with.
+
+00:16:59.680 --> 00:17:02.800
+We're also only accepting about three to
+
+00:17:00.960 --> 00:17:04.240
+five people right now. And the types of
+
+00:17:02.800 --> 00:17:06.040
+people we typically work with are
+
+00:17:04.240 --> 00:17:07.600
+business owners, right? So, online
+
+00:17:06.040 --> 00:17:09.880
+business owners, obviously, like
+
+00:17:07.600 --> 00:17:12.120
+agencies, coaches, consultants, service
+
+00:17:09.880 --> 00:17:14.319
+providers, experts, et cetera. But, we
+
+00:17:12.120 --> 00:17:16.079
+also work with some types of in-person
+
+00:17:14.319 --> 00:17:18.839
+businesses. So, we've been working with
+
+00:17:16.079 --> 00:17:21.240
+realtors, law firms, cosmetic dentists,
+
+00:17:18.839 --> 00:17:22.760
+financial advisers, etc., etc. We also
+
+00:17:21.240 --> 00:17:24.120
+work with YouTubers who are getting a
+
+00:17:22.760 --> 00:17:26.040
+lot of views, but they're struggling to
+
+00:17:24.120 --> 00:17:28.240
+monetize. We typically only work with
+
+00:17:26.040 --> 00:17:29.520
+YouTubers in educational niches, though.
+
+00:17:28.240 --> 00:17:31.080
+Or we work with YouTubers who are
+
+00:17:29.520 --> 00:17:33.080
+crushing it, but they want to crush it
+
+00:17:31.080 --> 00:17:34.800
+even more. Or we work with people who
+
+00:17:33.080 --> 00:17:36.320
+want to treat YouTube like a business.
+
+00:17:34.800 --> 00:17:37.800
+So, these are usually professionals.
+
+00:17:36.320 --> 00:17:39.840
+We're talking doctors, lawyers,
+
+00:17:37.800 --> 00:17:42.160
+accountants, engineers, people who have
+
+00:17:39.840 --> 00:17:44.000
+skills, they have experience, they have
+
+00:17:42.160 --> 00:17:45.240
+a lot of value to give to the world. And
+
+00:17:44.000 --> 00:17:46.800
+they want to solve other people's
+
+00:17:45.240 --> 00:17:48.600
+problems, but they don't want to spend 3
+
+00:17:46.800 --> 00:17:50.080
+years figuring it out on their own. If
+
+00:17:48.600 --> 00:17:51.120
+that sounds like you, then go ahead and
+
+00:17:50.080 --> 00:17:52.960
+click that link in the description and
+
+00:17:51.120 --> 00:17:54.200
+pin comment below. But, only do it if
+
+00:17:52.960 --> 00:17:55.600
+you're very serious about growing and
+
+00:17:54.200 --> 00:17:56.920
+making money on YouTube. Now, if you
+
+00:17:55.600 --> 00:17:58.240
+want to check out an example of someone
+
+00:17:56.920 --> 00:17:59.560
+that we worked with, we helped them
+
+00:17:58.240 --> 00:18:01.000
+actually fully automate their
+
+00:17:59.560 --> 00:18:02.520
+eight-figure business and their YouTube
+
+00:18:01.000 --> 00:18:04.000
+channel. Go ahead and click right here
+
+00:18:02.520 --> 00:18:06.680
+and watch me interview my client,
+
+00:18:04.000 --> 00:18:06.680
+Thomas.
+

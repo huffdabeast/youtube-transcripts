@@ -1,0 +1,2058 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.360
+Anything that you do on your computer, your agent 
+could be doing and in many cases should be doing.  
+
+00:00:05.360 --> 00:00:10.640
+This is someone on my quote unquote payroll that 
+never stops working and cost 99% less than an  
+
+00:00:10.640 --> 00:00:15.920
+actual human. It's going to an actual browser and 
+browsing like a human. My hands are off the mouse  
+
+00:00:15.920 --> 00:00:20.800
+keyboard here. You can hook up Telegram, WhatsApp. 
+Anytime anything's on your mind while you're just  
+
+00:00:20.800 --> 00:00:26.240
+on your phone, you can put your agent to work. We 
+have probably 20 agents running autonomously, like  
+
+00:00:26.240 --> 00:00:32.160
+fully endto-end. I have an agent that is like my 
+visual designer and motion designer. This is crazy  
+
+00:00:32.160 --> 00:00:37.280
+to me because it would take me hours. You set it 
+up, you go to sleep, you wake up, you have leads.  
+
+00:00:37.280 --> 00:00:41.440
+You could do this for any niche. Your agent can 
+go and find these candidates and actually build  
+
+00:00:41.440 --> 00:00:47.360
+them new digital properties to the point where 
+you could sell the implementation of that website  
+
+00:00:47.360 --> 00:00:52.080
+specific to them. That becomes your template 
+that you then stamp out across all your clients.  
+
+00:00:52.080 --> 00:00:55.760
+You could start this for almost nothing. The guy 
+that I talked to actually did. I knew I asked it  
+
+00:00:55.760 --> 00:01:04.240
+to do this, but I didn't think it actually would. 
+That's incredible. Boom. That was incredibly easy.
+
+00:01:04.240 --> 00:01:09.440
+I bet you can't find me one person that wouldn't 
+want AI to just go out there, an AI agent,  
+
+00:01:09.440 --> 00:01:14.640
+and do stuff for it while they sleep. Well, today 
+we're talking about how to do that. Cloud's cool.  
+
+00:01:14.640 --> 00:01:19.680
+ChatGBT, awesome. Those are awesome. What if 
+it went a step further? What if Chat GBT was  
+
+00:01:19.680 --> 00:01:24.960
+in a robot body and could go a step further and do 
+stuff for you? times a h 100red AI agents. That's  
+
+00:01:24.960 --> 00:01:28.480
+what we're talking about today. How to make money 
+with them, how to build them, why they're cool,  
+
+00:01:28.480 --> 00:01:31.520
+why they're important, why they're dangerous, 
+how to guard rail them. And if you're the type  
+
+00:01:31.520 --> 00:01:35.760
+of person that agrees it's better to show than 
+tell, stick around because at the end of this  
+
+00:01:35.760 --> 00:01:40.560
+I'm actually going to build something with Hyper 
+Agent for myself. Super cool. Please enjoy. What  
+
+00:01:40.560 --> 00:01:47.280
+is a practical realistic use case for an AI agent 
+today that you're seeing people use on a daily  
+
+00:01:47.280 --> 00:01:53.200
+basis? Yeah, I'll jump right into one that's super 
+visual and easy to understand. This will start off  
+
+00:01:53.200 --> 00:01:58.480
+as kind of like a one-time task, like a project 
+for an agent, and then I want to show you how you  
+
+00:01:58.480 --> 00:02:04.320
+can start to change your thinking and and consider 
+these agents as persistent 247 employees. Okay,  
+
+00:02:04.320 --> 00:02:13.360
+so this is a run of an agent that has found 
+local businesses that have great reviews,  
+
+00:02:13.360 --> 00:02:19.120
+but no website or outdated websites. finds their 
+contact information, learns about their brand,  
+
+00:02:19.120 --> 00:02:23.840
+learns what customers love about them, and then 
+actually builds them an entirely new website. So,  
+
+00:02:23.840 --> 00:02:26.640
+let me walk you through what the agent actually 
+did here. So, what you're looking at basically  
+
+00:02:26.640 --> 00:02:31.760
+is all of the thread with the agent here is 
+on the left. All of the thinking process,  
+
+00:02:31.760 --> 00:02:36.560
+it spins up sub aents to delegate different uh 
+tasks to break things down, make them happen  
+
+00:02:36.560 --> 00:02:41.760
+in parallel. And then on the right here are all 
+of the artifacts. So, you can see the agent has  
+
+00:02:41.760 --> 00:02:47.120
+visited some websites, taken some screenshots. It 
+actually literally opens and runs its own browser  
+
+00:02:47.120 --> 00:02:51.040
+over here on the canvas. So while it's running, 
+you will see it actually navigating the web. And  
+
+00:02:51.040 --> 00:02:57.120
+then the final deliverable here is in the form 
+of an all-encompassing web page which is meant  
+
+00:02:57.120 --> 00:03:02.800
+to be for my consumption which contains all 
+of the business candidates that it found as  
+
+00:03:02.800 --> 00:03:07.520
+well as the websites that it built for them. 
+So, for example, we've got CS Automotive here,  
+
+00:03:07.520 --> 00:03:14.640
+300 plus Google reviews, fantastic reviews, but 
+uh no real digital presence, no website. And so,  
+
+00:03:14.640 --> 00:03:19.360
+it has actually based on its understanding of 
+what they do just from the customer reviews and  
+
+00:03:19.360 --> 00:03:25.280
+the things that people love about it, built them 
+an entire website here that has a booking system  
+
+00:03:25.280 --> 00:03:30.720
+as well. Oh, man. So, you can come through here, 
+even get an estimate. These are all just based on  
+
+00:03:30.720 --> 00:03:34.960
+best judgment, best guess of of pricing, right? 
+But if you were to actually get this in front  
+
+00:03:34.960 --> 00:03:39.120
+of this business, you could make this specific 
+to them. So the idea here is from one prompt,  
+
+00:03:39.120 --> 00:03:42.880
+if you're watching the video, pause it, screenshot 
+it. You can do this anywhere. You could do this  
+
+00:03:42.880 --> 00:03:47.760
+for any niche. Your agent can go and find these 
+candidates and actually build them new digital  
+
+00:03:47.760 --> 00:03:53.440
+properties to the point where you could sell 
+the implementation of that website specific  
+
+00:03:53.440 --> 00:03:57.520
+to them. So you could put this in an offer and 
+say, "Hey, we've learned about your business. We  
+
+00:03:57.520 --> 00:04:01.920
+think people probably can't find you the way that 
+they should be based on all your amazing reviews."  
+
+00:04:01.920 --> 00:04:07.600
+here is an example of the type of website we'd be 
+able to stand up for you within days. Or there's  
+
+00:04:07.600 --> 00:04:13.120
+even this notion that maybe that website is just 
+like a free giveaway because of just how easy it  
+
+00:04:13.120 --> 00:04:18.560
+is and how fast it is to do this at scale. Hey, 
+this is yours. This is yours for for zero cost. So  
+
+00:04:18.560 --> 00:04:23.920
+you see a few different things that I'll call out 
+there that agents are capable of. One is extensive  
+
+00:04:23.920 --> 00:04:29.920
+deep research all happening in parallel. This 
+whole run was about maybe 20 to 30 minutes from  
+
+00:04:29.920 --> 00:04:34.000
+the research finding the candidates to actually 
+building all these unique websites. Browser use,  
+
+00:04:34.000 --> 00:04:38.960
+like I mentioned, being able to actually judge 
+visual quality kind of qualitatively to say,  
+
+00:04:38.960 --> 00:04:43.520
+"Hey, that that to me." That's right. Yeah. That 
+looks like kind of an outdated website that could  
+
+00:04:43.520 --> 00:04:48.640
+be better. That's going to be a candidate for the 
+outreach. Actually managing drafting that outreach  
+
+00:04:48.640 --> 00:04:53.760
+per business. So tool use in there as well. So 
+it's going to be able to use your email and draft  
+
+00:04:53.760 --> 00:04:58.320
+those messages. is you can approve them or you 
+can just trust the agent and say go for it. So,  
+
+00:04:58.320 --> 00:05:03.840
+uh really good example of what pretty close to 
+a oneshot task that you can give an agent and  
+
+00:05:03.840 --> 00:05:08.720
+this skill is on the marketplace for free 
+as well. If anyone wants to try this for a  
+
+00:05:08.720 --> 00:05:13.040
+certain domain of businesses or in their local, 
+you should uh you should give it a try. So,  
+
+00:05:13.040 --> 00:05:18.240
+let's say three years ago, I have a an internet 
+agency that makes websites for local business  
+
+00:05:18.240 --> 00:05:22.960
+owners. Yeah. I'm going to spend my downtime, you 
+know, browsing through Google Business Profile,  
+
+00:05:22.960 --> 00:05:26.320
+finding businesses with no website, looking 
+into the reviews. Do they have pictures? Are  
+
+00:05:26.320 --> 00:05:32.320
+they optimized? Oh, here's one. Find their email, 
+scrape it, cross reference it, email them. I see  
+
+00:05:32.320 --> 00:05:37.520
+you don't have a website. Can I build that for 
+you? Your response rate is going to be 0.5%,  
+
+00:05:37.520 --> 00:05:42.400
+1% maybe. And then you respond, you hop 
+on a call back and forth, days elapse,  
+
+00:05:42.400 --> 00:05:46.160
+weeks elapse. Then it's like, "All right, what 
+kind of a website do you want? Let me close it.  
+
+00:05:46.160 --> 00:05:51.120
+Let me invoice you." And now you're saying 
+like you set this up, which you can just get  
+
+00:05:51.120 --> 00:05:55.040
+the template from you. We don't need to start 
+from scratch. You set it up, you go to sleep,  
+
+00:05:55.040 --> 00:06:00.160
+you wake up, theoretically you could have leads. 
+Yeah. So there's a Seinfeld episode where Kramer  
+
+00:06:00.160 --> 00:06:05.440
+takes this car out and he tries to push it as far 
+as he can go that you know how far it can drive  
+
+00:06:05.440 --> 00:06:10.160
+on empty. Yeah. If you were to get really bold 
+with this and go further, like send the invoice,  
+
+00:06:10.160 --> 00:06:16.160
+accept the payment, fulfill the service, hop on 
+a call with them with your product, how like how  
+
+00:06:16.160 --> 00:06:20.240
+far could you push this agent if you really wanted 
+to be hands-off? And I'm not saying people should.  
+
+00:06:20.240 --> 00:06:26.160
+I'm just curious. Anything that you do on your 
+computer, your agent could be doing and in many  
+
+00:06:26.160 --> 00:06:31.120
+cases should be doing. If it's more of a chore, 
+then your agent absolutely should be doing that.  
+
+00:06:31.120 --> 00:06:36.160
+Like if you feel while you're doing some computer 
+task that your brain is like almost off, you  
+
+00:06:36.160 --> 00:06:42.560
+should never be doing that task again. So actually 
+running the outreach and watching your inbox 247.  
+
+00:06:42.560 --> 00:06:48.000
+This is another huge one, Chris, where I'll uh 
+if I go into one of my agents here, I'll just  
+
+00:06:48.000 --> 00:06:53.040
+show you where we can set up tools. So when you go 
+into tools and integrations, you know, if a lead  
+
+00:06:53.040 --> 00:07:00.160
+comes in overnight, that needs to get a response 
+immediately, right? So there needs to be an inbox  
+
+00:07:00.160 --> 00:07:06.160
+kind of night owl agent as well where anything 
+that comes in inbound or earns a reply from your  
+
+00:07:06.160 --> 00:07:11.680
+outbound is immediately getting that that response 
+and that acknowledgement. We have agents running  
+
+00:07:11.680 --> 00:07:18.320
+uh ads as well autonomously like fully endtoend 
+generating the creative strategy optimizing the  
+
+00:07:18.320 --> 00:07:24.000
+spend uh doubling down on the winners killing 
+the losers. So everything related to filling your  
+
+00:07:24.000 --> 00:07:30.640
+pipeline, outbound ads, inbound sales coaching 
+is is another one. So get your notetaker on your  
+
+00:07:30.640 --> 00:07:34.880
+call, have those notes automatically passed 
+back to your team of agents so they can give  
+
+00:07:34.880 --> 00:07:40.160
+you feedback on your performance with that client. 
+How can you improve your close rates? How can you  
+
+00:07:40.160 --> 00:07:46.480
+sharpen your own script and uh and your ability 
+to actually secure that business? Daily marketing  
+
+00:07:46.480 --> 00:07:51.520
+competitive intel and industry briefs. feed 
+that into your team of agents as well to to  
+
+00:07:51.520 --> 00:07:55.680
+tune up the outreach that they're doing. Are there 
+things that are more timely or more relevant they  
+
+00:07:55.680 --> 00:08:00.320
+could be including? I'm also just showing directly 
+through the web interacting with these agents. But  
+
+00:08:00.320 --> 00:08:06.080
+another big shift is being able to just message 
+your agents as if they're teammates. So Slack is a  
+
+00:08:06.080 --> 00:08:10.720
+big one for us. You can hook up Telegram, you can 
+hook up WhatsApp, just like you would communicate  
+
+00:08:10.720 --> 00:08:15.200
+with an employee anytime anything's on your mind 
+while you're just on your phone. You can put your  
+
+00:08:15.200 --> 00:08:19.920
+agent to work. So, if I click in here to my team 
+of agents, each of these cards here is a different  
+
+00:08:19.920 --> 00:08:25.440
+agent that has a different job. And that helps 
+me actually organize. Okay, I only want to give  
+
+00:08:25.440 --> 00:08:30.880
+my agent access to be able to post on X if it it 
+is the agent that knows my brand voice and that  
+
+00:08:30.880 --> 00:08:35.440
+I'm explicitly told and granted that permission. 
+I want a separate agent that's actually touching  
+
+00:08:35.440 --> 00:08:41.360
+customer data and financial data. Those two things 
+better not ever cross. And I can create hard guard  
+
+00:08:41.360 --> 00:08:46.720
+rails by assigning those permissions to different 
+agents. It looks like with our team internally,  
+
+00:08:46.720 --> 00:08:52.240
+these aren't our literal agents, but we've got 
+four of us on the growth and marketing team here,  
+
+00:08:52.240 --> 00:08:57.360
+and we have probably 20 agents, each with 
+fairly broad sets of responsibility. Like,  
+
+00:08:57.360 --> 00:09:02.080
+I'm not talking like, oh, like one little workflow 
+or approval. You know, I have an agent that is  
+
+00:09:02.080 --> 00:09:08.000
+like my visual designer and motion designer that 
+creates all the stuff that we post on website or  
+
+00:09:08.000 --> 00:09:13.120
+on X. We have like a CMO agent that orchestrates 
+to all the other ones, copywriter agent.  
+
+00:09:13.120 --> 00:09:18.800
+you really start to think of these in terms of 
+full-time jobs. Okay. So, what's an example of a  
+
+00:09:18.800 --> 00:09:25.600
+breadandbut agent like simple but helpful that you 
+see a ton of your users using and then could you  
+
+00:09:25.600 --> 00:09:32.000
+show me how to build that live? Yes, sir. Okay. 
+So, the most popular agent on our marketplace,  
+
+00:09:32.000 --> 00:09:36.320
+which is where we have all these different agent 
+and skill templates, is called Signal. This is  
+
+00:09:36.320 --> 00:09:43.040
+your always on 247 sales agent. So it works 
+end to end owning the full pipeline. I'll walk  
+
+00:09:43.040 --> 00:09:47.360
+you through some of its key capabilities and then 
+I'll I'll show everyone how to actually grab this  
+
+00:09:47.360 --> 00:09:51.200
+agent and start setting it up for themselves. 
+So it is responsible for growing pipeline,  
+
+00:09:51.200 --> 00:09:54.800
+growing our business, getting us more customers. 
+So that's the explainer on Signal and then I'll  
+
+00:09:54.800 --> 00:10:00.800
+jump into seeing it in action. Yeah, let's do 
+it. Okay, so this is our thread with Signal.  
+
+00:10:00.800 --> 00:10:06.560
+So the way this is structured is in what we call 
+live mode. So there's basically one thread that  
+
+00:10:06.560 --> 00:10:13.120
+keeps getting the same prompt on a set cadence. 
+In this case, I have this set to every hour. And  
+
+00:10:13.120 --> 00:10:19.280
+Signal wrote this prompt, this loop effectively 
+for itself based on everything that I loosely  
+
+00:10:19.280 --> 00:10:23.920
+instructed it how to do. So this is a good like 
+general point with our agents as well. I just  
+
+00:10:23.920 --> 00:10:28.960
+describe a job description the same way I would 
+give an employee a job description. And the agent  
+
+00:10:28.960 --> 00:10:34.400
+is the one that can actually scribe those detailed 
+instructions for itself to the point where, you  
+
+00:10:34.400 --> 00:10:37.760
+know, there's been a lot of, I think, excitement 
+over the last several months about, you know,  
+
+00:10:37.760 --> 00:10:42.640
+skills and we have our skills on our marketplace. 
+I'm excited when a skill does the job. You won't  
+
+00:10:42.640 --> 00:10:47.520
+really find me diving into like the exact wording 
+in that skill or in the pieces of it because it's  
+
+00:10:47.520 --> 00:10:53.760
+not really for me anymore. It's for the agents to 
+run themselves. So every hour in this same thread,  
+
+00:10:53.760 --> 00:10:59.280
+this live mode prompt gets kind of reinserted into 
+that thread and then signal goes to work. So it  
+
+00:10:59.280 --> 00:11:04.240
+does everything that was just in that explainer. 
+It goes and finds new prospects based on our ICP.  
+
+00:11:04.240 --> 00:11:08.560
+It will build personalized landing pages for 
+them. So let's take a look at this one. I've  
+
+00:11:08.560 --> 00:11:12.400
+switched my context here. This is a different 
+type of company that we're kind of representing  
+
+00:11:12.400 --> 00:11:17.600
+the sales outbound function for. This is a real 
+company uh that I've been working with on their  
+
+00:11:17.600 --> 00:11:23.040
+hyper agent setup. It's called Swiss Solar and 
+they actually sell self self-cleaning solar panel  
+
+00:11:23.040 --> 00:11:27.680
+technology. Very very cool tech. That's cool. And 
+so you can imagine the types of prospects they're  
+
+00:11:27.680 --> 00:11:33.760
+looking to sell into are like industrial-grade 
+solar projects. They have found that their agent  
+
+00:11:33.760 --> 00:11:40.000
+can go out and actually source real information 
+and run deep research for specific people that  
+
+00:11:40.000 --> 00:11:46.800
+are the project leads on specific solar farms and 
+industrial projects. And then the idea here is  
+
+00:11:46.800 --> 00:11:53.760
+that this is a personalized landing page just for 
+that person. So you have you know what in the the  
+
+00:11:53.760 --> 00:11:59.280
+CTA in their case is let's let's discuss a study 
+or a pilot program. We actually have videos here  
+
+00:11:59.280 --> 00:12:04.000
+that the agent has created here as well. It's 
+got screenshots of the software. It's got real  
+
+00:12:04.000 --> 00:12:10.880
+images of that project that's all incorporated 
+into this hero video. Some animated explainers  
+
+00:12:10.880 --> 00:12:17.200
+discussing how the technology works. more shots 
+of the product UI. So, you can imagine like you  
+
+00:12:17.200 --> 00:12:23.040
+are receiving this very very personal and unique 
+proposal of a technology you're not familiar with  
+
+00:12:23.040 --> 00:12:28.480
+but has clearly put in the work to understand your 
+business, the specifics of your project. You know,  
+
+00:12:28.480 --> 00:12:32.480
+we think we have a much better chance getting 
+uh someone on the on the phone after receiving  
+
+00:12:32.480 --> 00:12:37.280
+a proposal like that than just a plain uh text 
+kind of cold email. I I feel like this is very  
+
+00:12:37.280 --> 00:12:42.160
+egofriendly. I like to say like if you're if we 
+were Yeah, I like that. on a live sales call or a  
+
+00:12:42.160 --> 00:12:47.280
+demo and I'm actually interested, but I don't want 
+to really show it, then I'm probably not gonna ask  
+
+00:12:47.280 --> 00:12:51.440
+as many questions as I want to ask. I don't want 
+to lead you on. So, I'm like, I don't know. I'll  
+
+00:12:51.440 --> 00:12:56.000
+check it out and then I might or I might not. But 
+this is very async, right? He can do it on his  
+
+00:12:56.000 --> 00:13:00.240
+own time. He could ask it a bunch of questions, 
+go through, take his time without the fear of  
+
+00:13:00.240 --> 00:13:05.760
+anyone watching him or anyone pressuring him, you 
+know? 100%. Yeah. And think about I mean again the  
+
+00:13:05.760 --> 00:13:10.240
+old school way to do this the I mean the classic 
+copout response from any buyer is like oh send me  
+
+00:13:10.240 --> 00:13:15.600
+some materials. Well now it's like I can send you 
+some materials. It is something hyper specific and  
+
+00:13:15.600 --> 00:13:20.160
+personalized to you. And hopefully if we do that 
+actually earlier in the process we stay out of  
+
+00:13:20.160 --> 00:13:24.800
+that trap of just needing to you know send someone 
+some materials. And so we're we're actually really  
+
+00:13:24.800 --> 00:13:30.160
+earning that buyer's attention and respect by 
+putting in that deeper work for what is in this  
+
+00:13:30.160 --> 00:13:35.200
+case especially a very high consideration type of 
+purchase. We're really starting that relationship  
+
+00:13:35.200 --> 00:13:39.280
+out on the right note. So, as I'm just scrolling 
+through here, you can see that Signal, this agent,  
+
+00:13:39.280 --> 00:13:44.480
+as it's been running in live mode, just 
+working 247 has been building out these  
+
+00:13:44.480 --> 00:13:49.600
+uh these contacts for real projects, been building 
+out all these pages, and then it's doing all of  
+
+00:13:49.600 --> 00:13:55.680
+its other kind of routine chores in every run as 
+well. CRM discipline. It's going to post an update  
+
+00:13:55.680 --> 00:13:59.760
+over to Slack for me as well. So, if I switch 
+over to Slack, this is what that looks like.  
+
+00:13:59.760 --> 00:14:05.520
+We're big fans of wherever possible, we think 
+agents should be prompting their humans rather  
+
+00:14:05.520 --> 00:14:08.720
+than humans needing to prompt their agents. 
+Your agents should just be working. Like your  
+
+00:14:08.720 --> 00:14:14.000
+agent should be working 24/7. They should have 
+clear guard rails, tool access, and then when  
+
+00:14:14.000 --> 00:14:19.680
+they need your attention or just to update you, 
+they will let you know, hey, in my 3pm loop,  
+
+00:14:19.680 --> 00:14:24.640
+here's what I did. Added some new prospects, built 
+out their pages here in the command center. Here  
+
+00:14:24.640 --> 00:14:30.240
+are some things I learned. That's the other really 
+powerful part. Once you get this wheel in motion  
+
+00:14:30.240 --> 00:14:35.760
+is the constant learning. So for the outreach that 
+does earn a reply, you're going to see more of  
+
+00:14:35.760 --> 00:14:39.680
+that from Signal. For the tactics that don't work, 
+you're going to see less of that and is always  
+
+00:14:39.680 --> 00:14:43.120
+going to be passing those learnings back to you. 
+Hey, here's the type of prospect that actually  
+
+00:14:43.120 --> 00:14:47.440
+seems to be responding better to our offer and the 
+type of messaging that's earning that click and  
+
+00:14:47.440 --> 00:14:53.600
+that call book. Interesting. Do you have any like 
+anecdotal case studies of people using your agent  
+
+00:14:53.600 --> 00:15:00.240
+for outbound sales that have like actual wins that 
+they've reported? Yeah, there's been a couple. Um,  
+
+00:15:00.240 --> 00:15:07.520
+let me show visually what some of it looks like. 
+We had, for example, a landscaping company that  
+
+00:15:07.520 --> 00:15:14.320
+has been using agents to actually build out their 
+proposals based on inbound leads in their case.  
+
+00:15:14.320 --> 00:15:19.360
+So, imagine you are looking to get some work done 
+on your yard. You send in a very short description  
+
+00:15:19.360 --> 00:15:22.960
+of what you're looking done with a picture of your 
+current yard. Maybe you send that out to three or  
+
+00:15:22.960 --> 00:15:28.160
+four different local companies. One of them gets 
+back to you, you know, very quickly and actually  
+
+00:15:28.160 --> 00:15:34.000
+has a vision for you of what your backyard could 
+look like, your actual yard. Like this is where  
+
+00:15:34.000 --> 00:15:39.200
+you started and this is what it could look like. 
+Meanwhile, the other three companies are like,  
+
+00:15:39.200 --> 00:15:42.960
+"Uh, well, we'll see when we can come on site." 
+Probably took them one or two days to get back to  
+
+00:15:42.960 --> 00:15:47.360
+you anyways. like what a competitive advantage it 
+is to not only have an agent that's able to reply  
+
+00:15:47.360 --> 00:15:53.360
+right away and kind of respect that that lead as 
+soon as it comes in, but actually potentially sell  
+
+00:15:53.360 --> 00:15:56.960
+them a little bit of a vision and not have the 
+customer have to use their imagination for an  
+
+00:15:56.960 --> 00:16:01.600
+offering like that. That's destined to fail. 
+We're not creative beings, right? Like we we  
+
+00:16:01.600 --> 00:16:05.840
+shouldn't have to expend brain power into how we 
+can give you more money. We need to do all that  
+
+00:16:05.840 --> 00:16:10.640
+for you. Take away all that. We got to see Yeah. 
+People have to see it to believe it. even things  
+
+00:16:10.640 --> 00:16:15.920
+that are, you know, a little bit less visual but 
+still uh kind of warrant this approach. We have a  
+
+00:16:15.920 --> 00:16:23.680
+paving company that is using satellite imagery of 
+uh large lots like parking lots that are clearly,  
+
+00:16:23.680 --> 00:16:29.440
+you know, past their prime. Yeah. And showing with 
+that satellite imagery and AI image generation,  
+
+00:16:29.440 --> 00:16:34.640
+here's exactly where we would repave estimates on 
+the cost based on what we can see from satellite.  
+
+00:16:34.640 --> 00:16:39.440
+Interesting. and you know the the impact to 
+the value and kind of like street curb appeal  
+
+00:16:39.440 --> 00:16:43.360
+of your of your business or your commercial 
+property whatever that might be. So there's  
+
+00:16:43.360 --> 00:16:48.320
+some really cool use cases like that. I'll share 
+one more was uh a company that does branded like  
+
+00:16:48.320 --> 00:16:54.720
+company apparel essentially. So you know you might 
+get your your company polos or hats or whatever.  
+
+00:16:54.720 --> 00:16:59.280
+Uh again you can see where this is going. Let's 
+build that prospect list. Let's actually take  
+
+00:16:59.280 --> 00:17:04.000
+their branding put it on some of our products. 
+use AI image generation to show, hey, this is what  
+
+00:17:04.000 --> 00:17:08.720
+your team could be looking like when they show up 
+to the site or show up to the trade show. Here's  
+
+00:17:08.720 --> 00:17:13.440
+some different visual styles, you know, interested 
+in in understanding more about what we can do. So,  
+
+00:17:13.440 --> 00:17:16.240
+those are some of the the fun ones that are a 
+little more on the visual side that people have  
+
+00:17:16.240 --> 00:17:21.520
+been doing. What about um this is just a personal 
+idea I have. So, I I just bought a ranch here in  
+
+00:17:21.520 --> 00:17:27.360
+North Texas and it has this pond that needs to 
+be dredged. And so, I'm looking for like pond  
+
+00:17:27.360 --> 00:17:32.080
+dredging companies, pond maintenance companies. 
+And and I had the thought and I prompted Claude  
+
+00:17:32.080 --> 00:17:38.480
+like, are there any companies that's like the Zoom 
+info for ponds? Like, if I were a pond management  
+
+00:17:38.480 --> 00:17:43.760
+company, could I buy a customer list? Could I get 
+leads from somewhere? And then I asked Claude,  
+
+00:17:43.760 --> 00:17:50.480
+"How many ponds are there on farms and ranches 
+in Texas?" 800,000. Okay, 800,000. And I said,  
+
+00:17:50.480 --> 00:17:54.320
+is there a directory? Is there a place where I 
+could sort through that? It's like, no, that's not  
+
+00:17:54.320 --> 00:17:59.440
+a thing. It's like, well, that that's very niche, 
+but certainly people would pay money for that. So,  
+
+00:17:59.440 --> 00:18:05.040
+could I use hyper agent to build an agent that 
+could go take I mean, all this stuff exists,  
+
+00:18:05.040 --> 00:18:10.080
+just satellite data, GIS, mapping, spreadsheets, 
+and just take a measurement. All right, like this  
+
+00:18:10.080 --> 00:18:15.600
+lake is one acre. The address is this based on the 
+PIN, and just put it all in like a Google sheet. I  
+
+00:18:15.600 --> 00:18:19.520
+like where you're going. Yeah. Do you think any of 
+that data would come from like zoning applications  
+
+00:18:19.520 --> 00:18:23.600
+or anything? Or would would straight up satellite 
+image analysis be the best sour? It could come  
+
+00:18:23.600 --> 00:18:29.680
+from tax records, zoning applications, like right, 
+let's try. Well, I'll I'll let Hyper Agent run and  
+
+00:18:29.680 --> 00:18:33.040
+we can we can keep chatting and we'll we'll see 
+what it does in the background. Let me prompt it  
+
+00:18:33.040 --> 00:18:38.720
+here. I just got an idea from my friend Chris 
+for uh our pond dredging company. Uh we're in  
+
+00:18:38.720 --> 00:18:43.440
+North Texas. you pick the the the town where this 
+might make sense, but what we want to do is build  
+
+00:18:43.440 --> 00:18:51.040
+out a database of all of the ponds that might need 
+dredging in the area. Uh we're thinking you might  
+
+00:18:51.040 --> 00:18:57.440
+be using satellite imagery to do that or maybe 
+zoning applications or other sources of data. Uh  
+
+00:18:57.440 --> 00:19:02.800
+do a little proof of concept sprint. See what you 
+can find using different approaches to find leads  
+
+00:19:02.800 --> 00:19:09.040
+for our pond dredging business. Oh man, that's 
+so good. So, we'll let our agent run there and  
+
+00:19:09.040 --> 00:19:13.760
+see what it comes up with. Yeah, it's not the 
+best use of time, but it is a little bit fun  
+
+00:19:13.760 --> 00:19:19.040
+to just watch them run. Yeah, you get to see their 
+whole thought process. You get to see them lay out  
+
+00:19:19.040 --> 00:19:24.560
+different approaches, rule them out, whether they 
+work or don't work. All of its actual um artifacts  
+
+00:19:24.560 --> 00:19:30.800
+will pop up on the canvas here as we go. It's like 
+Claude in a human form, right? It's like a robot  
+
+00:19:30.800 --> 00:19:35.760
+whose brain is cla or chadypty or grock or all of 
+the above or whichever one it decides to use with  
+
+00:19:35.760 --> 00:19:40.800
+the ability to go out and do the thing that you're 
+asking questions about. Yeah, exactly. Yeah. At a  
+
+00:19:40.800 --> 00:19:45.280
+technical level, it's worth mentioning in every 
+single thread, every agent actually literally  
+
+00:19:45.280 --> 00:19:50.080
+does have its own computer. It has its own virtual 
+machine where it can do things like run commands  
+
+00:19:50.080 --> 00:19:54.240
+and install libraries. And you're going to 
+watch it right here open up its own browser. So,  
+
+00:19:54.240 --> 00:19:59.040
+my hands are off the the mouse and keyboard here. 
+It has spawned what we call sub aents. So, it's  
+
+00:19:59.040 --> 00:20:03.840
+got a couple sub agents here where it's it's sort 
+of they're running like in parallel then. Yeah,  
+
+00:20:03.840 --> 00:20:07.360
+exactly. So, it's kind of got like the, you 
+know, it's got the gang together and said,  
+
+00:20:07.360 --> 00:20:12.080
+"All right, here's the overall plan. Agent one, I 
+need you to check the satellite data. Agent two,  
+
+00:20:12.080 --> 00:20:16.400
+I need you to check the zoning applications." 
+And they're going to go off and run in parallel  
+
+00:20:16.400 --> 00:20:21.440
+and then report back to uh to the main agent 
+as they they complete their their work. Okay,  
+
+00:20:21.440 --> 00:20:25.280
+that's a good one. Yeah, we'll see how it does. 
+I'm curious, what else have you seen from your  
+
+00:20:25.280 --> 00:20:31.520
+your audience when it comes to this concept of 
+having agents that you really start to treat more  
+
+00:20:31.520 --> 00:20:35.920
+like uh like employees or co-workers? Are people 
+pretty early in that journey? Are you seeing some  
+
+00:20:35.920 --> 00:20:41.040
+some cool experiments that people have started to 
+to get real value out of? Very early. I know a lot  
+
+00:20:41.040 --> 00:20:45.840
+of people that have AI implementation businesses, 
+they'll go into small to mediumsiz businesses and  
+
+00:20:45.840 --> 00:20:52.800
+do an AI audit or just help them install AI 
+tools. So I am curious how agents could help  
+
+00:20:52.800 --> 00:20:57.920
+them find more customers or help them fulfill 
+customers they already have. Yeah, this is a  
+
+00:20:57.920 --> 00:21:04.800
+group that we're thinking a ton about and I would 
+speak to it on two levels. So one is for the AI  
+
+00:21:04.800 --> 00:21:10.560
+automation agency itself for your own internal 
+operations. use these agents, whether you use  
+
+00:21:10.560 --> 00:21:15.040
+the pre-built templates or come in here and build 
+AI employees for yourself to find more customers  
+
+00:21:15.040 --> 00:21:19.680
+and also to service your customers, run your own 
+operations, project management, things like that.  
+
+00:21:19.680 --> 00:21:23.760
+But you could use that exact same flow that I 
+was sharing where that that same single agent  
+
+00:21:23.760 --> 00:21:29.440
+is running outbound, inbound, nurture, finding 
+leads within your niche, whether that's kind of  
+
+00:21:29.440 --> 00:21:34.160
+uh physical service businesses or something more 
+upmarket, whatever that might be. The second thing  
+
+00:21:34.160 --> 00:21:40.080
+is using this as a platform to actually deploy 
+the agents that you sell. So any agent here that  
+
+00:21:40.080 --> 00:21:45.280
+you create like you might have an agent for your 
+niche that let's say we stick with this like pond  
+
+00:21:45.280 --> 00:21:50.960
+dredging example that's like the pond dredging 
+project manager agent and we're going to go sell  
+
+00:21:50.960 --> 00:21:56.480
+this to all the pond dredging companies that 
+becomes your template that you then stamp out  
+
+00:21:56.480 --> 00:22:01.440
+across all your clients. So we think that our 
+platform also has a really strong position as  
+
+00:22:01.440 --> 00:22:08.800
+being the way that AI automation agencies actually 
+choose to sell, package, and deploy those agents  
+
+00:22:08.800 --> 00:22:13.280
+to the end client. And I'll I'll come back to this 
+agent in a second, but essentially the way that's  
+
+00:22:13.280 --> 00:22:17.600
+structured is we have this concept of teams. 
+They're kind of like different workspaces. And  
+
+00:22:17.600 --> 00:22:23.360
+so I could have a workspace for just one client 
+like Apex Landscaping. I could have workspace  
+
+00:22:23.360 --> 00:22:27.360
+for another client. And then I my client can 
+be in there and actually be the one paying the  
+
+00:22:27.360 --> 00:22:32.560
+bills for the ongoing AI costs, but I'm the one 
+actually managing and editing those agents that  
+
+00:22:32.560 --> 00:22:38.000
+are inside this workspace just for them. So I 
+have that backend access. The client can just  
+
+00:22:38.000 --> 00:22:42.240
+use the agents. You could give them edit access 
+if you want, but for most of those AI agencies,  
+
+00:22:42.240 --> 00:22:46.160
+we hear that they and their clients just want 
+the client to be an end user of the agent and  
+
+00:22:46.160 --> 00:22:50.640
+any backend changes to that agent, any config 
+is going to happen by the agency. And so you  
+
+00:22:50.640 --> 00:22:55.280
+can set up that exact model right in here. We 
+hear that AI implementation agencies are doing  
+
+00:22:55.280 --> 00:23:02.240
+a lot of like very creative and I would say 
+often like hacky stuff to be able to set up,  
+
+00:23:02.240 --> 00:23:07.600
+standardize and package their offering, deploy 
+it for clients with like a lot of technical stuff  
+
+00:23:07.600 --> 00:23:12.240
+with different private servers, everything like 
+that and then actually charging for it is uh is a  
+
+00:23:12.240 --> 00:23:17.760
+bit of a hassle as well. We can simplify a lot of 
+that with uh with this setup. Yeah. Beautiful. How  
+
+00:23:17.760 --> 00:23:23.600
+does Hyper Agent know what a good website looks 
+like? It's going to be looking both visually,  
+
+00:23:23.600 --> 00:23:27.600
+and by visually, I just mean literally like it'll 
+take a screenshot and then process visually what  
+
+00:23:27.600 --> 00:23:34.080
+it's saying. It can also look at the code itself. 
+So things like the color choices, the layout  
+
+00:23:34.080 --> 00:23:37.520
+choices, the use of negative space. I'm looking 
+at the landscaping one just because it's what I  
+
+00:23:37.520 --> 00:23:43.040
+had handy, but this is a obviously a page that 
+that agent has built itself. Code has become the  
+
+00:23:43.040 --> 00:23:48.080
+language of agents now. They're so good at looking 
+at code and understanding what they're seeing and  
+
+00:23:48.080 --> 00:23:52.080
+understanding how it could be better and how that 
+code is going to visually present itself. So it's  
+
+00:23:52.080 --> 00:23:56.640
+twofold. It's one is straight up image recognition 
+like if you were just take a screenshot of this  
+
+00:23:56.640 --> 00:24:01.600
+and say is this a clear layout? Is this good use 
+of color? Is this a modern you know font family?  
+
+00:24:01.600 --> 00:24:05.360
+Things like that. The second is actually by 
+inspecting the code. Those are the two ways that  
+
+00:24:05.360 --> 00:24:10.720
+that age can conclusion because they've seen all 
+the examples and all the references in the world  
+
+00:24:10.720 --> 00:24:15.600
+of every website that's out there and how web 
+design trends have have changed over time as well.  
+
+00:24:15.600 --> 00:24:21.120
+I mean, put maybe overly simplistically, it could 
+just Google best looking websites of 2026 and just  
+
+00:24:21.120 --> 00:24:25.920
+find random blogs and train itself on how that 
+looks. Like, all right, we're seeing a lot of SIF  
+
+00:24:25.920 --> 00:24:30.880
+fonts. We're seeing a lot of pastel colors, choo 
+pattern matching, pattern matching. Cool. Yeah,  
+
+00:24:30.880 --> 00:24:35.840
+exactly. If someone were total beginner to AI 
+agents, they've used Cloud, they've used Chad GBT,  
+
+00:24:35.840 --> 00:24:41.680
+never agents, what do you suggest they do from day 
+one on on your platform? Yeah, I would say pick a  
+
+00:24:41.680 --> 00:24:48.000
+part of your work that you find very tedious that 
+you would like to not do anymore that is like a  
+
+00:24:48.000 --> 00:24:53.920
+computer job and start with asking hyper agent to 
+build a dedicated agent for you to do that job.  
+
+00:24:53.920 --> 00:24:57.920
+That should hopefully give you the first taste 
+of what these agents can do. You can put that  
+
+00:24:57.920 --> 00:25:02.800
+agent into live mode as well like we talked about 
+with signal. So just every hour it comes through,  
+
+00:25:02.800 --> 00:25:06.720
+it runs its checklist, it does that job. From 
+there, you can start to get more ambitious. And  
+
+00:25:06.720 --> 00:25:10.640
+the metaphor is less about, oh, what are like 
+chores and tedious things that I don't want to  
+
+00:25:10.640 --> 00:25:16.640
+do? And it's more like, if I had all the money 
+and time in the world to make the dream higher  
+
+00:25:16.640 --> 00:25:21.840
+and make that person really successful, who would 
+I hire right now? And then what would they do 24/7  
+
+00:25:21.840 --> 00:25:26.400
+if they never had to sleep? So, for example, 
+with Signal, the sales agent, it's like, well,  
+
+00:25:26.400 --> 00:25:31.840
+dream sales hire would be constantly sourcing new 
+outbound, constantly sharpening its messaging and  
+
+00:25:31.840 --> 00:25:37.760
+its approach to our ICP definitions. It would go 
+super super deep in its research for every single  
+
+00:25:37.760 --> 00:25:43.600
+prospect and build them something very personal 
+as a proposal or pilot or initial offer. It would  
+
+00:25:43.600 --> 00:25:48.960
+never let a warm lead go cold. And it would track 
+everything perfectly in CRM. it would find that  
+
+00:25:48.960 --> 00:25:53.760
+you would get creative with where it finds contact 
+information. List those things out and then push  
+
+00:25:53.760 --> 00:25:58.960
+your agent to do as many of them as possible and 
+hopefully we've given a taste today of how far you  
+
+00:25:58.960 --> 00:26:03.760
+can go with that. What's something that you've 
+seen Hyper Agent do that genuinely surprised  
+
+00:26:03.760 --> 00:26:08.000
+you? Ooh, that's a good question. A lot of the 
+browser use stuff is really impressive because  
+
+00:26:08.000 --> 00:26:13.760
+it's so humanlike. The way it will actually 
+just navigate through web interfaces that are  
+
+00:26:13.760 --> 00:26:18.640
+not meant for agents. Like the web at large is 
+still pretty hostile to agents. You think about  
+
+00:26:18.640 --> 00:26:22.800
+things like even like captas that are just in the 
+way. They're like trivial for agents to solve now,  
+
+00:26:22.800 --> 00:26:27.680
+but they're still in the way from the era where we 
+were so concerned about bots. Now the shift that's  
+
+00:26:27.680 --> 00:26:32.320
+happening that's underway is people actually want 
+to make their websites very agent friendly so that  
+
+00:26:32.320 --> 00:26:37.280
+agents can find them as opposed to only being for 
+humans. But seeing agents actually browse the web,  
+
+00:26:37.280 --> 00:26:43.440
+visually process what they're seeing. We had our 
+agent do like a a landing page design tearown.  
+
+00:26:43.440 --> 00:26:48.320
+So if I go back through here, yeah, this landing 
+page tear down. So it was doing like this would be  
+
+00:26:48.320 --> 00:26:54.160
+for like a web design analysis or something like 
+that using its browser look at web design trends  
+
+00:26:54.160 --> 00:26:59.200
+and then come back with annotated markups the way 
+that like a really expert designer would. That  
+
+00:26:59.200 --> 00:27:04.240
+was really impressive to me between the browser 
+use, the visual understanding and you use that  
+
+00:27:04.240 --> 00:27:09.200
+that word taste which is becoming a hot topic 
+for sure with any kind of visual work or even  
+
+00:27:09.200 --> 00:27:12.960
+copyrightiting. In my experience, given the right 
+context and instruction, the models are getting  
+
+00:27:12.960 --> 00:27:18.000
+pretty good. A lot of the video work as well, 
+Chris, has become really, really exciting. So,  
+
+00:27:18.000 --> 00:27:22.880
+if I quickly go over to our X feed here, let me 
+show you some of the stuff that I've been able  
+
+00:27:22.880 --> 00:27:28.320
+to do with these agents. So, so let me let this 
+play and then I'll tell you about why this was so  
+
+00:27:28.320 --> 00:27:34.160
+exciting to me. So, this video that you're looking 
+at was created by a motion design agent. So,  
+
+00:27:34.160 --> 00:27:38.640
+it's very meta, but I have a motion design agent 
+creating videos about agents. Historically, for me  
+
+00:27:38.640 --> 00:27:45.760
+to do these demo videos, I have to use the product 
+as if I'm the customer I'm trying to represent and  
+
+00:27:45.760 --> 00:27:51.760
+then screen record the process, show the agent 
+generating its work, show a really good outcome,  
+
+00:27:51.760 --> 00:27:56.800
+and then edit that video together. It's very like 
+handcrafted and artisal. You got to get the timing  
+
+00:27:56.800 --> 00:28:00.720
+right. You got to make sure everything that's 
+on the screen is right. What's happening here is  
+
+00:28:00.720 --> 00:28:05.280
+this agent is actually using its own browser. 
+It logs into hyper agent and it says, "Hey,  
+
+00:28:05.280 --> 00:28:11.280
+Alex has asked me to create a demo of an agent 
+monitoring its inbox. It will actually do that,  
+
+00:28:11.280 --> 00:28:16.320
+understand how that would look as a real run 
+and then through code actually just create  
+
+00:28:16.320 --> 00:28:20.480
+that whole visual experience and animate it and 
+get all the timing right. It can also then take  
+
+00:28:20.480 --> 00:28:25.360
+creative liberties where it has like these popup 
+messages from the agent, a popup message from  
+
+00:28:25.360 --> 00:28:30.160
+the human user that are there because it helps 
+clarify the product story. This is crazy to me  
+
+00:28:30.160 --> 00:28:36.560
+because it would take me hours to create a screen 
+recording of this quality and there's even things  
+
+00:28:36.560 --> 00:28:40.960
+I wouldn't be able to do here where I'd have to 
+like awkwardly punch in on the text. Now the agent  
+
+00:28:40.960 --> 00:28:45.600
+can just have the whole storyboard of this whole 
+product animation exactly the way that it wants.  
+
+00:28:45.600 --> 00:28:49.840
+The creative possibilities that this unlocked have 
+been pretty amazing for me as a marketer. Okay,  
+
+00:28:49.840 --> 00:28:55.440
+first of all, that's wild. Second of all, how how 
+much babysitting is required? like with other vibe  
+
+00:28:55.440 --> 00:28:59.440
+vibe coding tools or prompting like it's loading 
+it's loading you're checking in you're fixing  
+
+00:28:59.440 --> 00:29:04.480
+you're fixing the last mile is really really hard 
+what would you say to that I would call it less  
+
+00:29:04.480 --> 00:29:09.840
+about babysitting it's not so much that I have to 
+watch it during runtime but there are definitely  
+
+00:29:09.840 --> 00:29:16.000
+a lot of iteration cycles so to get this motion 
+design agent for each of its runs I expect to  
+
+00:29:16.000 --> 00:29:20.720
+have to probably give it three or four rounds of 
+feedback so the the rhythm of that is I start the  
+
+00:29:20.720 --> 00:29:25.600
+thread I let it run it usually takes about 30 to 
+40 minutes because again it's using its browser to  
+
+00:29:25.600 --> 00:29:30.080
+actually study the product. It's actually coding 
+up a recreation simulation of the product. It's  
+
+00:29:30.080 --> 00:29:33.440
+thinking through the whole storyboard and then 
+rendering the video. It then pings me when it's  
+
+00:29:33.440 --> 00:29:37.600
+ready. There's probably things related to the 
+timing or the visuals or the sequence that I  
+
+00:29:37.600 --> 00:29:42.240
+want to see improved. Maybe some copy that is put 
+in the video is off. It runs again. That run's  
+
+00:29:42.240 --> 00:29:46.240
+going to be much shorter. Maybe 5 10 minutes. And 
+then maybe we have to do that a couple times. So  
+
+00:29:46.240 --> 00:29:51.520
+it will get to a serviceable output every time. I 
+don't have to babysit it in order to get it to a  
+
+00:29:51.520 --> 00:29:56.960
+decent output. But to get it to my standard is 
+usually going to take a couple tries. But that  
+
+00:29:56.960 --> 00:30:02.960
+time keeps getting lower because during every 
+run it is learning as it goes. And so it says,  
+
+00:30:02.960 --> 00:30:06.560
+"Okay, Alex has given me that feedback. 
+I'm not going to forget that." There's  
+
+00:30:06.560 --> 00:30:10.240
+always that perr run feedback and learning that 
+you're going to have to be prepared for. Again,  
+
+00:30:10.240 --> 00:30:14.320
+just like if you were onboarding an employee, 
+the difference here is that those learnings will  
+
+00:30:14.320 --> 00:30:19.360
+stick in the form of literal updates to its skills 
+and its memories. Okay. Speaking of marketplace,  
+
+00:30:19.360 --> 00:30:24.640
+can this browse Facebook marketplace and message 
+people? It can do anything through the browser. It  
+
+00:30:24.640 --> 00:30:29.040
+can do things more easily and faster when there's 
+an API. I haven't tried the marketplace example,  
+
+00:30:29.040 --> 00:30:32.800
+but of course you could do that through through 
+the browser directly. So, it could actually  
+
+00:30:32.800 --> 00:30:37.120
+literally open marketplace, scroll through based 
+on what you're looking for, try different search  
+
+00:30:37.120 --> 00:30:42.160
+terms, and either buy or sell on your behalf. For 
+sure. So, another example, you know, I bought this  
+
+00:30:42.160 --> 00:30:47.760
+ranch, so there's a bunch of stuff I need to buy. 
+I need to buy a side by side, a Bobcat, a tractor,  
+
+00:30:47.760 --> 00:30:52.560
+ton of stuff. So, I'm on Facebook Marketplace all 
+the time and sorting and talking when can I come  
+
+00:30:52.560 --> 00:30:56.720
+see it? And I have my assistant helping me, but 
+it's still a pain. So, I'm wondering if I could  
+
+00:30:56.720 --> 00:31:01.360
+go to my Claude project that I already have for 
+this. It knows exactly the makes and models and  
+
+00:31:01.360 --> 00:31:06.320
+prices that I'm looking for. Just say, "Claude, 
+give me a markdown file of everything of all this.  
+
+00:31:06.320 --> 00:31:11.360
+Give that to Hyper Agent and say, "Hey, let me log 
+into my Facebook account. You know what I want?  
+
+00:31:11.360 --> 00:31:15.920
+you know what I'm looking for. Every hour, every 
+two, if you see something that fits my criteria,  
+
+00:31:15.920 --> 00:31:20.000
+reach out and ask questions. Exactly. Right. 
+Yeah. I'll show you even step by step how you  
+
+00:31:20.000 --> 00:31:23.040
+would do something like that. So, let's imagine we 
+had that markdown file. You would literally just  
+
+00:31:23.040 --> 00:31:26.640
+attach it right here as you're getting set up. 
+And I would just say like create an agent that's  
+
+00:31:26.640 --> 00:31:32.960
+going to watch Facebook Marketplace for sales that 
+I specify. And we'll just see how this agent gets  
+
+00:31:32.960 --> 00:31:37.440
+spun up. I'll just want you to see the uh the 
+create agent flow here, which is really, really  
+
+00:31:37.440 --> 00:31:42.000
+simple. So, I've kept this one really general. If 
+you had like specific products, specific buying  
+
+00:31:42.000 --> 00:31:46.240
+criteria, you would just give all that to the 
+agent. If you see this little card right here,  
+
+00:31:46.240 --> 00:31:50.880
+we're now going to get what we would call a named 
+agent. So, a specific agent entity that's going  
+
+00:31:50.880 --> 00:31:55.600
+to have its own name, its own avatar, like all 
+these ones we've been seeing, signal, funnel,  
+
+00:31:55.600 --> 00:32:02.160
+red line. These are all named agents. So, you can 
+always use hyper agent just for a general task,  
+
+00:32:02.160 --> 00:32:06.560
+uh, kind of a one-time thing. But exactly what you 
+started describing there is where we're seeing all  
+
+00:32:06.560 --> 00:32:12.000
+of our customers start to shift. And what they 
+want is these persistent employee like entities  
+
+00:32:12.000 --> 00:32:17.280
+that actually perform a job on an ongoing basis. 
+So we've got this agent here called let's see what  
+
+00:32:17.280 --> 00:32:21.520
+it chose to name itself marketplace scout. So 
+as you see described here this is going to be  
+
+00:32:21.520 --> 00:32:26.560
+a persistent agent browser access listings table. 
+So it's always going to be remembering what it's  
+
+00:32:26.560 --> 00:32:31.120
+seeing what comes back around. So we can go ahead 
+and save this agent right here. It's suggesting  
+
+00:32:31.120 --> 00:32:34.880
+that we put the agent into live mode, which is 
+that feature that I talked about where it's just  
+
+00:32:34.880 --> 00:32:39.280
+gonna wake up every hour, run through its list, 
+run through its list, and if it sees something  
+
+00:32:39.280 --> 00:32:43.520
+that fits your criteria, you can instruct it on 
+how to notify you, whether that's through email,  
+
+00:32:43.520 --> 00:32:47.600
+WhatsApp, Telegram, Slack, Discord, whatever. 
+We'll enable live mode. And then when we go  
+
+00:32:47.600 --> 00:32:53.040
+see that agent, we can see it's given itself the 
+little shopping cart emoji as an avatar here for  
+
+00:32:53.040 --> 00:32:59.680
+fun. We can uh we can generate one as well. Maybe 
+friendly robot in a uh noir style. Why not? Let's  
+
+00:32:59.680 --> 00:33:03.440
+see what we get here. And then I'll show you 
+how we set up those integrations as well. But  
+
+00:33:03.440 --> 00:33:08.560
+that's cool. Yeah, our CEO actually has an agent 
+that will watch uh vintage sports car listings  
+
+00:33:08.560 --> 00:33:13.520
+for him. Uh which is very similar to what you're 
+describing. That's a good idea. Beautiful. Well,  
+
+00:33:13.520 --> 00:33:19.600
+how's our pond project doing? Let's see. The uh 
+the pond dredging lead genen analysis agent is  
+
+00:33:19.600 --> 00:33:24.400
+still working away. Let's see what it's found 
+so far. You can always uh jump in and just ask  
+
+00:33:24.400 --> 00:33:28.080
+your agent to summarize, but it's been working 
+hard. you, as you can see, like these runs,  
+
+00:33:28.080 --> 00:33:32.640
+they do get quite long with the more ambitious 
+tasks. And so, let me just see what it's learned  
+
+00:33:32.640 --> 00:33:36.320
+so far. Just pause work for a second and update 
+me with a few key bullets on what you've learned  
+
+00:33:36.320 --> 00:33:41.200
+so far. It gives you the whole thought process 
+here. So, a little out of my depths in terms of  
+
+00:33:41.200 --> 00:33:46.800
+this like geographic data it's looking at, but we 
+can see what data sources it's been trying. Yeah,  
+
+00:33:46.800 --> 00:33:51.360
+with a little more runtime, what I would expect 
+to get back from this agent would be basically  
+
+00:33:51.360 --> 00:33:56.720
+a single web page artifact that is kind of 
+like that command center that I had going for  
+
+00:33:56.720 --> 00:34:01.920
+the solar panel tech company where it's here's 
+all the leads, here is the buying signal that I  
+
+00:34:01.920 --> 00:34:06.000
+specifically identified, the data sources where 
+I got it from, and here's exactly the message I  
+
+00:34:06.000 --> 00:34:10.560
+would send to them as a reach out. So here's 
+what the agent found. Let's have a look here.  
+
+00:34:10.560 --> 00:34:15.520
+Here it picked a specific town in North Texas 
+looks like based on some population figures.  
+
+00:34:15.520 --> 00:34:20.240
+It's got imagery. It's got a pretty good start 
+there, it looks like. And then, like I mentioned,  
+
+00:34:20.240 --> 00:34:24.880
+I would just have it keep running and then deliver 
+its findings basically as a a briefing to me that  
+
+00:34:24.880 --> 00:34:29.440
+uses some of that design and formatting that 
+we saw from the other agents. Amazing. Well,  
+
+00:34:29.440 --> 00:34:33.600
+thank you, Alex, for your time. Where can we find 
+you? Where can we find this product? Follow us  
+
+00:34:33.600 --> 00:34:39.440
+on X would be uh the best place to keep up with 
+what we're doing. Hyper Agent OnX and uh use uh  
+
+00:34:39.440 --> 00:34:44.320
+the link that we'll provide for your audience to 
+get some initial free credits to get you started.  
+
+00:34:44.320 --> 00:34:48.960
+Give your agents some ambitious jobs. The jobs you 
+would give, you know, really skilled people that  
+
+00:34:48.960 --> 00:34:53.280
+you were hiring and see what they can do when you 
+you just let them run. Yeah. Let them help you,  
+
+00:34:53.280 --> 00:34:58.080
+you know, find customers, grow your business, run 
+operations. There's a ton of potential here. And  
+
+00:34:58.080 --> 00:35:01.920
+we've got some other customer stories you can see 
+on our socials as well if you want to get inspired  
+
+00:35:01.920 --> 00:35:06.720
+with with what people are doing. Beautiful. Thank 
+you, Alex. Awesome. Thanks, Chris. All right,  
+
+00:35:06.720 --> 00:35:11.040
+as promised, I'm going to log into Hyper Agent and 
+build some pretty cool stuff so you can see for  
+
+00:35:11.040 --> 00:35:16.560
+yourself hands-on how this actually works instead 
+of just talking about it theoretically. Okay,  
+
+00:35:16.560 --> 00:35:20.960
+this is Hyper Agent, which I am an active user 
+of, and it's built by the team at Air Table,  
+
+00:35:20.960 --> 00:35:26.560
+which I've been an active user of for years. You 
+give it a job, it goes off, it uses a browser and  
+
+00:35:26.560 --> 00:35:31.360
+real tools and comes back with something that is 
+actually finished. This thing can run a whole team  
+
+00:35:31.360 --> 00:35:36.480
+of these agents at once. It builds real stuff. 
+We're talking like entire web pages, dashboards,  
+
+00:35:36.480 --> 00:35:43.120
+not just text or images. There's this one company 
+that had a single dude build a fleet of 14 agents  
+
+00:35:43.120 --> 00:35:48.720
+that his whole team now uses every day. So, 
+today I'm going to use it for my favorite thing,  
+
+00:35:48.720 --> 00:35:53.120
+which is finding boring businesses that quietly 
+make a killing and then actually building one out.  
+
+00:35:53.120 --> 00:35:58.240
+We're going to start right here in the search box 
+and type in this prompt. Find me 10 boring local  
+
+00:35:58.240 --> 00:36:03.680
+businesses that quietly make over $500,000 a year 
+and that almost no one talks about. For each one,  
+
+00:36:03.680 --> 00:36:07.600
+tell me what it costs to get started, the 
+typical profit margins, and why more people  
+
+00:36:07.600 --> 00:36:12.400
+aren't doing it. Put it all on one clean page 
+that I can read fast. Cool. Okay, let's see  
+
+00:36:12.400 --> 00:36:18.240
+what it does. I'm going to leave it on the model 
+that it shows by default, which is GPT 5.6. Okay,  
+
+00:36:18.240 --> 00:36:22.320
+let's see what it's doing. Reasoning asking me 
+a couple questions here. What should make over  
+
+00:36:22.320 --> 00:36:27.760
+$500,000 a year mean? You know what? I'm going 
+to say owner profit. Which market should startup  
+
+00:36:27.760 --> 00:36:32.880
+costs and economics reflect? United States. Do 
+you want business models or 10 specific operating  
+
+00:36:32.880 --> 00:36:38.240
+companies? Both. So, if you give it a crappy 
+prompt, it improves it for you. Okay. I think it's  
+
+00:36:38.240 --> 00:36:43.840
+really important that you actually watch what the 
+agent does as it's doing it because it's mimicking  
+
+00:36:43.840 --> 00:36:49.760
+human behavior. It's going to an actual browser 
+in a cloud computer session and browsing like a  
+
+00:36:49.760 --> 00:36:54.640
+human. It's reading documents, searching the web, 
+portable sanitation. Oh, a little sneak preview  
+
+00:36:54.640 --> 00:37:00.560
+right there. Now, it's suggesting a couple skills 
+that we can save. This is basically like a skill.  
+
+00:37:00.560 --> 00:37:05.440
+It's a skill that Hyper agent just learned and it 
+wants to know if I want to save it and recall that  
+
+00:37:05.440 --> 00:37:09.120
+skill at any given point. Kind of like the Matrix, 
+right? They plug into his brain. He's like, I know  
+
+00:37:09.120 --> 00:37:13.840
+karate now. That's a skill. He doesn't have to use 
+that skill when he's talking to his grandma, but  
+
+00:37:13.840 --> 00:37:18.400
+if a bunch of bad dudes in suits approach him on 
+the street, he's going to access that skill that  
+
+00:37:18.400 --> 00:37:24.000
+he had learned previously. Same thing here. We'll 
+go ahead and save that. Let's go ahead and check  
+
+00:37:24.000 --> 00:37:29.920
+in with it. How's it going? Okay, I went ahead and 
+approved the plan as presented right here and now  
+
+00:37:29.920 --> 00:37:35.760
+it's cooking. Super cool. Research four boring 
+US local facility or assetbased business models  
+
+00:37:35.760 --> 00:37:40.480
+capable of exceeding 500,000 and normalize 
+annual benefit to the owner at established  
+
+00:37:40.480 --> 00:37:45.200
+scale. Multi-tore laundromats, laundry route, self 
+storage, express car wash, parking lots. Cool. The  
+
+00:37:45.200 --> 00:37:50.400
+initial screen is done. The threshold is genuinely 
+demanding. Most qualifying operators need several  
+
+00:37:50.400 --> 00:37:55.840
+crews yada yada yada. Tightening the evidence row, 
+especially the named examples. searching the web.  
+
+00:37:55.840 --> 00:38:01.520
+Bisby by sell. Bisby by sell. Cool. I like how 
+it's not just being a yes man and saying this one  
+
+00:38:01.520 --> 00:38:07.360
+can and this one can. This one can. It's saying 
+a $500,000 owner profit threshold eliminates most  
+
+00:38:07.360 --> 00:38:13.200
+easy side hustle examples and usually requires 
+multi-crew or multilocation scale. Appreciate the  
+
+00:38:13.200 --> 00:38:17.920
+honesty. So interesting watching it learn in real 
+time. It's an interesting route it's taking. It  
+
+00:38:17.920 --> 00:38:23.520
+says broker reported examples. So it's referring 
+to a business broker. And it's doing this, I'm  
+
+00:38:23.520 --> 00:38:30.960
+assuming, because I asked for specific examples of 
+500K SDE, sellers discretionary earnings, aka what  
+
+00:38:30.960 --> 00:38:35.280
+the business owner actually makes, because profit 
+is not it. You can make a million dollars profit,  
+
+00:38:35.280 --> 00:38:39.440
+but the owner is only able to pay himself a 
+fraction of that because he's reinvesting the  
+
+00:38:39.440 --> 00:38:45.280
+profit back into growth or he pays 38% in income 
+taxes or whatever. So, it decided to go look at  
+
+00:38:45.280 --> 00:38:52.080
+business broker listings because that's where 
+owner reported net profit is super interesting.  
+
+00:38:52.080 --> 00:38:56.240
+It says it's flagging unusually strong 
+earnings claims rather than treating them as  
+
+00:38:56.240 --> 00:39:01.200
+verified facts. So, it's checking itself. Elevator 
+maintenance, pest control, parking lot striping,  
+
+00:39:01.200 --> 00:39:06.160
+towing company, commercial cleaning, tree service. 
+Very cool. Okay, here we go. It's publishing it  
+
+00:39:06.160 --> 00:39:11.040
+on a web page for me. It didn't even ask it to 
+do that, but I'm down. Okay, research brief. 10  
+
+00:39:11.040 --> 00:39:16.720
+quiet businesses with the path to 500k in owner 
+earnings. Scale is mandatory. Broker data is not  
+
+00:39:16.720 --> 00:39:22.400
+audited. Okay. Parking lot and striping. I've 
+posted about this twice. Interviews like long  
+
+00:39:22.400 --> 00:39:26.800
+form interviews. We'll link to them below. 8,000 
+to 90,000 to start, which is not fully accurate.  
+
+00:39:26.800 --> 00:39:30.320
+You could start this for almost nothing. The 
+guy that I talked to actually did. You can buy a  
+
+00:39:30.320 --> 00:39:37.840
+$5 paint roller, but regardless, 35 to 40% net 
+profit. You would need $1.25 to $1.43 million  
+
+00:39:37.840 --> 00:39:43.600
+in revenue to have 500,000 in net profit. It 
+works because paint fades every 18 to 48 months.  
+
+00:39:43.600 --> 00:39:48.560
+People avoid it because it's night work, weather 
+windows, aggressive selling, bid accuracy, yada  
+
+00:39:48.560 --> 00:39:54.800
+yada. Septic drainage. Cool. Portable restroom 
+rental routes, commercial janitorial contracts,  
+
+00:39:54.800 --> 00:39:59.360
+pest control service routes. Number five, elevator 
+maintenance number six. And it says the downside  
+
+00:39:59.360 --> 00:40:04.480
+is license plus labor fortress, which I would 
+agree. Fire protection inspection. Number seven,  
+
+00:40:04.480 --> 00:40:09.280
+tree care and arborist. Number eight, 
+towing recovery and impound. And number 10,  
+
+00:40:09.280 --> 00:40:15.120
+pallet recovery, repair, and resale. Interesting. 
+And it shows how to verify these earnings claims.  
+
+00:40:15.120 --> 00:40:19.600
+Very cool. Now, I kind of want to know more 
+about the laundromat business. And I personally  
+
+00:40:19.600 --> 00:40:26.640
+don't really like the elevator maintenance 
+business. So, I'm going to ask it to swap that.
+
+00:40:26.640 --> 00:40:30.400
+Swap number six with laundromats. 
+Okay, look at that. Number six,  
+
+00:40:30.400 --> 00:40:35.120
+multi storere laundromat portfolio. There it 
+is. Now, let's have it go a step further. Take  
+
+00:40:35.120 --> 00:40:39.200
+number six and build me a page I can actually 
+publish. Put every laundromat within 30 mi on  
+
+00:40:39.200 --> 00:40:43.760
+a map. I'll put a zip code. Here's the zip code 
+I grew up in. Put every laundromat within 30 mi  
+
+00:40:43.760 --> 00:40:50.400
+of 32796 zip code on a map so I can see which 
+towns have a gap. Pull in real photos. Which  
+
+00:40:50.400 --> 00:40:55.760
+neighborhoods? And I'm going to put 100 miles. 
+Have a gap. Pull in real photos. Then add what it  
+
+00:40:55.760 --> 00:41:00.800
+cost to start. Simple pricing and how I land my 
+first customers. Pull it all on one page. I can  
+
+00:41:00.800 --> 00:41:06.560
+share. Okay. Centered the study on Titusville, 
+Florida. Building an overlapping search grid.  
+
+00:41:06.560 --> 00:41:10.960
+Now because map indexes cap results per query 
+the page will describe. So it's scraping Google  
+
+00:41:10.960 --> 00:41:16.960
+places which is awesome. Looking at census 
+data population buffalo mess. Yeah. Okay.  
+
+00:41:16.960 --> 00:41:20.720
+Okay. Look at this. It's doing exactly what 
+I said. There's where I grew up. Tisville,  
+
+00:41:20.720 --> 00:41:26.480
+Florida 32796 within 100 miles. It's making a map. 
+Okay. I knew I asked it to do this, but I didn't  
+
+00:41:26.480 --> 00:41:31.440
+think it actually would. That's incredible. It's 
+interactive. It's like based on what seems to be  
+
+00:41:31.440 --> 00:41:36.480
+the Google Maps API. This is incredible. Okay. 
+Done. It built and published the Space Coast  
+
+00:41:36.480 --> 00:41:43.120
+Laundry opportunity map. Okay. Interactive map 
+with 78 laundromats and four screening gap areas,  
+
+00:41:43.120 --> 00:41:47.280
+overlapping searches, and then it even has a 
+design here. Where should the next laundromat  
+
+00:41:47.280 --> 00:41:55.120
+go? Amazing. Click on a couple pins. Pulls in the 
+reviews, the address, star. Beautiful. Remember,  
+
+00:41:55.120 --> 00:42:00.640
+these agents actually learn as you use them. 
+They remember things like you remember things.  
+
+00:42:00.640 --> 00:42:05.600
+So each time it runs and builds stuff like this, 
+it's better than it was before. And guys, this  
+
+00:42:05.600 --> 00:42:11.040
+is amazing. It's interactive. It's handing me the 
+actual page, not like some theory, not some mockup  
+
+00:42:11.040 --> 00:42:16.720
+or wireframe. This is something I could hand over 
+to an investor right now. We want to publish it.  
+
+00:42:16.720 --> 00:42:21.280
+We do. I'm just going to hit this drop down right 
+here. Allow search engines to index this page.  
+
+00:42:21.280 --> 00:42:27.280
+Yes, please. Publish. Done. Done. That's it. Okay. 
+Now, we want to be sure that this saves. So on the  
+
+00:42:27.280 --> 00:42:32.240
+left sidebar here, we're going to click agents. 
+Cool. So, I told it that I wanted to save this as  
+
+00:42:32.240 --> 00:42:38.560
+an agent because I want it to update and run every 
+day, every week, whatever. And it says click this  
+
+00:42:38.560 --> 00:42:45.040
+save as agent. It open this window right here. 
+We're going to name it uh deal scout. Then we're  
+
+00:42:45.040 --> 00:42:49.680
+going to click invocations right here. And we're 
+going to create a schedule for it just in plain  
+
+00:42:49.680 --> 00:42:55.360
+English. Run every morning at 7:00 a.m. Oh, got to 
+be more specific. Run searches for new laundromats  
+
+00:42:55.360 --> 00:43:01.280
+in other Florida zip codes every morning at 7:00 
+a.m. Boom. Now it is on the team with the rest of  
+
+00:43:01.280 --> 00:43:06.800
+my AI agents. I've got another one that scouts a 
+Facebook marketplace for me personally every day  
+
+00:43:06.800 --> 00:43:11.200
+looking for skid steers to buy because I'm on the 
+market for one right now. This is someone on my  
+
+00:43:11.200 --> 00:43:16.880
+quote unquote payroll that never stops working and 
+costs, you know, 99% less than an actual human.  
+
+00:43:16.880 --> 00:43:21.920
+Boom. That was incredibly easy. Just took four 
+or five steps. You can let it find an idea for  
+
+00:43:21.920 --> 00:43:26.960
+you. You can give it an idea. Either one. It'll 
+do the research, create videos, publish stuff,  
+
+00:43:26.960 --> 00:43:31.760
+everything you need. Go try Hyper Agent. Use 
+the exact same prompt that I used or your own,  
+
+00:43:31.760 --> 00:43:35.200
+whatever, and see what it digs up in your town. 
+Let me know in the comments what you find.
+

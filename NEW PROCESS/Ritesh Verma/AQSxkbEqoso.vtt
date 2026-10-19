@@ -1,0 +1,935 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.920
+You only need one AI agent to run your
+
+00:00:02.080 --> 00:00:05.800
+entire business. Everyone's been saying
+
+00:00:03.920 --> 00:00:08.040
+Open Claw this, Open Claw that, but I
+
+00:00:05.800 --> 00:00:09.160
+may have just found a tool that is Open
+
+00:00:08.040 --> 00:00:10.840
+Claw 2.0. [music]
+
+00:00:09.160 --> 00:00:12.120
+It's an absolute game-changer, and to
+
+00:00:10.840 --> 00:00:14.160
+show you, I'm going to walk through the
+
+00:00:12.120 --> 00:00:17.200
+exact process I'd follow to set up a
+
+00:00:14.160 --> 00:00:19.600
+profitable AI agency in 2026 with just
+
+00:00:17.200 --> 00:00:21.480
+AI agents. No team, no overhead, just
+
+00:00:19.600 --> 00:00:22.680
+agents doing all the work. And before I
+
+00:00:21.480 --> 00:00:24.235
+reveal what this tool is, we need to
+
+00:00:22.680 --> 00:00:25.360
+talk about why Open Claw isn't something
+
+00:00:24.235 --> 00:00:27.560
+[music] you should be using anymore.
+
+00:00:25.360 --> 00:00:29.200
+Yes, it has 150,000 GitHub stars. Yes,
+
+00:00:27.560 --> 00:00:30.760
+people are losing their minds over it.
+
+00:00:29.200 --> 00:00:32.400
+And yes, [music] everyone is talking
+
+00:00:30.760 --> 00:00:33.960
+about it. But in reality, it's a
+
+00:00:32.400 --> 00:00:35.960
+security nightmare, which is why a lot
+
+00:00:33.960 --> 00:00:37.200
+of enterprises are no longer using Open
+
+00:00:35.960 --> 00:00:38.920
+Claw. I'm not the only one saying this.
+
+00:00:37.200 --> 00:00:40.360
+Cisco published a full report calling it
+
+00:00:38.920 --> 00:00:42.200
+an absolute nightmare from a security
+
+00:00:40.360 --> 00:00:44.080
+perspective. Kaspersky found critical
+
+00:00:42.200 --> 00:00:46.280
+vulnerabilities that opened the door to
+
+00:00:44.080 --> 00:00:48.000
+theft of private keys, API tokens, and
+
+00:00:46.280 --> 00:00:49.760
+user data, which is horrible. I mean,
+
+00:00:48.000 --> 00:00:51.520
+think about it. You're giving this agent
+
+00:00:49.760 --> 00:00:53.440
+full [music] system access, read and
+
+00:00:51.520 --> 00:00:54.880
+write files, run shell commands, execute
+
+00:00:53.440 --> 00:00:56.760
+scripts. It literally says that on their
+
+00:00:54.880 --> 00:00:58.920
+page. And yes, you can sandbox it with
+
+00:00:56.760 --> 00:01:00.760
+the mini docker or on a VPS, but by
+
+00:00:58.920 --> 00:01:02.720
+default, you're leaving everything wide
+
+00:01:00.760 --> 00:01:04.360
+open. And it gets even crazier. Open
+
+00:01:02.720 --> 00:01:06.400
+Claw's [music] biggest benefit is that
+
+00:01:04.360 --> 00:01:08.000
+it runs continuously and it persists
+
+00:01:06.400 --> 00:01:09.560
+memory across every session, and it
+
+00:01:08.000 --> 00:01:11.040
+knows more about you, your business,
+
+00:01:09.560 --> 00:01:12.560
+your clients, but it also knows more
+
+00:01:11.040 --> 00:01:14.200
+about your passwords and how you run
+
+00:01:12.560 --> 00:01:16.400
+your internal operations and sensitive
+
+00:01:14.200 --> 00:01:18.360
+information. But if anyone compromises
+
+00:01:16.400 --> 00:01:20.400
+your Open Claw instance, if it was on a
+
+00:01:18.360 --> 00:01:21.920
+VPS or even if someone in takes a hold
+
+00:01:20.400 --> 00:01:23.760
+of your Mac mini and somehow, you know,
+
+00:01:21.920 --> 00:01:25.280
+confiscates it, the attacker gets
+
+00:01:23.760 --> 00:01:26.520
+everything. They know all your business
+
+00:01:25.280 --> 00:01:28.240
+secrets, they know all your business's
+
+00:01:26.520 --> 00:01:30.040
+data, and they can do whatever they want
+
+00:01:28.240 --> 00:01:32.000
+now. And for most AI business owners
+
+00:01:30.040 --> 00:01:33.960
+trying to build a successful AI agency
+
+00:01:32.000 --> 00:01:35.440
+and leverage AI agents, but don't want
+
+00:01:33.960 --> 00:01:36.600
+to handle a bunch of security risk for
+
+00:01:35.440 --> 00:01:38.480
+their clients or their own personal
+
+00:01:36.600 --> 00:01:40.360
+business, there's a much better tool out
+
+00:01:38.480 --> 00:01:42.320
+there, and that's Max [music] Claw. It's
+
+00:01:40.360 --> 00:01:44.160
+an AI agent built on the Open Claw
+
+00:01:42.320 --> 00:01:46.080
+framework, but with one-click deployment
+
+00:01:44.160 --> 00:01:47.400
+by Minimax. [music] So to do this, you
+
+00:01:46.080 --> 00:01:48.840
+simply go to Minimax, and you're going
+
+00:01:47.400 --> 00:01:50.200
+to see an option that says one-click
+
+00:01:48.840 --> 00:01:51.800
+deployment for Open Claw. You're going
+
+00:01:50.200 --> 00:01:53.920
+to click that, and Max Claw, which is
+
+00:01:51.800 --> 00:01:55.440
+Minimax's managed version of Open Claw,
+
+00:01:53.920 --> 00:01:57.840
+will deploy for you instantly without
+
+00:01:55.440 --> 00:01:59.560
+any servers, Docker, no API keys you got
+
+00:01:57.840 --> 00:02:00.840
+to manage, no security patch to worry
+
+00:01:59.560 --> 00:02:02.560
+about. [music] And here's why that all
+
+00:02:00.840 --> 00:02:04.440
+matters. See, every single vulnerability
+
+00:02:02.560 --> 00:02:06.800
+that Open Claw users had to manually
+
+00:02:04.440 --> 00:02:08.880
+patch, Max Claw handles it for you
+
+00:02:06.800 --> 00:02:11.440
+behind the scenes. So basically, all the
+
+00:02:08.880 --> 00:02:13.480
+power of Open Claw you get, but without
+
+00:02:11.440 --> 00:02:15.680
+any security risk. And once this is all
+
+00:02:13.480 --> 00:02:17.720
+deployed, it's time to get to work. Now
+
+00:02:15.680 --> 00:02:19.080
+to see how powerful Max Claw really is,
+
+00:02:17.720 --> 00:02:21.080
+we're going to build an entire AI
+
+00:02:19.080 --> 00:02:22.880
+business from scratch from marketing to
+
+00:02:21.080 --> 00:02:24.400
+the landing page. But before we do that,
+
+00:02:22.880 --> 00:02:26.680
+I would like to thank today's sponsor,
+
+00:02:24.400 --> 00:02:28.120
+Minimax, which also provides you Max
+
+00:02:26.680 --> 00:02:30.000
+Claw. [music] Minimax agent is a
+
+00:02:28.120 --> 00:02:32.080
+powerful 24/7 workspace that integrates
+
+00:02:30.000 --> 00:02:34.880
+SCP skills, experts, and more. The new
+
+00:02:32.080 --> 00:02:36.600
+M2.7 update has a self-improvement model
+
+00:02:34.880 --> 00:02:38.160
+that allows for maximum productivity and
+
+00:02:36.600 --> 00:02:40.480
+highly efficient development. It can
+
+00:02:38.160 --> 00:02:42.200
+work with 50-plus skills and 60 to 100
+
+00:02:40.480 --> 00:02:43.920
+feature lists without having issues or
+
+00:02:42.200 --> 00:02:45.760
+needing constant re-prompting. And a
+
+00:02:43.920 --> 00:02:47.026
+really cool part about Minimax is even
+
+00:02:45.760 --> 00:02:48.200
+when I'm not around, everything keeps
+
+00:02:47.026 --> 00:02:50.360
+[music] running smoothly, and I can
+
+00:02:48.200 --> 00:02:52.320
+check it anytime from my phone. Because
+
+00:02:50.360 --> 00:02:54.800
+the entire agent is containerized, it's
+
+00:02:52.320 --> 00:02:56.760
+running 24/7 without me having to be
+
+00:02:54.800 --> 00:02:58.080
+watching it. Now that sounds great, but
+
+00:02:56.760 --> 00:03:00.400
+let's really put it to the test. And the
+
+00:02:58.080 --> 00:03:02.200
+first thing I do when testing any new AI
+
+00:03:00.400 --> 00:03:04.200
+tool is how fast [music] can it respond,
+
+00:03:02.200 --> 00:03:06.080
+how clear are the instructions? So I
+
+00:03:04.200 --> 00:03:08.120
+primarily run my business on Notion, all
+
+00:03:06.080 --> 00:03:09.960
+my video planning, idea charts, CRMs. So
+
+00:03:08.120 --> 00:03:11.640
+I asked Max Claw to connect with Notion,
+
+00:03:09.960 --> 00:03:13.240
+and told me pretty quickly how to do so.
+
+00:03:11.640 --> 00:03:14.520
+Then I asked it how to make a skill. For
+
+00:03:13.240 --> 00:03:15.960
+those who don't know, a skill is a
+
+00:03:14.520 --> 00:03:17.520
+repeatable action that an agent can
+
+00:03:15.960 --> 00:03:19.320
+learn to do. It's like if a sales closer
+
+00:03:17.520 --> 00:03:20.840
+had a skill of closing deals, your agent
+
+00:03:19.320 --> 00:03:22.120
+can have its own skill, writing LinkedIn
+
+00:03:20.840 --> 00:03:23.480
+posts, generating YouTube scripts,
+
+00:03:22.120 --> 00:03:25.040
+creating thumbnails, whatever you train
+
+00:03:23.480 --> 00:03:26.760
+it to do. Now before creating my first
+
+00:03:25.040 --> 00:03:28.560
+skill, I wanted to take a step back.
+
+00:03:26.760 --> 00:03:30.520
+Remember, we are doing this to build a
+
+00:03:28.560 --> 00:03:32.480
+business, and the number one thing a
+
+00:03:30.520 --> 00:03:33.600
+business needs is marketing. You can
+
+00:03:32.480 --> 00:03:34.840
+have the best product in the world, but
+
+00:03:33.600 --> 00:03:37.040
+if your marketing sucks, no one's going
+
+00:03:34.840 --> 00:03:39.000
+to buy it. So while most people don't
+
+00:03:37.040 --> 00:03:40.680
+want to spend the time marketing and,
+
+00:03:39.000 --> 00:03:42.120
+you know, creating LinkedIn posts, X
+
+00:03:40.680 --> 00:03:43.680
+posts, creating YouTube videos, we're
+
+00:03:42.120 --> 00:03:45.200
+going to just have Max Claw do it all
+
+00:03:43.680 --> 00:03:47.040
+for us. We're going to start with
+
+00:03:45.200 --> 00:03:48.800
+creating a LinkedIn marketing arm using
+
+00:03:47.040 --> 00:03:50.680
+Max Claw. See, LinkedIn is a goldmine
+
+00:03:48.800 --> 00:03:52.560
+for B2B leads. And a high-converting
+
+00:03:50.680 --> 00:03:54.520
+LinkedIn post consists of a solid hook,
+
+00:03:52.560 --> 00:03:55.520
+a strong body, and some sort of visual.
+
+00:03:54.520 --> 00:03:57.480
+For most people, they don't want to
+
+00:03:55.520 --> 00:03:59.760
+spend 30 minutes, 60 minutes creating a
+
+00:03:57.480 --> 00:04:01.920
+highly crafted, very selective, [music]
+
+00:03:59.760 --> 00:04:04.000
+highly engaging LinkedIn post. So what I
+
+00:04:01.920 --> 00:04:06.040
+did next was I created a skill on Max
+
+00:04:04.000 --> 00:04:08.480
+Claw that made it write LinkedIn posts
+
+00:04:06.040 --> 00:04:10.200
+and generate a dry diagram that matches
+
+00:04:08.480 --> 00:04:11.680
+the writing of that post. Once it was
+
+00:04:10.200 --> 00:04:13.680
+done, [music] I tested the diagram
+
+00:04:11.680 --> 00:04:15.680
+skill. I had the Max Claw agent create a
+
+00:04:13.680 --> 00:04:17.040
+diagram for a specific post, and this is
+
+00:04:15.680 --> 00:04:18.560
+what it came up with. I mean, it was
+
+00:04:17.040 --> 00:04:20.079
+pretty accurate. It encapsulated
+
+00:04:18.560 --> 00:04:21.320
+everything the post should have. The
+
+00:04:20.079 --> 00:04:22.720
+flow was clean, information was
+
+00:04:21.320 --> 00:04:24.760
+structured, and I didn't even have to
+
+00:04:22.720 --> 00:04:27.280
+take that diagram and edit it [music] in
+
+00:04:24.760 --> 00:04:29.120
+Figma or Canva. I used it as is. With
+
+00:04:27.280 --> 00:04:30.760
+LinkedIn complete, I then branched out
+
+00:04:29.120 --> 00:04:32.560
+to YouTube because YouTube is my main
+
+00:04:30.760 --> 00:04:33.793
+source of marketing. To do so, I
+
+00:04:32.560 --> 00:04:34.320
+launched another Max Claw instance.
+
+00:04:33.793 --> 00:04:35.760
+[music]
+
+00:04:34.320 --> 00:04:38.000
+And by the way, another benefit of this
+
+00:04:35.760 --> 00:04:39.960
+platform is simultaneous agents. You can
+
+00:04:38.000 --> 00:04:41.360
+run multiple agents at the same time,
+
+00:04:39.960 --> 00:04:43.280
+each with their own skill set, their own
+
+00:04:41.360 --> 00:04:44.960
+knowledge base, their own purpose. The
+
+00:04:43.280 --> 00:04:46.680
+second agent had just one goal, which is
+
+00:04:44.960 --> 00:04:48.280
+to run my YouTube arm while the first
+
+00:04:46.680 --> 00:04:50.280
+agent was running my LinkedIn arm. It's
+
+00:04:48.280 --> 00:04:52.000
+like each agent is their own mini AI
+
+00:04:50.280 --> 00:04:53.120
+marketer. To do this, [music] I first
+
+00:04:52.000 --> 00:04:54.640
+prepared the knowledge base of this
+
+00:04:53.120 --> 00:04:56.360
+agent, and this is really important, so
+
+00:04:54.640 --> 00:04:58.200
+listen up. You see, I can ask any AI
+
+00:04:56.360 --> 00:05:00.040
+agent to write me a YouTube script or an
+
+00:04:58.200 --> 00:05:01.400
+Instagram script, but it's not my voice
+
+00:05:00.040 --> 00:05:03.320
+or tone. So what's the point of having
+
+00:05:01.400 --> 00:05:05.160
+AI write scripts for you if it can't
+
+00:05:03.320 --> 00:05:06.480
+talk like [music] how you would talk? So
+
+00:05:05.160 --> 00:05:07.760
+to solve this, I fed it some of my
+
+00:05:06.480 --> 00:05:09.800
+highest-converting YouTube scripts I've
+
+00:05:07.760 --> 00:05:11.600
+done the best on my channel, and I told
+
+00:05:09.800 --> 00:05:14.200
+it to model my tone, my style, my style,
+
+00:05:11.600 --> 00:05:17.040
+my voice, and this were the results that
+
+00:05:14.200 --> 00:05:18.333
+came up with, and they were amazing. Now
+
+00:05:17.040 --> 00:05:20.440
+one thing I did to really understand
+
+00:05:18.333 --> 00:05:22.918
+[music] how crazy this Max Claw agent
+
+00:05:20.440 --> 00:05:25.280
+can get, I wanted to blend the skills
+
+00:05:22.918 --> 00:05:27.160
+[music] I created. So that diagram skill
+
+00:05:25.280 --> 00:05:28.760
+I leveraged in my LinkedIn agent, what
+
+00:05:27.160 --> 00:05:30.120
+if I could reapply it for my YouTube
+
+00:05:28.760 --> 00:05:32.320
+marketer? [music] So what I wanted was
+
+00:05:30.120 --> 00:05:34.080
+not only for my YouTube AI employee to
+
+00:05:32.320 --> 00:05:35.520
+write me a YouTube script, but also to
+
+00:05:34.080 --> 00:05:37.240
+generate supporting diagrams, because
+
+00:05:35.520 --> 00:05:39.320
+that is a very popular content format
+
+00:05:37.240 --> 00:05:40.720
+where the person will be in the bottom
+
+00:05:39.320 --> 00:05:42.080
+right corner, and they'll be screen
+
+00:05:40.720 --> 00:05:43.440
+sharing a diagram, they'll be explaining
+
+00:05:42.080 --> 00:05:45.160
+the diagram. And that's a very [music]
+
+00:05:43.440 --> 00:05:46.240
+common format, but writing the script
+
+00:05:45.160 --> 00:05:47.960
+for that, creating the supporting
+
+00:05:46.240 --> 00:05:49.680
+diagrams takes two or three hours at
+
+00:05:47.960 --> 00:05:51.040
+least, and I don't have time like that.
+
+00:05:49.680 --> 00:05:52.640
+And I don't think you do either. And
+
+00:05:51.040 --> 00:05:53.880
+this was the result it produced. It not
+
+00:05:52.640 --> 00:05:55.400
+only created a script that generally
+
+00:05:53.880 --> 00:05:57.360
+matched my voice [music] and tone, the
+
+00:05:55.400 --> 00:05:59.080
+diagrams it generated also flowed to the
+
+00:05:57.360 --> 00:06:00.320
+script and kind of directly supported
+
+00:05:59.080 --> 00:06:01.600
+it. They're not random. They're not left
+
+00:06:00.320 --> 00:06:03.760
+field, and I can actually use these
+
+00:06:01.600 --> 00:06:05.440
+diagrams to deliver my points in a much
+
+00:06:03.760 --> 00:06:07.360
+stronger way. Now the next part to
+
+00:06:05.440 --> 00:06:09.680
+really take things to the next level was
+
+00:06:07.360 --> 00:06:11.360
+using the marketplace of Minimax. See,
+
+00:06:09.680 --> 00:06:12.680
+all the previous plugins and skills that
+
+00:06:11.360 --> 00:06:14.520
+other people have created can be
+
+00:06:12.680 --> 00:06:15.760
+leveraged in this marketplace. So you
+
+00:06:14.520 --> 00:06:17.400
+don't have to build your own YouTube or
+
+00:06:15.760 --> 00:06:19.120
+LinkedIn marketing arm from scratch. In
+
+00:06:17.400 --> 00:06:20.800
+fact, I'll add my own skills on this
+
+00:06:19.120 --> 00:06:22.120
+marketplace so you can check it out. Now
+
+00:06:20.800 --> 00:06:24.280
+one of the skills I took from this
+
+00:06:22.120 --> 00:06:25.760
+marketplace was this X posting tool that
+
+00:06:24.280 --> 00:06:27.080
+was developed by another creator, and
+
+00:06:25.760 --> 00:06:28.680
+the results were pretty good. I actually
+
+00:06:27.080 --> 00:06:30.360
+took one of the posts and posted on my X
+
+00:06:28.680 --> 00:06:31.720
+account. After seeing the success of
+
+00:06:30.360 --> 00:06:32.760
+that tool, I decided to explore the
+
+00:06:31.720 --> 00:06:34.440
+marketplace a bit more, [music] and I
+
+00:06:32.760 --> 00:06:35.880
+found a YouTube thumbnail designer skill
+
+00:06:34.440 --> 00:06:37.320
+and tested that as well. If you see my
+
+00:06:35.880 --> 00:06:38.560
+recent AI thumbnails, they've been doing
+
+00:06:37.320 --> 00:06:40.360
+pretty well [music] for my channel, and
+
+00:06:38.560 --> 00:06:41.560
+this skill created more AI thumbnails,
+
+00:06:40.360 --> 00:06:43.440
+and they matched the aesthetic of my
+
+00:06:41.560 --> 00:06:44.560
+current videos for the most part. Yes,
+
+00:06:43.440 --> 00:06:46.400
+it still requires some [music] minor
+
+00:06:44.560 --> 00:06:48.240
+editing post-production, but I'm still
+
+00:06:46.400 --> 00:06:50.080
+doing at least 80% of the work with Max
+
+00:06:48.240 --> 00:06:51.560
+Claw, and the remaining 20% I can do it
+
+00:06:50.080 --> 00:06:53.280
+or my designer can do it for me. The
+
+00:06:51.560 --> 00:06:55.400
+point isn't to maybe be a one-to-one
+
+00:06:53.280 --> 00:06:57.720
+replacement, but it can do [music] 80 to
+
+00:06:55.400 --> 00:06:59.200
+90% of the work that you would have to
+
+00:06:57.720 --> 00:07:00.600
+do yourself otherwise. Then that's
+
+00:06:59.200 --> 00:07:02.960
+really where Max Claw shines, [music]
+
+00:07:00.600 --> 00:07:04.800
+while being 100% secure, unlike Open
+
+00:07:02.960 --> 00:07:06.400
+Claw. And that, my friend, is real
+
+00:07:04.800 --> 00:07:08.440
+leverage. But with all these marketing
+
+00:07:06.400 --> 00:07:10.240
+arms that we have, we have X, LinkedIn,
+
+00:07:08.440 --> 00:07:11.760
+YouTube, to get the actual business up
+
+00:07:10.240 --> 00:07:14.360
+and running, we need a high-converting
+
+00:07:11.760 --> 00:07:16.040
+website. Now I've created many AI agency
+
+00:07:14.360 --> 00:07:17.480
+websites. In fact, my AI business right
+
+00:07:16.040 --> 00:07:18.800
+now [music] that's done $6,000 in a
+
+00:07:17.480 --> 00:07:20.440
+single month, you know, this is the
+
+00:07:18.800 --> 00:07:21.960
+website. It's pretty straightforward. It
+
+00:07:20.440 --> 00:07:24.880
+has some cool [music] animations and
+
+00:07:21.960 --> 00:07:27.320
+cool looks, but what I'm deciding to do
+
+00:07:24.880 --> 00:07:29.960
+is get this website link, put it to Max
+
+00:07:27.320 --> 00:07:31.040
+Claw, and have Max Claw create a replica
+
+00:07:29.960 --> 00:07:33.280
+of this website with [music] its own
+
+00:07:31.040 --> 00:07:34.880
+unique twist. Same color, same theme,
+
+00:07:33.280 --> 00:07:36.920
+but it should just look different. And I
+
+00:07:34.880 --> 00:07:38.760
+recommend doing this. Everyone does it,
+
+00:07:36.920 --> 00:07:40.120
+it's fast, it's easy, it's proven to
+
+00:07:38.760 --> 00:07:41.680
+convert. If your competitor is doing
+
+00:07:40.120 --> 00:07:42.840
+well with their landing page, just copy
+
+00:07:41.680 --> 00:07:44.200
+theirs. [music] Switch the branding,
+
+00:07:42.840 --> 00:07:45.800
+switch the colors just a little bit, and
+
+00:07:44.200 --> 00:07:47.360
+you also now have a high-converting
+
+00:07:45.800 --> 00:07:49.040
+landing page.
+
+00:07:47.360 --> 00:07:50.480
+No need to reinvent the wheel. In fact,
+
+00:07:49.040 --> 00:07:52.160
+you can just copy my website if you
+
+00:07:50.480 --> 00:07:54.120
+want. So what I did, with all this in
+
+00:07:52.160 --> 00:07:55.520
+mind, I found a landing page skill in
+
+00:07:54.120 --> 00:07:57.680
+the [music] experts marketplace, and I
+
+00:07:55.520 --> 00:07:59.920
+used it to create this landing page by
+
+00:07:57.680 --> 00:08:01.560
+giving you my old landing page. Now this
+
+00:07:59.920 --> 00:08:03.080
+is the result of the prompt that I gave
+
+00:08:01.560 --> 00:08:04.720
+the landing page expert, and you can see
+
+00:08:03.080 --> 00:08:06.840
+the colors match the vibe of my original
+
+00:08:04.720 --> 00:08:08.120
+business to a T. The page even creates
+
+00:08:06.840 --> 00:08:09.290
+its own visual for the hero banner,
+
+00:08:08.120 --> 00:08:10.760
+which is pretty sick, and I didn't
+
+00:08:09.290 --> 00:08:12.520
+[music] even ask that at all. It also
+
+00:08:10.760 --> 00:08:14.000
+generated a video, placed it behind the
+
+00:08:12.520 --> 00:08:15.280
+hero banner, and now our website doesn't
+
+00:08:14.000 --> 00:08:16.640
+look like everyone else's website. It
+
+00:08:15.280 --> 00:08:17.760
+looks kind of customized. [music]
+
+00:08:16.640 --> 00:08:18.920
+Now looking at the rest of the website,
+
+00:08:17.760 --> 00:08:20.160
+yes, things can be edited. There are
+
+00:08:18.920 --> 00:08:21.760
+some parts that definitely still look
+
+00:08:20.160 --> 00:08:23.680
+hard-coded. What I'm going to do is just
+
+00:08:21.760 --> 00:08:25.080
+have my Max Claw agent edit this and
+
+00:08:23.680 --> 00:08:26.800
+make it something more unique that's
+
+00:08:25.080 --> 00:08:28.300
+more me, not something that anyone can
+
+00:08:26.800 --> 00:08:29.720
+recreate in 5 minutes. Again, the
+
+00:08:28.300 --> 00:08:31.440
+[music] point is, I'm not creating this
+
+00:08:29.720 --> 00:08:33.599
+landing page from zero now. I'm creating
+
+00:08:31.440 --> 00:08:35.320
+it with 70 to 80% of the work already
+
+00:08:33.599 --> 00:08:37.479
+done. The remaining 20% I just have to
+
+00:08:35.320 --> 00:08:39.320
+refine, make some minor edits, and boom,
+
+00:08:37.479 --> 00:08:40.680
+my business can launch faster than the
+
+00:08:39.320 --> 00:08:42.320
+average [music] person's business. And
+
+00:08:40.680 --> 00:08:44.360
+that's really the true power of these AI
+
+00:08:42.320 --> 00:08:46.626
+agents such as Max Claw. They help you
+
+00:08:44.360 --> 00:08:47.840
+accomplish 80% of the work faster
+
+00:08:46.626 --> 00:08:49.640
+[music] than anyone else who doesn't
+
+00:08:47.840 --> 00:08:51.560
+know how to leverage these exact same AI
+
+00:08:49.640 --> 00:08:52.640
+agents. Now if you want to check out Max
+
+00:08:51.560 --> 00:08:54.240
+Claw and [music] Minimax, click the
+
+00:08:52.640 --> 00:08:55.720
+first link in the description below. If
+
+00:08:54.240 --> 00:08:59.360
+you want to see how I marketed my AI
+
+00:08:55.720 --> 00:08:59.360
+business, watch this video [music] next.
+

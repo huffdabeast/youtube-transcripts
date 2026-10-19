@@ -1,0 +1,7208 @@
+WEBVTT
+
+00:00:00.320 --> 00:00:03.480
+Caleb Standardfer, welcome to Acquiring
+
+00:00:02.600 --> 00:00:04.720
+Minds.
+
+00:00:03.480 --> 00:00:08.040
+>> Thanks for having me, Will.
+
+00:00:04.720 --> 00:00:09.680
+>> Caleb, you bought a 100-year-old
+
+00:00:08.040 --> 00:00:12.880
+machine shop.
+
+00:00:09.680 --> 00:00:14.680
+You wanted to be in manufacturing.
+
+00:00:12.880 --> 00:00:16.520
+You'd said to me on the pre-call that
+
+00:00:14.680 --> 00:00:18.880
+you had colleagues who were trying to go
+
+00:00:16.520 --> 00:00:20.160
+from manufacturing to tech,
+
+00:00:18.880 --> 00:00:22.320
+and you wanted to go in the opposite
+
+00:00:20.160 --> 00:00:24.600
+direction. We are going to hear your
+
+00:00:22.320 --> 00:00:25.960
+journey to do just that. Start us off
+
+00:00:24.600 --> 00:00:26.880
+with some background on you, please,
+
+00:00:25.960 --> 00:00:28.240
+Caleb.
+
+00:00:26.880 --> 00:00:30.600
+>> All right. Well,
+
+00:00:28.240 --> 00:00:32.439
+I'm from Southern California originally,
+
+00:00:30.600 --> 00:00:34.800
+grew up out there with a father who was
+
+00:00:32.439 --> 00:00:36.960
+in manufacturing, in finance, he did
+
+00:00:34.800 --> 00:00:39.240
+corporate tax, but worked for companies
+
+00:00:36.960 --> 00:00:41.680
+like Lockheed and Teledyne,
+
+00:00:39.240 --> 00:00:43.520
+um which have long-storied manufacturing
+
+00:00:41.680 --> 00:00:45.160
+histories, but never thought that I
+
+00:00:43.520 --> 00:00:48.240
+would be in manufacturing. Took a
+
+00:00:45.160 --> 00:00:51.280
+winding career path um
+
+00:00:48.240 --> 00:00:53.920
+through labor litigation consulting and
+
+00:00:51.280 --> 00:00:57.440
+big data and programming. Then I was in
+
+00:00:53.920 --> 00:00:59.880
+tech, healthcare tech, doing cloud data,
+
+00:00:57.440 --> 00:01:01.570
+big data analytics solutions as a
+
+00:00:59.880 --> 00:01:01.600
+product manager.
+
+00:01:01.570 --> 00:01:03.960
+>> [snorts]
+
+00:01:01.600 --> 00:01:07.240
+>> Um but through the whole that whole
+
+00:01:03.960 --> 00:01:09.520
+abbreviated history, I was I was really
+
+00:01:07.240 --> 00:01:12.040
+struggling to find what I wanted to do
+
+00:01:09.520 --> 00:01:13.200
+in my 20s. And as I I had gotten
+
+00:01:12.040 --> 00:01:15.680
+married,
+
+00:01:13.200 --> 00:01:17.160
+had one kid, one on the way, so I was
+
+00:01:15.680 --> 00:01:19.320
+really thinking about what do I want to
+
+00:01:17.160 --> 00:01:22.360
+do for the rest of my life.
+
+00:01:19.320 --> 00:01:25.040
+And I thought back to my father um and
+
+00:01:22.360 --> 00:01:26.640
+his experience in manufacturing. And And
+
+00:01:25.040 --> 00:01:29.880
+I grew up around the dinner table
+
+00:01:26.640 --> 00:01:31.920
+hearing him tell stories about going out
+
+00:01:29.880 --> 00:01:34.440
+on the factory floor with plant
+
+00:01:31.920 --> 00:01:36.360
+managers, general managers, to walk
+
+00:01:34.440 --> 00:01:38.720
+around, to find out what they were
+
+00:01:36.360 --> 00:01:41.480
+actually doing so he could tie that into
+
+00:01:38.720 --> 00:01:43.880
+the tax law, and save the company on
+
+00:01:41.480 --> 00:01:46.000
+taxes. Um
+
+00:01:43.880 --> 00:01:48.320
+so that was kind of how I was brought
+
+00:01:46.000 --> 00:01:51.480
+up, and I didn't even really realize it.
+
+00:01:48.320 --> 00:01:53.920
+The other key part of this is I grew up
+
+00:01:51.480 --> 00:01:56.000
+with relatives in the Rust Belt. And I
+
+00:01:53.920 --> 00:01:58.880
+had gone back to the Rust Belt and seen
+
+00:01:56.000 --> 00:02:01.800
+places where like AC Delco had been the
+
+00:01:58.880 --> 00:02:03.680
+major employer but it left. Um my
+
+00:02:01.800 --> 00:02:06.840
+grandfather had grown up in Middletown,
+
+00:02:03.680 --> 00:02:09.399
+Ohio with the steel mills and I had
+
+00:02:06.840 --> 00:02:12.080
+heard about how vibrant it had been and
+
+00:02:09.399 --> 00:02:14.040
+and then what it had become. Um if you
+
+00:02:12.080 --> 00:02:16.760
+think about things like Vice President
+
+00:02:14.040 --> 00:02:19.160
+Vance's biography talking about that
+
+00:02:16.760 --> 00:02:20.720
+history, that was not when I read that,
+
+00:02:19.160 --> 00:02:23.920
+that was not what I had heard about. So
+
+00:02:20.720 --> 00:02:25.440
+I I really was driven by this sense that
+
+00:02:23.920 --> 00:02:27.320
+we need more people going into
+
+00:02:25.440 --> 00:02:30.120
+manufacturing. Everybody wants to go
+
+00:02:27.320 --> 00:02:32.000
+into tech. Um but manufacturing is
+
+00:02:30.120 --> 00:02:34.600
+important for our country. It provides
+
+00:02:32.000 --> 00:02:36.640
+great jobs for people. And I wanted to
+
+00:02:34.600 --> 00:02:39.120
+get into manufacturing. So I went back
+
+00:02:36.640 --> 00:02:41.360
+to business school. Um not really
+
+00:02:39.120 --> 00:02:44.920
+knowing how I would get into
+
+00:02:41.360 --> 00:02:46.720
+manufacturing. And like I said, at USC
+
+00:02:44.920 --> 00:02:48.840
+um in Southern California, most of my
+
+00:02:46.720 --> 00:02:52.120
+friends were going from
+
+00:02:48.840 --> 00:02:53.520
+manufacturing into tech. Um
+
+00:02:52.120 --> 00:02:55.600
+but I had always also been
+
+00:02:53.520 --> 00:02:57.440
+entrepreneurial and I took two classes
+
+00:02:55.600 --> 00:02:59.880
+there that were very interesting. One
+
+00:02:57.440 --> 00:03:02.120
+was acquiring your own business.
+
+00:02:59.880 --> 00:03:05.200
+Um which was the classic one that lots
+
+00:03:02.120 --> 00:03:07.200
+of searchers take at different um
+
+00:03:05.200 --> 00:03:09.239
+MBA programs.
+
+00:03:07.200 --> 00:03:10.920
+And so I had found out that, hey, to be
+
+00:03:09.239 --> 00:03:13.040
+an entrepreneur, you don't have to start
+
+00:03:10.920 --> 00:03:15.840
+something from the ground up. You can
+
+00:03:13.040 --> 00:03:18.040
+buy and then build.
+
+00:03:15.840 --> 00:03:20.920
+The other was was a class called
+
+00:03:18.040 --> 00:03:22.720
+Founders' Dilemmas, which talked about
+
+00:03:20.920 --> 00:03:25.040
+the organizational behavior and
+
+00:03:22.720 --> 00:03:26.440
+psychology of entrepreneurs.
+
+00:03:25.040 --> 00:03:29.040
+And there was something about the risk
+
+00:03:26.440 --> 00:03:30.280
+reward curve there and it talked about
+
+00:03:29.040 --> 00:03:33.360
+how that's different for different
+
+00:03:30.280 --> 00:03:35.080
+industries. So one of them was
+
+00:03:33.360 --> 00:03:37.280
+talking about, hey, if you want to start
+
+00:03:35.080 --> 00:03:38.880
+a viral app, drop out of school, go
+
+00:03:37.280 --> 00:03:41.480
+start it. But if you want [snorts] to
+
+00:03:38.880 --> 00:03:43.640
+get into telecom or manufacturing, these
+
+00:03:41.480 --> 00:03:45.680
+are complex businesses that you have to
+
+00:03:43.640 --> 00:03:47.519
+know a lot of different things. You
+
+00:03:45.680 --> 00:03:49.720
+really decrease your risk by going to
+
+00:03:47.519 --> 00:03:52.120
+get some experience first so you can
+
+00:03:49.720 --> 00:03:53.760
+learn those things. Um so I got the
+
+00:03:52.120 --> 00:03:56.680
+opportunity to join a large
+
+00:03:53.760 --> 00:03:59.960
+manufacturer, Geldwin, um, in North
+
+00:03:56.680 --> 00:04:01.200
+Carolina. So, relocated my family across
+
+00:03:59.960 --> 00:04:03.400
+the country
+
+00:04:01.200 --> 00:04:05.400
+and proceed to spend about 7 years
+
+00:04:03.400 --> 00:04:07.480
+learning in two different large
+
+00:04:05.400 --> 00:04:10.440
+manufacturers culminating in running a
+
+00:04:07.480 --> 00:04:13.080
+$500 million business um, for one of
+
+00:04:10.440 --> 00:04:16.120
+them. Um, but meanwhile had been
+
+00:04:13.080 --> 00:04:18.280
+searching for 4 years to buy something,
+
+00:04:16.120 --> 00:04:20.720
+eventually with my father, strangely
+
+00:04:18.280 --> 00:04:23.120
+enough. Um, and that's when we found
+
+00:04:20.720 --> 00:04:24.760
+Springfield and that's when I jumped in.
+
+00:04:23.120 --> 00:04:27.080
+>> Great, Caleb. That was awesome. A few
+
+00:04:24.760 --> 00:04:29.040
+follow-ups. First of all, your interest
+
+00:04:27.080 --> 00:04:31.880
+in manufacturing
+
+00:04:29.040 --> 00:04:34.600
+was So, timeline here,
+
+00:04:31.880 --> 00:04:37.960
+uh, this would have been well before the
+
+00:04:34.600 --> 00:04:40.280
+national conversation driven by tariffs
+
+00:04:37.960 --> 00:04:43.120
+and so on that we're all now having.
+
+00:04:40.280 --> 00:04:45.320
+This was a kind of of your own
+
+00:04:43.120 --> 00:04:47.040
+you originated this idea all on your
+
+00:04:45.320 --> 00:04:48.280
+very own, not cuz it's it was part of
+
+00:04:47.040 --> 00:04:52.080
+the national conversation.
+
+00:04:48.280 --> 00:04:54.040
+>> Yeah, this was back in 2014, 2015 that I
+
+00:04:52.080 --> 00:04:55.800
+was starting to think about this.
+
+00:04:54.040 --> 00:04:57.440
+>> What do you think makes you different
+
+00:04:55.800 --> 00:05:00.000
+than everybody else who's interested in
+
+00:04:57.440 --> 00:05:03.160
+tech? Cuz we all understand
+
+00:05:00.000 --> 00:05:05.640
+even then that the manufacturing core of
+
+00:05:03.160 --> 00:05:07.680
+the country had been hollowed out. But,
+
+00:05:05.640 --> 00:05:09.600
+most people probably just thought, well,
+
+00:05:07.680 --> 00:05:11.720
+that is just the the nature of how
+
+00:05:09.600 --> 00:05:14.400
+things are and are going to be and tech
+
+00:05:11.720 --> 00:05:17.120
+is the future anyway and is what it is,
+
+00:05:14.400 --> 00:05:20.080
+sort of sort of shoulder shrug. What do
+
+00:05:17.120 --> 00:05:21.600
+you think makes you different?
+
+00:05:20.080 --> 00:05:23.573
+>> You know, I
+
+00:05:21.600 --> 00:05:24.320
+That's an interesting question.
+
+00:05:23.573 --> 00:05:26.520
+>> [snorts]
+
+00:05:24.320 --> 00:05:30.000
+>> The first thing that pops to mind is one
+
+00:05:26.520 --> 00:05:31.840
+of my, uh, team members when I first
+
+00:05:30.000 --> 00:05:34.640
+took over Springfield said something
+
+00:05:31.840 --> 00:05:38.240
+interesting to me where he said,
+
+00:05:34.640 --> 00:05:38.240
+"Nothing in our life
+
+00:05:38.280 --> 00:05:42.320
+was not touched by something that was
+
+00:05:40.400 --> 00:05:43.223
+made out of metal."
+
+00:05:42.320 --> 00:05:43.520
+Right?
+
+00:05:43.223 --> 00:05:46.800
+>> [snorts]
+
+00:05:43.520 --> 00:05:49.240
+>> And the whole the whole point being that
+
+00:05:46.800 --> 00:05:50.960
+I think I I don't remember consciously
+
+00:05:49.240 --> 00:05:52.440
+thinking this, but I think I had this
+
+00:05:50.960 --> 00:05:54.520
+sense that
+
+00:05:52.440 --> 00:05:58.560
+everything that we interact with in a
+
+00:05:54.520 --> 00:06:00.960
+daily life, put tech aside, is is all
+
+00:05:58.560 --> 00:06:04.080
+touched by something that's made, right?
+
+00:06:00.960 --> 00:06:06.280
+And even tech is delivered to us or done
+
+00:06:04.080 --> 00:06:07.459
+on things that are made, right?
+
+00:06:06.280 --> 00:06:07.640
+Physically.
+
+00:06:07.459 --> 00:06:10.880
+>> [snorts]
+
+00:06:07.640 --> 00:06:13.720
+>> And so this deep sense that that
+
+00:06:10.880 --> 00:06:15.640
+a culture has to make things. Now,
+
+00:06:13.720 --> 00:06:17.760
+certainly a believer in the law of
+
+00:06:15.640 --> 00:06:20.000
+comparative advantage and free trade and
+
+00:06:17.760 --> 00:06:22.240
+things like that, but
+
+00:06:20.000 --> 00:06:24.120
+fundamentally we have to be able to make
+
+00:06:22.240 --> 00:06:26.880
+things. And I was also a huge World War
+
+00:06:24.120 --> 00:06:27.919
+II buff um growing up from a young kid,
+
+00:06:26.880 --> 00:06:30.680
+so I had read about the
+
+00:06:27.919 --> 00:06:31.880
+industrialization of America
+
+00:06:30.680 --> 00:06:34.520
+um
+
+00:06:31.880 --> 00:06:36.760
+over time. So I I can't tell you exactly
+
+00:06:34.520 --> 00:06:39.560
+how all these things came together, but
+
+00:06:36.760 --> 00:06:42.040
+it was just this deep sense that hey,
+
+00:06:39.560 --> 00:06:44.600
+tech's tech's got a lot of people going
+
+00:06:42.040 --> 00:06:48.080
+into it. And certainly I wanted to use
+
+00:06:44.600 --> 00:06:51.240
+my tech background in manufacturing to
+
+00:06:48.080 --> 00:06:52.720
+bring um better practices, to do what I
+
+00:06:51.240 --> 00:06:53.919
+could there.
+
+00:06:52.720 --> 00:06:55.000
+Um
+
+00:06:53.919 --> 00:06:57.360
+but
+
+00:06:55.000 --> 00:06:59.480
+fundamentally we have to be able to make
+
+00:06:57.360 --> 00:07:02.040
+things. And so I just felt a a strong
+
+00:06:59.480 --> 00:07:04.240
+mission to be involved in making sure
+
+00:07:02.040 --> 00:07:05.960
+our country could make things.
+
+00:07:04.240 --> 00:07:06.960
+>> Mhm.
+
+00:07:05.960 --> 00:07:09.640
+Great.
+
+00:07:06.960 --> 00:07:11.960
+Well ahead of the curve you were, Caleb.
+
+00:07:09.640 --> 00:07:12.320
+I heard you say your search was 4 years,
+
+00:07:11.960 --> 00:07:14.680
+>> Yes.
+
+00:07:12.320 --> 00:07:17.919
+>> but I didn't I didn't track when it
+
+00:07:14.680 --> 00:07:18.360
+began in the story. So So clarify that
+
+00:07:17.919 --> 00:07:21.919
+for us.
+
+00:07:18.360 --> 00:07:23.680
+>> It began in late 2019, early 2020. I had
+
+00:07:21.919 --> 00:07:26.600
+been bouncing around this idea for a
+
+00:07:23.680 --> 00:07:29.120
+while, felt like I had learned a lot. Um
+
+00:07:26.600 --> 00:07:30.960
+certainly learned a ton in the 4 years
+
+00:07:29.120 --> 00:07:32.960
+after that, but I had been in
+
+00:07:30.960 --> 00:07:34.680
+manufacturing in a corporate environment
+
+00:07:32.960 --> 00:07:36.320
+for 3 years.
+
+00:07:34.680 --> 00:07:39.919
+And so
+
+00:07:36.320 --> 00:07:41.720
+I my father had since retired, and I had
+
+00:07:39.919 --> 00:07:43.760
+been discussing this with him, and he
+
+00:07:41.720 --> 00:07:44.520
+said, "Well, maybe we could partner to
+
+00:07:43.760 --> 00:07:46.280
+do it together.
+
+00:07:44.520 --> 00:07:48.000
+>> Mhm. And our skill sets are are
+
+00:07:46.280 --> 00:07:50.920
+complimentary. He's not involved in the
+
+00:07:48.000 --> 00:07:54.640
+business day-to-day, though he does help
+
+00:07:50.920 --> 00:07:56.190
+out. He knows the the team here
+
+00:07:54.640 --> 00:07:56.360
+well. They ask about him.
+
+00:07:56.190 --> 00:07:58.480
+>> [snorts]
+
+00:07:56.360 --> 00:08:01.840
+>> We're even asking about him today.
+
+00:07:58.480 --> 00:08:04.120
+And so, that's a So, when he said that,
+
+00:08:01.840 --> 00:08:06.680
+that's when we started to search. And
+
+00:08:04.120 --> 00:08:09.240
+certainly the search was prolonged by
+
+00:08:06.680 --> 00:08:12.080
+COVID, but it was also prolonged by the
+
+00:08:09.240 --> 00:08:14.400
+fact that we had a very specific set of
+
+00:08:12.080 --> 00:08:17.240
+criteria that we were trying to fulfill
+
+00:08:14.400 --> 00:08:19.840
+in in the business we bought.
+
+00:08:17.240 --> 00:08:21.800
+>> And that 4 years was all after your
+
+00:08:19.840 --> 00:08:22.720
+being in business school, or it some of
+
+00:08:21.800 --> 00:08:25.080
+that overlapped?
+
+00:08:22.720 --> 00:08:27.600
+>> So, I I graduated from business school
+
+00:08:25.080 --> 00:08:30.160
+in 2017.
+
+00:08:27.600 --> 00:08:31.560
+And then moved relocated across the
+
+00:08:30.160 --> 00:08:33.599
+country.
+
+00:08:31.560 --> 00:08:36.440
+And then I was um
+
+00:08:33.599 --> 00:08:38.520
+the search was from late 2019, early
+
+00:08:36.440 --> 00:08:41.000
+2020 through 2024.
+
+00:08:38.520 --> 00:08:42.719
+>> And you were searching on the side?
+
+00:08:41.000 --> 00:08:44.005
+>> Yes, I was searching while working
+
+00:08:42.719 --> 00:08:44.160
+full-time.
+
+00:08:44.005 --> 00:08:47.320
+>> [snorts]
+
+00:08:44.160 --> 00:08:50.320
+>> While working full-time. Okay. And
+
+00:08:47.320 --> 00:08:52.080
+also your parents are now
+
+00:08:50.320 --> 00:08:53.720
+started in Southern California, where
+
+00:08:52.080 --> 00:08:55.160
+you grew up, but they're now also out
+
+00:08:53.720 --> 00:08:57.920
+there with you, or I should say back
+
+00:08:55.160 --> 00:08:58.560
+here back east here in the Carolinas in
+
+00:08:57.920 --> 00:09:00.240
+your case.
+
+00:08:58.560 --> 00:09:02.400
+>> Yeah, they live around the corner from
+
+00:09:00.240 --> 00:09:04.000
+us, and uh my four kids are
+
+00:09:02.400 --> 00:09:06.240
+homeschooled, so my dad teaches them
+
+00:09:04.000 --> 00:09:07.400
+piano, so it's great to have them around
+
+00:09:06.240 --> 00:09:10.480
+the corner.
+
+00:09:07.400 --> 00:09:12.560
+>> Great. Anything to say about your the
+
+00:09:10.480 --> 00:09:15.839
+search itself, Caleb, and how you
+
+00:09:12.560 --> 00:09:18.400
+ultimately found Springfield Tool & Die?
+
+00:09:15.839 --> 00:09:20.520
+>> I would say that the search was was
+
+00:09:18.400 --> 00:09:23.280
+somewhat
+
+00:09:20.520 --> 00:09:25.640
+it was not extremely active. We were not
+
+00:09:23.280 --> 00:09:28.160
+reaching out to
+
+00:09:25.640 --> 00:09:29.880
+existing business owners to ask them if
+
+00:09:28.160 --> 00:09:32.400
+if they would be interested in selling.
+
+00:09:29.880 --> 00:09:34.440
+It was it was really through brokers
+
+00:09:32.400 --> 00:09:37.000
+and [snorts] and networking. So, we kind
+
+00:09:34.440 --> 00:09:40.320
+of put some advisors in place,
+
+00:09:37.000 --> 00:09:42.360
+and then we started just screening and
+
+00:09:40.320 --> 00:09:44.880
+it was somewhat episodic. You know,
+
+00:09:42.360 --> 00:09:47.800
+these things comes in waves in terms of
+
+00:09:44.880 --> 00:09:49.520
+the listings. It certainly got slower
+
+00:09:47.800 --> 00:09:52.440
+for part of COVID.
+
+00:09:49.520 --> 00:09:55.040
+Um, but it was really just screening the
+
+00:09:52.440 --> 00:09:57.680
+broker websites, looking through,
+
+00:09:55.040 --> 00:09:59.600
+finding things that were interesting.
+
+00:09:57.680 --> 00:10:01.280
+Part of my M&A background in corporate
+
+00:09:59.600 --> 00:10:04.480
+helped with this because I was used to
+
+00:10:01.280 --> 00:10:05.320
+seeing a lot of teasers on things and so
+
+00:10:04.480 --> 00:10:07.240
+we
+
+00:10:05.320 --> 00:10:10.800
+we screened hundreds of businesses,
+
+00:10:07.240 --> 00:10:15.160
+right? And then got deep on 10 to 20.
+
+00:10:10.800 --> 00:10:18.440
+Um, we ended up making an offer on one
+
+00:10:15.160 --> 00:10:19.920
+that fell through and and did not work
+
+00:10:18.440 --> 00:10:22.200
+out. Um,
+
+00:10:19.920 --> 00:10:24.640
+and then it was about a year and a half
+
+00:10:22.200 --> 00:10:25.720
+after that that that we found
+
+00:10:24.640 --> 00:10:28.520
+Springfield.
+
+00:10:25.720 --> 00:10:30.360
+>> Well, I can imagine, Caleb, that given
+
+00:10:28.520 --> 00:10:32.480
+that you kind of knew what you wanted,
+
+00:10:30.360 --> 00:10:36.120
+something in manufacturing,
+
+00:10:32.480 --> 00:10:38.640
+that focus is is a lot tighter uh than a
+
+00:10:36.120 --> 00:10:39.839
+lot of searchers who
+
+00:10:38.640 --> 00:10:42.080
+particularly if they're searching
+
+00:10:39.839 --> 00:10:43.880
+part-time, kind of um,
+
+00:10:42.080 --> 00:10:45.440
+the search drives them. When some
+
+00:10:43.880 --> 00:10:48.440
+business that interests them come across
+
+00:10:45.440 --> 00:10:50.080
+comes across, they'll pounce, they'll
+
+00:10:48.440 --> 00:10:52.320
+they'll double-click, they'll try to
+
+00:10:50.080 --> 00:10:53.920
+learn about it, maybe go after it.
+
+00:10:52.320 --> 00:10:55.880
+But when you're somebody who really has
+
+00:10:53.920 --> 00:10:57.160
+a vision for where you're going in your
+
+00:10:55.880 --> 00:10:58.240
+search and the type of business you want
+
+00:10:57.160 --> 00:11:00.400
+to buy,
+
+00:10:58.240 --> 00:11:02.880
+um, that actually lends itself well to
+
+00:11:00.400 --> 00:11:06.440
+proprietary outreach cuz you can you can
+
+00:11:02.880 --> 00:11:09.040
+make this credible point to sellers or
+
+00:11:06.440 --> 00:11:11.080
+to owners, "Hey, I want to get into this
+
+00:11:09.040 --> 00:11:13.120
+business for my career.
+
+00:11:11.080 --> 00:11:15.760
+Uh, I'm interested in your type of
+
+00:11:13.120 --> 00:11:18.520
+business specifically, sir or madam. Um,
+
+00:11:15.760 --> 00:11:20.400
+let's talk." And so and then the other
+
+00:11:18.520 --> 00:11:22.280
+thing too is if if you're narrowly
+
+00:11:20.400 --> 00:11:24.440
+defined as you were,
+
+00:11:22.280 --> 00:11:26.200
+um, you could wait a long time for the
+
+00:11:24.440 --> 00:11:28.240
+right business to come across to come
+
+00:11:26.200 --> 00:11:30.600
+online, hit BizBuySell, whatever, hit
+
+00:11:28.240 --> 00:11:33.920
+the broker websites and come across.
+
+00:11:30.600 --> 00:11:36.120
+>> Yeah, absolutely. I mean, I won't I
+
+00:11:33.920 --> 00:11:38.480
+won't bluff and say that there was never
+
+00:11:36.120 --> 00:11:40.400
+the squirrel moment where I saw
+
+00:11:38.480 --> 00:11:42.800
+something that was a little bit outside
+
+00:11:40.400 --> 00:11:46.520
+and and you got interested and said what
+
+00:11:42.800 --> 00:11:47.920
+if, but it was very tightly focused and
+
+00:11:46.520 --> 00:11:50.000
+you know, my wife had said she was
+
+00:11:47.920 --> 00:11:52.120
+settled, she didn't want to move, right?
+
+00:11:50.000 --> 00:11:54.160
+We have family around, so there was a
+
+00:11:52.120 --> 00:11:55.880
+geographic area. There was one up in
+
+00:11:54.160 --> 00:11:58.280
+Michigan that was interesting where
+
+00:11:55.880 --> 00:11:59.640
+because of the SBA, I think we could
+
+00:11:58.280 --> 00:12:01.640
+have gotten that. I think we could have
+
+00:11:59.640 --> 00:12:04.800
+been very successful, but because of the
+
+00:12:01.640 --> 00:12:06.480
+SBA regulations around having
+
+00:12:04.800 --> 00:12:08.600
+the entrepreneur involved in the
+
+00:12:06.480 --> 00:12:11.560
+business, um, they did not feel
+
+00:12:08.600 --> 00:12:14.160
+comfortable with a flying commute.
+
+00:12:11.560 --> 00:12:17.080
+Um, so that was part of it.
+
+00:12:14.160 --> 00:12:19.560
+Um, it had to we were very tight on our
+
+00:12:17.080 --> 00:12:21.320
+financial metrics because the business
+
+00:12:19.560 --> 00:12:23.920
+had to be something that could support
+
+00:12:21.320 --> 00:12:27.080
+me and my family in addition to the debt
+
+00:12:23.920 --> 00:12:28.520
+load. Um, it also had to be something
+
+00:12:27.080 --> 00:12:30.280
+where
+
+00:12:28.520 --> 00:12:31.800
+you know, I'm no
+
+00:12:30.280 --> 00:12:34.920
+you probably figured out that I'm not a
+
+00:12:31.800 --> 00:12:37.560
+machinist. So, there had to be something
+
+00:12:34.920 --> 00:12:41.160
+in the business that I could do to add
+
+00:12:37.560 --> 00:12:44.000
+value at this stage. Um, even though the
+
+00:12:41.160 --> 00:12:46.600
+the eventual long-term vision is is to
+
+00:12:44.000 --> 00:12:49.160
+evolve up. Um,
+
+00:12:46.600 --> 00:12:51.160
+to be back more where I kind of was in
+
+00:12:49.160 --> 00:12:52.360
+in corporate from a management
+
+00:12:51.160 --> 00:12:55.440
+perspective, but there had to be
+
+00:12:52.360 --> 00:12:58.280
+something I could do to add value um,
+
+00:12:55.440 --> 00:13:01.760
+from day one. And there had to be a
+
+00:12:58.280 --> 00:13:04.320
+strong team, right? Um, because because
+
+00:13:01.760 --> 00:13:06.360
+I do have some technical skills, but
+
+00:13:04.320 --> 00:13:08.760
+there's others I don't have. Um, there
+
+00:13:06.360 --> 00:13:10.480
+had to be a strong team there that had
+
+00:13:08.760 --> 00:13:13.560
+runway that believed in what we were
+
+00:13:10.480 --> 00:13:16.760
+doing. Um, so again, all of these things
+
+00:13:13.560 --> 00:13:19.680
+plus cultural fit is something I should
+
+00:13:16.760 --> 00:13:22.520
+I should mention. We were not interested
+
+00:13:19.680 --> 00:13:24.520
+in in taking a business, and certainly
+
+00:13:22.520 --> 00:13:26.720
+there's a cultural evolution that we can
+
+00:13:24.520 --> 00:13:28.760
+talk about that that a business goes
+
+00:13:26.720 --> 00:13:30.120
+through when it's bought. but we didn't
+
+00:13:28.760 --> 00:13:31.680
+want to have to come in and take a
+
+00:13:30.120 --> 00:13:34.520
+business that was completely
+
+00:13:31.680 --> 00:13:36.880
+antithetical to our beliefs and the way
+
+00:13:34.520 --> 00:13:39.080
+we think that a business should be run
+
+00:13:36.880 --> 00:13:40.520
+and have to turn that all around while
+
+00:13:39.080 --> 00:13:42.520
+you're trying to get your hands around
+
+00:13:40.520 --> 00:13:44.760
+the technical aspects and all the normal
+
+00:13:42.520 --> 00:13:46.560
+business stuff. That was just too would
+
+00:13:44.760 --> 00:13:48.160
+have been too big of a lift. So, we were
+
+00:13:46.560 --> 00:13:51.000
+very tight on that.
+
+00:13:48.160 --> 00:13:53.280
+>> And how did you define that whether the
+
+00:13:51.000 --> 00:13:56.520
+the values that you needed to be there
+
+00:13:53.280 --> 00:13:57.720
+were there? Gut feel or or something
+
+00:13:56.520 --> 00:14:00.120
+well-defined?
+
+00:13:57.720 --> 00:14:02.440
+>> Well, there's something One is very
+
+00:14:00.120 --> 00:14:03.640
+simple is in manufacturing called going
+
+00:14:02.440 --> 00:14:05.520
+to gemba,
+
+00:14:03.640 --> 00:14:09.040
+um which is the place where the work is
+
+00:14:05.520 --> 00:14:11.880
+done. And so, tours help with that,
+
+00:14:09.040 --> 00:14:13.880
+right? Like I've been in hundreds of
+
+00:14:11.880 --> 00:14:15.160
+manufacturing facilities. My father has
+
+00:14:13.880 --> 00:14:18.600
+too. So, you can walk through a
+
+00:14:15.160 --> 00:14:20.480
+manufacturing facility and there's tells
+
+00:14:18.600 --> 00:14:22.960
+where you can, you know, you're only
+
+00:14:20.480 --> 00:14:25.560
+seeing maybe 20% of what's on the
+
+00:14:22.960 --> 00:14:27.920
+surface, right? But you can also look
+
+00:14:25.560 --> 00:14:30.880
+underneath and say, if if this is what
+
+00:14:27.920 --> 00:14:33.000
+you can see, then you have an idea about
+
+00:14:30.880 --> 00:14:34.800
+do they take pride in their work? Are
+
+00:14:33.000 --> 00:14:37.120
+there some systems involved? Do they
+
+00:14:34.800 --> 00:14:39.080
+take care of the equipment? And those
+
+00:14:37.120 --> 00:14:41.520
+things tell you
+
+00:14:39.080 --> 00:14:44.280
+I mean, they're technical things, yes,
+
+00:14:41.520 --> 00:14:46.400
+but they also tell you deeply about the
+
+00:14:44.280 --> 00:14:48.400
+type of people who work there, right?
+
+00:14:46.400 --> 00:14:51.640
+Because conversely, manufacturing
+
+00:14:48.400 --> 00:14:53.880
+facilities can be a mess, right? And
+
+00:14:51.640 --> 00:14:55.600
+that tells you something, too. The other
+
+00:14:53.880 --> 00:14:58.280
+thing is, you know, the face-to-face
+
+00:14:55.600 --> 00:14:59.960
+meeting is so important because many,
+
+00:14:58.280 --> 00:15:01.880
+many people will say that they care
+
+00:14:59.960 --> 00:15:02.520
+about their people,
+
+00:15:01.880 --> 00:15:04.200
+um [snorts]
+
+00:15:02.520 --> 00:15:06.240
+but it's only by talking to that
+
+00:15:04.200 --> 00:15:08.839
+business owner and talking through,
+
+00:15:06.240 --> 00:15:11.680
+well, how does that work itself out in
+
+00:15:08.839 --> 00:15:13.839
+your in your day-to-day? How do you
+
+00:15:11.680 --> 00:15:14.440
+actually care about people?
+
+00:15:13.839 --> 00:15:16.560
+Um
+
+00:15:14.440 --> 00:15:18.880
+what is that? Do you just drive them and
+
+00:15:16.560 --> 00:15:20.760
+churn and burn them? Or do you do you
+
+00:15:18.880 --> 00:15:22.920
+actually care about them? And I think
+
+00:15:20.760 --> 00:15:26.240
+you can also tell that by the length of
+
+00:15:22.920 --> 00:15:27.800
+tenure of the people there, right? Um
+
+00:15:26.240 --> 00:15:30.440
+and one of the unique things about this
+
+00:15:27.800 --> 00:15:33.200
+business was too
+
+00:15:30.440 --> 00:15:36.000
+that typically a lot of manufacturing
+
+00:15:33.200 --> 00:15:38.360
+the the skilled workforce is aging out.
+
+00:15:36.000 --> 00:15:40.520
+We actually have a relatively early
+
+00:15:38.360 --> 00:15:42.440
+career workforce, especially for a
+
+00:15:40.520 --> 00:15:44.720
+business like that. And so that told you
+
+00:15:42.440 --> 00:15:47.120
+something about how they develop people,
+
+00:15:44.720 --> 00:15:49.440
+how they bring people along in the fact
+
+00:15:47.120 --> 00:15:51.070
+that people actually wanted to make a
+
+00:15:49.440 --> 00:15:51.920
+career here, right?
+
+00:15:51.070 --> 00:15:54.480
+>> [snorts]
+
+00:15:51.920 --> 00:15:56.520
+>> And so
+
+00:15:54.480 --> 00:16:00.000
+then the the sort of values that you
+
+00:15:56.520 --> 00:16:02.880
+were look these tells, these signals
+
+00:16:00.000 --> 00:16:04.960
+that you were paying attention to to
+
+00:16:02.880 --> 00:16:07.760
+indicate what you're looking for are
+
+00:16:04.960 --> 00:16:10.240
+values that are
+
+00:16:07.760 --> 00:16:12.840
+values of quality, so the quality of the
+
+00:16:10.240 --> 00:16:14.960
+product, the which the tell would be
+
+00:16:12.840 --> 00:16:17.440
+kind of the quality of the facility.
+
+00:16:14.960 --> 00:16:20.800
+So a high quality shop.
+
+00:16:17.440 --> 00:16:22.560
+And then treating people well there,
+
+00:16:20.800 --> 00:16:24.000
+treating the employees well, cultivating
+
+00:16:22.560 --> 00:16:24.960
+employees.
+
+00:16:24.000 --> 00:16:26.560
+Um
+
+00:16:24.960 --> 00:16:28.480
+does that sound right or is there
+
+00:16:26.560 --> 00:16:30.520
+something even more specific? And the
+
+00:16:28.480 --> 00:16:32.880
+reason I'm pressing on this is because
+
+00:16:30.520 --> 00:16:36.280
+you did emphasize in our pre-call as you
+
+00:16:32.880 --> 00:16:38.240
+are now, values. And and that's not
+
+00:16:36.280 --> 00:16:40.040
+necessarily something I hear very often,
+
+00:16:38.240 --> 00:16:42.240
+so I'm just trying to tease it out.
+
+00:16:40.040 --> 00:16:47.160
+>> Yeah, yeah. I mean
+
+00:16:42.240 --> 00:16:49.440
+I think it's it's the fact that
+
+00:16:47.160 --> 00:16:51.560
+deeply, you know, a lot of businesses
+
+00:16:49.440 --> 00:16:53.839
+say that they care about people again.
+
+00:16:51.560 --> 00:16:56.720
+And and obviously the job of a business
+
+00:16:53.839 --> 00:17:00.120
+is is to make money, right? A business
+
+00:16:56.720 --> 00:17:01.880
+is there to serve its customers to um
+
+00:17:00.120 --> 00:17:04.000
+and to make money. And that's how it's
+
+00:17:01.880 --> 00:17:05.520
+mostly talked about, but we believe that
+
+00:17:04.000 --> 00:17:08.079
+there's a third pillar, which is the
+
+00:17:05.520 --> 00:17:11.120
+business is there to care for its
+
+00:17:08.079 --> 00:17:12.600
+employees and be a steward of of those
+
+00:17:11.120 --> 00:17:16.079
+employees.
+
+00:17:12.600 --> 00:17:18.040
+Um because none of us lives to work, we
+
+00:17:16.079 --> 00:17:21.079
+we work to live. Now, we may have
+
+00:17:18.040 --> 00:17:23.426
+different views of what that looks like,
+
+00:17:21.079 --> 00:17:24.680
+right? Like I I work a lot.
+
+00:17:23.426 --> 00:17:25.920
+>> [laughter]
+
+00:17:24.680 --> 00:17:27.480
+>> There's a lot of people who don't want
+
+00:17:25.920 --> 00:17:30.800
+to work as much as I do, and that's
+
+00:17:27.480 --> 00:17:34.600
+fine. Um but that's that's something
+
+00:17:30.800 --> 00:17:37.880
+that we believe is important. And so
+
+00:17:34.600 --> 00:17:40.000
+it that value there, you know, probably
+
+00:17:37.880 --> 00:17:41.920
+the third value that we have. I mean,
+
+00:17:40.000 --> 00:17:44.280
+these these are our values that are on
+
+00:17:41.920 --> 00:17:46.880
+the wall, but it's create value for our
+
+00:17:44.280 --> 00:17:50.080
+customers, care for each other,
+
+00:17:46.880 --> 00:17:52.480
+and continuously improve.
+
+00:17:50.080 --> 00:17:54.760
+And And the continuous improvement is
+
+00:17:52.480 --> 00:17:56.840
+the one that we've kind of had to add,
+
+00:17:54.760 --> 00:17:58.960
+but that one in some ways is is the
+
+00:17:56.840 --> 00:18:00.760
+easiest one to add, right? Having
+
+00:17:58.960 --> 00:18:02.680
+somebody who says,
+
+00:18:00.760 --> 00:18:05.200
+you know, one thing we heard over and
+
+00:18:02.680 --> 00:18:06.880
+over was that
+
+00:18:05.200 --> 00:18:08.640
+we put the Springfield name on these
+
+00:18:06.880 --> 00:18:10.640
+things, and you can walk around our
+
+00:18:08.640 --> 00:18:14.360
+customers' facilities and see our name
+
+00:18:10.640 --> 00:18:17.280
+on it. We want you to be proud um
+
+00:18:14.360 --> 00:18:19.040
+of what they do. And And we want the the
+
+00:18:17.280 --> 00:18:21.320
+employees to be proud of that, and you
+
+00:18:19.040 --> 00:18:23.440
+could tell that they were.
+
+00:18:21.320 --> 00:18:25.800
+And so those are Those are really big
+
+00:18:23.440 --> 00:18:27.440
+things. Uh The other thing I'll say is
+
+00:18:25.800 --> 00:18:29.520
+from the beginning, one of the things my
+
+00:18:27.440 --> 00:18:31.280
+father and I talked about is
+
+00:18:29.520 --> 00:18:33.480
+one of the reasons we wanted to get into
+
+00:18:31.280 --> 00:18:35.840
+this, and one of our key metrics is how
+
+00:18:33.480 --> 00:18:39.080
+many families are we blessing,
+
+00:18:35.840 --> 00:18:41.080
+right? Because having a having a We're
+
+00:18:39.080 --> 00:18:42.840
+Christians. We tell people you don't
+
+00:18:41.080 --> 00:18:45.960
+have to be a Christian to work here,
+
+00:18:42.840 --> 00:18:48.680
+obviously. Um but that's that's the
+
+00:18:45.960 --> 00:18:50.320
+source of our values. And so saying,
+
+00:18:48.680 --> 00:18:51.852
+obviously, you can tell that family's
+
+00:18:50.320 --> 00:18:52.000
+very important to me.
+
+00:18:51.852 --> 00:18:54.440
+>> [snorts]
+
+00:18:52.000 --> 00:18:57.680
+>> And we want to make this a great place
+
+00:18:54.440 --> 00:19:01.960
+for somebody to work. And it was said to
+
+00:18:57.680 --> 00:19:04.400
+me early on in my career um that
+
+00:19:01.960 --> 00:19:07.240
+one of And I believe this this is
+
+00:19:04.400 --> 00:19:10.520
+Clayton Christensen at Harvard has has
+
+00:19:07.240 --> 00:19:13.160
+talked about this um in you You read it
+
+00:19:10.520 --> 00:19:15.600
+in How Will You Measure Your Life. Um
+
+00:19:13.160 --> 00:19:17.680
+but he says it most succinctly where
+
+00:19:15.600 --> 00:19:20.320
+it's
+
+00:19:17.680 --> 00:19:23.520
+when you're owning a company or a
+
+00:19:20.320 --> 00:19:26.120
+manager in a corporation, you get to
+
+00:19:23.520 --> 00:19:28.720
+determine not whether somebody works
+
+00:19:26.120 --> 00:19:31.240
+hard, right? Working hard is is kind of
+
+00:19:28.720 --> 00:19:34.080
+the baseline. We show up and we work.
+
+00:19:31.240 --> 00:19:38.080
+But you can determine whether they leave
+
+00:19:34.080 --> 00:19:41.520
+that day or most days feeling drained
+
+00:19:38.080 --> 00:19:44.400
+and so they may lash out at their spouse
+
+00:19:41.520 --> 00:19:48.360
+or not have energy for their children or
+
+00:19:44.400 --> 00:19:50.760
+their friends, right? Or you can set up
+
+00:19:48.360 --> 00:19:54.078
+an environment where they leave feeling
+
+00:19:50.760 --> 00:19:54.280
+tired but full, right?
+
+00:19:54.078 --> 00:19:56.280
+>> [snorts]
+
+00:19:54.280 --> 00:19:58.360
+>> Um and certainly we all have days,
+
+00:19:56.280 --> 00:20:02.120
+right? This isn't a strict law, but but
+
+00:19:58.360 --> 00:20:04.720
+on the whole, that's that's the power of
+
+00:20:02.120 --> 00:20:07.640
+being in a leadership position. And so
+
+00:20:04.720 --> 00:20:09.280
+we really wanted to create a place where
+
+00:20:07.640 --> 00:20:11.480
+you know, we work hard, we've got big
+
+00:20:09.280 --> 00:20:15.400
+goals, we achieve those goals, but we
+
+00:20:11.480 --> 00:20:18.720
+wanted people to become better people
+
+00:20:15.400 --> 00:20:20.680
+because they they work um in this
+
+00:20:18.720 --> 00:20:22.400
+company than they would have been if
+
+00:20:20.680 --> 00:20:24.200
+they worked in a different company. And
+
+00:20:22.400 --> 00:20:25.920
+we want them to be able to say, "I'm so
+
+00:20:24.200 --> 00:20:28.720
+thankful that I work there because it's
+
+00:20:25.920 --> 00:20:30.520
+made me a better wife, a better husband,
+
+00:20:28.720 --> 00:20:33.080
+a better father, a better mother, a
+
+00:20:30.520 --> 00:20:35.520
+better friend, right?" And so we put a
+
+00:20:33.080 --> 00:20:37.800
+lot of effort into that, not where we
+
+00:20:35.520 --> 00:20:39.840
+want to be, but into that sort of
+
+00:20:37.800 --> 00:20:41.960
+leadership development even within the
+
+00:20:39.840 --> 00:20:44.514
+company to date. And we put a lot of
+
+00:20:41.960 --> 00:20:46.880
+work into building that culture. And
+
+00:20:44.514 --> 00:20:49.120
+[snorts] so to go back to the search, we
+
+00:20:46.880 --> 00:20:51.640
+were really looking for something we
+
+00:20:49.120 --> 00:20:53.880
+knew we wouldn't find or it was very
+
+00:20:51.640 --> 00:20:55.520
+going to be very rare to find something
+
+00:20:53.880 --> 00:20:56.960
+that fully fit what we were trying to
+
+00:20:55.520 --> 00:20:57.320
+create, right?
+
+00:20:56.960 --> 00:20:58.280
+>> Yeah.
+
+00:20:57.320 --> 00:21:00.680
+>> Um
+
+00:20:58.280 --> 00:21:03.160
+but we wanted to find something that was
+
+00:21:00.680 --> 00:21:05.520
+a platform, to use a word that's that's
+
+00:21:03.160 --> 00:21:08.400
+used a lot in these circles, um a
+
+00:21:05.520 --> 00:21:11.040
+platform for culture building. And we
+
+00:21:08.400 --> 00:21:13.120
+believe that if we we created that
+
+00:21:11.040 --> 00:21:14.840
+culture with a
+
+00:21:13.120 --> 00:21:16.200
+environment of excellence, that that
+
+00:21:14.840 --> 00:21:18.320
+would create
+
+00:21:16.200 --> 00:21:21.360
+a fantastic business as well.
+
+00:21:18.320 --> 00:21:25.720
+>> You know, Caleb, I'm I'm struck at your
+
+00:21:21.360 --> 00:21:28.920
+forethought about culture and and
+
+00:21:25.720 --> 00:21:32.080
+below that impact on your employees, on
+
+00:21:28.920 --> 00:21:34.880
+their families because one pattern from
+
+00:21:32.080 --> 00:21:37.360
+this podcast is that um
+
+00:21:34.880 --> 00:21:39.480
+a happy discovery by many searchers is
+
+00:21:37.360 --> 00:21:41.360
+in fact how much impact they can have on
+
+00:21:39.480 --> 00:21:44.120
+their employees. They don't get into
+
+00:21:41.360 --> 00:21:46.560
+this game with that being the the
+
+00:21:44.120 --> 00:21:48.640
+motivator. Um they get into it for a lot
+
+00:21:46.560 --> 00:21:51.960
+of the other reasons that we all know.
+
+00:21:48.640 --> 00:21:54.760
+But they they learn that this is this
+
+00:21:51.960 --> 00:21:56.640
+incredible byproduct that is deeply
+
+00:21:54.760 --> 00:21:59.080
+gratifying. In fact, you'll hear people
+
+00:21:56.640 --> 00:22:01.600
+say that it is has been the most
+
+00:21:59.080 --> 00:22:03.920
+gratifying part of the journey. Um but
+
+00:22:01.600 --> 00:22:07.200
+you saw that in advance or you went into
+
+00:22:03.920 --> 00:22:10.360
+that with that um with that as a as a as
+
+00:22:07.200 --> 00:22:12.800
+a key driver. So, um that's cool and and
+
+00:22:10.360 --> 00:22:14.905
+differentiates you.
+
+00:22:12.800 --> 00:22:15.640
+Now back to money.
+
+00:22:14.905 --> 00:22:18.120
+>> [laughter]
+
+00:22:15.640 --> 00:22:20.640
+>> So, you talked about the business or
+
+00:22:18.120 --> 00:22:23.320
+your criteria, uh financial criteria,
+
+00:22:20.640 --> 00:22:25.440
+that the business be able to support
+
+00:22:23.320 --> 00:22:27.160
+your family after debt service. Can you
+
+00:22:25.440 --> 00:22:30.625
+be more specific?
+
+00:22:27.160 --> 00:22:32.000
+Um so, we were we were looking at you
+
+00:22:30.625 --> 00:22:33.840
+[snorts] know, I took a step back from a
+
+00:22:32.000 --> 00:22:38.160
+corporate salary, but I was at vice
+
+00:22:33.840 --> 00:22:39.680
+president level. Uh so so, we're talking
+
+00:22:38.160 --> 00:22:44.120
+I wasn't going to make a hundred grand a
+
+00:22:39.680 --> 00:22:47.000
+year, right? Um for my family. When we
+
+00:22:44.120 --> 00:22:49.400
+so, there had to be that environment,
+
+00:22:47.000 --> 00:22:52.120
+but then the debt service had to work
+
+00:22:49.400 --> 00:22:55.040
+out on top of that. Um so, we were
+
+00:22:52.120 --> 00:22:57.520
+looking for something that was fairly
+
+00:22:55.040 --> 00:22:59.680
+good size. And and this business ended
+
+00:22:57.520 --> 00:23:02.640
+up being uh
+
+00:22:59.680 --> 00:23:05.440
+about just under five million in revenue
+
+00:23:02.640 --> 00:23:07.640
+um when we bought it. Uh and we were
+
+00:23:05.440 --> 00:23:09.400
+also able to tie the real estate to it.
+
+00:23:07.640 --> 00:23:11.640
+That was an important part because
+
+00:23:09.400 --> 00:23:14.600
+stretching out the amortization
+
+00:23:11.640 --> 00:23:16.920
+allowed us to to decrease that debt
+
+00:23:14.600 --> 00:23:18.880
+service to the point where we could do
+
+00:23:16.920 --> 00:23:22.000
+all the things that we needed to do. A a
+
+00:23:18.880 --> 00:23:24.880
+third component that I was also um
+
+00:23:22.000 --> 00:23:26.760
+remiss in in not mentioning was a lot of
+
+00:23:24.880 --> 00:23:29.880
+these businesses, they need some
+
+00:23:26.760 --> 00:23:33.720
+investment, right? Um
+
+00:23:29.880 --> 00:23:38.040
+there the seller may not have have been
+
+00:23:33.720 --> 00:23:39.800
+quite as engaged um for the years um cuz
+
+00:23:38.040 --> 00:23:42.440
+the fire's been lost, right? They're not
+
+00:23:39.800 --> 00:23:44.600
+trying to grow it necessarily anymore or
+
+00:23:42.440 --> 00:23:46.920
+something like that. And and the seller
+
+00:23:44.600 --> 00:23:49.720
+who we became friends with was very open
+
+00:23:46.920 --> 00:23:51.320
+about that, right? Um
+
+00:23:49.720 --> 00:23:53.320
+so we knew that there was investment
+
+00:23:51.320 --> 00:23:57.080
+needed going in. So it also had to be
+
+00:23:53.320 --> 00:23:58.880
+able to to handle reinvestment um in the
+
+00:23:57.080 --> 00:24:00.520
+business that was necessary because
+
+00:23:58.880 --> 00:24:02.600
+ultimately the goal's to grow it. And in
+
+00:24:00.520 --> 00:24:04.880
+manufacturing, it's not a capex light
+
+00:24:02.600 --> 00:24:06.680
+business, right? So you know you're
+
+00:24:04.880 --> 00:24:09.920
+going to need funds to be able to
+
+00:24:06.680 --> 00:24:13.280
+reinvest there. Um and there's there's
+
+00:24:09.920 --> 00:24:15.960
+off-balance sheet liabilities that you
+
+00:24:13.280 --> 00:24:18.000
+you never discover all of those, right?
+
+00:24:15.960 --> 00:24:20.200
+Like deferred maintenance or things like
+
+00:24:18.000 --> 00:24:21.880
+that that you have to keep in mind and
+
+00:24:20.200 --> 00:24:23.680
+and include in your financial
+
+00:24:21.880 --> 00:24:24.596
+calculations to make sure that you're
+
+00:24:23.680 --> 00:24:25.240
+safe.
+
+00:24:24.596 --> 00:24:26.480
+>> [snorts]
+
+00:24:25.240 --> 00:24:28.800
+>> Sure.
+
+00:24:26.480 --> 00:24:30.480
+Well, those are the kind of traditional
+
+00:24:28.800 --> 00:24:33.280
+three tranches that an acquisition
+
+00:24:30.480 --> 00:24:35.000
+entrepreneur considers
+
+00:24:33.280 --> 00:24:36.880
+uh when they do the napkin math of a
+
+00:24:35.000 --> 00:24:39.320
+business. It's the debt could the the
+
+00:24:36.880 --> 00:24:42.080
+earnings need to support debt service,
+
+00:24:39.320 --> 00:24:44.880
+their own salary take-home expectations,
+
+00:24:42.080 --> 00:24:46.400
+and then reinvestment and growth and
+
+00:24:44.880 --> 00:24:48.200
+maintenance and you know, everything
+
+00:24:46.400 --> 00:24:50.600
+else. But but not just the maintenance,
+
+00:24:48.200 --> 00:24:52.360
+but in fact growth because that's what
+
+00:24:50.600 --> 00:24:54.480
+most people are going to try to do with
+
+00:24:52.360 --> 00:24:56.720
+their business. Um
+
+00:24:54.480 --> 00:24:58.720
+and
+
+00:24:56.720 --> 00:25:00.480
+yeah, I mean that as as you point out in
+
+00:24:58.720 --> 00:25:03.080
+a manufacturing business that last one
+
+00:25:00.480 --> 00:25:04.360
+the the reinvestment can mean
+
+00:25:03.080 --> 00:25:05.960
+that it's going to be it's going to
+
+00:25:04.360 --> 00:25:07.360
+require quite a bit of earnings coming
+
+00:25:05.960 --> 00:25:09.560
+out of the business to do that. So, you
+
+00:25:07.360 --> 00:25:11.400
+were looking for probably a business
+
+00:25:09.560 --> 00:25:14.560
+that had earnings in the typical range
+
+00:25:11.400 --> 00:25:16.720
+that we hear. 750 to
+
+00:25:14.560 --> 00:25:17.920
+you know, one one and a half if you
+
+00:25:16.720 --> 00:25:19.120
+could get it sort of thing.
+
+00:25:17.920 --> 00:25:21.480
+>> Yeah, yeah.
+
+00:25:19.120 --> 00:25:22.760
+>> Yeah, great.
+
+00:25:21.480 --> 00:25:25.080
+You've already started touching on this,
+
+00:25:22.760 --> 00:25:26.800
+but tell us tell us the reasons that
+
+00:25:25.080 --> 00:25:29.640
+when Springfield came across you liked
+
+00:25:26.800 --> 00:25:31.680
+it, Springfield Tool and Die.
+
+00:25:29.640 --> 00:25:34.960
+>> Well, like I said I had been running
+
+00:25:31.680 --> 00:25:38.400
+manufacturing businesses, mainly large
+
+00:25:34.960 --> 00:25:42.560
+extrusion or stamping businesses.
+
+00:25:38.400 --> 00:25:44.120
+And so, we used a lot of machine shops
+
+00:25:42.560 --> 00:25:46.040
+as vendors
+
+00:25:44.120 --> 00:25:48.160
+for us.
+
+00:25:46.040 --> 00:25:51.400
+And what I had noticed through that time
+
+00:25:48.160 --> 00:25:53.960
+is, you know, time and time again
+
+00:25:51.400 --> 00:25:57.607
+projects would be delayed
+
+00:25:53.960 --> 00:25:57.640
+due to the machine shops we were using.
+
+00:25:57.607 --> 00:26:00.600
+>> [snorts]
+
+00:25:57.640 --> 00:26:03.280
+>> And as I dug as I had dug in on this,
+
+00:26:00.600 --> 00:26:05.160
+not this was unrelated to purchasing the
+
+00:26:03.280 --> 00:26:08.480
+business, um
+
+00:26:05.160 --> 00:26:12.120
+but I had found that
+
+00:26:08.480 --> 00:26:13.840
+the common reasons that were given were
+
+00:26:12.120 --> 00:26:15.600
+hey
+
+00:26:13.840 --> 00:26:17.640
+in the past 5 years a bunch of our
+
+00:26:15.600 --> 00:26:21.120
+really skilled employees have have
+
+00:26:17.640 --> 00:26:24.640
+retired. And so, over 5 years quality
+
+00:26:21.120 --> 00:26:27.040
+had decreased, on time had decreased.
+
+00:26:24.640 --> 00:26:29.680
+And when we when we, you know, naturally
+
+00:26:27.040 --> 00:26:31.800
+the question came up where can we find
+
+00:26:29.680 --> 00:26:33.633
+other shops to do this? These must not
+
+00:26:31.800 --> 00:26:33.680
+be the only ones.
+
+00:26:33.633 --> 00:26:37.280
+>> [snorts]
+
+00:26:33.680 --> 00:26:38.400
+>> And we had trouble finding any others,
+
+00:26:37.280 --> 00:26:41.160
+right?
+
+00:26:38.400 --> 00:26:43.480
+And so that kind of put in the back of
+
+00:26:41.160 --> 00:26:46.080
+my mind that there was a real market
+
+00:26:43.480 --> 00:26:47.800
+here, a real need, and it wasn't fully
+
+00:26:46.080 --> 00:26:49.440
+being serviced. So, when Springfield
+
+00:26:47.800 --> 00:26:51.800
+came across the first thing I thought
+
+00:26:49.440 --> 00:26:53.560
+was, well, I don't
+
+00:26:51.800 --> 00:26:56.480
+I've never worked in a business like
+
+00:26:53.560 --> 00:26:59.040
+this, right? But I understand it about
+
+00:26:56.480 --> 00:27:01.120
+as closely as you can
+
+00:26:59.040 --> 00:27:03.160
+not having worked in it because we had
+
+00:27:01.120 --> 00:27:04.720
+to work closely with a lot of those
+
+00:27:03.160 --> 00:27:08.360
+those players.
+
+00:27:04.720 --> 00:27:09.600
+Um and then as we dug in, we we really I
+
+00:27:08.360 --> 00:27:12.040
+started to
+
+00:27:09.600 --> 00:27:14.840
+the thing I kept saying was, "Wow, this
+
+00:27:12.040 --> 00:27:15.553
+is the supplier I wish I had had."
+
+00:27:14.840 --> 00:27:15.640
+Right?
+
+00:27:15.553 --> 00:27:18.080
+>> [snorts]
+
+00:27:15.640 --> 00:27:20.080
+>> They care about the customer, they care
+
+00:27:18.080 --> 00:27:23.240
+about getting things right, they care
+
+00:27:20.080 --> 00:27:23.960
+about being on time. Um
+
+00:27:23.240 --> 00:27:25.880
+and [clears throat]
+
+00:27:23.960 --> 00:27:26.640
+and they really are
+
+00:27:25.880 --> 00:27:29.600
+um
+
+00:27:26.640 --> 00:27:32.040
+the type of person that I would have
+
+00:27:29.600 --> 00:27:33.720
+wanted to work with, right? They're
+
+00:27:32.040 --> 00:27:35.640
+technically excellent, they've got the
+
+00:27:33.720 --> 00:27:38.280
+technical skills so they can step into
+
+00:27:35.640 --> 00:27:42.080
+the gap where your own technical people
+
+00:27:38.280 --> 00:27:44.280
+um can't. And so those were those were
+
+00:27:42.080 --> 00:27:47.040
+great things and they came directly out
+
+00:27:44.280 --> 00:27:47.880
+of unexpectedly out of my experience in
+
+00:27:47.040 --> 00:27:51.480
+corporate.
+
+00:27:47.880 --> 00:27:53.800
+>> What value did you expect to add?
+
+00:27:51.480 --> 00:27:56.400
+>> So the the thing that we saw was that
+
+00:27:53.800 --> 00:27:58.129
+the business was run in a in a very
+
+00:27:56.400 --> 00:27:58.400
+old-school way.
+
+00:27:58.129 --> 00:28:00.960
+>> [snorts]
+
+00:27:58.400 --> 00:28:03.600
+>> Um it was run on technology that was
+
+00:28:00.960 --> 00:28:06.200
+1970s technology.
+
+00:28:03.600 --> 00:28:08.480
+Um and while there was machining
+
+00:28:06.200 --> 00:28:10.080
+process, there was a lack of business
+
+00:28:08.480 --> 00:28:13.960
+process.
+
+00:28:10.080 --> 00:28:17.040
+And so there was a ton of transactional
+
+00:28:13.960 --> 00:28:19.200
+work that was being done by folks in the
+
+00:28:17.040 --> 00:28:22.240
+absence of technology
+
+00:28:19.200 --> 00:28:25.240
+and in the absence of business process.
+
+00:28:22.240 --> 00:28:27.680
+And so that's really besides the normal
+
+00:28:25.240 --> 00:28:29.880
+things like financial management, right?
+
+00:28:27.680 --> 00:28:32.800
+I'm the de facto CFO.
+
+00:28:29.880 --> 00:28:35.120
+Um besides, you know, just general
+
+00:28:32.800 --> 00:28:37.680
+overhead and management, there was
+
+00:28:35.120 --> 00:28:40.800
+really the idea of we can put technology
+
+00:28:37.680 --> 00:28:43.760
+into this business, we can use lean
+
+00:28:40.800 --> 00:28:46.360
+techniques in carpet land as it's called
+
+00:28:43.760 --> 00:28:48.840
+in the [snorts] office as well as out on
+
+00:28:46.360 --> 00:28:50.240
+the factory floor to really smooth out
+
+00:28:48.840 --> 00:28:53.440
+the workflow.
+
+00:28:50.240 --> 00:28:54.920
+Um and that is proven to be to be very
+
+00:28:53.440 --> 00:28:57.920
+true. Um
+
+00:28:54.920 --> 00:29:00.200
+and really the the folks who are on the
+
+00:28:57.920 --> 00:29:03.920
+end of the machining, right? They know
+
+00:29:00.200 --> 00:29:06.440
+what they're doing. But they are subject
+
+00:29:03.920 --> 00:29:09.120
+to the variations and the whiplash that
+
+00:29:06.440 --> 00:29:11.920
+happens from all the transactional work
+
+00:29:09.120 --> 00:29:14.960
+that's done up in front of them. Whether
+
+00:29:11.920 --> 00:29:18.280
+that be the sales work, whether that be
+
+00:29:14.960 --> 00:29:21.360
+you know, order entry and bomb bill of
+
+00:29:18.280 --> 00:29:24.440
+materials and routing definitions. Um
+
+00:29:21.360 --> 00:29:27.600
+all of those things impact their lives,
+
+00:29:24.440 --> 00:29:29.720
+right? So, while it may sound like I was
+
+00:29:27.600 --> 00:29:32.360
+removed from the machinists, it was
+
+00:29:29.720 --> 00:29:35.000
+really a focus that I could make the
+
+00:29:32.360 --> 00:29:37.560
+place where the work is done
+
+00:29:35.000 --> 00:29:40.200
+fundamentally better by making all the
+
+00:29:37.560 --> 00:29:43.480
+things in front of that better. And that
+
+00:29:40.200 --> 00:29:44.680
+would also uh eliminate a lot of a lot
+
+00:29:43.480 --> 00:29:47.480
+of just
+
+00:29:44.680 --> 00:29:50.000
+grunt work, right? That's not pleasant
+
+00:29:47.480 --> 00:29:52.760
+to do. Um that's just mind-numbing
+
+00:29:50.000 --> 00:29:54.840
+day-to-day, but it would also ultimately
+
+00:29:52.760 --> 00:29:56.720
+make us a better business.
+
+00:29:54.840 --> 00:29:59.680
+>> And and how much of your own
+
+00:29:56.720 --> 00:30:01.600
+understanding of manufacturing
+
+00:29:59.680 --> 00:30:03.720
+was that were you going to bring to
+
+00:30:01.600 --> 00:30:04.800
+bear? Because because we're hearing that
+
+00:30:03.720 --> 00:30:06.280
+your
+
+00:30:04.800 --> 00:30:07.880
+ever all the changes that you were going
+
+00:30:06.280 --> 00:30:10.440
+to make or value that you were going to
+
+00:30:07.880 --> 00:30:14.000
+add were sort of upstream from the
+
+00:30:10.440 --> 00:30:17.320
+factory floor. But but it also sounds
+
+00:30:14.000 --> 00:30:20.080
+like those decisions trickle down to the
+
+00:30:17.320 --> 00:30:21.840
+the factory floor. So, you really
+
+00:30:20.080 --> 00:30:23.120
+kind of benefited from understanding
+
+00:30:21.840 --> 00:30:26.040
+this stuff. And and kind of where I'm
+
+00:30:23.120 --> 00:30:28.040
+going with this is um
+
+00:30:26.040 --> 00:30:29.880
+could somebody without manufacturing
+
+00:30:28.040 --> 00:30:31.400
+experience Are you just talking about
+
+00:30:29.880 --> 00:30:34.440
+doing the kind of the the typical
+
+00:30:31.400 --> 00:30:37.040
+searcher stuff, put in some tech, you
+
+00:30:34.440 --> 00:30:39.880
+know, take a a new set of eyes on
+
+00:30:37.040 --> 00:30:41.720
+processes, and kind of any smart,
+
+00:30:39.880 --> 00:30:44.320
+diligent, hungry person can kind of
+
+00:30:41.720 --> 00:30:46.680
+figure out where the opportunities lie
+
+00:30:44.320 --> 00:30:48.240
+to make the business more efficient, or
+
+00:30:46.680 --> 00:30:50.680
+are we talking about something much more
+
+00:30:48.240 --> 00:30:52.880
+specialized?
+
+00:30:50.680 --> 00:30:54.760
+>> I don't want to say that it's impossible
+
+00:30:52.880 --> 00:30:56.640
+to do it as a smart person without
+
+00:30:54.760 --> 00:30:58.256
+manufacturing experience, but it would
+
+00:30:56.640 --> 00:30:58.680
+be much more difficult.
+
+00:30:58.256 --> 00:31:02.920
+>> [snorts]
+
+00:30:58.680 --> 00:31:05.560
+>> Um because manufacturing is not just
+
+00:31:02.920 --> 00:31:07.840
+when metal touches metal and and you're
+
+00:31:05.560 --> 00:31:09.880
+making something. You've got to define
+
+00:31:07.840 --> 00:31:12.320
+what you're making, you have to define
+
+00:31:09.880 --> 00:31:14.200
+what quality is. You have to make sure,
+
+00:31:12.320 --> 00:31:15.720
+especially in a job shop environment
+
+00:31:14.200 --> 00:31:18.160
+where you're doing new stuff every day,
+
+00:31:15.720 --> 00:31:22.000
+that what you're defining actually meets
+
+00:31:18.160 --> 00:31:26.080
+the customer expectations, right? And so
+
+00:31:22.000 --> 00:31:28.640
+it really is an end-to-end process and
+
+00:31:26.080 --> 00:31:30.080
+not knowing manufacturing
+
+00:31:28.640 --> 00:31:32.640
+the the
+
+00:31:30.080 --> 00:31:34.520
+the struggle would be that and I'm not
+
+00:31:32.640 --> 00:31:36.800
+saying I didn't make any missteps. I
+
+00:31:34.520 --> 00:31:38.240
+certainly, you know, there there always
+
+00:31:36.800 --> 00:31:39.360
+missteps.
+
+00:31:38.240 --> 00:31:41.480
+But
+
+00:31:39.360 --> 00:31:43.720
+I would have made a lot more of them if
+
+00:31:41.480 --> 00:31:46.160
+I had just come in straight out of tech
+
+00:31:43.720 --> 00:31:48.360
+saying, "Oh, we can just throw in a new
+
+00:31:46.160 --> 00:31:49.360
+accounting system. Oh, we can just throw
+
+00:31:48.360 --> 00:31:52.440
+in
+
+00:31:49.360 --> 00:31:55.920
+uh a new ERP, right?" Without really
+
+00:31:52.440 --> 00:31:57.920
+understanding like we chose an ERP, for
+
+00:31:55.920 --> 00:32:00.040
+instance, specifically
+
+00:31:57.920 --> 00:32:01.520
+because it was suited to the type of
+
+00:32:00.040 --> 00:32:03.800
+work that we do.
+
+00:32:01.520 --> 00:32:06.480
+And I could see how end-to-end it would,
+
+00:32:03.800 --> 00:32:09.360
+you know, technology has to fit process,
+
+00:32:06.480 --> 00:32:11.800
+right? That's one thing that was beaten
+
+00:32:09.360 --> 00:32:14.360
+into me as a as a product manager, but I
+
+00:32:11.800 --> 00:32:17.200
+also saw in in living color in
+
+00:32:14.360 --> 00:32:20.000
+manufacturing where they tried to switch
+
+00:32:17.200 --> 00:32:22.280
+ERPs and it just didn't work because
+
+00:32:20.000 --> 00:32:25.080
+fundamentally underneath
+
+00:32:22.280 --> 00:32:26.920
+they hadn't changed the process, right?
+
+00:32:25.080 --> 00:32:29.520
+So throwing a new piece of technology
+
+00:32:26.920 --> 00:32:31.120
+that looks sexier at it, um
+
+00:32:29.520 --> 00:32:33.120
+all it's going to do is cause more
+
+00:32:31.120 --> 00:32:34.720
+errors and frustrate people and it's
+
+00:32:33.120 --> 00:32:37.200
+going to do it in ways that you never
+
+00:32:34.720 --> 00:32:39.960
+expected because you can never see all
+
+00:32:37.200 --> 00:32:41.840
+the different tentacles that that has
+
+00:32:39.960 --> 00:32:43.520
+throughout a business as complex as
+
+00:32:41.840 --> 00:32:46.240
+manufacturing.
+
+00:32:43.520 --> 00:32:49.760
+And so, having that experience and those
+
+00:32:46.240 --> 00:32:51.920
+eyes that were created over those years
+
+00:32:49.760 --> 00:32:54.320
+really helped me say, "Okay, where's the
+
+00:32:51.920 --> 00:32:57.640
+right place?" And we we said no to a lot
+
+00:32:54.320 --> 00:33:00.000
+of technology um because I said, "We're
+
+00:32:57.640 --> 00:33:02.080
+not ready for that." And we we still say
+
+00:33:00.000 --> 00:33:03.960
+no to a lot of technology that we know
+
+00:33:02.080 --> 00:33:07.080
+will help us one day,
+
+00:33:03.960 --> 00:33:08.960
+but one, we're not ready for it. Two, we
+
+00:33:07.080 --> 00:33:10.920
+can make a lot of improvement with just
+
+00:33:08.960 --> 00:33:12.640
+things like Excel
+
+00:33:10.920 --> 00:33:15.600
+or process
+
+00:33:12.640 --> 00:33:18.360
+um to do that. And we can lay that out
+
+00:33:15.600 --> 00:33:20.600
+in such a way that when we are ready for
+
+00:33:18.360 --> 00:33:23.000
+technology, all we're doing is putting a
+
+00:33:20.600 --> 00:33:25.360
+piece of technology on top of our
+
+00:33:23.000 --> 00:33:26.400
+process that we already have.
+
+00:33:25.360 --> 00:33:29.000
+And
+
+00:33:26.400 --> 00:33:31.120
+that does the magic, right? Because at
+
+00:33:29.000 --> 00:33:32.960
+that point, all you're doing is
+
+00:33:31.120 --> 00:33:34.640
+eliminating transactional work that
+
+00:33:32.960 --> 00:33:37.360
+people do. So, you're increasing
+
+00:33:34.640 --> 00:33:39.120
+velocity through a process. You're not
+
+00:33:37.360 --> 00:33:41.200
+trying to replace a process with
+
+00:33:39.120 --> 00:33:43.960
+technology, which never works.
+
+00:33:41.200 --> 00:33:48.240
+>> Okay, Caleb. Let's um just take a a
+
+00:33:43.960 --> 00:33:50.000
+second to learn about um broadly
+
+00:33:48.240 --> 00:33:51.520
+machine shops. And I'll And I'll just
+
+00:33:50.000 --> 00:33:52.960
+start with this.
+
+00:33:51.520 --> 00:33:55.120
+Um
+
+00:33:52.960 --> 00:33:56.800
+is a
+
+00:33:55.120 --> 00:33:59.080
+job shop
+
+00:33:56.800 --> 00:34:01.440
+machine shop
+
+00:33:59.080 --> 00:34:03.520
+tool and die
+
+00:34:01.440 --> 00:34:05.760
+metal fabricator
+
+00:34:03.520 --> 00:34:08.080
+Are these different things? Are these
+
+00:34:05.760 --> 00:34:10.120
+all essentially the same thing? Can I
+
+00:34:08.080 --> 00:34:12.560
+use them interchangeably?
+
+00:34:10.120 --> 00:34:15.040
+Um I I do use them interchangeably. Am I
+
+00:34:12.560 --> 00:34:16.800
+Am I doing it wrong? Who what
+
+00:34:15.040 --> 00:34:17.919
+How do I think about this?
+
+00:34:16.800 --> 00:34:20.639
+>> Well,
+
+00:34:17.919 --> 00:34:22.120
+from my previous experience, I knew some
+
+00:34:20.639 --> 00:34:24.120
+of the differences, but I've learned a
+
+00:34:22.120 --> 00:34:26.320
+lot more. I mean,
+
+00:34:24.120 --> 00:34:28.600
+fabrication and machining, to start
+
+00:34:26.320 --> 00:34:31.240
+with, are two very different things.
+
+00:34:28.600 --> 00:34:35.639
+Fabrication is welding, it's bending
+
+00:34:31.240 --> 00:34:37.879
+metal, it's cutting metal, right? Um
+
+00:34:35.639 --> 00:34:40.240
+and that tends to be very different. A
+
+00:34:37.879 --> 00:34:42.720
+lot of the tolerances involved are are
+
+00:34:40.240 --> 00:34:45.280
+not as tight, usually. I'm I'm
+
+00:34:42.720 --> 00:34:47.280
+generalizing here, right? But they tend
+
+00:34:45.280 --> 00:34:49.919
+to not be as tight.
+
+00:34:47.280 --> 00:34:52.000
+And and you tend to have larger
+
+00:34:49.919 --> 00:34:54.480
+structures. There can be smaller
+
+00:34:52.000 --> 00:34:57.000
+fabricated metal parts like brackets or
+
+00:34:54.480 --> 00:34:59.840
+things like that, but generally speaking
+
+00:34:57.000 --> 00:35:02.120
+it's it's very different than machining,
+
+00:34:59.840 --> 00:35:03.200
+which is fundamentally taking a hunk of
+
+00:35:02.120 --> 00:35:04.600
+metal
+
+00:35:03.200 --> 00:35:07.840
+and
+
+00:35:04.600 --> 00:35:09.960
+making it into something, right? Um and
+
+00:35:07.840 --> 00:35:11.760
+so you're cutting away metal, you're not
+
+00:35:09.960 --> 00:35:14.400
+shaping it, you're not bending it,
+
+00:35:11.760 --> 00:35:16.680
+you're you're cutting it away.
+
+00:35:14.400 --> 00:35:19.400
+And within that there can be, you know,
+
+00:35:16.680 --> 00:35:20.800
+fabrication has different different
+
+00:35:19.400 --> 00:35:23.400
+types. Like there's structural
+
+00:35:20.800 --> 00:35:25.120
+fabrication that's really for buildings,
+
+00:35:23.400 --> 00:35:27.480
+you know, think of I-beams or things
+
+00:35:25.120 --> 00:35:29.240
+like that. There's also people call them
+
+00:35:27.480 --> 00:35:30.760
+sales fabricators, but they're making
+
+00:35:29.240 --> 00:35:32.640
+those little brackets, right? So they've
+
+00:35:30.760 --> 00:35:35.000
+got big laser cutters and they're
+
+00:35:32.640 --> 00:35:36.800
+cutting out small little pieces from
+
+00:35:35.000 --> 00:35:39.920
+that, punching holes in them. They have
+
+00:35:36.800 --> 00:35:42.280
+brake brake presses to to
+
+00:35:39.920 --> 00:35:44.480
+um bend sheet metal.
+
+00:35:42.280 --> 00:35:47.200
+So that world kind of lives on its own.
+
+00:35:44.480 --> 00:35:49.040
+We do some fabrication at Springfield,
+
+00:35:47.200 --> 00:35:51.560
+um but it's a complement to our
+
+00:35:49.040 --> 00:35:53.920
+machining, it's not the core.
+
+00:35:51.560 --> 00:35:55.480
+So there is crossover sometimes in those
+
+00:35:53.920 --> 00:35:59.080
+things.
+
+00:35:55.480 --> 00:36:01.320
+Usually because end assemblies um for
+
+00:35:59.080 --> 00:36:03.600
+some applications include parts that are
+
+00:36:01.320 --> 00:36:04.640
+fabricated and parts that are machined,
+
+00:36:03.600 --> 00:36:08.120
+right?
+
+00:36:04.640 --> 00:36:10.080
+Um but then on the and then welding is
+
+00:36:08.120 --> 00:36:12.080
+key in fabrication. There's there's a
+
+00:36:10.080 --> 00:36:14.625
+lot of welding. So whenever you hear
+
+00:36:12.080 --> 00:36:14.920
+welding, you can think fabrication.
+
+00:36:14.625 --> 00:36:19.240
+>> [snorts]
+
+00:36:14.920 --> 00:36:21.160
+>> On machining, machining is so broad. I I
+
+00:36:19.240 --> 00:36:22.160
+it's really amazing. There's everything
+
+00:36:21.160 --> 00:36:25.000
+from
+
+00:36:22.160 --> 00:36:27.480
+a guy in his garage with no overhead and
+
+00:36:25.000 --> 00:36:29.040
+a machine who will just knock parts out
+
+00:36:27.480 --> 00:36:30.440
+as they come in
+
+00:36:29.040 --> 00:36:32.280
+um
+
+00:36:30.440 --> 00:36:35.160
+to and there's there's really no
+
+00:36:32.280 --> 00:36:37.240
+process. It's just he's really smart and
+
+00:36:35.160 --> 00:36:39.000
+talented at machining and he can and
+
+00:36:37.240 --> 00:36:42.480
+some of those guys can do amazing
+
+00:36:39.000 --> 00:36:45.640
+things, but it's really a dying breed.
+
+00:36:42.480 --> 00:36:48.520
+Um and then there's machine shops that
+
+00:36:45.640 --> 00:36:52.360
+are at the other end of the spectrum
+
+00:36:48.520 --> 00:36:55.320
+where they do a lot of high volume stuff
+
+00:36:52.360 --> 00:36:58.000
+or or things that are pre-programmed.
+
+00:36:55.320 --> 00:37:01.400
+So they have some engineers and and
+
+00:36:58.000 --> 00:37:03.800
+programmers at the front and then they
+
+00:37:01.400 --> 00:37:06.080
+may have a setup tech or two on the
+
+00:37:03.800 --> 00:37:08.160
+floor, but the machinists who are out
+
+00:37:06.080 --> 00:37:10.160
+there are you know, they press the
+
+00:37:08.160 --> 00:37:12.840
+button and they baby sit the program,
+
+00:37:10.160 --> 00:37:14.760
+right? They're not um they're a lower
+
+00:37:12.840 --> 00:37:17.240
+technical level and that's where a lot
+
+00:37:14.760 --> 00:37:18.560
+of machining has actually has actually
+
+00:37:17.240 --> 00:37:20.200
+gone.
+
+00:37:18.560 --> 00:37:22.240
+Um
+
+00:37:20.200 --> 00:37:24.400
+and and within that there's production
+
+00:37:22.240 --> 00:37:27.240
+machining, right? Which which runs
+
+00:37:24.400 --> 00:37:29.800
+thousands of parts and you can have
+
+00:37:27.240 --> 00:37:32.320
+aerospace or medical or all with
+
+00:37:29.800 --> 00:37:34.680
+different different requirements, right?
+
+00:37:32.320 --> 00:37:37.680
+Or basic industrial.
+
+00:37:34.680 --> 00:37:39.520
+Um and and it's very segmented, right?
+
+00:37:37.680 --> 00:37:41.920
+Because if you have a cost structure
+
+00:37:39.520 --> 00:37:44.000
+that's meant for aerospace, if just a
+
+00:37:41.920 --> 00:37:46.640
+normal assembly line
+
+00:37:44.000 --> 00:37:48.840
+um type operation needs spare parts cuz
+
+00:37:46.640 --> 00:37:50.200
+they wear through them regularly, you're
+
+00:37:48.840 --> 00:37:52.160
+probably not going to be able to touch
+
+00:37:50.200 --> 00:37:54.640
+that pricing cuz of your overhead,
+
+00:37:52.160 --> 00:37:57.000
+right? So there's so it's it's very
+
+00:37:54.640 --> 00:37:59.480
+segmented. And then where we kind of
+
+00:37:57.000 --> 00:38:02.000
+live is in an interesting niche, which
+
+00:37:59.480 --> 00:38:04.680
+is we do design
+
+00:38:02.000 --> 00:38:07.286
+we do some fabrication
+
+00:38:04.680 --> 00:38:07.680
+and we do a lot of machining.
+
+00:38:07.286 --> 00:38:08.640
+>> [snorts]
+
+00:38:07.680 --> 00:38:11.960
+>> So
+
+00:38:08.640 --> 00:38:14.600
+but and it's it's not uncomplex,
+
+00:38:11.960 --> 00:38:18.600
+but it's not like aerospace five axis
+
+00:38:14.600 --> 00:38:21.000
+complex, right? So it's it's a very
+
+00:38:18.600 --> 00:38:22.920
+interesting niche in the market um
+
+00:38:21.000 --> 00:38:25.120
+because especially you'll look at some
+
+00:38:22.920 --> 00:38:27.360
+of the stuff we make and say
+
+00:38:25.120 --> 00:38:29.840
+that doesn't look that complicated. But
+
+00:38:27.360 --> 00:38:31.360
+then you get into it and you say, well,
+
+00:38:29.840 --> 00:38:33.240
+the threads have to be right and they
+
+00:38:31.360 --> 00:38:35.960
+have to mate properly. And we're all so
+
+00:38:33.240 --> 00:38:37.360
+used to screws, right? That we don't
+
+00:38:35.960 --> 00:38:40.040
+nobody
+
+00:38:37.360 --> 00:38:41.320
+nobody knows what custom threading means
+
+00:38:40.040 --> 00:38:43.600
+anymore.
+
+00:38:41.320 --> 00:38:45.840
+But everybody's had the the experience
+
+00:38:43.600 --> 00:38:48.040
+where your your screw doesn't go in or
+
+00:38:45.840 --> 00:38:50.680
+your bolt doesn't go in cleanly, right?
+
+00:38:48.040 --> 00:38:52.720
+In our applications, we want that to go
+
+00:38:50.680 --> 00:38:54.120
+in cleanly, but we're making one-offs,
+
+00:38:52.720 --> 00:38:55.400
+right? So, it's got to be right the
+
+00:38:54.120 --> 00:38:57.800
+first time.
+
+00:38:55.400 --> 00:39:01.120
+We're also dealing in tolerances of a
+
+00:38:57.800 --> 00:39:03.040
+thousandth of an inch, right? So, to be
+
+00:39:01.120 --> 00:39:05.000
+able to put that hole and make sure that
+
+00:39:03.040 --> 00:39:06.480
+the edges are within a thousandths of an
+
+00:39:05.000 --> 00:39:08.560
+inch of the reference points. And
+
+00:39:06.480 --> 00:39:10.200
+sometimes there can be two, three, more
+
+00:39:08.560 --> 00:39:13.400
+reference points.
+
+00:39:10.200 --> 00:39:15.000
+That's not an easy thing to do.
+
+00:39:13.400 --> 00:39:17.880
+And then it may be funny, but we
+
+00:39:15.000 --> 00:39:20.400
+actually prefer to design things because
+
+00:39:17.880 --> 00:39:22.560
+our designers were machinists.
+
+00:39:20.400 --> 00:39:24.120
+And have grown up through through our
+
+00:39:22.560 --> 00:39:27.280
+culture.
+
+00:39:24.120 --> 00:39:28.600
+And so, we get a lot of drawings sent to
+
+00:39:27.280 --> 00:39:30.720
+us that
+
+00:39:28.600 --> 00:39:33.720
+they may have things that are
+
+00:39:30.720 --> 00:39:36.720
+unmachinable. Right? Because they look
+
+00:39:33.720 --> 00:39:38.160
+cool to to make
+
+00:39:36.720 --> 00:39:39.840
+and [clears throat] as an end product,
+
+00:39:38.160 --> 00:39:41.920
+but you can't actually like there's
+
+00:39:39.840 --> 00:39:43.920
+physics involved. You you have to
+
+00:39:41.920 --> 00:39:46.320
+actually be able to put a tool in that
+
+00:39:43.920 --> 00:39:48.400
+position. And you have to be able to do
+
+00:39:46.320 --> 00:39:50.120
+it. There's also different types of
+
+00:39:48.400 --> 00:39:51.840
+metal, right? So, something may have
+
+00:39:50.120 --> 00:39:54.600
+been designed for certain tolerances,
+
+00:39:51.840 --> 00:39:57.040
+but the metal itself that they speck out
+
+00:39:54.600 --> 00:39:59.360
+cannot hold those tolerances, right?
+
+00:39:57.040 --> 00:40:01.880
+Because metals actually
+
+00:39:59.360 --> 00:40:04.280
+it flexes. And different metals flex
+
+00:40:01.880 --> 00:40:06.960
+differently. And so, there's all sorts
+
+00:40:04.280 --> 00:40:09.200
+of different things that are components
+
+00:40:06.960 --> 00:40:10.920
+of this. And that was really not that
+
+00:40:09.200 --> 00:40:12.800
+there aren't other shops that can do
+
+00:40:10.920 --> 00:40:15.880
+pieces of this, but it was very
+
+00:40:12.800 --> 00:40:17.640
+interesting to me because there were
+
+00:40:15.880 --> 00:40:19.360
+just all these different pieces that
+
+00:40:17.640 --> 00:40:22.360
+when they came together meant that we
+
+00:40:19.360 --> 00:40:24.920
+could solve problems that there aren't
+
+00:40:22.360 --> 00:40:25.680
+many people out there that can solve,
+
+00:40:24.920 --> 00:40:29.960
+right?
+
+00:40:25.680 --> 00:40:31.840
+>> Well, to to that point
+
+00:40:29.960 --> 00:40:35.360
+the other thing I wanted to understand
+
+00:40:31.840 --> 00:40:37.000
+was why it was hard for you in your
+
+00:40:35.360 --> 00:40:39.560
+other role to find a good service
+
+00:40:37.000 --> 00:40:43.680
+provider. And and and just to preface
+
+00:40:39.560 --> 00:40:46.520
+that more, I have the impression with
+
+00:40:43.680 --> 00:40:51.280
+knowing so little about this world
+
+00:40:46.520 --> 00:40:54.040
+there are that there are a lot of
+
+00:40:51.280 --> 00:40:56.080
+job shops, machine shops. Now I'm again
+
+00:40:54.040 --> 00:40:58.960
+probably not using it well, but that
+
+00:40:56.080 --> 00:41:01.160
+this is a very competitive space and
+
+00:40:58.960 --> 00:41:05.240
+that there there's not a lot of
+
+00:41:01.160 --> 00:41:08.880
+differentiation often. And so um you can
+
+00:41:05.240 --> 00:41:10.560
+you can address why Springfield did, but
+
+00:41:08.880 --> 00:41:12.880
+but just broadly again from the
+
+00:41:10.560 --> 00:41:15.400
+perspective of searchers listening
+
+00:41:12.880 --> 00:41:17.760
+um and in fact I talked to another
+
+00:41:15.400 --> 00:41:19.280
+searcher who who I had a pre-call with
+
+00:41:17.760 --> 00:41:20.920
+um a couple days ago who will come on
+
+00:41:19.280 --> 00:41:23.360
+the podcast here in a couple weeks
+
+00:41:20.920 --> 00:41:24.760
+bought a metal fabrication business and
+
+00:41:23.360 --> 00:41:27.080
+and talked about how it's a very
+
+00:41:24.760 --> 00:41:27.280
+difficult business, it's competitive.
+
+00:41:27.080 --> 00:41:30.640
+>> Yeah.
+
+00:41:27.280 --> 00:41:32.440
+>> Um so how how can it be both competitive
+
+00:41:30.640 --> 00:41:35.000
+but also
+
+00:41:32.440 --> 00:41:38.040
+from your experience as a customer hard
+
+00:41:35.000 --> 00:41:40.200
+to find good service providers?
+
+00:41:38.040 --> 00:41:43.040
+>> I think you you have to carve out some
+
+00:41:40.200 --> 00:41:47.120
+sort of technical niche, right?
+
+00:41:43.040 --> 00:41:49.680
+Something that you can do whether that's
+
+00:41:47.120 --> 00:41:52.720
+and and that could be process, right? If
+
+00:41:49.680 --> 00:41:55.240
+you have process if you're a high volume
+
+00:41:52.720 --> 00:41:56.960
+shop, you could potentially say listen,
+
+00:41:55.240 --> 00:41:57.849
+we're just so good at process that
+
+00:41:56.960 --> 00:41:57.880
+everything
+
+00:41:57.849 --> 00:42:00.160
+>> [snorts]
+
+00:41:57.880 --> 00:42:01.600
+>> just flows so our overhead is low
+
+00:42:00.160 --> 00:42:03.800
+compared to
+
+00:42:01.600 --> 00:42:05.720
+compared to actual production so we can
+
+00:42:03.800 --> 00:42:08.120
+just pump things out and it flows
+
+00:42:05.720 --> 00:42:09.880
+through very very quickly.
+
+00:42:08.120 --> 00:42:11.640
+Um [snorts] that could be a competitive
+
+00:42:09.880 --> 00:42:13.569
+advantage. That one in my opinion's
+
+00:42:11.640 --> 00:42:13.720
+going to be a bit harder
+
+00:42:13.569 --> 00:42:15.520
+>> [snorts]
+
+00:42:13.720 --> 00:42:16.640
+>> um sometimes.
+
+00:42:15.520 --> 00:42:18.400
+But,
+
+00:42:16.640 --> 00:42:21.680
+if you go back to my prior experience,
+
+00:42:18.400 --> 00:42:25.000
+take one example, extrusion, right? For
+
+00:42:21.680 --> 00:42:27.000
+an extrusion die, there's no
+
+00:42:25.000 --> 00:42:28.440
+there's no software that tells you how
+
+00:42:27.000 --> 00:42:30.040
+something's going to flow through an
+
+00:42:28.440 --> 00:42:31.920
+extrusion die.
+
+00:42:30.040 --> 00:42:34.760
+And there's whenever somebody makes a
+
+00:42:31.920 --> 00:42:36.840
+drawing, it tells you what they think
+
+00:42:34.760 --> 00:42:38.960
+they want, but it doesn't tell you how
+
+00:42:36.840 --> 00:42:41.840
+that part is going to interact with the
+
+00:42:38.960 --> 00:42:43.360
+real world, right? So, for instance, in
+
+00:42:41.840 --> 00:42:45.440
+extrusion, the reason why it was
+
+00:42:43.360 --> 00:42:48.200
+difficult to find a supplier is because
+
+00:42:45.440 --> 00:42:49.720
+you had to find somebody who understood
+
+00:42:48.200 --> 00:42:51.720
+if you
+
+00:42:49.720 --> 00:42:54.920
+if you sent them a part that had come
+
+00:42:51.720 --> 00:42:58.280
+out of that extrusion die and said it
+
+00:42:54.920 --> 00:42:59.840
+was out of tolerance by X amount,
+
+00:42:58.280 --> 00:43:03.120
+they would have to be able to look at
+
+00:42:59.840 --> 00:43:05.320
+that and then translate that into fluid
+
+00:43:03.120 --> 00:43:08.040
+flow in their mind of a melted
+
+00:43:05.320 --> 00:43:10.840
+substance, PVC,
+
+00:43:08.040 --> 00:43:12.520
+and then say, "Where do I take off or
+
+00:43:10.840 --> 00:43:15.280
+add metal
+
+00:43:12.520 --> 00:43:18.440
+to actually change that flow to get that
+
+00:43:15.280 --> 00:43:20.960
+back in tolerance, right?" So, it's not
+
+00:43:18.440 --> 00:43:23.240
+the cutting thing There is technical
+
+00:43:20.960 --> 00:43:26.080
+experience required in cutting things
+
+00:43:23.240 --> 00:43:28.920
+out of out of metal. Don't get me wrong.
+
+00:43:26.080 --> 00:43:31.680
+But, it's that combo of where do you
+
+00:43:28.920 --> 00:43:35.000
+understand the end application
+
+00:43:31.680 --> 00:43:36.520
+and you can add value by how you cut
+
+00:43:35.000 --> 00:43:39.960
+things out of metal so you can either
+
+00:43:36.520 --> 00:43:41.640
+get to the the correct answer faster
+
+00:43:39.960 --> 00:43:43.480
+or [snorts] even just getting to the
+
+00:43:41.640 --> 00:43:45.600
+correct answer, right? Because in some
+
+00:43:43.480 --> 00:43:47.640
+applications, we were finding people who
+
+00:43:45.600 --> 00:43:48.680
+who struggled to even get to the correct
+
+00:43:47.640 --> 00:43:52.120
+answer,
+
+00:43:48.680 --> 00:43:54.000
+right? And so, those are ways that that
+
+00:43:52.120 --> 00:43:55.840
+you can make what is I mean, it is a
+
+00:43:54.000 --> 00:43:57.000
+competitive industry, but I think you
+
+00:43:55.840 --> 00:43:58.760
+have to
+
+00:43:57.000 --> 00:44:00.920
+take away, you know, you talked about
+
+00:43:58.760 --> 00:44:03.760
+earlier during the search, that tendency
+
+00:44:00.920 --> 00:44:06.040
+to say, "I can go after anything that
+
+00:44:03.760 --> 00:44:07.640
+looks interesting." You have to do the
+
+00:44:06.040 --> 00:44:10.280
+same thing when you're operating the
+
+00:44:07.640 --> 00:44:12.760
+business to say
+
+00:44:10.280 --> 00:44:15.400
+just because it's metal and just because
+
+00:44:12.760 --> 00:44:17.960
+I could make it doesn't necessarily mean
+
+00:44:15.400 --> 00:44:20.760
+it's the right thing for us to make as a
+
+00:44:17.960 --> 00:44:22.120
+business. And having that focus is can
+
+00:44:20.760 --> 00:44:23.840
+be difficult.
+
+00:44:22.120 --> 00:44:26.720
+>> Great, Caleb.
+
+00:44:23.840 --> 00:44:30.640
+Uh great window into the into this
+
+00:44:26.720 --> 00:44:32.680
+world. Let's return to your deal and
+
+00:44:30.640 --> 00:44:33.640
+then learn how the your ownership has
+
+00:44:32.680 --> 00:44:36.600
+been.
+
+00:44:33.640 --> 00:44:40.000
+So, can you give us some numbers around
+
+00:44:36.600 --> 00:44:41.800
+this business and your acq- your your
+
+00:44:40.000 --> 00:44:45.120
+offer to acquire it?
+
+00:44:41.800 --> 00:44:47.400
+>> Yeah, so we um the business was about 5
+
+00:44:45.120 --> 00:44:49.440
+million when in revenue when we bought
+
+00:44:47.400 --> 00:44:51.600
+it, about 17 people.
+
+00:44:49.440 --> 00:44:54.160
+Um [snorts] we had some retirements. The
+
+00:44:51.600 --> 00:44:58.160
+owner and and a couple other employees
+
+00:44:54.160 --> 00:44:59.040
+retired. Um and so we were able to hire
+
+00:44:58.160 --> 00:45:00.320
+uh
+
+00:44:59.040 --> 00:45:02.040
+behind them.
+
+00:45:00.320 --> 00:45:03.560
+Um these were all planned and we knew
+
+00:45:02.040 --> 00:45:05.360
+that these things were were going to
+
+00:45:03.560 --> 00:45:08.120
+happen when we came in.
+
+00:45:05.360 --> 00:45:10.880
+Um and then last year we were able to
+
+00:45:08.120 --> 00:45:12.720
+grow to just shy We grew about 40% just
+
+00:45:10.880 --> 00:45:16.440
+shy of 7 million.
+
+00:45:12.720 --> 00:45:19.080
+Um and we were able to also
+
+00:45:16.440 --> 00:45:21.080
+grow our head count into the mid-20s. It
+
+00:45:19.080 --> 00:45:22.866
+fluctuates, but but that's where our
+
+00:45:21.080 --> 00:45:22.920
+head count is today.
+
+00:45:22.866 --> 00:45:26.200
+>> [snorts]
+
+00:45:22.920 --> 00:45:28.040
+>> Um and so that was pretty significant
+
+00:45:26.200 --> 00:45:29.120
+growth. At the same time we were trying
+
+00:45:28.040 --> 00:45:30.440
+to
+
+00:45:29.120 --> 00:45:33.760
+to
+
+00:45:30.440 --> 00:45:35.760
+build process. I think going back, would
+
+00:45:33.760 --> 00:45:38.000
+I have done it the same way and and push
+
+00:45:35.760 --> 00:45:39.920
+so hard on growth before building some
+
+00:45:38.000 --> 00:45:42.000
+more process?
+
+00:45:39.920 --> 00:45:44.481
+Maybe not, but I don't know that you can
+
+00:45:42.000 --> 00:45:44.680
+ever time those things perfectly.
+
+00:45:44.481 --> 00:45:47.680
+>> [snorts]
+
+00:45:44.680 --> 00:45:49.640
+>> Um but perhaps the biggest thing about
+
+00:45:47.680 --> 00:45:53.720
+this business that that we had to work
+
+00:45:49.640 --> 00:45:57.360
+through as we bought it was um about 3/4
+
+00:45:53.720 --> 00:45:59.640
+of the business is is a major large
+
+00:45:57.360 --> 00:46:01.480
+customer. Um
+
+00:45:59.640 --> 00:46:03.360
+that has been a customer of the business
+
+00:46:01.480 --> 00:46:05.680
+for over 50 years.
+
+00:46:03.360 --> 00:46:07.120
+It's why the business moved down from
+
+00:46:05.680 --> 00:46:10.320
+from Michigan
+
+00:46:07.120 --> 00:46:12.440
+um to South Carolina in the '70s.
+
+00:46:10.320 --> 00:46:14.920
+Um and that was something we really did
+
+00:46:12.440 --> 00:46:16.680
+have to work through. Um
+
+00:46:14.920 --> 00:46:18.600
+but that was something that to go back
+
+00:46:16.680 --> 00:46:20.120
+to your previous question when when we
+
+00:46:18.600 --> 00:46:23.360
+talked about it, it was really that
+
+00:46:20.120 --> 00:46:25.000
+technical expertise that that we have
+
+00:46:23.360 --> 00:46:28.160
+and the fact that we're not just making
+
+00:46:25.000 --> 00:46:31.200
+a thousand of a part, we're making um
+
+00:46:28.160 --> 00:46:32.080
+highly specified semi-complex, I'll call
+
+00:46:31.200 --> 00:46:35.840
+them,
+
+00:46:32.080 --> 00:46:38.800
+um fixtures and and assemblies that
+
+00:46:35.840 --> 00:46:40.560
+really require a a level of technical
+
+00:46:38.800 --> 00:46:43.080
+understanding and an understanding of
+
+00:46:40.560 --> 00:46:43.760
+the end application to be able to to
+
+00:46:43.080 --> 00:46:46.280
+service.
+
+00:46:43.760 --> 00:46:47.960
+>> Can you share how you structured the
+
+00:46:46.280 --> 00:46:50.080
+deal to acquire the business?
+
+00:46:47.960 --> 00:46:52.602
+>> We used SBA debt.
+
+00:46:50.080 --> 00:46:52.800
+We put about 10% down.
+
+00:46:52.602 --> 00:46:56.080
+>> [snorts]
+
+00:46:52.800 --> 00:46:59.240
+>> Um we had about a 15% seller's note and
+
+00:46:56.080 --> 00:47:00.880
+then the remainder was was SBA secured
+
+00:46:59.240 --> 00:47:01.400
+debt.
+
+00:47:00.880 --> 00:47:03.600
+And that
+
+00:47:01.400 --> 00:47:05.960
+>> mentioned that there was property
+
+00:47:03.600 --> 00:47:09.120
+involved which allowed you to stretch
+
+00:47:05.960 --> 00:47:10.320
+out the amortization. Talk talk us
+
+00:47:09.120 --> 00:47:13.000
+through that.
+
+00:47:10.320 --> 00:47:14.217
+>> Yeah, so the property was about 30% of
+
+00:47:13.000 --> 00:47:14.240
+the value.
+
+00:47:14.217 --> 00:47:16.720
+>> [snorts]
+
+00:47:14.240 --> 00:47:20.040
+>> Uh that was an interesting part of the
+
+00:47:16.720 --> 00:47:21.360
+deal because we actually towards the end
+
+00:47:20.040 --> 00:47:24.240
+had a
+
+00:47:21.360 --> 00:47:25.320
+uh an adverse finding on our our phase
+
+00:47:24.240 --> 00:47:28.320
+two
+
+00:47:25.320 --> 00:47:32.000
+um environmental study on the property
+
+00:47:28.320 --> 00:47:34.760
+that threatened to to prolong the time
+
+00:47:32.000 --> 00:47:37.880
+to close. It was something that was very
+
+00:47:34.760 --> 00:47:40.000
+minor and ended up in the end being very
+
+00:47:37.880 --> 00:47:42.680
+minor which everybody would have said.
+
+00:47:40.000 --> 00:47:44.880
+Um our banker said if this was not an
+
+00:47:42.680 --> 00:47:46.480
+SBA deal, it would have just flown
+
+00:47:44.880 --> 00:47:48.800
+through. It would have been a non-issue.
+
+00:47:46.480 --> 00:47:51.320
+But with the SBA, there's higher
+
+00:47:48.800 --> 00:47:52.760
+whenever there's an environmental um
+
+00:47:51.320 --> 00:47:55.520
+finding,
+
+00:47:52.760 --> 00:47:59.160
+what they do is they hold up the closing
+
+00:47:55.520 --> 00:48:02.160
+of the loan and this is what we learned.
+
+00:47:59.160 --> 00:48:05.040
+Um Um, until either that finding is is
+
+00:48:02.160 --> 00:48:08.600
+resolved with the state agency,
+
+00:48:05.040 --> 00:48:12.880
+or you have to escrow um the maximum
+
+00:48:08.600 --> 00:48:15.440
+amount that could in worst case scenario
+
+00:48:12.880 --> 00:48:18.360
+be needed to remediate that from the
+
+00:48:15.440 --> 00:48:20.840
+deal. And so, fortunately, we had a
+
+00:48:18.360 --> 00:48:23.640
+great There was a great broker involved.
+
+00:48:20.840 --> 00:48:25.960
+Our Like I said, the seller we had a
+
+00:48:23.640 --> 00:48:27.680
+great relationship with. And we were
+
+00:48:25.960 --> 00:48:29.720
+able to work through that, and actually
+
+00:48:27.680 --> 00:48:31.400
+the seller was was willing to escrow
+
+00:48:29.720 --> 00:48:33.520
+that amount, um
+
+00:48:31.400 --> 00:48:36.200
+so that we could get the deal closed and
+
+00:48:33.520 --> 00:48:38.600
+move on. Um, and then ultimately that
+
+00:48:36.200 --> 00:48:40.440
+was resolved with the state, and and he
+
+00:48:38.600 --> 00:48:42.000
+was able to get the full escrow
+
+00:48:40.440 --> 00:48:43.360
+released. Um,
+
+00:48:42.000 --> 00:48:45.120
+but that that was definitely a
+
+00:48:43.360 --> 00:48:48.200
+curveball.
+
+00:48:45.120 --> 00:48:50.800
+>> So, the So, and explain what a phase one
+
+00:48:48.200 --> 00:48:51.320
+and a phase two are for the people who
+
+00:48:50.800 --> 00:48:53.160
+don't know.
+
+00:48:51.320 --> 00:48:55.880
+>> Yeah, so in a commercial real estate
+
+00:48:53.160 --> 00:48:58.520
+deal, there's a phase one, um which is
+
+00:48:55.880 --> 00:49:00.720
+just a basic overall environmental
+
+00:48:58.520 --> 00:49:01.920
+screen of the property to see if there
+
+00:49:00.720 --> 00:49:03.603
+are any
+
+00:49:01.920 --> 00:49:03.760
+any potential issues.
+
+00:49:03.603 --> 00:49:06.080
+>> [snorts]
+
+00:49:03.760 --> 00:49:08.120
+>> And then what a phase two is is a deeper
+
+00:49:06.080 --> 00:49:10.120
+analysis where they actually do a lot of
+
+00:49:08.120 --> 00:49:13.920
+soil sampling and different things like
+
+00:49:10.120 --> 00:49:16.000
+that, um that's only if there's an item
+
+00:49:13.920 --> 00:49:18.240
+of concern that's found in the phase
+
+00:49:16.000 --> 00:49:20.400
+one. And the level of concern is
+
+00:49:18.240 --> 00:49:23.600
+determined by
+
+00:49:20.400 --> 00:49:25.840
+by who your lender is, right? And And
+
+00:49:23.600 --> 00:49:28.160
+what that is is my understanding. And
+
+00:49:25.840 --> 00:49:29.920
+so, in our case, there was there was a
+
+00:49:28.160 --> 00:49:32.440
+small thing that was found. They did the
+
+00:49:29.920 --> 00:49:34.720
+phase two. Sometimes the phase twos can
+
+00:49:32.440 --> 00:49:37.400
+be automatically triggered as well,
+
+00:49:34.720 --> 00:49:39.960
+um by the state. But,
+
+00:49:37.400 --> 00:49:42.280
+that was triggered, and then and then
+
+00:49:39.960 --> 00:49:43.880
+through working that out, there was a
+
+00:49:42.280 --> 00:49:46.120
+lot of just
+
+00:49:43.880 --> 00:49:47.400
+back and forth that just took time,
+
+00:49:46.120 --> 00:49:48.560
+because you're dealing with a state
+
+00:49:47.400 --> 00:49:49.600
+agency.
+
+00:49:48.560 --> 00:49:51.000
+>> And Caleb, [snorts]
+
+00:49:49.600 --> 00:49:54.120
+to your
+
+00:49:51.000 --> 00:49:56.040
+awareness, how often are there issues,
+
+00:49:54.120 --> 00:49:58.200
+phase one or phase two issues in
+
+00:49:56.040 --> 00:49:59.720
+commercial real estate
+
+00:49:58.200 --> 00:50:01.600
+transactions? Do you have any sense? I
+
+00:49:59.720 --> 00:50:03.320
+mean, is that it was that was this like,
+
+00:50:01.600 --> 00:50:05.520
+"Oh my gosh, this is a crisis." or
+
+00:50:03.320 --> 00:50:08.160
+actually this is not uncommon?
+
+00:50:05.520 --> 00:50:09.480
+>> So, there's two data points. One is my
+
+00:50:08.160 --> 00:50:12.040
+friends who are in commercial real
+
+00:50:09.480 --> 00:50:13.560
+estate say it's not
+
+00:50:12.040 --> 00:50:14.440
+that uncommon.
+
+00:50:13.560 --> 00:50:16.160
+Um [snorts]
+
+00:50:14.440 --> 00:50:18.080
+our banker
+
+00:50:16.160 --> 00:50:21.720
+said that it was the first one like this
+
+00:50:18.080 --> 00:50:24.600
+that he'd ever seen that went this um
+
+00:50:21.720 --> 00:50:25.560
+that was this difficult to work through.
+
+00:50:24.600 --> 00:50:27.800
+Um [snorts]
+
+00:50:25.560 --> 00:50:30.000
+I think that they're not uncommon. What
+
+00:50:27.800 --> 00:50:34.520
+I think that a lot of people aren't used
+
+00:50:30.000 --> 00:50:36.600
+to seeing is those in a uh an SBA deal,
+
+00:50:34.520 --> 00:50:39.160
+which has I think that's what's more
+
+00:50:36.600 --> 00:50:41.040
+uncommon. Unfortunately, we were able to
+
+00:50:39.160 --> 00:50:42.840
+have an environmental we found an
+
+00:50:41.040 --> 00:50:44.360
+environmental attorney who's been
+
+00:50:42.840 --> 00:50:46.560
+fantastic.
+
+00:50:44.360 --> 00:50:47.800
+And she she sees this all the time,
+
+00:50:46.560 --> 00:50:49.800
+right? It's one of those things where if
+
+00:50:47.800 --> 00:50:51.000
+you're an expert in an area, you see
+
+00:50:49.800 --> 00:50:51.360
+everyone.
+
+00:50:51.000 --> 00:50:52.000
+Um
+
+00:50:51.360 --> 00:50:54.760
+>> Yeah.
+
+00:50:52.000 --> 00:50:57.080
+>> Uh but typically what they said is in
+
+00:50:54.760 --> 00:51:00.200
+SBA deals, they see it more with like
+
+00:50:57.080 --> 00:51:02.520
+dry cleaners or or things like that that
+
+00:51:00.200 --> 00:51:02.720
+use a lot more chemicals.
+
+00:51:02.520 --> 00:51:03.240
+Um
+
+00:51:02.720 --> 00:51:05.480
+>> Yeah.
+
+00:51:03.240 --> 00:51:09.280
+>> But a manufacturing site that's been
+
+00:51:05.480 --> 00:51:10.320
+around 50 years, I mean, you never know.
+
+00:51:09.280 --> 00:51:13.560
+>> Yeah.
+
+00:51:10.320 --> 00:51:15.280
+Okay. And so, the phase two
+
+00:51:13.560 --> 00:51:16.960
+uh came back with
+
+00:51:15.280 --> 00:51:18.280
+um
+
+00:51:16.960 --> 00:51:20.800
+a conclusion that there was going to
+
+00:51:18.280 --> 00:51:22.600
+need to be some remediation.
+
+00:51:20.800 --> 00:51:24.520
+And so, that was going to hold things
+
+00:51:22.600 --> 00:51:28.160
+up. The way that the SBA tolerated the
+
+00:51:24.520 --> 00:51:29.280
+transaction was that you had the your uh
+
+00:51:28.160 --> 00:51:31.840
+some
+
+00:51:29.280 --> 00:51:35.000
+amount of your purchase price an amount
+
+00:51:31.840 --> 00:51:37.440
+that was the most that the remediation
+
+00:51:35.000 --> 00:51:40.200
+might cost. You got some estimate of a
+
+00:51:37.440 --> 00:51:41.640
+worst-case scenario remediation
+
+00:51:40.200 --> 00:51:43.760
+cost.
+
+00:51:41.640 --> 00:51:45.200
+You put that in escrow as part of the
+
+00:51:43.760 --> 00:51:48.200
+purchase price.
+
+00:51:45.200 --> 00:51:49.680
+Um and so, that if whatever the
+
+00:51:48.200 --> 00:51:51.800
+remediation cost there was going to be
+
+00:51:49.680 --> 00:51:53.320
+some remediation needed, whatever it
+
+00:51:51.800 --> 00:51:56.040
+cost it was going to come out of that
+
+00:51:53.320 --> 00:51:58.120
+escrow, your purchase price, effectively
+
+00:51:56.040 --> 00:52:00.440
+reducing the purchase price by that
+
+00:51:58.120 --> 00:52:02.560
+amount to the seller. Um, but the fact
+
+00:52:00.440 --> 00:52:05.560
+that it was set aside kind of set aside,
+
+00:52:02.560 --> 00:52:08.640
+carved out in this escrow with this
+
+00:52:05.560 --> 00:52:09.640
+mechanism was was the workaround, was
+
+00:52:08.640 --> 00:52:11.200
+the solution.
+
+00:52:09.640 --> 00:52:12.920
+>> Correct. Correct.
+
+00:52:11.200 --> 00:52:14.440
+>> Great. Well, glad to hear that the
+
+00:52:12.920 --> 00:52:16.040
+remediation
+
+00:52:14.440 --> 00:52:17.840
+ended up not being that bad for all
+
+00:52:16.040 --> 00:52:19.451
+involved. I guess mostly that was good
+
+00:52:17.840 --> 00:52:19.600
+news for your seller.
+
+00:52:19.451 --> 00:52:20.560
+>> [laughter]
+
+00:52:19.600 --> 00:52:21.920
+>> Yeah,
+
+00:52:20.560 --> 00:52:23.080
+well, it was good news for everybody
+
+00:52:21.920 --> 00:52:25.520
+because we have to live with the
+
+00:52:23.080 --> 00:52:28.320
+property, right? And so
+
+00:52:25.520 --> 00:52:30.920
+buying a clean property is is important.
+
+00:52:28.320 --> 00:52:34.280
+>> Caleb, the 75%
+
+00:52:30.920 --> 00:52:36.560
+revenue concentration you the
+
+00:52:34.280 --> 00:52:39.320
+all from from a single customer. That's
+
+00:52:36.560 --> 00:52:40.640
+a very high number for concentration. We
+
+00:52:39.320 --> 00:52:43.280
+we consider a business to be
+
+00:52:40.640 --> 00:52:45.200
+concentrated at around the 20% mark. So
+
+00:52:43.280 --> 00:52:46.840
+75 is
+
+00:52:45.200 --> 00:52:48.120
+uh just a little bit above that. How did
+
+00:52:46.840 --> 00:52:49.960
+you get comfortable with that? How did
+
+00:52:48.120 --> 00:52:51.520
+your lender get comfortable with that?
+
+00:52:49.960 --> 00:52:54.120
+>> Yeah, I mean, it was certainly one of
+
+00:52:51.520 --> 00:52:56.560
+the first things we looked at um because
+
+00:52:54.120 --> 00:52:58.800
+we had to wrap our our head around that.
+
+00:52:56.560 --> 00:53:00.920
+I mean, I think you know, the first the
+
+00:52:58.800 --> 00:53:02.760
+first thing to remember is
+
+00:53:00.920 --> 00:53:05.840
+a lot of
+
+00:53:02.760 --> 00:53:07.840
+I would say almost all of the deals, it
+
+00:53:05.840 --> 00:53:09.800
+would be rare to find one at this size
+
+00:53:07.840 --> 00:53:11.120
+that doesn't have something that's not
+
+00:53:09.800 --> 00:53:12.840
+ideal. Right?
+
+00:53:11.120 --> 00:53:13.600
+>> In manufacturing, this is common?
+
+00:53:12.840 --> 00:53:15.781
+>> I
+
+00:53:13.600 --> 00:53:17.320
+in manufacturing for certain. And
+
+00:53:15.781 --> 00:53:20.640
+[snorts] so
+
+00:53:17.320 --> 00:53:22.680
+there's there's a sense in which looking
+
+00:53:20.640 --> 00:53:24.480
+at that and and saying, "Okay, let's
+
+00:53:22.680 --> 00:53:26.880
+break that down and say what does that
+
+00:53:24.480 --> 00:53:29.640
+mean?" Well, well, when we looked it
+
+00:53:26.880 --> 00:53:32.120
+wasn't a central purchasing arrangement
+
+00:53:29.640 --> 00:53:35.120
+because of what we do. We have
+
+00:53:32.120 --> 00:53:37.397
+relationships with lots of different
+
+00:53:35.120 --> 00:53:37.480
+engineers in the company
+
+00:53:37.397 --> 00:53:41.680
+>> [snorts]
+
+00:53:37.480 --> 00:53:44.560
+>> um that and frankly around the world.
+
+00:53:41.680 --> 00:53:46.920
+And so when you look at it, it's one
+
+00:53:44.560 --> 00:53:49.520
+it's one customer, and we have a master
+
+00:53:46.920 --> 00:53:52.040
+agreement with them, and um
+
+00:53:49.520 --> 00:53:54.840
+but beneath that, what's driving the
+
+00:53:52.040 --> 00:53:57.960
+purchases every day is our ability to
+
+00:53:54.840 --> 00:54:00.400
+service that engineer who has a problem
+
+00:53:57.960 --> 00:54:03.400
+and needs it taken care of, or has
+
+00:54:00.400 --> 00:54:06.480
+something that they need made that's a
+
+00:54:03.400 --> 00:54:09.480
+one-off fixture, right? And they need us
+
+00:54:06.480 --> 00:54:12.600
+to to make that. Or they broke something
+
+00:54:09.480 --> 00:54:16.840
+that we made for them 5 years ago, and
+
+00:54:12.600 --> 00:54:19.720
+we have to remake that, right? And so,
+
+00:54:16.840 --> 00:54:22.520
+it actually operates in some ways like a
+
+00:54:19.720 --> 00:54:25.000
+single customer, but in a lot of ways,
+
+00:54:22.520 --> 00:54:27.080
+we view every single person we interact
+
+00:54:25.000 --> 00:54:29.480
+with there, of whom there's probably a
+
+00:54:27.080 --> 00:54:32.400
+hundred, um
+
+00:54:29.480 --> 00:54:34.840
+as an individual customer, right? And
+
+00:54:32.400 --> 00:54:36.480
+so, when you think about it like that,
+
+00:54:34.840 --> 00:54:38.960
+and and the number of different
+
+00:54:36.480 --> 00:54:42.040
+facilities and things that we service,
+
+00:54:38.960 --> 00:54:44.160
+uh it it got our mind wrapped around it
+
+00:54:42.040 --> 00:54:45.440
+a bit more.
+
+00:54:44.160 --> 00:54:48.600
+>> You know, it's interesting, Caleb,
+
+00:54:45.440 --> 00:54:51.280
+because you are talking about
+
+00:54:48.600 --> 00:54:53.760
+what is now a theme that we talk about
+
+00:54:51.280 --> 00:54:55.560
+with cus- customer concentration, but
+
+00:54:53.760 --> 00:54:57.880
+uh a slightly more nuanced way to think
+
+00:54:55.560 --> 00:54:59.840
+about it is sort of how many decisions
+
+00:54:57.880 --> 00:55:02.560
+need to be made for that revenue to,
+
+00:54:59.840 --> 00:55:04.560
+say, go go away. And in your case, it
+
+00:55:02.560 --> 00:55:06.320
+would need to be all of these different
+
+00:55:04.560 --> 00:55:07.600
+engineers, for whatever reason, would
+
+00:55:06.320 --> 00:55:09.880
+stop doing business with you. So,
+
+00:55:07.600 --> 00:55:12.560
+there's multiple that revenue actually
+
+00:55:09.880 --> 00:55:15.040
+represents multiple people making
+
+00:55:12.560 --> 00:55:16.760
+decisions to use your services every
+
+00:55:15.040 --> 00:55:20.840
+year. So far, so good?
+
+00:55:16.760 --> 00:55:23.320
+>> I would say yes. Yes, definitely.
+
+00:55:20.840 --> 00:55:25.200
+>> On the other hand, though, um that that
+
+00:55:23.320 --> 00:55:28.880
+you can al- also take that logic a
+
+00:55:25.200 --> 00:55:30.600
+little bit too far, um because you're
+
+00:55:28.880 --> 00:55:33.800
+still
+
+00:55:30.600 --> 00:55:36.360
+your fortunes, probably, are rising and
+
+00:55:33.800 --> 00:55:39.320
+falling with the fortunes or the or the
+
+00:55:36.360 --> 00:55:41.160
+or the the the market of that customer.
+
+00:55:39.320 --> 00:55:43.400
+So, if there's a slowdown in that
+
+00:55:41.160 --> 00:55:44.480
+customer's business broadly, maybe
+
+00:55:43.400 --> 00:55:46.240
+you'll
+
+00:55:44.480 --> 00:55:48.320
+you know, when their business shrinks 5%
+
+00:55:46.240 --> 00:55:51.280
+a year, that is likely to
+
+00:55:48.320 --> 00:55:53.720
+trickle down to you. And in one kind of
+
+00:55:51.280 --> 00:55:55.520
+in a in a similar way, maybe and maybe
+
+00:55:53.720 --> 00:55:57.200
+it's one of these where when the US
+
+00:55:55.520 --> 00:55:59.720
+economy sneezes, the rest of the world
+
+00:55:57.200 --> 00:56:02.760
+has a gets a cold. Um it's one of these
+
+00:55:59.720 --> 00:56:04.640
+where in fact your fortunes are are are
+
+00:56:02.760 --> 00:56:05.680
+the the effects are more extreme based
+
+00:56:04.640 --> 00:56:08.200
+on the
+
+00:56:05.680 --> 00:56:10.720
+the the ups and flows of that businesses
+
+00:56:08.200 --> 00:56:13.040
+uh your customers
+
+00:56:10.720 --> 00:56:15.240
+um sales in a given year. Okay. But
+
+00:56:13.040 --> 00:56:18.200
+anyway, you I also heard you say that
+
+00:56:15.240 --> 00:56:20.760
+there's a master agreement. So, in some
+
+00:56:18.200 --> 00:56:23.000
+what what does that mean? And is that is
+
+00:56:20.760 --> 00:56:25.840
+that a kind of a choke point where if
+
+00:56:23.000 --> 00:56:28.160
+you lost this or there was something
+
+00:56:25.840 --> 00:56:31.320
+some problem with that master agreement,
+
+00:56:28.160 --> 00:56:33.720
+all of that revenue could go away?
+
+00:56:31.320 --> 00:56:36.360
+>> Theoretically, I I mean theoretically,
+
+00:56:33.720 --> 00:56:37.720
+it's possible. I but I think that if
+
+00:56:36.360 --> 00:56:39.680
+that's
+
+00:56:37.720 --> 00:56:42.120
+if that's the case, then we've stopped
+
+00:56:39.680 --> 00:56:44.960
+servicing them because we've serviced
+
+00:56:42.120 --> 00:56:49.000
+them for 50 years well,
+
+00:56:44.960 --> 00:56:52.760
+right? Um and so if
+
+00:56:49.000 --> 00:56:54.760
+that's on us if that happens, right? Um
+
+00:56:52.760 --> 00:56:56.280
+theoretically, yes, you could you could
+
+00:56:54.760 --> 00:56:58.680
+imagine anything where somebody just
+
+00:56:56.280 --> 00:57:01.920
+comes in and and and have I thought
+
+00:56:58.680 --> 00:57:04.120
+about that? Absolutely. But it's you
+
+00:57:01.920 --> 00:57:07.160
+know, you'd be crazy not to. But at the
+
+00:57:04.120 --> 00:57:10.360
+same point, the question is this is your
+
+00:57:07.160 --> 00:57:13.240
+customer, right? If you are serving them
+
+00:57:10.360 --> 00:57:15.480
+well, not perfectly, nobody's perfect,
+
+00:57:13.240 --> 00:57:17.800
+right? But if you're open and
+
+00:57:15.480 --> 00:57:20.760
+transparent when you when you mess up,
+
+00:57:17.800 --> 00:57:22.600
+if you have conversations about where
+
+00:57:20.760 --> 00:57:25.000
+they're not happy, where you can
+
+00:57:22.600 --> 00:57:27.320
+improve, and you take those seriously,
+
+00:57:25.000 --> 00:57:29.840
+and you show real signs of of
+
+00:57:27.320 --> 00:57:31.760
+improvement, I've never met a customer
+
+00:57:29.840 --> 00:57:33.920
+I've I've in many different difficult
+
+00:57:31.760 --> 00:57:36.840
+customer conversations with concentrated
+
+00:57:33.920 --> 00:57:37.760
+customers. That was something that that
+
+00:57:36.840 --> 00:57:39.749
+I was
+
+00:57:37.760 --> 00:57:39.920
+strangely prepared for
+
+00:57:39.749 --> 00:57:44.120
+>> [laughter]
+
+00:57:39.920 --> 00:57:47.040
+>> that I didn't didn't expect. Um but it
+
+00:57:44.120 --> 00:57:48.560
+it was and I found our our largest
+
+00:57:47.040 --> 00:57:51.840
+customer to be
+
+00:57:48.560 --> 00:57:54.880
+very very
+
+00:57:51.840 --> 00:57:57.680
+very reasonable, right? And we just have
+
+00:57:54.880 --> 00:58:00.520
+a good relationship where we we talk and
+
+00:57:57.680 --> 00:58:03.040
+and we we sort through these things and
+
+00:58:00.520 --> 00:58:05.080
+and we try to find something that is
+
+00:58:03.040 --> 00:58:07.400
+that is mutually beneficial. I think an
+
+00:58:05.080 --> 00:58:08.600
+example of that is one of the big things
+
+00:58:07.400 --> 00:58:12.400
+that
+
+00:58:08.600 --> 00:58:13.640
+we had was um one of the the struggles
+
+00:58:12.400 --> 00:58:15.360
+in the business where since we're
+
+00:58:13.640 --> 00:58:17.200
+project-based, you know, we can have
+
+00:58:15.360 --> 00:58:19.240
+everything from an order that's a
+
+00:58:17.200 --> 00:58:22.080
+thousand dollars to up to one that's
+
+00:58:19.240 --> 00:58:24.440
+several hundred thousand dollars.
+
+00:58:22.080 --> 00:58:26.440
+And the history of one of the things
+
+00:58:24.440 --> 00:58:29.160
+with this business had been that there
+
+00:58:26.440 --> 00:58:29.960
+were long payment terms.
+
+00:58:29.160 --> 00:58:32.480
+Um
+
+00:58:29.960 --> 00:58:34.440
+and we were able to talk to them through
+
+00:58:32.480 --> 00:58:36.760
+through as we talked about that
+
+00:58:34.440 --> 00:58:39.880
+agreement cuz in an asset sale, you have
+
+00:58:36.760 --> 00:58:40.665
+to renegotiate or resign all agreements,
+
+00:58:39.880 --> 00:58:40.920
+right?
+
+00:58:40.665 --> 00:58:42.760
+>> [snorts]
+
+00:58:40.920 --> 00:58:44.480
+>> And so through that process, we talked
+
+00:58:42.760 --> 00:58:46.560
+to them and we were able to give them
+
+00:58:44.480 --> 00:58:49.240
+some of the things that they wanted and
+
+00:58:46.560 --> 00:58:51.120
+and we said, "Hey, you know, the biggest
+
+00:58:49.240 --> 00:58:53.840
+thing you could do to help us out is
+
+00:58:51.120 --> 00:58:56.960
+payment terms." And we were able to go
+
+00:58:53.840 --> 00:59:00.600
+to some pretty pretty good payment terms
+
+00:58:56.960 --> 00:59:02.280
+with them that really just I mean it's
+
+00:59:00.600 --> 00:59:05.080
+been huge for us to have that
+
+00:59:02.280 --> 00:59:07.960
+predictability because we are you know,
+
+00:59:05.080 --> 00:59:10.480
+we're buying in some cases material and
+
+00:59:07.960 --> 00:59:13.560
+and putting time into things
+
+00:59:10.480 --> 00:59:15.600
+months before we ever ship them, right?
+
+00:59:13.560 --> 00:59:17.600
+And so if you're on six-month plus
+
+00:59:15.600 --> 00:59:20.640
+payment terms rather than one to two
+
+00:59:17.600 --> 00:59:24.000
+month, um that really becomes
+
+00:59:20.640 --> 00:59:26.200
+problematic very quickly. Uh and so I
+
+00:59:24.000 --> 00:59:28.800
+think that that's something where we've
+
+00:59:26.200 --> 00:59:30.200
+really had a partnership there where
+
+00:59:28.800 --> 00:59:31.960
+it's saying
+
+00:59:30.200 --> 00:59:34.200
+they really believe that they're only
+
+00:59:31.960 --> 00:59:36.280
+successful if their suppliers are
+
+00:59:34.200 --> 00:59:37.160
+successful. And there's certainly things
+
+00:59:36.280 --> 00:59:38.920
+that
+
+00:59:37.160 --> 00:59:40.800
+that they ask for, you know, that we
+
+00:59:38.920 --> 00:59:42.960
+have to accommodate.
+
+00:59:40.800 --> 00:59:45.560
+But we've also been able to have the
+
+00:59:42.960 --> 00:59:47.480
+conversation back with them and I don't
+
+00:59:45.560 --> 00:59:50.000
+think I would have known that had I not
+
+00:59:47.480 --> 00:59:51.880
+been on the other side, right? Having
+
+00:59:50.000 --> 00:59:55.400
+had these conversations with small
+
+00:59:51.880 --> 00:59:57.000
+businesses and having to say yeah,
+
+00:59:55.400 --> 00:59:57.956
+I know we're trying to reduce working
+
+00:59:57.000 --> 00:59:58.080
+capital,
+
+00:59:57.956 --> 01:00:01.080
+>> [snorts]
+
+00:59:58.080 --> 01:00:02.541
+>> but making your supplier a good supplier
+
+01:00:01.080 --> 01:00:02.560
+insolvent is
+
+01:00:02.541 --> 01:00:05.360
+>> [laughter]
+
+01:00:02.560 --> 01:00:08.000
+>> is not the way to do that, right?
+
+01:00:05.360 --> 01:00:10.400
+>> Yeah. Although I I even
+
+01:00:08.000 --> 01:00:11.800
+you understanding well with their kind
+
+01:00:10.400 --> 01:00:13.800
+of what their motivations would be and
+
+01:00:11.800 --> 01:00:16.120
+that they are incentivized to see you be
+
+01:00:13.800 --> 01:00:19.120
+successful, I still have to hand it to
+
+01:00:16.120 --> 01:00:22.520
+you, Caleb, that that that
+
+01:00:19.120 --> 01:00:24.360
+making an ask at all of a big customer
+
+01:00:22.520 --> 01:00:26.160
+in kind of your first interactions with
+
+01:00:24.360 --> 01:00:27.640
+them as you're moving these or getting
+
+01:00:26.160 --> 01:00:29.800
+these contracts, these agreements
+
+01:00:27.640 --> 01:00:32.960
+re-signed as the new owner,
+
+01:00:29.800 --> 01:00:35.400
+um would have made me nervous, you know,
+
+01:00:32.960 --> 01:00:37.200
+the as new owner you just don't just
+
+01:00:35.400 --> 01:00:39.600
+want to just get those signatures, don't
+
+01:00:37.200 --> 01:00:40.920
+want to rock the boat. It's so delicate,
+
+01:00:39.600 --> 01:00:43.680
+especially when we're talking about a
+
+01:00:40.920 --> 01:00:44.720
+customer that represents 75% of revenue.
+
+01:00:43.680 --> 01:00:46.960
+Um
+
+01:00:44.720 --> 01:00:48.400
+we're you know, I'm so I'm impressed
+
+01:00:46.960 --> 01:00:50.680
+that you that you were willing to
+
+01:00:48.400 --> 01:00:52.520
+negotiate from from that position so
+
+01:00:50.680 --> 01:00:55.000
+early as the new owner.
+
+01:00:52.520 --> 01:00:56.800
+>> Well, I think it comes back to values.
+
+01:00:55.000 --> 01:00:59.640
+Uh that you talk one of our value
+
+01:00:56.800 --> 01:01:02.400
+corporate values is integrity and the
+
+01:00:59.640 --> 01:01:03.760
+idea that that we're you know, that
+
+01:01:02.400 --> 01:01:05.400
+doesn't mean that you just spill
+
+01:01:03.760 --> 01:01:07.320
+everything, right? You don't have to
+
+01:01:05.400 --> 01:01:08.200
+share all information.
+
+01:01:07.320 --> 01:01:10.440
+Um
+
+01:01:08.200 --> 01:01:13.440
+but being open and treating people the
+
+01:01:10.440 --> 01:01:16.000
+way that I would want to be treated,
+
+01:01:13.440 --> 01:01:19.680
+right? And how can I turn around and ask
+
+01:01:16.000 --> 01:01:21.880
+my employees to say I want you to share
+
+01:01:19.680 --> 01:01:23.920
+difficult things with me, right? I want
+
+01:01:21.880 --> 01:01:26.600
+us to have real conversations and come
+
+01:01:23.920 --> 01:01:29.000
+to real paths forward that are mutually
+
+01:01:26.600 --> 01:01:32.320
+beneficial. If I'm not willing to do the
+
+01:01:29.000 --> 01:01:35.160
+same thing with in the situations that
+
+01:01:32.320 --> 01:01:37.240
+may be uncomfortable for me, right?
+
+01:01:35.160 --> 01:01:39.960
+Um, that's that's that's a point of
+
+01:01:37.240 --> 01:01:42.360
+integrity for me and and certainly helps
+
+01:01:39.960 --> 01:01:44.067
+push me to do what I know I need to do
+
+01:01:42.360 --> 01:01:44.120
+in those situations.
+
+01:01:44.067 --> 01:01:46.360
+>> [snorts]
+
+01:01:44.120 --> 01:01:48.240
+>> And so your posture with the customer
+
+01:01:46.360 --> 01:01:49.480
+was more like
+
+01:01:48.240 --> 01:01:52.240
+um
+
+01:01:49.480 --> 01:01:53.960
+not a obviously adversarial too strong,
+
+01:01:52.240 --> 01:01:56.360
+but not sort of a
+
+01:01:53.960 --> 01:01:59.320
+uh negotiating
+
+01:01:56.360 --> 01:02:01.160
+zero sum, but more like, "Hey guys,
+
+01:01:59.320 --> 01:02:03.280
+this our business will be a lot
+
+01:02:01.160 --> 01:02:05.880
+healthier if we can improve our working
+
+01:02:03.280 --> 01:02:08.240
+capital situation. Um, you know, what
+
+01:02:05.880 --> 01:02:09.920
+what can we do to What do you need from
+
+01:02:08.240 --> 01:02:10.960
+us? What can we do better that helps
+
+01:02:09.920 --> 01:02:14.240
+you?
+
+01:02:10.960 --> 01:02:16.120
+And it and, you know, what we would ask
+
+01:02:14.240 --> 01:02:17.800
+is is some better terms that would help
+
+01:02:16.120 --> 01:02:19.720
+us tremendously, which I think we'll all
+
+01:02:17.800 --> 01:02:22.040
+benefit from." Sort of thing.
+
+01:02:19.720 --> 01:02:26.240
+>> Yeah, yeah, definitely. And that
+
+01:02:22.040 --> 01:02:28.080
+extended even to negotiating, you know,
+
+01:02:26.240 --> 01:02:30.480
+again, you talked about this. This was
+
+01:02:28.080 --> 01:02:32.760
+not an adversarial negotiation. I I
+
+01:02:30.480 --> 01:02:34.880
+really respect the people
+
+01:02:32.760 --> 01:02:37.760
+uh who who are at the customer who I was
+
+01:02:34.880 --> 01:02:41.800
+having this with, but they you know,
+
+01:02:37.760 --> 01:02:45.120
+even going down to say, "Okay, this this
+
+01:02:41.800 --> 01:02:47.240
+agreement is structured, you know, big
+
+01:02:45.120 --> 01:02:49.080
+corporations have form agreements, and
+
+01:02:47.240 --> 01:02:51.720
+so it was structured more like somebody
+
+01:02:49.080 --> 01:02:52.400
+who's just feeding parts in to them.
+
+01:02:51.720 --> 01:02:54.520
+>> Mhm.
+
+01:02:52.400 --> 01:02:57.360
+>> And trying to say, "Okay, I understand
+
+01:02:54.520 --> 01:03:00.000
+what you're going for here with this
+
+01:02:57.360 --> 01:03:03.880
+language that protects you. That doesn't
+
+01:03:00.000 --> 01:03:05.840
+reflect our business and and may not
+
+01:03:03.880 --> 01:03:08.000
+That doesn't reflect our relationship,
+
+01:03:05.840 --> 01:03:10.160
+right? And may not even protect you in
+
+01:03:08.000 --> 01:03:12.800
+the way that that you think. How do we
+
+01:03:10.160 --> 01:03:15.840
+come to language that actually achieves
+
+01:03:12.800 --> 01:03:17.960
+what what we both agree is is the goal
+
+01:03:15.840 --> 01:03:20.560
+of the relationship? Like I'm not trying
+
+01:03:17.960 --> 01:03:22.320
+to ship you bad product. We want to ship
+
+01:03:20.560 --> 01:03:24.480
+quality product. We want to ship it on
+
+01:03:22.320 --> 01:03:26.360
+time. That looks a little bit different
+
+01:03:24.480 --> 01:03:28.720
+than if we're just shipping a thousand
+
+01:03:26.360 --> 01:03:31.080
+parts every month, right? How do we
+
+01:03:28.720 --> 01:03:33.480
+craft that? And And so it was it was
+
+01:03:31.080 --> 01:03:35.760
+very collaborative, I'd say.
+
+01:03:33.480 --> 01:03:38.040
+And And that I think just led to a
+
+01:03:35.760 --> 01:03:39.880
+better outcome for everyone.
+
+01:03:38.040 --> 01:03:42.160
+>> Yeah.
+
+01:03:39.880 --> 01:03:45.720
+Well, certainly
+
+01:03:42.160 --> 01:03:49.320
+reducing payment terms from just as an
+
+01:03:45.720 --> 01:03:52.520
+example, 180 days to 60 days
+
+01:03:49.320 --> 01:03:54.440
+for 75% of the business's revenue is
+
+01:03:52.520 --> 01:03:56.240
+going to have an utterly transformative
+
+01:03:54.440 --> 01:03:57.520
+effect on the working capital needs of
+
+01:03:56.240 --> 01:03:59.320
+the business.
+
+01:03:57.520 --> 01:04:01.480
+So, good stuff.
+
+01:03:59.320 --> 01:04:03.560
+>> I would say it's still
+
+01:04:01.480 --> 01:04:05.560
+it's still more up and down because of
+
+01:04:03.560 --> 01:04:07.880
+the project nature of the business. It
+
+01:04:05.560 --> 01:04:10.960
+still fluctuates, but it has made it
+
+01:04:07.880 --> 01:04:14.840
+far, far easier to manage the business,
+
+01:04:10.960 --> 01:04:14.840
+which has been a huge blessing.
+
+01:04:15.000 --> 01:04:19.120
+>> Before we leave this point of
+
+01:04:16.240 --> 01:04:21.000
+concentration, the one of the things
+
+01:04:19.120 --> 01:04:23.200
+that you would
+
+01:04:21.000 --> 01:04:24.600
+do if you're starting to get comfortable
+
+01:04:23.200 --> 01:04:25.840
+with a business you're looking at
+
+01:04:24.600 --> 01:04:27.400
+acquiring that has customer
+
+01:04:25.840 --> 01:04:29.440
+concentration,
+
+01:04:27.400 --> 01:04:31.680
+is diligence that customer to the extent
+
+01:04:29.440 --> 01:04:33.920
+that you can. Obviously, that gets very
+
+01:04:31.680 --> 01:04:35.280
+delicate very quickly. The seller is is
+
+01:04:33.920 --> 01:04:38.000
+is going to be very protective of that
+
+01:04:35.280 --> 01:04:39.880
+relationship. Um and even if they're
+
+01:04:38.000 --> 01:04:43.360
+willing to introduce you to that
+
+01:04:39.880 --> 01:04:45.280
+customer before close during diligence,
+
+01:04:43.360 --> 01:04:47.120
+when you have a situation like you
+
+01:04:45.280 --> 01:04:49.200
+described here where there isn't a
+
+01:04:47.120 --> 01:04:50.800
+single point person at the customer.
+
+01:04:49.200 --> 01:04:52.720
+There's a hundred different people that
+
+01:04:50.800 --> 01:04:54.520
+you might be working for at that
+
+01:04:52.720 --> 01:04:56.920
+customer or doing jobs with at that
+
+01:04:54.520 --> 01:04:59.600
+customer. How do you diligence How did
+
+01:04:56.920 --> 01:05:02.240
+you, Caleb, diligence this customer?
+
+01:04:59.600 --> 01:05:04.640
+>> So, we asked a ton of questions and
+
+01:05:02.240 --> 01:05:06.440
+poured through documents and and looked
+
+01:05:04.640 --> 01:05:08.800
+because
+
+01:05:06.440 --> 01:05:10.040
+you know, I'd say one one thing is you
+
+01:05:08.800 --> 01:05:12.480
+have to read the tea leaves. You're
+
+01:05:10.040 --> 01:05:14.920
+right. You can't just ask them to say,
+
+01:05:12.480 --> 01:05:16.290
+"Hey, signal to your largest customer
+
+01:05:14.920 --> 01:05:17.280
+that you're selling the business."
+
+01:05:16.290 --> 01:05:17.600
+>> [laughter]
+
+01:05:17.280 --> 01:05:17.880
+>> Right.
+
+01:05:17.600 --> 01:05:19.640
+>> [snorts]
+
+01:05:17.880 --> 01:05:21.720
+>> Uh by introducing them to somebody who
+
+01:05:19.640 --> 01:05:22.200
+may not buy the business. You can't
+
+01:05:21.720 --> 01:05:23.920
+>> Exactly.
+
+01:05:22.200 --> 01:05:26.800
+>> Right? Um
+
+01:05:23.920 --> 01:05:29.280
+but you can see the pattern and this
+
+01:05:26.800 --> 01:05:31.880
+gets back to the cultural
+
+01:05:29.280 --> 01:05:35.080
+conversation from before. You can see
+
+01:05:31.880 --> 01:05:37.920
+the pattern. Like if it's been 50 years,
+
+01:05:35.080 --> 01:05:39.560
+right? If you see repeat business, if
+
+01:05:37.920 --> 01:05:42.800
+you look through the order book and you
+
+01:05:39.560 --> 01:05:45.440
+see repeat names. If you understand the
+
+01:05:42.800 --> 01:05:47.280
+work that's being done and it's not
+
+01:05:45.440 --> 01:05:49.320
+there's some sort of service that's
+
+01:05:47.280 --> 01:05:52.720
+being offered, that's why they keep
+
+01:05:49.320 --> 01:05:55.440
+coming back, right? Um [snorts]
+
+01:05:52.720 --> 01:05:57.720
+you can see the story that's in there.
+
+01:05:55.440 --> 01:06:00.440
+Yes, you're not hearing it directly and
+
+01:05:57.720 --> 01:06:02.560
+yes, the seller you know, our seller was
+
+01:06:00.440 --> 01:06:03.960
+very open and transparent and anything
+
+01:06:02.560 --> 01:06:05.520
+he said
+
+01:06:03.960 --> 01:06:07.880
+turned out to be true, but that's not
+
+01:06:05.520 --> 01:06:10.520
+always the case, right? And so you're
+
+01:06:07.880 --> 01:06:13.800
+always trying to judge that. But being
+
+01:06:10.520 --> 01:06:16.240
+able to go through and and see the
+
+01:06:13.800 --> 01:06:18.080
+pattern and does the pattern that
+
+01:06:16.240 --> 01:06:20.080
+they're describing, do you see that
+
+01:06:18.080 --> 01:06:21.600
+played out in the data?
+
+01:06:20.080 --> 01:06:24.360
+And if you [snorts] do that, then you
+
+01:06:21.600 --> 01:06:27.160
+can make assumptions about how the
+
+01:06:24.360 --> 01:06:29.440
+customer's behaving, right? Because the
+
+01:06:27.160 --> 01:06:31.200
+customer wouldn't have behaved that way
+
+01:06:29.440 --> 01:06:34.160
+and and in some ways that's better than
+
+01:06:31.200 --> 01:06:35.320
+talking to the customer, right? Because
+
+01:06:34.160 --> 01:06:37.120
+they're
+
+01:06:35.320 --> 01:06:39.360
+you know, don't don't listen to what I
+
+01:06:37.120 --> 01:06:39.800
+say, look at what I do or whatever that
+
+01:06:39.360 --> 01:06:40.400
+>> Exactly.
+
+01:06:39.800 --> 01:06:40.920
+>> Yeah.
+
+01:06:40.400 --> 01:06:44.120
+>> Yep.
+
+01:06:40.920 --> 01:06:46.640
+>> And so so that can be very powerful.
+
+01:06:44.120 --> 01:06:49.760
+>> That's a that is a great
+
+01:06:46.640 --> 01:06:52.000
+application of that little cliché.
+
+01:06:49.760 --> 01:06:54.280
+Listen to what I say or pay attention to
+
+01:06:52.000 --> 01:06:57.160
+what I do, not what I say.
+
+01:06:54.280 --> 01:07:00.160
+Um and nothing speaks so nothing speaks
+
+01:06:57.160 --> 01:07:03.960
+louder of a customer than it's historic
+
+01:07:00.160 --> 01:07:05.840
+buying patterns. Um so so that's that's
+
+01:07:03.960 --> 01:07:07.360
+the strongest signal of all, more than
+
+01:07:05.840 --> 01:07:08.760
+what they might tell you if you even if
+
+01:07:07.360 --> 01:07:11.640
+you were able to get them on the phone
+
+01:07:08.760 --> 01:07:13.880
+pretty close. Great insight there.
+
+01:07:11.640 --> 01:07:15.800
+>> If I can add one thing, the other thing
+
+01:07:13.880 --> 01:07:16.640
+component of that that you have to ask
+
+01:07:15.800 --> 01:07:19.440
+is
+
+01:07:16.640 --> 01:07:21.760
+can we continue to deliver that
+
+01:07:19.440 --> 01:07:24.120
+after we purchase the business?
+
+01:07:21.760 --> 01:07:27.320
+Right? So, what's kept them coming back?
+
+01:07:24.120 --> 01:07:29.480
+Can Is there a Is the business in such a
+
+01:07:27.320 --> 01:07:32.000
+place that you can continue to deliver
+
+01:07:29.480 --> 01:07:34.360
+that? Cuz if you can't, then
+
+01:07:32.000 --> 01:07:36.280
+then all bets are off, right? And I
+
+01:07:34.360 --> 01:07:39.520
+think that's why it was so important
+
+01:07:36.280 --> 01:07:42.960
+that there was this mid-career group of
+
+01:07:39.520 --> 01:07:44.800
+of technical folks who were there. And
+
+01:07:42.960 --> 01:07:47.760
+it really was, I mean, one of the first
+
+01:07:44.800 --> 01:07:50.800
+things we did was went with the seller
+
+01:07:47.760 --> 01:07:53.200
+and with some of these folks to
+
+01:07:50.800 --> 01:07:56.360
+to the major customer and just had a ton
+
+01:07:53.200 --> 01:07:58.360
+of meetings. And he explained to them,
+
+01:07:56.360 --> 01:07:59.760
+"Hey, I'm I'm passing off the business."
+
+01:07:58.360 --> 01:08:01.240
+And they actually said, "We knew this
+
+01:07:59.760 --> 01:08:03.160
+day was coming.
+
+01:08:01.240 --> 01:08:05.160
+And we're glad that it's this team
+
+01:08:03.160 --> 01:08:06.920
+member who's going to be And they're
+
+01:08:05.160 --> 01:08:08.920
+like, "Here's Caleb." And it was
+
+01:08:06.920 --> 01:08:11.440
+important for them to be able to trust
+
+01:08:08.920 --> 01:08:13.560
+me as well and look me in the eye. But
+
+01:08:11.440 --> 01:08:15.800
+really, you know, they need to trust the
+
+01:08:13.560 --> 01:08:17.880
+people who who saw it there. They need
+
+01:08:15.800 --> 01:08:19.037
+to trust that I will run the business
+
+01:08:17.880 --> 01:08:19.240
+with integrity.
+
+01:08:19.037 --> 01:08:21.720
+>> [snorts]
+
+01:08:19.240 --> 01:08:23.680
+>> Right? The And not screw up what the
+
+01:08:21.720 --> 01:08:26.240
+technical people are doing that they
+
+01:08:23.680 --> 01:08:28.799
+appreciate, right? And so, we were able
+
+01:08:26.240 --> 01:08:30.880
+to do that and thus were We could see
+
+01:08:28.799 --> 01:08:32.880
+that even before. So, that is one thing
+
+01:08:30.880 --> 01:08:34.600
+that we did do before the the sale
+
+01:08:32.880 --> 01:08:36.319
+closed is we actually met some of the
+
+01:08:34.600 --> 01:08:39.080
+key people.
+
+01:08:36.319 --> 01:08:41.400
+>> Mhm. Mhm. Okay, great. You'd also
+
+01:08:39.080 --> 01:08:41.600
+secured a working capital revolver
+
+01:08:41.400 --> 01:08:42.640
+>> Yes.
+
+01:08:41.600 --> 01:08:43.120
+>> when you bought the business?
+
+01:08:42.640 --> 01:08:45.400
+>> Yes.
+
+01:08:43.120 --> 01:08:46.839
+>> Just What What was that? Why did you do
+
+01:08:45.400 --> 01:08:49.720
+that? How do you think about that? Do
+
+01:08:46.839 --> 01:08:51.759
+you touch it? Wait. Define it first and
+
+01:08:49.720 --> 01:08:54.640
+then answer those questions.
+
+01:08:51.759 --> 01:08:55.799
+>> Yeah. So, we we have a working capital
+
+01:08:54.640 --> 01:08:58.359
+revolver.
+
+01:08:55.799 --> 01:09:01.080
+Um that was Fortunately, we had a very
+
+01:08:58.359 --> 01:09:03.080
+great banker um who
+
+01:09:01.080 --> 01:09:04.480
+from the get-go put that into the
+
+01:09:03.080 --> 01:09:06.799
+package.
+
+01:09:04.480 --> 01:09:10.279
+Um and that has been
+
+01:09:06.799 --> 01:09:12.600
+phenomenal. I I mean, in this business I
+
+01:09:10.279 --> 01:09:14.560
+don't If there's one thing I'd say that
+
+01:09:12.600 --> 01:09:17.040
+we did not
+
+01:09:14.560 --> 01:09:19.000
+understand well enough was it was how
+
+01:09:17.040 --> 01:09:20.240
+much working capital moved in this
+
+01:09:19.000 --> 01:09:22.759
+business.
+
+01:09:20.240 --> 01:09:24.960
+Right? And And when you take out debt to
+
+01:09:22.759 --> 01:09:30.319
+buy a business, it just amplifies all
+
+01:09:24.960 --> 01:09:32.160
+the fluctuations, right? And so this was
+
+01:09:30.319 --> 01:09:34.359
+the working capital revolver has been
+
+01:09:32.160 --> 01:09:36.839
+essential. And we do use it, you know,
+
+01:09:34.359 --> 01:09:38.120
+to It's funny. I've heard bankers laugh
+
+01:09:36.839 --> 01:09:39.799
+when I tell them this because they're
+
+01:09:38.120 --> 01:09:41.240
+like, "Wow, you use working capital
+
+01:09:39.799 --> 01:09:43.920
+revolver like a working capital
+
+01:09:41.240 --> 01:09:45.880
+revolver." Um cuz they typically see a
+
+01:09:43.920 --> 01:09:47.759
+lot of people using it as equipment
+
+01:09:45.880 --> 01:09:51.640
+financing or something like that. We do
+
+01:09:47.759 --> 01:09:53.520
+not do that. We truly use it to say,
+
+01:09:51.640 --> 01:09:55.360
+"Okay, we've got a large order out
+
+01:09:53.520 --> 01:09:58.800
+there. We've got to make down payments
+
+01:09:55.360 --> 01:10:01.320
+on on components for that. We've got to
+
+01:09:58.800 --> 01:10:05.520
+buy a large amount of metal. Our working
+
+01:10:01.320 --> 01:10:07.120
+capital's fluctuating. Um do we We'll
+
+01:10:05.520 --> 01:10:10.000
+We'll draw down on the working capital
+
+01:10:07.120 --> 01:10:12.400
+revolver to cover those things. And then
+
+01:10:10.000 --> 01:10:14.000
+as as those orders actually ship and we
+
+01:10:12.400 --> 01:10:16.720
+get paid for it, we'll pay down the
+
+01:10:14.000 --> 01:10:19.800
+working capital revolver. So, we're very
+
+01:10:16.720 --> 01:10:23.520
+disciplined about that. And uh you know,
+
+01:10:19.800 --> 01:10:25.600
+that's that's just key key for us.
+
+01:10:23.520 --> 01:10:28.200
+>> And how is a working capital revolver
+
+01:10:25.600 --> 01:10:30.840
+different than a line of credit?
+
+01:10:28.200 --> 01:10:33.880
+>> Um they are
+
+01:10:30.840 --> 01:10:35.840
+they are very similar. I I mean,
+
+01:10:33.880 --> 01:10:38.600
+essentially it's just a revolving line
+
+01:10:35.840 --> 01:10:40.640
+of credit that you pay down. Uh
+
+01:10:38.600 --> 01:10:43.120
+you pay interest only.
+
+01:10:40.640 --> 01:10:44.920
+Um it does have a term. So, if you got
+
+01:10:43.120 --> 01:10:46.960
+to the end of the term and and still had
+
+01:10:44.920 --> 01:10:50.000
+a balance on it, that you'd either have
+
+01:10:46.960 --> 01:10:53.160
+to refinance it or or do something else.
+
+01:10:50.000 --> 01:10:55.800
+Um or pay it off. Um but the nice thing
+
+01:10:53.160 --> 01:10:57.560
+is we only pay interest on that during
+
+01:10:55.800 --> 01:10:59.560
+the time that that we're having it. So,
+
+01:10:57.560 --> 01:11:01.040
+it's just a revolving line of credit
+
+01:10:59.560 --> 01:11:02.640
+that's interest only.
+
+01:11:01.040 --> 01:11:05.360
+>> I um
+
+01:11:02.640 --> 01:11:08.680
+heard only recently that
+
+01:11:05.360 --> 01:11:09.520
+some characterize a line of credit as a
+
+01:11:08.680 --> 01:11:13.200
+um
+
+01:11:09.520 --> 01:11:14.640
+in case of emergency break glass uh sort
+
+01:11:13.200 --> 01:11:17.480
+of instrument. Something that's really
+
+01:11:14.640 --> 01:11:20.160
+only there for an emergency as opposed
+
+01:11:17.480 --> 01:11:21.400
+to something that you're using with some
+
+01:11:20.160 --> 01:11:22.560
+regularity in the motion of the
+
+01:11:21.400 --> 01:11:24.600
+business.
+
+01:11:22.560 --> 01:11:26.320
+Um is that's obviously not how you see
+
+01:11:24.600 --> 01:11:27.960
+your working capital revolver that you
+
+01:11:26.320 --> 01:11:29.200
+that you make regular use of it. It's
+
+01:11:27.960 --> 01:11:30.440
+not just
+
+01:11:29.200 --> 01:11:33.600
+for emergencies.
+
+01:11:30.440 --> 01:11:35.720
+>> Well, I I we've had to because in this
+
+01:11:33.600 --> 01:11:37.360
+business when you buy a business as much
+
+01:11:35.720 --> 01:11:38.840
+as you try to have working capital
+
+01:11:37.360 --> 01:11:40.720
+intact, it's
+
+01:11:38.840 --> 01:11:43.040
+and the more volatile working capital is
+
+01:11:40.720 --> 01:11:44.160
+the harder it is to to peg that, right?
+
+01:11:43.040 --> 01:11:48.040
+And so
+
+01:11:44.160 --> 01:11:50.960
+so as we're building up and and growth
+
+01:11:48.040 --> 01:11:53.440
+also stretches working capital, right?
+
+01:11:50.960 --> 01:11:55.320
+So, if if you have
+
+01:11:53.440 --> 01:11:57.360
+a somewhat volatile project base
+
+01:11:55.320 --> 01:11:59.800
+business, right?
+
+01:11:57.360 --> 01:12:02.160
+I it's not extremely volatile, but it
+
+01:11:59.800 --> 01:12:03.520
+definitely has swings based on large
+
+01:12:02.160 --> 01:12:07.080
+projects.
+
+01:12:03.520 --> 01:12:08.920
+Um and you're trying to grow, you're
+
+01:12:07.080 --> 01:12:10.880
+definitely going to need some working
+
+01:12:08.920 --> 01:12:13.720
+capital and and you've either got to
+
+01:12:10.880 --> 01:12:15.960
+just be patient and let that build up or
+
+01:12:13.720 --> 01:12:18.720
+you've got to use the revolver. In our
+
+01:12:15.960 --> 01:12:20.840
+case, you know, because of how much it
+
+01:12:18.720 --> 01:12:22.080
+fluctuates, it was really
+
+01:12:20.840 --> 01:12:24.080
+you know, it's something that we've
+
+01:12:22.080 --> 01:12:27.360
+we've had to do.
+
+01:12:24.080 --> 01:12:30.000
+So, but but that's been a great asset to
+
+01:12:27.360 --> 01:12:32.400
+us and allowed us to to make sure that
+
+01:12:30.000 --> 01:12:35.120
+we maintain a a
+
+01:12:32.400 --> 01:12:37.840
+a measure of liquidity at all times that
+
+01:12:35.120 --> 01:12:40.080
+keeps us safe as a business. Um so,
+
+01:12:37.840 --> 01:12:42.240
+again, I I don't think
+
+01:12:40.080 --> 01:12:44.240
+in an ideal scenario, if you had all the
+
+01:12:42.240 --> 01:12:45.480
+cash in the world just sitting around,
+
+01:12:44.240 --> 01:12:48.760
+would it be a
+
+01:12:45.480 --> 01:12:51.640
+break in case of glass or break glass in
+
+01:12:48.760 --> 01:12:54.040
+case of emergency only? Sure. Um but
+
+01:12:51.640 --> 01:12:56.000
+different businesses are different and
+
+01:12:54.040 --> 01:12:58.600
+and some businesses working capital
+
+01:12:56.000 --> 01:13:00.840
+revolvers have a real a real place to
+
+01:12:58.600 --> 01:13:02.240
+help you smooth that out because of just
+
+01:13:00.840 --> 01:13:04.680
+the nature of them.
+
+01:13:02.240 --> 01:13:06.760
+>> Okay.
+
+01:13:04.680 --> 01:13:09.720
+Let's turn now to your ownership. You've
+
+01:13:06.760 --> 01:13:11.960
+already teased that 40% growth in that
+
+01:13:09.720 --> 01:13:16.120
+now that was Sorry, when did you close?
+
+01:13:11.960 --> 01:13:18.120
+>> We closed end of July 2024.
+
+01:13:16.120 --> 01:13:21.320
+>> Okay. So, you're coming up on two full
+
+01:13:18.120 --> 01:13:22.880
+years. But, your it was calendar year
+
+01:13:21.320 --> 01:13:25.680
+2025
+
+01:13:22.880 --> 01:13:26.680
+that revenue you pushed revenue 40%. Is
+
+01:13:25.680 --> 01:13:27.440
+that correct? Was that right?
+
+01:13:26.680 --> 01:13:29.840
+>> Correct.
+
+01:13:27.440 --> 01:13:31.880
+>> Which is which is a ton of growth. How
+
+01:13:29.840 --> 01:13:34.720
+did you do that?
+
+01:13:31.880 --> 01:13:37.560
+>> So, really it started
+
+01:13:34.720 --> 01:13:39.920
+just working the process, you know, from
+
+01:13:37.560 --> 01:13:42.600
+the front and back. We
+
+01:13:39.920 --> 01:13:44.800
+we had a
+
+01:13:42.600 --> 01:13:45.800
+I started with quoting.
+
+01:13:44.800 --> 01:13:47.480
+And we really, [snorts]
+
+01:13:45.800 --> 01:13:49.360
+you know, there were I talked about how
+
+01:13:47.480 --> 01:13:51.720
+there was a lot of transactional work
+
+01:13:49.360 --> 01:13:52.520
+that was not um
+
+01:13:51.720 --> 01:13:54.120
+it
+
+01:13:52.520 --> 01:13:55.840
+there was a lot of
+
+01:13:54.120 --> 01:13:58.240
+duplication in terms of the
+
+01:13:55.840 --> 01:14:00.680
+transactional work. So, we just did a
+
+01:13:58.240 --> 01:14:03.000
+few simple things. One is I like
+
+01:14:00.680 --> 01:14:05.400
+calling going from a horizontal
+
+01:14:03.000 --> 01:14:07.800
+structure to a vertical structure.
+
+01:14:05.400 --> 01:14:09.800
+So, [snorts] one of the the
+
+01:14:07.800 --> 01:14:12.920
+pitfalls of being having a lot of
+
+01:14:09.800 --> 01:14:16.120
+technical expertise was that
+
+01:14:12.920 --> 01:14:18.560
+they had there were and it worked very
+
+01:14:16.120 --> 01:14:21.280
+well for them, but they had multiple
+
+01:14:18.560 --> 01:14:23.680
+different people who would quote, they
+
+01:14:21.280 --> 01:14:26.120
+would be the manufacturing engineers who
+
+01:14:23.680 --> 01:14:27.880
+would get the jobs ready for the shop,
+
+01:14:26.120 --> 01:14:30.880
+and then to some extent they would go
+
+01:14:27.880 --> 01:14:32.880
+out on the floor and and
+
+01:14:30.880 --> 01:14:34.880
+look at that work and make sure it was
+
+01:14:32.880 --> 01:14:36.920
+being done correctly and and all of
+
+01:14:34.880 --> 01:14:39.160
+those types of things.
+
+01:14:36.920 --> 01:14:41.640
+And when you have three people doing
+
+01:14:39.160 --> 01:14:42.840
+that, that requires a lot of experience
+
+01:14:41.640 --> 01:14:44.320
+and a lot of
+
+01:14:42.840 --> 01:14:47.800
+a lot of
+
+01:14:44.320 --> 01:14:49.440
+just time um to be able to do. And so, I
+
+01:14:47.800 --> 01:14:52.000
+knew we wouldn't be able to do that. So
+
+01:14:49.440 --> 01:14:55.680
+what we did is two of those gentlemen
+
+01:14:52.000 --> 01:14:57.880
+were one was the the owner and one was a
+
+01:14:55.680 --> 01:14:59.902
+long time employee who was retiring one
+
+01:14:57.880 --> 01:15:00.080
+of the ones we knew about and so
+
+01:14:59.902 --> 01:15:02.200
+>> [snorts]
+
+01:15:00.080 --> 01:15:04.800
+>> what we did was we took another long
+
+01:15:02.200 --> 01:15:07.800
+time employee who's been here 24 years
+
+01:15:04.800 --> 01:15:10.440
+and put him in a position of leadership
+
+01:15:07.800 --> 01:15:13.560
+and then put people to do transactional
+
+01:15:10.440 --> 01:15:16.000
+work underneath him who were skilled but
+
+01:15:13.560 --> 01:15:19.600
+not not quite as tenured or as skilled
+
+01:15:16.000 --> 01:15:21.680
+as he was and then set up systems so
+
+01:15:19.600 --> 01:15:24.400
+that you know, they were quoting on
+
+01:15:21.680 --> 01:15:27.360
+paper. We started building Excel tools
+
+01:15:24.400 --> 01:15:31.440
+to quote to make that faster less error
+
+01:15:27.360 --> 01:15:33.520
+prone. Um, we were able to to get our
+
+01:15:31.440 --> 01:15:35.560
+quote turnaround time down
+
+01:15:33.520 --> 01:15:38.000
+significantly. We dropped it probably by
+
+01:15:35.560 --> 01:15:40.600
+about two weeks. We We were able to
+
+01:15:38.000 --> 01:15:42.960
+quote um
+
+01:15:40.600 --> 01:15:46.520
+a significantly higher amount of
+
+01:15:42.960 --> 01:15:49.960
+business with fewer resources by focus,
+
+01:15:46.520 --> 01:15:52.800
+right? And then similarly
+
+01:15:49.960 --> 01:15:54.560
+um, then we went back into the shop and
+
+01:15:52.800 --> 01:15:56.080
+started to look at things like visual
+
+01:15:54.560 --> 01:15:57.560
+management and we're still working on
+
+01:15:56.080 --> 01:16:00.320
+those things but how do you actually
+
+01:15:57.560 --> 01:16:02.240
+manage the workflow through the shop to
+
+01:16:00.320 --> 01:16:04.120
+make sure that it's that it's getting
+
+01:16:02.240 --> 01:16:05.840
+done. But a lot of it was just
+
+01:16:04.120 --> 01:16:08.840
+old-fashioned
+
+01:16:05.840 --> 01:16:11.560
+outreach to customers who maybe we had
+
+01:16:08.840 --> 01:16:13.520
+tailed off with over the past 5 to 10
+
+01:16:11.560 --> 01:16:15.640
+years and just said, "Hey, we're
+
+01:16:13.520 --> 01:16:18.040
+growing. Here's what we're doing. Come
+
+01:16:15.640 --> 01:16:21.560
+by and see it. We'll respond to your
+
+01:16:18.040 --> 01:16:23.520
+requests quickly. Um, and that really
+
+01:16:21.560 --> 01:16:25.440
+started to to build.
+
+01:16:23.520 --> 01:16:27.160
+>> A lot of the
+
+01:16:25.440 --> 01:16:29.280
+improvements that you've made under your
+
+01:16:27.160 --> 01:16:31.520
+ownership Caleb are very
+
+01:16:29.280 --> 01:16:33.880
+specific to manufacturing this business
+
+01:16:31.520 --> 01:16:36.280
+and we've already touched on that a lot.
+
+01:16:33.880 --> 01:16:38.400
+Um, so the question would be have you
+
+01:16:36.280 --> 01:16:41.880
+made any improvements to the business
+
+01:16:38.400 --> 01:16:44.880
+optimizations that we we yet heard that
+
+01:16:41.880 --> 01:16:46.840
+are kind of generalizable or that other
+
+01:16:44.880 --> 01:16:49.400
+searchers in non-manufacturing
+
+01:16:46.840 --> 01:16:51.600
+businesses might learn from.
+
+01:16:49.400 --> 01:16:54.160
+>> Yeah, there were there are a couple. One
+
+01:16:51.600 --> 01:16:57.120
+is, you know, very basic.
+
+01:16:54.160 --> 01:16:59.360
+We took a business that had two-month
+
+01:16:57.120 --> 01:17:01.360
+financial close process.
+
+01:16:59.360 --> 01:17:03.840
+Um to we close the books within two
+
+01:17:01.360 --> 01:17:06.400
+days. And we can close end of year
+
+01:17:03.840 --> 01:17:09.480
+within a few weeks.
+
+01:17:06.400 --> 01:17:11.280
+Um and so that's been huge just, you
+
+01:17:09.480 --> 01:17:13.640
+know, part of that was technology, but
+
+01:17:11.280 --> 01:17:15.720
+part of that is just process.
+
+01:17:13.640 --> 01:17:18.400
+Um how we
+
+01:17:15.720 --> 01:17:20.720
+how we step through the month, what data
+
+01:17:18.400 --> 01:17:22.040
+we keep up to to date on a regular
+
+01:17:20.720 --> 01:17:23.600
+basis.
+
+01:17:22.040 --> 01:17:25.920
+And that's just very important to us
+
+01:17:23.600 --> 01:17:28.680
+because those are our eyes on the
+
+01:17:25.920 --> 01:17:31.280
+business um to know where it's at. And
+
+01:17:28.680 --> 01:17:33.360
+we don't want to be making especially in
+
+01:17:31.280 --> 01:17:35.280
+a small business, I have a
+
+01:17:33.360 --> 01:17:37.240
+friend who calls it, he says a large
+
+01:17:35.280 --> 01:17:39.760
+business is a battleship. It's got a lot
+
+01:17:37.240 --> 01:17:42.040
+of inertia, a lot of firepower, but it
+
+01:17:39.760 --> 01:17:45.120
+takes a long time to turn. You know,
+
+01:17:42.040 --> 01:17:48.240
+small businesses are PT boats. And so
+
+01:17:45.120 --> 01:17:51.360
+you have to have a really good radar um
+
+01:17:48.240 --> 01:17:53.360
+to navigate a PT boat so you can take
+
+01:17:51.360 --> 01:17:55.560
+advantage of opportunities, but also
+
+01:17:53.360 --> 01:17:56.760
+avoid dangers. And so we need that data
+
+01:17:55.560 --> 01:17:59.720
+quickly.
+
+01:17:56.760 --> 01:18:03.400
+Um so that has been that has been huge.
+
+01:17:59.720 --> 01:18:05.940
+Relatedly, we also put in in place
+
+01:18:03.400 --> 01:18:07.520
+um a lot of financial controls. And
+
+01:18:05.940 --> 01:18:09.720
+[snorts] we kind of view financial
+
+01:18:07.520 --> 01:18:11.320
+controls maybe a little bit differently.
+
+01:18:09.720 --> 01:18:13.680
+Yes, everybody thinks of financial
+
+01:18:11.320 --> 01:18:16.640
+controls as something to keep the
+
+01:18:13.680 --> 01:18:18.720
+business safe, right? But we actually
+
+01:18:16.640 --> 01:18:20.640
+view financial controls as something
+
+01:18:18.720 --> 01:18:22.960
+that protects the good people in the
+
+01:18:20.640 --> 01:18:24.240
+business from any accusation of
+
+01:18:22.960 --> 01:18:26.760
+wrongdoing.
+
+01:18:24.240 --> 01:18:28.840
+If things are if things are transparent,
+
+01:18:26.760 --> 01:18:31.800
+if we have systems where nobody has to
+
+01:18:28.840 --> 01:18:34.040
+handle checks, where there's double
+
+01:18:31.800 --> 01:18:36.400
+approvals needed for cash going out of
+
+01:18:34.040 --> 01:18:38.240
+the company, all of those things, it
+
+01:18:36.400 --> 01:18:40.320
+just allows people to operate with a
+
+01:18:38.240 --> 01:18:42.240
+clear conscience and above suspicion at
+
+01:18:40.320 --> 01:18:44.720
+all times, which just creates an
+
+01:18:42.240 --> 01:18:46.680
+environment of trust and an environment
+
+01:18:44.720 --> 01:18:48.840
+where we can go faster. So, we view
+
+01:18:46.680 --> 01:18:50.520
+those things as as very important. And
+
+01:18:48.840 --> 01:18:53.160
+that's one area where my father, with
+
+01:18:50.520 --> 01:18:55.640
+his background, was was essential cuz he
+
+01:18:53.160 --> 01:18:57.560
+was able to step in day one and just say
+
+01:18:55.640 --> 01:19:00.080
+he actually asked our banker and they
+
+01:18:57.560 --> 01:19:02.600
+said, "Yeah, we've got this technology
+
+01:19:00.080 --> 01:19:04.480
+available and we don't typically use it
+
+01:19:02.600 --> 01:19:06.400
+with a business your size, but here's
+
+01:19:04.480 --> 01:19:07.680
+what you can do." And so, we set up all
+
+01:19:06.400 --> 01:19:10.480
+of those things and our business
+
+01:19:07.680 --> 01:19:12.800
+operations manager was great about
+
+01:19:10.480 --> 01:19:14.044
+adopting them and and it's been
+
+01:19:12.800 --> 01:19:14.360
+it's been great.
+
+01:19:14.044 --> 01:19:17.040
+>> [snorts]
+
+01:19:14.360 --> 01:19:20.160
+>> Um the third thing I'd say is that any
+
+01:19:17.040 --> 01:19:23.960
+searcher can can really
+
+01:19:20.160 --> 01:19:25.640
+adopt is is probably on the culture.
+
+01:19:23.960 --> 01:19:27.800
+So, I spent
+
+01:19:25.640 --> 01:19:28.680
+the first
+
+01:19:27.800 --> 01:19:31.960
+>> [snorts]
+
+01:19:28.680 --> 01:19:33.960
+>> 6 months going out and talking with
+
+01:19:31.960 --> 01:19:35.920
+every single employee in in the
+
+01:19:33.960 --> 01:19:37.625
+business, every single team member,
+
+01:19:35.920 --> 01:19:37.880
+every single day
+
+01:19:37.625 --> 01:19:39.840
+>> [snorts]
+
+01:19:37.880 --> 01:19:41.920
+>> um that I was here.
+
+01:19:39.840 --> 01:19:43.800
+And finding out about their life, what
+
+01:19:41.920 --> 01:19:46.280
+they liked, what they didn't like about
+
+01:19:43.800 --> 01:19:47.200
+work, all of those things.
+
+01:19:46.280 --> 01:19:49.760
+Um
+
+01:19:47.200 --> 01:19:52.560
+and then really taking my leadership
+
+01:19:49.760 --> 01:19:54.360
+team and and investing in them. So, one
+
+01:19:52.560 --> 01:19:55.200
+of the key things in our weekly meeting
+
+01:19:54.360 --> 01:19:57.480
+is
+
+01:19:55.200 --> 01:19:59.160
+is we go through a book on leadership
+
+01:19:57.480 --> 01:20:01.640
+and we read a chapter a week and we
+
+01:19:59.160 --> 01:20:03.960
+spend a half an hour discussing it.
+
+01:20:01.640 --> 01:20:05.760
+And [snorts] really the idea is that,
+
+01:20:03.960 --> 01:20:09.160
+you know, we're not
+
+01:20:05.760 --> 01:20:11.560
+ultimately, we're not molding things out
+
+01:20:09.160 --> 01:20:14.400
+of metal, though that's what we do and
+
+01:20:11.560 --> 01:20:16.840
+and what we get paid for ultimately.
+
+01:20:14.400 --> 01:20:20.840
+We view ourselves as as we're molding
+
+01:20:16.840 --> 01:20:22.280
+people, including ourselves, right? I I
+
+01:20:20.840 --> 01:20:24.600
+spend a lot of time on personal
+
+01:20:22.280 --> 01:20:27.240
+development as well because I believe
+
+01:20:24.600 --> 01:20:29.360
+that I'm the cap on the business, right?
+
+01:20:27.240 --> 01:20:31.560
+And if I don't grow, the business won't
+
+01:20:29.360 --> 01:20:32.880
+grow. And so, we really take that
+
+01:20:31.560 --> 01:20:36.200
+seriously and that's something any
+
+01:20:32.880 --> 01:20:38.160
+searcher can do is is really invest in
+
+01:20:36.200 --> 01:20:40.560
+your people and take that time. And it
+
+01:20:38.160 --> 01:20:44.120
+can feel like you're you're taking time
+
+01:20:40.560 --> 01:20:45.800
+away from the real work. Right? Um but I
+
+01:20:44.120 --> 01:20:47.240
+would argue that fundamentally that is
+
+01:20:45.800 --> 01:20:50.680
+the real work. It may be a little
+
+01:20:47.240 --> 01:20:53.360
+slower, may take a little bit more time,
+
+01:20:50.680 --> 01:20:55.160
+um but we really do believe that one it
+
+01:20:53.360 --> 01:20:58.400
+fits with our values and and our
+
+01:20:55.160 --> 01:21:00.840
+mission. Um but two, we really do
+
+01:20:58.400 --> 01:21:02.400
+believe that that will be what creates a
+
+01:21:00.840 --> 01:21:04.520
+great business.
+
+01:21:02.400 --> 01:21:08.000
+>> Speaking of creating a a great business
+
+01:21:04.520 --> 01:21:10.080
+here, Caleb. So, what what is the vision
+
+01:21:08.000 --> 01:21:12.240
+here? Do you have
+
+01:21:10.080 --> 01:21:14.560
+uh a picture of what you're building?
+
+01:21:12.240 --> 01:21:17.760
+>> So, we want to grow. Uh we want to grow
+
+01:21:14.560 --> 01:21:20.600
+this business more so that we can serve
+
+01:21:17.760 --> 01:21:21.800
+cut more customers, serve customers more
+
+01:21:20.600 --> 01:21:25.360
+as well.
+
+01:21:21.800 --> 01:21:27.920
+Um but we also want to acquire other
+
+01:21:25.360 --> 01:21:30.800
+businesses and run them. Again, my
+
+01:21:27.920 --> 01:21:34.080
+father was at Teledyne almost the entire
+
+01:21:30.800 --> 01:21:36.160
+time of its second generation. Many of
+
+01:21:34.080 --> 01:21:39.240
+your listeners may know of Teledyne and
+
+01:21:36.160 --> 01:21:42.400
+and so I watched that grow by acq- he
+
+01:21:39.240 --> 01:21:45.040
+did 55 acquisitions over his career.
+
+01:21:42.400 --> 01:21:46.880
+And so I watched that model and and what
+
+01:21:45.040 --> 01:21:50.440
+I really loved about that model was
+
+01:21:46.880 --> 01:21:52.760
+their GM led each of these businesses.
+
+01:21:50.440 --> 01:21:55.480
+And so it gives a lot of people the
+
+01:21:52.760 --> 01:21:58.160
+opportunity to grow, to take leadership
+
+01:21:55.480 --> 01:22:00.800
+positions, to mold something, to to care
+
+01:21:58.160 --> 01:22:03.560
+for people, to deliver results.
+
+01:22:00.800 --> 01:22:07.320
+And so that's a big thing is is we want
+
+01:22:03.560 --> 01:22:09.240
+to grow um because again, if if I'm here
+
+01:22:07.320 --> 01:22:12.320
+and and just doing this, there's going
+
+01:22:09.240 --> 01:22:13.840
+to be a limit to how much opportunity
+
+01:22:12.320 --> 01:22:16.880
+there is for everybody else in the
+
+01:22:13.840 --> 01:22:19.240
+business to shine. And we've got several
+
+01:22:16.880 --> 01:22:21.400
+early folks early in their career who
+
+01:22:19.240 --> 01:22:24.120
+are very talented, who have expressed
+
+01:22:21.400 --> 01:22:26.640
+the desire to do more. They want to run
+
+01:22:24.120 --> 01:22:29.960
+businesses someday. They want to grow
+
+01:22:26.640 --> 01:22:31.800
+and run operations or go do sales or do
+
+01:22:29.960 --> 01:22:34.000
+something like that. If we don't grow,
+
+01:22:31.800 --> 01:22:35.640
+we're not serving them because they're
+
+01:22:34.000 --> 01:22:37.520
+going to have to wait for somebody to
+
+01:22:35.640 --> 01:22:39.320
+exit the business, whether due to
+
+01:22:37.520 --> 01:22:41.280
+retirement or other,
+
+01:22:39.320 --> 01:22:44.800
+um for them to get an opportunity to do
+
+01:22:41.280 --> 01:22:47.000
+something new. But, if we grow it, um we
+
+01:22:44.800 --> 01:22:49.120
+are able to provide those opportunities
+
+01:22:47.000 --> 01:22:51.000
+to them. And beyond that, you know,
+
+01:22:49.120 --> 01:22:52.920
+beyond it being manufacturing, I mean,
+
+01:22:51.000 --> 01:22:56.200
+certainly there are things like, would
+
+01:22:52.920 --> 01:22:58.160
+it be great to to have a dedicated fab
+
+01:22:56.200 --> 01:23:00.040
+shop? Would that really help us? Are
+
+01:22:58.160 --> 01:23:02.560
+there some other things that I can think
+
+01:23:00.040 --> 01:23:04.400
+of of capabilities that would be very
+
+01:23:02.560 --> 01:23:06.800
+complimentary to our existing business?
+
+01:23:04.400 --> 01:23:08.840
+Yes. But, there are other businesses
+
+01:23:06.800 --> 01:23:10.320
+that we can think of, you know, I come
+
+01:23:08.840 --> 01:23:12.080
+from a product background in
+
+01:23:10.320 --> 01:23:14.000
+manufacturing. I would love one day to
+
+01:23:12.080 --> 01:23:15.840
+own a business that was more
+
+01:23:14.000 --> 01:23:18.560
+product-based cuz there's a whole set of
+
+01:23:15.840 --> 01:23:20.200
+skills and interests that you have there
+
+01:23:18.560 --> 01:23:24.080
+that you don't really get to use in the
+
+01:23:20.200 --> 01:23:26.600
+design and build space, right? Um so,
+
+01:23:24.080 --> 01:23:29.000
+that would be super interesting. But,
+
+01:23:26.600 --> 01:23:31.400
+really and and as far as what it looks
+
+01:23:29.000 --> 01:23:34.960
+like, I mean, a lot of what I've learned
+
+01:23:31.400 --> 01:23:36.800
+is is you just have to
+
+01:23:34.960 --> 01:23:38.480
+look at a lot of different things, talk
+
+01:23:36.800 --> 01:23:40.720
+to a lot of different people, and then
+
+01:23:38.480 --> 01:23:43.920
+be creative when the right opportunity
+
+01:23:40.720 --> 01:23:46.440
+comes together, um because usually it's
+
+01:23:43.920 --> 01:23:47.960
+it's not how you thought it would be.
+
+01:23:46.440 --> 01:23:49.600
+Um [snorts] and not what you thought it
+
+01:23:47.960 --> 01:23:51.560
+would be. So, really under that
+
+01:23:49.600 --> 01:23:52.720
+umbrella, we're pretty open
+
+01:23:51.560 --> 01:23:55.680
+long-term.
+
+01:23:52.720 --> 01:23:56.480
+>> You are driving an hour and 20 minutes
+
+01:23:55.680 --> 01:23:58.680
+each way?
+
+01:23:56.480 --> 01:24:01.600
+>> Yes.
+
+01:23:58.680 --> 01:24:04.600
+>> The search radius for
+
+01:24:01.600 --> 01:24:06.920
+um searchers it can often be they think
+
+01:24:04.600 --> 01:24:09.480
+they can have a longer commute than they
+
+01:24:06.920 --> 01:24:11.520
+actually can. They, during their search,
+
+01:24:09.480 --> 01:24:12.880
+go to see a business 2 hours away
+
+01:24:11.520 --> 01:24:15.360
+thinking that this is something that
+
+01:24:12.880 --> 01:24:17.760
+they'll grind through, and then once
+
+01:24:15.360 --> 01:24:19.560
+they do the the trip once, they realize
+
+01:24:17.760 --> 01:24:21.080
+that no, that is way too generous a
+
+01:24:19.560 --> 01:24:24.160
+radius.
+
+01:24:21.080 --> 01:24:26.520
+An hour and 20 is is serious and
+
+01:24:24.160 --> 01:24:28.880
+probably pushing it and probably over
+
+01:24:26.520 --> 01:24:31.080
+the threshold for many people. How is it
+
+01:24:28.880 --> 01:24:32.960
+actually day-to-day for you?
+
+01:24:31.080 --> 01:24:36.040
+>> I mean, they're long days.
+
+01:24:32.960 --> 01:24:38.720
+It's no no doubt about it. I think what
+
+01:24:36.040 --> 01:24:40.400
+makes it possible is
+
+01:24:38.720 --> 01:24:43.120
+I'm from Los Angeles, so I'm used to
+
+01:24:40.400 --> 01:24:45.400
+spending a lot of time in the car.
+
+01:24:43.120 --> 01:24:47.560
+It's it's a
+
+01:24:45.400 --> 01:24:48.480
+it's definitely
+
+01:24:47.560 --> 01:24:50.840
+um
+
+01:24:48.480 --> 01:24:53.800
+longer than if I had my ideal I would
+
+01:24:50.840 --> 01:24:56.200
+like. Um but it's been it's been good.
+
+01:24:53.800 --> 01:24:58.320
+It lots of time for calls in the car,
+
+01:24:56.200 --> 01:25:00.320
+lots of time to think. That's my
+
+01:24:58.320 --> 01:25:03.440
+thinking time, you know, listen to
+
+01:25:00.320 --> 01:25:05.600
+stimulating podcasts. There's There's I
+
+01:25:03.440 --> 01:25:06.000
+do a lot of work in the car, strangely
+
+01:25:05.600 --> 01:25:06.400
+enough.
+
+01:25:06.000 --> 01:25:08.200
+>> Yeah.
+
+01:25:06.400 --> 01:25:11.800
+>> Take voice memos.
+
+01:25:08.200 --> 01:25:13.680
+Um the other thing is I spent years in
+
+01:25:11.800 --> 01:25:16.320
+corporate traveling. Well, in one year I
+
+01:25:13.680 --> 01:25:19.120
+traveled 125,000 mi through the air
+
+01:25:16.320 --> 01:25:21.960
+domestic. And so
+
+01:25:19.120 --> 01:25:24.120
+it I I would be remiss in saying like
+
+01:25:21.960 --> 01:25:27.200
+you've got to have a supportive spouse.
+
+01:25:24.120 --> 01:25:29.680
+And my wife certainly is. She's
+
+01:25:27.200 --> 01:25:31.720
+wonderful. Uh she not only home schools
+
+01:25:29.680 --> 01:25:33.640
+the kids, but you know, her dad was a
+
+01:25:31.720 --> 01:25:35.280
+surgeon. And so she said, "The fact that
+
+01:25:33.640 --> 01:25:38.160
+you're home every night
+
+01:25:35.280 --> 01:25:40.440
+now, you're not on the road." And she
+
+01:25:38.160 --> 01:25:43.400
+said, "All I ask is that you're present
+
+01:25:40.440 --> 01:25:45.640
+when you are home." And so that's been
+
+01:25:43.400 --> 01:25:47.680
+huge. But I mean, I'm I'm very blessed.
+
+01:25:45.640 --> 01:25:49.400
+She makes me
+
+01:25:47.680 --> 01:25:51.880
+breakfast and dinner and it's waiting in
+
+01:25:49.400 --> 01:25:53.400
+the car when I hop in or breakfast and
+
+01:25:51.880 --> 01:25:55.320
+lunch, excuse me.
+
+01:25:53.400 --> 01:25:57.400
+So [snorts] I would say you have to have
+
+01:25:55.320 --> 01:25:59.760
+the support of your family because if
+
+01:25:57.400 --> 01:26:01.920
+you don't, it's just going to sap you.
+
+01:25:59.760 --> 01:26:04.120
+And if I didn't have that, it would be
+
+01:26:01.920 --> 01:26:06.400
+too long. But the fact that I can still
+
+01:26:04.120 --> 01:26:09.520
+participate in my kids' lives and my
+
+01:26:06.400 --> 01:26:11.960
+family's life um because my wife's
+
+01:26:09.520 --> 01:26:15.840
+bought in and my kids are bought in,
+
+01:26:11.960 --> 01:26:16.800
+too, um has been has been huge.
+
+01:26:15.840 --> 01:26:18.720
+>> How much are you working on the
+
+01:26:16.800 --> 01:26:22.200
+weekends, if at all?
+
+01:26:18.720 --> 01:26:24.480
+>> Uh I'll work from home. I don't go I we
+
+01:26:22.200 --> 01:26:26.760
+don't we haven't had to run much on the
+
+01:26:24.480 --> 01:26:29.360
+weekends. Um and I've got a good team
+
+01:26:26.760 --> 01:26:32.160
+here that when we do, they they've taken
+
+01:26:29.360 --> 01:26:34.520
+care of things. Um I'll work from my
+
+01:26:32.160 --> 01:26:38.920
+home office on the weekends some.
+
+01:26:34.520 --> 01:26:39.680
+Um but it it hasn't been overly overly
+
+01:26:38.920 --> 01:26:41.440
+burdensome.
+
+01:26:39.680 --> 01:26:44.640
+>> And Caleb, what about working with your
+
+01:26:41.440 --> 01:26:46.120
+dad to the extent that he's active in in
+
+01:26:44.640 --> 01:26:48.440
+his ownership? What what what are the
+
+01:26:46.120 --> 01:26:50.360
+structure of that look like, by the way?
+
+01:26:48.440 --> 01:26:51.120
+Is he Did he contribute equity to the
+
+01:26:50.360 --> 01:26:51.640
+acquisition?
+
+01:26:51.120 --> 01:26:53.520
+>> Yeah.
+
+01:26:51.640 --> 01:26:56.800
+>> Um and was that part of kind of what
+
+01:26:53.520 --> 01:26:59.040
+this partnership was was about? Uh and
+
+01:26:56.800 --> 01:27:00.000
+or his active involvement? Or say more
+
+01:26:59.040 --> 01:27:02.720
+about that.
+
+01:27:00.000 --> 01:27:05.040
+>> Yeah, he's he's definitely
+
+01:27:02.720 --> 01:27:06.760
+an equity partner um from that
+
+01:27:05.040 --> 01:27:09.160
+perspective, which allowed me to go
+
+01:27:06.760 --> 01:27:11.840
+faster, I think.
+
+01:27:09.160 --> 01:27:13.440
+It also
+
+01:27:11.840 --> 01:27:14.760
+you know, when I was first thinking
+
+01:27:13.440 --> 01:27:16.320
+about it, I thought I would have to
+
+01:27:14.760 --> 01:27:17.440
+raise
+
+01:27:16.320 --> 01:27:17.640
+investment
+
+01:27:17.440 --> 01:27:19.920
+>> [snorts]
+
+01:27:17.640 --> 01:27:23.080
+>> to do this as quickly in soon in my
+
+01:27:19.920 --> 01:27:24.720
+career as I wanted to do. Um but having
+
+01:27:23.080 --> 01:27:27.280
+my father allowed me to go faster
+
+01:27:24.720 --> 01:27:30.280
+because I also knew we were on the same
+
+01:27:27.280 --> 01:27:32.680
+page about the vision and the values.
+
+01:27:30.280 --> 01:27:35.680
+And so that was that was extremely
+
+01:27:32.680 --> 01:27:38.680
+critical as with any partner. Um and
+
+01:27:35.680 --> 01:27:41.560
+then he's he's extraordinarily
+
+01:27:38.680 --> 01:27:44.240
+I I would say deferential to me, which
+
+01:27:41.560 --> 01:27:47.000
+has been amazing. I mean, he just tries
+
+01:27:44.240 --> 01:27:49.640
+to support He has a lot of wisdom, so
+
+01:27:47.000 --> 01:27:52.520
+it's been a huge blessing when I when
+
+01:27:49.640 --> 01:27:54.120
+I'm thinking through something in my
+
+01:27:52.520 --> 01:27:56.320
+head um
+
+01:27:54.120 --> 01:27:58.720
+to have someone that I can talk to,
+
+01:27:56.320 --> 01:28:00.800
+right? And bounce ideas off of who has a
+
+01:27:58.720 --> 01:28:03.000
+business background. Like I said, his
+
+01:28:00.800 --> 01:28:05.600
+skill set is is very different than
+
+01:28:03.000 --> 01:28:06.400
+mine, but complementary. And so in terms
+
+01:28:05.600 --> 01:28:08.960
+of
+
+01:28:06.400 --> 01:28:11.320
+speaking with our CPAs, I mean, he he
+
+01:28:08.960 --> 01:28:13.760
+can handle reviewing the tax return,
+
+01:28:11.320 --> 01:28:15.600
+right? Which seems like a small thing,
+
+01:28:13.760 --> 01:28:17.040
+but to be able to hand that off to him
+
+01:28:15.600 --> 01:28:18.400
+and he can rip through it and say,
+
+01:28:17.040 --> 01:28:22.480
+"Yeah, it's all good." and send it back
+
+01:28:18.400 --> 01:28:25.080
+to our CPAs is is fantastic. Um
+
+01:28:22.480 --> 01:28:27.520
+and then just that trust. I mean, I
+
+01:28:25.080 --> 01:28:29.720
+can't say it enough. It to have to have
+
+01:28:27.520 --> 01:28:31.480
+that trust from him where he doesn't
+
+01:28:29.720 --> 01:28:33.760
+meddle, he's not
+
+01:28:31.480 --> 01:28:35.960
+all up in the business,
+
+01:28:33.760 --> 01:28:37.880
+um but he also knows what's going on,
+
+01:28:35.960 --> 01:28:41.120
+right? And he knows the people and he
+
+01:28:37.880 --> 01:28:43.640
+really does care and and I you know,
+
+01:28:41.120 --> 01:28:46.080
+funny story, they said um "What do we
+
+01:28:43.640 --> 01:28:48.280
+call you?" cuz his name's Caleb as well.
+
+01:28:46.080 --> 01:28:50.440
+Uh I'm actually Caleb the III and
+
+01:28:48.280 --> 01:28:51.400
+and [snorts] he said
+
+01:28:50.440 --> 01:28:52.640
+uh
+
+01:28:51.400 --> 01:28:54.400
+I
+
+01:28:52.640 --> 01:28:55.800
+Well, wait, this was when we first
+
+01:28:54.400 --> 01:28:57.200
+bought the business and and one of the
+
+01:28:55.800 --> 01:28:59.360
+employees said, "So, what do we call
+
+01:28:57.200 --> 01:29:01.440
+you?" to him. And he said, "Well, you
+
+01:28:59.360 --> 01:29:03.680
+can call me dad." And he said, "Well,
+
+01:29:01.440 --> 01:29:05.800
+what if my dad already works here?" Cuz
+
+01:29:03.680 --> 01:29:07.520
+there was another father-son duo. But
+
+01:29:05.800 --> 01:29:10.360
+that's just the relationship he has.
+
+01:29:07.520 --> 01:29:14.400
+It's very friendly and um he really does
+
+01:29:10.360 --> 01:29:16.120
+care about about the team and and he'll
+
+01:29:14.400 --> 01:29:18.240
+also help with some leadership things.
+
+01:29:16.120 --> 01:29:19.560
+He's given people books to read when
+
+01:29:18.240 --> 01:29:21.160
+they say that they're struggling with
+
+01:29:19.560 --> 01:29:23.560
+something. He's like, "Here, this book
+
+01:29:21.160 --> 01:29:25.520
+helped me. I think it would help you,
+
+01:29:23.560 --> 01:29:27.560
+right?" And so,
+
+01:29:25.520 --> 01:29:30.200
+he's involved in those ways.
+
+01:29:27.560 --> 01:29:32.160
+>> What a blessing. It sounds like a great
+
+01:29:30.200 --> 01:29:33.760
+um way to be
+
+01:29:32.160 --> 01:29:34.960
+having your father in your life and
+
+01:29:33.760 --> 01:29:36.240
+being in each other's lives.
+
+01:29:34.960 --> 01:29:37.400
+>> absolutely.
+
+01:29:36.240 --> 01:29:39.440
+>> Well, [snorts] thanks for coming on,
+
+01:29:37.400 --> 01:29:41.040
+Caleb Standifer. We'll include a link to
+
+01:29:39.440 --> 01:29:42.960
+your LinkedIn in the show notes so that
+
+01:29:41.040 --> 01:29:45.640
+it can people so that people can reach
+
+01:29:42.960 --> 01:29:47.160
+out uh if they have any questions. And
+
+01:29:45.640 --> 01:29:49.360
+we appreciate your time.
+
+01:29:47.160 --> 01:29:50.480
+>> Absolutely. Thanks so much, Will. Take
+
+01:29:49.360 --> 01:29:52.360
+care.
+
+01:29:50.480 --> 01:29:54.200
+>> Hope you enjoyed that interview. Don't
+
+01:29:52.360 --> 01:29:56.840
+forget to subscribe to the Acquiring
+
+01:29:54.200 --> 01:29:59.240
+Minds newsletter. We send an email for
+
+01:29:56.840 --> 01:30:01.400
+every episode with an introduction to
+
+01:29:59.240 --> 01:30:04.600
+the interview, a link to the video
+
+01:30:01.400 --> 01:30:07.640
+version on YouTube, and soon key
+
+01:30:04.600 --> 01:30:09.680
+takeaways, numbers, and more essentials
+
+01:30:07.640 --> 01:30:12.320
+from the interview for those of you who
+
+01:30:09.680 --> 01:30:15.760
+don't have time to listen or watch it.
+
+01:30:12.320 --> 01:30:17.920
+Subscribe at acquiringminds.co.
+
+01:30:15.760 --> 01:30:20.160
+You'll also find all our webinars there
+
+01:30:17.920 --> 01:30:22.600
+on the website, both those we have
+
+01:30:20.160 --> 01:30:23.800
+coming up and recordings of past
+
+01:30:22.600 --> 01:30:26.200
+webinars.
+
+01:30:23.800 --> 01:30:29.160
+At this point, there are over 30 webinar
+
+01:30:26.200 --> 01:30:31.440
+recordings, a wealth of information on
+
+01:30:29.160 --> 01:30:35.520
+all the technical nitty-gritty of buying
+
+01:30:31.440 --> 01:30:35.520
+a business. acquiringminds.co
+

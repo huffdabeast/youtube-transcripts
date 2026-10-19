@@ -1,0 +1,2555 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:04.080
+So, the other day I come across this guy
+
+00:00:01.680 --> 00:00:05.759
+named Danny. And Danny went in to get a
+
+00:00:04.080 --> 00:00:07.680
+haircut. And he talked to his barber
+
+00:00:05.759 --> 00:00:09.440
+who's very busy and said, "Hey, have you
+
+00:00:07.680 --> 00:00:11.360
+ever thought about using a voice agent
+
+00:00:09.440 --> 00:00:12.639
+to answer your calls for you while
+
+00:00:11.360 --> 00:00:14.080
+you're cutting hair? That way you don't
+
+00:00:12.639 --> 00:00:16.000
+miss out on customers." And he said,
+
+00:00:14.080 --> 00:00:17.760
+"That sounds awesome." Danny said, "Why
+
+00:00:16.000 --> 00:00:19.840
+don't I build that for you for free?" He
+
+00:00:17.760 --> 00:00:22.480
+built it for him and it changed the game
+
+00:00:19.840 --> 00:00:25.199
+for this barber. Now Danny builds voice
+
+00:00:22.480 --> 00:00:27.599
+agents for barbers and he charges $2,500
+
+00:00:25.199 --> 00:00:29.519
+to $5,000 upfront plus hundreds of
+
+00:00:27.599 --> 00:00:31.519
+dollars a month to maintain it. But the
+
+00:00:29.519 --> 00:00:33.520
+thing is is that these voice agents can
+
+00:00:31.519 --> 00:00:35.120
+be created with just a few clicks. You
+
+00:00:33.520 --> 00:00:36.880
+can train them just by dragging a
+
+00:00:35.120 --> 00:00:38.960
+screenshot over from their Google
+
+00:00:36.880 --> 00:00:40.960
+business profile. That's it. Or just by
+
+00:00:38.960 --> 00:00:42.640
+linking their website. Better yet, you
+
+00:00:40.960 --> 00:00:44.480
+can sell to the barbers as you're
+
+00:00:42.640 --> 00:00:46.480
+getting your haircut by pulling out your
+
+00:00:44.480 --> 00:00:48.879
+phone, updating the voice agent on your
+
+00:00:46.480 --> 00:00:50.239
+phone, so it answers as Bob's barber
+
+00:00:48.879 --> 00:00:51.840
+shop or whatever the name is of the
+
+00:00:50.239 --> 00:00:53.520
+barber shop that you're at, right? Then
+
+00:00:51.840 --> 00:00:55.600
+then you could have it call the barber
+
+00:00:53.520 --> 00:00:58.160
+as he's cutting your hair and use that
+
+00:00:55.600 --> 00:00:59.680
+as a sales tool. I am hyped about this
+
+00:00:58.160 --> 00:01:02.079
+interview. You are going to love it.
+
+00:00:59.680 --> 00:01:03.840
+Danny got a start about 11 years ago
+
+00:01:02.079 --> 00:01:06.080
+helping people optimize their Yelp
+
+00:01:03.840 --> 00:01:08.080
+profiles. And he said there was a very
+
+00:01:06.080 --> 00:01:09.439
+small window of time on Yelp where you
+
+00:01:08.080 --> 00:01:11.680
+could make a lot of money doing this and
+
+00:01:09.439 --> 00:01:13.840
+then it went away. And he said today
+
+00:01:11.680 --> 00:01:16.159
+that same small window of time exists
+
+00:01:13.840 --> 00:01:17.920
+with creating voice agents for local
+
+00:01:16.159 --> 00:01:19.759
+businesses. I've talked about this a few
+
+00:01:17.920 --> 00:01:21.680
+times on the pod before. You guys love
+
+00:01:19.759 --> 00:01:23.280
+it every single time. This is the first
+
+00:01:21.680 --> 00:01:24.880
+time I've interviewed a business owner
+
+00:01:23.280 --> 00:01:26.320
+that's actually doing it. I've done it a
+
+00:01:24.880 --> 00:01:28.000
+couple times. I have two different
+
+00:01:26.320 --> 00:01:29.920
+episodes where I launch a voice agent
+
+00:01:28.000 --> 00:01:31.600
+business live, but this is kind of a
+
+00:01:29.920 --> 00:01:33.040
+different beast altogether. I promise
+
+00:01:31.600 --> 00:01:35.200
+you'll love it. Oh, and if you end up
+
+00:01:33.040 --> 00:01:36.560
+starting this agency or any agency built
+
+00:01:35.200 --> 00:01:38.079
+on top of High Level, it would mean the
+
+00:01:36.560 --> 00:01:39.520
+world to me if you use my affiliate link
+
+00:01:38.079 --> 00:01:44.119
+in the comments below. You'll get 30
+
+00:01:39.520 --> 00:01:44.119
+days free instead of the normal 14.
+
+00:01:44.640 --> 00:01:48.399
+Let's go talk to Danny, one of my
+
+00:01:46.399 --> 00:01:50.399
+barbers. I call him my therapist cuz I
+
+00:01:48.399 --> 00:01:53.520
+talk to him all every week, right? And
+
+00:01:50.399 --> 00:01:54.720
+just it's cheaper than therapy. And so I
+
+00:01:53.520 --> 00:01:56.240
+was going I was like, "Hey, let me
+
+00:01:54.720 --> 00:01:57.920
+rebuild your website because it didn't
+
+00:01:56.240 --> 00:01:59.520
+look that good and let me start doing
+
+00:01:57.920 --> 00:02:01.840
+some stuff on GoHigh Level." He's the
+
+00:01:59.520 --> 00:02:04.240
+number one barber in Huntington Beach,
+
+00:02:01.840 --> 00:02:06.880
+California. And so I felt like if I did
+
+00:02:04.240 --> 00:02:09.119
+this for him for free, he's in one of
+
+00:02:06.880 --> 00:02:10.560
+those um buildings where there's all
+
+00:02:09.119 --> 00:02:11.840
+like these like
+
+00:02:10.560 --> 00:02:12.319
+>> salon suites.
+
+00:02:11.840 --> 00:02:14.000
+>> Yeah.
+
+00:02:12.319 --> 00:02:16.000
+>> 20 business owners in one room.
+
+00:02:14.000 --> 00:02:18.160
+>> In one room. And and I don't that's
+
+00:02:16.000 --> 00:02:19.680
+that's my lead cycle right there. And so
+
+00:02:18.160 --> 00:02:22.560
+I was like, "Let me build you this
+
+00:02:19.680 --> 00:02:24.080
+website. you'd be my test dummy at the
+
+00:02:22.560 --> 00:02:25.920
+end of the day. I'll do this all for
+
+00:02:24.080 --> 00:02:28.480
+free. I build him the website. I build
+
+00:02:25.920 --> 00:02:31.280
+him this AI agent and he was absolutely
+
+00:02:28.480 --> 00:02:32.879
+amazed by the AI agent because there's
+
+00:02:31.280 --> 00:02:36.560
+kind of two type of barbers. There's one
+
+00:02:32.879 --> 00:02:38.959
+barber where he's absolutely busy and he
+
+00:02:36.560 --> 00:02:40.720
+can't take any c like any phone calls
+
+00:02:38.959 --> 00:02:42.720
+because he's just constantly booked and
+
+00:02:40.720 --> 00:02:44.239
+there's another barber who is just not
+
+00:02:42.720 --> 00:02:46.000
+that booked. You right. And so
+
+00:02:44.239 --> 00:02:47.920
+>> he's like nothing in between.
+
+00:02:46.000 --> 00:02:49.599
+>> Yeah, exactly. And so he's the booked
+
+00:02:47.920 --> 00:02:51.599
+guy. And so he was I was like, "Let me
+
+00:02:49.599 --> 00:02:53.440
+implement an AI agent because how many
+
+00:02:51.599 --> 00:02:55.120
+people are calling you and you just
+
+00:02:53.440 --> 00:02:57.599
+might miss opportunity from just a
+
+00:02:55.120 --> 00:03:00.239
+scheduled link, right?" And so we
+
+00:02:57.599 --> 00:03:02.560
+implemented an AI agent so that whenever
+
+00:03:00.239 --> 00:03:05.920
+he doesn't answer, instead of going to
+
+00:03:02.560 --> 00:03:07.680
+voicemail, the agent picks up, ask him
+
+00:03:05.920 --> 00:03:09.680
+all of these questions. We we kind of
+
+00:03:07.680 --> 00:03:11.599
+fed him all of the business information.
+
+00:03:09.680 --> 00:03:12.720
+>> You're saying that voice call him, he's
+
+00:03:11.599 --> 00:03:14.640
+in the middle of cutting, he can't
+
+00:03:12.720 --> 00:03:16.640
+answer. So a voice agent picks up,
+
+00:03:14.640 --> 00:03:17.840
+>> correct? and asks a bunch of questions
+
+00:03:16.640 --> 00:03:19.760
+and fills out a form.
+
+00:03:17.840 --> 00:03:21.040
+>> Yeah. Like we just gave them all the
+
+00:03:19.760 --> 00:03:22.879
+information, but if they want to
+
+00:03:21.040 --> 00:03:25.760
+schedule something, then it would give
+
+00:03:22.879 --> 00:03:27.599
+them the direct link for them to book an
+
+00:03:25.760 --> 00:03:30.319
+appointment right away. I mean, he was
+
+00:03:27.599 --> 00:03:33.599
+getting bookings from that link just the
+
+00:03:30.319 --> 00:03:36.080
+day we turned it on. And so it gave him
+
+00:03:33.599 --> 00:03:37.680
+the freedom to know that like, hey, this
+
+00:03:36.080 --> 00:03:40.480
+works and I don't really have to stress
+
+00:03:37.680 --> 00:03:42.239
+about new clients and like I understand
+
+00:03:40.480 --> 00:03:44.879
+that time's money and stuff like that,
+
+00:03:42.239 --> 00:03:46.640
+but this helped a lot. So, you made this
+
+00:03:44.879 --> 00:03:48.560
+voice agent and you said there was a
+
+00:03:46.640 --> 00:03:50.720
+scheduling link. Tell me how that worked
+
+00:03:48.560 --> 00:03:52.319
+specifically. If the person said, "Yeah,
+
+00:03:50.720 --> 00:03:54.560
+can I just like book a time with you?"
+
+00:03:52.319 --> 00:03:56.080
+Would it text them that link or would it
+
+00:03:54.560 --> 00:03:56.959
+ask them questions and then fill out the
+
+00:03:56.080 --> 00:03:58.239
+form for them?
+
+00:03:56.959 --> 00:03:59.439
+>> They would text them that link. We
+
+00:03:58.239 --> 00:04:01.680
+thought it would that was the easiest
+
+00:03:59.439 --> 00:04:03.760
+way. Most of them are techsavvy anyways
+
+00:04:01.680 --> 00:04:06.640
+in today's day and age. And it'll give
+
+00:04:03.760 --> 00:04:08.720
+them a link to then book them directly
+
+00:04:06.640 --> 00:04:09.519
+with their own booking system that they
+
+00:04:08.720 --> 00:04:11.280
+they use.
+
+00:04:09.519 --> 00:04:14.080
+>> Okay. Is your agent telling them that
+
+00:04:11.280 --> 00:04:15.360
+this is a like an AI voice agent or is
+
+00:04:14.080 --> 00:04:16.400
+it just kind of talking to them as if
+
+00:04:15.360 --> 00:04:18.560
+it's a person?
+
+00:04:16.400 --> 00:04:19.919
+>> No, it's full person. We use go high
+
+00:04:18.560 --> 00:04:22.000
+level. There's a couple that you could
+
+00:04:19.919 --> 00:04:24.160
+test out. We liked the girl version of
+
+00:04:22.000 --> 00:04:25.919
+it. I mean, unless you ask, I think it
+
+00:04:24.160 --> 00:04:28.400
+tells you that you're an agent, but
+
+00:04:25.919 --> 00:04:29.759
+>> just conversating with it. It was
+
+00:04:28.400 --> 00:04:31.680
+really, really good.
+
+00:04:29.759 --> 00:04:33.680
+>> Are people asking? Do you know?
+
+00:04:31.680 --> 00:04:36.400
+>> No. I mean, so Gohigh Level gives you
+
+00:04:33.680 --> 00:04:37.840
+like the transcript of of the agent. So,
+
+00:04:36.400 --> 00:04:39.600
+they're they're asking for the booking
+
+00:04:37.840 --> 00:04:41.840
+link. are asking when do you open?
+
+00:04:39.600 --> 00:04:42.560
+They're asking questions about the
+
+00:04:41.840 --> 00:04:44.080
+business and
+
+00:04:42.560 --> 00:04:44.880
+>> they probably don't know.
+
+00:04:44.080 --> 00:04:46.080
+>> Yeah. So,
+
+00:04:44.880 --> 00:04:47.280
+>> if they did know, it wouldn't make a
+
+00:04:46.080 --> 00:04:48.240
+difference because they're getting their
+
+00:04:47.280 --> 00:04:48.560
+question answered and that's all they
+
+00:04:48.240 --> 00:04:50.800
+want.
+
+00:04:48.560 --> 00:04:52.800
+>> Exactly. Exactly. At this point, that's
+
+00:04:50.800 --> 00:04:54.479
+that's what everyone wants. Like, give
+
+00:04:52.800 --> 00:04:54.720
+me the answer to the question.
+
+00:04:54.479 --> 00:04:56.080
+>> Yeah.
+
+00:04:54.720 --> 00:04:57.919
+>> I don't want to wait on the phone for a
+
+00:04:56.080 --> 00:04:59.440
+human being if you know if I could if
+
+00:04:57.919 --> 00:05:00.560
+it's an easy book. Now, if it's the
+
+00:04:59.440 --> 00:05:01.840
+medical practice and stuff like that,
+
+00:05:00.560 --> 00:05:04.800
+there's a whole different story. We want
+
+00:05:01.840 --> 00:05:07.120
+them to talk to someone on the reps side
+
+00:05:04.800 --> 00:05:09.199
+>> or book a or book a call with them,
+
+00:05:07.120 --> 00:05:11.919
+right? because now a lot of medical
+
+00:05:09.199 --> 00:05:13.199
+doing practices are are doing the u
+
+00:05:11.919 --> 00:05:13.680
+membership route too.
+
+00:05:13.199 --> 00:05:14.800
+>> Yeah.
+
+00:05:13.680 --> 00:05:17.120
+>> Which is what we're going to be
+
+00:05:14.800 --> 00:05:18.479
+implementing in GoHigh level as well for
+
+00:05:17.120 --> 00:05:20.960
+subscriptions. So
+
+00:05:18.479 --> 00:05:22.560
+>> So if this barber is cutting hair, are
+
+00:05:20.960 --> 00:05:24.080
+people calling like his personal cell
+
+00:05:22.560 --> 00:05:25.759
+phone number and if he doesn't pick up
+
+00:05:24.080 --> 00:05:28.160
+in like a certain amount of rings then
+
+00:05:25.759 --> 00:05:30.000
+it transfers to the voice agent or like
+
+00:05:28.160 --> 00:05:31.759
+logistically how does it work?
+
+00:05:30.000 --> 00:05:34.320
+>> Yeah, so he has his own work number that
+
+00:05:31.759 --> 00:05:36.479
+we connected. So we there's two ways. It
+
+00:05:34.320 --> 00:05:40.560
+could go right away if they call the
+
+00:05:36.479 --> 00:05:42.880
+voice agent picks up or in ring ring
+
+00:05:40.560 --> 00:05:44.960
+ring instead of a voicemail the voice
+
+00:05:42.880 --> 00:05:47.600
+agent will pick up. We decided to do the
+
+00:05:44.960 --> 00:05:50.400
+second option because in case he was at
+
+00:05:47.600 --> 00:05:52.000
+a lunch or had some time to pick up he
+
+00:05:50.400 --> 00:05:53.600
+would love to still pick up communicate
+
+00:05:52.000 --> 00:05:55.680
+with his customers if he can.
+
+00:05:53.600 --> 00:05:57.120
+>> So you already told me this in the
+
+00:05:55.680 --> 00:05:58.880
+beginning I'm remembering now but you
+
+00:05:57.120 --> 00:06:00.720
+just replaced his voicemail with the
+
+00:05:58.880 --> 00:06:01.280
+voice agent. Period. Right.
+
+00:06:00.720 --> 00:06:04.479
+>> Exactly.
+
+00:06:01.280 --> 00:06:05.759
+>> Okay. Super easy. So, if he's free, he
+
+00:06:04.479 --> 00:06:08.160
+wants to answer, he answers, and it's
+
+00:06:05.759 --> 00:06:10.240
+him. Do you have any metrics on like
+
+00:06:08.160 --> 00:06:12.720
+what type of call volume he's getting,
+
+00:06:10.240 --> 00:06:14.639
+like how many voice agent conversations
+
+00:06:12.720 --> 00:06:15.199
+are happening on a daily or weekly basis
+
+00:06:14.639 --> 00:06:16.400
+for him?
+
+00:06:15.199 --> 00:06:18.240
+>> We're still figuring out the go high
+
+00:06:16.400 --> 00:06:20.960
+level side of it. This was the the free
+
+00:06:18.240 --> 00:06:22.800
+side that we had. So, the metrics we do
+
+00:06:20.960 --> 00:06:25.520
+have are I would have to pull them up,
+
+00:06:22.800 --> 00:06:28.479
+but they're all good. I don't know if
+
+00:06:25.520 --> 00:06:29.759
+I'm doing ballpark numbers. He told me
+
+00:06:28.479 --> 00:06:31.199
+specifically because I ask him every
+
+00:06:29.759 --> 00:06:32.960
+week. He's like, "This this thing made
+
+00:06:31.199 --> 00:06:35.520
+me lazy to a point where I don't want to
+
+00:06:32.960 --> 00:06:37.520
+pick up." So most of the time he is just
+
+00:06:35.520 --> 00:06:38.240
+not picking up and letting it go.
+
+00:06:37.520 --> 00:06:38.720
+>> Good.
+
+00:06:38.240 --> 00:06:40.639
+>> Yeah.
+
+00:06:38.720 --> 00:06:42.400
+>> I mean, that's cuz he's seen that it's
+
+00:06:40.639 --> 00:06:44.080
+as good or better than him anyway.
+
+00:06:42.400 --> 00:06:45.680
+>> Correct. And he's trusting it. Yeah.
+
+00:06:44.080 --> 00:06:47.360
+>> Keep watching Netflix with your wife.
+
+00:06:45.680 --> 00:06:48.720
+Like
+
+00:06:47.360 --> 00:06:51.199
+And that's what I was saying. I was like
+
+00:06:48.720 --> 00:06:53.120
+that this gives you the the option to
+
+00:06:51.199 --> 00:06:55.120
+leave your phone open at all times,
+
+00:06:53.120 --> 00:06:57.600
+>> right? like this is what AI is supposed
+
+00:06:55.120 --> 00:07:00.240
+to do is actually give us more time and
+
+00:06:57.600 --> 00:07:02.240
+in most cases it's it's not yet. It's
+
+00:07:00.240 --> 00:07:03.840
+still too early, right? But it it really
+
+00:07:02.240 --> 00:07:06.000
+seems like I keep coming back to voice
+
+00:07:03.840 --> 00:07:08.080
+agents by accident, right? Like voice
+
+00:07:06.000 --> 00:07:10.240
+agents are just such a good use case for
+
+00:07:08.080 --> 00:07:12.479
+AI right now that fits so many
+
+00:07:10.240 --> 00:07:14.960
+businesses because there's 33 million
+
+00:07:12.479 --> 00:07:16.240
+small businesses and like the vast
+
+00:07:14.960 --> 00:07:17.039
+majority of them could use a voice
+
+00:07:16.240 --> 00:07:18.560
+agent.
+
+00:07:17.039 --> 00:07:20.400
+>> Yeah. Right. And that's the whole theory
+
+00:07:18.560 --> 00:07:22.560
+of like the Yelp that I'm saying or like
+
+00:07:20.400 --> 00:07:23.919
+this is that Yelp back
+
+00:07:22.560 --> 00:07:24.240
+>> the Yelp moment.
+
+00:07:23.919 --> 00:07:25.039
+>> Yeah.
+
+00:07:24.240 --> 00:07:26.560
+>> Correct.
+
+00:07:25.039 --> 00:07:28.400
+>> Or like the Google business profile
+
+00:07:26.560 --> 00:07:31.120
+moment or like the Facebook ads moment
+
+00:07:28.400 --> 00:07:33.120
+or the the PPC the pay-per-click moment
+
+00:07:31.120 --> 00:07:35.120
+in Google Ads when you know you could
+
+00:07:33.120 --> 00:07:37.840
+buy clicks for two cents and those same
+
+00:07:35.120 --> 00:07:40.319
+clicks today are $2. You know,
+
+00:07:37.840 --> 00:07:42.240
+>> these windows don't last forever. But in
+
+00:07:40.319 --> 00:07:44.400
+a way they last a lot longer than we
+
+00:07:42.240 --> 00:07:47.120
+think, right? Like they're easy for a
+
+00:07:44.400 --> 00:07:49.120
+short window of time, easier. But then
+
+00:07:47.120 --> 00:07:51.520
+like today, people are still starting
+
+00:07:49.120 --> 00:07:53.520
+web design agencies and finding success
+
+00:07:51.520 --> 00:07:55.199
+like they did in the 90s. Like yeah,
+
+00:07:53.520 --> 00:07:57.440
+I've heard so many stories of people in
+
+00:07:55.199 --> 00:07:59.039
+the 90s that learned HTML, that built
+
+00:07:57.440 --> 00:08:00.560
+websites for small businesses, and it's
+
+00:07:59.039 --> 00:08:02.160
+like that was their first side hustle.
+
+00:08:00.560 --> 00:08:03.599
+Now they're a billionaire. Today, people
+
+00:08:02.160 --> 00:08:04.879
+are still they're not having to learn
+
+00:08:03.599 --> 00:08:06.479
+HTML, but they're still building
+
+00:08:04.879 --> 00:08:08.240
+websites for small businesses. You know,
+
+00:08:06.479 --> 00:08:10.319
+like in a sense, these opportunities
+
+00:08:08.240 --> 00:08:11.840
+last for a while, and in another sense,
+
+00:08:10.319 --> 00:08:13.039
+they're only really really good for a
+
+00:08:11.840 --> 00:08:13.919
+short amount of time.
+
+00:08:13.039 --> 00:08:15.280
+>> Yeah. Correct.
+
+00:08:13.919 --> 00:08:16.879
+>> Now, you didn't charge him for this,
+
+00:08:15.280 --> 00:08:18.560
+right? Did you ever charge him after the
+
+00:08:16.879 --> 00:08:20.720
+fact or he's never paid?
+
+00:08:18.560 --> 00:08:23.520
+>> So, I mean, I would get a haircut every
+
+00:08:20.720 --> 00:08:25.440
+week and that's like now he gives me
+
+00:08:23.520 --> 00:08:27.680
+free haircuts. You know, he doesn't
+
+00:08:25.440 --> 00:08:30.080
+allow I I try and he doesn't allow me
+
+00:08:27.680 --> 00:08:32.719
+and he's pretty expensive. It's like $50
+
+00:08:30.080 --> 00:08:36.240
+a haircut per week. So, ideally, it's
+
+00:08:32.719 --> 00:08:37.599
+around $200, but we have this was I told
+
+00:08:36.240 --> 00:08:38.959
+them from the get-go like, "Hey, I
+
+00:08:37.599 --> 00:08:40.560
+wanted to test this out for you because
+
+00:08:38.959 --> 00:08:43.360
+like this is you're like you're my lead
+
+00:08:40.560 --> 00:08:45.839
+magnet. Not only do you have 20 other
+
+00:08:43.360 --> 00:08:49.120
+businesses in here, but the medical guy
+
+00:08:45.839 --> 00:08:52.000
+like he wasn't a haircut person and he
+
+00:08:49.120 --> 00:08:54.160
+referred me because of talking at a
+
+00:08:52.000 --> 00:08:56.560
+barber. Like that's a hack to me because
+
+00:08:54.160 --> 00:08:57.920
+like this is a talking advertisement. If
+
+00:08:56.560 --> 00:08:59.680
+you're doing good, right? If you really
+
+00:08:57.920 --> 00:09:00.800
+connect with them and and you're, you
+
+00:08:59.680 --> 00:09:02.800
+know, you have a really good
+
+00:09:00.800 --> 00:09:04.959
+relationship with them, it's an easy
+
+00:09:02.800 --> 00:09:07.120
+advertisement that's going on for free.
+
+00:09:04.959 --> 00:09:08.800
+>> Yeah. Have you ever asked him now that
+
+00:09:07.120 --> 00:09:10.480
+he knows how much value you've added
+
+00:09:08.800 --> 00:09:12.480
+like what would you have paid me? like
+
+00:09:10.480 --> 00:09:14.240
+play that kind of what if game. Had I
+
+00:09:12.480 --> 00:09:16.000
+been able to run crystal ball and show
+
+00:09:14.240 --> 00:09:17.839
+you how much
+
+00:09:16.000 --> 00:09:19.920
+>> convenience this would add to your life,
+
+00:09:17.839 --> 00:09:21.760
+what would this would be worth to you?
+
+00:09:19.920 --> 00:09:23.200
+>> Yeah, I played that right right at the
+
+00:09:21.760 --> 00:09:25.440
+get-go cuz we're cool like that and I
+
+00:09:23.200 --> 00:09:28.320
+was like, "Hey, what would you pay for
+
+00:09:25.440 --> 00:09:31.120
+something like this?" And he paid
+
+00:09:28.320 --> 00:09:34.640
+already $1,000 for like a bad website
+
+00:09:31.120 --> 00:09:37.200
+just recently. And so creating a website
+
+00:09:34.640 --> 00:09:38.720
+that looks amazing and then having a KPI
+
+00:09:37.200 --> 00:09:40.959
+dashboard attached to it to now
+
+00:09:38.720 --> 00:09:42.480
+understand your business because he
+
+00:09:40.959 --> 00:09:44.000
+didn't go to school for business. He
+
+00:09:42.480 --> 00:09:46.720
+went to school for barbering and cutting
+
+00:09:44.000 --> 00:09:48.800
+hair. So this value adds I mean it's a
+
+00:09:46.720 --> 00:09:50.880
+tremendous value for him because now he
+
+00:09:48.800 --> 00:09:52.480
+really gets to pop up under the hood and
+
+00:09:50.880 --> 00:09:54.880
+figure out his business and figure out
+
+00:09:52.480 --> 00:09:58.160
+marketing, figure out SMS and stuff. So
+
+00:09:54.880 --> 00:10:01.519
+easily $2,500 to answer a question and
+
+00:09:58.160 --> 00:10:03.600
+easily a $200 a month fee. Now, that's
+
+00:10:01.519 --> 00:10:05.519
+just him. I've asked a couple other
+
+00:10:03.600 --> 00:10:07.920
+people. It could go from as low as a
+
+00:10:05.519 --> 00:10:10.080
+thousand to, you know, maybe as high as
+
+00:10:07.920 --> 00:10:13.440
+5,000. I think it really depends on your
+
+00:10:10.080 --> 00:10:16.079
+client and how much they understand the
+
+00:10:13.440 --> 00:10:18.320
+value of this and understanding what
+
+00:10:16.079 --> 00:10:20.240
+phase they're currently in. Like, I
+
+00:10:18.320 --> 00:10:22.320
+would hate to go into a client that's
+
+00:10:20.240 --> 00:10:24.640
+like there's this they're a startup and
+
+00:10:22.320 --> 00:10:25.760
+they, you know, they have this passion
+
+00:10:24.640 --> 00:10:27.360
+and they want to do this, but they're
+
+00:10:25.760 --> 00:10:29.120
+all out of money. like I'm not going to
+
+00:10:27.360 --> 00:10:30.800
+I'm not going to I'll give them advice,
+
+00:10:29.120 --> 00:10:32.640
+you know, and I'll I'll I'll guide them,
+
+00:10:30.800 --> 00:10:34.480
+but I'm not going to try to charge them
+
+00:10:32.640 --> 00:10:35.920
+for their, you know, all of their money
+
+00:10:34.480 --> 00:10:38.000
+when they're first starting. And this is
+
+00:10:35.920 --> 00:10:40.079
+usually how I close my deals. I'll
+
+00:10:38.000 --> 00:10:42.560
+create a website for the client I'm
+
+00:10:40.079 --> 00:10:45.760
+already talking to on Replet, like like
+
+00:10:42.560 --> 00:10:48.480
+a mockup before I even have their first
+
+00:10:45.760 --> 00:10:50.399
+meeting. Like, I am I am researching
+
+00:10:48.480 --> 00:10:53.600
+them. I'm looking at their websites and
+
+00:10:50.399 --> 00:10:56.000
+I'm I'm asking Chad GBT breaking down
+
+00:10:53.600 --> 00:10:57.839
+their current website saying what what
+
+00:10:56.000 --> 00:10:59.680
+are the flaws in this if any and what
+
+00:10:57.839 --> 00:11:02.000
+can I do to help improve this current
+
+00:10:59.680 --> 00:11:04.000
+website. I'll take that information
+
+00:11:02.000 --> 00:11:05.519
+create a replet mockup for them. You
+
+00:11:04.000 --> 00:11:07.040
+don't have to publish it. You could just
+
+00:11:05.519 --> 00:11:08.480
+show them right then and there with the
+
+00:11:07.040 --> 00:11:11.600
+link that they use. I think it lasts
+
+00:11:08.480 --> 00:11:14.399
+like 15 minutes. And then like the
+
+00:11:11.600 --> 00:11:16.399
+amount of like you would like awe that
+
+00:11:14.399 --> 00:11:19.120
+these guys have because they're used to
+
+00:11:16.399 --> 00:11:21.120
+one people creating websites and taking
+
+00:11:19.120 --> 00:11:24.160
+a month or two for them going back and
+
+00:11:21.120 --> 00:11:26.480
+forth and two like it just shows like
+
+00:11:24.160 --> 00:11:29.120
+how much you're you you care for them
+
+00:11:26.480 --> 00:11:31.440
+like you you built this without asking
+
+00:11:29.120 --> 00:11:33.360
+for anything just showing your potential
+
+00:11:31.440 --> 00:11:34.959
+and they're like man this is amazing it
+
+00:11:33.360 --> 00:11:37.040
+looks good. It's the whole theory of
+
+00:11:34.959 --> 00:11:41.040
+like Alex from like if you if you give
+
+00:11:37.040 --> 00:11:44.079
+them good stuff like they start thinking
+
+00:11:41.040 --> 00:11:44.640
+well damn like what is how like the paid
+
+00:11:44.079 --> 00:11:46.240
+stuff must be
+
+00:11:44.640 --> 00:11:48.240
+>> yeah the paid stuff must be better and
+
+00:11:46.240 --> 00:11:49.680
+often times it's not you know but they
+
+00:11:48.240 --> 00:11:52.160
+have confirmation bias so they're
+
+00:11:49.680 --> 00:11:54.560
+expecting like oh this is better you
+
+00:11:52.160 --> 00:11:57.279
+know. Yeah, like the first mockup like
+
+00:11:54.560 --> 00:11:59.040
+that was I mean we made a couple changes
+
+00:11:57.279 --> 00:12:01.440
+from then and there, but it wasn't major
+
+00:11:59.040 --> 00:12:04.000
+drastically major than what we first
+
+00:12:01.440 --> 00:12:05.360
+did. And so it's like I think the theory
+
+00:12:04.000 --> 00:12:07.440
+of just like showing that you did the
+
+00:12:05.360 --> 00:12:08.000
+work without even asking Yeah. goes a
+
+00:12:07.440 --> 00:12:09.279
+long way.
+
+00:12:08.000 --> 00:12:10.959
+>> Yeah. Because a lot of times people go
+
+00:12:09.279 --> 00:12:13.440
+into these quotes and they're like they
+
+00:12:10.959 --> 00:12:16.000
+kind of they do some research and so
+
+00:12:13.440 --> 00:12:17.360
+their their work isn't visible, right?
+
+00:12:16.000 --> 00:12:18.959
+So the person that they're selling to
+
+00:12:17.360 --> 00:12:21.440
+has no idea how much research they've
+
+00:12:18.959 --> 00:12:23.440
+done. Maybe luckily you say a couple
+
+00:12:21.440 --> 00:12:25.200
+things that indicate that, but if you're
+
+00:12:23.440 --> 00:12:27.440
+actually doing work in a vibe coding app
+
+00:12:25.200 --> 00:12:29.200
+like Replet and showing them something,
+
+00:12:27.440 --> 00:12:30.720
+their confirmation bias kicks in and
+
+00:12:29.200 --> 00:12:31.680
+like, "Oh, dang. You really care about
+
+00:12:30.720 --> 00:12:34.480
+this." Exactly.
+
+00:12:31.680 --> 00:12:36.160
+>> Oh, oh, this is legit. And it's like the
+
+00:12:34.480 --> 00:12:38.320
+oldest sales trick in the book is assume
+
+00:12:36.160 --> 00:12:39.440
+the sale, right? And you're kind of
+
+00:12:38.320 --> 00:12:41.040
+doing that in a sense because you're
+
+00:12:39.440 --> 00:12:42.560
+saying, "I've already I've already built
+
+00:12:41.040 --> 00:12:44.079
+out half of this." So,
+
+00:12:42.560 --> 00:12:45.279
+>> like when it comes time to for me to
+
+00:12:44.079 --> 00:12:47.200
+actually send the invoice and get paid
+
+00:12:45.279 --> 00:12:48.399
+for this and fulfill this, it's already
+
+00:12:47.200 --> 00:12:50.800
+halfway done. Correct.
+
+00:12:48.399 --> 00:12:52.560
+>> Right. So, I'm increasing my likelihood
+
+00:12:50.800 --> 00:12:54.399
+of getting the sale and I'm decreasing
+
+00:12:52.560 --> 00:12:55.680
+my amount of work after the sale because
+
+00:12:54.399 --> 00:12:56.320
+I've already done it.
+
+00:12:55.680 --> 00:12:57.519
+>> Correct.
+
+00:12:56.320 --> 00:12:59.120
+>> Two birds, one stone.
+
+00:12:57.519 --> 00:13:01.440
+>> And then the cherry on top is like what
+
+00:12:59.120 --> 00:13:03.120
+go high level and just other KPI metrics
+
+00:13:01.440 --> 00:13:05.279
+that you could add on to help improve
+
+00:13:03.120 --> 00:13:07.120
+their business so that they could
+
+00:13:05.279 --> 00:13:08.880
+continue to grow and scale or even like
+
+00:13:07.120 --> 00:13:10.880
+the fear metric of like, dude, you're
+
+00:13:08.880 --> 00:13:13.120
+you're potentially losing this much
+
+00:13:10.880 --> 00:13:15.519
+revenue if you're not booking throughout
+
+00:13:13.120 --> 00:13:17.839
+these days. or like I made a KPI
+
+00:13:15.519 --> 00:13:20.079
+dashboard from Replet just based off of
+
+00:13:17.839 --> 00:13:21.839
+what barbers and stuff would use. I mean
+
+00:13:20.079 --> 00:13:23.839
+the thing that that it created was was
+
+00:13:21.839 --> 00:13:26.480
+stuff that I wouldn't have even thought
+
+00:13:23.839 --> 00:13:28.800
+of like you should create like try
+
+00:13:26.480 --> 00:13:31.120
+booking during these specific days and
+
+00:13:28.800 --> 00:13:33.279
+send these specific emails out or text
+
+00:13:31.120 --> 00:13:36.320
+messages out or if you have a team of
+
+00:13:33.279 --> 00:13:38.399
+four like figure out who is getting more
+
+00:13:36.320 --> 00:13:40.240
+of the reschedules and and have like a
+
+00:13:38.399 --> 00:13:41.760
+workshop with that top person. I was
+
+00:13:40.240 --> 00:13:44.560
+like, dude, these are all really good
+
+00:13:41.760 --> 00:13:45.760
+ideas that just generated from chat that
+
+00:13:44.560 --> 00:13:47.519
+you could implement in your own
+
+00:13:45.760 --> 00:13:49.519
+business. And
+
+00:13:47.519 --> 00:13:52.639
+>> understanding that or just kind of
+
+00:13:49.519 --> 00:13:54.000
+informing that to a client is like very
+
+00:13:52.639 --> 00:13:56.160
+helpful because that's all they're
+
+00:13:54.000 --> 00:13:58.240
+thinking of in in business. How do I go?
+
+00:13:56.160 --> 00:13:59.920
+How do I continue to scale? How do I,
+
+00:13:58.240 --> 00:14:02.399
+you know, how do I improve? Like those
+
+00:13:59.920 --> 00:14:04.800
+are the thing like I I mean don't try to
+
+00:14:02.399 --> 00:14:06.480
+reinvent the wheel. I I know a lot of
+
+00:14:04.800 --> 00:14:09.199
+people are here trying to create stuff
+
+00:14:06.480 --> 00:14:11.279
+on AI, but instead of that, like there's
+
+00:14:09.199 --> 00:14:12.959
+a time and place for everything, but
+
+00:14:11.279 --> 00:14:15.199
+figure out what people's current
+
+00:14:12.959 --> 00:14:17.360
+problems are and and go that route
+
+00:14:15.199 --> 00:14:19.600
+because a lot of the time you're going
+
+00:14:17.360 --> 00:14:21.600
+to get paid faster and you're going to
+
+00:14:19.600 --> 00:14:22.959
+get more clients that way with and
+
+00:14:21.600 --> 00:14:24.480
+you're going to learn more. Like, how do
+
+00:14:22.959 --> 00:14:26.160
+you continue to build and scale with
+
+00:14:24.480 --> 00:14:28.240
+current businesses? Like, that's the
+
+00:14:26.160 --> 00:14:30.240
+beauty of it is I'm like, trust me, I
+
+00:14:28.240 --> 00:14:32.000
+have my I have my notebook with all
+
+00:14:30.240 --> 00:14:33.279
+these ideas and I think I asked you this
+
+00:14:32.000 --> 00:14:34.959
+question the other day. I was like, man,
+
+00:14:33.279 --> 00:14:37.199
+can I sell my ideas because I don't
+
+00:14:34.959 --> 00:14:40.079
+there's there's so much of them. But at
+
+00:14:37.199 --> 00:14:42.480
+the end of the day, like you focus on
+
+00:14:40.079 --> 00:14:43.600
+problem solving current problems in
+
+00:14:42.480 --> 00:14:45.199
+people's businesses.
+
+00:14:43.600 --> 00:14:46.480
+>> Yeah. And helping them identify them
+
+00:14:45.199 --> 00:14:48.240
+because often times they don't even know
+
+00:14:46.480 --> 00:14:50.079
+what their problems are and until you
+
+00:14:48.240 --> 00:14:51.680
+ask the right questions. What are the
+
+00:14:50.079 --> 00:14:53.199
+right questions? What are the questions
+
+00:14:51.680 --> 00:14:54.000
+you ask to get to the heart of their
+
+00:14:53.199 --> 00:14:56.320
+problems?
+
+00:14:54.000 --> 00:14:58.240
+>> It's kind of like having a conversation
+
+00:14:56.320 --> 00:15:00.079
+like this with my client at first. I'm
+
+00:14:58.240 --> 00:15:01.600
+not here to sell them anything. I'm just
+
+00:15:00.079 --> 00:15:04.079
+trying to understand what their goals
+
+00:15:01.600 --> 00:15:06.639
+are first. And so kind of like the
+
+00:15:04.079 --> 00:15:09.519
+questions. I mean, I I want to break
+
+00:15:06.639 --> 00:15:11.440
+down what their, you know, ideally what
+
+00:15:09.519 --> 00:15:13.920
+their year would look like, what their
+
+00:15:11.440 --> 00:15:16.560
+what their overall goals are. Any idea
+
+00:15:13.920 --> 00:15:19.040
+of like marketing or newsletters or kind
+
+00:15:16.560 --> 00:15:21.360
+of I I mean, I I ask everything and I
+
+00:15:19.040 --> 00:15:23.680
+just have an hour conversation with them
+
+00:15:21.360 --> 00:15:25.600
+just kind of breaking down their current
+
+00:15:23.680 --> 00:15:27.199
+business. And I think just with the
+
+00:15:25.600 --> 00:15:28.880
+amount of knowledge that I've learned
+
+00:15:27.199 --> 00:15:30.639
+through the last 15 years through the
+
+00:15:28.880 --> 00:15:33.199
+e-commerce side and through the mergers
+
+00:15:30.639 --> 00:15:35.440
+and acquisition side and just all of it
+
+00:15:33.199 --> 00:15:37.199
+in the stock market and breaking down um
+
+00:15:35.440 --> 00:15:39.040
+earnings reports like you you could
+
+00:15:37.199 --> 00:15:41.440
+really understand a client just by
+
+00:15:39.040 --> 00:15:44.000
+having a simple one-hour conversation.
+
+00:15:41.440 --> 00:15:47.040
+Ideally, the more the more intel you
+
+00:15:44.000 --> 00:15:50.320
+could get on your client, the better you
+
+00:15:47.040 --> 00:15:52.560
+could figure out directly what they need
+
+00:15:50.320 --> 00:15:54.880
+help with the most. And the reason why I
+
+00:15:52.560 --> 00:15:57.199
+went family, if if you're a um if you're
+
+00:15:54.880 --> 00:15:58.399
+a super busy barber, that's probably the
+
+00:15:57.199 --> 00:16:00.720
+number one thing you're gonna try to do
+
+00:15:58.399 --> 00:16:02.240
+is you need to expand to other barbers,
+
+00:16:00.720 --> 00:16:03.199
+right? You need to have more people to
+
+00:16:02.240 --> 00:16:06.320
+kind of
+
+00:16:03.199 --> 00:16:09.199
+>> guide you or to help free up your time.
+
+00:16:06.320 --> 00:16:11.360
+And so that's kind of you build intel,
+
+00:16:09.199 --> 00:16:13.279
+build rapport, and figure and the main
+
+00:16:11.360 --> 00:16:15.759
+thing is build something that you could
+
+00:16:13.279 --> 00:16:18.880
+show them and reconnect with them in a
+
+00:16:15.759 --> 00:16:20.959
+week or two. And then at that point,
+
+00:16:18.880 --> 00:16:22.959
+once you reconnect with them, the end of
+
+00:16:20.959 --> 00:16:25.120
+that is most likely going to be your
+
+00:16:22.959 --> 00:16:27.360
+your sale. And whether you're going to
+
+00:16:25.120 --> 00:16:28.720
+create a new website for them or or they
+
+00:16:27.360 --> 00:16:31.120
+like the website and they want to
+
+00:16:28.720 --> 00:16:34.399
+continue to work or they like the idea
+
+00:16:31.120 --> 00:16:36.800
+of of figuring out, you know, um how to
+
+00:16:34.399 --> 00:16:38.639
+improve their business with KPIs and and
+
+00:16:36.800 --> 00:16:40.959
+understanding all that stuff or even not
+
+00:16:38.639 --> 00:16:42.639
+understanding wanting to. That's kind of
+
+00:16:40.959 --> 00:16:44.560
+your your approach. And
+
+00:16:42.639 --> 00:16:46.240
+>> I do love the idea in this business that
+
+00:16:44.560 --> 00:16:48.720
+you can literally sell to the person
+
+00:16:46.240 --> 00:16:50.240
+that is selling to you, right? Like
+
+00:16:48.720 --> 00:16:51.120
+while they're cutting your hair, you
+
+00:16:50.240 --> 00:16:52.639
+could
+
+00:16:51.120 --> 00:16:54.240
+>> it's a captive audience.
+
+00:16:52.639 --> 00:16:56.079
+>> Yeah. Exactly.
+
+00:16:54.240 --> 00:16:57.759
+>> I love that. Like if if you approach a
+
+00:16:56.079 --> 00:16:59.920
+barber at close,
+
+00:16:57.759 --> 00:17:01.120
+>> he's probably not going to say no to one
+
+00:16:59.920 --> 00:17:03.120
+more customer. No.
+
+00:17:01.120 --> 00:17:04.559
+>> Right. Now, how scalable is that? You
+
+00:17:03.120 --> 00:17:06.480
+could I don't know. You can make the
+
+00:17:04.559 --> 00:17:09.120
+argument it's not very scalable, but at
+
+00:17:06.480 --> 00:17:11.839
+X dollars per month or $2,500 upfront,
+
+00:17:09.120 --> 00:17:13.919
+it's worth the time. And I would have to
+
+00:17:11.839 --> 00:17:16.400
+think your close rate if if you're self-
+
+00:17:13.919 --> 00:17:18.559
+selecting a high volume barber and you
+
+00:17:16.400 --> 00:17:20.079
+spending 30 to 60 minutes with them,
+
+00:17:18.559 --> 00:17:20.959
+your close rate will be in the double
+
+00:17:20.079 --> 00:17:24.000
+digits.
+
+00:17:20.959 --> 00:17:26.240
+>> Like period. Is it 20%, is it 80%, I
+
+00:17:24.000 --> 00:17:28.240
+don't know. But at that point, it's just
+
+00:17:26.240 --> 00:17:31.760
+a numbers game that there's 76,000
+
+00:17:28.240 --> 00:17:33.520
+barbers. And I love this niche because
+
+00:17:31.760 --> 00:17:35.760
+there's usually a push pull between the
+
+00:17:33.520 --> 00:17:37.520
+ticket size and the number of businesses
+
+00:17:35.760 --> 00:17:39.039
+or like the approachability of a
+
+00:17:37.520 --> 00:17:41.520
+business. Like dentists are great to
+
+00:17:39.039 --> 00:17:43.039
+sell to. There's a lot of dentist, but
+
+00:17:41.520 --> 00:17:46.080
+it's really hard to get to the decision
+
+00:17:43.039 --> 00:17:47.679
+maker, right? Barbers are cheap, right?
+
+00:17:46.080 --> 00:17:49.280
+It's a low ticket price. So, it's like
+
+00:17:47.679 --> 00:17:52.000
+they don't have a good reputation for
+
+00:17:49.280 --> 00:17:53.520
+selling agency services to them, but
+
+00:17:52.000 --> 00:17:55.440
+there's a lot of them. There's even more
+
+00:17:53.520 --> 00:17:57.679
+than than there are of dentists. And
+
+00:17:55.440 --> 00:18:00.240
+it's a captive audience. And like you
+
+00:17:57.679 --> 00:18:01.520
+can they're extremely approachable. You
+
+00:18:00.240 --> 00:18:02.960
+can talk to them one-on-one. You don't
+
+00:18:01.520 --> 00:18:05.600
+have to go through a decision maker,
+
+00:18:02.960 --> 00:18:07.200
+right? Pizza shops, there's like 200,000
+
+00:18:05.600 --> 00:18:10.000
+pizza shops, convenience stores, there's
+
+00:18:07.200 --> 00:18:12.960
+like 400,000 convenience stores. AI
+
+00:18:10.000 --> 00:18:16.240
+opens up all of these like single person
+
+00:18:12.960 --> 00:18:18.320
+solo businesses to agency services where
+
+00:18:16.240 --> 00:18:20.559
+it just it didn't make sense financially
+
+00:18:18.320 --> 00:18:22.240
+before AI, right? Like convenience store
+
+00:18:20.559 --> 00:18:24.080
+owner or pizza shop owner is not going
+
+00:18:22.240 --> 00:18:26.160
+to pay 3,500 bucks a month to manage
+
+00:18:24.080 --> 00:18:27.520
+your Facebook ads most likely, right?
+
+00:18:26.160 --> 00:18:29.520
+Unless they're at scale, they have a few
+
+00:18:27.520 --> 00:18:32.160
+locations, etc. But with something like
+
+00:18:29.520 --> 00:18:33.919
+this, like voice agents, like even if we
+
+00:18:32.160 --> 00:18:34.799
+only leave it to voice agents, it's
+
+00:18:33.919 --> 00:18:36.000
+>> Yeah, that was what I was going to say.
+
+00:18:34.799 --> 00:18:38.080
+I mean,
+
+00:18:36.000 --> 00:18:39.919
+>> you have no time. Like I I could have
+
+00:18:38.080 --> 00:18:42.080
+went directly with the voice agent as
+
+00:18:39.919 --> 00:18:44.480
+well and say, "Hey, like I'm sure you're
+
+00:18:42.080 --> 00:18:45.760
+busy and and I tried calling and no one
+
+00:18:44.480 --> 00:18:47.360
+answered." And that's why I walked in
+
+00:18:45.760 --> 00:18:49.120
+the barber shop like, "Have you heard of
+
+00:18:47.360 --> 00:18:51.039
+a voice agent before?" Right?
+
+00:18:49.120 --> 00:18:52.960
+>> You right. And they're yes or no. and
+
+00:18:51.039 --> 00:18:54.799
+and kind of like, man, the beautiful
+
+00:18:52.960 --> 00:18:57.200
+thing about a voice agent is once you
+
+00:18:54.799 --> 00:18:58.799
+set it up for one person, you could test
+
+00:18:57.200 --> 00:18:59.039
+it in front of them as well. And that's
+
+00:18:58.799 --> 00:19:00.080
+what
+
+00:18:59.039 --> 00:19:00.960
+>> that's what I was going to say.
+
+00:19:00.080 --> 00:19:02.640
+>> That's what I've been doing.
+
+00:19:00.960 --> 00:19:04.160
+>> Pull your hand out from beneath the
+
+00:19:02.640 --> 00:19:06.160
+cape, right? Because he's cutting your
+
+00:19:04.160 --> 00:19:07.280
+hair and you just call it and just have
+
+00:19:06.160 --> 00:19:10.640
+him talk to it.
+
+00:19:07.280 --> 00:19:14.400
+>> Correct. And he's done that and he's
+
+00:19:10.640 --> 00:19:16.240
+done that to me in front of other salons
+
+00:19:14.400 --> 00:19:17.600
+and stuff. Like the people next to him,
+
+00:19:16.240 --> 00:19:19.520
+he's like, "Hey, come here. Like, I want
+
+00:19:17.600 --> 00:19:21.840
+I want you to meet Danny." He calls the
+
+00:19:19.520 --> 00:19:23.360
+the number. He's like, "Talk to it." And
+
+00:19:21.840 --> 00:19:26.160
+next thing you know, I get a transcript
+
+00:19:23.360 --> 00:19:27.760
+of a whole AI voice.
+
+00:19:26.160 --> 00:19:29.280
+>> They're like, "Is he cute or not?" And
+
+00:19:27.760 --> 00:19:30.799
+they're asking now these crazy
+
+00:19:29.280 --> 00:19:33.679
+questions.
+
+00:19:30.799 --> 00:19:35.200
+So it's like but I mean it like once you
+
+00:19:33.679 --> 00:19:37.600
+show like once you have that and that's
+
+00:19:35.200 --> 00:19:40.080
+why it was so important for me to have
+
+00:19:37.600 --> 00:19:42.400
+him as my test dummy because I knew the
+
+00:19:40.080 --> 00:19:45.919
+value of having a finished product and
+
+00:19:42.400 --> 00:19:48.720
+showcasing that and seeing how well
+
+00:19:45.919 --> 00:19:51.120
+other people could react on just a nice
+
+00:19:48.720 --> 00:19:53.520
+website something that really works. you
+
+00:19:51.120 --> 00:19:55.760
+could, you know, your SMS marketing on
+
+00:19:53.520 --> 00:19:58.160
+it. You have newsletters, you have um
+
+00:19:55.760 --> 00:20:00.240
+reactivation tool, you the whole level,
+
+00:19:58.160 --> 00:20:02.080
+right? And mo most importantly, like if
+
+00:20:00.240 --> 00:20:03.360
+you have an AI agent and you can call
+
+00:20:02.080 --> 00:20:05.120
+them and you showcase the work and
+
+00:20:03.360 --> 00:20:07.200
+they're like asking all these questions
+
+00:20:05.120 --> 00:20:09.200
+about the b the business and they
+
+00:20:07.200 --> 00:20:11.360
+actually know about it, they're like
+
+00:20:09.200 --> 00:20:13.760
+like sign me up like say, "Let me create
+
+00:20:11.360 --> 00:20:15.919
+it for you and you test it yourself and
+
+00:20:13.760 --> 00:20:17.520
+then if they like it after that, then
+
+00:20:15.919 --> 00:20:19.360
+you you could close the deal." You're
+
+00:20:17.520 --> 00:20:21.039
+going to have more success creating it
+
+00:20:19.360 --> 00:20:22.960
+first. It doesn't take that much time.
+
+00:20:21.039 --> 00:20:24.080
+If it's a good lead, you should do this.
+
+00:20:22.960 --> 00:20:26.160
+You're going to have more success
+
+00:20:24.080 --> 00:20:28.720
+creating the deal and showcasing that
+
+00:20:26.160 --> 00:20:30.320
+and closing the deal after you you you
+
+00:20:28.720 --> 00:20:31.200
+show them everything that you created.
+
+00:20:30.320 --> 00:20:33.039
+In my opinion,
+
+00:20:31.200 --> 00:20:34.559
+>> I mean, you could even take it so far
+
+00:20:33.039 --> 00:20:37.120
+like, let's say you walk into a barber
+
+00:20:34.559 --> 00:20:38.559
+shop cold and you're getting some good
+
+00:20:37.120 --> 00:20:40.240
+reception from him. You heard about
+
+00:20:38.559 --> 00:20:41.919
+voice agents and like he doesn't even
+
+00:20:40.240 --> 00:20:42.559
+know you're selling to him yet, right?
+
+00:20:41.919 --> 00:20:44.480
+>> Yeah.
+
+00:20:42.559 --> 00:20:46.080
+>> Let me show you this. But before you
+
+00:20:44.480 --> 00:20:48.320
+pull out, you pull out your phone, you
+
+00:20:46.080 --> 00:20:50.240
+open up high level on your phone and you
+
+00:20:48.320 --> 00:20:51.600
+go to the settings for the voice agent
+
+00:20:50.240 --> 00:20:53.600
+and you change out the name of the
+
+00:20:51.600 --> 00:20:55.200
+business to his business name, right?
+
+00:20:53.600 --> 00:20:56.400
+Then before you call
+
+00:20:55.200 --> 00:20:57.840
+>> and you call, it's like, "Hey, this is
+
+00:20:56.400 --> 00:20:59.840
+Bo." He's like, "What? That's me." And
+
+00:20:57.840 --> 00:21:01.120
+it's like,
+
+00:20:59.840 --> 00:21:02.880
+>> "Could you imagine that?"
+
+00:21:01.120 --> 00:21:04.400
+>> Yeah, that's good. Like if Yeah, you
+
+00:21:02.880 --> 00:21:06.559
+could easily set that up if you know
+
+00:21:04.400 --> 00:21:09.679
+you're going to go showcase or you show
+
+00:21:06.559 --> 00:21:13.039
+them like and they're like, "Wow."
+
+00:21:09.679 --> 00:21:15.520
+>> Yeah. And that's barber, salon, nails,
+
+00:21:13.039 --> 00:21:17.600
+massage, like all of those type of
+
+00:21:15.520 --> 00:21:19.919
+industries like that. You're going to
+
+00:21:17.600 --> 00:21:21.280
+schedule appointments and they're asking
+
+00:21:19.919 --> 00:21:22.159
+and they're calling.
+
+00:21:21.280 --> 00:21:23.360
+>> Tackle that.
+
+00:21:22.159 --> 00:21:25.120
+>> And I've done this myself. It's
+
+00:21:23.360 --> 00:21:26.960
+literally that easy as going in the
+
+00:21:25.120 --> 00:21:28.799
+voice agent and changing the name of the
+
+00:21:26.960 --> 00:21:30.400
+business and then click save and then it
+
+00:21:28.799 --> 00:21:32.720
+updates automatically.
+
+00:21:30.400 --> 00:21:36.080
+>> Yeah. And usually I don't know. I mean I
+
+00:21:32.720 --> 00:21:39.120
+I think we just put in their website and
+
+00:21:36.080 --> 00:21:40.159
+have I think agent will extract all of
+
+00:21:39.120 --> 00:21:43.360
+the information
+
+00:21:40.159 --> 00:21:45.200
+>> all the FAQs opening hours etc.
+
+00:21:43.360 --> 00:21:47.600
+>> So even better if you put the name and
+
+00:21:45.200 --> 00:21:49.440
+their website you should like if they're
+
+00:21:47.600 --> 00:21:52.400
+going further deep in the conversation
+
+00:21:49.440 --> 00:21:54.320
+asking these questions it's even better.
+
+00:21:52.400 --> 00:21:56.159
+>> Yeah. Are you able to share your screen
+
+00:21:54.320 --> 00:21:58.559
+and show what his dashboard looks like
+
+00:21:56.159 --> 00:22:00.559
+this barbers? Let me see
+
+00:21:58.559 --> 00:22:02.400
+>> for those listening or watching KPI
+
+00:22:00.559 --> 00:22:05.039
+stands for key performance indicators
+
+00:22:02.400 --> 00:22:07.760
+and for years it was you know relegated
+
+00:22:05.039 --> 00:22:10.080
+to Fortune 500 companies big budget
+
+00:22:07.760 --> 00:22:11.919
+companies like basically what what goals
+
+00:22:10.080 --> 00:22:14.400
+or what metrics are we tracking to know
+
+00:22:11.919 --> 00:22:16.799
+that we're being successful or not and
+
+00:22:14.400 --> 00:22:20.159
+now with AI like barbers can know what
+
+00:22:16.799 --> 00:22:22.400
+KPIs mean barbers can have KPIs whereas
+
+00:22:20.159 --> 00:22:25.440
+that was never that was never realistic
+
+00:22:22.400 --> 00:22:28.240
+for common local businesses I'm curious
+
+00:22:25.440 --> 00:22:30.480
+what his KPI guys are like is it new
+
+00:22:28.240 --> 00:22:30.960
+appointments? Is it you know revenue? Is
+
+00:22:30.480 --> 00:22:32.640
+it
+
+00:22:30.960 --> 00:22:35.360
+>> this is our test sto account so I don't
+
+00:22:32.640 --> 00:22:37.440
+I haven't worked on this. My uh partner
+
+00:22:35.360 --> 00:22:39.200
+does. Another thing I was going to say
+
+00:22:37.440 --> 00:22:42.400
+guys like I couldn't have done this
+
+00:22:39.200 --> 00:22:44.400
+without without having a good partner on
+
+00:22:42.400 --> 00:22:46.320
+my team as well. I picked a partner
+
+00:22:44.400 --> 00:22:48.320
+who's good at coding just because like
+
+00:22:46.320 --> 00:22:50.559
+replet can have difficulties kind of
+
+00:22:48.320 --> 00:22:53.200
+going through that finish line of stuff.
+
+00:22:50.559 --> 00:22:56.480
+And so having a partner where I'm just
+
+00:22:53.200 --> 00:22:58.240
+all sales, all vision, ideas, giving her
+
+00:22:56.480 --> 00:23:00.880
+this the the stuff that needs to be
+
+00:22:58.240 --> 00:23:01.360
+fixed, it really helps out in the long
+
+00:23:00.880 --> 00:23:02.880
+run.
+
+00:23:01.360 --> 00:23:04.559
+>> So your business partner is doing kind
+
+00:23:02.880 --> 00:23:05.919
+of the integrations and stuff and you're
+
+00:23:04.559 --> 00:23:08.720
+focusing on the sales,
+
+00:23:05.919 --> 00:23:12.480
+>> correct? So this was the miss call
+
+00:23:08.720 --> 00:23:15.440
+section. We created this on the 28th and
+
+00:23:12.480 --> 00:23:17.200
+we have 125 missed calls. I don't think
+
+00:23:15.440 --> 00:23:18.799
+it was right away when they started.
+
+00:23:17.200 --> 00:23:20.159
+Yeah, we didn't implement it right away.
+
+00:23:18.799 --> 00:23:22.240
+We just created this number
+
+00:23:20.159 --> 00:23:23.520
+>> the 28th of December.
+
+00:23:22.240 --> 00:23:24.480
+>> I think it was
+
+00:23:23.520 --> 00:23:26.720
+>> November.
+
+00:23:24.480 --> 00:23:27.760
+>> Yeah, November. We could go back a
+
+00:23:26.720 --> 00:23:29.280
+little bit.
+
+00:23:27.760 --> 00:23:30.960
+>> 125 missed calls.
+
+00:23:29.280 --> 00:23:33.919
+>> Yeah. And you could see I mean they're
+
+00:23:30.960 --> 00:23:35.760
+even today they're coming in and so a
+
+00:23:33.919 --> 00:23:37.520
+lot of people and you you'll I think you
+
+00:23:35.760 --> 00:23:38.880
+could get the transcripts of these. I
+
+00:23:37.520 --> 00:23:41.520
+don't know if it they'll show them here,
+
+00:23:38.880 --> 00:23:43.120
+but throughout especially holiday season
+
+00:23:41.520 --> 00:23:45.280
+they're coming in and he was just
+
+00:23:43.120 --> 00:23:46.880
+letting them ride and they were getting
+
+00:23:45.280 --> 00:23:49.120
+booked. He would show I mean he would
+
+00:23:46.880 --> 00:23:50.480
+say we're we're getting booked. He would
+
+00:23:49.120 --> 00:23:52.640
+pair them with the number and
+
+00:23:50.480 --> 00:23:54.559
+>> I call these FMC's formerly missed
+
+00:23:52.640 --> 00:23:56.080
+calls. These are no longer missed calls,
+
+00:23:54.559 --> 00:23:57.200
+right? [laughter]
+
+00:23:56.080 --> 00:23:58.960
+>> Exactly.
+
+00:23:57.200 --> 00:24:00.559
+>> We used this with the go high level
+
+00:23:58.960 --> 00:24:01.679
+account that we had from you. So we took
+
+00:24:00.559 --> 00:24:03.760
+advantage of it
+
+00:24:01.679 --> 00:24:05.760
+>> and and just kind of went from there and
+
+00:24:03.760 --> 00:24:08.159
+just used it as a test. I mean and now
+
+00:24:05.760 --> 00:24:11.360
+we have our another gohigh level and so
+
+00:24:08.159 --> 00:24:12.799
+we kind of this is my showcase to
+
+00:24:11.360 --> 00:24:15.760
+clients still, you know.
+
+00:24:12.799 --> 00:24:17.600
+>> Yeah. Beautiful. So he's gotten you more
+
+00:24:15.760 --> 00:24:19.760
+uh barbershop customers then?
+
+00:24:17.600 --> 00:24:22.080
+>> Yeah. So it was to a point where we were
+
+00:24:19.760 --> 00:24:24.960
+like we had a we had a pause and we we
+
+00:24:22.080 --> 00:24:26.799
+took like a like two weeks just to kind
+
+00:24:24.960 --> 00:24:28.320
+of dedicate GoHigh Level and what what
+
+00:24:26.799 --> 00:24:31.600
+everything that we could learn from
+
+00:24:28.320 --> 00:24:35.600
+Gohigh Level. So now we're we have
+
+00:24:31.600 --> 00:24:38.080
+probably I would say four or five calls
+
+00:24:35.600 --> 00:24:40.480
+the remaining of the week from barbers
+
+00:24:38.080 --> 00:24:41.440
+and someone related to him that
+
+00:24:40.480 --> 00:24:43.279
+introduced us
+
+00:24:41.440 --> 00:24:45.440
+>> from one free customer.
+
+00:24:43.279 --> 00:24:46.880
+>> From one free customer. I haven't spent
+
+00:24:45.440 --> 00:24:49.279
+anything on ads. I haven't spent
+
+00:24:46.880 --> 00:24:50.960
+anything on on sponsorships or anything
+
+00:24:49.279 --> 00:24:53.520
+like that. This is just
+
+00:24:50.960 --> 00:24:54.960
+>> from one free customer. I just keep
+
+00:24:53.520 --> 00:24:57.279
+hearing this over and over like to get
+
+00:24:54.960 --> 00:24:59.520
+your first agency customer, start with
+
+00:24:57.279 --> 00:25:02.240
+your circle, your sphere of influence
+
+00:24:59.520 --> 00:25:04.480
+and do it for free, right? And if it if
+
+00:25:02.240 --> 00:25:06.320
+it's not magical, if it doesn't work,
+
+00:25:04.480 --> 00:25:07.919
+then you might not get referrals, which
+
+00:25:06.320 --> 00:25:09.600
+means your product isn't that good
+
+00:25:07.919 --> 00:25:10.960
+anyway, right? You got to revisit the
+
+00:25:09.600 --> 00:25:13.200
+drawing board, which is okay because you
+
+00:25:10.960 --> 00:25:15.279
+either win or you learn, right? But if
+
+00:25:13.200 --> 00:25:17.200
+it is magical, it if it is good, then
+
+00:25:15.279 --> 00:25:19.440
+either you get them to pay you for more
+
+00:25:17.200 --> 00:25:22.000
+stuff or you get them to refer you.
+
+00:25:19.440 --> 00:25:24.559
+>> Yeah, exactly. And everyone has like
+
+00:25:22.000 --> 00:25:27.919
+their own barber or their own, you know,
+
+00:25:24.559 --> 00:25:28.799
+massage person or salon or nail it, you
+
+00:25:27.919 --> 00:25:29.279
+know? So, it's like,
+
+00:25:28.799 --> 00:25:30.640
+>> yeah,
+
+00:25:29.279 --> 00:25:32.240
+>> start with that.
+
+00:25:30.640 --> 00:25:33.440
+>> Even if it's a family member, like
+
+00:25:32.240 --> 00:25:35.440
+figure out how you
+
+00:25:33.440 --> 00:25:37.600
+>> guy, oil change guy.
+
+00:25:35.440 --> 00:25:39.440
+>> Exactly. Yeah. Now, I'm doing um I'm
+
+00:25:37.600 --> 00:25:41.039
+doing home inspections for one of them.
+
+00:25:39.440 --> 00:25:43.440
+I got a meeting today with a home
+
+00:25:41.039 --> 00:25:46.960
+inspection and their website and their
+
+00:25:43.440 --> 00:25:49.039
+GHL, a drone washing commercial company,
+
+00:25:46.960 --> 00:25:51.120
+washing drones and all that stuff. a
+
+00:25:49.039 --> 00:25:54.640
+remodeling company in the real estate.
+
+00:25:51.120 --> 00:25:56.799
+So, like again, all different industries
+
+00:25:54.640 --> 00:25:58.480
+all need the same thing. So, it
+
+00:25:56.799 --> 00:26:00.559
+shouldn't be that hard to kind of niche
+
+00:25:58.480 --> 00:26:02.080
+down and and figure out the best the
+
+00:26:00.559 --> 00:26:02.720
+best industry, but they're definitely
+
+00:26:02.080 --> 00:26:04.080
+out there.
+
+00:26:02.720 --> 00:26:06.320
+>> What would you have done differently, if
+
+00:26:04.080 --> 00:26:08.400
+anything, about starting this business?
+
+00:26:06.320 --> 00:26:12.720
+>> Start faster.
+
+00:26:08.400 --> 00:26:15.600
+I think the idea that you need to learn
+
+00:26:12.720 --> 00:26:18.559
+every single thing before you start is
+
+00:26:15.600 --> 00:26:21.120
+absurd. like get in there, get your
+
+00:26:18.559 --> 00:26:23.279
+hands dirty, teach yourself, teach
+
+00:26:21.120 --> 00:26:25.279
+yourself everything you can and and be
+
+00:26:23.279 --> 00:26:26.799
+dedicated to helping people, right? I
+
+00:26:25.279 --> 00:26:28.720
+mean, that's the end the end goal is
+
+00:26:26.799 --> 00:26:30.080
+like as more people you help, the more
+
+00:26:28.720 --> 00:26:30.880
+that money will come. It's the law of
+
+00:26:30.080 --> 00:26:33.279
+abundance.
+
+00:26:30.880 --> 00:26:34.720
+>> How does your pricing look today versus
+
+00:26:33.279 --> 00:26:35.919
+your first customer? Like what do you
+
+00:26:34.720 --> 00:26:38.159
+think you're going to charge these next
+
+00:26:35.919 --> 00:26:40.240
+few customers both upfront and ongoing?
+
+00:26:38.159 --> 00:26:41.840
+I think we're we're still in the
+
+00:26:40.240 --> 00:26:43.919
+beginning phases of things and I think
+
+00:26:41.840 --> 00:26:46.320
+we could kind of customize per client,
+
+00:26:43.919 --> 00:26:49.279
+but I would say anywhere from 2500 to
+
+00:26:46.320 --> 00:26:52.320
+5,000 just because I know as time goes
+
+00:26:49.279 --> 00:26:55.039
+on there's going to be more tools or
+
+00:26:52.320 --> 00:26:56.400
+easier tools or easier access clients or
+
+00:26:55.039 --> 00:26:57.679
+people are coming in. I mean, there's
+
+00:26:56.400 --> 00:27:00.000
+competition. That's what it is. Supply
+
+00:26:57.679 --> 00:27:02.320
+and demand, right? And so, I know that
+
+00:27:00.000 --> 00:27:05.360
+and I think I think working well and
+
+00:27:02.320 --> 00:27:07.679
+fast is probably my goal. And I think
+
+00:27:05.360 --> 00:27:10.000
+we're going to up the monthly to two to
+
+00:27:07.679 --> 00:27:11.360
+500 depending on what all they need. I
+
+00:27:10.000 --> 00:27:13.840
+think that's a good range. I mean, if
+
+00:27:11.360 --> 00:27:16.480
+you have 20 clients, you know, my goal
+
+00:27:13.840 --> 00:27:19.440
+is just like passive income for this and
+
+00:27:16.480 --> 00:27:21.600
+to kind of use this money for bigger
+
+00:27:19.440 --> 00:27:24.559
+projects with apps and developments and
+
+00:27:21.600 --> 00:27:26.320
+businesses through AI still. But my like
+
+00:27:24.559 --> 00:27:28.080
+I said, I have a book of ideas and I
+
+00:27:26.320 --> 00:27:30.559
+think all of them need money and
+
+00:27:28.080 --> 00:27:31.520
+dedication and so this is kind of my my
+
+00:27:30.559 --> 00:27:33.440
+focus for that.
+
+00:27:31.520 --> 00:27:36.240
+>> Beautiful. Danny, where can people find
+
+00:27:33.440 --> 00:27:39.840
+you? Danny proper trends@gmail.com.
+
+00:27:36.240 --> 00:27:42.320
+If anyone wants to connect, I'm I'm a
+
+00:27:39.840 --> 00:27:43.039
+wealth of knowledge, so feel free to
+
+00:27:42.320 --> 00:27:43.520
+reach out.
+
+00:27:43.039 --> 00:27:44.960
+>> Beautiful.
+
+00:27:43.520 --> 00:27:46.000
+>> Okay, this episode was a little
+
+00:27:44.960 --> 00:27:47.760
+different. If you're watching on
+
+00:27:46.000 --> 00:27:49.520
+YouTube, you'll notice that other people
+
+00:27:47.760 --> 00:27:51.360
+were watching as I interviewed Danny. I
+
+00:27:49.520 --> 00:27:53.279
+came across Danny in my paid community,
+
+00:27:51.360 --> 00:27:54.799
+TK Owners. He's a member of it, and he
+
+00:27:53.279 --> 00:27:56.880
+used some of the tools that he learned
+
+00:27:54.799 --> 00:27:59.120
+from TK owners to build this business.
+
+00:27:56.880 --> 00:28:00.799
+But I had him present this interview to
+
+00:27:59.120 --> 00:28:02.720
+my Playmakers community, which is a
+
+00:28:00.799 --> 00:28:05.440
+group of people building AI automation
+
+00:28:02.720 --> 00:28:06.960
+agencies, AI voice agent agencies, etc.
+
+00:28:05.440 --> 00:28:08.960
+So, if you're interested in either one,
+
+00:28:06.960 --> 00:28:11.200
+check out playmakersai.com or
+
+00:28:08.960 --> 00:28:13.679
+tkowners.com. Thanks for hanging out on
+
+00:28:11.200 --> 00:28:13.679
+the Kerner
+

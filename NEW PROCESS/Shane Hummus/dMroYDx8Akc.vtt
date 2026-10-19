@@ -1,0 +1,1049 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.400
+So, Claude just released their newest
+
+00:00:02.120 --> 00:00:06.480
+model called Fable, and it changed
+
+00:00:04.400 --> 00:00:08.520
+content creation forever. This is
+
+00:00:06.480 --> 00:00:10.320
+without a doubt the most capable AI
+
+00:00:08.520 --> 00:00:12.240
+model that they have ever made available
+
+00:00:10.320 --> 00:00:14.600
+to the public, and that is not marketing
+
+00:00:12.240 --> 00:00:16.080
+fluff. It topped almost every benchmark
+
+00:00:14.600 --> 00:00:17.400
+they ran it through, and with many of
+
+00:00:16.080 --> 00:00:19.640
+them, it didn't just beat the benchmarks
+
+00:00:17.400 --> 00:00:22.040
+by a little bit. It absolutely shattered
+
+00:00:19.640 --> 00:00:24.400
+them. Now, by the way, my video Claude
+
+00:00:22.040 --> 00:00:26.800
+code just made YouTube videos 10 times
+
+00:00:24.400 --> 00:00:29.200
+easier just came out. You guys were
+
+00:00:26.800 --> 00:00:31.360
+absolutely loving it, and then about 13
+
+00:00:29.200 --> 00:00:33.160
+and 1/2 seconds after I released it,
+
+00:00:31.360 --> 00:00:35.200
+Claude Fable came out. So, you can rest
+
+00:00:33.160 --> 00:00:36.680
+assured that I haven't gotten much sleep
+
+00:00:35.200 --> 00:00:38.040
+since then, or really done much of
+
+00:00:36.680 --> 00:00:39.800
+anything else. And one of the first
+
+00:00:38.040 --> 00:00:41.600
+things that I read about is during early
+
+00:00:39.800 --> 00:00:43.160
+testing at Stripe, yes, the giant
+
+00:00:41.600 --> 00:00:44.640
+payment company, Fable finished a
+
+00:00:43.160 --> 00:00:46.800
+project in one day that would have taken
+
+00:00:44.640 --> 00:00:49.840
+an entire engineering team more than two
+
+00:00:46.800 --> 00:00:51.240
+months. And that is not a typo. One day
+
+00:00:49.840 --> 00:00:52.520
+versus two months. And today I'm going
+
+00:00:51.240 --> 00:00:54.640
+to be giving you the simplest
+
+00:00:52.520 --> 00:00:55.840
+explanation of what Fable actually is.
+
+00:00:54.640 --> 00:00:57.560
+Then I'm going to show you the exact
+
+00:00:55.840 --> 00:00:59.400
+ways that I'm already using it inside of
+
+00:00:57.560 --> 00:01:00.480
+my own content creation system,
+
+00:00:59.400 --> 00:01:01.800
+including the scripts that I write for
+
+00:01:00.480 --> 00:01:02.880
+YouTube. So, if you appreciate me making
+
+00:01:01.800 --> 00:01:03.960
+this type of content and you want me to
+
+00:01:02.880 --> 00:01:05.519
+make more of it in the future, then let
+
+00:01:03.960 --> 00:01:07.160
+me know by gently tapping that like
+
+00:01:05.519 --> 00:01:09.680
+button, and let's dive into it right
+
+00:01:07.160 --> 00:01:11.320
+now. Okay, so what exactly is Claude
+
+00:01:09.680 --> 00:01:12.640
+Fable? Well, here's the simplest version
+
+00:01:11.320 --> 00:01:14.160
+that I can give you. Anthropic, of
+
+00:01:12.640 --> 00:01:16.480
+course, is the company behind Claude,
+
+00:01:14.160 --> 00:01:17.960
+and Fable is their brand new model. And
+
+00:01:16.480 --> 00:01:20.120
+this is the smartest one that they have
+
+00:01:17.960 --> 00:01:21.480
+ever let regular people use. And the
+
+00:01:20.120 --> 00:01:23.520
+base model, the one that this one is
+
+00:01:21.480 --> 00:01:26.000
+based off of, Claude Mythos, is so
+
+00:01:23.520 --> 00:01:28.360
+powerful that us mere peons can't even
+
+00:01:26.000 --> 00:01:30.440
+use it. But Fable, apparently, is almost
+
+00:01:28.360 --> 00:01:32.000
+as powerful as Mythos, but it has a lot
+
+00:01:30.440 --> 00:01:34.440
+more safety parameters, because
+
+00:01:32.000 --> 00:01:36.360
+apparently Mythos is so powerful that if
+
+00:01:34.440 --> 00:01:37.920
+the general public had access to it, a
+
+00:01:36.360 --> 00:01:39.160
+bunch of companies would get hacked. But
+
+00:01:37.920 --> 00:01:41.240
+in plain English, that means that it can
+
+00:01:39.160 --> 00:01:42.960
+take on much bigger jobs and work for
+
+00:01:41.240 --> 00:01:44.400
+much longer without losing the plot
+
+00:01:42.960 --> 00:01:46.280
+halfway through. So, think of Claude
+
+00:01:44.400 --> 00:01:47.840
+like a restaurant kitchen. The smaller
+
+00:01:46.280 --> 00:01:49.800
+models are your line cooks. They're
+
+00:01:47.840 --> 00:01:52.000
+fast, they're perfect for simple orders,
+
+00:01:49.800 --> 00:01:53.960
+but the older top model, Opus, is the
+
+00:01:52.000 --> 00:01:55.520
+head chef. It's very good, but you still
+
+00:01:53.960 --> 00:01:57.280
+have to walk back into the kitchen and
+
+00:01:55.520 --> 00:01:59.280
+check on things. Claude Fable is like
+
+00:01:57.280 --> 00:02:01.400
+hiring a world-class executive chef who
+
+00:01:59.280 --> 00:02:03.080
+runs the entire kitchen all night long.
+
+00:02:01.400 --> 00:02:05.320
+You hand over the full banquet order one
+
+00:02:03.080 --> 00:02:07.160
+time and every single course comes out
+
+00:02:05.320 --> 00:02:08.840
+right without you ever walking back
+
+00:02:07.160 --> 00:02:10.320
+there to repeat yourself. Now, you might
+
+00:02:08.840 --> 00:02:12.440
+also hear the name Mythos floating
+
+00:02:10.320 --> 00:02:14.760
+around and like I said before, Mythos is
+
+00:02:12.440 --> 00:02:16.760
+the same brain as Fable, but it's a
+
+00:02:14.760 --> 00:02:18.720
+restricted version that is only approved
+
+00:02:16.760 --> 00:02:20.280
+to cybersecurity teams and some people
+
+00:02:18.720 --> 00:02:21.680
+that are approved by the government.
+
+00:02:20.280 --> 00:02:23.080
+Don't worry about it right now. It's
+
+00:02:21.680 --> 00:02:24.880
+probably not that much useful for
+
+00:02:23.080 --> 00:02:26.720
+creators like us and you can't get it
+
+00:02:24.880 --> 00:02:28.280
+anyway. But Fable is the one that
+
+00:02:26.720 --> 00:02:29.880
+matters. And by the way, the reason that
+
+00:02:28.280 --> 00:02:32.360
+I'm able to jump on brand new AI
+
+00:02:29.880 --> 00:02:34.160
+features this fast is because I hired an
+
+00:02:32.360 --> 00:02:35.760
+AI specialist and he literally lives
+
+00:02:34.160 --> 00:02:37.160
+right next to me. I paid for him to move
+
+00:02:35.760 --> 00:02:39.200
+here. And so, the second something like
+
+00:02:37.160 --> 00:02:41.200
+this drops, we are testing it on real
+
+00:02:39.200 --> 00:02:42.760
+content that same day. Whereas most
+
+00:02:41.200 --> 00:02:44.240
+creators are still reading the headlines
+
+00:02:42.760 --> 00:02:46.200
+while we're already running it. And the
+
+00:02:44.240 --> 00:02:47.800
+best part is that Fable lives inside of
+
+00:02:46.200 --> 00:02:49.480
+the same Claude app that you already
+
+00:02:47.800 --> 00:02:51.760
+know. And right now, it's included with
+
+00:02:49.480 --> 00:02:53.160
+the paid plans at no extra cost. But
+
+00:02:51.760 --> 00:02:55.720
+it's only available at that no extra
+
+00:02:53.160 --> 00:02:57.160
+cost until June 22nd. Now, one quick
+
+00:02:55.720 --> 00:02:59.519
+warning before you sprint off and
+
+00:02:57.160 --> 00:03:01.400
+publish 50 AI videos this week, YouTube
+
+00:02:59.519 --> 00:03:03.920
+is actively nuking channels that pump
+
+00:03:01.400 --> 00:03:06.120
+out raw mass-produced AI slop. So,
+
+00:03:03.920 --> 00:03:07.480
+Claude is the system, but you are still
+
+00:03:06.120 --> 00:03:08.959
+the voice and don't forget that. And
+
+00:03:07.480 --> 00:03:11.160
+I've talked about that extensively in my
+
+00:03:08.959 --> 00:03:13.120
+other videos. Please, do not make AI
+
+00:03:11.160 --> 00:03:14.519
+slop. Okay, so here is the first thing
+
+00:03:13.120 --> 00:03:15.600
+that I did with Fable and I think this
+
+00:03:14.519 --> 00:03:17.760
+is the part that most people are going
+
+00:03:15.600 --> 00:03:19.480
+to skip. I let Fable go through every
+
+00:03:17.760 --> 00:03:21.400
+single chat in my content creation
+
+00:03:19.480 --> 00:03:23.120
+system. Every script conversation and
+
+00:03:21.400 --> 00:03:24.920
+every research document in there. And I
+
+00:03:23.120 --> 00:03:26.560
+told it to improve the flow and tighten
+
+00:03:24.920 --> 00:03:28.239
+up everything it could find. Now, why
+
+00:03:26.560 --> 00:03:29.760
+did I do that? Because my entire
+
+00:03:28.239 --> 00:03:31.440
+production system lives inside of
+
+00:03:29.760 --> 00:03:33.000
+Claude. All my research, all my
+
+00:03:31.440 --> 00:03:34.560
+packaging, and months of scripts are
+
+00:03:33.000 --> 00:03:36.800
+sitting in there. And when a smarter
+
+00:03:34.560 --> 00:03:38.280
+brain shows up, the very first move is
+
+00:03:36.800 --> 00:03:40.080
+to let it study the work that the old
+
+00:03:38.280 --> 00:03:41.959
+brain did. So, a better model doesn't
+
+00:03:40.080 --> 00:03:43.800
+just write better, it sees problems that
+
+00:03:41.959 --> 00:03:45.280
+the old model couldn't even notice. It's
+
+00:03:43.800 --> 00:03:46.760
+like bringing in a new coach to watch
+
+00:03:45.280 --> 00:03:48.239
+film of your old fights. The fighter
+
+00:03:46.760 --> 00:03:50.040
+didn't change, the footage didn't
+
+00:03:48.239 --> 00:03:51.920
+change, the only thing that changed is
+
+00:03:50.040 --> 00:03:53.560
+the quality of the eyes watching it. And
+
+00:03:51.920 --> 00:03:55.360
+the better coach catches the holes in
+
+00:03:53.560 --> 00:03:56.880
+your defense that the old coach walked
+
+00:03:55.360 --> 00:03:58.960
+right past. So, within a couple of
+
+00:03:56.880 --> 00:04:01.040
+minutes, Fable had flagged weak spots in
+
+00:03:58.960 --> 00:04:02.320
+my system that I stopped noticing a long
+
+00:04:01.040 --> 00:04:04.280
+time ago. Because when you look at
+
+00:04:02.320 --> 00:04:06.560
+something every single day, you go blind
+
+00:04:04.280 --> 00:04:08.480
+to it. And then I went one level deeper.
+
+00:04:06.560 --> 00:04:10.160
+I let Fable go through every single
+
+00:04:08.480 --> 00:04:11.360
+skill that I've built inside Claude. So,
+
+00:04:10.160 --> 00:04:13.320
+if you've never heard of that term, a
+
+00:04:11.360 --> 00:04:14.440
+skill is basically a saved playbook. All
+
+00:04:13.320 --> 00:04:16.359
+right, it's a set of instructions that
+
+00:04:14.440 --> 00:04:17.959
+Claude follows the exact same way every
+
+00:04:16.359 --> 00:04:19.760
+single time. And I have skills for
+
+00:04:17.959 --> 00:04:21.320
+everything from finding video ideas to
+
+00:04:19.760 --> 00:04:23.120
+writing full scripts, and Fable went
+
+00:04:21.320 --> 00:04:24.600
+through each one and showed me exactly
+
+00:04:23.120 --> 00:04:26.360
+where it could be improved. And here's
+
+00:04:24.600 --> 00:04:27.919
+the thing, this is where the difference
+
+00:04:26.360 --> 00:04:29.720
+really showed up for me. Sometimes I
+
+00:04:27.919 --> 00:04:31.440
+like to write about 18 scripts at once.
+
+00:04:29.720 --> 00:04:33.160
+Usually about 6 to 12, but this last
+
+00:04:31.440 --> 00:04:34.560
+time I did 18. And with the older model,
+
+00:04:33.160 --> 00:04:36.000
+the chatbot hit its limit and error out
+
+00:04:34.560 --> 00:04:37.800
+the second I fed it new information
+
+00:04:36.000 --> 00:04:39.400
+mid-batch. And I would have to redo that
+
+00:04:37.800 --> 00:04:41.280
+work all over again. With Fable, the
+
+00:04:39.400 --> 00:04:42.440
+batch runs from start to finish. So,
+
+00:04:41.280 --> 00:04:44.040
+instead of having to give it five
+
+00:04:42.440 --> 00:04:46.240
+different commands step-by-step, it can
+
+00:04:44.040 --> 00:04:48.160
+just do all of it in one shot. The error
+
+00:04:46.240 --> 00:04:50.040
+wall is gone and the redo loop is gone
+
+00:04:48.160 --> 00:04:52.200
+as well, and it's seamless now. And this
+
+00:04:50.040 --> 00:04:53.800
+is incredibly useful for content
+
+00:04:52.200 --> 00:04:55.120
+creation. Now, by the way, this week I'm
+
+00:04:53.800 --> 00:04:56.120
+hosting a free live training, and at
+
+00:04:55.120 --> 00:04:57.880
+this training I'm going to be giving
+
+00:04:56.120 --> 00:05:00.000
+away a skill straight out of my own
+
+00:04:57.880 --> 00:05:01.280
+system. It's the most popular skill that
+
+00:05:00.000 --> 00:05:03.400
+we've ever created, and it's called the
+
+00:05:01.280 --> 00:05:04.840
+Niche Validator Pro. Hey, quick break.
+
+00:05:03.400 --> 00:05:06.520
+I'm going to be doing a live training
+
+00:05:04.840 --> 00:05:08.400
+this week on how to start a YouTube
+
+00:05:06.520 --> 00:05:09.840
+channel step-by-step for beginners. This
+
+00:05:08.400 --> 00:05:11.040
+is going to be for people who want to
+
+00:05:09.840 --> 00:05:12.880
+start a channel, but they don't know
+
+00:05:11.040 --> 00:05:14.400
+what niche to pick, what videos to make,
+
+00:05:12.880 --> 00:05:16.000
+or how to actually get started the right
+
+00:05:14.400 --> 00:05:18.240
+way. And it's a completely free
+
+00:05:16.000 --> 00:05:20.640
+training, no strings attached. In fact,
+
+00:05:18.240 --> 00:05:22.480
+I'm giving away even more bonuses at the
+
+00:05:20.640 --> 00:05:24.040
+training. So, just as an example, I'm
+
+00:05:22.480 --> 00:05:25.600
+going to be giving away my Niche
+
+00:05:24.040 --> 00:05:27.880
+Validator. Um, this is going to be
+
+00:05:25.600 --> 00:05:29.919
+available both for ChatGPT as well as
+
+00:05:27.880 --> 00:05:31.560
+Claude, which is a super valuable piece
+
+00:05:29.919 --> 00:05:34.160
+of software where you can finally figure
+
+00:05:31.560 --> 00:05:35.760
+out what the best niche for you is. So,
+
+00:05:34.160 --> 00:05:36.720
+do not miss out on this training. Make
+
+00:05:35.760 --> 00:05:38.560
+sure you sign up for it down in the
+
+00:05:36.720 --> 00:05:40.400
+description and the pin comment below,
+
+00:05:38.560 --> 00:05:42.520
+because you only get it if you join the
+
+00:05:40.400 --> 00:05:44.200
+training. So, if you don't join now, you
+
+00:05:42.520 --> 00:05:45.760
+might miss it. But, that being said, in
+
+00:05:44.200 --> 00:05:47.120
+the workshop, you'll get get meet me,
+
+00:05:45.760 --> 00:05:48.680
+and you'll get to ask me questions
+
+00:05:47.120 --> 00:05:49.760
+directly. So, I look forward to seeing
+
+00:05:48.680 --> 00:05:50.920
+you in there. So, click the link in the
+
+00:05:49.760 --> 00:05:52.280
+description and the pin comment below,
+
+00:05:50.920 --> 00:05:53.520
+put it in your calendar, and if for
+
+00:05:52.280 --> 00:05:55.240
+whatever reason you missed out on it or
+
+00:05:53.520 --> 00:05:56.960
+you weren't able to attend, make sure
+
+00:05:55.240 --> 00:05:59.000
+you still click that link because we
+
+00:05:56.960 --> 00:06:00.440
+might be having workshops in the future
+
+00:05:59.000 --> 00:06:01.760
+as well, and you'll be the first to know
+
+00:06:00.440 --> 00:06:03.560
+about it. So, yeah, hope to see you
+
+00:06:01.760 --> 00:06:05.400
+there, and now back to your regularly
+
+00:06:03.560 --> 00:06:07.120
+scheduled content. All right, so next, I
+
+00:06:05.400 --> 00:06:08.640
+gave Fable the job that matters more
+
+00:06:07.120 --> 00:06:10.840
+than anything else on YouTube, and that
+
+00:06:08.640 --> 00:06:12.880
+is finding video ideas that are already
+
+00:06:10.840 --> 00:06:14.720
+proven to work. So, I let Fable go
+
+00:06:12.880 --> 00:06:16.640
+through VidIQ and hunt down outlier
+
+00:06:14.720 --> 00:06:18.120
+videos for me, and of course, I had it
+
+00:06:16.640 --> 00:06:19.720
+use the icon method. Now, if you've
+
+00:06:18.120 --> 00:06:21.520
+never heard of it, here's exactly what
+
+00:06:19.720 --> 00:06:23.400
+Fable was hunting for. A video with at
+
+00:06:21.520 --> 00:06:25.440
+least 100,000 views sitting on a channel
+
+00:06:23.400 --> 00:06:27.480
+with less than 100,000 subscribers with
+
+00:06:25.440 --> 00:06:30.120
+at least a five to one views to
+
+00:06:27.480 --> 00:06:32.240
+subscriber ratio, and with a mediocre or
+
+00:06:30.120 --> 00:06:34.240
+flat-out bad thumbnail and video
+
+00:06:32.240 --> 00:06:36.240
+production. Now, why those filters?
+
+00:06:34.240 --> 00:06:38.160
+Because when a video pulls 100,000 views
+
+00:06:36.240 --> 00:06:40.160
+on a small channel with ugly packaging,
+
+00:06:38.160 --> 00:06:41.640
+aka the video's just bad, those views
+
+00:06:40.160 --> 00:06:43.160
+didn't come from the audience, and they
+
+00:06:41.640 --> 00:06:44.520
+didn't come from the thumbnail, and they
+
+00:06:43.160 --> 00:06:46.240
+certainly didn't come from the video
+
+00:06:44.520 --> 00:06:49.160
+actually being good. The views came from
+
+00:06:46.240 --> 00:06:50.960
+the idea itself, which means that idea
+
+00:06:49.160 --> 00:06:52.560
+is undervalued. There's a massive amount
+
+00:06:50.960 --> 00:06:54.000
+of demand for the idea, and there's not
+
+00:06:52.560 --> 00:06:55.600
+that much supply, and that means that
+
+00:06:54.000 --> 00:06:57.360
+you can take it even further with better
+
+00:06:55.600 --> 00:06:59.200
+packaging and a better video. And this
+
+00:06:57.360 --> 00:07:00.600
+makes it somewhere between 10 to 30
+
+00:06:59.200 --> 00:07:02.400
+times more likely that the video is
+
+00:07:00.600 --> 00:07:04.680
+going to do well. So, Fable hands me a
+
+00:07:02.400 --> 00:07:06.400
+list of proven undervalued ideas, and
+
+00:07:04.680 --> 00:07:08.000
+then I let it run my skills on top of
+
+00:07:06.400 --> 00:07:09.640
+them. The holy trifecta skill builds the
+
+00:07:08.000 --> 00:07:11.360
+title, the thumbnail concept, and the
+
+00:07:09.640 --> 00:07:13.280
+intro, and my scriptwriting skill writes
+
+00:07:11.360 --> 00:07:15.600
+the full script in my voice. And in case
+
+00:07:13.280 --> 00:07:17.120
+you're wondering, the answer is yes. So,
+
+00:07:15.600 --> 00:07:18.600
+how should you actually use Fable this
+
+00:07:17.120 --> 00:07:20.240
+week? Well, here's the simple version.
+
+00:07:18.600 --> 00:07:22.280
+Number one, it's sitting inside of the
+
+00:07:20.240 --> 00:07:23.840
+same Claude app right now. It's included
+
+00:07:22.280 --> 00:07:25.880
+with the paid plans at no extra cost
+
+00:07:23.840 --> 00:07:27.560
+until June 22nd. So, the free window is
+
+00:07:25.880 --> 00:07:29.360
+pretty short. Number two, don't try to
+
+00:07:27.560 --> 00:07:30.600
+do everything at once. Pick one
+
+00:07:29.360 --> 00:07:32.000
+repeatable piece of your content
+
+00:07:30.600 --> 00:07:33.720
+process, whether that's your script,
+
+00:07:32.000 --> 00:07:35.160
+your description, or your title, or your
+
+00:07:33.720 --> 00:07:36.600
+thumbnail package, and then run it from
+
+00:07:35.160 --> 00:07:38.480
+start to finish with Fable. Number
+
+00:07:36.600 --> 00:07:40.680
+three, let it study what you've already
+
+00:07:38.480 --> 00:07:42.360
+made. This is super underrated, right?
+
+00:07:40.680 --> 00:07:44.160
+Feed it your old scripts or your past
+
+00:07:42.360 --> 00:07:46.040
+videos, give it as much information as
+
+00:07:44.160 --> 00:07:48.520
+you can, and pro tip here, literally
+
+00:07:46.040 --> 00:07:50.120
+just let it interview you and ask you
+
+00:07:48.520 --> 00:07:52.160
+for the information that it needs. And
+
+00:07:50.120 --> 00:07:54.120
+then ask it one simple question, what
+
+00:07:52.160 --> 00:07:55.920
+would you improve? You will be shocked
+
+00:07:54.120 --> 00:07:57.400
+at what it catches. And whatever you do,
+
+00:07:55.920 --> 00:07:59.280
+keep yourself in the loop. Keep your own
+
+00:07:57.400 --> 00:08:01.120
+stories and your own voice in there, and
+
+00:07:59.280 --> 00:08:02.720
+always give it your final pass. That is
+
+00:08:01.120 --> 00:08:04.200
+what keeps your channel feeling human,
+
+00:08:02.720 --> 00:08:05.520
+and that is what keeps it safe as well.
+
+00:08:04.200 --> 00:08:07.160
+So yeah, use this opportunity to take
+
+00:08:05.520 --> 00:08:08.520
+advantage of Favored for free because
+
+00:08:07.160 --> 00:08:10.680
+it's not going to last very long. And
+
+00:08:08.520 --> 00:08:12.000
+look, I know 99% of people watching this
+
+00:08:10.680 --> 00:08:13.160
+are just going to take this free content
+
+00:08:12.000 --> 00:08:14.720
+and run with it, right? You're going to
+
+00:08:13.160 --> 00:08:16.080
+enjoy my free videos, which I give a ton
+
+00:08:14.720 --> 00:08:17.440
+of value in. You're also going to attend
+
+00:08:16.080 --> 00:08:19.160
+my live trainings, which I give even
+
+00:08:17.440 --> 00:08:20.440
+more free value in, and you're never
+
+00:08:19.160 --> 00:08:21.960
+going to end up working directly with
+
+00:08:20.440 --> 00:08:24.200
+myself or my team, and that is
+
+00:08:21.960 --> 00:08:25.600
+completely fine. But for the 1% of you
+
+00:08:24.200 --> 00:08:27.240
+who want your hand held through this
+
+00:08:25.600 --> 00:08:28.919
+entire process of creating a personal
+
+00:08:27.240 --> 00:08:30.240
+brand and a YouTube channel, and signing
+
+00:08:28.919 --> 00:08:31.760
+more clients with YouTube, and basically
+
+00:08:30.240 --> 00:08:33.039
+making more money with YouTube, I do
+
+00:08:31.760 --> 00:08:34.360
+work with a small group of people
+
+00:08:33.039 --> 00:08:35.840
+one-on-one, right? We're only accepting
+
+00:08:34.360 --> 00:08:37.440
+about three to five people right now for
+
+00:08:35.840 --> 00:08:38.919
+one-on-one coaching. And for the
+
+00:08:37.440 --> 00:08:40.760
+business owners out there that literally
+
+00:08:38.919 --> 00:08:42.719
+don't have time for coaching, we do have
+
+00:08:40.760 --> 00:08:44.400
+a done-for-you solution as well, where
+
+00:08:42.719 --> 00:08:45.839
+we literally just do all of the work for
+
+00:08:44.400 --> 00:08:47.160
+you, including hiring and training the
+
+00:08:45.839 --> 00:08:49.040
+right people that know how to run all of
+
+00:08:47.160 --> 00:08:50.320
+this for you as well. So if that sounds
+
+00:08:49.040 --> 00:08:51.280
+interesting to you, go ahead and book a
+
+00:08:50.320 --> 00:08:52.960
+call by clicking the link in the
+
+00:08:51.280 --> 00:08:54.680
+description and the pin comment below.
+
+00:08:52.960 --> 00:08:56.120
+But only book the call if you're very
+
+00:08:54.680 --> 00:08:57.400
+serious about growing and making money
+
+00:08:56.120 --> 00:08:58.960
+on YouTube. The types of people we
+
+00:08:57.400 --> 00:09:01.120
+typically work with are online
+
+00:08:58.960 --> 00:09:03.320
+businesses, so coaches, consultants,
+
+00:09:01.120 --> 00:09:05.280
+agency owners, online service providers,
+
+00:09:03.320 --> 00:09:07.040
+and expert businesses. But we also work
+
+00:09:05.280 --> 00:09:08.600
+with some types of local or localized
+
+00:09:07.040 --> 00:09:09.920
+type businesses, too. So we work with a
+
+00:09:08.600 --> 00:09:12.400
+lot of people in real estate, like
+
+00:09:09.920 --> 00:09:14.440
+realtors, law firms, financial advisers,
+
+00:09:12.400 --> 00:09:16.120
+dental cosmetic clinics, and people in
+
+00:09:14.440 --> 00:09:17.520
+insurance as well. The second group of
+
+00:09:16.120 --> 00:09:18.600
+people we work with are YouTubers who
+
+00:09:17.520 --> 00:09:20.240
+are getting a lot of views, but they're
+
+00:09:18.600 --> 00:09:21.880
+struggling with monetization. We only
+
+00:09:20.240 --> 00:09:23.400
+work with educational YouTubers, though.
+
+00:09:21.880 --> 00:09:24.560
+The third group is YouTubers who are
+
+00:09:23.400 --> 00:09:26.120
+crushing it, but they want to crush it
+
+00:09:24.560 --> 00:09:28.200
+even harder. And the fourth group is
+
+00:09:26.120 --> 00:09:29.720
+people who want to treat YouTube like a
+
+00:09:28.200 --> 00:09:31.200
+business, right? You're typically an
+
+00:09:29.720 --> 00:09:32.480
+expert or you're a professional, you
+
+00:09:31.200 --> 00:09:34.000
+have a lot of value to give to the
+
+00:09:32.480 --> 00:09:35.520
+world, you probably had a lot of
+
+00:09:34.000 --> 00:09:37.160
+problems and you solved a a of problems
+
+00:09:35.520 --> 00:09:38.840
+in your life, and you want to help other
+
+00:09:37.160 --> 00:09:40.280
+people solve problems as well. And the
+
+00:09:38.840 --> 00:09:41.760
+most important thing is you're very
+
+00:09:40.280 --> 00:09:43.640
+serious about growing and making money
+
+00:09:41.760 --> 00:09:45.000
+on YouTube quickly. You do not want to
+
+00:09:43.640 --> 00:09:46.200
+bang your head against the wall for 3
+
+00:09:45.000 --> 00:09:48.080
+years trying to figure it out on your
+
+00:09:46.200 --> 00:09:49.360
+own. Now, we only accept about 18% of
+
+00:09:48.080 --> 00:09:50.560
+people who try to work with us, but if
+
+00:09:49.360 --> 00:09:51.560
+that sounds like you, go ahead and click
+
+00:09:50.560 --> 00:09:53.040
+that link in the description and pin
+
+00:09:51.560 --> 00:09:54.160
+comment below. And check out this video
+
+00:09:53.040 --> 00:09:55.600
+right here of one of the clients that we
+
+00:09:54.160 --> 00:09:57.560
+worked with, which we literally helped
+
+00:09:55.600 --> 00:09:59.840
+to make number one in their niche and
+
+00:09:57.560 --> 00:10:00.960
+make over $500,000 in a single month.
+
+00:09:59.840 --> 00:10:04.560
+And you can check that interview out
+
+00:10:00.960 --> 00:10:04.560
+with Shawn by clicking right here.
+

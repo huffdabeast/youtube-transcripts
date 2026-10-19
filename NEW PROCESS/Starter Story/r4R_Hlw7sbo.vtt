@@ -1,0 +1,1478 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.320
+This started as a fun side project, but
+
+00:00:01.760 --> 00:00:06.280
+we turned it into a real business. Meet
+
+00:00:04.320 --> 00:00:08.560
+Brian. He and his girlfriend built a
+
+00:00:06.280 --> 00:00:10.400
+really simple mobile app, and in less
+
+00:00:08.560 --> 00:00:11.720
+than 3 months, they grew it to over
+
+00:00:10.400 --> 00:00:13.720
+$20,000 [music]
+
+00:00:11.720 --> 00:00:15.920
+a month. We set a number and didn't
+
+00:00:13.720 --> 00:00:18.160
+start building until we hit it. You
+
+00:00:15.920 --> 00:00:20.720
+might think he validated the idea like
+
+00:00:18.160 --> 00:00:22.925
+everyone else, but no. He did something
+
+00:00:20.720 --> 00:00:25.120
+I've never seen before, and it's called
+
+00:00:22.925 --> 00:00:26.600
+[music] the commitment metric. We made
+
+00:00:25.120 --> 00:00:28.240
+sure that people committed to this
+
+00:00:26.600 --> 00:00:30.160
+product before writing a single line of
+
+00:00:28.240 --> 00:00:32.599
+code. So, I brought Brian onto the
+
+00:00:30.160 --> 00:00:34.760
+channel to break it all down for me. In
+
+00:00:32.599 --> 00:00:36.520
+this episode, we'll dive into the
+
+00:00:34.760 --> 00:00:39.680
+amazingly simple app that makes over
+
+00:00:36.520 --> 00:00:42.120
+$20,000 a month, why you should resist
+
+00:00:39.680 --> 00:00:44.600
+the temptation to build anything until
+
+00:00:42.120 --> 00:00:46.960
+you hit this one number, and the new
+
+00:00:44.600 --> 00:00:50.320
+framework to validate business ideas in
+
+00:00:46.960 --> 00:00:52.840
+an AI world. This one is a great story,
+
+00:00:50.320 --> 00:00:56.000
+so let's dive [music] in. I'm Pat Walls,
+
+00:00:52.840 --> 00:00:56.000
+and this is Starter Story.
+
+00:00:56.200 --> 00:01:00.000
+All right. Welcome Brian to the channel.
+
+00:00:58.200 --> 00:01:01.760
+Tell me about who you are, what app you
+
+00:01:00.000 --> 00:01:03.360
+built, and what's your story. Hey Pat,
+
+00:01:01.760 --> 00:01:05.519
+nice to meet you. My name is Brian Shin,
+
+00:01:03.360 --> 00:01:07.520
+and we built a disposable camera app
+
+00:01:05.519 --> 00:01:09.280
+called Once. We launched back in
+
+00:01:07.520 --> 00:01:11.360
+December 2025, [music] and fortunately,
+
+00:01:09.280 --> 00:01:13.880
+we were able to hit 20K in monthly
+
+00:01:11.360 --> 00:01:15.640
+revenue within 83 days of launch. So,
+
+00:01:13.880 --> 00:01:17.945
+today, I really want to share exactly
+
+00:01:15.640 --> 00:01:18.040
+how we pre-validated Once before
+
+00:01:17.945 --> 00:01:19.880
+>> [music]
+
+00:01:18.040 --> 00:01:21.440
+>> writing a single line of code, and also
+
+00:01:19.880 --> 00:01:23.440
+some of the growth playbooks that we had
+
+00:01:21.440 --> 00:01:26.040
+to grow Once from zero all the way to
+
+00:01:23.440 --> 00:01:27.640
+$20,000 in monthly revenue. Okay, cool.
+
+00:01:26.040 --> 00:01:29.280
+I mean, awesome to have you here. Would
+
+00:01:27.640 --> 00:01:32.000
+you be able to just explain what your
+
+00:01:29.280 --> 00:01:33.760
+app does, who uses it, and pull up some
+
+00:01:32.000 --> 00:01:35.680
+of your revenue dashboards to show that
+
+00:01:33.760 --> 00:01:37.880
+this is legit to the audience? Yeah, for
+
+00:01:35.680 --> 00:01:40.000
+sure. So, Once is basically a disposable
+
+00:01:37.880 --> 00:01:41.960
+camera for events, especially for
+
+00:01:40.000 --> 00:01:43.720
+weddings, birthday parties, and these
+
+00:01:41.960 --> 00:01:45.120
+days even for some corporate events. So,
+
+00:01:43.720 --> 00:01:47.680
+anything where a group of people can
+
+00:01:45.120 --> 00:01:50.240
+come together, have fun, and capture all
+
+00:01:47.680 --> 00:01:52.360
+the candid moments, Once can play a role
+
+00:01:50.240 --> 00:01:54.120
+there. And our pricing is based on the
+
+00:01:52.360 --> 00:01:55.800
+number of guests that you want to invite
+
+00:01:54.120 --> 00:01:57.600
+into your event. So, if it's like a
+
+00:01:55.800 --> 00:01:59.760
+small birthday party with just 10
+
+00:01:57.600 --> 00:02:01.080
+people, it's going to be just $2. But,
+
+00:01:59.760 --> 00:02:03.440
+if it's like a bigger wedding for
+
+00:02:01.080 --> 00:02:05.720
+instance, if it's like 150 people, it'll
+
+00:02:03.440 --> 00:02:08.160
+be $50. So, that's the more usage, the
+
+00:02:05.720 --> 00:02:09.640
+more guests, the more higher tier that
+
+00:02:08.160 --> 00:02:11.600
+you would need to purchase in order to
+
+00:02:09.640 --> 00:02:13.320
+use [music] Once. So, it's been around 3
+
+00:02:11.600 --> 00:02:15.800
+months since launching, and our weekly
+
+00:02:13.320 --> 00:02:18.040
+active users is around 10,000 to 12,000
+
+00:02:15.800 --> 00:02:19.800
+users at the moment. And in terms of
+
+00:02:18.040 --> 00:02:21.680
+revenue, this month we're totaling
+
+00:02:19.800 --> 00:02:23.320
+around $22,000.
+
+00:02:21.680 --> 00:02:25.160
+And this is our internal dashboard
+
+00:02:23.320 --> 00:02:27.080
+calendar where you can see all of our
+
+00:02:25.160 --> 00:02:28.400
+active users who have scheduled an event
+
+00:02:27.080 --> 00:02:30.520
+through Once. And as you can see, in
+
+00:02:28.400 --> 00:02:33.080
+February, there are around more than 300
+
+00:02:30.520 --> 00:02:35.040
+events. And for March, we got around 700
+
+00:02:33.080 --> 00:02:37.280
+events coming up real soon. Here's what
+
+00:02:35.040 --> 00:02:39.840
+I love about Brian's story. It's a great
+
+00:02:37.280 --> 00:02:42.200
+example of someone who focused on growth
+
+00:02:39.840 --> 00:02:44.440
+and then hit $20,000 a month in less
+
+00:02:42.200 --> 00:02:46.200
+than 90 days. And this got me thinking.
+
+00:02:44.440 --> 00:02:47.959
+We talked to dozens of mobile app
+
+00:02:46.200 --> 00:02:49.760
+founders every week right here in this
+
+00:02:47.959 --> 00:02:52.480
+channel, and I always ask them the same
+
+00:02:49.760 --> 00:02:54.000
+question. How did you actually grow your
+
+00:02:52.480 --> 00:02:56.280
+app? Well, since we talked to so many
+
+00:02:54.000 --> 00:02:58.080
+people, we decided to turn all of their
+
+00:02:56.280 --> 00:03:00.080
+answers into a free guide that you can
+
+00:02:58.080 --> 00:03:02.200
+download right now. It's called the
+
+00:03:00.080 --> 00:03:04.480
+mobile app growth cheat sheet, and
+
+00:03:02.200 --> 00:03:06.320
+inside you will find the seven different
+
+00:03:04.480 --> 00:03:08.840
+marketing tactics that are working for
+
+00:03:06.320 --> 00:03:10.360
+real founders right now making money
+
+00:03:08.840 --> 00:03:12.800
+with mobile apps. If you're ready to
+
+00:03:10.360 --> 00:03:14.680
+focus on growth and actually grow your
+
+00:03:12.800 --> 00:03:17.239
+app, just head to the first link in the
+
+00:03:14.680 --> 00:03:20.200
+description to download the entire guide
+
+00:03:17.239 --> 00:03:21.239
+for free. I promise it won't disappoint.
+
+00:03:20.200 --> 00:03:22.880
+All right, let's get back to the
+
+00:03:21.239 --> 00:03:24.959
+episode. Okay, cool. I mean, this looks
+
+00:03:22.880 --> 00:03:26.840
+like a really cool app. I can see why
+
+00:03:24.959 --> 00:03:28.000
+it's popular and why it's growing. I
+
+00:03:26.840 --> 00:03:29.280
+want to understand a little bit about
+
+00:03:28.000 --> 00:03:30.880
+your background. How did you get to this
+
+00:03:29.280 --> 00:03:33.080
+point where you're building this cool
+
+00:03:30.880 --> 00:03:34.959
+consumer app that over 300 people are
+
+00:03:33.080 --> 00:03:36.800
+about to use this month at events?
+
+00:03:34.959 --> 00:03:39.160
+What's your background? So, before
+
+00:03:36.800 --> 00:03:41.000
+founding Once, I co-founded a
+
+00:03:39.160 --> 00:03:42.519
+venture-backed B2B startup. It's
+
+00:03:41.000 --> 00:03:44.680
+completely different from Once. It was
+
+00:03:42.519 --> 00:03:46.000
+more of a heavy sales-driven 50-person
+
+00:03:44.680 --> 00:03:47.720
+company. So, building this
+
+00:03:46.000 --> 00:03:49.200
+venture-backed startup really showed me
+
+00:03:47.720 --> 00:03:50.760
+what a real business is and everything
+
+00:03:49.200 --> 00:03:52.520
+related to building a fast-growth
+
+00:03:50.760 --> 00:03:54.800
+company. And while I was at the company,
+
+00:03:52.520 --> 00:03:57.000
+I found the whole bootstrap scene, which
+
+00:03:54.800 --> 00:03:58.480
+I didn't know existed before. I met all
+
+00:03:57.000 --> 00:04:01.200
+these really cool indie hackers and
+
+00:03:58.480 --> 00:04:03.360
+bootstrap founders who are validating in
+
+00:04:01.200 --> 00:04:05.880
+a very small way, so that it's rather a
+
+00:04:03.360 --> 00:04:07.040
+safer, smaller bet, as opposed to
+
+00:04:05.880 --> 00:04:08.880
+betting your whole life on something
+
+00:04:07.040 --> 00:04:10.800
+that's bigger. And I don't think there's
+
+00:04:08.880 --> 00:04:12.640
+right or wrong here, but I really wanted
+
+00:04:10.800 --> 00:04:14.440
+to try this new path of building a
+
+00:04:12.640 --> 00:04:16.600
+bootstrap company. And that's why this
+
+00:04:14.440 --> 00:04:18.760
+time I really wanted full control over
+
+00:04:16.600 --> 00:04:21.000
+the product that we built. Hence me and
+
+00:04:18.760 --> 00:04:23.160
+my co-founder, my girlfriend, we decided
+
+00:04:21.000 --> 00:04:24.440
+to go fully bootstrap this time. Okay,
+
+00:04:23.160 --> 00:04:26.120
+cool. Let's switch topics a little bit
+
+00:04:24.440 --> 00:04:27.880
+and talk about the idea. So, how do you
+
+00:04:26.120 --> 00:04:30.360
+actually find the idea for this app that
+
+00:04:27.880 --> 00:04:32.440
+eventually makes over $20,000 a month?
+
+00:04:30.360 --> 00:04:34.040
+The whole story comes from me and my
+
+00:04:32.440 --> 00:04:36.200
+co-founder, who is my girlfriend. Just
+
+00:04:34.040 --> 00:04:38.000
+last year we traveled to almost seven,
+
+00:04:36.200 --> 00:04:40.760
+eight different countries, and every
+
+00:04:38.000 --> 00:04:42.520
+single city we go to, we bring around a
+
+00:04:40.760 --> 00:04:44.160
+disposable camera. If you try using a
+
+00:04:42.520 --> 00:04:46.520
+disposable camera, it's [music] such a
+
+00:04:44.160 --> 00:04:48.640
+simple product, but it's so magical in a
+
+00:04:46.520 --> 00:04:50.360
+way that it has so many limitations. You
+
+00:04:48.640 --> 00:04:52.400
+can't see the photo right away. You have
+
+00:04:50.360 --> 00:04:54.160
+a limited amount of shots, but I think
+
+00:04:52.400 --> 00:04:56.360
+those limitations, it actually makes the
+
+00:04:54.160 --> 00:04:58.480
+whole experience much real. So, really
+
+00:04:56.360 --> 00:05:00.320
+the whole idea behind Once was, why
+
+00:04:58.480 --> 00:05:02.919
+don't we try to build [music] a digital
+
+00:05:00.320 --> 00:05:04.560
+experience that almost replicates that
+
+00:05:02.919 --> 00:05:06.800
+traditional disposable camera, was the
+
+00:05:04.560 --> 00:05:08.760
+whole idea behind it. That's awesome.
+
+00:05:06.800 --> 00:05:10.919
+Let's talk about how you built this app.
+
+00:05:08.760 --> 00:05:12.720
+How long did it take to build this app,
+
+00:05:10.919 --> 00:05:14.880
+and what was that journey like? So, the
+
+00:05:12.720 --> 00:05:16.720
+first version took around a week or two.
+
+00:05:14.880 --> 00:05:18.680
+It was a web app that kind of just had
+
+00:05:16.720 --> 00:05:20.440
+the core features of what a mobile app
+
+00:05:18.680 --> 00:05:22.280
+intended to have. We had a Halloween
+
+00:05:20.440 --> 00:05:23.919
+party hosted by my friend coming up, so
+
+00:05:22.280 --> 00:05:25.960
+we built out this web version. We
+
+00:05:23.919 --> 00:05:27.640
+printed out some invitation codes, so
+
+00:05:25.960 --> 00:05:30.080
+that everyone in the party can join in,
+
+00:05:27.640 --> 00:05:32.080
+take photos. And honestly, it broke many
+
+00:05:30.080 --> 00:05:34.280
+times during the event, but we were able
+
+00:05:32.080 --> 00:05:36.018
+to validate the core idea that people
+
+00:05:34.280 --> 00:05:37.919
+love taking photos in that event into
+
+00:05:36.018 --> 00:05:39.840
+[music] a singular album of each other
+
+00:05:37.919 --> 00:05:41.480
+through an experience that mocks the
+
+00:05:39.840 --> 00:05:43.200
+whole disposable camera experience. So,
+
+00:05:41.480 --> 00:05:45.200
+it didn't need to be perfect, but it was
+
+00:05:43.200 --> 00:05:47.040
+perfect enough to validate what we
+
+00:05:45.200 --> 00:05:49.000
+wanted to check. Another question is,
+
+00:05:47.040 --> 00:05:50.720
+AI. I mean, you just built this like 3
+
+00:05:49.000 --> 00:05:53.160
+months ago. Did you just build it with
+
+00:05:50.720 --> 00:05:55.440
+AI tools or what tools did you use? Uh
+
+00:05:53.160 --> 00:05:57.640
+it might be a hot take, but after we
+
+00:05:55.440 --> 00:05:59.360
+validated with the web app, we threw out
+
+00:05:57.640 --> 00:06:01.960
+the first version. And that's because I
+
+00:05:59.360 --> 00:06:05.280
+honestly believe that consumer app is
+
+00:06:01.960 --> 00:06:07.080
+basically a craft. And I use a lot of AI
+
+00:06:05.280 --> 00:06:09.200
+for dev, for finance, for everything,
+
+00:06:07.080 --> 00:06:11.440
+but for design, we never use AI. And
+
+00:06:09.200 --> 00:06:14.320
+that's because we really believe that
+
+00:06:11.440 --> 00:06:16.400
+design requires taste. And we think that
+
+00:06:14.320 --> 00:06:18.160
+the more opinionated, the better design
+
+00:06:16.400 --> 00:06:20.120
+that could possibly come out. But aside
+
+00:06:18.160 --> 00:06:22.720
+from that, I I basically live on Cloud
+
+00:06:20.120 --> 00:06:24.600
+Code. Yeah, I mean, I 100% agree with
+
+00:06:22.720 --> 00:06:26.760
+that. Design is one of those things that
+
+00:06:24.600 --> 00:06:28.240
+AI is not that good at yet. And when you
+
+00:06:26.760 --> 00:06:29.080
+have a B2C app like this, a
+
+00:06:28.240 --> 00:06:31.040
+consumer-facing [music]
+
+00:06:29.080 --> 00:06:33.400
+app, you want it to feel This isn't just
+
+00:06:31.040 --> 00:06:35.320
+for utility, this is for fun,
+
+00:06:33.400 --> 00:06:36.640
+creativeness. So, I agree on that. Let's
+
+00:06:35.320 --> 00:06:38.360
+talk about the tech stack. What did you
+
+00:06:36.640 --> 00:06:40.864
+actually use to build this? All of our
+
+00:06:38.360 --> 00:06:42.960
+designs live inside Figma. And for the
+
+00:06:40.864 --> 00:06:45.440
+[music] dev part, feel like I I'm stuck
+
+00:06:42.960 --> 00:06:47.880
+with Cloud Code. And I started off with
+
+00:06:45.440 --> 00:06:49.919
+just a single terminal instance of Cloud
+
+00:06:47.880 --> 00:06:51.919
+Code Max, but I was recommended this
+
+00:06:49.919 --> 00:06:54.280
+tool called Conductor, where you can run
+
+00:06:51.919 --> 00:06:55.640
+several instances of Cloud Code to work
+
+00:06:54.280 --> 00:06:57.919
+on different [music] work trees at the
+
+00:06:55.640 --> 00:06:59.800
+same time. And we use Superbase for our
+
+00:06:57.919 --> 00:07:01.680
+database and back end. The web app used
+
+00:06:59.800 --> 00:07:03.480
+to live on Vercel, but we still have it
+
+00:07:01.680 --> 00:07:04.919
+running web aspects of the product.
+
+00:07:03.480 --> 00:07:06.960
+Okay, cool. We talked a lot about
+
+00:07:04.919 --> 00:07:08.760
+building, but I think maybe the more
+
+00:07:06.960 --> 00:07:11.040
+important thing here is validating. So,
+
+00:07:08.760 --> 00:07:13.000
+tell me about how you validated once. I
+
+00:07:11.040 --> 00:07:14.520
+did two things to validate our product
+
+00:07:13.000 --> 00:07:16.240
+and to get the first customers. Most
+
+00:07:14.520 --> 00:07:17.600
+obviously thing that you can do is just
+
+00:07:16.240 --> 00:07:19.600
+go through your personal network. And
+
+00:07:17.600 --> 00:07:22.400
+what I do is I open up three different
+
+00:07:19.600 --> 00:07:24.919
+tabs. I have my X open, I have my
+
+00:07:22.400 --> 00:07:26.880
+LinkedIn open, and I have my Instagram
+
+00:07:24.919 --> 00:07:28.840
+or Facebook open up. I have my friends
+
+00:07:26.880 --> 00:07:31.160
+list. I just go through every single one
+
+00:07:28.840 --> 00:07:33.400
+of them and see who might be a good fit.
+
+00:07:31.160 --> 00:07:35.760
+So, literally, I circled everyone who
+
+00:07:33.400 --> 00:07:37.160
+had a potential event coming up, and it
+
+00:07:35.760 --> 00:07:38.120
+was four friends who said, "Okay, I
+
+00:07:37.160 --> 00:07:39.960
+would love to try it." It was a
+
+00:07:38.120 --> 00:07:42.040
+Halloween party, birthday party, one
+
+00:07:39.960 --> 00:07:43.400
+wedding, and one networking event. So,
+
+00:07:42.040 --> 00:07:45.680
+this is the second part. Now, you have
+
+00:07:43.400 --> 00:07:47.560
+to go outside of your inner circle and
+
+00:07:45.680 --> 00:07:49.320
+really try to reach out to everyone who
+
+00:07:47.560 --> 00:07:51.040
+could be your potential customer. So,
+
+00:07:49.320 --> 00:07:52.960
+what I did was since once could be used
+
+00:07:51.040 --> 00:07:55.720
+at parties, at events, at weddings, I
+
+00:07:52.960 --> 00:07:58.320
+searched on Instagram #wedding,
+
+00:07:55.720 --> 00:08:00.960
+#birthdayparty, and cross-platform we
+
+00:07:58.320 --> 00:08:03.240
+had around 250 to 300 people listed out.
+
+00:08:00.960 --> 00:08:05.400
+I wrote down a very simple cold message
+
+00:08:03.240 --> 00:08:06.720
+type of two to three sentences max that
+
+00:08:05.400 --> 00:08:08.480
+could grab their attention and try to
+
+00:08:06.720 --> 00:08:10.640
+pitch your idea so that they can try it
+
+00:08:08.480 --> 00:08:12.720
+out. Amongst the 250 people we got
+
+00:08:10.640 --> 00:08:15.120
+around 15 people who reached back and we
+
+00:08:12.720 --> 00:08:17.000
+got around 12 events fixed for that
+
+00:08:15.120 --> 00:08:19.000
+single month and that's when me and my
+
+00:08:17.000 --> 00:08:21.200
+co-founder decided, "Okay, this does
+
+00:08:19.000 --> 00:08:22.640
+have market potential. Let's try to go
+
+00:08:21.200 --> 00:08:24.520
+all in and try to build out something
+
+00:08:22.640 --> 00:08:27.280
+that's really cool." This is awesome.
+
+00:08:24.520 --> 00:08:29.200
+I've never heard of validation in this
+
+00:08:27.280 --> 00:08:30.520
+sort of framing before. So, let's talk
+
+00:08:29.200 --> 00:08:33.320
+about this a little bit more. You got
+
+00:08:30.520 --> 00:08:35.599
+your app from zero to 20K in basically
+
+00:08:33.320 --> 00:08:37.400
+83 days. If you had to start over today,
+
+00:08:35.599 --> 00:08:39.039
+what would be your playbook? Step one
+
+00:08:37.400 --> 00:08:41.200
+would be to define your commitment
+
+00:08:39.039 --> 00:08:42.240
+metric. And commitment here means two
+
+00:08:41.200 --> 00:08:44.240
+different [music] things. Commitment for
+
+00:08:42.240 --> 00:08:46.360
+yourself and commitment for your
+
+00:08:44.240 --> 00:08:49.040
+potential users as well. For yourself,
+
+00:08:46.360 --> 00:08:51.760
+set a specific date and specific number
+
+00:08:49.040 --> 00:08:53.680
+of customers or clients or other metrics
+
+00:08:51.760 --> 00:08:55.680
+that you would like to see within that
+
+00:08:53.680 --> 00:08:57.760
+date range. And at least you know that
+
+00:08:55.680 --> 00:08:59.880
+this is a finite number of days that you
+
+00:08:57.760 --> 00:09:01.240
+are dedicating and investing to validate
+
+00:08:59.880 --> 00:09:02.880
+your business in a certain amount of
+
+00:09:01.240 --> 00:09:05.640
+time. And the commitment metric of the
+
+00:09:02.880 --> 00:09:08.200
+client to signal validation doesn't
+
+00:09:05.640 --> 00:09:10.520
+always need to be payment. So, for us it
+
+00:09:08.200 --> 00:09:12.080
+was event hosts using our product within
+
+00:09:10.520 --> 00:09:13.680
+those events. So, based on your
+
+00:09:12.080 --> 00:09:16.040
+vertical, based on your product, there
+
+00:09:13.680 --> 00:09:18.120
+must be some type of metric that truly
+
+00:09:16.040 --> 00:09:20.000
+represents usage. And yeah, once you
+
+00:09:18.120 --> 00:09:22.120
+have that commitment metric out, I guess
+
+00:09:20.000 --> 00:09:24.200
+step two would be to exhaust your
+
+00:09:22.120 --> 00:09:26.280
+personal network. Just open up all of
+
+00:09:24.200 --> 00:09:28.440
+your social media profiles and try to
+
+00:09:26.280 --> 00:09:31.120
+see who you can reach out to, whoever
+
+00:09:28.440 --> 00:09:32.520
+relevant to your ideal customer profile.
+
+00:09:31.120 --> 00:09:34.480
+And one of the most important things
+
+00:09:32.520 --> 00:09:36.520
+when talking to your friends and family
+
+00:09:34.480 --> 00:09:38.640
+is a very famous concept, but it's
+
+00:09:36.520 --> 00:09:40.360
+called the mom [music] test, which is if
+
+00:09:38.640 --> 00:09:42.200
+you try to validate a product with your
+
+00:09:40.360 --> 00:09:44.320
+mother, she would probably be very
+
+00:09:42.200 --> 00:09:46.040
+excited about whatever you build. And
+
+00:09:44.320 --> 00:09:47.640
+that is honestly not the best way to
+
+00:09:46.040 --> 00:09:49.120
+validate your product. So, just be
+
+00:09:47.640 --> 00:09:50.720
+honest with yourself so that you are
+
+00:09:49.120 --> 00:09:52.760
+sure that you're validating the product
+
+00:09:50.720 --> 00:09:54.040
+as opposed to trying to find
+
+00:09:52.760 --> 00:09:55.640
+encouragement for your product. So,
+
+00:09:54.040 --> 00:09:57.400
+that's step two. Well, step three is the
+
+00:09:55.640 --> 00:09:58.960
+real part, which is to build a quick
+
+00:09:57.400 --> 00:10:00.520
+mock-up. Don't spend more than two to
+
+00:09:58.960 --> 00:10:03.080
+three days with this. Just [music] go on
+
+00:10:00.520 --> 00:10:05.280
+Figma or just use many of these AI tools
+
+00:10:03.080 --> 00:10:06.840
+that's out there. No matter how crappy
+
+00:10:05.280 --> 00:10:07.960
+it is, just try to find that really
+
+00:10:06.840 --> 00:10:09.480
+simple [music] product that you can
+
+00:10:07.960 --> 00:10:11.440
+present to your users. And once you have
+
+00:10:09.480 --> 00:10:14.120
+that, step four is to go wherever your
+
+00:10:11.440 --> 00:10:15.800
+users are living in and are active in.
+
+00:10:14.120 --> 00:10:17.400
+Just start from zero. Go to Reddit.
+
+00:10:15.800 --> 00:10:18.840
+Learn the ins and outs of Reddit if
+
+00:10:17.400 --> 00:10:20.480
+Reddit [music] is the place to be, or if
+
+00:10:18.840 --> 00:10:22.880
+that's TikTok, or if that's YouTube.
+
+00:10:20.480 --> 00:10:24.480
+Because this channel will not only be
+
+00:10:22.880 --> 00:10:26.040
+used for validation, but if the
+
+00:10:24.480 --> 00:10:27.480
+validation works, it'll be your main
+
+00:10:26.040 --> 00:10:29.600
+marketing channel in the future also.
+
+00:10:27.480 --> 00:10:31.920
+So, do so much cold mailing, cold
+
+00:10:29.600 --> 00:10:33.640
+messaging. Honestly, what I tell other
+
+00:10:31.920 --> 00:10:35.680
+friends and founders is that if you
+
+00:10:33.640 --> 00:10:37.240
+haven't been banned in these platforms
+
+00:10:35.680 --> 00:10:39.760
+at least two times, you haven't tried
+
+00:10:37.240 --> 00:10:42.080
+enough. And step five is to set that
+
+00:10:39.760 --> 00:10:44.120
+number that gives you enough signal or
+
+00:10:42.080 --> 00:10:45.680
+confidence that this product has
+
+00:10:44.120 --> 00:10:47.560
+potential. [music] For us internally,
+
+00:10:45.680 --> 00:10:50.040
+the goal was simple. Before writing a
+
+00:10:47.560 --> 00:10:51.560
+single line of code, I needed 10 events
+
+00:10:50.040 --> 00:10:53.280
+with an actual date, with an actual
+
+00:10:51.560 --> 00:10:55.200
+commitment that they would like to try
+
+00:10:53.280 --> 00:10:57.000
+using our product. Having a commitment
+
+00:10:55.200 --> 00:10:58.360
+to actually use at an event where you
+
+00:10:57.000 --> 00:11:00.000
+have your friends, your family, your
+
+00:10:58.360 --> 00:11:01.600
+loved ones there, we thought that was
+
+00:11:00.000 --> 00:11:03.320
+already a big enough commitment that it
+
+00:11:01.600 --> 00:11:04.880
+was almost proxy to a payment. And so,
+
+00:11:03.320 --> 00:11:06.800
+this would be the exact playbook that I
+
+00:11:04.880 --> 00:11:09.040
+would be using if I had to start all
+
+00:11:06.800 --> 00:11:10.440
+over today. Well, I love this validation
+
+00:11:09.040 --> 00:11:12.600
+playbook. I think a lot of people
+
+00:11:10.440 --> 00:11:14.600
+watching this go rewind, start it over,
+
+00:11:12.600 --> 00:11:16.480
+watch it again. This sort of commitment
+
+00:11:14.600 --> 00:11:18.040
+metric, this restraint thing sounds
+
+00:11:16.480 --> 00:11:20.400
+scary. It sounds hard, but it will save
+
+00:11:18.040 --> 00:11:21.760
+you so much time not building the wrong
+
+00:11:20.400 --> 00:11:22.880
+thing. So, I love that. Let's switch
+
+00:11:21.760 --> 00:11:25.440
+topics a little bit. And I want to see
+
+00:11:22.880 --> 00:11:28.400
+your app. Can you give me a demo of your
+
+00:11:25.440 --> 00:11:30.040
+app that made over $20,000 last month?
+
+00:11:28.400 --> 00:11:33.640
+Our app is really simple. And what you
+
+00:11:30.040 --> 00:11:35.480
+can do is create your own film. You
+
+00:11:33.640 --> 00:11:38.120
+name your own film, let's say Brian's
+
+00:11:35.480 --> 00:11:40.320
+party. And you can choose the date it
+
+00:11:38.120 --> 00:11:44.000
+ends, choose when your photos reveal,
+
+00:11:40.320 --> 00:11:46.160
+like a disposable camera, your filters,
+
+00:11:44.000 --> 00:11:48.360
+some of the invitation card when you
+
+00:11:46.160 --> 00:11:50.440
+invite your guests. And you can also
+
+00:11:48.360 --> 00:11:52.560
+choose how many participants you want to
+
+00:11:50.440 --> 00:11:54.920
+invite and the shots per person. You
+
+00:11:52.560 --> 00:11:57.120
+wait out until your film is created.
+
+00:11:54.920 --> 00:11:58.280
+Once it is, you can start taking photos
+
+00:11:57.120 --> 00:12:00.360
+and
+
+00:11:58.280 --> 00:12:03.120
+yeah, like a disposable camera,
+
+00:12:00.360 --> 00:12:04.800
+this will all be saved up and based on
+
+00:12:03.120 --> 00:12:06.840
+your reveal settings, this might reveal
+
+00:12:04.800 --> 00:12:09.200
+later or might reveal now and you can
+
+00:12:06.840 --> 00:12:11.400
+check everyone's photos in this album
+
+00:12:09.200 --> 00:12:14.400
+where everyone's photos all gather up in
+
+00:12:11.400 --> 00:12:16.520
+one area. Cool. Okay, well, that's an
+
+00:12:14.400 --> 00:12:18.760
+awesome app. I love apps like this,
+
+00:12:16.520 --> 00:12:20.240
+super cool. Last question that we ask
+
+00:12:18.760 --> 00:12:22.240
+all founders who come on Starter Story,
+
+00:12:20.240 --> 00:12:23.720
+what would be your advice to young Brian
+
+00:12:22.240 --> 00:12:25.640
+or for anyone watching this who wants to
+
+00:12:23.720 --> 00:12:27.680
+come up with a cool app idea like you,
+
+00:12:25.640 --> 00:12:29.000
+make money, do indie hacking, what would
+
+00:12:27.680 --> 00:12:30.638
+be your advice? I think the most
+
+00:12:29.000 --> 00:12:30.800
+important would be to
+
+00:12:30.638 --> 00:12:32.960
+>> [music]
+
+00:12:30.800 --> 00:12:34.920
+>> stop overthinking and just launch.
+
+00:12:32.960 --> 00:12:36.600
+Because I used to be a person who
+
+00:12:34.920 --> 00:12:37.800
+overthinks a lot. How do I do marketing?
+
+00:12:36.600 --> 00:12:39.960
+How do I do sales? And all blah blah
+
+00:12:37.800 --> 00:12:41.720
+blah. But I realized that those are
+
+00:12:39.960 --> 00:12:43.083
+really not the most important things if
+
+00:12:41.720 --> 00:12:43.160
+you're trying to go zero to one.
+
+00:12:43.083 --> 00:12:45.560
+>> [music]
+
+00:12:43.160 --> 00:12:47.920
+>> Rather, just spend that time talking to
+
+00:12:45.560 --> 00:12:49.633
+more users and just building out the
+
+00:12:47.920 --> 00:12:52.160
+very first version in like a week
+
+00:12:49.633 --> 00:12:54.600
+[music] or two maximum and just launch.
+
+00:12:52.160 --> 00:12:57.720
+Because all of your assumptions and all
+
+00:12:54.600 --> 00:12:59.680
+of your guesswork may go to nothing once
+
+00:12:57.720 --> 00:13:01.320
+you launch and once users start using
+
+00:12:59.680 --> 00:13:03.040
+it. You might be solving a whole new
+
+00:13:01.320 --> 00:13:04.800
+different problem than what you were
+
+00:13:03.040 --> 00:13:06.520
+initially expecting. So, really stop
+
+00:13:04.800 --> 00:13:08.200
+overthinking and launch [music] as fast
+
+00:13:06.520 --> 00:13:10.240
+as possible. Thanks for coming on,
+
+00:13:08.200 --> 00:13:11.640
+Brian, and sharing. Super cool app. I
+
+00:13:10.240 --> 00:13:13.200
+think it's going to grow a lot. Thanks
+
+00:13:11.640 --> 00:13:15.040
+for coming on and sharing everything.
+
+00:13:13.200 --> 00:13:16.720
+All right, man. Thanks a lot. All right,
+
+00:13:15.040 --> 00:13:18.800
+Gus from Starter Story. What do you
+
+00:13:16.720 --> 00:13:20.920
+think of this business, this app, Once
+
+00:13:18.800 --> 00:13:22.480
+Film? First thought is really cool
+
+00:13:20.920 --> 00:13:24.040
+product. A lot of mobile app founders we
+
+00:13:22.480 --> 00:13:26.160
+talked to, I feel like we've seen it
+
+00:13:24.040 --> 00:13:28.800
+before to some degree. I haven't exactly
+
+00:13:26.160 --> 00:13:30.880
+seen an app quite like this. I know it
+
+00:13:28.800 --> 00:13:32.560
+probably does exist. But that's my first
+
+00:13:30.880 --> 00:13:34.360
+thought is like just a cool product and
+
+00:13:32.560 --> 00:13:35.840
+like a cool dude. A lot of people have
+
+00:13:34.360 --> 00:13:37.000
+weddings and want this sort of thing in
+
+00:13:35.840 --> 00:13:39.640
+this like
+
+00:13:37.000 --> 00:13:40.600
+social media organic world that we live
+
+00:13:39.640 --> 00:13:42.520
+in.
+
+00:13:40.600 --> 00:13:44.280
+I had a wedding, you had a wedding. I'm
+
+00:13:42.520 --> 00:13:46.600
+sure you get all these like professional
+
+00:13:44.280 --> 00:13:48.320
+photographs, but they're like super lame
+
+00:13:46.600 --> 00:13:50.080
+and you don't even post those to social
+
+00:13:48.320 --> 00:13:52.400
+media. You just post like the selfies
+
+00:13:50.080 --> 00:13:54.720
+you took or or whatever. So I actually
+
+00:13:52.400 --> 00:13:56.440
+think this is like from a growth
+
+00:13:54.720 --> 00:13:58.440
+perspective, this app is going to be
+
+00:13:56.440 --> 00:13:59.880
+huge. Maybe we can have him back on the
+
+00:13:58.440 --> 00:14:01.480
+channel when I think it's going to grow
+
+00:13:59.880 --> 00:14:03.560
+fast and hits, you know, a million
+
+00:14:01.480 --> 00:14:04.920
+dollars a year or wherever it gets and
+
+00:14:03.560 --> 00:14:07.360
+we can talk more about the growth of
+
+00:14:04.920 --> 00:14:09.360
+that. So let us know in the comments if
+
+00:14:07.360 --> 00:14:11.880
+you want to see us talk more about how
+
+00:14:09.360 --> 00:14:13.280
+he grew that. I think his validation
+
+00:14:11.880 --> 00:14:15.400
+strategy was really smart. What do you
+
+00:14:13.280 --> 00:14:17.680
+think about that? Yeah, that was it was
+
+00:14:15.400 --> 00:14:19.360
+really like compelling cuz, you know,
+
+00:14:17.680 --> 00:14:21.440
+I've tried to start like my apps and
+
+00:14:19.360 --> 00:14:23.120
+stuff like that and I totally fall into
+
+00:14:21.440 --> 00:14:25.760
+the trap of [music] like building it
+
+00:14:23.120 --> 00:14:28.560
+first. And with Claude Co and all these
+
+00:14:25.760 --> 00:14:31.839
+AI tools, it makes it so easy to do it
+
+00:14:28.560 --> 00:14:32.839
+and then avoid the hard part. [laughter]
+
+00:14:31.839 --> 00:14:34.360
+You know, when he was when he was
+
+00:14:32.839 --> 00:14:36.720
+talking about like go through your
+
+00:14:34.360 --> 00:14:38.600
+contacts and reach out to people, man, I
+
+00:14:36.720 --> 00:14:40.240
+could feel myself sort of like cringing
+
+00:14:38.600 --> 00:14:41.920
+up a little bit like I can't imagine
+
+00:14:40.240 --> 00:14:42.960
+like messaging a random person from 10
+
+00:14:41.920 --> 00:14:44.400
+years ago when I went to college and
+
+00:14:42.960 --> 00:14:46.680
+being like, "Hey, I built this. Like,
+
+00:14:44.400 --> 00:14:49.360
+what do you think?" But I think that's
+
+00:14:46.680 --> 00:14:51.960
+definitely like a beginner's mindset.
+
+00:14:49.360 --> 00:14:53.600
+You're spot on with that. Before when it
+
+00:14:51.960 --> 00:14:55.839
+was hard to build stuff, you had to ask
+
+00:14:53.600 --> 00:14:57.000
+people and then decide you would build
+
+00:14:55.839 --> 00:14:58.440
+it. That would be like the natural way
+
+00:14:57.000 --> 00:15:01.280
+to do things cuz you just couldn't build
+
+00:14:58.440 --> 00:15:03.160
+it. Now I think that AI tools are such a
+
+00:15:01.280 --> 00:15:04.920
+crutch in that sense is that like, "Oh,
+
+00:15:03.160 --> 00:15:06.760
+I have a cool idea." Instead of talking
+
+00:15:04.920 --> 00:15:08.120
+to people, I'm just going to build it.
+
+00:15:06.760 --> 00:15:09.720
+Then you build it, it works and it's
+
+00:15:08.120 --> 00:15:11.040
+awesome. And then you don't know what to
+
+00:15:09.720 --> 00:15:13.040
+do next. You're scared, it doesn't
+
+00:15:11.040 --> 00:15:15.480
+exactly look as good as you wanted it
+
+00:15:13.040 --> 00:15:17.760
+to. So then it, you know, maybe
+
+00:15:15.480 --> 00:15:19.560
+demotivates you from doing this very,
+
+00:15:17.760 --> 00:15:21.240
+very important thing, which is
+
+00:15:19.560 --> 00:15:22.880
+sharing it with random people that you
+
+00:15:21.240 --> 00:15:24.080
+haven't talked to in 10 years. This is
+
+00:15:22.880 --> 00:15:26.880
+the scary stuff. So, hopefully a lot of
+
+00:15:24.080 --> 00:15:28.480
+people watching this realize that, "Oh,
+
+00:15:26.880 --> 00:15:30.800
+in a world where anyone can build
+
+00:15:28.480 --> 00:15:33.120
+anything in 1 hour, this is the secret
+
+00:15:30.800 --> 00:15:35.760
+sauce. Going out and setting your
+
+00:15:33.120 --> 00:15:37.360
+commitment metric of
+
+00:15:35.760 --> 00:15:40.360
+I need 10 people to say they're going to
+
+00:15:37.360 --> 00:15:42.440
+use this thing before I finish it." So,
+
+00:15:40.360 --> 00:15:44.400
+if you're thinking about doing the same,
+
+00:15:42.440 --> 00:15:46.080
+you may even build some stuff before or
+
+00:15:44.400 --> 00:15:48.040
+you're thinking about jumping into Cloud
+
+00:15:46.080 --> 00:15:50.400
+Code and starting to build an app, stop
+
+00:15:48.040 --> 00:15:51.960
+right there and instead go click the
+
+00:15:50.400 --> 00:15:54.320
+link in the description to learn about
+
+00:15:51.960 --> 00:15:56.000
+how to actually grow and validate a
+
+00:15:54.320 --> 00:15:58.440
+mobile app. We put together the top
+
+00:15:56.000 --> 00:16:01.480
+growth strategies for growing a mobile
+
+00:15:58.440 --> 00:16:02.520
+app, an iOS app, a B2C app. You can
+
+00:16:01.480 --> 00:16:04.600
+click that right down there in the
+
+00:16:02.520 --> 00:16:06.200
+description and get it 100% for free.
+
+00:16:04.600 --> 00:16:07.880
+All right, I hope you guys enjoyed this
+
+00:16:06.200 --> 00:16:11.160
+episode of Starter Story. We'll see you
+
+00:16:07.880 --> 00:16:11.160
+in the next one. Peace.
+

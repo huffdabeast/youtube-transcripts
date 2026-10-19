@@ -1,0 +1,689 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.680
+Most real estate agents are paying thousands of dollars every single month just to generate
+
+00:00:04.680 --> 00:00:06.440
+leads for their real estate business.
+
+00:00:06.440 --> 00:00:11.280
+Then they lose a huge percentage of these leads because they can't follow up or respond
+
+00:00:11.280 --> 00:00:12.880
+to these leads fast enough.
+
+00:00:12.880 --> 00:00:17.680
+And this is where the simple Go High Level AI setup comes in that I want to show you everything
+
+00:00:17.680 --> 00:00:19.880
+step by step inside of this video.
+
+00:00:19.880 --> 00:00:23.480
+And if you're brand new here to the channel, my name is Jason Wardrop and from 2015 to
+
+00:00:23.480 --> 00:00:28.680
+2021, I worked with over 15,000 real estate agent clients.
+
+00:00:28.680 --> 00:00:34.240
+So I know that this is a huge pain point that is very easy to fulfill with the high level
+
+00:00:34.240 --> 00:00:35.240
+software.
+
+00:00:35.240 --> 00:00:39.360
+So in this video, I'm going to show you step by step how to use Go High Level AI to
+
+00:00:39.360 --> 00:00:44.760
+help these real estate agents follow up with their leads generate more leads and actually
+
+00:00:44.760 --> 00:00:46.080
+convert these leads.
+
+00:00:46.080 --> 00:00:48.640
+They're generating into book deployments.
+
+00:00:48.640 --> 00:00:51.960
+So they have a lot fewer leads slipping through the cracks.
+
+00:00:51.960 --> 00:00:56.840
+And the best part about this is this is the same exact offer that you can package into
+
+00:00:56.840 --> 00:01:03.680
+one simple service charges much is 500 to $1,000 per month for this and then take the
+
+00:01:03.680 --> 00:01:10.040
+same packaging, this same offer and resell it to one agent and the next and the next without
+
+00:01:10.040 --> 00:01:12.680
+having to customize anything on top of it.
+
+00:01:12.680 --> 00:01:16.360
+So let's jump onto my computer so I can show you everything step by step.
+
+00:01:16.360 --> 00:01:20.840
+But before we do, I just want to let you know about my brand new AI workshop where I walk
+
+00:01:20.840 --> 00:01:25.480
+you through everything step by step of how to get clients, how to fulfill for clients.
+
+00:01:25.480 --> 00:01:29.800
+I hook you up with all my templates and scripts and I show you some really cool AI tools
+
+00:01:29.800 --> 00:01:34.040
+that I built that I just want to give to you to help you grow your business.
+
+00:01:34.040 --> 00:01:37.880
+So if you guys want that, just smash like button, drop a comment down below and I'll
+
+00:01:37.880 --> 00:01:43.640
+hook you up with the private link to unlock that free AI workshop 100% for free.
+
+00:01:43.640 --> 00:01:46.760
+I'll show you how to get the template scripts, everything without having to invest in some
+
+00:01:46.760 --> 00:01:48.680
+$997 course.
+
+00:01:48.680 --> 00:01:51.920
+So now these smash like button, drop to comment down below so I can hook you up with
+
+00:01:51.920 --> 00:01:52.920
+all those freebies.
+
+00:01:53.080 --> 00:01:56.600
+Let's jump onto my computer so I can show you guys this setup step by step.
+
+00:01:56.600 --> 00:01:59.560
+Okay, so now that you've smashed like button, drop to comment down below so I can hook you
+
+00:01:59.560 --> 00:02:04.520
+up with the private link to unlock all of my courses, template scripts, everything 100% for free.
+
+00:02:04.520 --> 00:02:08.120
+Here is a live look of at exactly what we're going to be doing.
+
+00:02:08.120 --> 00:02:12.920
+So here is a real website that I built in a matter of seconds, which I'm going to show you how to
+
+00:02:12.920 --> 00:02:16.760
+do here in just a second plus give you the copy and paste prompt, everything.
+
+00:02:17.240 --> 00:02:22.200
+And you can see right here, this is for an agent in South Florida in Miami.
+
+00:02:22.200 --> 00:02:27.720
+It pulled in her average sales price, her recent sales, her active listings that we can click out
+
+00:02:27.720 --> 00:02:33.720
+and go and see all these different listings has all of her client testimonials and a contact form.
+
+00:02:33.720 --> 00:02:36.600
+And as you see this, I am not a website designer.
+
+00:02:36.600 --> 00:02:37.560
+I don't know how to code.
+
+00:02:37.560 --> 00:02:38.600
+I don't know how to design.
+
+00:02:38.600 --> 00:02:41.640
+I have zero artistic abilities whatsoever.
+
+00:02:41.640 --> 00:02:45.000
+But I was able to make this in a matter of seconds.
+
+00:02:45.000 --> 00:02:47.640
+And you will be able to do the exact same thing.
+
+00:02:47.720 --> 00:02:53.320
+But first, before I show you how to do that, the key thing here is we need to get a real estate
+
+00:02:53.320 --> 00:02:55.160
+agent as a client.
+
+00:02:55.160 --> 00:02:58.440
+So you might be thinking, well, how do we go through and find realtors?
+
+00:02:58.440 --> 00:03:01.960
+And that is where this whole zillow hack comes into place.
+
+00:03:01.960 --> 00:03:07.800
+So if we go here to zillow, typically most people are using zillow to go search for homes in their
+
+00:03:07.800 --> 00:03:12.200
+community or in their dream neighborhood or their dream location.
+
+00:03:12.200 --> 00:03:16.600
+However, I use zillow a bit differently than most people.
+
+00:03:16.600 --> 00:03:21.480
+So what I like to do is I like to come up here to find an agent and I'll go and say real estate
+
+00:03:21.480 --> 00:03:22.440
+agents right here.
+
+00:03:22.440 --> 00:03:28.760
+And so now what I can do is I can see all of the realtors in my local area or I can go and type
+
+00:03:28.760 --> 00:03:30.600
+in a specific location.
+
+00:03:30.600 --> 00:03:34.600
+So for this one, I'm just going to say Dallas, Texas.
+
+00:03:34.600 --> 00:03:35.080
+Okay.
+
+00:03:35.080 --> 00:03:37.400
+And then I'm just going to click this and hit enter.
+
+00:03:37.400 --> 00:03:44.120
+And what happens is zillow will show me all of the top realtors in this specific area.
+
+00:03:44.120 --> 00:03:45.640
+So I did this for Dallas, Texas.
+
+00:03:45.640 --> 00:03:48.760
+You could do it for Miami, Florida, Southern California, anywhere.
+
+00:03:48.760 --> 00:03:51.160
+And you could do this again and again and again.
+
+00:03:51.160 --> 00:03:54.360
+And you can see there are pages of results.
+
+00:03:54.360 --> 00:04:00.120
+Now, the reason why I like to go on zillow as a post who on Google or in some Facebook group
+
+00:04:00.120 --> 00:04:03.800
+is because we can see if these agents are even successful or not.
+
+00:04:03.800 --> 00:04:06.200
+Because a lot of agents are just part time.
+
+00:04:06.200 --> 00:04:10.040
+And if they're just part time agents and kind of just doing as a casual side hustle,
+
+00:04:10.040 --> 00:04:13.800
+more than likely, they're not going to have the budget to go through and pay you
+
+00:04:14.120 --> 00:04:18.440
+to help them generate leads, book more appointments and ultimately grow their business,
+
+00:04:18.440 --> 00:04:20.040
+which is what we're going to be doing.
+
+00:04:20.040 --> 00:04:23.480
+And that is what these top agents are going to pay us to do.
+
+00:04:23.480 --> 00:04:25.480
+So you can see right here, we've got a few different filters.
+
+00:04:25.480 --> 00:04:28.280
+We can say which agents are buying agents, sellered agents.
+
+00:04:28.280 --> 00:04:30.040
+We can see which ones are top agents.
+
+00:04:30.040 --> 00:04:32.360
+If we only want to sort by the top agents.
+
+00:04:32.360 --> 00:04:36.280
+And so now what I'm going to do is I'm just going to go through and click right here
+
+00:04:36.280 --> 00:04:38.440
+on Michelle Beach.
+
+00:04:38.440 --> 00:04:42.920
+And this zillow profile page, this is almost like a Facebook business profile page,
+
+00:04:42.920 --> 00:04:47.880
+where it has a little bit more information on her, her active listings, some reviews,
+
+00:04:47.880 --> 00:04:51.240
+kind of the area that she works in, past listings.
+
+00:04:51.240 --> 00:04:55.480
+And then if we scroll all the way down here, we'll be able to find her contact information,
+
+00:04:55.480 --> 00:05:00.440
+where we can see her phone number, her email address, her actual address of her office,
+
+00:05:00.440 --> 00:05:02.840
+and so we can go through and reach out to her.
+
+00:05:02.840 --> 00:05:07.640
+Now, before I want to reach out to her, what I like to do is I like to go in and I'm going to use
+
+00:05:07.640 --> 00:05:15.160
+this copy and paste prompt to make a professional website design just like this for this agent.
+
+00:05:15.160 --> 00:05:16.160
+Okay?
+
+00:05:16.160 --> 00:05:19.960
+And so what I'm going to do is I'm going to come over here and I'm just going to copy this
+
+00:05:19.960 --> 00:05:20.960
+prompt.
+
+00:05:20.960 --> 00:05:24.200
+So this prompt says, make professionally designed real estate website for this agent.
+
+00:05:24.200 --> 00:05:27.560
+And I'm going to put in the link and I want their active listings and reviews embedded
+
+00:05:27.560 --> 00:05:33.160
+into the site with a contact form, chat widget, and automated conversation AI agent, train
+
+00:05:33.160 --> 00:05:38.120
+on this realtor's business to answer any questions a website visitor has when visiting
+
+00:05:38.120 --> 00:05:39.120
+their website.
+
+00:05:39.120 --> 00:05:42.080
+So now I'm going to come over here to this AI software right here.
+
+00:05:42.080 --> 00:05:48.440
+I'm going to just paste in this prompt and then I'm going to also grab the URL so it knows
+
+00:05:48.440 --> 00:05:50.960
+which website I'm actually talking about here.
+
+00:05:50.960 --> 00:05:55.760
+So I'm just going to paste in this link and then I'm going to hit enter and this is going
+
+00:05:55.760 --> 00:06:02.080
+to automatically build this entire website for me, customize for Michelle, her contact
+
+00:06:02.080 --> 00:06:07.840
+information, her reviews, her past homes that she sold, her active listings, everything
+
+00:06:07.840 --> 00:06:09.280
+from a to Z.
+
+00:06:09.280 --> 00:06:12.440
+Now real quick, while this is being built out, I just want to invite you.
+
+00:06:12.440 --> 00:06:16.720
+If you want to go through and get access to this exact AI software that I use to run
+
+00:06:16.720 --> 00:06:21.560
+my entire business, I'll hook you up with an extended third day free trial down in the
+
+00:06:21.560 --> 00:06:23.760
+description as well as in the top comment.
+
+00:06:23.760 --> 00:06:29.200
+And you'll also get access to all of my courses, templates, scripts that I've used to
+
+00:06:29.200 --> 00:06:33.520
+get thousands of paying real estate clients 100% for free.
+
+00:06:33.520 --> 00:06:37.320
+Not only will you get access to all of these courses, but you'll get access to this private
+
+00:06:37.320 --> 00:06:43.040
+community where I go through and I do weekly live Q&A calls to help you out with anything.
+
+00:06:43.040 --> 00:06:47.040
+And like I said, if you get started with that extended third day free trial, it will cost
+
+00:06:47.040 --> 00:06:51.400
+you nothing extra, but I will get a little bit of a kick back because of that I can go through
+
+00:06:51.400 --> 00:06:58.160
+and give you my entire business model, everything that has worked for me from a to Z plus coaching,
+
+00:06:58.160 --> 00:07:03.880
+plus community plus weekly live calls and a one-on-one kickoff call, all 100% for free.
+
+00:07:03.880 --> 00:07:08.120
+You'll also even get access to this private community where I'll show you a simple business
+
+00:07:08.120 --> 00:07:13.560
+model that I've used to make over $10 million online using this exact same software.
+
+00:07:13.560 --> 00:07:17.600
+So once again, if you want to go through and get started with that, there's a third day
+
+00:07:17.600 --> 00:07:21.960
+extended free trial to the software right down below and you'll be able to unlock access
+
+00:07:21.960 --> 00:07:22.960
+to everything.
+
+00:07:22.960 --> 00:07:23.960
+Okay, check this out.
+
+00:07:23.960 --> 00:07:26.680
+Just finished, find your Dallas dream home.
+
+00:07:26.680 --> 00:07:32.440
+It just made this entire website with the featured listings with the reviews that we can
+
+00:07:32.440 --> 00:07:37.560
+now go through and send to Michelle and get her as a client.
+
+00:07:37.560 --> 00:07:42.160
+Now this whole client acquisition model works on the law of reciprocity.
+
+00:07:42.160 --> 00:07:46.680
+So now we're going to go through and reach out to Michelle with this completed, professionally
+
+00:07:46.680 --> 00:07:49.920
+designed website 100% for free.
+
+00:07:49.920 --> 00:07:52.160
+We can tell her, Hey, we built this for free.
+
+00:07:52.160 --> 00:07:53.640
+We want to go through and help you out.
+
+00:07:53.640 --> 00:07:58.680
+And because you've actually offered value up front from the very beginning, the chances
+
+00:07:58.680 --> 00:08:03.280
+of this real estate agent responding to you go up dramatically.
+
+00:08:03.280 --> 00:08:06.240
+And so from here, then you might be thinking, Well, Jason, how do we actually go through
+
+00:08:06.240 --> 00:08:07.240
+and make money?
+
+00:08:07.240 --> 00:08:11.080
+Well, the cool thing about this AI software right here, and that's why I highly recommend
+
+00:08:11.080 --> 00:08:14.640
+going through and checking it out, getting started with the extended third day free trial,
+
+00:08:14.640 --> 00:08:16.560
+is that you can white label it.
+
+00:08:16.560 --> 00:08:20.280
+And what white labeling means it means you can connect your own logo, put your own domain
+
+00:08:20.280 --> 00:08:22.880
+on it, connect your own payment processor.
+
+00:08:22.880 --> 00:08:25.640
+So you get to collect 100% of the payments.
+
+00:08:25.640 --> 00:08:28.680
+You're not doing any commission splits or anything like that.
+
+00:08:28.680 --> 00:08:34.040
+And this software platform even lets you bring on unlimited clients.
+
+00:08:34.040 --> 00:08:38.360
+It's not like you get to 10 clients and they're charging you more per user per client.
+
+00:08:38.360 --> 00:08:41.440
+It is unlimited clients, which is amazing.
+
+00:08:41.440 --> 00:08:44.880
+And then you could take this website right here, and you can see right here, it's saying,
+
+00:08:44.880 --> 00:08:46.400
+Hey, connected to the CRM.
+
+00:08:46.400 --> 00:08:49.520
+This AI software has a full CRM built into it.
+
+00:08:49.520 --> 00:08:55.440
+And then also, if we come up here and hit publish, remember, we said, Hey, add a chat widget
+
+00:08:55.440 --> 00:09:00.920
+to this page and create a conversational AI agent that's going to be able to respond
+
+00:09:00.920 --> 00:09:03.280
+to all of the questions that we might have.
+
+00:09:03.280 --> 00:09:07.120
+So if we go through and we open up this website, and I'm just going to move my head right
+
+00:09:07.120 --> 00:09:08.120
+there.
+
+00:09:08.120 --> 00:09:14.840
+So we might see something like what is the best phone number to reach you.
+
+00:09:14.840 --> 00:09:18.480
+And I don't know whatever the question might be, but it's already all trained.
+
+00:09:18.480 --> 00:09:19.480
+Let me zoom in right here.
+
+00:09:19.480 --> 00:09:22.400
+And it says, you can reach Michelle directly at her phone number.
+
+00:09:22.400 --> 00:09:24.720
+Would you like me to have her call you?
+
+00:09:24.720 --> 00:09:27.520
+And they could say, yes, that would be great or whatever it is.
+
+00:09:27.520 --> 00:09:33.240
+And the AI chatbot is already trained not only to turn more of these website visitors into
+
+00:09:33.240 --> 00:09:39.400
+sales conversations, but actual real life booked appointments on Michelle's calendar,
+
+00:09:39.400 --> 00:09:44.000
+which brings a tremendous amount of value to Michelle in her real estate business.
+
+00:09:44.000 --> 00:09:47.480
+Now one more thing I want to go through and show you to, which is crazy that we can do
+
+00:09:47.480 --> 00:09:48.480
+this with this software.
+
+00:09:48.480 --> 00:09:52.000
+I just want to try to show you the power of the software and all the things that we can
+
+00:09:52.000 --> 00:09:53.000
+do.
+
+00:09:53.000 --> 00:09:56.320
+There is another tool that we have called ask AI.
+
+00:09:56.320 --> 00:09:58.560
+And what I'm going to do is I'm just going to do a simple prompt in here.
+
+00:09:58.560 --> 00:10:01.360
+Okay, I'll just zoom in so you guys can see exactly right around right here.
+
+00:10:01.360 --> 00:10:05.720
+I said, create three Facebook posts for this real estate agent put in the link and schedule
+
+00:10:05.720 --> 00:10:08.320
+them out one per day over the next three days.
+
+00:10:08.320 --> 00:10:09.760
+And I'm just going to hit enter.
+
+00:10:09.760 --> 00:10:13.960
+Now this is a service that I have offered to real estate agents in the past to go through
+
+00:10:13.960 --> 00:10:18.440
+and create social media content for them to post on Facebook, on Instagram, Twitter,
+
+00:10:18.440 --> 00:10:20.600
+on all the different social media plurial files.
+
+00:10:20.600 --> 00:10:24.440
+But in the past, what we had to do is we had to use a simple service like Canva, but we
+
+00:10:24.440 --> 00:10:27.160
+had to go through and actually create the content.
+
+00:10:27.160 --> 00:10:29.000
+And then we would take that content.
+
+00:10:29.000 --> 00:10:33.680
+Then we would move it over to an automation scheduler to post on social media.
+
+00:10:33.680 --> 00:10:39.720
+But now with AI, I can literally prompt it just like I showed you and say, hey, create
+
+00:10:39.720 --> 00:10:44.560
+social media posts for Facebook or Instagram or Twitter or all of them.
+
+00:10:44.560 --> 00:10:49.640
+And I wanted to be images or videos or just text based or whatever it might be.
+
+00:10:49.640 --> 00:10:53.320
+And then I want you to schedule it out because the cool thing about this AI software.
+
+00:10:53.320 --> 00:10:55.760
+And as I was showing you earlier, you can white label it.
+
+00:10:55.760 --> 00:11:00.040
+So where I see your logo, you can throw your own logo, connect your own domain, connect
+
+00:11:00.040 --> 00:11:01.840
+your own payment processor.
+
+00:11:01.840 --> 00:11:06.120
+So as you get clients, these real estate clients and let's say you're charging $299 per
+
+00:11:06.120 --> 00:11:09.440
+month, you not only keep the $299 per month.
+
+00:11:09.440 --> 00:11:13.160
+And if you get five clients, 10 clients, you can see how this month recurring revenue
+
+00:11:13.160 --> 00:11:17.840
+really starts to stack up and you're not having to do any commission splits.
+
+00:11:17.840 --> 00:11:23.320
+And you have this software that's already pre-built, pre-coded in addition to all of this.
+
+00:11:23.320 --> 00:11:29.280
+It has an automation scheduler to automatically post to social media for your clients.
+
+00:11:29.280 --> 00:11:33.080
+So the cool thing for you is in the past, I had to go through and hire account managers.
+
+00:11:33.080 --> 00:11:37.440
+I would do the sales, but then an account manager would go and create the content and
+
+00:11:37.440 --> 00:11:41.520
+then schedule the content and then get the okay from the client to be able to actually
+
+00:11:41.520 --> 00:11:43.080
+post the content.
+
+00:11:43.080 --> 00:11:49.160
+But now all you would have to do is literally get in contact with the realtor, sell them,
+
+00:11:49.160 --> 00:11:51.640
+and then tell AI exactly what to do.
+
+00:11:51.640 --> 00:11:57.080
+So now you're not have to hire humans and you have waveless overhead and way more leverage
+
+00:11:57.080 --> 00:11:58.360
+and scalability.
+
+00:11:58.360 --> 00:12:01.440
+Now if we zoom in here, you can see this is just a demo account.
+
+00:12:01.440 --> 00:12:04.880
+And so what it's telling me is it's saying, hey, which Facebook page we should connect
+
+00:12:04.880 --> 00:12:08.440
+to because I don't have one connected and I also don't have Michelle Beaches Facebook
+
+00:12:08.440 --> 00:12:11.000
+page connect because I'm just using this for an example.
+
+00:12:11.000 --> 00:12:14.800
+But you can see these are all different social media posts.
+
+00:12:14.800 --> 00:12:18.000
+This one didn't do images because I was like, I don't want to make images because sometimes
+
+00:12:18.000 --> 00:12:19.920
+that takes a little bit longer.
+
+00:12:19.920 --> 00:12:24.840
+But it could do full on images has all these posts that if I had the Facebook page connected,
+
+00:12:24.840 --> 00:12:30.120
+I just say post and then it were scheduled out and it would go through and automatically
+
+00:12:30.120 --> 00:12:34.880
+schedule out the post on whatever cadence that I would want to go through and schedule
+
+00:12:34.880 --> 00:12:35.880
+it.
+
+00:12:35.880 --> 00:12:36.880
+So there you go, guys.
+
+00:12:36.880 --> 00:12:41.040
+This is one of my favorite business models because you're able to go and create monthly
+
+00:12:41.040 --> 00:12:42.040
+recurring revenues.
+
+00:12:42.040 --> 00:12:45.680
+So you're not starting at zero at the beginning of every single month.
+
+00:12:45.680 --> 00:12:52.840
+And you can see with AI with these AI software, there is massive leverage and scale to this
+
+00:12:52.840 --> 00:12:53.840
+business.
+
+00:12:53.840 --> 00:12:54.840
+There's not a ton of overhead.
+
+00:12:54.840 --> 00:12:58.640
+You're not going to go through and hire a massive team to run this.
+
+00:12:58.640 --> 00:13:04.120
+And there's nothing stopping you from getting 10 clients, 20 clients, even hundreds of clients
+
+00:13:04.120 --> 00:13:06.560
+using this exact setup.
+
+00:13:06.560 --> 00:13:10.920
+So once again, if you want all my courses, templates, scripts, my live community, a one-on-one
+
+00:13:10.920 --> 00:13:16.720
+kickoff call, plus weekly live Q&A calls with me to go through and show you guys exactly
+
+00:13:16.720 --> 00:13:20.440
+how I went and grew my business, a thousands of paying clients.
+
+00:13:20.440 --> 00:13:25.240
+All you get to got to do to get started is just jump into the extended 30 day free trial
+
+00:13:25.240 --> 00:13:27.640
+to this AI automation software.
+
+00:13:27.640 --> 00:13:31.320
+There's a link down in the description as well as in the top comment.
+
+00:13:31.320 --> 00:13:35.640
+You'll be able to get instant access to everything that I offer.
+
+00:13:35.640 --> 00:13:37.760
+And like I said, it's going to cost you nothing more.
+
+00:13:37.760 --> 00:13:41.920
+I'll get a little bit of a kick back in return, but that's what allows me to go through and
+
+00:13:41.920 --> 00:13:46.640
+offer all of this to you for free to help you scale your own online business.
+
+00:13:46.640 --> 00:13:49.640
+So anyway, with that said, thanks so much for watching, guys.
+
+00:13:49.640 --> 00:13:50.720
+And I'll see you in the next video.
+

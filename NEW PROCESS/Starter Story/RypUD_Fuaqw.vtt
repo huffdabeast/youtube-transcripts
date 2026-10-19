@@ -1,0 +1,1559 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.520
+What if you could change your life in
+
+00:00:01.840 --> 00:00:07.080
+just 6 months? And what if all it took
+
+00:00:04.520 --> 00:00:09.840
+was a simple idea and the willingness to
+
+00:00:07.080 --> 00:00:10.920
+put in the work? Well, I want you to
+
+00:00:09.840 --> 00:00:13.600
+meet Lino.
+
+00:00:10.920 --> 00:00:15.600
+>> I launched my first app AbMax about 5
+
+00:00:13.600 --> 00:00:17.680
+months ago, and now we're on pace to hit
+
+00:00:15.600 --> 00:00:19.040
+60K this month. And I didn't even know
+
+00:00:17.680 --> 00:00:19.920
+how to write code. I didn't even know
+
+00:00:19.040 --> 00:00:21.760
+how to prompt.
+
+00:00:19.920 --> 00:00:24.000
+>> 6 months ago, he had never built an app
+
+00:00:21.760 --> 00:00:26.320
+before in his life. And in fact, he'd
+
+00:00:24.000 --> 00:00:29.120
+never even written a single line of
+
+00:00:26.320 --> 00:00:31.200
+code. But, he just started learning from
+
+00:00:29.120 --> 00:00:33.600
+people in the app space, shipped his
+
+00:00:31.200 --> 00:00:36.680
+first app, and today that app that he
+
+00:00:33.600 --> 00:00:36.880
+built is about to hit $60,000 a month.
+
+00:00:36.680 --> 00:00:39.160
+[music]
+
+00:00:36.880 --> 00:00:41.440
+>> Our product is super niche, which is why
+
+00:00:39.160 --> 00:00:42.400
+I think we're performing extremely,
+
+00:00:41.440 --> 00:00:44.080
+extremely well.
+
+00:00:42.400 --> 00:00:45.800
+>> So, I asked Lino to come on to the
+
+00:00:44.080 --> 00:00:47.480
+channel and break down exactly what he
+
+00:00:45.800 --> 00:00:49.200
+built and how he did this. In this
+
+00:00:47.480 --> 00:00:51.920
+episode, we're going to dive into his
+
+00:00:49.200 --> 00:00:54.720
+dead simple app that now makes $60,000 a
+
+00:00:51.920 --> 00:00:56.440
+month, how he went from zero users and
+
+00:00:54.720 --> 00:00:59.160
+no distribution to thousands of
+
+00:00:56.440 --> 00:01:00.800
+downloads, and his very simple advice
+
+00:00:59.160 --> 00:01:03.600
+for how to build a successful app in
+
+00:01:00.800 --> 00:01:06.560
+2026. Guys, this one you are not going
+
+00:01:03.600 --> 00:01:08.720
+to want to miss it. Let's dive in. This
+
+00:01:06.560 --> 00:01:10.880
+is Starter Story.
+
+00:01:08.720 --> 00:01:12.760
+All right, Lino. Welcome to the channel.
+
+00:01:10.880 --> 00:01:14.240
+I'm pumped to have you on here. Let's
+
+00:01:12.760 --> 00:01:15.880
+get into it. Tell me about who you are,
+
+00:01:14.240 --> 00:01:18.040
+what you built, and what's your story.
+
+00:01:15.880 --> 00:01:20.880
+>> So, I'm Lino Leiden. I launched my first
+
+00:01:18.040 --> 00:01:22.920
+app AbMax about 5 months ago, and now
+
+00:01:20.880 --> 00:01:24.680
+we're on pace to hit 60K this month.
+
+00:01:22.920 --> 00:01:26.640
+Today, I'm excited to share more about
+
+00:01:24.680 --> 00:01:28.360
+the process of how I was able to scale
+
+00:01:26.640 --> 00:01:30.320
+to these kind of numbers in such a short
+
+00:01:28.360 --> 00:01:32.560
+amount of time with literally zero
+
+00:01:30.320 --> 00:01:33.800
+coding experience and absolutely not
+
+00:01:32.560 --> 00:01:36.560
+technical at all.
+
+00:01:33.800 --> 00:01:39.440
+>> Let's get into the business and the app
+
+00:01:36.560 --> 00:01:41.280
+itself. So, just explain what AbMax is
+
+00:01:39.440 --> 00:01:43.320
+in a few sentences and then pull up your
+
+00:01:41.280 --> 00:01:44.800
+RevenueCat dashboards to show off the
+
+00:01:43.320 --> 00:01:45.400
+revenue and show us that this thing is
+
+00:01:44.800 --> 00:01:47.320
+legit.
+
+00:01:45.400 --> 00:01:49.200
+>> So, AbMax is basically an app to help
+
+00:01:47.320 --> 00:01:51.040
+people achieve their best abs. And
+
+00:01:49.200 --> 00:01:52.800
+basically, what we do is we have users
+
+00:01:51.040 --> 00:01:54.680
+fill out some basic info about their
+
+00:01:52.800 --> 00:01:57.120
+fitness journey, and we tailor them a
+
+00:01:54.680 --> 00:01:59.360
+custom abs plan specifically for each
+
+00:01:57.120 --> 00:02:01.040
+user, alongside pre-made training
+
+00:01:59.360 --> 00:02:03.280
+programs and workout program
+
+00:02:01.040 --> 00:02:05.320
+specifically targeting their abs. Okay,
+
+00:02:03.280 --> 00:02:07.920
+yeah, so our monthly revenue is just
+
+00:02:05.320 --> 00:02:10.240
+about $55,000 this month, and we are
+
+00:02:07.920 --> 00:02:12.400
+currently have 16,000 downloads in the
+
+00:02:10.240 --> 00:02:14.760
+past 28 days, and we have just over
+
+00:02:12.400 --> 00:02:16.280
+3,000 active paying customers.
+
+00:02:14.760 --> 00:02:17.120
+>> Cool, so how do you come up with this
+
+00:02:16.280 --> 00:02:19.520
+app idea?
+
+00:02:17.120 --> 00:02:21.520
+>> Yeah, so actually I was back in back in
+
+00:02:19.520 --> 00:02:23.440
+February, and I went to the gym with all
+
+00:02:21.520 --> 00:02:25.360
+my friends. Everyone kept comparing
+
+00:02:23.440 --> 00:02:26.800
+about who has better abs. So like, oh, I
+
+00:02:25.360 --> 00:02:28.800
+have better abs than you. I have better
+
+00:02:26.800 --> 00:02:30.760
+abs than you. And I just kept that kept
+
+00:02:28.800 --> 00:02:32.360
+thinking like everyone cares about their
+
+00:02:30.760 --> 00:02:34.480
+abs. And then I started to do a little
+
+00:02:32.360 --> 00:02:37.280
+research, and then I found out that the
+
+00:02:34.480 --> 00:02:39.240
+if someone wanted to get abs in 2026,
+
+00:02:37.280 --> 00:02:41.080
+there was absolutely no place for them
+
+00:02:39.240 --> 00:02:43.360
+to go. So I thought of a good solution
+
+00:02:41.080 --> 00:02:45.520
+where why don't I make an app that helps
+
+00:02:43.360 --> 00:02:47.360
+people achieve abs and help them get
+
+00:02:45.520 --> 00:02:49.120
+visible abs. Yeah, and that's basically
+
+00:02:47.360 --> 00:02:50.240
+how I came up with AbMax.
+
+00:02:49.120 --> 00:02:52.120
+>> All right, what I love about Lena's
+
+00:02:50.240 --> 00:02:54.000
+story is that he changed his life in
+
+00:02:52.120 --> 00:02:56.400
+just 6 months. He found a really smart
+
+00:02:54.000 --> 00:02:58.760
+category, built his simple app, and now
+
+00:02:56.400 --> 00:03:00.040
+today that app makes $60,000 a month.
+
+00:02:58.760 --> 00:03:01.560
+And the way he found his app idea was
+
+00:03:00.040 --> 00:03:03.200
+really simple. He looked at stuff that
+
+00:03:01.560 --> 00:03:05.200
+was already working, and kind of remixed
+
+00:03:03.200 --> 00:03:07.160
+it for 2026. And that's exactly why we
+
+00:03:05.200 --> 00:03:08.840
+put together this free database of iOS
+
+00:03:07.160 --> 00:03:10.560
+app ideas that are already making money.
+
+00:03:08.840 --> 00:03:12.800
+Every idea in this database comes with
+
+00:03:10.560 --> 00:03:14.720
+real numbers, revenue, pricing models,
+
+00:03:12.800 --> 00:03:15.847
+growth tactics, all from real app
+
+00:03:14.720 --> 00:03:17.760
+founders that have built successful
+
+00:03:15.847 --> 00:03:19.720
+[music] app businesses. So, if you're
+
+00:03:17.760 --> 00:03:21.280
+looking for your next app idea, it might
+
+00:03:19.720 --> 00:03:23.200
+be hiding right here in this database.
+
+00:03:21.280 --> 00:03:25.440
+Just head to the link in the description
+
+00:03:23.200 --> 00:03:26.560
+and grab it 100% for free. All right,
+
+00:03:25.440 --> 00:03:28.320
+let's get back to Leno.
+
+00:03:26.560 --> 00:03:29.680
+>> 100%.
+
+00:03:28.320 --> 00:03:32.840
+This is what I love about what you
+
+00:03:29.680 --> 00:03:34.680
+built. And I remember 20, 10, 20 years
+
+00:03:32.840 --> 00:03:37.440
+ago when I was a kid just like watching
+
+00:03:34.680 --> 00:03:39.920
+TV, they would have these ads for like
+
+00:03:37.440 --> 00:03:42.280
+5-minute abs. And you'd buy some sort of
+
+00:03:39.920 --> 00:03:43.360
+device or some sort of workout thing.
+
+00:03:42.280 --> 00:03:44.120
+Back then it was like Bowflex or
+
+00:03:43.360 --> 00:03:46.400
+something like that, but they would
+
+00:03:44.120 --> 00:03:48.320
+market it specifically for if you want
+
+00:03:46.400 --> 00:03:51.840
+abs for the summer. You're essentially
+
+00:03:48.320 --> 00:03:54.040
+doing this in, you you a modern social
+
+00:03:51.840 --> 00:03:56.200
+media way. So I think that's amazing.
+
+00:03:54.040 --> 00:03:58.280
+That's actually a super super smart
+
+00:03:56.200 --> 00:04:00.160
+insight. If you went and just built the
+
+00:03:58.280 --> 00:04:02.040
+total workout tracker, yes, there are
+
+00:04:00.160 --> 00:04:03.840
+successful versions of those, but it's
+
+00:04:02.040 --> 00:04:05.480
+way better to niche down. The next thing
+
+00:04:03.840 --> 00:04:07.280
+I want to ask you about is how you built
+
+00:04:05.480 --> 00:04:09.480
+this cuz we were chatting earlier.
+
+00:04:07.280 --> 00:04:10.680
+You're 18 years old. You have no
+
+00:04:09.480 --> 00:04:12.240
+technical background. You told me you
+
+00:04:10.680 --> 00:04:13.520
+don't know anything about how to build
+
+00:04:12.240 --> 00:04:15.240
+apps. For the people who are that are
+
+00:04:13.520 --> 00:04:17.920
+watching this on here, I want to hear in
+
+00:04:15.240 --> 00:04:19.560
+just the 5-6 months that this app has
+
+00:04:17.920 --> 00:04:20.880
+grown [music] and become successful, how
+
+00:04:19.560 --> 00:04:22.360
+did you actually build this? What was
+
+00:04:20.880 --> 00:04:24.040
+the actual build journey? How did you
+
+00:04:22.360 --> 00:04:25.760
+originally build it? What tools did you
+
+00:04:24.040 --> 00:04:27.800
+use? And how did you build this thing?
+
+00:04:25.760 --> 00:04:29.960
+>> Yeah, so I originally built this in
+
+00:04:27.800 --> 00:04:31.760
+Lovable back in February. And this is
+
+00:04:29.960 --> 00:04:33.640
+when I didn't even know anything about
+
+00:04:31.760 --> 00:04:34.840
+apps. I didn't even know what RevenueCat
+
+00:04:33.640 --> 00:04:36.919
+was. I didn't even know what an
+
+00:04:34.840 --> 00:04:39.760
+onboarding was. And I spent 2 months
+
+00:04:36.919 --> 00:04:42.040
+manually prompting this old project in
+
+00:04:39.760 --> 00:04:44.160
+Lovable. After 2 months, I was ready to
+
+00:04:42.040 --> 00:04:46.120
+launch. And just before launch, I was
+
+00:04:44.160 --> 00:04:48.360
+like, there's absolutely no way I can
+
+00:04:46.120 --> 00:04:50.800
+release this. This is This is terrible.
+
+00:04:48.360 --> 00:04:53.240
+So, I decided to rebuild the entire
+
+00:04:50.800 --> 00:04:55.480
+thing back in Vork. And this is when I
+
+00:04:53.240 --> 00:04:57.240
+started to get onto X and starting to
+
+00:04:55.480 --> 00:04:59.200
+follow all these other successful app
+
+00:04:57.240 --> 00:05:01.960
+founders. And I picked up a lot of great
+
+00:04:59.200 --> 00:05:03.840
+advice about not only how to vibe code,
+
+00:05:01.960 --> 00:05:06.440
+but also some like onboarding tactics,
+
+00:05:03.840 --> 00:05:08.120
+how to market, all like the insider
+
+00:05:06.440 --> 00:05:10.560
+advice you need that is working for
+
+00:05:08.120 --> 00:05:12.400
+their apps. I put that advice and put it
+
+00:05:10.560 --> 00:05:16.000
+towards my app. And I I was able to
+
+00:05:12.400 --> 00:05:18.120
+build AppMax V2 basically in Vork in 1
+
+00:05:16.000 --> 00:05:20.320
+month. And I was ready to ship. And then
+
+00:05:18.120 --> 00:05:22.160
+after the first month, we did just over
+
+00:05:20.320 --> 00:05:23.400
+$7,000 in revenue.
+
+00:05:22.160 --> 00:05:25.480
+>> Could you walk through like what your
+
+00:05:23.400 --> 00:05:27.240
+actual tech stack looks like right now?
+
+00:05:25.480 --> 00:05:29.440
+Like if you had to start over, what's
+
+00:05:27.240 --> 00:05:31.680
+the tech that you're using? What tools?
+
+00:05:29.440 --> 00:05:34.080
+>> I keep it super simple. I have Supabase
+
+00:05:31.680 --> 00:05:36.000
+for authentication. I use VorkMax for
+
+00:05:34.080 --> 00:05:37.800
+the development. I use Sensor Tower
+
+00:05:36.000 --> 00:05:40.440
+basically for competitor and idea
+
+00:05:37.800 --> 00:05:42.360
+research. I use sign.com for creator
+
+00:05:40.440 --> 00:05:44.480
+contracts and agreements. And I use
+
+00:05:42.360 --> 00:05:46.440
+Posthog for internal analytics.
+
+00:05:44.480 --> 00:05:49.360
+>> Okay, so you mentioned something earlier
+
+00:05:46.440 --> 00:05:51.840
+you use sign.com for creator contracts.
+
+00:05:49.360 --> 00:05:53.360
+I'm guessing that may be how you've
+
+00:05:51.840 --> 00:05:56.000
+grown this thing cuz, you know, anybody
+
+00:05:53.360 --> 00:05:57.520
+can build an ad maxing app, but is it
+
+00:05:56.000 --> 00:05:58.840
+going to get any downloads if you don't
+
+00:05:57.520 --> 00:06:00.760
+do any marketing or advertising?
+
+00:05:58.840 --> 00:06:02.280
+Probably not. So, let's talk about this.
+
+00:06:00.760 --> 00:06:03.640
+First, I want to hear from you, when you
+
+00:06:02.280 --> 00:06:06.120
+just created the app, how did you go
+
+00:06:03.640 --> 00:06:08.280
+from zero to the first 10K per month?
+
+00:06:06.120 --> 00:06:09.880
+What was the overall marketing strategy
+
+00:06:08.280 --> 00:06:10.360
+and what really like worked for your
+
+00:06:09.880 --> 00:06:12.480
+app?
+
+00:06:10.360 --> 00:06:14.480
+>> I started running UGC with these big
+
+00:06:12.480 --> 00:06:16.040
+influencers in the fitness niche, which
+
+00:06:14.480 --> 00:06:18.120
+is probably one of the biggest mistakes
+
+00:06:16.040 --> 00:06:19.720
+I've ever made. We were blindly going
+
+00:06:18.120 --> 00:06:22.000
+into this. We didn't even have a winning
+
+00:06:19.720 --> 00:06:24.120
+format or a winning content strategy to
+
+00:06:22.000 --> 00:06:26.000
+offer these influencers before spending
+
+00:06:24.120 --> 00:06:28.080
+thousands of dollars for each video. So,
+
+00:06:26.000 --> 00:06:30.120
+that's probably the biggest mistake. And
+
+00:06:28.080 --> 00:06:32.080
+so, alongside that, we were also running
+
+00:06:30.120 --> 00:06:34.640
+faces TikTok slideshows, which I was
+
+00:06:32.080 --> 00:06:36.640
+manually posting on my own. The big UGC
+
+00:06:34.640 --> 00:06:39.600
+deals alongside these TikTok slideshows
+
+00:06:36.640 --> 00:06:41.560
+helped us get up to 3 to 4K in revenue,
+
+00:06:39.600 --> 00:06:43.600
+but the problem was our margins were
+
+00:06:41.560 --> 00:06:45.520
+terrible. We were running at like 5 to
+
+00:06:43.600 --> 00:06:47.520
+10%, which is why I came up with the
+
+00:06:45.520 --> 00:06:49.600
+idea and we partnered up with a big
+
+00:06:47.520 --> 00:06:51.320
+fitness influencer on social media in
+
+00:06:49.600 --> 00:06:53.280
+return for some equity, which helped us
+
+00:06:51.320 --> 00:06:54.600
+get the ground running off the start,
+
+00:06:53.280 --> 00:06:56.280
+which I would recommend to any
+
+00:06:54.600 --> 00:06:57.894
+inexperienced founders who are looking
+
+00:06:56.280 --> 00:06:58.440
+to get the ground running off launch.
+
+00:06:57.894 --> 00:06:59.919
+[music]
+
+00:06:58.440 --> 00:07:02.280
+>> I think that's actually really smart.
+
+00:06:59.919 --> 00:07:04.320
+Instead of going to all these little
+
+00:07:02.280 --> 00:07:06.120
+creators and making these small deals
+
+00:07:04.320 --> 00:07:07.960
+and maybe one of them works, but most of
+
+00:07:06.120 --> 00:07:09.480
+them don't. You just said screw that,
+
+00:07:07.960 --> 00:07:11.200
+instead I'm just going to find an equity
+
+00:07:09.480 --> 00:07:13.640
+partner who has some skin in the game
+
+00:07:11.200 --> 00:07:15.960
+and then all the ads are essentially
+
+00:07:13.640 --> 00:07:17.480
+free and they have like more incentive
+
+00:07:15.960 --> 00:07:19.280
+to actually make this thing work. So,
+
+00:07:17.480 --> 00:07:21.280
+that's pretty much the secret to how you
+
+00:07:19.280 --> 00:07:23.760
+got to 10K. Go find someone with
+
+00:07:21.280 --> 00:07:25.360
+distribution who is good at social media
+
+00:07:23.760 --> 00:07:27.880
+content. Then, how do you take it from
+
+00:07:25.360 --> 00:07:29.520
+10K a month to 60K a month? Were you
+
+00:07:27.880 --> 00:07:30.160
+just doubling down on that or like what
+
+00:07:29.520 --> 00:07:32.400
+was working?
+
+00:07:30.160 --> 00:07:35.000
+>> Yeah, so basically, we cut out every
+
+00:07:32.400 --> 00:07:36.680
+single UGC deal, every influencer deal,
+
+00:07:35.000 --> 00:07:38.480
+and we started to double down on what
+
+00:07:36.680 --> 00:07:40.440
+was working for us. And we found out
+
+00:07:38.480 --> 00:07:43.360
+that our meta ads were running at like a
+
+00:07:40.440 --> 00:07:45.040
+two two to 2.5x ROAS, and they were
+
+00:07:43.360 --> 00:07:47.600
+extremely profitable. So, we just
+
+00:07:45.040 --> 00:07:50.080
+started doubling down on Meta Ads, and
+
+00:07:47.600 --> 00:07:51.560
+we only stuck with our one big creator
+
+00:07:50.080 --> 00:07:53.160
+that we gave equity to, and he would
+
+00:07:51.560 --> 00:07:55.160
+just create content for us, and we would
+
+00:07:53.160 --> 00:07:56.960
+just run paid ads behind it strictly
+
+00:07:55.160 --> 00:07:58.800
+through Meta. As well, during that
+
+00:07:56.960 --> 00:08:00.800
+process, we decided to take all of our
+
+00:07:58.800 --> 00:08:03.560
+creatives from Meta and move them over
+
+00:08:00.800 --> 00:08:06.200
+to TikTok ads alongside that, and for
+
+00:08:03.560 --> 00:08:08.000
+some reason they performed five to six x
+
+00:08:06.200 --> 00:08:10.080
+better. The same exact creatives were
+
+00:08:08.000 --> 00:08:12.000
+able to we were able to get four to five
+
+00:08:10.080 --> 00:08:14.919
+x ROAS on the same creatives. Mainly
+
+00:08:12.000 --> 00:08:16.680
+because on TikTok, it targets a younger
+
+00:08:14.919 --> 00:08:18.800
+audience, and Meta's more of an older
+
+00:08:16.680 --> 00:08:20.840
+audience. So, our target user is
+
+00:08:18.800 --> 00:08:22.720
+anywhere from 15 to 30 years old, and
+
+00:08:20.840 --> 00:08:24.760
+with TikTok, we were able to resonate
+
+00:08:22.720 --> 00:08:25.680
+and target with that specific user
+
+00:08:24.760 --> 00:08:27.280
+extremely well.
+
+00:08:25.680 --> 00:08:29.080
+>> But I what I want to ask you is, you
+
+00:08:27.280 --> 00:08:31.360
+know, you you've done this so fast in
+
+00:08:29.080 --> 00:08:33.320
+the past 6-7 months, you went from zero
+
+00:08:31.360 --> 00:08:34.760
+to six almost 60k per month, and
+
+00:08:33.320 --> 00:08:36.440
+obviously growing more. There's lots of
+
+00:08:34.760 --> 00:08:38.599
+people who watch this channel who, you
+
+00:08:36.440 --> 00:08:40.320
+know, want to change their lives as fast
+
+00:08:38.599 --> 00:08:42.599
+as you did. If you were starting over,
+
+00:08:40.320 --> 00:08:44.440
+trying to find an idea, build it, what
+
+00:08:42.599 --> 00:08:45.560
+steps would you take to to make that
+
+00:08:44.440 --> 00:08:47.760
+happen all over again?
+
+00:08:45.560 --> 00:08:49.560
+>> Yeah, so first thing, hands down, is to
+
+00:08:47.760 --> 00:08:51.240
+get inside of the X app community and
+
+00:08:49.560 --> 00:08:52.880
+start following these top founders
+
+00:08:51.240 --> 00:08:54.960
+there. All these founders give out so
+
+00:08:52.880 --> 00:08:56.960
+much sauce and advice there for
+
+00:08:54.960 --> 00:08:58.680
+literally free. Then, I would go on to
+
+00:08:56.960 --> 00:09:00.880
+Sensor Tower and start looking up some
+
+00:08:58.680 --> 00:09:02.680
+ideas you have for apps and start trying
+
+00:09:00.880 --> 00:09:04.560
+to find the hot niche right now. The way
+
+00:09:02.680 --> 00:09:06.120
+to find this is by looking up potential
+
+00:09:04.560 --> 00:09:08.000
+app ideas in there, and if there are a
+
+00:09:06.120 --> 00:09:10.400
+ton of apps in that niche consistently
+
+00:09:08.000 --> 00:09:11.760
+doing over 10k a month, then that's a
+
+00:09:10.400 --> 00:09:14.360
+niche you want to build in. Yeah, so
+
+00:09:11.760 --> 00:09:15.800
+step two is post before building. Once
+
+00:09:14.360 --> 00:09:17.440
+you have your app idea, if you want to
+
+00:09:15.800 --> 00:09:18.960
+validate it even more before you even
+
+00:09:17.440 --> 00:09:21.120
+start building it, I would make a
+
+00:09:18.960 --> 00:09:22.560
+faceless TikTok page and start promoting
+
+00:09:21.120 --> 00:09:24.280
+your app through organic TikTok
+
+00:09:22.560 --> 00:09:26.000
+slideshows and start posting three to
+
+00:09:24.280 --> 00:09:27.800
+four times a day. However, since your
+
+00:09:26.000 --> 00:09:30.520
+app is not built, instead of giving them
+
+00:09:27.800 --> 00:09:33.120
+a CTA on a specific slide, I would
+
+00:09:30.520 --> 00:09:34.839
+replace the CTA with comment app, and I
+
+00:09:33.120 --> 00:09:36.839
+will send it to you. Like, for example,
+
+00:09:34.839 --> 00:09:38.400
+if If building a calorie tracking app,
+
+00:09:36.839 --> 00:09:40.520
+the first slide would have to be five
+
+00:09:38.400 --> 00:09:43.440
+ways to improve your life, let's just
+
+00:09:40.520 --> 00:09:45.800
+say. Slide one, walk 10,000 steps a day.
+
+00:09:43.440 --> 00:09:48.520
+Slide two, work out seven times a week.
+
+00:09:45.800 --> 00:09:51.440
+Slide three, eat extremely clean. Slide
+
+00:09:48.520 --> 00:09:53.480
+four, use this app blank to help you
+
+00:09:51.440 --> 00:09:55.040
+blah blah blah. Comment app and I'll
+
+00:09:53.480 --> 00:09:56.800
+send you it. And if you're posting three
+
+00:09:55.040 --> 00:09:58.280
+or four three or four of these a day,
+
+00:09:56.800 --> 00:10:00.120
+and after seven days you start seeing a
+
+00:09:58.280 --> 00:10:01.680
+bunch of comments, people commenting
+
+00:10:00.120 --> 00:10:03.240
+app, that means there's serious demand
+
+00:10:01.680 --> 00:10:04.680
+for this product and you're now you're
+
+00:10:03.240 --> 00:10:06.960
+able to spend the time and build the
+
+00:10:04.680 --> 00:10:09.520
+product and go all in because the idea
+
+00:10:06.960 --> 00:10:10.920
+is 100% validated. Step three, ship in
+
+00:10:09.520 --> 00:10:13.000
+seven days. I would build out the
+
+00:10:10.920 --> 00:10:15.240
+product in Roark or whatever tool you
+
+00:10:13.000 --> 00:10:17.240
+prefer, and I would try to ship in seven
+
+00:10:15.240 --> 00:10:19.600
+days or less. The biggest mistake I see
+
+00:10:17.240 --> 00:10:22.000
+is founders overly obsessing over the
+
+00:10:19.600 --> 00:10:23.600
+product and spending two to three months
+
+00:10:22.000 --> 00:10:25.160
+to launch, which I personally
+
+00:10:23.600 --> 00:10:27.480
+experienced myself. You can always
+
+00:10:25.160 --> 00:10:29.120
+improve the product later after launch.
+
+00:10:27.480 --> 00:10:31.440
+Just try to get it out there and start
+
+00:10:29.120 --> 00:10:33.000
+optimizing for your metrics and start
+
+00:10:31.440 --> 00:10:35.240
+marketing and start bringing in revenue
+
+00:10:33.000 --> 00:10:38.600
+before you start adding that extra
+
+00:10:35.240 --> 00:10:40.520
+leader board feature or the extra sound
+
+00:10:38.600 --> 00:10:42.560
+app. Yeah, so step four, I would look
+
+00:10:40.520 --> 00:10:44.240
+for micro influencers. Now, once you're
+
+00:10:42.560 --> 00:10:46.480
+in the app store, now what I would do is
+
+00:10:44.240 --> 00:10:48.480
+look up keywords in your niche on
+
+00:10:46.480 --> 00:10:50.960
+Instagram and TikTok and try to find
+
+00:10:48.480 --> 00:10:53.080
+smaller creators who have 500 to 1,000
+
+00:10:50.960 --> 00:10:55.520
+followers who post consistently. I would
+
+00:10:53.080 --> 00:10:57.560
+reach out to them and pay them like $100
+
+00:10:55.520 --> 00:10:59.640
+for 10 videos and have them test out a
+
+00:10:57.560 --> 00:11:01.640
+bunch of different hooks, formats, and
+
+00:10:59.640 --> 00:11:03.280
+CTAs for my app. The goal would be for
+
+00:11:01.640 --> 00:11:05.720
+this is just to find your winning
+
+00:11:03.280 --> 00:11:07.480
+content style before putting any serious
+
+00:11:05.720 --> 00:11:09.360
+money behind it. Step five would be
+
+00:11:07.480 --> 00:11:11.280
+scaled marketing. Now, once you found
+
+00:11:09.360 --> 00:11:13.160
+out which style performs the best, I
+
+00:11:11.280 --> 00:11:15.280
+would start running a UGC campaign
+
+00:11:13.160 --> 00:11:17.040
+either through SideShift Tribe, or you
+
+00:11:15.280 --> 00:11:18.680
+can even manually source creators and
+
+00:11:17.040 --> 00:11:20.520
+manage them separately, which I would
+
+00:11:18.680 --> 00:11:23.200
+highly recommend. For UGC, I would
+
+00:11:20.520 --> 00:11:25.560
+highly recommend hiring a VA on Fiverr,
+
+00:11:23.200 --> 00:11:27.560
+which is extremely inexpensive, and have
+
+00:11:25.560 --> 00:11:29.760
+him cold DM hundreds of creators in your
+
+00:11:27.560 --> 00:11:32.120
+niche who fit your criteria. And for me,
+
+00:11:29.760 --> 00:11:33.960
+my criteria was anywhere from 5 to
+
+00:11:32.120 --> 00:11:36.080
+50,000 followers, they post
+
+00:11:33.960 --> 00:11:37.560
+consistently, they show their face, and
+
+00:11:36.080 --> 00:11:39.520
+they have an active comment section.
+
+00:11:37.560 --> 00:11:41.480
+Those are all like the checklists. Now,
+
+00:11:39.520 --> 00:11:43.480
+once you're sitting at around 10 to 15
+
+00:11:41.480 --> 00:11:45.200
+creators posting consistently, and you
+
+00:11:43.480 --> 00:11:47.000
+have a bunch of creatives, now you can
+
+00:11:45.200 --> 00:11:49.000
+start running paid ads behind those
+
+00:11:47.000 --> 00:11:50.760
+creatives. So, once your UGC and paid
+
+00:11:49.000 --> 00:11:52.560
+ads are stable and profitable, I would
+
+00:11:50.760 --> 00:11:54.280
+go back and completely revamp the
+
+00:11:52.560 --> 00:11:57.120
+product and try to make it correct where
+
+00:11:54.280 --> 00:11:59.120
+you can hire a developer or a product
+
+00:11:57.120 --> 00:12:00.840
+engineer or something along those lines.
+
+00:11:59.120 --> 00:12:02.840
+Now, you can obsess over the product
+
+00:12:00.840 --> 00:12:05.040
+once your marketing is stable and you're
+
+00:12:02.840 --> 00:12:06.480
+at 5 to 10k per month.
+
+00:12:05.040 --> 00:12:08.800
+>> Okay, cool. Lino, thanks for sharing
+
+00:12:06.480 --> 00:12:11.240
+that playbook. What I'm curious to see
+
+00:12:08.800 --> 00:12:13.600
+is the actual app that you built. I'd
+
+00:12:11.240 --> 00:12:16.640
+love to see the app, Max app, how it
+
+00:12:13.600 --> 00:12:17.720
+works, what it does, how fancy it is.
+
+00:12:16.640 --> 00:12:20.480
+Would you be able to show me the app
+
+00:12:17.720 --> 00:12:22.320
+that made over $50,000 a month?
+
+00:12:20.480 --> 00:12:24.320
+>> Yeah, so if you go over here, you're
+
+00:12:22.320 --> 00:12:26.200
+actually able to scan your abs and get a
+
+00:12:24.320 --> 00:12:28.160
+whole breakdown of like your lower ab
+
+00:12:26.200 --> 00:12:30.120
+score, your body fat percentage, and
+
+00:12:28.160 --> 00:12:31.840
+find out like exactly what's holding
+
+00:12:30.120 --> 00:12:33.720
+back your abs, whether it's body fat
+
+00:12:31.840 --> 00:12:35.680
+percentage, whether it's a muscle, your
+
+00:12:33.720 --> 00:12:38.280
+lack of muscle. And then from here, we
+
+00:12:35.680 --> 00:12:40.280
+have a bunch of pre-made workout plans
+
+00:12:38.280 --> 00:12:41.520
+and training programs you can follow. Me
+
+00:12:40.280 --> 00:12:43.040
+personally, I've been following the
+
+00:12:41.520 --> 00:12:45.360
+summer ab shredder, which is like a
+
+00:12:43.040 --> 00:12:47.040
+30-day plan that you can follow to help
+
+00:12:45.360 --> 00:12:48.640
+you get shredded for the summer. Yeah,
+
+00:12:47.040 --> 00:12:50.880
+so that's pretty much Ab Max, super
+
+00:12:48.640 --> 00:12:52.560
+simple. And I was actually the first one
+
+00:12:50.880 --> 00:12:54.880
+to come up with this idea, believe it or
+
+00:12:52.560 --> 00:12:57.200
+not, and there's zero competitors in
+
+00:12:54.880 --> 00:12:58.920
+this niche, which is kind of crazy.
+
+00:12:57.200 --> 00:13:01.200
+>> You mentioned that, you know, you were
+
+00:12:58.920 --> 00:13:03.120
+the first to come up with this app idea.
+
+00:13:01.200 --> 00:13:05.440
+Here's the thing, anybody can build an
+
+00:13:03.120 --> 00:13:06.560
+Ab Max app, right? Building it is not
+
+00:13:05.440 --> 00:13:08.960
+the hard part. Hopefully, if you're
+
+00:13:06.560 --> 00:13:10.120
+watching this video right now, you're on
+
+00:13:08.960 --> 00:13:11.839
+YouTube watching this, and you've made
+
+00:13:10.120 --> 00:13:13.400
+it this far, and you understand that the
+
+00:13:11.839 --> 00:13:14.640
+secret sauce has nothing really to do
+
+00:13:13.400 --> 00:13:15.520
+with how you built it. It's it's the
+
+00:13:14.640 --> 00:13:17.440
+marketing strategy, it's the
+
+00:13:15.520 --> 00:13:19.440
+distribution, it's everything that you
+
+00:13:17.440 --> 00:13:21.640
+figured out at such a young age. So, my
+
+00:13:19.440 --> 00:13:23.080
+last question for you, if you could give
+
+00:13:21.640 --> 00:13:25.520
+some advice to the people watching this
+
+00:13:23.080 --> 00:13:27.520
+right now trying to figure out how to
+
+00:13:25.520 --> 00:13:29.560
+not only just build apps, but actually
+
+00:13:27.520 --> 00:13:30.960
+build an app that is crushing it and
+
+00:13:29.560 --> 00:13:31.840
+making a lot of money like yours. What
+
+00:13:30.960 --> 00:13:34.360
+would that advice be?
+
+00:13:31.840 --> 00:13:37.080
+>> This kind of goes for any business. It's
+
+00:13:34.360 --> 00:13:39.000
+simply just do not give up and stop
+
+00:13:37.080 --> 00:13:40.720
+comparing yourself to all these people
+
+00:13:39.000 --> 00:13:42.720
+you see on social media who are doing
+
+00:13:40.720 --> 00:13:44.720
+six figures, seven figures. Don't
+
+00:13:42.720 --> 00:13:46.840
+compare your level two or your level
+
+00:13:44.720 --> 00:13:49.120
+three to someone else's level and just
+
+00:13:46.840 --> 00:13:50.600
+focus on your path and what's ahead and
+
+00:13:49.120 --> 00:13:52.160
+what's the next step for you. You're
+
+00:13:50.600 --> 00:13:54.080
+going to go through some tough times
+
+00:13:52.160 --> 00:13:55.920
+where you literally think your life is
+
+00:13:54.080 --> 00:13:57.760
+over. Like I experienced it. I thought
+
+00:13:55.920 --> 00:13:59.680
+my life was over. Looking back on it
+
+00:13:57.760 --> 00:14:01.320
+now, it was no big deal. But you just
+
+00:13:59.680 --> 00:14:03.360
+have to keep going and as long as you
+
+00:14:01.320 --> 00:14:04.960
+never give up and you show up every day
+
+00:14:03.360 --> 00:14:06.800
+and you continue getting better, it's
+
+00:14:04.960 --> 00:14:08.640
+physically impossible for you to lose.
+
+00:14:06.800 --> 00:14:10.840
+Like it's physically impossible for you
+
+00:14:08.640 --> 00:14:12.760
+to lose as long as you simply just never
+
+00:14:10.840 --> 00:14:13.920
+give up and get better every day and
+
+00:14:12.760 --> 00:14:15.960
+keep on showing up.
+
+00:14:13.920 --> 00:14:19.200
+>> Well, that's great advice, Lino. You're
+
+00:14:15.960 --> 00:14:20.400
+crushing it. You're not even in college
+
+00:14:19.200 --> 00:14:22.480
+or you decided not to go to
+
+00:14:20.400 --> 00:14:23.960
+>> I dropped out after my first semester of
+
+00:14:22.480 --> 00:14:25.840
+freshman year, actually. So
+
+00:14:23.960 --> 00:14:28.160
+>> Yeah, you you realized that you can do
+
+00:14:25.840 --> 00:14:29.480
+this, watch a YouTube video, go on X,
+
+00:14:28.160 --> 00:14:31.320
+meet with founders, and you can build
+
+00:14:29.480 --> 00:14:33.040
+stuff that changes your life in six
+
+00:14:31.320 --> 00:14:34.240
+months, which is what you did. Hopefully
+
+00:14:33.040 --> 00:14:35.600
+people watching this are still watching
+
+00:14:34.240 --> 00:14:37.280
+this by now to show that this is
+
+00:14:35.600 --> 00:14:38.520
+possible. Lino, what you built is
+
+00:14:37.280 --> 00:14:40.760
+awesome. Thanks for coming on. Thanks
+
+00:14:38.520 --> 00:14:41.680
+for sharing everything so openly, even
+
+00:14:40.760 --> 00:14:43.800
+though you're probably have a few
+
+00:14:41.680 --> 00:14:45.240
+copycats. Thanks for coming on.
+
+00:14:43.800 --> 00:14:47.600
+>> Thank you for having me.
+
+00:14:45.240 --> 00:14:48.760
+>> All right, Gus, producer and co-host of
+
+00:14:47.600 --> 00:14:51.360
+Starter Story. What do you think about
+
+00:14:48.760 --> 00:14:53.440
+Lino and the app Max app?
+
+00:14:51.360 --> 00:14:54.760
+>> I hope people can really start to
+
+00:14:53.440 --> 00:14:56.720
+understand through all of our interviews
+
+00:14:54.760 --> 00:14:58.560
+like there's so many app ideas out there
+
+00:14:56.720 --> 00:14:59.920
+that like are making money. It's a It's
+
+00:14:58.560 --> 00:15:03.600
+It's so crazy to me. It's just like an
+
+00:14:59.920 --> 00:15:05.440
+app Max idea seems just so like almost
+
+00:15:03.600 --> 00:15:06.960
+unbelievable and yet he's still very
+
+00:15:05.440 --> 00:15:07.760
+successful. And he's so young. And so
+
+00:15:06.960 --> 00:15:08.920
+those are some of the things I'm
+
+00:15:07.760 --> 00:15:10.280
+thinking about is like, man, you can
+
+00:15:08.920 --> 00:15:12.320
+really make money with anything.
+
+00:15:10.280 --> 00:15:14.360
+>> No, I agree. It's uh It's not that
+
+00:15:12.320 --> 00:15:17.680
+complicated, you know? Like um there's
+
+00:15:14.360 --> 00:15:19.760
+not some crazy marketing strategy to
+
+00:15:17.680 --> 00:15:21.320
+take away from this. It's just like take
+
+00:15:19.760 --> 00:15:23.600
+action, move forward. If someone like
+
+00:15:21.320 --> 00:15:25.600
+Lino, who's 18, 19 years old didn't go
+
+00:15:23.600 --> 00:15:27.400
+to college, not technical. If he can do
+
+00:15:25.600 --> 00:15:29.960
+it going online and learning, watching
+
+00:15:27.400 --> 00:15:31.520
+videos like Starter Story and going on X
+
+00:15:29.960 --> 00:15:34.440
+and connecting with founders and
+
+00:15:31.520 --> 00:15:35.360
+building an app that maxes your abs out,
+
+00:15:34.440 --> 00:15:37.440
+you know, there's nothing there's
+
+00:15:35.360 --> 00:15:39.360
+nothing complicated here other than this
+
+00:15:37.440 --> 00:15:41.280
+guy just isn't scared to take action and
+
+00:15:39.360 --> 00:15:42.720
+put himself out there and and fail.
+
+00:15:41.280 --> 00:15:44.080
+>> Yeah, that's what he said to me on the
+
+00:15:42.720 --> 00:15:45.520
+phone when I when I talked to him and I
+
+00:15:44.080 --> 00:15:46.800
+told asked him a little bit more about
+
+00:15:45.520 --> 00:15:48.080
+his background. He was just like, "Yeah,
+
+00:15:46.800 --> 00:15:50.040
+I saw I thought I thought this was
+
+00:15:48.080 --> 00:15:51.520
+cool." Like I thought I saw these people
+
+00:15:50.040 --> 00:15:52.720
+sharing these apps on X and I thought,
+
+00:15:51.520 --> 00:15:53.840
+"Man, this is really cool. I want to do
+
+00:15:52.720 --> 00:15:55.360
+that, too." And he just kind of went for
+
+00:15:53.840 --> 00:15:56.360
+it and I thought that was I was really
+
+00:15:55.360 --> 00:15:57.280
+impressed with that.
+
+00:15:56.360 --> 00:15:59.560
+>> The other thing that I think is kind of
+
+00:15:57.280 --> 00:16:03.160
+cool about his app is that
+
+00:15:59.560 --> 00:16:05.320
+it is like a recreation of a marketing
+
+00:16:03.160 --> 00:16:07.360
+concept that's is old as time, which is
+
+00:16:05.320 --> 00:16:09.080
+to get overnight abs, right? Like
+
+00:16:07.360 --> 00:16:10.360
+everyone wants abs, everyone wants abs
+
+00:16:09.080 --> 00:16:11.920
+for the summer. There's going to be a
+
+00:16:10.360 --> 00:16:13.680
+summer every year and everyone wants to
+
+00:16:11.920 --> 00:16:14.960
+go look good at the beach and whether
+
+00:16:13.680 --> 00:16:17.160
+it's a
+
+00:16:14.960 --> 00:16:18.760
+you know, a VHS that you buy online or
+
+00:16:17.160 --> 00:16:20.840
+an app that solves that problem, that
+
+00:16:18.760 --> 00:16:22.320
+problem will never go out of style. So,
+
+00:16:20.840 --> 00:16:24.360
+I think that's cool. There's tons of
+
+00:16:22.320 --> 00:16:26.960
+more ideas like this. As I mentioned
+
+00:16:24.360 --> 00:16:28.520
+earlier, we have our iOS app ideas
+
+00:16:26.960 --> 00:16:29.720
+database, which you can click through
+
+00:16:28.520 --> 00:16:31.320
+right now if you go click that link in
+
+00:16:29.720 --> 00:16:33.720
+the description and you can see a bunch
+
+00:16:31.320 --> 00:16:35.240
+of iOS app ideas that are making money
+
+00:16:33.720 --> 00:16:37.160
+or could potentially make a bunch of
+
+00:16:35.240 --> 00:16:38.280
+money if you go and execute just like
+
+00:16:37.160 --> 00:16:39.440
+Lino did. So, I'll put that in the
+
+00:16:38.280 --> 00:16:41.000
+description. Thank you guys for
+
+00:16:39.440 --> 00:16:43.400
+watching. We'll see you in the next one.
+
+00:16:41.000 --> 00:16:43.400
+Peace.
+

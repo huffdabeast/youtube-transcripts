@@ -1,0 +1,1622 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.760
+Okay, so I have found a crazy AI kids
+
+00:00:02.600 --> 00:00:06.040
+book on Amazon. It is very new, just 2
+
+00:00:04.760 --> 00:00:07.840
+months old, and if we take its
+
+00:00:06.040 --> 00:00:10.800
+best-seller rank, we can estimate that
+
+00:00:07.840 --> 00:00:12.960
+it is selling up to 11,000 copies per
+
+00:00:10.800 --> 00:00:15.560
+month, which again, I think is kind of
+
+00:00:12.960 --> 00:00:18.120
+crazy. And so, my goal for this video is
+
+00:00:15.560 --> 00:00:20.280
+number one, can I create a kids question
+
+00:00:18.120 --> 00:00:22.360
+book like this using Claude code to
+
+00:00:20.280 --> 00:00:25.280
+automate the entire process from start
+
+00:00:22.360 --> 00:00:27.080
+to finish? And number two, can I then
+
+00:00:25.280 --> 00:00:30.200
+use Claude to upload it for sale on
+
+00:00:27.080 --> 00:00:32.560
+Amazon optimized for free traffic?
+
+00:00:30.200 --> 00:00:35.040
+Because that's the thing. This AI kids
+
+00:00:32.560 --> 00:00:37.160
+book, I'm 99% certain it's being sold by
+
+00:00:35.040 --> 00:00:39.400
+the creator with Amazon self-publishing
+
+00:00:37.160 --> 00:00:41.800
+service called KDP. With this, you can
+
+00:00:39.400 --> 00:00:43.720
+upload an AI generated book PDF, and
+
+00:00:41.800 --> 00:00:45.440
+Amazon will turn it into a listing. And
+
+00:00:43.720 --> 00:00:46.840
+each time a customer buys your book,
+
+00:00:45.440 --> 00:00:48.360
+Amazon will print your book and then
+
+00:00:46.840 --> 00:00:50.280
+ship it to them, and they remove the
+
+00:00:48.360 --> 00:00:52.160
+printing fees and send you the profit as
+
+00:00:50.280 --> 00:00:54.200
+a royalty check. And using the profit
+
+00:00:52.160 --> 00:00:56.240
+calculator, we can estimate that each of
+
+00:00:54.200 --> 00:00:58.040
+these books is earning the creator
+
+00:00:56.240 --> 00:01:00.040
+$13.33
+
+00:00:58.040 --> 00:01:02.760
+per sale, which, if you do the math,
+
+00:01:00.040 --> 00:01:04.960
+comes out to a royalty check of 84K to
+
+00:01:02.760 --> 00:01:06.920
+even over 151K
+
+00:01:04.960 --> 00:01:08.920
+for the month. Like, no joke, when I
+
+00:01:06.920 --> 00:01:11.280
+first discovered this, it genuinely blew
+
+00:01:08.920 --> 00:01:13.200
+my mind. And so, due to popular demand
+
+00:01:11.280 --> 00:01:15.280
+after last week's video, where I also
+
+00:01:13.200 --> 00:01:17.600
+showcased this book, in this tutorial, I
+
+00:01:15.280 --> 00:01:20.440
+will show a new method to create a book
+
+00:01:17.600 --> 00:01:22.520
+like this entirely using Claude code
+
+00:01:20.440 --> 00:01:24.240
+step by step, along with the full
+
+00:01:22.520 --> 00:01:26.720
+tutorials on how to pick a
+
+00:01:24.240 --> 00:01:29.000
+low-competition niche, and how to upload
+
+00:01:26.720 --> 00:01:31.440
+your book to sell on Amazon while using
+
+00:01:29.000 --> 00:01:33.080
+Claude to optimize it for free traffic.
+
+00:01:31.440 --> 00:01:34.760
+Basically, I'll be doing everything from
+
+00:01:33.080 --> 00:01:36.680
+start to finish, showing you the whole
+
+00:01:34.760 --> 00:01:38.520
+process step by step and leaving nothing
+
+00:01:36.680 --> 00:01:41.000
+out. And the first thing I'll be doing
+
+00:01:38.520 --> 00:01:42.920
+is identifying a low-competition niche
+
+00:01:41.000 --> 00:01:45.080
+with the help of Claude. And to do that,
+
+00:01:42.920 --> 00:01:46.960
+I just started a new chat session, and I
+
+00:01:45.080 --> 00:01:49.080
+asked it to do research and identify
+
+00:01:46.960 --> 00:01:51.880
+topics and themes that are popular and
+
+00:01:49.080 --> 00:01:54.600
+trendy right now with kids age 6 to 12,
+
+00:01:51.880 --> 00:01:56.800
+focused especially on those middle ages.
+
+00:01:54.600 --> 00:01:58.800
+Because you see, this book is not one of
+
+00:01:56.800 --> 00:02:01.240
+a kind. If you come and do a search on
+
+00:01:58.800 --> 00:02:03.240
+Amazon for generic children's
+
+00:02:01.240 --> 00:02:04.920
+encyclopedia books that answer kids
+
+00:02:03.240 --> 00:02:07.080
+questions, you'll see that this is
+
+00:02:04.920 --> 00:02:08.880
+actually a pretty popular type of book
+
+00:02:07.080 --> 00:02:11.200
+right now. And so, there are actually
+
+00:02:08.880 --> 00:02:13.480
+lots on here each earning thousands of
+
+00:02:11.200 --> 00:02:15.840
+dollars a month already. And while it's
+
+00:02:13.480 --> 00:02:17.840
+great to see so much demand, if we just
+
+00:02:15.840 --> 00:02:19.800
+try to copy these, we'll probably get
+
+00:02:17.840 --> 00:02:21.600
+lost in the crowd, which is why what I
+
+00:02:19.800 --> 00:02:23.840
+did was I took this research report
+
+00:02:21.600 --> 00:02:25.360
+Claude made for me, and I took each of
+
+00:02:23.840 --> 00:02:28.000
+the niche ideas that's popular with
+
+00:02:25.360 --> 00:02:29.959
+kids, like this one here, horses, and I
+
+00:02:28.000 --> 00:02:31.880
+came back to Amazon, and I did a search
+
+00:02:29.959 --> 00:02:33.680
+for kids encyclopedia question books
+
+00:02:31.880 --> 00:02:35.920
+themed around horses. And when I
+
+00:02:33.680 --> 00:02:38.200
+searched for this, while I found again
+
+00:02:35.920 --> 00:02:40.760
+generic popular encyclopedia question
+
+00:02:38.200 --> 00:02:42.760
+books and generic popular horse fact
+
+00:02:40.760 --> 00:02:44.760
+books, there were no encyclopedia
+
+00:02:42.760 --> 00:02:46.760
+question books themed specifically to
+
+00:02:44.760 --> 00:02:48.720
+horses. So, you know what this means,
+
+00:02:46.760 --> 00:02:51.080
+right? It means then that if we make our
+
+00:02:48.720 --> 00:02:54.000
+own book on it, then we will actually be
+
+00:02:51.080 --> 00:02:55.600
+a one-of-a-kind book for sale on Amazon,
+
+00:02:54.000 --> 00:02:57.959
+which means that when parents who have
+
+00:02:55.600 --> 00:03:00.000
+kids that like horses do a search for
+
+00:02:57.959 --> 00:03:01.519
+books like ours, our book should be
+
+00:03:00.000 --> 00:03:03.200
+sitting at the very top of the search
+
+00:03:01.519 --> 00:03:05.519
+results since we will have no
+
+00:03:03.200 --> 00:03:08.680
+competitors, making getting free search
+
+00:03:05.519 --> 00:03:10.440
+traffic much easier. So then, the next
+
+00:03:08.680 --> 00:03:12.239
+step in our workflow is simple. We now
+
+00:03:10.440 --> 00:03:14.800
+need to actually generate our book
+
+00:03:12.239 --> 00:03:17.320
+pages. And here's the thing, right? You
+
+00:03:14.800 --> 00:03:19.320
+see all of these pages in my example
+
+00:03:17.320 --> 00:03:20.600
+book that I made here. Well, they are
+
+00:03:19.320 --> 00:03:22.760
+actually all just individual
+
+00:03:20.600 --> 00:03:25.040
+AI-generated infographic images that I
+
+00:03:22.760 --> 00:03:27.120
+quickly created using Claude. Making
+
+00:03:25.040 --> 00:03:28.440
+these images was a two-step process.
+
+00:03:27.120 --> 00:03:30.120
+First, I started a new chat within
+
+00:03:28.440 --> 00:03:31.920
+Claude, and I explained to it what my
+
+00:03:30.120 --> 00:03:34.200
+book was, and I asked it to help me
+
+00:03:31.920 --> 00:03:36.519
+brainstorm and come up with 130
+
+00:03:34.200 --> 00:03:38.800
+different why questions that kids might
+
+00:03:36.519 --> 00:03:40.400
+ask specifically themed around horses.
+
+00:03:38.800 --> 00:03:42.120
+It came up with a bunch of questions.
+
+00:03:40.400 --> 00:03:43.959
+Several of these were great, although
+
+00:03:42.120 --> 00:03:45.480
+some of them I thought could be better.
+
+00:03:43.959 --> 00:03:48.120
+So, I gave it some feedback on how to
+
+00:03:45.480 --> 00:03:50.080
+modify the questions and improve them,
+
+00:03:48.120 --> 00:03:52.160
+and then I let it go ahead and rewrite
+
+00:03:50.080 --> 00:03:55.000
+them, which it did. And this time, the
+
+00:03:52.160 --> 00:03:57.280
+questions were much better. I made a few
+
+00:03:55.000 --> 00:03:59.600
+tweaks to these to get my final list,
+
+00:03:57.280 --> 00:04:02.560
+and then for step two, I opened up a new
+
+00:03:59.600 --> 00:04:04.640
+session within Claude Code. Now, if you
+
+00:04:02.560 --> 00:04:06.320
+didn't know, Claude actually has two
+
+00:04:04.640 --> 00:04:07.600
+versions. It has the version that you
+
+00:04:06.320 --> 00:04:09.480
+can access through your internet
+
+00:04:07.600 --> 00:04:11.560
+browser, and it also has a version that
+
+00:04:09.480 --> 00:04:13.560
+you can download onto your computer. And
+
+00:04:11.560 --> 00:04:16.560
+currently, Claude Code, which is its
+
+00:04:13.560 --> 00:04:18.320
+coding AI agent, can only be accessed
+
+00:04:16.560 --> 00:04:20.799
+and used through the version you've
+
+00:04:18.320 --> 00:04:22.240
+installed on your computer. So, if you
+
+00:04:20.799 --> 00:04:24.240
+don't have this yet, go ahead and
+
+00:04:22.240 --> 00:04:25.880
+download it and install it now. And
+
+00:04:24.240 --> 00:04:28.560
+then, once you've done that, we'll need
+
+00:04:25.880 --> 00:04:30.880
+to ensure that we have added an external
+
+00:04:28.560 --> 00:04:32.680
+image generator into Claude. Because a
+
+00:04:30.880 --> 00:04:35.680
+lot of people don't know this, but
+
+00:04:32.680 --> 00:04:38.400
+unlike ChatGPT and Gemini, currently
+
+00:04:35.680 --> 00:04:41.240
+Claude does not have its own native
+
+00:04:38.400 --> 00:04:43.520
+built-in AI image generator. But that is
+
+00:04:41.240 --> 00:04:45.320
+okay, because the most popular AI image
+
+00:04:43.520 --> 00:04:47.919
+and video generation tool called
+
+00:04:45.320 --> 00:04:50.320
+Hexfield has recently added a Claude
+
+00:04:47.919 --> 00:04:52.400
+Code Agent integration. And this is
+
+00:04:50.320 --> 00:04:55.000
+super handy, since as you can see,
+
+00:04:52.400 --> 00:04:57.280
+Hexfield has all of the major video and
+
+00:04:55.000 --> 00:04:59.880
+image models included in it. So, if you
+
+00:04:57.280 --> 00:05:02.200
+give Claude Code access to Hexfield,
+
+00:04:59.880 --> 00:05:04.960
+it'll be able to use all of these models
+
+00:05:02.200 --> 00:05:07.240
+to create basically anything that you
+
+00:05:04.960 --> 00:05:09.120
+want. So, to install it, just go ahead
+
+00:05:07.240 --> 00:05:11.440
+and get an account on Hexfield. The
+
+00:05:09.120 --> 00:05:13.440
+lowest cost plan is perfect for what we
+
+00:05:11.440 --> 00:05:15.080
+are doing here, and if you want to
+
+00:05:13.440 --> 00:05:16.760
+support the channel, I will include my
+
+00:05:15.080 --> 00:05:18.640
+affiliate link to it in the description
+
+00:05:16.760 --> 00:05:20.760
+below. Then just come and click on this
+
+00:05:18.640 --> 00:05:23.640
+button here to open up this page, and
+
+00:05:20.760 --> 00:05:26.160
+make sure that CLI is selected, and make
+
+00:05:23.640 --> 00:05:28.280
+sure that the Claude agent is selected.
+
+00:05:26.160 --> 00:05:29.840
+Then come and click to copy this first
+
+00:05:28.280 --> 00:05:31.720
+line of code, and then come back to
+
+00:05:29.840 --> 00:05:33.880
+Claude Code and paste it in. This will
+
+00:05:31.720 --> 00:05:36.320
+trigger Claude to now install Hexfield,
+
+00:05:33.880 --> 00:05:38.440
+which it can do by itself. Then, once
+
+00:05:36.320 --> 00:05:40.520
+it's done doing that, copy the second
+
+00:05:38.440 --> 00:05:42.240
+line of code and paste it in. This will
+
+00:05:40.520 --> 00:05:44.240
+trigger Claude to now sign in to your
+
+00:05:42.240 --> 00:05:47.000
+Hexfield account, so it can access its
+
+00:05:44.240 --> 00:05:49.040
+features. Then, finally, copy this third
+
+00:05:47.000 --> 00:05:50.880
+line of code and paste it in. This will
+
+00:05:49.040 --> 00:05:53.320
+trigger Claude to install Hexfield
+
+00:05:50.880 --> 00:05:55.280
+skills and then that's it. Now you can
+
+00:05:53.320 --> 00:05:58.120
+use Claude code to generate any images
+
+00:05:55.280 --> 00:05:59.920
+or even videos that you want. Although
+
+00:05:58.120 --> 00:06:01.200
+in my experience, you will usually get
+
+00:05:59.920 --> 00:06:03.400
+the best results when generating
+
+00:06:01.200 --> 00:06:05.240
+pictures if you first create a reference
+
+00:06:03.400 --> 00:06:07.200
+image and give it to Claude code to use
+
+00:06:05.240 --> 00:06:09.600
+as a style guide. So the easiest way to
+
+00:06:07.200 --> 00:06:12.360
+do this is to manually create an image
+
+00:06:09.600 --> 00:06:14.360
+yourself using an AI image generator. So
+
+00:06:12.360 --> 00:06:16.360
+what I did was I opened up the AI image
+
+00:06:14.360 --> 00:06:18.800
+generation model that will be using in
+
+00:06:16.360 --> 00:06:21.080
+this tutorial, which is Nano Banana Pro,
+
+00:06:18.800 --> 00:06:23.480
+inside of Hexfield and I manually
+
+00:06:21.080 --> 00:06:25.600
+prompted it explaining what I wanted and
+
+00:06:23.480 --> 00:06:28.600
+I made lots of different images to give
+
+00:06:25.600 --> 00:06:30.520
+myself lots of options and out of these,
+
+00:06:28.600 --> 00:06:32.680
+this one was my favorite. But I wanted
+
+00:06:30.520 --> 00:06:34.919
+to make a few tweaks to it. So I clicked
+
+00:06:32.680 --> 00:06:37.000
+to use the image as a reference. This
+
+00:06:34.919 --> 00:06:39.200
+adds it to your prompt box. Now you can
+
+00:06:37.000 --> 00:06:41.560
+explain the exact changes you want to
+
+00:06:39.200 --> 00:06:43.760
+make and then that's it. Nano Banana Pro
+
+00:06:41.560 --> 00:06:45.360
+will keep the image as is but generate
+
+00:06:43.760 --> 00:06:47.400
+new versions with your chosen
+
+00:06:45.360 --> 00:06:49.400
+modifications. And so check it out, it
+
+00:06:47.400 --> 00:06:51.720
+made four new images for me with my
+
+00:06:49.400 --> 00:06:53.560
+modifications and out of them all, this
+
+00:06:51.720 --> 00:06:55.840
+one was my favorite. So I just
+
+00:06:53.560 --> 00:06:57.840
+downloaded it. And so now that I had my
+
+00:06:55.840 --> 00:06:59.520
+reference image, it was now time for me
+
+00:06:57.840 --> 00:07:01.760
+to generate my book infographic
+
+00:06:59.520 --> 00:07:03.720
+pictures. So what I did was I uploaded
+
+00:07:01.760 --> 00:07:06.000
+the reference image and I also told
+
+00:07:03.720 --> 00:07:08.040
+Claude code what the file name was and
+
+00:07:06.000 --> 00:07:09.840
+what folder it can be found in and I
+
+00:07:08.040 --> 00:07:12.240
+then explained to it that I wanted it to
+
+00:07:09.840 --> 00:07:15.160
+use Hexfield to create black and white
+
+00:07:12.240 --> 00:07:17.680
+images with Nano Banana Pro in a 3 by 4
+
+00:07:15.160 --> 00:07:19.880
+aspect ratio and that it should make one
+
+00:07:17.680 --> 00:07:21.600
+image for each question. And then I
+
+00:07:19.880 --> 00:07:23.560
+pasted in the questions and I clicked
+
+00:07:21.600 --> 00:07:26.000
+submit and then that was it. Claude code
+
+00:07:23.560 --> 00:07:27.560
+took over. It ran the Hexfield skill,
+
+00:07:26.000 --> 00:07:30.160
+checked that it was working and made a
+
+00:07:27.560 --> 00:07:32.240
+test image. Now during this process, it
+
+00:07:30.160 --> 00:07:34.680
+asked me for some permissions which I
+
+00:07:32.240 --> 00:07:37.120
+gave it and then once I had finished and
+
+00:07:34.680 --> 00:07:39.440
+confirmed the test image that it made
+
+00:07:37.120 --> 00:07:41.400
+matched my reference, it asked me if I
+
+00:07:39.440 --> 00:07:43.680
+was happy for it to go ahead and just
+
+00:07:41.400 --> 00:07:46.160
+create the rest of the images. I said
+
+00:07:43.680 --> 00:07:47.720
+yes, yes I was, and then I stepped away
+
+00:07:46.160 --> 00:07:49.800
+and let Claude go ahead and make the
+
+00:07:47.720 --> 00:07:51.880
+images for me in the background. And the
+
+00:07:49.800 --> 00:07:53.680
+whole process took about 15 minutes. And
+
+00:07:51.880 --> 00:07:55.680
+when Claude was done, it asked me for
+
+00:07:53.680 --> 00:07:57.480
+permission to go back through the images
+
+00:07:55.680 --> 00:07:59.320
+and make sure that there weren't any
+
+00:07:57.480 --> 00:08:01.480
+failures, which I did give it permission
+
+00:07:59.320 --> 00:08:03.600
+to do. And yeah, once it checked them
+
+00:08:01.480 --> 00:08:05.680
+over, that was it. Claude saved them to
+
+00:08:03.600 --> 00:08:07.720
+my computer and they were also available
+
+00:08:05.680 --> 00:08:09.280
+inside of my Hexfield account for me to
+
+00:08:07.720 --> 00:08:11.200
+be able to access.
+
+00:08:09.280 --> 00:08:13.240
+So then, next up we're going to take our
+
+00:08:11.200 --> 00:08:16.520
+images and create our book and turn it
+
+00:08:13.240 --> 00:08:18.360
+into a PDF file that meets Amazon's
+
+00:08:16.520 --> 00:08:21.160
+requirements, so that we can upload it
+
+00:08:18.360 --> 00:08:23.520
+to sell on Amazon like this. Now, if you
+
+00:08:21.160 --> 00:08:26.000
+watched my video last week where I also
+
+00:08:23.520 --> 00:08:28.919
+made a kids question book, in that
+
+00:08:26.000 --> 00:08:31.400
+video, I did this manually, but since
+
+00:08:28.919 --> 00:08:33.479
+then, I've been experimenting a lot and
+
+00:08:31.400 --> 00:08:35.680
+I've come up with a prompt that gets
+
+00:08:33.479 --> 00:08:37.840
+Claude Code to completely automate this
+
+00:08:35.680 --> 00:08:40.320
+process for you now from start to
+
+00:08:37.840 --> 00:08:41.680
+finish. Check it out. So, first of all,
+
+00:08:40.320 --> 00:08:43.719
+you'll want to make sure that you have
+
+00:08:41.680 --> 00:08:45.680
+all of your images you made saved into a
+
+00:08:43.719 --> 00:08:47.320
+single folder on your computer. Then
+
+00:08:45.680 --> 00:08:49.120
+you'll want to start a new Claude Code
+
+00:08:47.320 --> 00:08:50.839
+session. Start out by telling it what
+
+00:08:49.120 --> 00:08:52.720
+the name of your folder is and where it
+
+00:08:50.839 --> 00:08:54.400
+can be found on your computer. Then
+
+00:08:52.720 --> 00:08:56.320
+explain to Claude what you want to
+
+00:08:54.400 --> 00:08:58.560
+actually create with the pages so that
+
+00:08:56.320 --> 00:09:00.720
+it understands the context. So for me, I
+
+00:08:58.560 --> 00:09:03.080
+explained that it's going to be an 8.5
+
+00:09:00.720 --> 00:09:04.960
+by 11-in children's book. Then tell it
+
+00:09:03.080 --> 00:09:06.560
+exactly what the book should include. So
+
+00:09:04.960 --> 00:09:09.080
+for me, I told it that it needed to
+
+00:09:06.560 --> 00:09:11.040
+include a contents page, a forward, a
+
+00:09:09.080 --> 00:09:12.680
+copyright notice, and I explained I
+
+00:09:11.040 --> 00:09:14.839
+needed all of the images turned into
+
+00:09:12.680 --> 00:09:17.240
+pages with white space removed and the
+
+00:09:14.839 --> 00:09:19.600
+images themselves put within the
+
+00:09:17.240 --> 00:09:22.160
+printing margins, and I wanted a
+
+00:09:19.600 --> 00:09:24.240
+closing. I forgot to tell it to make it
+
+00:09:22.160 --> 00:09:26.320
+grayscale, although it did actually end
+
+00:09:24.240 --> 00:09:29.160
+up figuring out that it should do that
+
+00:09:26.320 --> 00:09:30.920
+too by itself. However, I recommend that
+
+00:09:29.160 --> 00:09:33.520
+you also add that into your prompt as
+
+00:09:30.920 --> 00:09:35.520
+well. But yeah, that was it. I clicked
+
+00:09:33.520 --> 00:09:37.720
+enter and I let it do its magic. I just
+
+00:09:35.520 --> 00:09:39.560
+let it run by itself while I sipped away
+
+00:09:37.720 --> 00:09:41.120
+from my computer and did other things
+
+00:09:39.560 --> 00:09:43.040
+around the house, checking back
+
+00:09:41.120 --> 00:09:45.200
+periodically to see if it needed my
+
+00:09:43.040 --> 00:09:46.680
+permission for anything. And throughout
+
+00:09:45.200 --> 00:09:48.960
+the process, there were only two
+
+00:09:46.680 --> 00:09:50.640
+specific things that it asked for. It
+
+00:09:48.960 --> 00:09:52.040
+asked me for my book name and my book
+
+00:09:50.640 --> 00:09:54.440
+author, although it did give me
+
+00:09:52.040 --> 00:09:56.360
+placeholder options for both if I was
+
+00:09:54.440 --> 00:09:58.000
+unsure. You can also use a pen name for
+
+00:09:56.360 --> 00:09:59.960
+your book author if you like, it doesn't
+
+00:09:58.000 --> 00:10:02.080
+have to be your name. Amazon does not
+
+00:09:59.960 --> 00:10:03.600
+mind pen names. And also don't stress
+
+00:10:02.080 --> 00:10:05.480
+too much about these things either if
+
+00:10:03.600 --> 00:10:07.680
+you aren't sure yet because getting
+
+00:10:05.480 --> 00:10:09.560
+Claude to update your book later is
+
+00:10:07.680 --> 00:10:11.200
+easy. I discovered that because it
+
+00:10:09.560 --> 00:10:13.920
+turned out that I'd actually given
+
+00:10:11.200 --> 00:10:16.400
+Claude two duplicate book pages by
+
+00:10:13.920 --> 00:10:18.720
+accident. So at the end when it gave me
+
+00:10:16.400 --> 00:10:20.760
+the PDF, it noted that and it actually
+
+00:10:18.720 --> 00:10:23.080
+told me that if I wanted to modify it, I
+
+00:10:20.760 --> 00:10:25.640
+could ask it to make the change. So I
+
+00:10:23.080 --> 00:10:27.760
+did that and it went and remade the PDF
+
+00:10:25.640 --> 00:10:30.320
+for me again, even modifying the page
+
+00:10:27.760 --> 00:10:32.560
+numbers to match. So if you want to make
+
+00:10:30.320 --> 00:10:34.560
+any changes to it, don't worry, Claude
+
+00:10:32.560 --> 00:10:36.520
+can make them no problem. This is a
+
+00:10:34.560 --> 00:10:38.120
+preview of what the final PDF it made
+
+00:10:36.520 --> 00:10:40.400
+for me looks like once uploaded to
+
+00:10:38.120 --> 00:10:41.960
+Amazon KDP. You can see that all the
+
+00:10:40.400 --> 00:10:44.120
+content generated fits within the
+
+00:10:41.960 --> 00:10:45.680
+margins and it's also edited the
+
+00:10:44.120 --> 00:10:49.520
+pictures perfectly to match with them,
+
+00:10:45.680 --> 00:10:51.040
+too. It is very cool. So then, now we're
+
+00:10:49.520 --> 00:10:52.839
+going to move on to the next step, which
+
+00:10:51.040 --> 00:10:55.200
+is using Claude code to generate a book
+
+00:10:52.839 --> 00:10:57.760
+cover. Because you see, when you upload
+
+00:10:55.200 --> 00:11:00.440
+a book to Amazon KDP to sell, you also
+
+00:10:57.760 --> 00:11:02.600
+have to upload a PDF of a book cover
+
+00:11:00.440 --> 00:11:05.040
+like this. And it has to be a very
+
+00:11:02.600 --> 00:11:07.200
+specific measurement. Luckily, Amazon
+
+00:11:05.040 --> 00:11:09.120
+has a cover template calculator that you
+
+00:11:07.200 --> 00:11:10.640
+can use to generate this. You can just
+
+00:11:09.120 --> 00:11:13.000
+Google it and enter in your book's
+
+00:11:10.640 --> 00:11:14.880
+information like I did here, and then
+
+00:11:13.000 --> 00:11:17.120
+Amazon will generate a cover template
+
+00:11:14.880 --> 00:11:19.000
+for you with print margins, plus it will
+
+00:11:17.120 --> 00:11:21.120
+create a downloadable version that you
+
+00:11:19.000 --> 00:11:23.360
+can of course download. It looks like
+
+00:11:21.120 --> 00:11:26.680
+this. It'll come in two variations, a
+
+00:11:23.360 --> 00:11:28.480
+PDF file and a PNG file. So what I did
+
+00:11:26.680 --> 00:11:31.120
+was I downloaded these templates and
+
+00:11:28.480 --> 00:11:33.440
+created a new folder on my my with them
+
+00:11:31.120 --> 00:11:35.920
+and also included a screenshot of the
+
+00:11:33.440 --> 00:11:37.720
+front and back cover of a similar book,
+
+00:11:35.920 --> 00:11:39.600
+too. And then here is how I prompted
+
+00:11:37.720 --> 00:11:41.600
+Claude code. First, I explained to it
+
+00:11:39.600 --> 00:11:43.560
+what we're creating, a book cover using
+
+00:11:41.600 --> 00:11:45.880
+Nano Banana Pro with Hexfield, and I
+
+00:11:43.560 --> 00:11:47.920
+gave it the title of my book, and I gave
+
+00:11:45.880 --> 00:11:49.560
+it my author pen name. Then I explained
+
+00:11:47.920 --> 00:11:51.600
+to it where the file with all of my
+
+00:11:49.560 --> 00:11:53.840
+images could be found, and I explained
+
+00:11:51.600 --> 00:11:55.800
+that I'd included the cover templates
+
+00:11:53.840 --> 00:11:57.920
+along with the screenshots of an example
+
+00:11:55.800 --> 00:11:59.840
+cover that I liked to use as design
+
+00:11:57.920 --> 00:12:02.200
+inspiration, and I explained to it the
+
+00:11:59.840 --> 00:12:03.600
+design elements that I wanted. So, for
+
+00:12:02.200 --> 00:12:06.120
+me, given that this book was about
+
+00:12:03.600 --> 00:12:08.040
+horses, I said I wanted a more natural
+
+00:12:06.120 --> 00:12:10.080
+color palette than my example
+
+00:12:08.040 --> 00:12:12.200
+screenshots I'd uploaded, and I also
+
+00:12:10.080 --> 00:12:13.720
+noted to keep the barcode space empty
+
+00:12:12.200 --> 00:12:15.040
+because, as you'll see later, Amazon
+
+00:12:13.720 --> 00:12:17.800
+will actually add this for us
+
+00:12:15.040 --> 00:12:19.880
+automatically. And I also asked it to
+
+00:12:17.800 --> 00:12:21.240
+add text to the back, and then that was
+
+00:12:19.880 --> 00:12:23.240
+it. It first of all started by
+
+00:12:21.240 --> 00:12:25.600
+generating for me the front part of my
+
+00:12:23.240 --> 00:12:27.800
+cover, and it then generated the back
+
+00:12:25.600 --> 00:12:30.280
+part of my cover, and then it combined
+
+00:12:27.800 --> 00:12:32.680
+them together into a single PDF design.
+
+00:12:30.280 --> 00:12:34.200
+And so, check it out. Here is what the
+
+00:12:32.680 --> 00:12:36.600
+cover looked like. It matched the
+
+00:12:34.200 --> 00:12:38.280
+dimensions of the template perfectly.
+
+00:12:36.600 --> 00:12:40.240
+However, I wanted it to make more
+
+00:12:38.280 --> 00:12:42.280
+variations to choose from, so I asked
+
+00:12:40.240 --> 00:12:44.960
+for more, and it went ahead and it made
+
+00:12:42.280 --> 00:12:46.880
+more new designs for me, no problem. And
+
+00:12:44.960 --> 00:12:48.520
+they were pretty cool. Check them out.
+
+00:12:46.880 --> 00:12:50.800
+One of them was indeed glitched, but the
+
+00:12:48.520 --> 00:12:53.040
+other four were great, which is another
+
+00:12:50.800 --> 00:12:55.839
+reason to, if you can, generate multiple
+
+00:12:53.040 --> 00:12:58.120
+designs in case one does get glitched.
+
+00:12:55.839 --> 00:13:00.320
+But yes, either way, this version here
+
+00:12:58.120 --> 00:13:02.040
+it made was my favorite. So, I asked
+
+00:13:00.320 --> 00:13:03.440
+Claude code to check over it and make
+
+00:13:02.040 --> 00:13:05.720
+sure there weren't any glitches that I
+
+00:13:03.440 --> 00:13:08.160
+hadn't noticed, and to make five new
+
+00:13:05.720 --> 00:13:10.560
+versions of it for me, this time with
+
+00:13:08.160 --> 00:13:12.400
+the title on the spine. And that's
+
+00:13:10.560 --> 00:13:14.120
+exactly what it did. It first of all
+
+00:13:12.400 --> 00:13:16.080
+checked over the cover design to make
+
+00:13:14.120 --> 00:13:18.200
+sure there weren't any glitches, then
+
+00:13:16.080 --> 00:13:20.440
+once it had done an edit of it, it moved
+
+00:13:18.200 --> 00:13:22.760
+on to generating the spines, and it made
+
+00:13:20.440 --> 00:13:24.560
+five variations. And it then stitched
+
+00:13:22.760 --> 00:13:26.920
+the spine images it made into the
+
+00:13:24.560 --> 00:13:28.920
+pre-existing cover images it had already
+
+00:13:26.920 --> 00:13:31.200
+created. And here is what my favorite
+
+00:13:28.920 --> 00:13:33.000
+one looks like. Very cool. And so,
+
+00:13:31.200 --> 00:13:34.800
+that's it. Once you have your book PDF
+
+00:13:33.000 --> 00:13:37.440
+and your cover image, you're ready to
+
+00:13:34.800 --> 00:13:39.280
+upload it to Amazon to sell. But first,
+
+00:13:37.440 --> 00:13:41.160
+all of this talk about generating images
+
+00:13:39.280 --> 00:13:44.160
+with Nano Banana can't help but remind
+
+00:13:41.160 --> 00:13:45.600
+me of today's video sponsor, me. Yes,
+
+00:13:44.160 --> 00:13:47.760
+because you see, since there are so many
+
+00:13:45.600 --> 00:13:50.080
+shady YouTube sponsors, if I fail to
+
+00:13:47.760 --> 00:13:52.560
+find a sponsor I trust, I just sponsor a
+
+00:13:50.080 --> 00:13:54.680
+video myself, which I'm doing today to
+
+00:13:52.560 --> 00:13:56.960
+let you know that if you're unaware, I
+
+00:13:54.680 --> 00:13:59.160
+actually have my own one-person AI
+
+00:13:56.960 --> 00:14:01.240
+business where I use AI tools like Nano
+
+00:13:59.160 --> 00:14:03.200
+Banana to create clothing designs which
+
+00:14:01.240 --> 00:14:05.040
+I then sell onto print-on-demand clothes
+
+00:14:03.200 --> 00:14:07.360
+like t-shirt for a profit. And if you'd
+
+00:14:05.040 --> 00:14:09.400
+like to learn more about how exactly I
+
+00:14:07.360 --> 00:14:11.920
+do this, then you can download a copy of
+
+00:14:09.400 --> 00:14:14.400
+my free ebook, My One-Person AI Business
+
+00:14:11.920 --> 00:14:16.720
+Unlocked, where I share my exact
+
+00:14:14.400 --> 00:14:19.160
+six-step strategy that I use to make my
+
+00:14:16.720 --> 00:14:21.480
+AI clothing designs and how I sell them
+
+00:14:19.160 --> 00:14:23.480
+for a profit using free search engine
+
+00:14:21.480 --> 00:14:25.360
+traffic. So, if you'd like to get a copy
+
+00:14:23.480 --> 00:14:27.240
+of this, I'll include a link to it in
+
+00:14:25.360 --> 00:14:28.920
+the description box below. Plus, I also
+
+00:14:27.240 --> 00:14:31.000
+have a program called the ECom Clubhouse
+
+00:14:28.920 --> 00:14:32.720
+where I share in-depth tutorial videos
+
+00:14:31.000 --> 00:14:34.800
+along with my exact AI prompts and
+
+00:14:32.720 --> 00:14:37.200
+workflows that I use. And I even
+
+00:14:34.800 --> 00:14:39.839
+recently added in a new tutorial series
+
+00:14:37.200 --> 00:14:42.040
+showcasing step-by-step how I utilize
+
+00:14:39.839 --> 00:14:44.800
+Claude Code to help me create designs
+
+00:14:42.040 --> 00:14:47.000
+fast, too. And as a bonus for anyone who
+
+00:14:44.800 --> 00:14:48.839
+signs up for my free ebook today, as a
+
+00:14:47.000 --> 00:14:51.240
+special thank you, I will give all new
+
+00:14:48.839 --> 00:14:53.120
+readers an optional one-time coupon that
+
+00:14:51.240 --> 00:14:55.920
+lets you join the ECom Clubhouse for 7
+
+00:14:53.120 --> 00:14:58.280
+days for just $1. But yes, sponsor
+
+00:14:55.920 --> 00:14:59.839
+shover, now back to the video. And now
+
+00:14:58.280 --> 00:15:02.000
+we're going to upload our book to get it
+
+00:14:59.839 --> 00:15:04.240
+ready to list and sell on Amazon while
+
+00:15:02.000 --> 00:15:05.920
+optimizing it for free traffic. So, if
+
+00:15:04.240 --> 00:15:08.280
+you haven't already, sign up for Amazon
+
+00:15:05.920 --> 00:15:10.720
+KDP, which is Amazon's self-publishing
+
+00:15:08.280 --> 00:15:12.720
+service. It is free to do so. Then, once
+
+00:15:10.720 --> 00:15:14.480
+logged in, create a new book. Then
+
+00:15:12.720 --> 00:15:16.360
+choose the book type to create. For
+
+00:15:14.480 --> 00:15:18.280
+this, I'll be creating a paperback.
+
+00:15:16.360 --> 00:15:20.920
+Then, we need to add our book title and
+
+00:15:18.280 --> 00:15:22.760
+importantly, a subtitle. And remember,
+
+00:15:20.920 --> 00:15:25.480
+earlier in this video we found a low
+
+00:15:22.760 --> 00:15:27.600
+competition high demand book niche which
+
+00:15:25.480 --> 00:15:29.440
+of course had no Amazon search
+
+00:15:27.600 --> 00:15:31.120
+competition. And now, that's about to
+
+00:15:29.440 --> 00:15:33.640
+pay off because what we're now going to
+
+00:15:31.120 --> 00:15:35.760
+do is something called SEO, otherwise
+
+00:15:33.640 --> 00:15:37.720
+known as search engine optimization.
+
+00:15:35.760 --> 00:15:40.200
+Basically, all websites that have search
+
+00:15:37.720 --> 00:15:42.120
+engines such as Amazon have algorithms
+
+00:15:40.200 --> 00:15:44.200
+that figure out what pages they should
+
+00:15:42.120 --> 00:15:46.440
+rank highly when users search for
+
+00:15:44.200 --> 00:15:48.320
+phrases. So, for Amazon's algorithm when
+
+00:15:46.440 --> 00:15:50.600
+someone searches for say kids horse
+
+00:15:48.320 --> 00:15:52.800
+question books, the algorithm will read
+
+00:15:50.600 --> 00:15:54.960
+the subtitles of all the books that are
+
+00:15:52.800 --> 00:15:57.000
+up for sale on Amazon and identify the
+
+00:15:54.960 --> 00:15:59.120
+ones that include keywords relevant to
+
+00:15:57.000 --> 00:16:00.320
+the customer search phrase. So, that's
+
+00:15:59.120 --> 00:16:02.760
+what we're doing here. We're getting
+
+00:16:00.320 --> 00:16:04.680
+Claude chat mode to create a subtitle
+
+00:16:02.760 --> 00:16:07.400
+that has lots of keywords that customers
+
+00:16:04.680 --> 00:16:09.760
+use when looking for books like ours.
+
+00:16:07.400 --> 00:16:11.920
+That way Amazon's algorithm will be much
+
+00:16:09.760 --> 00:16:14.120
+more likely to rank it highly in search
+
+00:16:11.920 --> 00:16:16.320
+results bringing in free traffic and
+
+00:16:14.120 --> 00:16:18.280
+free sales. Then, scroll down and enter
+
+00:16:16.320 --> 00:16:20.600
+in the author's name, either your name
+
+00:16:18.280 --> 00:16:21.960
+or the pen name that you chose. Then,
+
+00:16:20.600 --> 00:16:24.120
+after that we'll need to add in a
+
+00:16:21.960 --> 00:16:26.200
+description. And again, this is another
+
+00:16:24.120 --> 00:16:28.440
+opportunity for us to optimize our book
+
+00:16:26.200 --> 00:16:30.520
+for Amazon search engine algorithm. We
+
+00:16:28.440 --> 00:16:32.240
+can get Claude chat mode to write us a
+
+00:16:30.520 --> 00:16:34.800
+description that includes keywords and
+
+00:16:32.240 --> 00:16:36.800
+phrases that customers might use when
+
+00:16:34.800 --> 00:16:38.640
+searching for books like ours. So, I
+
+00:16:36.800 --> 00:16:40.960
+just asked the chat version of Claude to
+
+00:16:38.640 --> 00:16:43.839
+create this and I pasted in a list of
+
+00:16:40.960 --> 00:16:45.920
+questions that the book answers and it
+
+00:16:43.839 --> 00:16:48.400
+was able to make an SEO optimized
+
+00:16:45.920 --> 00:16:50.040
+description for me, no problem. Then,
+
+00:16:48.400 --> 00:16:51.640
+after that you will just need to answer
+
+00:16:50.040 --> 00:16:53.520
+these two questions. Then, you'll need
+
+00:16:51.640 --> 00:16:55.160
+to choose the category for your book.
+
+00:16:53.520 --> 00:16:56.920
+When adding a book you need to pick at
+
+00:16:55.160 --> 00:16:59.400
+least one category which will be your
+
+00:16:56.920 --> 00:17:02.040
+primary category. You can also add two
+
+00:16:59.400 --> 00:17:04.199
+extra subcategories if you want. Then
+
+00:17:02.040 --> 00:17:06.480
+next, you'll need to add keywords. And
+
+00:17:04.199 --> 00:17:08.240
+again, this is another opportunity for
+
+00:17:06.480 --> 00:17:09.880
+us to pick keywords to include that we
+
+00:17:08.240 --> 00:17:11.959
+think our target customers will be
+
+00:17:09.880 --> 00:17:13.760
+searching for. That way the Amazon
+
+00:17:11.959 --> 00:17:16.280
+search algorithm will be much more
+
+00:17:13.760 --> 00:17:18.920
+likely to rank our listing and give us
+
+00:17:16.280 --> 00:17:21.079
+free traffic. So, again, I asked the
+
+00:17:18.920 --> 00:17:23.880
+chat version of Claude to help me come
+
+00:17:21.079 --> 00:17:25.520
+up with the best keywords to add. And be
+
+00:17:23.880 --> 00:17:27.959
+sure to do what I did here and tell it
+
+00:17:25.520 --> 00:17:30.600
+to also avoid any copyrighted terms,
+
+00:17:27.959 --> 00:17:32.080
+trademark terms, or author names. Then
+
+00:17:30.600 --> 00:17:34.080
+after that, come on over to the next
+
+00:17:32.080 --> 00:17:36.920
+page and you'll be able to add a free
+
+00:17:34.080 --> 00:17:38.680
+ISBN barcode. If you don't have one,
+
+00:17:36.920 --> 00:17:41.360
+then you can pick your paper and cover
+
+00:17:38.680 --> 00:17:43.200
+type. For kids books, glossy is the most
+
+00:17:41.360 --> 00:17:45.760
+popular cover type. Then you'll just
+
+00:17:43.200 --> 00:17:48.160
+need to upload your book manuscript PDF
+
+00:17:45.760 --> 00:17:50.600
+and your PDF. Then next you need to
+
+00:17:48.160 --> 00:17:52.720
+disclose to Amazon if you've used AI to
+
+00:17:50.600 --> 00:17:54.560
+make your book. And be honest here.
+
+00:17:52.720 --> 00:17:56.400
+Amazon has said they're not penalizing
+
+00:17:54.560 --> 00:17:58.840
+AI books. They just want to keep track
+
+00:17:56.400 --> 00:18:00.920
+of it for their own internal data. Then
+
+00:17:58.840 --> 00:18:03.240
+after that, you'll be able to open up a
+
+00:18:00.920 --> 00:18:05.080
+preview of your book and you'll be able
+
+00:18:03.240 --> 00:18:07.280
+to go through your cover and manuscript
+
+00:18:05.080 --> 00:18:10.160
+PDF and double-check to see if there are
+
+00:18:07.280 --> 00:18:12.320
+any mistakes or errors. And if they are,
+
+00:18:10.160 --> 00:18:14.880
+you can get Claude code to fix them and
+
+00:18:12.320 --> 00:18:16.640
+then just re-upload a new manuscript or
+
+00:18:14.880 --> 00:18:18.320
+a new book cover. Then you can head on
+
+00:18:16.640 --> 00:18:20.160
+over to the next page where you'll pick
+
+00:18:18.320 --> 00:18:22.120
+your pricing. Most people turn on
+
+00:18:20.160 --> 00:18:24.200
+expanded distribution and a common
+
+00:18:22.120 --> 00:18:26.962
+pricing tactic is to start with a low
+
+00:18:24.200 --> 00:18:27.000
+book price like $9.99.
+
+00:18:26.962 --> 00:18:28.480
+>> [snorts]
+
+00:18:27.000 --> 00:18:31.360
+>> And then once you're getting consistent
+
+00:18:28.480 --> 00:18:32.840
+sales, bump it up. But either way, once
+
+00:18:31.360 --> 00:18:36.080
+you've picked your price, you can click
+
+00:18:32.840 --> 00:18:38.280
+publish. Now, unfortunately, I've had a
+
+00:18:36.080 --> 00:18:40.440
+lot of AI haters lately who have started
+
+00:18:38.280 --> 00:18:42.600
+to watch my videos so that they can find
+
+00:18:40.440 --> 00:18:44.800
+products and content I'm creating with
+
+00:18:42.600 --> 00:18:47.120
+AI so that they can leave negative
+
+00:18:44.800 --> 00:18:49.640
+reviews on them. So, I now keep the
+
+00:18:47.120 --> 00:18:51.280
+things that I actually sell a secret.
+
+00:18:49.640 --> 00:18:54.000
+So, I will be setting this to be a
+
+00:18:51.280 --> 00:18:56.240
+private draft. But if you are ready to
+
+00:18:54.000 --> 00:18:57.560
+sell your book, then you can just click
+
+00:18:56.240 --> 00:18:59.280
+publish.
+
+00:18:57.560 --> 00:19:00.800
+So then, if you'd like to see even more
+
+00:18:59.280 --> 00:19:02.560
+ways that people are starting online
+
+00:19:00.800 --> 00:19:04.520
+businesses with Claude, be sure to watch
+
+00:19:02.560 --> 00:19:07.960
+my next video here on screen. And I will
+
+00:19:04.520 --> 00:19:07.960
+see you in the next video.
+

@@ -1,0 +1,1085 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.240
+In this video I'm going to show you how
+
+00:00:00.920 --> 00:00:05.440
+to build your own AI employee and use it
+
+00:00:03.240 --> 00:00:07.840
+to market itself. So be sure to watch
+
+00:00:05.440 --> 00:00:10.520
+this entire way through. All right, so I
+
+00:00:07.840 --> 00:00:12.160
+have Solo pulled up and this is MTC,
+
+00:00:10.520 --> 00:00:14.120
+which stands for More Than Coding. And
+
+00:00:12.160 --> 00:00:16.080
+Solo is a great cloud cloud alternative
+
+00:00:14.120 --> 00:00:18.240
+since cloud code decreased the limits,
+
+00:00:16.080 --> 00:00:18.995
+so it's it's absolutely abhorrent to use
+
+00:00:18.240 --> 00:00:19.400
+it sometimes,
+
+00:00:18.995 --> 00:00:21.040
+>> [music]
+
+00:00:19.400 --> 00:00:22.680
+>> especially when you hit your limits. So
+
+00:00:21.040 --> 00:00:24.920
+Solo is a great alternative because it's
+
+00:00:22.680 --> 00:00:26.360
+extremely efficient, extremely smart.
+
+00:00:24.920 --> 00:00:28.600
+You can launch multiple tasks. It has
+
+00:00:26.360 --> 00:00:30.320
+its own skill base. It's it's pretty
+
+00:00:28.600 --> 00:00:32.920
+straightforward, right? So what we're
+
+00:00:30.320 --> 00:00:37.560
+going to be doing is we're going to say,
+
+00:00:32.920 --> 00:00:40.000
+"Solo, I need you to create a PRD for an
+
+00:00:37.560 --> 00:00:43.840
+AI tool that can generate LinkedIn posts
+
+00:00:40.000 --> 00:00:46.240
+in a storytelling and value-based format
+
+00:00:43.840 --> 00:00:49.040
+so I can increase my LinkedIn followers
+
+00:00:46.240 --> 00:00:51.440
+and generate B2B leads."
+
+00:00:49.040 --> 00:00:54.280
+So I just gave that voice prompt. Boom.
+
+00:00:51.440 --> 00:00:56.720
+All right. So now it'll create a PRD for
+
+00:00:54.280 --> 00:00:56.720
+us.
+
+00:00:56.960 --> 00:01:00.880
+Click send. I'll select a project. Let
+
+00:00:58.720 --> 00:01:02.080
+me select a project real quick.
+
+00:01:00.880 --> 00:01:04.040
+Um
+
+00:01:02.080 --> 00:01:08.080
+Let's make a new folder.
+
+00:01:04.040 --> 00:01:08.080
+Solo is cool.
+
+00:01:08.480 --> 00:01:12.840
+Open that up. Allow.
+
+00:01:10.720 --> 00:01:15.280
+Allow.
+
+00:01:12.840 --> 00:01:17.200
+All right.
+
+00:01:15.280 --> 00:01:18.600
+So while this is, you know, doing its
+
+00:01:17.200 --> 00:01:19.960
+thing, [music]
+
+00:01:18.600 --> 00:01:21.640
+I'll create a new task again. Because
+
+00:01:19.960 --> 00:01:23.440
+again, we can fire multiple tasks at the
+
+00:01:21.640 --> 00:01:24.840
+same time. You can see some of the other
+
+00:01:23.440 --> 00:01:26.520
+things it can do from web reading to
+
+00:01:24.840 --> 00:01:29.080
+research analysis, data mining, file
+
+00:01:26.520 --> 00:01:29.160
+management, all, you know, very uh
+
+00:01:29.080 --> 00:01:31.640
+>> [music]
+
+00:01:29.160 --> 00:01:34.480
+>> useful tasks. But as right now, we're
+
+00:01:31.640 --> 00:01:36.840
+just going to be waiting for Solo to
+
+00:01:34.480 --> 00:01:38.680
+hurry up and [music] create this PRD.
+
+00:01:36.840 --> 00:01:42.181
+And we're going to pass that PRD into
+
+00:01:38.680 --> 00:01:42.360
+itself to go ahead and create a nice UI
+
+00:01:42.181 --> 00:01:44.520
+>> [music]
+
+00:01:42.360 --> 00:01:46.840
+>> that we can look really, you know, that
+
+00:01:44.520 --> 00:01:48.480
+we can show other people and potentially
+
+00:01:46.840 --> 00:01:50.400
+sell them on. These are some questions
+
+00:01:48.480 --> 00:01:54.320
+Solo's asking us. Who's the primary user
+
+00:01:50.400 --> 00:01:56.240
+persona for this tool? Um Honestly, all
+
+00:01:54.320 --> 00:01:57.880
+of them, right? I I can I'll say founder
+
+00:01:56.240 --> 00:01:59.040
+or solo consultants first. That's who
+
+00:01:57.880 --> 00:02:00.920
+we're [music] targeting. Which
+
+00:01:59.040 --> 00:02:03.800
+integrations are in scope are in scope
+
+00:02:00.920 --> 00:02:05.480
+of V1? LinkedIn posting. No, we're not
+
+00:02:03.800 --> 00:02:07.000
+going to have API that posts direct to
+
+00:02:05.480 --> 00:02:08.399
+LinkedIn. Right now [music] we just need
+
+00:02:07.000 --> 00:02:10.479
+to
+
+00:02:08.399 --> 00:02:13.560
+Yeah, focus on generation quality and
+
+00:02:10.479 --> 00:02:18.261
+then copy-paste posts. Yep.
+
+00:02:13.560 --> 00:02:18.261
+Use Make sure to specify [music]
+
+00:02:18.320 --> 00:02:23.400
+to use modern styling.
+
+00:02:22.240 --> 00:02:25.411
+Of course you want our UIs to look
+
+00:02:23.400 --> 00:02:27.720
+beautiful. We don't want no janky
+
+00:02:25.411 --> 00:02:30.080
+[music] UIs.
+
+00:02:27.720 --> 00:02:32.000
+All right. So now that Solo understands
+
+00:02:30.080 --> 00:02:33.160
+what it needs to be doing, we're just
+
+00:02:32.000 --> 00:02:34.800
+going to wait for it to generate this
+
+00:02:33.160 --> 00:02:37.280
+PRD.
+
+00:02:34.800 --> 00:02:39.480
+All right. [music] So it is now done.
+
+00:02:37.280 --> 00:02:42.520
+You can check out the PRD right here.
+
+00:02:39.480 --> 00:02:44.240
+And by the way, Solo moves quick.
+
+00:02:42.520 --> 00:02:45.960
+Holy This is way quicker than I
+
+00:02:44.240 --> 00:02:48.840
+thought it was going to be. Um all
+
+00:02:45.960 --> 00:02:51.640
+right, we got a PRD here. Cool. So now
+
+00:02:48.840 --> 00:02:54.400
+what we're going to be doing is
+
+00:02:51.640 --> 00:02:54.400
+All right.
+
+00:02:54.480 --> 00:03:02.200
+Use [music] the PRD
+
+00:02:57.000 --> 00:03:07.200
+and build out a UI a functional
+
+00:03:02.200 --> 00:03:09.640
+UI that accomplishes everything
+
+00:03:07.200 --> 00:03:12.800
+stated
+
+00:03:09.640 --> 00:03:12.800
+in the PRD.
+
+00:03:13.680 --> 00:03:17.520
+Okay. So now we have our PRD. We're
+
+00:03:15.680 --> 00:03:19.960
+going to go ahead and and use it to
+
+00:03:17.520 --> 00:03:21.640
+actually build out our MVP. You can see
+
+00:03:19.960 --> 00:03:23.520
+what's included. You have four post
+
+00:03:21.640 --> 00:03:26.360
+types, brief form hook generator, adding
+
+00:03:23.520 --> 00:03:28.080
+actions, library, copy to clipboard, um
+
+00:03:26.360 --> 00:03:31.120
+analytics,
+
+00:03:28.080 --> 00:03:32.320
+risk and mitigations, open questions.
+
+00:03:31.120 --> 00:03:33.880
+It's asking me some more questions right
+
+00:03:32.320 --> 00:03:35.840
+here, but let's go ahead and just keep
+
+00:03:33.880 --> 00:03:38.160
+looking through this real quick.
+
+00:03:35.840 --> 00:03:40.240
+Storytelling post structure,
+
+00:03:38.160 --> 00:03:44.200
+value-framing post structure, CTA
+
+00:03:40.240 --> 00:03:44.200
+question, reduce AI tone.
+
+00:03:45.280 --> 00:03:49.040
+Okay.
+
+00:03:46.880 --> 00:03:49.040
+Um
+
+00:03:49.960 --> 00:03:54.120
+It broke down the problem very well,
+
+00:03:51.600 --> 00:03:55.600
+which is good. Positioning anxiety,
+
+00:03:54.120 --> 00:03:58.240
+inconsistent, and then [music] time
+
+00:03:55.600 --> 00:03:58.240
+cost.
+
+00:03:59.440 --> 00:04:03.760
+These are big goals right here. We want
+
+00:04:01.880 --> 00:04:05.560
+The whole point of this is to make
+
+00:04:03.760 --> 00:04:06.760
+things faster for founders cuz most
+
+00:04:05.560 --> 00:04:08.720
+founders don't have the time to be
+
+00:04:06.760 --> 00:04:08.902
+posting on LinkedIn every single day.
+
+00:04:08.720 --> 00:04:09.280
+Um
+
+00:04:08.902 --> 00:04:10.920
+>> [music]
+
+00:04:09.280 --> 00:04:12.200
+>> I'm one of those people. Like I should
+
+00:04:10.920 --> 00:04:14.440
+be posting on LinkedIn every single day,
+
+00:04:12.200 --> 00:04:16.920
+but I am not. And that's not a good
+
+00:04:14.440 --> 00:04:19.359
+thing. That's a pretty bad thing. Right?
+
+00:04:16.920 --> 00:04:21.280
+So I need [music] to fix that and this
+
+00:04:19.359 --> 00:04:23.040
+tool is not only for you all, but it's
+
+00:04:21.280 --> 00:04:24.520
+also for myself.
+
+00:04:23.040 --> 00:04:26.280
+Okay. To what front-end stack should I
+
+00:04:24.520 --> 00:04:28.480
+use for this UI? Um let's go with
+
+00:04:26.280 --> 00:04:31.080
+Next.js. How should Jerry work in this
+
+00:04:28.480 --> 00:04:31.080
+build?
+
+00:04:31.760 --> 00:04:36.000
+Okay. So it needs an API key. [music]
+
+00:04:34.720 --> 00:04:38.800
+Um
+
+00:04:36.000 --> 00:04:39.960
+For now, okay, I should give API key,
+
+00:04:38.800 --> 00:04:42.000
+right?
+
+00:04:39.960 --> 00:04:44.800
+All right. So I'll I'll go pass an pass
+
+00:04:42.000 --> 00:04:47.680
+an API key to this.
+
+00:04:44.800 --> 00:04:50.823
+How should drafts be stored? Only local
+
+00:04:47.680 --> 00:04:51.120
+storage for now. Um submit.
+
+00:04:50.823 --> 00:04:54.560
+>> [music]
+
+00:04:51.120 --> 00:04:58.360
+>> Okay, so let me give this my API key.
+
+00:04:54.560 --> 00:05:00.800
+And Solo has now built our application.
+
+00:04:58.360 --> 00:05:02.000
+It has artifacts right here.
+
+00:05:00.800 --> 00:05:03.923
+Okay. We're going to locally open the
+
+00:05:02.000 --> 00:05:05.840
+folder, create environment, set So
+
+00:05:03.923 --> 00:05:07.040
+[music] it's telling us how we can run
+
+00:05:05.840 --> 00:05:11.720
+it. Let's
+
+00:05:07.040 --> 00:05:14.000
+ask, "Are you able to run it for us?"
+
+00:05:11.720 --> 00:05:17.080
+All right. So we can run this. Open the
+
+00:05:14.000 --> 00:05:19.240
+project folder, npm install.
+
+00:05:17.080 --> 00:05:22.520
+So let's go ahead and open this up.
+
+00:05:19.240 --> 00:05:22.520
+We're just doing your code.
+
+00:05:28.680 --> 00:05:33.320
+Solo is cool. Open that up.
+
+00:05:36.200 --> 00:05:40.520
+All right. So Solo gives us the exact
+
+00:05:37.560 --> 00:05:41.720
+directions we need to follow.
+
+00:05:40.520 --> 00:05:44.200
+So we're just going to open this folder
+
+00:05:41.720 --> 00:05:44.200
+up.
+
+00:05:44.480 --> 00:05:51.040
+Run npm install.
+
+00:05:48.200 --> 00:05:54.320
+Okay. [music] So npm install worked. So
+
+00:05:51.040 --> 00:05:57.520
+now we're going to run this command.
+
+00:05:54.320 --> 00:05:59.040
+And believe we have
+
+00:05:57.520 --> 00:06:01.120
+example.env.locals.
+
+00:05:59.040 --> 00:06:02.920
+We can delete that. Oh, I guess we can
+
+00:06:01.120 --> 00:06:04.640
+just keep that for now.
+
+00:06:02.920 --> 00:06:06.760
+So we got
+
+00:06:04.640 --> 00:06:09.360
+go ahead and put the OpenAI key right
+
+00:06:06.760 --> 00:06:09.360
+here.
+
+00:06:10.480 --> 00:06:13.720
+All right. And I will be deleting this,
+
+00:06:12.320 --> 00:06:15.760
+so don't try to like use this key
+
+00:06:13.720 --> 00:06:19.904
+because I'll delete it.
+
+00:06:15.760 --> 00:06:20.600
+And then you run npm dev. Okay. So npm
+
+00:06:19.904 --> 00:06:23.360
+[music]
+
+00:06:20.600 --> 00:06:23.360
+run dev.
+
+00:06:26.680 --> 00:06:30.480
+Okay. So
+
+00:06:32.520 --> 00:06:37.760
+All right. This is what it came up with.
+
+00:06:34.400 --> 00:06:40.680
+Create library, voice adding.
+
+00:06:37.760 --> 00:06:40.680
+This is actually pretty cool.
+
+00:06:50.240 --> 00:06:55.040
+All right. This is what it came up with,
+
+00:06:51.840 --> 00:06:55.040
+which I mean it's pretty
+
+00:07:01.400 --> 00:07:05.440
+All right. This is what it came up with.
+
+00:07:02.640 --> 00:07:09.200
+Brief hooks, drafts,
+
+00:07:05.440 --> 00:07:10.339
+CTA mode, soft follow and comment topic.
+
+00:07:09.200 --> 00:07:10.480
+Um
+
+00:07:10.339 --> 00:07:14.680
+>> [music]
+
+00:07:10.480 --> 00:07:14.680
+>> Leaving my 9-5
+
+00:07:15.560 --> 00:07:21.000
+tech job. That's my topic. Audience.
+
+00:07:21.720 --> 00:07:27.640
+I guess software engineers.
+
+00:07:24.520 --> 00:07:30.160
+Offer positioning growing LinkedIn to
+
+00:07:27.640 --> 00:07:32.880
+build a one-person [music]
+
+00:07:30.160 --> 00:07:32.880
+business.
+
+00:07:34.760 --> 00:07:38.360
+Uh proof example, LinkedIn brought
+
+00:07:37.195 --> 00:07:42.600
+[music]
+
+00:07:38.360 --> 00:07:42.600
+me B2B clients.
+
+00:07:42.760 --> 00:07:46.560
+Pick one apply to draft.
+
+00:07:48.440 --> 00:07:54.520
+Draft editor. Include hashtags.
+
+00:07:52.560 --> 00:07:55.680
+Oh, generate. I was like, "What was
+
+00:07:54.520 --> 00:07:57.400
+going on?"
+
+00:07:55.680 --> 00:08:02.080
+Okay, get it now.
+
+00:07:57.400 --> 00:08:02.080
+So it's generating. It says configured.
+
+00:08:05.360 --> 00:08:08.240
+Um um um
+
+00:08:17.800 --> 00:08:22.680
+Okay. So here we are.
+
+00:08:20.800 --> 00:08:25.040
+Leaving a 9-5 tech job is the best best
+
+00:08:22.680 --> 00:08:28.000
+decision I ever made. So you can tie in
+
+00:08:25.040 --> 00:08:28.000
+make specific.
+
+00:08:29.960 --> 00:08:32.680
+Oh, that's actually pretty good. Pretty
+
+00:08:31.560 --> 00:08:35.520
+solid. Pretty These are pretty
+
+00:08:32.680 --> 00:08:39.159
+straightforward.
+
+00:08:35.520 --> 00:08:40.730
+Uh outline toggle. Look context tension
+
+00:08:39.159 --> 00:08:42.599
+inside action. I like this tension
+
+00:08:40.730 --> 00:08:43.520
+[music] that they're giving.
+
+00:08:42.599 --> 00:08:45.200
+What I learned from stepping away from
+
+00:08:43.520 --> 00:08:48.520
+my stable paycheck. Leaving a 9-5 tech
+
+00:08:45.200 --> 00:08:48.520
+job is the best decision I ever made.
+
+00:08:49.120 --> 00:08:51.760
+I think this is the best hook. Yeah. I
+
+00:08:50.760 --> 00:08:52.840
+think the first one's the best hook for
+
+00:08:51.760 --> 00:08:57.400
+sure.
+
+00:08:52.840 --> 00:08:57.400
+Okay. So if you copy this,
+
+00:08:57.960 --> 00:09:01.000
+Okay. So it does automatically save,
+
+00:08:59.720 --> 00:09:03.840
+which [music] is good.
+
+00:09:01.000 --> 00:09:07.000
+If you we saved it just now, so does it
+
+00:09:03.840 --> 00:09:08.760
+go to library? Yeah, that I Nice. Nice.
+
+00:09:07.000 --> 00:09:10.240
+Open it.
+
+00:09:08.760 --> 00:09:11.640
+Nice.
+
+00:09:10.240 --> 00:09:13.800
+It's funny Oh, and you can put your
+
+00:09:11.640 --> 00:09:15.720
+voice, you can get some context into it,
+
+00:09:13.800 --> 00:09:17.240
+settings.
+
+00:09:15.720 --> 00:09:20.240
+Okay.
+
+00:09:17.240 --> 00:09:20.240
+So
+
+00:09:20.560 --> 00:09:23.240
+I'm going to open I already copy-pasted.
+
+00:09:21.996 --> 00:09:26.040
+[music]
+
+00:09:23.240 --> 00:09:27.760
+Now what we can do
+
+00:09:26.040 --> 00:09:30.760
+is [music]
+
+00:09:27.760 --> 00:09:30.760
+um
+
+00:09:31.200 --> 00:09:32.160
+we can
+
+00:09:31.821 --> 00:09:34.160
+>> [music]
+
+00:09:32.160 --> 00:09:36.320
+>> tell
+
+00:09:34.160 --> 00:09:37.760
+Well, one, we can like generate the like
+
+00:09:36.320 --> 00:09:40.520
+these posts that we have. We can just
+
+00:09:37.760 --> 00:09:42.760
+copy and paste them into LinkedIn
+
+00:09:40.520 --> 00:09:44.160
+to just drive more like traffic to our
+
+00:09:42.760 --> 00:09:49.200
+page.
+
+00:09:44.160 --> 00:09:49.200
+Second, we can use Tray
+
+00:09:54.560 --> 00:10:03.440
+Second, we can use Tray to come
+
+00:09:57.720 --> 00:10:03.440
+up with a marketing plan
+
+00:10:04.520 --> 00:10:12.480
+via LinkedIn
+
+00:10:07.200 --> 00:10:16.240
+for this tool he just made.
+
+00:10:12.480 --> 00:10:20.160
+Make the marketing plan
+
+00:10:16.240 --> 00:10:20.160
+be LinkedIn [music] centric.
+
+00:10:21.720 --> 00:10:30.680
+Example is a series of seven posts.
+
+00:10:28.040 --> 00:10:33.200
+Example is example is a series of seven
+
+00:10:30.680 --> 00:10:34.560
+posts that's marketing
+
+00:10:33.200 --> 00:10:36.680
+this tool.
+
+00:10:34.560 --> 00:10:40.240
+We're going to use our solo [music] to
+
+00:10:36.680 --> 00:10:42.480
+market our LinkedIn tool on LinkedIn.
+
+00:10:40.240 --> 00:10:44.040
+And hypothetically we could even
+
+00:10:42.480 --> 00:10:46.360
+use oh
+
+00:10:44.040 --> 00:10:46.360
+I would
+
+00:10:57.720 --> 00:11:01.520
+Hypothetically we could even use this
+
+00:10:59.000 --> 00:11:03.200
+tool to write LinkedIn posts on the tool
+
+00:11:01.520 --> 00:11:05.320
+itself.
+
+00:11:03.200 --> 00:11:08.560
+Which is funny.
+
+00:11:05.320 --> 00:11:10.480
+Yeah, I love how fast solo is.
+
+00:11:08.560 --> 00:11:12.680
+Okay, so post one problem story I posted
+
+00:11:10.480 --> 00:11:12.680
+it good.
+
+00:11:14.680 --> 00:11:18.200
+Is this too short? No.
+
+00:11:19.240 --> 00:11:25.520
+Short form post. Okay, let's say
+
+00:11:23.560 --> 00:11:26.600
+the niche is
+
+00:11:25.520 --> 00:11:29.000
+kind of exactly what we're doing with
+
+00:11:26.600 --> 00:11:32.720
+this tool. The niche is
+
+00:11:29.000 --> 00:11:35.640
+founders and can you write out the
+
+00:11:32.720 --> 00:11:38.160
+entire posts so I can copy [music]
+
+00:11:35.640 --> 00:11:38.160
+paste.
+
+00:11:38.320 --> 00:11:41.800
+Yes, I'm being lazy. I know. This is a
+
+00:11:40.280 --> 00:11:44.160
+point. This is why we have tools like
+
+00:11:41.800 --> 00:11:45.880
+solo to let us be lazy and [music] still
+
+00:11:44.160 --> 00:11:49.200
+have efficient efficient output. Okay,
+
+00:11:45.880 --> 00:11:51.000
+so now what I did was I told
+
+00:11:49.200 --> 00:11:52.640
+solo to come with a marketing plan via
+
+00:11:51.000 --> 00:11:54.560
+LinkedIn and it came with like an
+
+00:11:52.640 --> 00:11:56.839
+outline of seven posts, right? I wanted
+
+00:11:54.560 --> 00:11:58.360
+to make a seven post LinkedIn like
+
+00:11:56.839 --> 00:11:59.640
+sequence.
+
+00:11:58.360 --> 00:12:01.680
+So then I said these are some pretty
+
+00:11:59.640 --> 00:12:03.200
+good posts, not going to lie. So why
+
+00:12:01.680 --> 00:12:06.120
+don't you actually write the entire
+
+00:12:03.200 --> 00:12:07.480
+post? And this is what it came up with.
+
+00:12:06.120 --> 00:12:10.080
+It's funny cuz we're using this we're
+
+00:12:07.480 --> 00:12:12.720
+using solo to make LinkedIn [music]
+
+00:12:10.080 --> 00:12:14.760
+posts to market our LinkedIn tool and
+
+00:12:12.720 --> 00:12:16.760
+conversely we can also use our LinkedIn
+
+00:12:14.760 --> 00:12:17.960
+tool to make LinkedIn posts to market
+
+00:12:16.760 --> 00:12:20.480
+itself.
+
+00:12:17.960 --> 00:12:22.760
+It's a funny way this is all working.
+
+00:12:20.480 --> 00:12:24.880
+So
+
+00:12:22.760 --> 00:12:26.280
+we want to demo we want to bring people
+
+00:12:24.880 --> 00:12:27.880
+to this tool, right? So we can do is
+
+00:12:26.280 --> 00:12:31.320
+this.
+
+00:12:27.880 --> 00:12:33.760
+I have to put my ad in your writing.
+
+00:12:31.320 --> 00:12:35.320
+I used to think consistency on LinkedIn.
+
+00:12:33.760 --> 00:12:36.800
+Is that this one problem? Let's copy
+
+00:12:35.320 --> 00:12:38.280
+this. This is actually pretty good. I'm
+
+00:12:36.800 --> 00:12:39.440
+not going to
+
+00:12:38.280 --> 00:12:42.200
+I don't think we need to use another
+
+00:12:39.440 --> 00:12:44.760
+one, but okay, copy this. There you are.
+
+00:12:42.200 --> 00:12:44.760
+There you go.
+
+00:12:46.480 --> 00:12:52.120
+Copy that. Some other posts just in case
+
+00:12:48.920 --> 00:12:52.120
+you do find a better post.
+
+00:12:54.400 --> 00:12:56.680
+Actually I like this one.
+
+00:12:55.839 --> 00:13:00.760
+There you go. I found a better one
+
+00:12:56.680 --> 00:13:00.760
+already. This has more value.
+
+00:13:01.320 --> 00:13:05.600
+What this is doing is it's giving value
+
+00:13:03.240 --> 00:13:07.560
+to the user. So when they see this post
+
+00:13:05.600 --> 00:13:08.800
+like hmm, if they if you have a tool
+
+00:13:07.560 --> 00:13:10.120
+that does it
+
+00:13:08.800 --> 00:13:12.760
+that does all this for us, that'd be
+
+00:13:10.120 --> 00:13:12.760
+pretty good.
+
+00:13:13.480 --> 00:13:19.120
+So I copy that.
+
+00:13:15.880 --> 00:13:21.240
+And then I can tell solo make more posts
+
+00:13:19.120 --> 00:13:22.880
+like this one. See, solo is great for
+
+00:13:21.240 --> 00:13:25.320
+not just development but also marketing,
+
+00:13:22.880 --> 00:13:26.560
+which is why it's very useful.
+
+00:13:25.320 --> 00:13:28.480
+But in the meantime we can go to
+
+00:13:26.560 --> 00:13:30.560
+LinkedIn and you know, after doing the
+
+00:13:28.480 --> 00:13:31.839
+marketing is pretty easy. Like you
+
+00:13:30.560 --> 00:13:33.320
+simply just
+
+00:13:31.839 --> 00:13:35.440
+um
+
+00:13:33.320 --> 00:13:37.120
+go to your profile. Oh shoot, start a
+
+00:13:35.440 --> 00:13:40.080
+post.
+
+00:13:37.120 --> 00:13:40.080
+Oh no.
+
+00:13:41.520 --> 00:13:44.480
+Create a post.
+
+00:13:44.520 --> 00:13:48.120
+Oh, notification just came and then
+
+00:13:46.080 --> 00:13:49.480
+Trey. See, solo moves so fast that's
+
+00:13:48.120 --> 00:13:50.839
+actually crazy.
+
+00:13:49.480 --> 00:13:53.839
+It's not cuz you use structure. So if
+
+00:13:50.839 --> 00:13:53.839
+you want to go LinkedIn
+
+00:14:07.920 --> 00:14:11.440
+There you go. Now it's a nice solid post
+
+00:14:09.720 --> 00:14:13.200
+and I can just go ahead and post it.
+
+00:14:11.440 --> 00:14:15.000
+Okay, now you can see right here I it
+
+00:14:13.200 --> 00:14:16.920
+wrote more posts in the framework that
+
+00:14:15.000 --> 00:14:19.959
+we liked. So it's the line one, line
+
+00:14:16.920 --> 00:14:19.959
+two, line three.
+
+00:14:20.120 --> 00:14:25.600
+Another structured breakdown one.
+
+00:14:22.000 --> 00:14:25.600
+Specificity, tension, proof.
+
+00:14:26.800 --> 00:14:32.000
+More or less numbers.
+
+00:14:29.200 --> 00:14:33.120
+Let's do bullet points, numbers. So
+
+00:14:32.000 --> 00:14:35.520
+it's basically getting what we're
+
+00:14:33.120 --> 00:14:37.710
+already using and repurposing it to make
+
+00:14:35.520 --> 00:14:37.880
+more posts like that original one.
+
+00:14:37.710 --> 00:14:39.280
+>> [music]
+
+00:14:37.880 --> 00:14:41.440
+>> And if you want to take things to the
+
+00:14:39.280 --> 00:14:43.000
+next level, you can go to the skills
+
+00:14:41.440 --> 00:14:44.520
+right here.
+
+00:14:43.000 --> 00:14:46.240
+You can see a bunch [music] of skills
+
+00:14:44.520 --> 00:14:48.845
+that has access to that React Native
+
+00:14:46.240 --> 00:14:49.480
+skills, MCP builder, best practices,
+
+00:14:48.845 --> 00:14:51.600
+[music]
+
+00:14:49.480 --> 00:14:53.480
+data analysis, UI design, front end
+
+00:14:51.600 --> 00:14:56.440
+skills. So that way you can make just
+
+00:14:53.480 --> 00:14:59.980
+your your version of solo look that much
+
+00:14:56.440 --> 00:15:01.040
+better, right? Shad CDN, like front end,
+
+00:14:59.980 --> 00:15:02.800
+>> [music]
+
+00:15:01.040 --> 00:15:04.400
+>> front design right here as well. And it
+
+00:15:02.800 --> 00:15:06.530
+connects us on the one of the best
+
+00:15:04.400 --> 00:15:07.800
+providers like you know, GPT, Anthropic,
+
+00:15:06.530 --> 00:15:09.400
+[music] and
+
+00:15:07.800 --> 00:15:11.600
+this one. If you want to check out Trey
+
+00:15:09.400 --> 00:15:15.000
+AI as amazing AI agent solo, then click
+
+00:15:11.600 --> 00:15:15.000
+the first link in the description below.
+

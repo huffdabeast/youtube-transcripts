@@ -1,0 +1,1181 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:03.200
+Most people building an AI business are
+
+00:00:01.760 --> 00:00:05.279
+doing it completely wrong, which is why
+
+00:00:03.200 --> 00:00:07.680
+it's surprisingly easy to get ahead of
+
+00:00:05.279 --> 00:00:09.679
+99% of them. I spent the last five years
+
+00:00:07.680 --> 00:00:11.040
+building AI agents and automation tools.
+
+00:00:09.679 --> 00:00:13.040
+Been a feature on Business Insider,
+
+00:00:11.040 --> 00:00:15.440
+Times Square, made over $600,000 from
+
+00:00:13.040 --> 00:00:17.279
+this, and even got offered $200,000 to
+
+00:00:15.440 --> 00:00:19.279
+sell just one of my AI apps. I only
+
+00:00:17.279 --> 00:00:20.800
+spent 5 hours a month on. And here's
+
+00:00:19.279 --> 00:00:22.480
+what I'm seeing. The gap between people
+
+00:00:20.800 --> 00:00:23.920
+who are actually making money with AI
+
+00:00:22.480 --> 00:00:26.000
+and those who are just talking about it
+
+00:00:23.920 --> 00:00:27.519
+is getting wider faster. In this video,
+
+00:00:26.000 --> 00:00:29.359
+I'll [music] give you a clear seven-step
+
+00:00:27.519 --> 00:00:31.119
+road map to build a profitable AI
+
+00:00:29.359 --> 00:00:33.120
+business. And the best part, it only
+
+00:00:31.119 --> 00:00:34.800
+takes 30 days to go from beginner AI
+
+00:00:33.120 --> 00:00:36.480
+business owner to a profitable one.
+
+00:00:34.800 --> 00:00:38.239
+Let's dive in. Week one starts with
+
+00:00:36.480 --> 00:00:39.600
+learning what I call problem language.
+
+00:00:38.239 --> 00:00:41.440
+Most people start their AI business
+
+00:00:39.600 --> 00:00:43.360
+journey the wrong way. They Google top
+
+00:00:41.440 --> 00:00:46.239
+50 AI tools. They learn about GBT
+
+00:00:43.360 --> 00:00:47.680
+rappers, fine-tuning, rag systems. They
+
+00:00:46.239 --> 00:00:50.239
+skim through everything, which is a
+
+00:00:47.680 --> 00:00:51.680
+recipe for failure. Here's what 99% of
+
+00:00:50.239 --> 00:00:53.360
+AI developers get wrong. They think
+
+00:00:51.680 --> 00:00:55.120
+about technology first and problem
+
+00:00:53.360 --> 00:00:56.879
+second. But businesses don't pay for
+
+00:00:55.120 --> 00:00:58.879
+technology, they pay for solutions to
+
+00:00:56.879 --> 00:01:00.480
+their problems. I once had a hotel
+
+00:00:58.879 --> 00:01:02.559
+worker reach out to me through Reddit.
+
+00:01:00.480 --> 00:01:04.400
+He wasn't asking about AI architecture
+
+00:01:02.559 --> 00:01:06.000
+or what model I was using. He said,
+
+00:01:04.400 --> 00:01:07.680
+"Hey, I can't get shifts because
+
+00:01:06.000 --> 00:01:09.439
+thousands of workers are fighting for
+
+00:01:07.680 --> 00:01:11.040
+the same slots and I'm just too slow to
+
+00:01:09.439 --> 00:01:12.159
+get them." That was it. That was a
+
+00:01:11.040 --> 00:01:15.119
+problem. He didn't care if I used
+
+00:01:12.159 --> 00:01:16.640
+Puppeteer.JS and Nen or train hamsters
+
+00:01:15.119 --> 00:01:19.439
+running on a wheel. He cared that when
+
+00:01:16.640 --> 00:01:21.600
+shifts drop, he got them. Within a week,
+
+00:01:19.439 --> 00:01:23.520
+I built a basic web agent that books
+
+00:01:21.600 --> 00:01:26.240
+shifts for him at lightning speed. No
+
+00:01:23.520 --> 00:01:27.840
+fancy UI, no extra features, just a
+
+00:01:26.240 --> 00:01:30.320
+script that worked. I didn't even have a
+
+00:01:27.840 --> 00:01:31.520
+landing page to show him about my app.
+
+00:01:30.320 --> 00:01:33.360
+It was literally a private cell. And
+
+00:01:31.520 --> 00:01:35.439
+would I personally use it? Hell yeah. If
+
+00:01:33.360 --> 00:01:37.759
+I was a shift worker, that one client
+
+00:01:35.439 --> 00:01:40.560
+turned into eight clients paying $500 to
+
+00:01:37.759 --> 00:01:44.079
+$700 per month each. MR went from zero
+
+00:01:40.560 --> 00:01:45.600
+to over $5,600 in just weeks. So, here's
+
+00:01:44.079 --> 00:01:47.439
+what problem language looks like in
+
+00:01:45.600 --> 00:01:49.600
+practice. Instead of thinking, I want to
+
+00:01:47.439 --> 00:01:51.840
+build an AI agent that uses GBT4 with
+
+00:01:49.600 --> 00:01:53.600
+memory context and semantic search.
+
+00:01:51.840 --> 00:01:55.520
+Think [music] who has a task that takes
+
+00:01:53.600 --> 00:01:57.280
+up more time than it should that a
+
+00:01:55.520 --> 00:01:59.280
+computer could do faster? That should be
+
+00:01:57.280 --> 00:02:01.280
+the thought process. Your mom struggling
+
+00:01:59.280 --> 00:02:03.439
+to get that limited edition hand back.
+
+00:02:01.280 --> 00:02:05.119
+Your friend who owns a flower shop
+
+00:02:03.439 --> 00:02:07.680
+manually responding to every single
+
+00:02:05.119 --> 00:02:10.640
+Instagram DM. Your coworker spending 3
+
+00:02:07.680 --> 00:02:12.800
+hours sorting through chunks of emails.
+
+00:02:10.640 --> 00:02:14.640
+Those are all problems. And problems are
+
+00:02:12.800 --> 00:02:16.400
+where the money is. By the end of week
+
+00:02:14.640 --> 00:02:18.400
+one, you should have a list of at least
+
+00:02:16.400 --> 00:02:20.000
+10 problems you've personally witnessed,
+
+00:02:18.400 --> 00:02:21.840
+not ideas from Twitter, not
+
+00:02:20.000 --> 00:02:23.840
+hypotheticals, [music] real problems
+
+00:02:21.840 --> 00:02:25.599
+from real people you can actually talk
+
+00:02:23.840 --> 00:02:26.959
+to, including yourself. And [music] I
+
+00:02:25.599 --> 00:02:28.160
+mean, I mean, I talk to myself. I don't
+
+00:02:26.959 --> 00:02:29.680
+know about you, but it's a good
+
+00:02:28.160 --> 00:02:31.599
+exercise. Now that you understand
+
+00:02:29.680 --> 00:02:33.280
+problems and problem language, we're
+
+00:02:31.599 --> 00:02:36.239
+going to pick your instrument. [music]
+
+00:02:33.280 --> 00:02:38.000
+Now, here's the thing. Most people start
+
+00:02:36.239 --> 00:02:40.560
+building the wrong way. They try to
+
+00:02:38.000 --> 00:02:42.640
+learn and end, voice flow, make, Zapier,
+
+00:02:40.560 --> 00:02:44.239
+Python, Node.js, OJS and cursa all at
+
+00:02:42.640 --> 00:02:46.160
+the same time. That's like trying to
+
+00:02:44.239 --> 00:02:48.080
+learn drums, guitar, piano, and
+
+00:02:46.160 --> 00:02:49.440
+saxophone simultaneously. You're going
+
+00:02:48.080 --> 00:02:51.040
+to suck at all of them. It's like the
+
+00:02:49.440 --> 00:02:52.800
+quote jack of all trades, but master of
+
+00:02:51.040 --> 00:02:54.720
+none. Think about it like this. I spent
+
+00:02:52.800 --> 00:02:56.800
+years mastering web automation with
+
+00:02:54.720 --> 00:02:58.560
+Puppeteer.js before I [music] even touch
+
+00:02:56.800 --> 00:03:00.640
+no code tools. And when Naden came
+
+00:02:58.560 --> 00:03:02.400
+along, picking it up wasn't hard because
+
+00:03:00.640 --> 00:03:04.159
+I already understood the rhythm of
+
+00:03:02.400 --> 00:03:06.239
+automation. See what I did there? Music
+
+00:03:04.159 --> 00:03:08.400
+automation. So, which one do you pick?
+
+00:03:06.239 --> 00:03:11.200
+If you want fast results with zero code,
+
+00:03:08.400 --> 00:03:13.040
+start with any. I built an $11,000 ad
+
+00:03:11.200 --> 00:03:15.200
+tracking system for a client using
+
+00:03:13.040 --> 00:03:18.000
+Naden, no code. You want to build apps
+
+00:03:15.200 --> 00:03:20.319
+fast? Learn cursor AI or cloud code. I
+
+00:03:18.000 --> 00:03:22.000
+built AI apps in 12 hours and got him
+
+00:03:20.319 --> 00:03:23.440
+paid hundreds to thousands of dollars.
+
+00:03:22.000 --> 00:03:25.200
+But really, it doesn't matter which one
+
+00:03:23.440 --> 00:03:27.360
+you pick first. What matters is you
+
+00:03:25.200 --> 00:03:29.120
+spend time with one of them and learn
+
+00:03:27.360 --> 00:03:31.040
+its personality, its limits, its
+
+00:03:29.120 --> 00:03:33.120
+strengths. The goal is to start feeling
+
+00:03:31.040 --> 00:03:35.040
+the rhythm, not to become a master of
+
+00:03:33.120 --> 00:03:36.879
+absolutely nothing. By the end of week
+
+00:03:35.040 --> 00:03:38.720
+one, you should be able to build a basic
+
+00:03:36.879 --> 00:03:40.319
+automation without watching tutorial.
+
+00:03:38.720 --> 00:03:41.440
+That's the benchmark. You can't do that,
+
+00:03:40.319 --> 00:03:43.120
+something's wrong. Start it [music]
+
+00:03:41.440 --> 00:03:44.400
+again. Step three is context is
+
+00:03:43.120 --> 00:03:45.680
+everything. All right, so we've
+
+00:03:44.400 --> 00:03:47.200
+identified our problems and picked our
+
+00:03:45.680 --> 00:03:49.440
+tool. Now, let's talk about what
+
+00:03:47.200 --> 00:03:50.879
+actually makes your solutions smart. And
+
+00:03:49.440 --> 00:03:52.879
+that's context. The world's most
+
+00:03:50.879 --> 00:03:54.640
+powerful AI agents or solutions will
+
+00:03:52.879 --> 00:03:56.480
+seem useless if you don't understand the
+
+00:03:54.640 --> 00:03:57.680
+context of the problem you're solving.
+
+00:03:56.480 --> 00:03:59.120
+Here's what I mean. When the hotel
+
+00:03:57.680 --> 00:04:01.040
+worker first reached out, I didn't just
+
+00:03:59.120 --> 00:04:02.560
+say, "Cool, I build you a bot." I asked
+
+00:04:01.040 --> 00:04:04.640
+questions. How does a shift booking
+
+00:04:02.560 --> 00:04:06.239
+system work? What time do shifts drop?
+
+00:04:04.640 --> 00:04:07.680
+How many workers are competing? What's
+
+00:04:06.239 --> 00:04:09.760
+the actual interface look like? Are
+
+00:04:07.680 --> 00:04:10.879
+there any rules against automation? I
+
+00:04:09.760 --> 00:04:12.879
+want to learn absolutely [music]
+
+00:04:10.879 --> 00:04:14.480
+everything. The context is a map that
+
+00:04:12.879 --> 00:04:16.560
+helps you navigate towards a real
+
+00:04:14.480 --> 00:04:17.359
+solution. This is called the deep
+
+00:04:16.560 --> 00:04:19.440
+framework. [music]
+
+00:04:17.359 --> 00:04:21.199
+D for details. Get the specifics of the
+
+00:04:19.440 --> 00:04:22.720
+current process. Every click, every
+
+00:04:21.199 --> 00:04:24.960
+weight time, every frustration. [music]
+
+00:04:22.720 --> 00:04:26.560
+E is for environment. What tools are
+
+00:04:24.960 --> 00:04:28.080
+they already using? What's their
+
+00:04:26.560 --> 00:04:30.960
+technical [music] comfort level? What's
+
+00:04:28.080 --> 00:04:32.800
+their budget? E part 2, E squ is for
+
+00:04:30.960 --> 00:04:34.720
+expectations. What does success look
+
+00:04:32.800 --> 00:04:36.720
+like for them? Is it saving time, making
+
+00:04:34.720 --> 00:04:38.800
+money, reducing stress? Figure that out.
+
+00:04:36.720 --> 00:04:40.479
+And P is for precedent. Has anyone tried
+
+00:04:38.800 --> 00:04:42.320
+to solve this before? What worked? What
+
+00:04:40.479 --> 00:04:43.919
+didn't? Who are the competitors? The
+
+00:04:42.320 --> 00:04:45.360
+richer the context, the better your
+
+00:04:43.919 --> 00:04:47.199
+solution will be. And here's the kicker.
+
+00:04:45.360 --> 00:04:48.320
+The more context you gather, the easier
+
+00:04:47.199 --> 00:04:50.240
+it is to sell because you [music]
+
+00:04:48.320 --> 00:04:52.000
+understand their world better than they
+
+00:04:50.240 --> 00:04:53.919
+do. Once you start using frameworks like
+
+00:04:52.000 --> 00:04:56.160
+Deep, you've [music] joined the top 10%
+
+00:04:53.919 --> 00:04:57.360
+of AI builders. Next is to debug your
+
+00:04:56.160 --> 00:04:59.120
+business model. When you're not making
+
+00:04:57.360 --> 00:05:00.479
+money, the problem isn't the AI, it's
+
+00:04:59.120 --> 00:05:02.320
+your thinking. I remember when I first
+
+00:05:00.479 --> 00:05:04.160
+started building agents. I spent weeks
+
+00:05:02.320 --> 00:05:05.919
+perfecting this one automation, adding
+
+00:05:04.160 --> 00:05:08.960
+features, polishing the UI, and making
+
+00:05:05.919 --> 00:05:11.199
+it ready. And then nothing. No sales, no
+
+00:05:08.960 --> 00:05:13.680
+interest. I built something nobody asked
+
+00:05:11.199 --> 00:05:15.360
+for. I just thought it would be cool and
+
+00:05:13.680 --> 00:05:17.120
+maybe people want it. But here's the
+
+00:05:15.360 --> 00:05:18.960
+hard truth. Did I validate the problem
+
+00:05:17.120 --> 00:05:20.639
+first? No. Did I talk to potential
+
+00:05:18.960 --> 00:05:22.479
+customers before building? No. Did I
+
+00:05:20.639 --> 00:05:25.120
+have anyone waiting to buy? Absolutely
+
+00:05:22.479 --> 00:05:27.120
+not. And that is the problem. You must
+
+00:05:25.120 --> 00:05:28.880
+make sure you're doing the steps before
+
+00:05:27.120 --> 00:05:30.560
+this to really build an effective
+
+00:05:28.880 --> 00:05:32.880
+solution. And there are three patterns I
+
+00:05:30.560 --> 00:05:34.560
+use now to debug my business thinking.
+
+00:05:32.880 --> 00:05:36.560
+The first is a pre-sell pattern. Before
+
+00:05:34.560 --> 00:05:38.639
+I even finish building, I post about my
+
+00:05:36.560 --> 00:05:40.160
+progress on Twitter, Reddit, Discord. I
+
+00:05:38.639 --> 00:05:42.000
+share screenshots. I hint at what's
+
+00:05:40.160 --> 00:05:43.919
+coming. When I launched my shift booking
+
+00:05:42.000 --> 00:05:46.000
+agent, I already had workers DM [music]
+
+00:05:43.919 --> 00:05:48.080
+me asking me when it would be ready,
+
+00:05:46.000 --> 00:05:49.840
+like the the SAS version of it, which is
+
+00:05:48.080 --> 00:05:51.680
+I would charge $600 a month per client
+
+00:05:49.840 --> 00:05:53.759
+for. The second is iteration pattern.
+
+00:05:51.680 --> 00:05:55.199
+When someone says no or ignores me, I
+
+00:05:53.759 --> 00:05:56.880
+ask myself, did I explain the value
+
+00:05:55.199 --> 00:05:58.289
+clearly? Did I target the right person?
+
+00:05:56.880 --> 00:06:00.400
+Did I price them wrong? and then I tweak
+
+00:05:58.289 --> 00:06:02.240
+[music] and try again. Always pivot when
+
+00:06:00.400 --> 00:06:04.479
+possible, make changes when possible,
+
+00:06:02.240 --> 00:06:06.400
+update yourself and your solution when
+
+00:06:04.479 --> 00:06:08.240
+possible. Speaking of updates, the third
+
+00:06:06.400 --> 00:06:10.400
+is a feedback pattern. I create a whole
+
+00:06:08.240 --> 00:06:12.479
+Discord for most of my software products
+
+00:06:10.400 --> 00:06:14.240
+for InstaDM, for Agent Fast, for Quick
+
+00:06:12.479 --> 00:06:16.080
+Sharks. Users are extremely vocal about
+
+00:06:14.240 --> 00:06:17.840
+bugs, issues, and recommendations. That
+
+00:06:16.080 --> 00:06:19.520
+feedback helps me improve faster than if
+
+00:06:17.840 --> 00:06:20.960
+I was building alone. Mr. Beast says
+
+00:06:19.520 --> 00:06:22.080
+having five friends working on the same
+
+00:06:20.960 --> 00:06:24.400
+thing helps you solve mistakes [music]
+
+00:06:22.080 --> 00:06:25.840
+at a 5x rate. Imagine how fast you solve
+
+00:06:24.400 --> 00:06:27.440
+mistakes when you have tens or hundreds
+
+00:06:25.840 --> 00:06:29.199
+of users giving [music] you feedback
+
+00:06:27.440 --> 00:06:30.880
+directly through Discord. I call that
+
+00:06:29.199 --> 00:06:31.759
+godspeed. Now, by the end of week two,
+
+00:06:30.880 --> 00:06:33.440
+you [music] should have talked to at
+
+00:06:31.759 --> 00:06:35.520
+least five potential customers about
+
+00:06:33.440 --> 00:06:37.039
+their problems. Not pitch them, just
+
+00:06:35.520 --> 00:06:38.259
+listen. The next part is to navigate
+
+00:06:37.039 --> 00:06:39.360
+what the money is. When you're trying to
+
+00:06:38.259 --> 00:06:40.560
+[music] figure out what to build, you're
+
+00:06:39.360 --> 00:06:42.160
+not searching for the perfect idea.
+
+00:06:40.560 --> 00:06:43.360
+You're navigating through a landscape of
+
+00:06:42.160 --> 00:06:45.280
+opportunities. If you just think
+
+00:06:43.360 --> 00:06:46.720
+generically like, I'll build an AI
+
+00:06:45.280 --> 00:06:48.560
+assistant. I'll build an AI voice
+
+00:06:46.720 --> 00:06:50.034
+system. You create something mediocre
+
+00:06:48.560 --> 00:06:51.280
+that competes with Chat GT itself,
+
+00:06:50.034 --> 00:06:52.479
+[music] which is something you don't
+
+00:06:51.280 --> 00:06:54.000
+want to do because they are a
+
+00:06:52.479 --> 00:06:55.840
+multi-billion dollar startup. So, how do
+
+00:06:54.000 --> 00:06:58.000
+you find the edges, the niches where
+
+00:06:55.840 --> 00:06:59.360
+money actually flows? Well, you navigate
+
+00:06:58.000 --> 00:07:00.639
+towards specific industries with
+
+00:06:59.360 --> 00:07:03.199
+specific problems. Like think about
+
+00:07:00.639 --> 00:07:04.479
+portaotty businesses. Think about septic
+
+00:07:03.199 --> 00:07:05.919
+tank businesses. Think about swimming
+
+00:07:04.479 --> 00:07:07.759
+pool businesses. These are businesses
+
+00:07:05.919 --> 00:07:10.080
+that have very common problem you can
+
+00:07:07.759 --> 00:07:11.440
+solve for that aren't too famous. Like
+
+00:07:10.080 --> 00:07:12.960
+personally, this is what I started with.
+
+00:07:11.440 --> 00:07:14.160
+I will look at who has money and
+
+00:07:12.960 --> 00:07:15.680
+recurring problems. So, I look at
+
+00:07:14.160 --> 00:07:17.120
+dentists, lawyers, real estate agents,
+
+00:07:15.680 --> 00:07:18.639
+e-commerce store owners, content
+
+00:07:17.120 --> 00:07:20.319
+creators. These people have cash and
+
+00:07:18.639 --> 00:07:21.520
+pain points. Second, I look for industry
+
+00:07:20.319 --> 00:07:24.639
+with outdated systems. For [music]
+
+00:07:21.520 --> 00:07:26.880
+example, uh septic tanks, uh the poop
+
+00:07:24.639 --> 00:07:28.240
+industry, right? They all have outdated
+
+00:07:26.880 --> 00:07:29.919
+systems because they're run by
+
+00:07:28.240 --> 00:07:31.520
+millennials. There's one dentist I work
+
+00:07:29.919 --> 00:07:32.720
+with was manually tracking appointments,
+
+00:07:31.520 --> 00:07:34.080
+patients, and cancellations of your
+
+00:07:32.720 --> 00:07:35.440
+Google Sheets. The website had traffic
+
+00:07:34.080 --> 00:07:37.199
+but no conversions, [music] and that was
+
+00:07:35.440 --> 00:07:38.400
+a goal of mine because dentists make a
+
+00:07:37.199 --> 00:07:39.520
+lot of money. If you're able to automate
+
+00:07:38.400 --> 00:07:40.800
+their workflow, they'll pay you good
+
+00:07:39.520 --> 00:07:42.080
+amount. The other thing I do is look at
+
+00:07:40.800 --> 00:07:43.360
+what's already selling. So I go to
+
+00:07:42.080 --> 00:07:44.720
+product hunt and look at the top
+
+00:07:43.360 --> 00:07:46.639
+products for the last four weeks. People
+
+00:07:44.720 --> 00:07:48.560
+are building AI scheduling systems, AI
+
+00:07:46.639 --> 00:07:49.919
+email responders, AI content generators.
+
+00:07:48.560 --> 00:07:51.360
+If something is selling, there's a
+
+00:07:49.919 --> 00:07:52.880
+market for it, right? So sometimes use
+
+00:07:51.360 --> 00:07:54.639
+your competitors to your advantage. You
+
+00:07:52.880 --> 00:07:57.440
+can even steal ideas. They're like 10
+
+00:07:54.639 --> 00:07:59.199
+different memecoin AI solution agents
+
+00:07:57.440 --> 00:08:01.199
+out there, 10 different note-taking
+
+00:07:59.199 --> 00:08:02.639
+apps, [music] and some even look
+
+00:08:01.199 --> 00:08:04.000
+identical. But guess what? They all make
+
+00:08:02.639 --> 00:08:05.440
+the developers thousands of dollars
+
+00:08:04.000 --> 00:08:06.960
+every month. And that just goes [music]
+
+00:08:05.440 --> 00:08:08.560
+to show that you do not have to reinvent
+
+00:08:06.960 --> 00:08:10.240
+the wheel. So please don't. All you got
+
+00:08:08.560 --> 00:08:12.000
+to do is find a wheel that's already
+
+00:08:10.240 --> 00:08:13.360
+rolling and build your own version. Like
+
+00:08:12.000 --> 00:08:15.599
+here's a million dollar idea I thought
+
+00:08:13.360 --> 00:08:17.360
+of by having created a mass LinkedIn job
+
+00:08:15.599 --> 00:08:18.800
+applier app. Easy money if you create
+
+00:08:17.360 --> 00:08:20.479
+it. By week three, you should have
+
+00:08:18.800 --> 00:08:21.840
+narrowed down to one specific industry
+
+00:08:20.479 --> 00:08:23.120
+with one specific problem you're [music]
+
+00:08:21.840 --> 00:08:24.319
+going to solve. At this point, if you
+
+00:08:23.120 --> 00:08:26.240
+are wishing you had someone to work with
+
+00:08:24.319 --> 00:08:27.759
+you one-on-one that's made over $600,000
+
+00:08:26.240 --> 00:08:29.840
+doing this, I have a surprise. I am
+
+00:08:27.759 --> 00:08:31.440
+reopening four spots for my AI business
+
+00:08:29.840 --> 00:08:33.680
+coaching program where I work with you
+
+00:08:31.440 --> 00:08:35.919
+one-on-one to build, launch, and scale
+
+00:08:33.680 --> 00:08:37.200
+your AI business. I've helped 150 plus
+
+00:08:35.919 --> 00:08:38.880
+students launch their own without
+
+00:08:37.200 --> 00:08:41.039
+wasting any time. Speaking of not
+
+00:08:38.880 --> 00:08:42.320
+wasting time, step six is to verify
+
+00:08:41.039 --> 00:08:44.020
+everything. Here's something that trips
+
+00:08:42.320 --> 00:08:45.360
+up most AI builders. They assume the
+
+00:08:44.020 --> 00:08:46.640
+[music] solution works without actually
+
+00:08:45.360 --> 00:08:48.399
+testing in the real world. There are
+
+00:08:46.640 --> 00:08:50.560
+three ways to separate working solutions
+
+00:08:48.399 --> 00:08:52.240
+from broken promises. First, test the
+
+00:08:50.560 --> 00:08:54.000
+real users. Don't just test yourself.
+
+00:08:52.240 --> 00:08:55.600
+Get someone else use your app [music]
+
+00:08:54.000 --> 00:08:56.959
+and watch them. How do they interact
+
+00:08:55.600 --> 00:08:58.480
+with it? What's their feedback? You'll
+
+00:08:56.959 --> 00:09:00.000
+see confusion you never noticed because
+
+00:08:58.480 --> 00:09:01.680
+everyone interacts with technology
+
+00:09:00.000 --> 00:09:02.720
+differently. You'll catch bugs you never
+
+00:09:01.680 --> 00:09:04.399
+triggered. Second, [music] you want to
+
+00:09:02.720 --> 00:09:06.800
+test under real conditions. For example,
+
+00:09:04.399 --> 00:09:08.160
+my agent/ app that booked shifts. I test
+
+00:09:06.800 --> 00:09:09.920
+it when the shift actually drops. For
+
+00:09:08.160 --> 00:09:11.519
+example, your chatbot handles inquiries.
+
+00:09:09.920 --> 00:09:13.360
+Test it with real customer questions,
+
+00:09:11.519 --> 00:09:14.800
+not the sanitized ones you made up where
+
+00:09:13.360 --> 00:09:16.800
+you know what the output's going to be.
+
+00:09:14.800 --> 00:09:18.560
+Third, get paid before you finish. This
+
+00:09:16.800 --> 00:09:20.800
+is my favorite. My shift booking agent
+
+00:09:18.560 --> 00:09:22.480
+was probably like 70% [music] good. I
+
+00:09:20.800 --> 00:09:23.920
+already had clients paying. Why? Because
+
+00:09:22.480 --> 00:09:24.880
+it worked. It wasn't perfect, but it
+
+00:09:23.920 --> 00:09:25.920
+solved their problem, and that's all
+
+00:09:24.880 --> 00:09:27.839
+that matters. Now, here's the thing
+
+00:09:25.920 --> 00:09:29.220
+about AI. It will sound confident even
+
+00:09:27.839 --> 00:09:31.040
+when it's wrong. I I honestly hate
+
+00:09:29.220 --> 00:09:32.880
+[music] this. Makes me so mad. So, make
+
+00:09:31.040 --> 00:09:34.480
+sure you're careful with it because you
+
+00:09:32.880 --> 00:09:36.240
+have to verify every [music] every claim
+
+00:09:34.480 --> 00:09:38.160
+you make about what your solution can do
+
+00:09:36.240 --> 00:09:40.080
+or can't do because if you just go by
+
+00:09:38.160 --> 00:09:41.200
+with the AI saying, it can literally be
+
+00:09:40.080 --> 00:09:42.720
+wrong. [music] By the time you finish
+
+00:09:41.200 --> 00:09:44.080
+week three, you should have at least one
+
+00:09:42.720 --> 00:09:46.000
+person who has used a solution and
+
+00:09:44.080 --> 00:09:48.080
+confirm it works. And now it's time to
+
+00:09:46.000 --> 00:09:49.440
+develop your taste. Most people build AI
+
+00:09:48.080 --> 00:09:50.959
+businesses like they're using a vending
+
+00:09:49.440 --> 00:09:52.800
+machine. They push a button, [music]
+
+00:09:50.959 --> 00:09:54.560
+grab whatever generic output comes out,
+
+00:09:52.800 --> 00:09:56.399
+and wonder why nobody's buying. So, how
+
+00:09:54.560 --> 00:09:58.160
+do you stand out? You develop taste. For
+
+00:09:56.399 --> 00:10:00.399
+example, my student Liddon built his a
+
+00:09:58.160 --> 00:10:01.760
+dental AI system for a Texas dentist. He
+
+00:10:00.399 --> 00:10:03.279
+didn't just slap together generic. What
+
+00:10:01.760 --> 00:10:05.519
+he built was a dashboard with high
+
+00:10:03.279 --> 00:10:07.200
+in-depth analytics, call tracking. It
+
+00:10:05.519 --> 00:10:08.640
+was fully customade. It integrated
+
+00:10:07.200 --> 00:10:10.399
+perfectly with the chatbot, stored
+
+00:10:08.640 --> 00:10:11.920
+leads, handled missed calls, cancel
+
+00:10:10.399 --> 00:10:13.760
+appointments, did absolutely everything.
+
+00:10:11.920 --> 00:10:15.440
+And the questions he asked was what
+
+00:10:13.760 --> 00:10:17.017
+would make the dentist's jaw drop and
+
+00:10:15.440 --> 00:10:18.480
+what would make him tell other dentists
+
+00:10:17.017 --> 00:10:19.760
+[music] about it. And that's how he was
+
+00:10:18.480 --> 00:10:22.079
+able to land that client. And of course,
+
+00:10:19.760 --> 00:10:23.760
+he had a great mentor. And then me and
+
+00:10:22.079 --> 00:10:25.440
+him pitched the idea together where we
+
+00:10:23.760 --> 00:10:27.360
+would tell that dentist that we will
+
+00:10:25.440 --> 00:10:29.040
+give him a finder fee if he is able to
+
+00:10:27.360 --> 00:10:30.880
+bring some of his friends on board on
+
+00:10:29.040 --> 00:10:32.320
+the solution. That's taste. Building
+
+00:10:30.880 --> 00:10:34.000
+something that makes people want to
+
+00:10:32.320 --> 00:10:36.320
+share it. Here's a framework I use and
+
+00:10:34.000 --> 00:10:37.920
+teach. Stand. S is for specific. Is the
+
+00:10:36.320 --> 00:10:39.300
+solution laser focused on one problem?
+
+00:10:37.920 --> 00:10:41.120
+If not, narrow it. T is for tangible.
+
+00:10:39.300 --> 00:10:43.279
+[music] Can you show measurable results,
+
+00:10:41.120 --> 00:10:44.720
+screenshots, metrics, testimonials? A is
+
+00:10:43.279 --> 00:10:46.399
+for automated. Does the solution
+
+00:10:44.720 --> 00:10:48.000
+actually save time or effort? If it
+
+00:10:46.399 --> 00:10:49.600
+requires manual work from the client,
+
+00:10:48.000 --> 00:10:51.077
+it's not really valuable enough. N is
+
+00:10:49.600 --> 00:10:52.720
+for new. Does it feel fresh or does
+
+00:10:51.077 --> 00:10:54.399
+[music] she like every other AI tool out
+
+00:10:52.720 --> 00:10:56.240
+there like voice AI receptionist for
+
+00:10:54.399 --> 00:10:57.600
+dentists? I thought everyone wants to do
+
+00:10:56.240 --> 00:10:59.760
+that nowadays. And because the industry
+
+00:10:57.600 --> 00:11:01.279
+is so far behind, it still works, but it
+
+00:10:59.760 --> 00:11:02.640
+will become saturated at a point. And D
+
+00:11:01.279 --> 00:11:03.680
+is for delightful. Is there something
+
+00:11:02.640 --> 00:11:05.839
+about your solution that makes [music]
+
+00:11:03.680 --> 00:11:08.000
+people smile, a small touch that shows
+
+00:11:05.839 --> 00:11:09.600
+you care? As you apply this over 30
+
+00:11:08.000 --> 00:11:11.360
+days, you start noticing something
+
+00:11:09.600 --> 00:11:13.040
+deeper. Every problem you solve, every
+
+00:11:11.360 --> 00:11:14.480
+client you talk to, every iteration you
+
+00:11:13.040 --> 00:11:15.279
+make, you're not just building a
+
+00:11:14.480 --> 00:11:17.120
+business. [music] You're training
+
+00:11:15.279 --> 00:11:19.440
+yourself to see the world differently.
+
+00:11:17.120 --> 00:11:21.200
+The eyes of automation. Most people are
+
+00:11:19.440 --> 00:11:22.880
+paralyzed by the AI revolution. They see
+
+00:11:21.200 --> 00:11:25.440
+headlines about job losses and
+
+00:11:22.880 --> 00:11:26.880
+automation and they freeze. AI is not
+
+00:11:25.440 --> 00:11:28.720
+here to replace your income. It's here
+
+00:11:26.880 --> 00:11:30.240
+to multiply your value. To pick the best
+
+00:11:28.720 --> 00:11:32.079
+AI instrument that will work with you
+
+00:11:30.240 --> 00:11:34.320
+for your business, check this 4-hour
+
+00:11:32.079 --> 00:11:34.320
+course
+

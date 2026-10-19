@@ -1,0 +1,785 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.960
+The US government spent $834 billion on
+
+00:00:04.000 --> 00:00:07.760
+contracts last year, and most small
+
+00:00:05.960 --> 00:00:10.120
+business owners don't even know this
+
+00:00:07.760 --> 00:00:11.920
+money exists. So, I went and built a
+
+00:00:10.120 --> 00:00:14.440
+tool that finds all of these government
+
+00:00:11.920 --> 00:00:16.280
+contracts for you, and it took me only
+
+00:00:14.440 --> 00:00:17.720
+this many minutes to build it. And no, I
+
+00:00:16.280 --> 00:00:19.840
+don't know how to code. I'm just talking
+
+00:00:17.720 --> 00:00:21.440
+to an AI. Let me show you exactly how I
+
+00:00:19.840 --> 00:00:23.400
+built this, and then how you can profit
+
+00:00:21.440 --> 00:00:26.440
+from it as well. So, it all starts on
+
+00:00:23.400 --> 00:00:28.320
+sam.gov. This is the federal website
+
+00:00:26.440 --> 00:00:31.240
+where every federal contract gets
+
+00:00:28.320 --> 00:00:32.880
+posted. This website gets 2.2 million
+
+00:00:31.240 --> 00:00:34.760
+visits a month, and it's an ugly
+
+00:00:32.880 --> 00:00:36.960
+website. It's clunky. It's hard to use.
+
+00:00:34.760 --> 00:00:39.160
+But new, amazing deals are posted here
+
+00:00:36.960 --> 00:00:41.400
+every single day. Lawn care, IT,
+
+00:00:39.160 --> 00:00:43.920
+construction, consulting, you name it.
+
+00:00:41.400 --> 00:00:46.200
+But this site is brutal to use. It looks
+
+00:00:43.920 --> 00:00:48.200
+like it was built in 2004. Filtering is
+
+00:00:46.200 --> 00:00:50.160
+a nightmare. Most people give up before
+
+00:00:48.200 --> 00:00:52.000
+they ever find anything. So, what I
+
+00:00:50.160 --> 00:00:54.200
+wanted to do is to build something that
+
+00:00:52.000 --> 00:00:56.440
+makes this dead simple. Type in what
+
+00:00:54.200 --> 00:00:58.680
+your business does, pick your state, and
+
+00:00:56.440 --> 00:01:00.600
+see contracts you can actually bid on
+
+00:00:58.680 --> 00:01:01.960
+with dollar amounts. Also, you don't
+
+00:01:00.600 --> 00:01:04.000
+need to be a business owner. If you're
+
+00:01:01.960 --> 00:01:05.880
+an aspiring business owner, that also
+
+00:01:04.000 --> 00:01:08.400
+counts. Now, a website like this would
+
+00:01:05.880 --> 00:01:10.880
+normally cost between 10 and 20,000 to
+
+00:01:08.400 --> 00:01:12.720
+build, plus a team of developers, and
+
+00:01:10.880 --> 00:01:17.440
+weeks or months of going back and forth.
+
+00:01:12.720 --> 00:01:17.440
+But instead, I just used Replit Agent 4.
+
+00:01:18.640 --> 00:01:22.400
+Now, AI coding tools have been out for a
+
+00:01:20.360 --> 00:01:23.720
+couple years now, and they're amazing,
+
+00:01:22.400 --> 00:01:25.320
+but they're still kind of clunky. You
+
+00:01:23.720 --> 00:01:27.080
+got to go one step at a time. You
+
+00:01:25.320 --> 00:01:29.760
+describe what you want, you wait, you
+
+00:01:27.080 --> 00:01:31.800
+review, you repeat, you fix it. Agent 4
+
+00:01:29.760 --> 00:01:34.000
+is different because I can have multiple
+
+00:01:31.800 --> 00:01:36.600
+AI agents working on different parts of
+
+00:01:34.000 --> 00:01:38.160
+the app at the same time. One's building
+
+00:01:36.600 --> 00:01:40.360
+the back end that pulls the contract
+
+00:01:38.160 --> 00:01:42.000
+data. One's building the front end that
+
+00:01:40.360 --> 00:01:44.320
+helps people search more efficiently.
+
+00:01:42.000 --> 00:01:45.880
+And then another agent is generating the
+
+00:01:44.320 --> 00:01:47.800
+landing page. And they're all running in
+
+00:01:45.880 --> 00:01:49.400
+parallel. So, it's kind of like managing
+
+00:01:47.800 --> 00:01:51.640
+a team of engineers, except they're
+
+00:01:49.400 --> 00:01:53.240
+always clocked in, no one takes breaks,
+
+00:01:51.640 --> 00:01:54.640
+and they don't talk back. So, let's
+
+00:01:53.240 --> 00:01:56.680
+build this together. I'm going to show
+
+00:01:54.640 --> 00:01:58.720
+you exactly how I do what I do, so you
+
+00:01:56.680 --> 00:01:59.880
+can build whatever you want, and maybe
+
+00:01:58.720 --> 00:02:01.520
+you can find some cool government
+
+00:01:59.880 --> 00:02:03.240
+contracts while we're at it. All right,
+
+00:02:01.520 --> 00:02:04.960
+so I'm here in Replit and I wanted to
+
+00:02:03.240 --> 00:02:06.800
+give Replit a really good thorough
+
+00:02:04.960 --> 00:02:08.399
+prompt. So, I went over to Claude and I
+
+00:02:06.800 --> 00:02:10.840
+said, "Claude, I want to build this
+
+00:02:08.399 --> 00:02:12.640
+website that piggybacks on sam.gov. It
+
+00:02:10.840 --> 00:02:14.800
+makes it easier to use." I gave it like
+
+00:02:12.640 --> 00:02:16.840
+three simple sentences. Then I said,
+
+00:02:14.800 --> 00:02:18.560
+"Make me a beautiful prompt to give to
+
+00:02:16.840 --> 00:02:20.520
+Replit to make sure that it does a great
+
+00:02:18.560 --> 00:02:21.920
+job." So, here's my prompt. I'm not
+
+00:02:20.520 --> 00:02:23.560
+going to read it all. You can pause and
+
+00:02:21.920 --> 00:02:25.280
+read it yourself if you want. Boom,
+
+00:02:23.560 --> 00:02:27.440
+there's the top part. Boom, there's the
+
+00:02:25.280 --> 00:02:28.959
+bottom part. Boom, there's the last
+
+00:02:27.440 --> 00:02:30.560
+part. I don't know what half this stuff
+
+00:02:28.959 --> 00:02:32.600
+means, but looks smart, so I'm going to
+
+00:02:30.560 --> 00:02:33.840
+go with it. And then I just pasted that
+
+00:02:32.600 --> 00:02:35.920
+in there and said, "Build this for me,
+
+00:02:33.840 --> 00:02:38.600
+please." Okay, right here it's asking
+
+00:02:35.920 --> 00:02:40.440
+for my sam.gov API key. Anyone in the
+
+00:02:38.600 --> 00:02:41.880
+world can make an account at sam.gov.
+
+00:02:40.440 --> 00:02:44.000
+Once you do, you just click on account
+
+00:02:41.880 --> 00:02:45.959
+details, then API, then you click
+
+00:02:44.000 --> 00:02:47.560
+generate API key. I don't even know what
+
+00:02:45.959 --> 00:02:49.120
+API stands for. You don't need to,
+
+00:02:47.560 --> 00:02:50.680
+either. You just need a big string of
+
+00:02:49.120 --> 00:02:52.920
+numbers and you paste it right here into
+
+00:02:50.680 --> 00:02:55.200
+Replit. All right, there's my key. Now,
+
+00:02:52.920 --> 00:02:57.400
+this key will enable me to pull all the
+
+00:02:55.200 --> 00:02:59.680
+data I need from sam.gov without having
+
+00:02:57.400 --> 00:03:01.440
+to scrape or work around any of their
+
+00:02:59.680 --> 00:03:03.640
+restrictions. So, what you're looking at
+
+00:03:01.440 --> 00:03:05.519
+here is all of those agents that I
+
+00:03:03.640 --> 00:03:07.840
+talked about running in parallel. It's
+
+00:03:05.519 --> 00:03:09.640
+generating the front end right here.
+
+00:03:07.840 --> 00:03:11.800
+It's checking something with open API
+
+00:03:09.640 --> 00:03:13.280
+right here. It's talking about proxy
+
+00:03:11.800 --> 00:03:16.400
+routes over here. I have no idea what
+
+00:03:13.280 --> 00:03:18.720
+that is. Front end is generated. Man,
+
+00:03:16.400 --> 00:03:22.000
+this is incredible. Boom! Look at that.
+
+00:03:18.720 --> 00:03:24.280
+Okay, that took about 4 minutes.
+
+00:03:22.000 --> 00:03:26.720
+Wow, the US government spent 834 billion
+
+00:03:24.280 --> 00:03:28.320
+on contracts last year. Find yours. That
+
+00:03:26.720 --> 00:03:30.320
+looks incredible. It's really good
+
+00:03:28.320 --> 00:03:32.760
+design. I own a tree trimming business,
+
+00:03:30.320 --> 00:03:34.400
+so this is the preview. This should work
+
+00:03:32.760 --> 00:03:35.800
+as it actually works in real life. Let's
+
+00:03:34.400 --> 00:03:38.160
+go ahead and see if there's a tree
+
+00:03:35.800 --> 00:03:39.880
+trimming contract. Boom!
+
+00:03:38.160 --> 00:03:41.560
+There it is. Posted March 9th,
+
+00:03:39.880 --> 00:03:43.600
+Department of Defense. That's
+
+00:03:41.560 --> 00:03:45.360
+incredible. I mean, look, it even has a
+
+00:03:43.600 --> 00:03:46.800
+quiz. That was probably part of my
+
+00:03:45.360 --> 00:03:48.560
+prompt that I didn't even read, where
+
+00:03:46.800 --> 00:03:50.440
+people can find out if they qualify by
+
+00:03:48.560 --> 00:03:53.120
+answering this quiz. They even put a
+
+00:03:50.440 --> 00:03:54.360
+disclaimer here at the bottom. Okay, now
+
+00:03:53.120 --> 00:03:56.040
+if you look at the preview, it looks
+
+00:03:54.360 --> 00:03:57.600
+great, but there's
+
+00:03:56.040 --> 00:04:00.040
+some other things I want to do to it. I
+
+00:03:57.600 --> 00:04:01.840
+would love for it to have a email
+
+00:04:00.040 --> 00:04:04.160
+collection field so people can be
+
+00:04:01.840 --> 00:04:06.320
+notified when new government contracts
+
+00:04:04.160 --> 00:04:07.880
+are posted that meet their filters. So,
+
+00:04:06.320 --> 00:04:09.720
+I'm going to ask Replit to do that.
+
+00:04:07.880 --> 00:04:11.280
+Okay, my prompt is add a way for people
+
+00:04:09.720 --> 00:04:13.040
+to be able to subscribe to get email
+
+00:04:11.280 --> 00:04:15.200
+notifications when new contracts appear
+
+00:04:13.040 --> 00:04:16.880
+that match their filters. After they run
+
+00:04:15.200 --> 00:04:18.400
+their first search, show a pop-up that
+
+00:04:16.880 --> 00:04:19.840
+says don't miss out, we'll email you
+
+00:04:18.400 --> 00:04:20.959
+when new listings appear that match your
+
+00:04:19.840 --> 00:04:22.919
+filters. So you can be the first to
+
+00:04:20.959 --> 00:04:24.560
+attack it. After showing that pop-up,
+
+00:04:22.919 --> 00:04:27.400
+also give people the option to do the
+
+00:04:24.560 --> 00:04:29.000
+same across pages they navigate to.
+
+00:04:27.400 --> 00:04:32.120
+Now I'm asking it to add three to five
+
+00:04:29.000 --> 00:04:34.160
+blog posts that will help my site appear
+
+00:04:32.120 --> 00:04:36.280
+better in search results when looking
+
+00:04:34.160 --> 00:04:38.800
+for government contracts. And if I want
+
+00:04:36.280 --> 00:04:41.520
+even better search engine optimization,
+
+00:04:38.800 --> 00:04:43.720
+I can click plus here to use a skill and
+
+00:04:41.520 --> 00:04:47.800
+I can do a branding generator, I can do
+
+00:04:43.720 --> 00:04:49.760
+an SEO optimizer, SEO auditor, all kinds
+
+00:04:47.800 --> 00:04:52.400
+of cool things. Here's what's cool about
+
+00:04:49.760 --> 00:04:54.680
+Agent 4. If you click this plus up here,
+
+00:04:52.400 --> 00:04:57.840
+I can ask Replit to have its multiple
+
+00:04:54.680 --> 00:04:59.240
+agents run concurrent tasks. Whereas
+
+00:04:57.840 --> 00:05:01.240
+before you had to wait, wait, wait,
+
+00:04:59.240 --> 00:05:02.400
+wait, wait for Replit to finish the task
+
+00:05:01.240 --> 00:05:03.840
+that it was working on. And I'm
+
+00:05:02.400 --> 00:05:06.280
+impatient, I never really liked that. So
+
+00:05:03.840 --> 00:05:08.200
+now, not only will it automatically run
+
+00:05:06.280 --> 00:05:09.520
+concurrent agents without you asking,
+
+00:05:08.200 --> 00:05:11.280
+but if there's something specific you
+
+00:05:09.520 --> 00:05:13.000
+want that it doesn't know about, you can
+
+00:05:11.280 --> 00:05:15.200
+click that plus button and ask him to do
+
+00:05:13.000 --> 00:05:17.400
+it. Okay, now I do like this landing
+
+00:05:15.200 --> 00:05:19.320
+page as it is. This is my one-shot
+
+00:05:17.400 --> 00:05:21.800
+prompt. But I'm going to use this thing
+
+00:05:19.320 --> 00:05:23.919
+called infinite canvas where I can go
+
+00:05:21.800 --> 00:05:25.720
+look at other versions of the same
+
+00:05:23.919 --> 00:05:27.760
+landing page. And maybe I'll find one
+
+00:05:25.720 --> 00:05:29.520
+that I like more. So, after clicking
+
+00:05:27.760 --> 00:05:31.280
+canvas, I'm going to click just
+
+00:05:29.520 --> 00:05:32.919
+reimagine. And nothing's permanent here,
+
+00:05:31.280 --> 00:05:35.040
+I can reverse anything. It's just giving
+
+00:05:32.919 --> 00:05:36.600
+me previews of what it might look like.
+
+00:05:35.040 --> 00:05:37.800
+So, explore different approaches, try
+
+00:05:36.600 --> 00:05:39.919
+different layouts, explore different
+
+00:05:37.800 --> 00:05:41.560
+vibes, more like this but better,
+
+00:05:39.919 --> 00:05:42.760
+optimized for usability, show me the
+
+00:05:41.560 --> 00:05:44.440
+opposite of this and surprise me. I'm
+
+00:05:42.760 --> 00:05:45.640
+just going to click surprise me. So it
+
+00:05:44.440 --> 00:05:47.240
+says it's going I'm going three
+
+00:05:45.640 --> 00:05:49.000
+different variations of the hero
+
+00:05:47.240 --> 00:05:50.080
+section, which is what you see right
+
+00:05:49.000 --> 00:05:52.040
+here.
+
+00:05:50.080 --> 00:05:54.240
+So, if I swipe over here to the right, I
+
+00:05:52.040 --> 00:05:56.200
+can see the other three versions that
+
+00:05:54.240 --> 00:05:58.040
+it's generating right now. Okay,
+
+00:05:56.200 --> 00:06:02.400
+awesome. Version one, it's calling the
+
+00:05:58.040 --> 00:06:04.000
+opportunity pulse, aka live urgency. 347
+
+00:06:02.400 --> 00:06:05.640
+contracts are closing this week. Don't
+
+00:06:04.000 --> 00:06:08.680
+let them slip away. Ooh, I like that
+
+00:06:05.640 --> 00:06:11.280
+one. Option two is find your lane
+
+00:06:08.680 --> 00:06:14.320
+industry selector, come boring. And
+
+00:06:11.280 --> 00:06:16.160
+option three is proof it works success
+
+00:06:14.320 --> 00:06:17.800
+story. Well, I don't really like that
+
+00:06:16.160 --> 00:06:20.760
+cuz that's not real. I don't want to
+
+00:06:17.800 --> 00:06:24.040
+lie. So, you know what? I think I like
+
+00:06:20.760 --> 00:06:25.800
+the original one the best. So,
+
+00:06:24.040 --> 00:06:27.360
+I like this one the most out of these
+
+00:06:25.800 --> 00:06:29.480
+three, but I I like the one I came up
+
+00:06:27.360 --> 00:06:31.200
+with the most. So, I'm going to keep it.
+
+00:06:29.480 --> 00:06:32.640
+So, now the second to last thing I'm
+
+00:06:31.200 --> 00:06:35.120
+going to do is I want it to make a
+
+00:06:32.640 --> 00:06:36.600
+five-slide pitch deck. Let's say,
+
+00:06:35.120 --> 00:06:38.360
+hypothetically, I want to go raise money
+
+00:06:36.600 --> 00:06:39.840
+for this. I want to take everything on
+
+00:06:38.360 --> 00:06:41.440
+this website, put it in a in a
+
+00:06:39.840 --> 00:06:43.400
+PowerPoint because I hate making
+
+00:06:41.440 --> 00:06:44.720
+PowerPoints, and I know you do, too. So,
+
+00:06:43.400 --> 00:06:46.360
+I'm just going to say, "Make a
+
+00:06:44.720 --> 00:06:47.960
+five-slide pitch deck. Explain what this
+
+00:06:46.360 --> 00:06:50.640
+tool does, the market size, and how it
+
+00:06:47.960 --> 00:06:53.440
+helps small businesses find set-aside
+
+00:06:50.640 --> 00:06:55.160
+opportunities." Okay? It has the context
+
+00:06:53.440 --> 00:06:56.760
+it needs. Now, it's making the pitch
+
+00:06:55.160 --> 00:06:59.960
+deck. Okay, there it is. There's my
+
+00:06:56.760 --> 00:07:01.960
+pitch deck. Six slides. All right. Boom,
+
+00:06:59.960 --> 00:07:03.400
+boom, boom. Looks amazing. So, if I
+
+00:07:01.960 --> 00:07:05.440
+wanted to go raise money for this, I
+
+00:07:03.400 --> 00:07:07.640
+could use this. And if I want someone on
+
+00:07:05.440 --> 00:07:09.520
+my team to put real human eyes on it and
+
+00:07:07.640 --> 00:07:11.640
+to fix it, they have all these like team
+
+00:07:09.520 --> 00:07:13.480
+sharing abilities where multiple people
+
+00:07:11.640 --> 00:07:15.520
+can work on the same Replit project. So,
+
+00:07:13.480 --> 00:07:17.440
+the last step of this process is just to
+
+00:07:15.520 --> 00:07:19.480
+hit publish. Okay, so now I got to think
+
+00:07:17.440 --> 00:07:21.080
+of a name for this business, and the
+
+00:07:19.480 --> 00:07:23.520
+name that Replit automatically assigned
+
+00:07:21.080 --> 00:07:25.080
+it was GovDealFinder, and I kind of like
+
+00:07:23.520 --> 00:07:27.240
+that. So, I'm going to go see if the
+
+00:07:25.080 --> 00:07:29.200
+domain name is available. Oh. And look
+
+00:07:27.240 --> 00:07:31.000
+at that, it is. So, I'm going to spend
+
+00:07:29.200 --> 00:07:33.200
+12 bucks, buy the domain name, and go
+
+00:07:31.000 --> 00:07:36.400
+ahead and link it to this Replit
+
+00:07:33.200 --> 00:07:37.800
+project, and click publish. Boom. So,
+
+00:07:36.400 --> 00:07:39.160
+how cool is this? I wanted to build a
+
+00:07:37.800 --> 00:07:41.480
+business in the government contract
+
+00:07:39.160 --> 00:07:42.800
+space because Google Trends and AHRefs
+
+00:07:41.480 --> 00:07:44.480
+and all these other random tools were
+
+00:07:42.800 --> 00:07:46.320
+screaming at me, there's opportunity
+
+00:07:44.480 --> 00:07:47.920
+here. And also, Replit is a partner of
+
+00:07:46.320 --> 00:07:50.160
+this podcast, so I thought, why don't I
+
+00:07:47.920 --> 00:07:52.400
+just use that tool that I use every day
+
+00:07:50.160 --> 00:07:53.680
+off camera? I personally love it. Why
+
+00:07:52.400 --> 00:07:55.040
+don't I use that tool to build what I
+
+00:07:53.680 --> 00:07:56.440
+want to build anyway and hit record so
+
+00:07:55.040 --> 00:07:58.440
+you guys can hopefully learn something.
+
+00:07:56.440 --> 00:08:00.000
+So, if you sign up for Replit with the
+
+00:07:58.440 --> 00:08:01.920
+link in my description, you'll get 10
+
+00:08:00.000 --> 00:08:03.520
+bucks in credits for free, so you can go
+
+00:08:01.920 --> 00:08:05.360
+build and ship something yourself. And
+
+00:08:03.520 --> 00:08:08.120
+remember, the government hands out
+
+00:08:05.360 --> 00:08:10.640
+almost a trillion dollars a year in
+
+00:08:08.120 --> 00:08:12.840
+contracts and about 200 billion of that
+
+00:08:10.640 --> 00:08:14.400
+is reserved for small businesses. Those
+
+00:08:12.840 --> 00:08:16.440
+are businesses with under 10 employees,
+
+00:08:14.400 --> 00:08:18.240
+even zero employees. And most business
+
+00:08:16.440 --> 00:08:19.400
+owners have never even looked at a
+
+00:08:18.240 --> 00:08:21.440
+government contract or even thought
+
+00:08:19.400 --> 00:08:23.600
+about it. So, no matter what you want to
+
+00:08:21.440 --> 00:08:25.120
+build, use Replit Agent for, it's
+
+00:08:23.600 --> 00:08:26.640
+incredible. And if you want to go look
+
+00:08:25.120 --> 00:08:28.400
+at government contracts, check out
+
+00:08:26.640 --> 00:08:29.680
+govdealfiner.com cuz I just built it
+
+00:08:28.400 --> 00:08:31.880
+right in front of you. The website is
+
+00:08:29.680 --> 00:08:33.280
+live. Otherwise, you can go to sam.gov
+
+00:08:31.880 --> 00:08:34.919
+and we all know that's going to be a
+
+00:08:33.280 --> 00:08:38.120
+terrible experience. Anyway, thanks for
+
+00:08:34.919 --> 00:08:38.120
+hanging out in the corner office.
+

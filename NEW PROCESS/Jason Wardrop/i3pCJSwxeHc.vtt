@@ -1,0 +1,794 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:04.720
+Today I'm going to show you how to start your 
+own real estate SaaS website with GoHigh Level.  
+
+00:00:04.720 --> 00:00:08.880
+And this is exactly what I would do if I was 
+starting all over completely from scratch. And  
+
+00:00:08.880 --> 00:00:13.120
+over the next couple of days, I'm going to walk 
+you through step by step the exact sales funnels,  
+
+00:00:13.120 --> 00:00:18.800
+the templates, everything that I would do to 
+rebuild my own real estate SaaS business. And for  
+
+00:00:18.800 --> 00:00:23.840
+those of you guys brand new here to the channel, 
+my name is Jason Wardrop. Back in 2015, I started  
+
+00:00:23.840 --> 00:00:29.920
+my own real estate SaaS CRM. Over the next six 
+years, I grew that to thousands of paying clients  
+
+00:00:29.920 --> 00:00:35.200
+very profitably. And so, what I want to do is now 
+show you exactly how I would think about building  
+
+00:00:35.200 --> 00:00:41.280
+my real estate SaaS website, building the funnels, 
+how it acquire clients with highlevel system. And  
+
+00:00:41.280 --> 00:00:45.760
+so, you can go through and model exactly what I'm 
+doing. And not only am I going to build this for  
+
+00:00:45.760 --> 00:00:49.280
+you, but at the end of this video, I'm going to 
+actually give you the real estate websites and  
+
+00:00:49.280 --> 00:00:53.840
+the other videos, all of my salesunnel templates 
+when you get started with High Level through my  
+
+00:00:53.840 --> 00:00:57.040
+affiliate link. or if you're already on High 
+Level, you can just upgrade with my link and  
+
+00:00:57.040 --> 00:01:01.440
+I'll get you access to all the freebies, bonuses, 
+snapshots, everything as well. All right, so let's  
+
+00:01:01.440 --> 00:01:06.160
+dive into this. So, what I'm going to be doing is 
+building this with High Level's AI Studio. And so,  
+
+00:01:06.160 --> 00:01:09.120
+if you haven't seen this before, if you're like, 
+"Hey, I don't know how to go through and access  
+
+00:01:09.120 --> 00:01:13.600
+it. It's not showing up over here." What you 
+first have to do because it's in beta, it just  
+
+00:01:13.600 --> 00:01:19.280
+released just a couple of weeks ago, is come click 
+on settings, then go over here and click on labs,  
+
+00:01:19.280 --> 00:01:23.440
+and then there's going to be all the new features 
+that High Level is rolling out right here. So,  
+
+00:01:23.440 --> 00:01:28.320
+we're just going to scroll down and we're going 
+to activate AI Studio. You can see it's live in  
+
+00:01:28.320 --> 00:01:33.120
+eight days for everyone. And then also, while I'm 
+over here, I also like to activate Ask AI. Now,  
+
+00:01:33.120 --> 00:01:36.320
+we're not going to be building with Ask AI right 
+here in this video, but you can check out all  
+
+00:01:36.320 --> 00:01:41.200
+these other features later, but AI Studio is going 
+to be a must to follow along with this video and  
+
+00:01:41.200 --> 00:01:45.840
+do exactly what I'm doing. So, I'm just going to 
+click go back. I'm going to click on AI Studio.  
+
+00:01:45.840 --> 00:01:50.720
+And I could go through and type a prompt of like, 
+hey, build a real estate SaaS website. However,  
+
+00:01:50.720 --> 00:01:54.880
+that is what the average person would go through 
+and do. Okay? And we're not average here on this  
+
+00:01:54.880 --> 00:01:59.440
+channel. We want to think about how we can go 
+through and speak directly to our ideal client  
+
+00:01:59.440 --> 00:02:04.960
+avatar because before we go through and build 
+anything, we want to think about who are we  
+
+00:02:04.960 --> 00:02:11.440
+actually selling to? What is it that they actually 
+want to buy? And then how can we create an offer  
+
+00:02:11.440 --> 00:02:16.400
+that we can charge them money, right? So, what 
+I have done is I've created several different  
+
+00:02:16.400 --> 00:02:21.520
+avatar worksheets that this is all inside of my 
+private community for people that sign up with  
+
+00:02:21.520 --> 00:02:26.000
+my affiliate link or upgrade with my affiliate 
+link of my ideal client avatar. And I show you  
+
+00:02:26.000 --> 00:02:31.200
+guys exactly step by step how to do this. So, 
+let's say our ideal client avatar is not only  
+
+00:02:31.200 --> 00:02:37.680
+a real estate agent, it is a burnt out solo real 
+estate agent. It's so important that we get very  
+
+00:02:37.680 --> 00:02:42.640
+microspecific on who we are talking to because 
+a lot of times people think oh real estate real  
+
+00:02:42.640 --> 00:02:47.440
+estate SAS website and this is honestly is what 
+I thought in the very beginning. I thought okay  
+
+00:02:47.440 --> 00:02:51.200
+I can market to real estate agents, real 
+estate brokers, real estate team leads,  
+
+00:02:51.200 --> 00:02:56.480
+real estate investors. Oh and guess what someone 
+buying home they also need to get a loan. So I  
+
+00:02:56.480 --> 00:03:01.040
+could also have mortgage brokers, loan officers 
+and they all are going to be the same exact person  
+
+00:03:01.040 --> 00:03:06.320
+I could sell to. That is so wrong. All these 
+different avatars have very specific needs. And so  
+
+00:03:06.320 --> 00:03:12.880
+if we really want to boost our conversions online, 
+we need to speak to the specific avatar directly.  
+
+00:03:12.880 --> 00:03:18.160
+Or here's another one. You can see avatar 4, 
+the tech paralyzed team builder. So someone  
+
+00:03:18.160 --> 00:03:23.040
+who is a real estate team lead, which teams are 
+growing massively in the United States right now,  
+
+00:03:23.040 --> 00:03:27.040
+but they're just paralyzed by the tech. They're a 
+really good people person. They're really good at  
+
+00:03:27.040 --> 00:03:32.160
+selling homes and going and talking with people, 
+but they're like, "Man, the tech, the AI stuff,  
+
+00:03:32.160 --> 00:03:37.040
+it just is way over my head." Okay, so you can 
+see how these are two very different avatars. And  
+
+00:03:37.040 --> 00:03:43.040
+then once we have our avatar nailed down, we want 
+to decide which of all of the highle features are  
+
+00:03:43.040 --> 00:03:47.840
+actually going to help a real estate agent. And 
+I talk about this all the time because there's so  
+
+00:03:47.840 --> 00:03:53.120
+many features inside of High Level, but to go and 
+say, "Hey, we offer all these different features."  
+
+00:03:53.120 --> 00:03:57.600
+Honestly, it can just be an overwhelm and make 
+people not want to buy because they're like,  
+
+00:03:57.600 --> 00:04:01.600
+"Man, I don't know. That's way too overwhelming. I 
+don't know how to figure all that stuff out." So,  
+
+00:04:01.600 --> 00:04:05.920
+for example, a real estate agent is never going 
+to need to create their own community inside a  
+
+00:04:05.920 --> 00:04:10.880
+high level or build a course or use text to pay 
+because they're not going to sell a home via text  
+
+00:04:10.880 --> 00:04:16.160
+to pay. Whereas another market, another industry, 
+text to pay could be the whole reason why they're  
+
+00:04:16.160 --> 00:04:21.600
+signing up for the highle software. And when I say 
+highle software, I'm just talking about the white  
+
+00:04:21.600 --> 00:04:27.840
+labeled SAS version that you are reselling to your 
+ideal client avatar, right? And so we want to go  
+
+00:04:27.840 --> 00:04:32.640
+through, we want to nail these things down of who 
+our avatar is and what we are actually going to be  
+
+00:04:32.640 --> 00:04:36.560
+building here. So the way I like to do this, I'm 
+going to just go through step by step exactly how  
+
+00:04:36.560 --> 00:04:41.840
+I build this so you guys can see this. And then 
+once I get a V1 of the website, I'll show you guys  
+
+00:04:41.840 --> 00:04:47.600
+exactly how I go through and optimize it to boost 
+the conversions of people actually sign up for a  
+
+00:04:47.600 --> 00:04:52.480
+trial. And then at the end, I'm just going to give 
+you this website as well. So, what I like to do,  
+
+00:04:52.480 --> 00:04:57.040
+and I only do this because High Level does not 
+have in their AI studio yet a little voice icon.  
+
+00:04:57.040 --> 00:05:02.160
+I like to come over to Chat GPT because I think 
+that their voice to text is the best out there.  
+
+00:05:02.160 --> 00:05:05.760
+Okay? It's better than Claude. It's better 
+than a lot of these. Claude cuts me off after  
+
+00:05:05.760 --> 00:05:08.720
+a little bit. And so I always come over here 
+and we're just I'm going to show you guys this  
+
+00:05:08.720 --> 00:05:14.000
+example step by step. So I'm going to come over 
+here and just click on this. Hey, I want you to  
+
+00:05:14.000 --> 00:05:21.840
+create a copy and paste prompt that I can copy and 
+paste into Highle's AI studio to help me build a  
+
+00:05:21.840 --> 00:05:30.560
+real estate SAS website that I can sell my white 
+labeled version of Highle to real estate agents.  
+
+00:05:30.560 --> 00:05:37.920
+I'm going to give you the copy and paste text 
+of who my ideal client avatar is as well as the  
+
+00:05:37.920 --> 00:05:44.960
+ideal features that I want to offer to this client 
+avatar. And so you can include those features and  
+
+00:05:44.960 --> 00:05:52.000
+the benefits and speak directly to this avatar 
+on the homepage of this SAS website. The call  
+
+00:05:52.000 --> 00:05:57.600
+to action is going to be to start a free 14-day 
+trial where they're going to be able to get access  
+
+00:05:57.600 --> 00:06:04.160
+to everything plus a one-on-one call to be able 
+to help them get set up with their own account.  
+
+00:06:04.160 --> 00:06:10.960
+Okay. So, now I'm just going to come over here 
+and say here's the avatar description. And then  
+
+00:06:10.960 --> 00:06:14.800
+I'm just going to come over here and just to make 
+this easy, I'm just going to copy and paste this.  
+
+00:06:14.800 --> 00:06:22.240
+You could throw in the link or whatever. and then 
+say these are the features I want to include. And  
+
+00:06:22.240 --> 00:06:27.680
+I know having worked with literally thousand over 
+15,000 real estate professionals, their biggest  
+
+00:06:27.680 --> 00:06:33.680
+obstacles overcome are getting more leads and then 
+also they need help with faster follow-up that is  
+
+00:06:33.680 --> 00:06:38.960
+faster and better than their competitors and then 
+converting those leads into booked appointments.  
+
+00:06:38.960 --> 00:06:43.200
+Okay. Okay. And so the way that we can do that 
+with different highle features is having AI answer  
+
+00:06:43.200 --> 00:06:49.200
+the phone calls through voice AI, AI texting leads 
+automatically through workflows and automations,  
+
+00:06:49.200 --> 00:06:55.040
+mis call text back, instant lead response through 
+workflows, email, text marketing, even voicemail  
+
+00:06:55.040 --> 00:06:59.920
+drops. Real estate agents are super big into 
+voicemail drops. I don't know why, but it is  
+
+00:06:59.920 --> 00:07:04.640
+a very industry standard thing that they love the 
+voicemail drops. appointment booking automation,  
+
+00:07:04.640 --> 00:07:10.720
+reactivating old databases, review generation, 
+website AI chat, and also mobile app with all  
+
+00:07:10.720 --> 00:07:14.480
+their conversations. Because if you think about 
+a real estate agent, a lot of times they're just  
+
+00:07:14.480 --> 00:07:18.800
+on the go. They're on the move. And so when 
+new leads come in, they need access on their  
+
+00:07:18.800 --> 00:07:24.320
+phone. When leads respond to texts or emails, they 
+need access on their phone. So that is a massive  
+
+00:07:24.320 --> 00:07:27.600
+feature that you should make sure that you're 
+including. Okay, so I'm just going to copy and  
+
+00:07:27.600 --> 00:07:32.640
+paste this. I'm going to go over there, paste it 
+into chat GPT, and as you can see, it's building  
+
+00:07:32.640 --> 00:07:38.880
+out our highlevel AI studio prompt that we were 
+just going to copy and paste into high levels AI  
+
+00:07:38.880 --> 00:07:43.440
+studio. Okay, so now I'm just going to go through 
+and I'm just going to copy literally all this. And  
+
+00:07:43.440 --> 00:07:47.600
+the reason why I like to go through and do this 
+inside of Chat GPT or Claude or any of these other  
+
+00:07:47.600 --> 00:07:52.960
+platforms as opposed to just directly into AI 
+Studio is look how much detail is here. All right,  
+
+00:07:52.960 --> 00:07:58.320
+so I just copy that, I paste it in here, and then 
+I just hit enter. Now, while this is building  
+
+00:07:58.320 --> 00:08:02.560
+really quick here, if you guys want to get this 
+template, plus all my courses, templates, scripts,  
+
+00:08:02.560 --> 00:08:08.160
+everything, and you're not already on High Level, 
+just go ahead start a free 30-day extended trial  
+
+00:08:08.160 --> 00:08:12.720
+down below in the description, and I'll hook you 
+guys up with all of my bonuses, community, all of  
+
+00:08:12.720 --> 00:08:17.840
+the good stuff. Now, if you guys are already on 
+High Level and you want to go through and get all  
+
+00:08:17.840 --> 00:08:22.320
+my content as well, then all you have to do is 
+go and click the link down below that just says  
+
+00:08:22.320 --> 00:08:26.960
+upgrade my Highle account, and you'll be able 
+to get access to it all as well. Okay? So, you  
+
+00:08:26.960 --> 00:08:33.040
+can see this is complete. And let's go through and 
+dissect this real estate SAS website really quick.  
+
+00:08:33.040 --> 00:08:36.000
+And then I'm going to go through and make a few 
+tweaks cuz I already kind of scrolled through and  
+
+00:08:36.000 --> 00:08:39.920
+I'm like, "Ah, it's good. It's not great. There's 
+a few things that I actually would go through and  
+
+00:08:39.920 --> 00:08:43.200
+tweak." And I feel like a lot of times people 
+will just go through and build with AI Studio  
+
+00:08:43.200 --> 00:08:48.160
+and be like, "Oh man, this is perfect because AI 
+made it and all that stuff." And yes, it's fine.  
+
+00:08:48.160 --> 00:08:53.360
+It's not amazing yet, but we're going to build it 
+to the point where it is amazing. Okay, so I love  
+
+00:08:53.360 --> 00:08:57.280
+the point that it says the AI operating system 
+for busy real estate agents. So it's calling  
+
+00:08:57.280 --> 00:09:01.600
+out exactly who we are speaking to. Okay, stop 
+missing leads. Start booking more appointments  
+
+00:09:01.600 --> 00:09:06.480
+automatically. So it's speaking to their pain and 
+saying, "Hey, here is the solution." All right,  
+
+00:09:06.480 --> 00:09:11.440
+so the first thing I don't like right here is 
+there's kind of two call to actions right here.  
+
+00:09:11.440 --> 00:09:15.600
+Start your free 14-day trial. Book your free 101 
+setup call. Okay, so we're going to have that  
+
+00:09:15.600 --> 00:09:19.120
+actually moved underneath here and we're going 
+to just go through. and it looks like these don't  
+
+00:09:19.120 --> 00:09:22.640
+click out to anything yet, which is totally fine, 
+but those are a few things that I would go through  
+
+00:09:22.640 --> 00:09:27.120
+and tweak. Okay, your business shouldn't depend 
+on you being available 24/7. So, it's hitting  
+
+00:09:27.120 --> 00:09:32.960
+a lot of the pain points. Okay, speaking to this 
+exact ideal client avatar. Sound familiar? Here is  
+
+00:09:32.960 --> 00:09:37.440
+the operating system for busy real estate agents. 
+Okay, so it's got all the different features that  
+
+00:09:37.440 --> 00:09:42.560
+we talked about, we wanted to include. Imagine if 
+every new lead received immediate follow-up. So  
+
+00:09:42.560 --> 00:09:47.760
+now we're kind of selling them on the dream 
+and the solution of what our software, what  
+
+00:09:47.760 --> 00:09:52.560
+our system has to offer. Okay. Then there's some 
+basic testimonials that are just fillers for right  
+
+00:09:52.560 --> 00:09:57.760
+now. Um, which is good. And then some frequently 
+asked questions. And then once again down here,  
+
+00:09:57.760 --> 00:10:03.120
+I would also have this moved over here and then 
+having a form. Okay. So let's just go through. I'm  
+
+00:10:03.120 --> 00:10:06.320
+going to type this out. I'm going to kind of pause 
+the video as I'm doing it so that like you're  
+
+00:10:06.320 --> 00:10:10.720
+not have to like watch me do everything on the 
+typing. Okay. So this is a little tweak I I said,  
+
+00:10:10.720 --> 00:10:14.400
+I want there to be only one call to action button. 
+Start your free 14-day trial. And I want it to be  
+
+00:10:14.400 --> 00:10:18.800
+centered. Okay, so just like right down here below 
+this, the book your free 101 setup call should  
+
+00:10:18.800 --> 00:10:23.360
+not be a button, but text beneath the start your 
+free 14-day trial. Um, also when you click on the  
+
+00:10:23.360 --> 00:10:28.320
+start your free 14-day trial button, I want it to 
+open a popup modal. So, you know how they pop up  
+
+00:10:28.320 --> 00:10:33.680
+with a two-step opt-in form where they'll fill out 
+their contact information to get the 14-day trial  
+
+00:10:33.680 --> 00:10:38.880
+started. And I want that form fully integrated 
+with this sub account CRM and tag the person  
+
+00:10:38.880 --> 00:10:44.080
+as a website lead. That way we know, okay, this 
+person came from our website. They were a lead,  
+
+00:10:44.080 --> 00:10:47.360
+but not necessarily meaning that they put in 
+their credit card information and started a  
+
+00:10:47.360 --> 00:10:51.840
+trial. And then I have and tag them as a trial 
+if they successfully filled out their credit card  
+
+00:10:51.840 --> 00:10:55.600
+information. Okay, so I'm just going to hit 
+enter and it's going to go through and build  
+
+00:10:55.600 --> 00:10:59.600
+this out for us and we'll see what it looks 
+like once it's complete. Okay, so the thing  
+
+00:10:59.600 --> 00:11:03.920
+I love about AI Studio is it literally goes and 
+builds and does everything that you tell it to,  
+
+00:11:03.920 --> 00:11:08.080
+right? So is move this button to the middle. It 
+has the inclusive free oneonone setup call right  
+
+00:11:08.080 --> 00:11:12.960
+here down below. And if we pop this up, it's 
+got you start your free trial, step one, and it  
+
+00:11:12.960 --> 00:11:17.840
+says it's going to tag that first step as website 
+lead. They put in their credit card information,  
+
+00:11:17.840 --> 00:11:24.000
+tag them as trial started. It is fully connected 
+to the CRM, which I love. Now, I do want to see if  
+
+00:11:24.000 --> 00:11:28.400
+there's multiple call to action buttons. I want to 
+see if those also Okay, it looks like it's all set  
+
+00:11:28.400 --> 00:11:34.560
+up the right way. I want to just make sure that 
+all of these are Okay, perfect. That looks great.  
+
+00:11:34.560 --> 00:11:40.480
+Now, honestly, one of the last things I want to go 
+through and do here is I feel like this website,  
+
+00:11:40.480 --> 00:11:44.400
+it's it's really good still, and it's even 
+obviously getting a little bit better. Uh,  
+
+00:11:44.400 --> 00:11:49.280
+but there's a few things I feel like it's missing, 
+okay? Because I feel like there's some additional  
+
+00:11:49.280 --> 00:11:54.560
+sections that can really help sell the free trial. 
+Because there's one thing that a lot of people  
+
+00:11:54.560 --> 00:12:01.360
+don't think about is like every step of this whole 
+process, we have to be selling from the ad to the  
+
+00:12:01.360 --> 00:12:07.120
+landing page to the website to the like opting in 
+and starting the trial to onboarding experience.  
+
+00:12:07.120 --> 00:12:11.840
+We always have to be selling them and confirming 
+why the decision that they're making is a good  
+
+00:12:11.840 --> 00:12:17.200
+decision. Okay. So now I want to go over here. 
+I don't feel like they really hit these things  
+
+00:12:17.200 --> 00:12:21.520
+as well as I would like to. Getting more leads, 
+following up faster than competitors. Yes, they  
+
+00:12:21.520 --> 00:12:26.640
+explained it through the features, but I feel like 
+we can dive into each one of these a little bit  
+
+00:12:26.640 --> 00:12:30.720
+better in converting more leads into appointments. 
+Okay, so now I'm going to come over here. I'm just  
+
+00:12:30.720 --> 00:12:34.320
+going to type this out. Okay, so I just threw in 
+here, great. Now I want you to make three sections  
+
+00:12:34.320 --> 00:12:38.800
+diving deeper into these three core elements of 
+why the software would make matter to this ideal  
+
+00:12:38.800 --> 00:12:42.320
+client. Here are the three core elements. Getting 
+more leads, following it faster than competitors,  
+
+00:12:42.320 --> 00:12:46.400
+and converting more leads into appointments. And 
+then I'm just going to hit enter. And once this  
+
+00:12:46.400 --> 00:12:51.840
+is all built out, I feel like it's going to be in 
+a pretty dang good spot that I feel like I don't,  
+
+00:12:51.840 --> 00:12:56.800
+yes, I could go in and I can nitpick things left 
+and right, but at this point, I'm like, "Okay,  
+
+00:12:56.800 --> 00:13:02.480
+this is going to be a really good foundation to 
+start our real estate SAS website to start getting  
+
+00:13:02.480 --> 00:13:07.520
+clients." And if people go to our main domain, 
+our homepage, they'll be like, "Oh man, this  
+
+00:13:07.520 --> 00:13:12.880
+is legit. They're professional. They know what 
+they're doing." Right? because obviously a lot of  
+
+00:13:12.880 --> 00:13:18.160
+people just don't move to the next step because 
+they get paralyzed with analysis by paralysis  
+
+00:13:18.160 --> 00:13:21.840
+and it looks like they're already building 
+this out which I'm kind of loving this. Okay,  
+
+00:13:21.840 --> 00:13:26.000
+so just wrapped up. So let's scroll down and let's 
+check this out. That was already there. So okay,  
+
+00:13:26.000 --> 00:13:30.800
+core element one. I'm going to probably I I don't 
+love that it says that but stop leaking leads.  
+
+00:13:30.800 --> 00:13:35.360
+Capture every opportunity 247 and it's got a kind 
+of a little um animation there or it's got like a  
+
+00:13:35.360 --> 00:13:40.240
+little figure there. Um core element number two, 
+be your competitors to the conversation. Okay,  
+
+00:13:40.240 --> 00:13:45.760
+so your AI assistant under five seconds, average 
+agent, four and a half hours. I really love that.  
+
+00:13:45.760 --> 00:13:50.160
+I love a lot of the before and afters or the 
+comparison so they can kind of visually see  
+
+00:13:50.160 --> 00:13:56.080
+what is happening. Okay, automated booking, right? 
+Turn conversations and calendar appointments. So,  
+
+00:13:56.080 --> 00:14:00.400
+I like how it went through and made these 
+updates. And so the only other thing that  
+
+00:14:00.400 --> 00:14:05.680
+I would do is just say, "Hey, instead of core 
+element two, core element one is actually going  
+
+00:14:05.680 --> 00:14:12.080
+through and say like, hey, get leads, um, speed 
+the lead, and then like book more appointments,  
+
+00:14:12.080 --> 00:14:16.160
+something like that. Okay, so I just made a quick 
+little tweak of get more leads, faster follow-up,  
+
+00:14:16.160 --> 00:14:21.040
+and then automated appointments." Now, one thing 
+that I just was noticing, and I love that um,  
+
+00:14:21.040 --> 00:14:25.920
+High Levels AI Studio does this, is it's got 
+different suggestions here. Okay? Okay. And I'm  
+
+00:14:25.920 --> 00:14:29.440
+realizing we don't even have a pricing section, 
+which is literally the stupidest thing ever  
+
+00:14:29.440 --> 00:14:33.440
+because that is like kind of the whole point of 
+having a homepage, right? So, I'm just going to  
+
+00:14:33.440 --> 00:14:38.240
+click on this. It just says include a pricing 
+section with the 14-day trial details. So, I'm  
+
+00:14:38.240 --> 00:14:41.520
+just going to click that. It's going to go through 
+and add it. Um, I didn't necessarily give it a  
+
+00:14:41.520 --> 00:14:47.520
+price point. I recommend charging about a $1.99 
+per month price point with real estate agents.  
+
+00:14:47.520 --> 00:14:52.080
+I think there's more than enough value inside 
+of the highlevel platform that when you're  
+
+00:14:52.080 --> 00:14:56.160
+white labeling it and reselling it that 
+that is an amazing price point and it's  
+
+00:14:56.160 --> 00:15:02.400
+not too high to the point where a realtor can't 
+afford it. Especially a solo burnt out realtor,  
+
+00:15:02.400 --> 00:15:07.680
+they can still afford that and you can go through 
+and justify it by actually getting them leads,  
+
+00:15:07.680 --> 00:15:12.960
+having better sales conversations and booking more 
+appointments um on their calendar. Okay. And this  
+
+00:15:12.960 --> 00:15:17.120
+is one thing I love about High Levels AI Studio is 
+it asks you different questions if it's unsure on  
+
+00:15:17.120 --> 00:15:21.680
+exactly what you're trying to do. Now, I like to 
+do the monthly verse annual toggle. Okay, so let's  
+
+00:15:21.680 --> 00:15:28.480
+check out what the pricing looks like down here. 
+Scroll down. Okay, so look, it added a monthly  
+
+00:15:28.480 --> 00:15:35.120
+billing. So monthly $1.99 a month or if we go to 
+the annual um 1990 annual uh which is exactly how  
+
+00:15:35.120 --> 00:15:38.880
+I would set it up. It's typically like if you do 
+an annual plan, you get two months free and then  
+
+00:15:38.880 --> 00:15:43.680
+you're able to secure a lot more of that revenue 
+upfront. Okay, so this looks great. Um, once  
+
+00:15:43.680 --> 00:15:47.440
+again, if you guys want this exact template, plus 
+all the other templates I'm going to be building  
+
+00:15:47.440 --> 00:15:52.000
+here in the next couple of days, plus step-by-step 
+training exactly how I grew my own real estate  
+
+00:15:52.000 --> 00:15:58.800
+SaaS business from zero to over 15,000 paying 
+clients in just six years. Either one, get started  
+
+00:15:58.800 --> 00:16:04.000
+with my link and down in the description is an 
+extended 30-day free trial to the highle software  
+
+00:16:04.000 --> 00:16:09.040
+or if you're already a highle user, just upgrade 
+using my link and I'll get you access to all of  
+
+00:16:09.040 --> 00:16:13.200
+that as well. So, with that said, hopefully this 
+video was helpful and I'll see you in the next
+

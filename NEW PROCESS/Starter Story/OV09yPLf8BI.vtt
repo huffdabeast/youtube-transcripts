@@ -1,0 +1,1736 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.080
+I launched Symmetry a year ago, and now
+
+00:00:02.360 --> 00:00:05.760
+it's one of the biggest names in one of
+
+00:00:04.080 --> 00:00:09.000
+the most saturated app markets.
+
+00:00:05.760 --> 00:00:10.640
+>> This is Mauro. He's 22, and in just 1
+
+00:00:09.000 --> 00:00:12.480
+year, he built an app that makes over
+
+00:00:10.640 --> 00:00:15.600
+$160,000
+
+00:00:12.480 --> 00:00:17.800
+a month. But, this isn't really a story
+
+00:00:15.600 --> 00:00:20.360
+about the app he built. It's more of a
+
+00:00:17.800 --> 00:00:21.040
+story about how he decides what to
+
+00:00:20.360 --> 00:00:23.560
+build.
+
+00:00:21.040 --> 00:00:25.800
+>> First, we built what we [music] wanted,
+
+00:00:23.560 --> 00:00:28.080
+terrible idea. Second, we built what
+
+00:00:25.800 --> 00:00:30.000
+users wanted, mediocre. And now we
+
+00:00:28.080 --> 00:00:32.080
+approach a methodical and scientific way
+
+00:00:30.000 --> 00:00:34.400
+of actually building useful things.
+
+00:00:32.080 --> 00:00:36.360
+>> Most builders just ship features and
+
+00:00:34.400 --> 00:00:38.480
+hope they work, but Mauro does it
+
+00:00:36.360 --> 00:00:40.040
+differently. He treats every feature
+
+00:00:38.480 --> 00:00:42.240
+like a scientific experiment, and I
+
+00:00:40.040 --> 00:00:43.440
+think it's the number one reason his app
+
+00:00:42.240 --> 00:00:45.920
+is so successful.
+
+00:00:43.440 --> 00:00:47.560
+>> Adding one screen, it's increased 3%
+
+00:00:45.920 --> 00:00:48.560
+retention. That is why you have to AB
+
+00:00:47.560 --> 00:00:50.080
+test everything.
+
+00:00:48.560 --> 00:00:52.040
+>> So, I asked Mauro to come on to the
+
+00:00:50.080 --> 00:00:54.120
+channel to break down this entire
+
+00:00:52.040 --> 00:00:56.040
+approach. In this episode, we'll dive
+
+00:00:54.120 --> 00:00:59.480
+into the app that he built that makes
+
+00:00:56.040 --> 00:01:01.760
+over $160,000 a month, why most builders
+
+00:00:59.480 --> 00:01:03.920
+are wasting so much time on features
+
+00:01:01.760 --> 00:01:06.240
+that won't move the needle, and his
+
+00:01:03.920 --> 00:01:09.360
+approach on how to build apps the right
+
+00:01:06.240 --> 00:01:11.000
+way in 2026. All right, let's dive in.
+
+00:01:09.360 --> 00:01:13.560
+I'm Pat Walls, and this is Starter
+
+00:01:11.000 --> 00:01:13.560
+Story.
+
+00:01:14.640 --> 00:01:18.520
+All right, Mauro, Gus and I would love
+
+00:01:16.880 --> 00:01:20.680
+to welcome you to the Starter Story
+
+00:01:18.520 --> 00:01:22.080
+channel. So, tell us about who you are,
+
+00:01:20.680 --> 00:01:22.800
+what app you built, and what's your
+
+00:01:22.080 --> 00:01:24.960
+story.
+
+00:01:22.800 --> 00:01:26.400
+>> So, my name is Mauro. I'm 22 years old,
+
+00:01:24.960 --> 00:01:28.240
+and I like to gym so much that I built
+
+00:01:26.400 --> 00:01:30.000
+Symmetry, the fastest growing fitness
+
+00:01:28.240 --> 00:01:31.560
+app in the Spanish market. I launched
+
+00:01:30.000 --> 00:01:32.960
+Symmetry like a year ago, and now it's
+
+00:01:31.560 --> 00:01:34.880
+one of the biggest names in one of the
+
+00:01:32.960 --> 00:01:36.560
+most saturated app markets. And today, I
+
+00:01:34.880 --> 00:01:37.160
+want to share all the tactics of how I
+
+00:01:36.560 --> 00:01:38.880
+did it.
+
+00:01:37.160 --> 00:01:40.640
+>> All right, Mauro, uh thanks for being
+
+00:01:38.880 --> 00:01:42.640
+here. Could you just pull up your app,
+
+00:01:40.640 --> 00:01:44.640
+tell us what it is, who your users are,
+
+00:01:42.640 --> 00:01:46.440
+and then pull up your revenue dashboard
+
+00:01:44.640 --> 00:01:49.040
+to show off that this is legit.
+
+00:01:46.440 --> 00:01:51.440
+>> Okay, so basically, it's a gym tracking
+
+00:01:49.040 --> 00:01:53.280
+app. So, you can track your workouts and
+
+00:01:51.440 --> 00:01:55.200
+track your weight and reps for different
+
+00:01:53.280 --> 00:01:57.200
+exercises. And currently, we are in the
+
+00:01:55.200 --> 00:01:59.000
+Spanish markets, mainly in Spain and
+
+00:01:57.200 --> 00:02:00.320
+Mexico. Okay, so this is our revenue cut
+
+00:01:59.000 --> 00:02:03.040
+dashboard. You can see we're currently
+
+00:02:00.320 --> 00:02:04.320
+at around 160k monthly revenue. And we
+
+00:02:03.040 --> 00:02:06.640
+currently have around 3 million
+
+00:02:04.320 --> 00:02:08.119
+downloads both across iOS and Android.
+
+00:02:06.640 --> 00:02:10.679
+>> But what I think is super cool about
+
+00:02:08.119 --> 00:02:13.160
+what you built is that you built this
+
+00:02:10.679 --> 00:02:15.280
+gym app, but it's sort of localized to
+
+00:02:13.160 --> 00:02:16.840
+the LATAM market, the Spanish market.
+
+00:02:15.280 --> 00:02:18.760
+There's plenty of gym apps in the US,
+
+00:02:16.840 --> 00:02:20.560
+and then finding this sort of niche.
+
+00:02:18.760 --> 00:02:24.120
+This is clearly working. It's doing over
+
+00:02:20.560 --> 00:02:25.480
+$160,000 in revenue in the last 30 days,
+
+00:02:24.120 --> 00:02:27.200
+which is cool. And we're going to talk
+
+00:02:25.480 --> 00:02:28.320
+all about the growth, but before we do,
+
+00:02:27.200 --> 00:02:29.760
+I want to understand a little bit about
+
+00:02:28.320 --> 00:02:31.440
+your background. Had you always been
+
+00:02:29.760 --> 00:02:32.560
+building apps? What's your background?
+
+00:02:31.440 --> 00:02:35.120
+How did you get to this point?
+
+00:02:32.560 --> 00:02:36.760
+>> Growing up, I was actually obese, and
+
+00:02:35.120 --> 00:02:39.720
+the gym is what helped me a lot. The
+
+00:02:36.760 --> 00:02:41.840
+reason I built Symmetry was to share
+
+00:02:39.720 --> 00:02:43.560
+this improvement I had in my life with
+
+00:02:41.840 --> 00:02:45.360
+others. Before building Symmetry, I was
+
+00:02:43.560 --> 00:02:47.120
+actually a fitness YouTuber, and so were
+
+00:02:45.360 --> 00:02:48.360
+my co-founders. And we were like, "Okay,
+
+00:02:47.120 --> 00:02:49.880
+YouTube is good, but we want to help
+
+00:02:48.360 --> 00:02:51.600
+more people. How can we do this?" And
+
+00:02:49.880 --> 00:02:52.360
+that is when we joined together to build
+
+00:02:51.600 --> 00:02:53.920
+Symmetry.
+
+00:02:52.360 --> 00:02:55.120
+>> All right, before we get into some of
+
+00:02:53.920 --> 00:02:56.640
+the stuff we want to talk about when it
+
+00:02:55.120 --> 00:02:58.400
+comes to like building the product,
+
+00:02:56.640 --> 00:03:00.440
+let's talk about growth. So, maybe just
+
+00:02:58.400 --> 00:03:02.160
+give us a little bit of a sense of your
+
+00:03:00.440 --> 00:03:03.680
+growth timeline. You said you launched
+
+00:03:02.160 --> 00:03:05.080
+like a year ago. Talk to us about your
+
+00:03:03.680 --> 00:03:07.680
+growth timeline in the last year.
+
+00:03:05.080 --> 00:03:09.920
+>> So, we launched on 6th of June of last
+
+00:03:07.680 --> 00:03:11.560
+year, so just barely over a year. When
+
+00:03:09.920 --> 00:03:14.040
+we first launched, we had a very small
+
+00:03:11.560 --> 00:03:15.519
+spike in downloads due to our previous
+
+00:03:14.040 --> 00:03:17.000
+YouTuber era, but then we had to
+
+00:03:15.519 --> 00:03:18.760
+transform into another acquisition
+
+00:03:17.000 --> 00:03:20.440
+channel that was reliable and scalable.
+
+00:03:18.760 --> 00:03:22.720
+And over summer, we were trying to do
+
+00:03:20.440 --> 00:03:24.400
+UGC. We barely were at around 30k
+
+00:03:22.720 --> 00:03:26.800
+downloads. At the end of quarter four,
+
+00:03:24.400 --> 00:03:29.239
+we did see a slight increase, but it was
+
+00:03:26.800 --> 00:03:30.680
+in January, in Q1, when we saw a spike.
+
+00:03:29.239 --> 00:03:32.000
+Maybe people go to the gym more in
+
+00:03:30.680 --> 00:03:32.920
+January. And since then, we've
+
+00:03:32.000 --> 00:03:34.800
+stabilized.
+
+00:03:32.920 --> 00:03:37.000
+>> Awesome. And then let's talk about some
+
+00:03:34.800 --> 00:03:38.800
+of the tactics that you used to grow. I
+
+00:03:37.000 --> 00:03:40.680
+think you just mentioned UGC. What were
+
+00:03:38.800 --> 00:03:43.760
+some of the main growth strategies you
+
+00:03:40.680 --> 00:03:44.280
+used to grow this app to over $150,000 a
+
+00:03:43.760 --> 00:03:46.239
+month?
+
+00:03:44.280 --> 00:03:48.040
+>> So, first when we launched, we had this
+
+00:03:46.239 --> 00:03:49.840
+YouTube community. And we thought it was
+
+00:03:48.040 --> 00:03:52.320
+going to be really good for growing the
+
+00:03:49.840 --> 00:03:54.440
+app. It wasn't. So, we started to try
+
+00:03:52.320 --> 00:03:56.480
+new things. We went into influencer
+
+00:03:54.440 --> 00:03:58.960
+marketing. Well, it didn't work. So, we
+
+00:03:56.480 --> 00:04:01.160
+tried other methods and that is when we
+
+00:03:58.960 --> 00:04:03.080
+found GC. We were really good at it and
+
+00:04:01.160 --> 00:04:04.480
+we just did more and better. Okay, so
+
+00:04:03.080 --> 00:04:06.520
+this is our internal dashboard. In the
+
+00:04:04.480 --> 00:04:08.920
+last year, we have posted nearly 80,000
+
+00:04:06.520 --> 00:04:10.840
+videos. We have more than 500 accounts
+
+00:04:08.920 --> 00:04:12.600
+and we have done nearly 8 billion views
+
+00:04:10.840 --> 00:04:15.360
+in the last year. Something that really
+
+00:04:12.600 --> 00:04:16.920
+works for us is we segment the videos
+
+00:04:15.360 --> 00:04:18.200
+into formats. This was a format that
+
+00:04:16.920 --> 00:04:19.840
+works really good for us where you see
+
+00:04:18.200 --> 00:04:21.040
+the lock screen of your iPhone with a
+
+00:04:19.840 --> 00:04:23.160
+notification. In this case, your
+
+00:04:21.040 --> 00:04:24.560
+girlfriend like leaving you and below a
+
+00:04:23.160 --> 00:04:26.080
+symmetry notification saying, "Go to the
+
+00:04:24.560 --> 00:04:27.680
+gym and workout." Well, it works so well
+
+00:04:26.080 --> 00:04:30.240
+that we track all of the videos and we
+
+00:04:27.680 --> 00:04:31.880
+even have sub formats to segment them
+
+00:04:30.240 --> 00:04:33.800
+even more. And this video went extremely
+
+00:04:31.880 --> 00:04:36.000
+viral. You can see 17 million views. So,
+
+00:04:33.800 --> 00:04:37.760
+the way we pay our creators and how much
+
+00:04:36.000 --> 00:04:39.320
+are we spending on marketing? Basically,
+
+00:04:37.760 --> 00:04:41.240
+we give nearly half of the revenue to
+
+00:04:39.320 --> 00:04:43.000
+the creators. So, we pay them a lot.
+
+00:04:41.240 --> 00:04:44.960
+This way they are incentivized to do
+
+00:04:43.000 --> 00:04:45.840
+more content and to stay in symmetry for
+
+00:04:44.960 --> 00:04:47.600
+the long run.
+
+00:04:45.840 --> 00:04:49.040
+>> Okay, thanks for sharing all that about
+
+00:04:47.600 --> 00:04:51.480
+how you grew. I think it's super cool.
+
+00:04:49.040 --> 00:04:52.800
+We've done a ton of videos on UGC. I
+
+00:04:51.480 --> 00:04:53.919
+don't think that's anything new and you
+
+00:04:52.800 --> 00:04:56.000
+can go and check out a bunch of the
+
+00:04:53.919 --> 00:04:57.720
+content that they create and and see
+
+00:04:56.000 --> 00:04:59.320
+some of the examples. But I actually
+
+00:04:57.720 --> 00:05:01.200
+thought was super cool and we had
+
+00:04:59.320 --> 00:05:02.880
+chatted before, Mauro, is you told me
+
+00:05:01.200 --> 00:05:04.560
+you have like sort of like a different
+
+00:05:02.880 --> 00:05:06.080
+approach to building. And when we
+
+00:05:04.560 --> 00:05:08.640
+started digging into it, I thought it
+
+00:05:06.080 --> 00:05:10.919
+was super cool because you got this app
+
+00:05:08.640 --> 00:05:13.080
+to $160,000
+
+00:05:10.919 --> 00:05:14.919
+a month within 1 year and that's like
+
+00:05:13.080 --> 00:05:17.640
+really, really fast. Like usually you'll
+
+00:05:14.919 --> 00:05:20.000
+see, you know, maybe get to 30 or 50K
+
+00:05:17.640 --> 00:05:21.760
+within a year. You did it super fast and
+
+00:05:20.000 --> 00:05:23.440
+I think one of those reasons was sort of
+
+00:05:21.760 --> 00:05:24.800
+you have this sort of different approach
+
+00:05:23.440 --> 00:05:26.320
+to building that you shared with me
+
+00:05:24.800 --> 00:05:28.200
+where things just kind of started
+
+00:05:26.320 --> 00:05:29.800
+working right away. So, could you share
+
+00:05:28.200 --> 00:05:31.480
+with me that approach to like how you
+
+00:05:29.800 --> 00:05:32.160
+knew what to build, what features to
+
+00:05:31.480 --> 00:05:34.080
+build?
+
+00:05:32.160 --> 00:05:36.560
+>> Yeah, so we went through three different
+
+00:05:34.080 --> 00:05:38.960
+phases when building Symmetry. First, we
+
+00:05:36.560 --> 00:05:41.160
+built what we wanted. Terrible idea.
+
+00:05:38.960 --> 00:05:43.760
+Second, we built what users wanted like
+
+00:05:41.160 --> 00:05:45.600
+directly from feedback quest. Mediocre.
+
+00:05:43.760 --> 00:05:47.160
+And now we approach a methodical and
+
+00:05:45.600 --> 00:05:48.120
+scientific way of actually building
+
+00:05:47.160 --> 00:05:50.240
+useful things.
+
+00:05:48.120 --> 00:05:51.760
+>> Okay, yeah, so I agree. I mean, I see a
+
+00:05:50.240 --> 00:05:54.400
+lot of people that go and just start
+
+00:05:51.760 --> 00:05:56.400
+building stuff. Maybe they ask their AI
+
+00:05:54.400 --> 00:05:58.560
+tool about what to build, or maybe they
+
+00:05:56.400 --> 00:05:59.640
+build based on instincts. But yeah,
+
+00:05:58.560 --> 00:06:01.040
+yours is a little different. Could you
+
+00:05:59.640 --> 00:06:01.880
+dive a little bit more into what you
+
+00:06:01.040 --> 00:06:03.520
+mean by that?
+
+00:06:01.880 --> 00:06:05.040
+>> Yeah, so people normally are incorrect
+
+00:06:03.520 --> 00:06:06.840
+about what is important to build and
+
+00:06:05.040 --> 00:06:09.120
+what is not important. [music] Let's say
+
+00:06:06.840 --> 00:06:11.400
+you build a dark theme or a light theme.
+
+00:06:09.120 --> 00:06:12.960
+This may affect like 2% of your daily
+
+00:06:11.400 --> 00:06:15.080
+active users. Whereas, if you AB test
+
+00:06:12.960 --> 00:06:16.760
+the paywall, it's going to affect a lot
+
+00:06:15.080 --> 00:06:18.520
+of users in a radical way. That's why
+
+00:06:16.760 --> 00:06:20.560
+there are like even softwares just to AB
+
+00:06:18.520 --> 00:06:22.040
+test on screen. And apart from the
+
+00:06:20.560 --> 00:06:23.720
+paywall, there are very other important
+
+00:06:22.040 --> 00:06:25.720
+places of your app, and your job is to
+
+00:06:23.720 --> 00:06:27.480
+find those places and AB test them and
+
+00:06:25.720 --> 00:06:28.960
+really exploit all of the metrics from
+
+00:06:27.480 --> 00:06:30.720
+them. For example, in symmetry our
+
+00:06:28.960 --> 00:06:33.000
+exercise search screen, so the screen
+
+00:06:30.720 --> 00:06:34.640
+you search exercises has a huge impact
+
+00:06:33.000 --> 00:06:37.360
+on activation and retention. Whereas,
+
+00:06:34.640 --> 00:06:39.200
+the screen you log into the app first to
+
+00:06:37.360 --> 00:06:41.000
+see your workouts, we've done a lot of
+
+00:06:39.200 --> 00:06:41.960
+things there and doesn't seem to change
+
+00:06:41.000 --> 00:06:43.480
+anything.
+
+00:06:41.960 --> 00:06:45.520
+>> Hey, it's Gus, producer here at Starter
+
+00:06:43.480 --> 00:06:47.280
+Story. I love everything that Maro is
+
+00:06:45.520 --> 00:06:48.720
+breaking down about his process of
+
+00:06:47.280 --> 00:06:50.360
+building apps. I hope you're watching
+
+00:06:48.720 --> 00:06:52.000
+this and getting excited about building
+
+00:06:50.360 --> 00:06:53.309
+your own app as well. But, if you're
+
+00:06:52.000 --> 00:06:55.040
+still looking for an idea, we have just
+
+00:06:53.309 --> 00:06:57.040
+[music] the thing for you. It's our free
+
+00:06:55.040 --> 00:06:59.200
+iOS database, and inside you will find
+
+00:06:57.040 --> 00:07:01.320
+hundreds of proven app ideas, and many
+
+00:06:59.200 --> 00:07:02.960
+of them are making over $10,000 a month.
+
+00:07:01.320 --> 00:07:04.680
+And each of the ideas in the database
+
+00:07:02.960 --> 00:07:07.280
+has the numbers to back it up. Real
+
+00:07:04.680 --> 00:07:08.640
+revenue, pricing models, growth tactics,
+
+00:07:07.280 --> 00:07:10.480
+basically everything you need to
+
+00:07:08.640 --> 00:07:12.040
+validate whether this is a good idea or
+
+00:07:10.480 --> 00:07:13.614
+not. Just head to the link in the
+
+00:07:12.040 --> 00:07:16.400
+description and grab this database.
+
+00:07:13.614 --> 00:07:17.680
+[music] It's 100% for free. All right,
+
+00:07:16.400 --> 00:07:20.200
+let's get back to the episode.
+
+00:07:17.680 --> 00:07:22.640
+>> Okay, so you kind of approach the
+
+00:07:20.200 --> 00:07:24.600
+features to work on or to improve on
+
+00:07:22.640 --> 00:07:26.520
+like what most people are using instead
+
+00:07:24.600 --> 00:07:28.400
+of focusing on maybe like more edge
+
+00:07:26.520 --> 00:07:30.400
+cases. Tell me a little bit more about
+
+00:07:28.400 --> 00:07:32.320
+how you track that sort of thing and
+
+00:07:30.400 --> 00:07:33.440
+like how someone watching this could
+
+00:07:32.320 --> 00:07:34.840
+potentially do the same.
+
+00:07:33.440 --> 00:07:36.960
+>> So, first you want to decide what
+
+00:07:34.840 --> 00:07:39.720
+metrics to actually move. For me, I use
+
+00:07:36.960 --> 00:07:42.760
+quarterly OKRs, and put really ambitious
+
+00:07:39.720 --> 00:07:44.760
+OKRs. If your app is really new, put
+
+00:07:42.760 --> 00:07:46.760
+ambitious OKRs. Like, it's very easy to
+
+00:07:44.760 --> 00:07:48.440
+increase 10% conversion rate in 90 days
+
+00:07:46.760 --> 00:07:49.640
+if your app was launched last week.
+
+00:07:48.440 --> 00:07:51.280
+Whereas, if you're Netflix, it's not
+
+00:07:49.640 --> 00:07:53.480
+going to be as easy. So, the earlier the
+
+00:07:51.280 --> 00:07:55.400
+product is, the more ambitious your OKRs
+
+00:07:53.480 --> 00:07:56.920
+have to be. For example, in our case, we
+
+00:07:55.400 --> 00:07:58.480
+call this thing a warm-up, which we do
+
+00:07:56.920 --> 00:07:59.880
+every 90 days because we're going to
+
+00:07:58.480 --> 00:08:01.440
+war. Here you have your marketing
+
+00:07:59.880 --> 00:08:02.920
+objectives, your product, and then here
+
+00:08:01.440 --> 00:08:04.920
+we have all of the metrics to keep
+
+00:08:02.920 --> 00:08:06.640
+track, and we see them if not weekly,
+
+00:08:04.920 --> 00:08:09.160
+daily, to make sure we are always on
+
+00:08:06.640 --> 00:08:10.920
+track towards these OKRs. OKRs are very
+
+00:08:09.160 --> 00:08:13.480
+important to give you direction and to
+
+00:08:10.920 --> 00:08:15.240
+know towards where to build. For a gym
+
+00:08:13.480 --> 00:08:16.919
+tracking app, a very important metric is
+
+00:08:15.240 --> 00:08:18.720
+activation. If you move activation,
+
+00:08:16.919 --> 00:08:20.760
+retention follows. For example,
+
+00:08:18.720 --> 00:08:22.640
+activation in symmetry is really hard
+
+00:08:20.760 --> 00:08:24.600
+because you have to make someone go to
+
+00:08:22.640 --> 00:08:26.600
+the gym and actually track the workout,
+
+00:08:24.600 --> 00:08:28.400
+which is crazy friction, even both for a
+
+00:08:26.600 --> 00:08:29.560
+beginner that has never gone to a gym,
+
+00:08:28.400 --> 00:08:31.520
+or someone at the end that you have to
+
+00:08:29.560 --> 00:08:33.159
+change his behavior, his pattern of
+
+00:08:31.520 --> 00:08:34.680
+working out. Crazy work. Whereas, for
+
+00:08:33.159 --> 00:08:35.880
+example, in a calorie tracking app, you
+
+00:08:34.680 --> 00:08:37.320
+just snap a photo, and that's
+
+00:08:35.880 --> 00:08:39.120
+activation. So, you must know which
+
+00:08:37.320 --> 00:08:41.280
+metrics you want to move, and which ones
+
+00:08:39.120 --> 00:08:43.880
+are going to bring long-term revenue.
+
+00:08:41.280 --> 00:08:46.560
+>> Okay, cool. I mean, having OKRs that
+
+00:08:43.880 --> 00:08:48.440
+your team can go towards and know if I I
+
+00:08:46.560 --> 00:08:49.880
+built this feature, it made this number
+
+00:08:48.440 --> 00:08:52.400
+go up, or I built that feature, then you
+
+00:08:49.880 --> 00:08:54.120
+have actual data that you can verify.
+
+00:08:52.400 --> 00:08:55.720
+I'm curious, though, like, for people
+
+00:08:54.120 --> 00:08:57.800
+watching this that are also building
+
+00:08:55.720 --> 00:08:59.280
+apps, what are like the key data points
+
+00:08:57.800 --> 00:09:00.640
+that you are tracking?
+
+00:08:59.280 --> 00:09:02.240
+>> Well, first of all, especially if you're
+
+00:09:00.640 --> 00:09:03.560
+new, downloads. Like, the more
+
+00:09:02.240 --> 00:09:05.040
+downloads, the more revenues, it's
+
+00:09:03.560 --> 00:09:06.600
+proportional. So, that's very important.
+
+00:09:05.040 --> 00:09:08.560
+Regarding more to the product, depends
+
+00:09:06.600 --> 00:09:10.200
+on your product. Activation, in our
+
+00:09:08.560 --> 00:09:12.160
+case, is very important, but for most
+
+00:09:10.200 --> 00:09:14.000
+apps, yes, like, first week retention or
+
+00:09:12.160 --> 00:09:16.440
+30-day retentions are very important.
+
+00:09:14.000 --> 00:09:18.200
+And also very important number is ARPU,
+
+00:09:16.440 --> 00:09:19.920
+average revenue per user. How much you
+
+00:09:18.200 --> 00:09:21.760
+make for every download. This is going
+
+00:09:19.920 --> 00:09:23.800
+to basically decide the amount of money
+
+00:09:21.760 --> 00:09:26.160
+you can pay for creators if they bring
+
+00:09:23.800 --> 00:09:27.520
+downloads. And ARPU varies a lot between
+
+00:09:26.160 --> 00:09:28.839
+countries. So, you must track this in a
+
+00:09:27.520 --> 00:09:29.960
+very methodical way.
+
+00:09:28.839 --> 00:09:31.520
+>> I think a lot of people watching this
+
+00:09:29.960 --> 00:09:33.040
+are also building something. They're
+
+00:09:31.520 --> 00:09:34.760
+building an app, maybe they even have a
+
+00:09:33.040 --> 00:09:37.040
+live app in the App Store, or they have
+
+00:09:34.760 --> 00:09:39.000
+a SaaS uh, internet. I think this
+
+00:09:37.040 --> 00:09:40.800
+framework is really cool where you're
+
+00:09:39.000 --> 00:09:42.640
+actually using data and then making
+
+00:09:40.800 --> 00:09:44.080
+decisions based on that data. Could you
+
+00:09:42.640 --> 00:09:45.800
+give some advice to people who are
+
+00:09:44.080 --> 00:09:47.920
+watching this right now who want to
+
+00:09:45.800 --> 00:09:49.400
+implement a system like this? What data
+
+00:09:47.920 --> 00:09:51.200
+should they be tracking? How should they
+
+00:09:49.400 --> 00:09:52.520
+be running experiments? And what would
+
+00:09:51.200 --> 00:09:53.200
+you do if you're just getting started
+
+00:09:52.520 --> 00:09:55.120
+right now?
+
+00:09:53.200 --> 00:09:57.000
+>> Well, first, the the most common error I
+
+00:09:55.120 --> 00:09:58.680
+see everybody is not tracking anything.
+
+00:09:57.000 --> 00:09:59.760
+Like, they don't have any events at all
+
+00:09:58.680 --> 00:10:01.080
+in their app. And then like, "Okay,
+
+00:09:59.760 --> 00:10:03.120
+what's your drop off here?" And they're
+
+00:10:01.080 --> 00:10:04.880
+like, "Um, I don't know." Well, you must
+
+00:10:03.120 --> 00:10:06.520
+have analytics put in your app.
+
+00:10:04.880 --> 00:10:08.720
+>> Remember, the earlier they are in the
+
+00:10:06.520 --> 00:10:10.560
+funnel, the more in detail they should
+
+00:10:08.720 --> 00:10:12.600
+be. So, onboarding must be tracked every
+
+00:10:10.560 --> 00:10:14.640
+screen. This analytics are very good for
+
+00:10:12.600 --> 00:10:16.440
+quantitative data. Meaning, you know
+
+00:10:14.640 --> 00:10:18.000
+where you're losing people. So, that
+
+00:10:16.440 --> 00:10:19.800
+tells you where the problem is
+
+00:10:18.000 --> 00:10:21.640
+happening, but not the why. For the why,
+
+00:10:19.800 --> 00:10:24.200
+you need qualitative data. Here you
+
+00:10:21.640 --> 00:10:26.960
+speak with the users, or they maybe put
+
+00:10:24.200 --> 00:10:28.360
+up posts in like a Discord or a Reddit
+
+00:10:26.960 --> 00:10:29.880
+about your app, something like that. And
+
+00:10:28.360 --> 00:10:31.800
+then you understand why something is
+
+00:10:29.880 --> 00:10:34.680
+happening. So, you know the what is
+
+00:10:31.800 --> 00:10:36.012
+happening due to the funnels and the
+
+00:10:34.680 --> 00:10:36.120
+beta analytics.
+
+00:10:36.012 --> 00:10:37.400
+>> [music]
+
+00:10:36.120 --> 00:10:38.840
+>> And then you know the why because you
+
+00:10:37.400 --> 00:10:40.160
+speak with the users.
+
+00:10:38.840 --> 00:10:41.760
+>> Yeah, this is something super common
+
+00:10:40.160 --> 00:10:43.640
+that I see people who are like
+
+00:10:41.760 --> 00:10:46.800
+developers, they're like, uh, want to
+
+00:10:43.640 --> 00:10:48.320
+just get only qualitative data. And then
+
+00:10:46.800 --> 00:10:50.080
+they end up like like sending a bunch of
+
+00:10:48.320 --> 00:10:51.560
+surveys and not actually like talking to
+
+00:10:50.080 --> 00:10:53.440
+customers. And there's so much value you
+
+00:10:51.560 --> 00:10:55.000
+can get out of talking to customers. The
+
+00:10:53.440 --> 00:10:56.800
+last question that I sort of have around
+
+00:10:55.000 --> 00:10:58.400
+this is around, okay, so when you need
+
+00:10:56.800 --> 00:11:00.560
+to make a product decision, how do you
+
+00:10:58.400 --> 00:11:01.920
+go about AB testing two different
+
+00:11:00.560 --> 00:11:03.000
+things? How do you track that? How do
+
+00:11:01.920 --> 00:11:05.440
+you think about it?
+
+00:11:03.000 --> 00:11:07.280
+>> Okay, first, you're not coming from a
+
+00:11:05.440 --> 00:11:09.040
+solution place. You must come from a
+
+00:11:07.280 --> 00:11:11.400
+problem space. So, coming up with
+
+00:11:09.040 --> 00:11:13.080
+problems. And then after you go for the
+
+00:11:11.400 --> 00:11:14.480
+solution. Here you come up with
+
+00:11:13.080 --> 00:11:16.440
+different hypotheses, different
+
+00:11:14.480 --> 00:11:18.480
+solutions, and you design experiments to
+
+00:11:16.440 --> 00:11:20.240
+test this hypothesis. So, first, what
+
+00:11:18.480 --> 00:11:21.560
+problem am I solving? How do I know if
+
+00:11:20.240 --> 00:11:23.280
+it's real? You must know if it's This is
+
+00:11:21.560 --> 00:11:25.120
+happening. And then what's the solution
+
+00:11:23.280 --> 00:11:26.640
+and the hypothesis? How much will each
+
+00:11:25.120 --> 00:11:28.400
+hypothesis move the metric? Are there
+
+00:11:26.640 --> 00:11:30.040
+any guardrail metrics I should watch
+
+00:11:28.400 --> 00:11:31.640
+out? And then also very important, you
+
+00:11:30.040 --> 00:11:33.400
+must AB test everything. You have your
+
+00:11:31.640 --> 00:11:35.440
+control version, the version of your app
+
+00:11:33.400 --> 00:11:37.400
+currently, and the new version being AB
+
+00:11:35.440 --> 00:11:39.400
+tested. And after at least 2 weeks of
+
+00:11:37.400 --> 00:11:40.920
+running the experiment, you then analyze
+
+00:11:39.400 --> 00:11:42.960
+the data and really know what is
+
+00:11:40.920 --> 00:11:44.880
+happening to the users. For example,
+
+00:11:42.960 --> 00:11:46.360
+this is what we call Evelyn, experiment
+
+00:11:44.880 --> 00:11:48.600
+velocity engine listing your numbers.
+
+00:11:46.360 --> 00:11:50.320
+Here we have all of our AB test tracks.
+
+00:11:48.600 --> 00:11:51.960
+This is a database that comes from user
+
+00:11:50.320 --> 00:11:53.800
+interviews. So, it's user interviews
+
+00:11:51.960 --> 00:11:55.400
+that show us that user problem. Then we
+
+00:11:53.800 --> 00:11:57.160
+do the hypothesis, and then we do the
+
+00:11:55.400 --> 00:11:58.960
+experiment. These experiments are being
+
+00:11:57.160 --> 00:12:00.480
+tracked in Posthog. So, here we track
+
+00:11:58.960 --> 00:12:02.760
+everything, and we can see how
+
+00:12:00.480 --> 00:12:04.120
+everything is running. For example, this
+
+00:12:02.760 --> 00:12:05.720
+was an experiment I mentioned earlier
+
+00:12:04.120 --> 00:12:07.400
+about the page you see after the
+
+00:12:05.720 --> 00:12:08.680
+onboarding, where you see your workouts.
+
+00:12:07.400 --> 00:12:10.440
+You see here we tested two different
+
+00:12:08.680 --> 00:12:12.160
+variants apart from the control, and
+
+00:12:10.440 --> 00:12:13.680
+they moved nothing the metrics,
+
+00:12:12.160 --> 00:12:15.640
+absolutely nothing. And they were
+
+00:12:13.680 --> 00:12:17.440
+completely different designs. This tells
+
+00:12:15.640 --> 00:12:19.160
+us, "Hey, let's not focus on here again.
+
+00:12:17.440 --> 00:12:20.760
+This is an inconclusive test. Let's
+
+00:12:19.160 --> 00:12:22.320
+focus on other areas of the app." For
+
+00:12:20.760 --> 00:12:24.000
+example, this experiment is just one
+
+00:12:22.320 --> 00:12:25.800
+screen at the end of the onboarding,
+
+00:12:24.000 --> 00:12:27.200
+where you commit to like workout. So,
+
+00:12:25.800 --> 00:12:28.440
+like you're like signing, "Hey, I'm
+
+00:12:27.200 --> 00:12:30.040
+going to workout." That's it, one
+
+00:12:28.440 --> 00:12:32.560
+screen. Let's look at how the the
+
+00:12:30.040 --> 00:12:34.200
+metrics moved. It increased 3% retention
+
+00:12:32.560 --> 00:12:35.600
+adding one screen. That is why you have
+
+00:12:34.200 --> 00:12:36.640
+to AB test everything.
+
+00:12:35.600 --> 00:12:38.080
+>> Yeah, I was just going to chime in with
+
+00:12:36.640 --> 00:12:39.520
+a quick thought, which was like I didn't
+
+00:12:38.080 --> 00:12:41.400
+start building anything until all these
+
+00:12:39.520 --> 00:12:43.880
+AI coding tools came out, and I
+
+00:12:41.400 --> 00:12:45.320
+definitely fall into the trap of like,
+
+00:12:43.880 --> 00:12:47.880
+"Oh, that would be cool. That'd be cool
+
+00:12:45.320 --> 00:12:49.880
+if it existed." Without any information.
+
+00:12:47.880 --> 00:12:51.200
+And so, you listening to you talk here,
+
+00:12:49.880 --> 00:12:52.600
+I'm like, "Okay, there's a lot of good
+
+00:12:51.200 --> 00:12:54.360
+things to keep in mind." Cool, let's
+
+00:12:52.600 --> 00:12:55.480
+switch topics a little bit. Uh so, you
+
+00:12:54.360 --> 00:12:57.520
+you talked us about all the things you
+
+00:12:55.480 --> 00:12:58.960
+analyze and all the tools you use. Maybe
+
+00:12:57.520 --> 00:13:00.760
+just walk us through the tech stack
+
+00:12:58.960 --> 00:13:02.320
+you've used to to build this app or the
+
+00:13:00.760 --> 00:13:04.280
+tech stack and tools you use on a daily
+
+00:13:02.320 --> 00:13:06.200
+basis to to run this app.
+
+00:13:04.280 --> 00:13:08.520
+>> Well, obviously I use me and my team we
+
+00:13:06.200 --> 00:13:11.200
+use Cloud everywhere. We love to use
+
+00:13:08.520 --> 00:13:13.560
+Cloud with MCPs, and we connect to this
+
+00:13:11.200 --> 00:13:15.320
+analytics tool like Posthog or Superwall
+
+00:13:13.560 --> 00:13:16.680
+or RevenueCat with MCP, and see all of
+
+00:13:15.320 --> 00:13:18.280
+our data from there. I also use
+
+00:13:16.680 --> 00:13:19.800
+WhisperFlow a lot. I like to speak with
+
+00:13:18.280 --> 00:13:21.440
+my computer, and that way I'm I'm faster
+
+00:13:19.800 --> 00:13:23.560
+than typing. Also, for AB testing the
+
+00:13:21.440 --> 00:13:25.520
+paywalls, we use Superwall. They have
+
+00:13:23.560 --> 00:13:27.560
+really good experimentation tools. For
+
+00:13:25.520 --> 00:13:29.440
+AB testing, we use Posthog. Then we use
+
+00:13:27.560 --> 00:13:31.160
+Notion to track all of our documentation
+
+00:13:29.440 --> 00:13:32.160
+and Slack to speak with the team and
+
+00:13:31.160 --> 00:13:34.000
+that's pretty much it.
+
+00:13:32.160 --> 00:13:36.080
+>> Okay, thanks for sharing tech stack. I'm
+
+00:13:34.000 --> 00:13:37.680
+also curious. We've been talking all
+
+00:13:36.080 --> 00:13:39.680
+about your app here. Could you just give
+
+00:13:37.680 --> 00:13:41.600
+me a quick demo of your app that makes
+
+00:13:39.680 --> 00:13:43.200
+over $160,000 a month?
+
+00:13:41.600 --> 00:13:45.080
+>> Yeah, so our app we try to make it
+
+00:13:43.200 --> 00:13:47.280
+really simple. So the first thing you
+
+00:13:45.080 --> 00:13:49.480
+see when you come is just like your plan
+
+00:13:47.280 --> 00:13:51.040
+to work out. You click on the plan and
+
+00:13:49.480 --> 00:13:52.640
+you see a workout preview and then you
+
+00:13:51.040 --> 00:13:55.040
+start your workout. Here you can track
+
+00:13:52.640 --> 00:13:57.680
+your weights, your reps and we even have
+
+00:13:55.040 --> 00:13:59.200
+like videos to explain [music] different
+
+00:13:57.680 --> 00:14:00.760
+exercises. And then the thing that
+
+00:13:59.200 --> 00:14:02.520
+people most like is here the ranks.
+
+00:14:00.760 --> 00:14:04.000
+You're seeing the ranks page where you
+
+00:14:02.520 --> 00:14:05.680
+have a rank for every muscle group and
+
+00:14:04.000 --> 00:14:07.040
+for every exercise. And also here you
+
+00:14:05.680 --> 00:14:08.280
+have the social network. So it's like a
+
+00:14:07.040 --> 00:14:10.080
+Strava. You can see here all of the
+
+00:14:08.280 --> 00:14:10.880
+people in in the feed uploading their
+
+00:14:10.080 --> 00:14:12.680
+workouts. [music]
+
+00:14:10.880 --> 00:14:13.800
+I even have my own workouts here. So
+
+00:14:12.680 --> 00:14:15.120
+it's really fun because people share
+
+00:14:13.800 --> 00:14:16.320
+their workouts. You have your streak.
+
+00:14:15.120 --> 00:14:17.920
+You cannot lose your streak to your
+
+00:14:16.320 --> 00:14:19.600
+friends. You can level up in different
+
+00:14:17.920 --> 00:14:20.800
+exercises and people just are having a
+
+00:14:19.600 --> 00:14:22.400
+really good time in Symmetry.
+
+00:14:20.800 --> 00:14:24.400
+>> Okay, thanks for sharing. Looks like an
+
+00:14:22.400 --> 00:14:25.640
+awesome app. Last question that we ask
+
+00:14:24.400 --> 00:14:27.440
+all founders to come on to Starter
+
+00:14:25.640 --> 00:14:28.840
+Story. If you could go back in time
+
+00:14:27.440 --> 00:14:31.120
+before
+
+00:14:28.840 --> 00:14:32.720
+the year that you started Symmetry,
+
+00:14:31.120 --> 00:14:34.120
+before you had a successful app, what
+
+00:14:32.720 --> 00:14:36.120
+would be your advice to your younger
+
+00:14:34.120 --> 00:14:37.720
+self or for anyone watching this that
+
+00:14:36.120 --> 00:14:38.400
+wants to build apps that are crushing it
+
+00:14:37.720 --> 00:14:41.160
+like yours?
+
+00:14:38.400 --> 00:14:43.240
+>> I would say to play long-term games with
+
+00:14:41.160 --> 00:14:44.520
+long-term people. Symmetry was launched
+
+00:14:43.240 --> 00:14:47.600
+1 year ago but we actually started the
+
+00:14:44.520 --> 00:14:50.080
+company 2 years ago. We were really bad
+
+00:14:47.600 --> 00:14:51.640
+when we started but we never surrendered
+
+00:14:50.080 --> 00:14:52.839
+and we just kept pushing, kept improving
+
+00:14:51.640 --> 00:14:54.640
+the product, kept improving our own
+
+00:14:52.839 --> 00:14:56.560
+skills. And if you're with people that
+
+00:14:54.640 --> 00:14:58.040
+are here for the long-term, 10 plus
+
+00:14:56.560 --> 00:14:59.000
+years, it's just a matter of time that
+
+00:14:58.040 --> 00:15:00.320
+you will make it too.
+
+00:14:59.000 --> 00:15:01.960
+>> Well, that's great advice. Thank you
+
+00:15:00.320 --> 00:15:03.480
+Maro for coming on the channel. Love
+
+00:15:01.960 --> 00:15:05.240
+what you built. Congrats, massive
+
+00:15:03.480 --> 00:15:06.400
+success even after just a year of
+
+00:15:05.240 --> 00:15:08.040
+launching. I think people are going to
+
+00:15:06.400 --> 00:15:09.000
+love this one. So thanks for coming on.
+
+00:15:08.040 --> 00:15:10.240
+>> Thanks for having me, Pat. It's my
+
+00:15:09.000 --> 00:15:12.960
+pleasure to be here.
+
+00:15:10.240 --> 00:15:14.920
+>> All right, Gus, the new co-host of
+
+00:15:12.960 --> 00:15:18.040
+Starter Story. First of all, welcome.
+
+00:15:14.920 --> 00:15:19.800
+How was your first interview being on
+
+00:15:18.040 --> 00:15:21.160
+camera for the first time?
+
+00:15:19.800 --> 00:15:23.200
+>> First off, for anyone watching who's
+
+00:15:21.160 --> 00:15:24.600
+still watching this, be kind to me.
+
+00:15:23.200 --> 00:15:26.320
+You'll You won't see this in the take,
+
+00:15:24.600 --> 00:15:28.320
+but I definitely had a double take when
+
+00:15:26.320 --> 00:15:30.840
+I asked that first question. And so, for
+
+00:15:28.320 --> 00:15:33.160
+anyone watching who thinks this is easy,
+
+00:15:30.840 --> 00:15:34.960
+not easy. Pat is a pro. Yeah, what did I
+
+00:15:33.160 --> 00:15:37.120
+think of the video? It really stood out
+
+00:15:34.960 --> 00:15:39.000
+to me the whole like run experiments
+
+00:15:37.120 --> 00:15:40.400
+thing because, like I mentioned maybe in
+
+00:15:39.000 --> 00:15:42.880
+the interview if it makes it into the
+
+00:15:40.400 --> 00:15:44.800
+cut, most of my like product decisions
+
+00:15:42.880 --> 00:15:46.560
+have been like, "Oh, that sounds cool. I
+
+00:15:44.800 --> 00:15:49.040
+wish I could build that or I should just
+
+00:15:46.560 --> 00:15:50.520
+build that." With like zero data, zero
+
+00:15:49.040 --> 00:15:52.280
+information. That's kind of my first
+
+00:15:50.520 --> 00:15:54.200
+thought is like, "Oh, a lot goes into
+
+00:15:52.280 --> 00:15:55.640
+all these apps, more than just like what
+
+00:15:54.200 --> 00:15:57.440
+cool feature should I build?"
+
+00:15:55.640 --> 00:15:59.680
+>> Yeah, no, I mean, this is
+
+00:15:57.440 --> 00:16:01.200
+uh sometimes I think people online talk
+
+00:15:59.680 --> 00:16:03.800
+about building apps and like oh, you
+
+00:16:01.200 --> 00:16:06.840
+just prompt Claude code or whatever. How
+
+00:16:03.800 --> 00:16:09.480
+real companies actually build product is
+
+00:16:06.840 --> 00:16:11.520
+very data-based and very analytical. And
+
+00:16:09.480 --> 00:16:13.360
+I think that it's sort of like nice to
+
+00:16:11.520 --> 00:16:14.760
+know that if you want to make a change
+
+00:16:13.360 --> 00:16:16.760
+in your app, you know that if you can
+
+00:16:14.760 --> 00:16:18.320
+run a test, it doesn't work, just turn
+
+00:16:16.760 --> 00:16:19.640
+that test off. Once you have enough
+
+00:16:18.320 --> 00:16:21.440
+users, I think that's the right way to
+
+00:16:19.640 --> 00:16:23.000
+approach building anything.
+
+00:16:21.440 --> 00:16:25.560
+>> Yeah, I'm curious, you're really
+
+00:16:23.000 --> 00:16:26.720
+data-driven, like analytical. Whether
+
+00:16:25.560 --> 00:16:28.680
+it's with Starter Story or something
+
+00:16:26.720 --> 00:16:30.160
+else, like I think someone watching
+
+00:16:28.680 --> 00:16:31.480
+might think like how much do these
+
+00:16:30.160 --> 00:16:32.720
+really move the needle? You know,
+
+00:16:31.480 --> 00:16:34.760
+clearly he told he gave us a good
+
+00:16:32.720 --> 00:16:36.480
+example of one that like didn't matter
+
+00:16:34.760 --> 00:16:37.960
+or did matter. But like in your
+
+00:16:36.480 --> 00:16:39.640
+experience, what's that been like for
+
+00:16:37.960 --> 00:16:41.360
+you? I guess that's I'm curious.
+
+00:16:39.640 --> 00:16:42.520
+>> Most of the tests that you run and the
+
+00:16:41.360 --> 00:16:44.400
+things that you try don't move the
+
+00:16:42.520 --> 00:16:46.440
+needle at all. And I think just doing
+
+00:16:44.400 --> 00:16:48.240
+those and seeing that and knowing that
+
+00:16:46.440 --> 00:16:50.280
+those things don't matter is like really
+
+00:16:48.240 --> 00:16:52.160
+powerful. [music] So, that the next time
+
+00:16:50.280 --> 00:16:55.160
+you go and someone says, "Let's change
+
+00:16:52.160 --> 00:16:56.640
+the landing page or let's update the
+
+00:16:55.160 --> 00:16:58.680
+settings page or whatever." Things that
+
+00:16:56.640 --> 00:16:59.760
+don't matter, you already know, like
+
+00:16:58.680 --> 00:17:01.080
+obviously you don't want to ever make
+
+00:16:59.760 --> 00:17:02.200
+too many assumptions, but you already
+
+00:17:01.080 --> 00:17:03.600
+know like, "Hey, that's probably not
+
+00:17:02.200 --> 00:17:04.920
+going to have a huge impact. I actually
+
+00:17:03.600 --> 00:17:06.120
+know the things that are probably going
+
+00:17:04.920 --> 00:17:08.040
+to have an impact." And then you start
+
+00:17:06.120 --> 00:17:10.280
+building your sense around what to even
+
+00:17:08.040 --> 00:17:12.040
+test. So, most things don't make a
+
+00:17:10.280 --> 00:17:14.520
+difference. And I think just knowing
+
+00:17:12.040 --> 00:17:16.600
+that is good to know that, "Hey, maybe
+
+00:17:14.520 --> 00:17:18.800
+focus more on marketing than product
+
+00:17:16.600 --> 00:17:20.839
+often." But having the tools and the
+
+00:17:18.800 --> 00:17:22.600
+tool set to know how to make changes and
+
+00:17:20.839 --> 00:17:24.000
+how to track those changes I think is
+
+00:17:22.600 --> 00:17:27.400
+really powerful. All right, guys. We'll
+
+00:17:24.000 --> 00:17:27.400
+see you in the next one. Peace.
+

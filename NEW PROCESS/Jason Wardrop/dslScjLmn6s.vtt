@@ -1,0 +1,1550 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.480
+Today I'm going to show you how to get Go High Level
+
+00:00:01.480 --> 00:00:06.240
+SaaS clients at scale and it's probably not what you are thinking.
+
+00:00:06.240 --> 00:00:08.040
+I'm going to show you the exact sales funnel.
+
+00:00:08.040 --> 00:00:09.760
+We're going to actually build out the sales funnel
+
+00:00:09.760 --> 00:00:11.600
+together in this video.
+
+00:00:11.600 --> 00:00:13.520
+And then at the end of this video,
+
+00:00:13.520 --> 00:00:15.520
+I'm just going to give you the sales funnel.
+
+00:00:15.520 --> 00:00:19.280
+So you can start implementing into your own business.
+
+00:00:19.280 --> 00:00:23.800
+Now, I kind of came across this whole model about 10 years ago
+
+00:00:23.800 --> 00:00:27.600
+when I was starting my own real estate CRM software business.
+
+00:00:27.600 --> 00:00:31.280
+And I ran into several problems when I first was first getting started.
+
+00:00:31.280 --> 00:00:35.120
+The first problem was I felt like I could only charge $39 per month
+
+00:00:35.120 --> 00:00:38.280
+because we were building a software platform completely from scratch.
+
+00:00:38.280 --> 00:00:44.080
+And I didn't feel like it had enough value to charge more than $39 per month at a time.
+
+00:00:44.080 --> 00:00:46.680
+And I looked a lot of these other self-service softwares.
+
+00:00:46.680 --> 00:00:49.600
+And I saw they were 20, 30, 40, 50 dollars per month.
+
+00:00:49.600 --> 00:00:52.160
+I was like, I'm just going to do exactly what they're doing.
+
+00:00:52.160 --> 00:00:57.000
+However, I was totally naive and didn't realize how hard it was to get a thousand
+
+00:00:57.040 --> 00:01:01.560
+or even 2,000 paying clients even on a low ticket software like that.
+
+00:01:01.560 --> 00:01:04.200
+So I hadn't changed the model completely.
+
+00:01:04.200 --> 00:01:05.120
+So I thought, you know what?
+
+00:01:05.120 --> 00:01:08.760
+I'm going to take my software and I'm going to sell it to enterprise type clients
+
+00:01:08.760 --> 00:01:10.520
+where I'm going to go into their office.
+
+00:01:10.520 --> 00:01:14.600
+I'm going to break down exactly how they could go through and use it in their business.
+
+00:01:14.600 --> 00:01:19.280
+And I'll be able to make these big sales, close one deal, bring in tens of thousands
+
+00:01:19.280 --> 00:01:21.280
+of dollars of monthly recurring revenue.
+
+00:01:21.280 --> 00:01:22.640
+And I'd be set.
+
+00:01:22.680 --> 00:01:29.200
+However, the problem with this is typically one sales meeting would take almost an entire
+
+00:01:29.200 --> 00:01:30.200
+day.
+
+00:01:30.200 --> 00:01:33.880
+So it would eat up so much of my time driving in office to the appointment, having the
+
+00:01:33.880 --> 00:01:36.200
+appointment, then getting out of the appointment.
+
+00:01:36.200 --> 00:01:37.200
+I'm probably hungry.
+
+00:01:37.200 --> 00:01:38.600
+So I got to go grab some lunch.
+
+00:01:38.600 --> 00:01:40.280
+Then I got to drive all the way back home.
+
+00:01:40.280 --> 00:01:43.720
+Then I kind of got to recap what we were talking about in the meeting.
+
+00:01:43.720 --> 00:01:46.240
+So it sucked up almost an entire day.
+
+00:01:46.240 --> 00:01:50.920
+And then on top of that, it would usually take months before those deals would actually
+
+00:01:50.920 --> 00:01:51.920
+close.
+
+00:01:51.920 --> 00:01:55.960
+And once I realized I didn't want to be driving around town, going into closing these big enterprise
+
+00:01:55.960 --> 00:02:01.320
+deals and realizing that I needed a much faster sales cycle to actually bring in revenue
+
+00:02:01.320 --> 00:02:06.080
+and cash to pay my developers that were building out the software at the time.
+
+00:02:06.080 --> 00:02:10.880
+I knew I needed a better model with a much quicker sales cycle.
+
+00:02:10.880 --> 00:02:15.320
+So it was then I turned to more of a standard sales call funnel.
+
+00:02:15.320 --> 00:02:20.440
+That way I'd be able to generally I'd have someone watch a 10 to 15 minute video sales
+
+00:02:20.440 --> 00:02:24.600
+letter and then they'd book an appointment on my calendar and then I jump on a phone
+
+00:02:24.600 --> 00:02:27.680
+call and go and do a sales pitch.
+
+00:02:27.680 --> 00:02:34.240
+However, this turned into literally non-stop sales calls trying to find out how to eliminate
+
+00:02:34.240 --> 00:02:36.520
+no shows of people booking on your calendar.
+
+00:02:36.520 --> 00:02:39.280
+So you're setting aside time for that person.
+
+00:02:39.280 --> 00:02:43.360
+And then five minutes goes into the call and they still have not shown up and you've
+
+00:02:43.360 --> 00:02:47.360
+just kind of killed 10, 15 minutes of task switching.
+
+00:02:47.360 --> 00:02:52.320
+And this model it can work, but it also takes up so much time where you feel like you're
+
+00:02:52.320 --> 00:02:57.680
+just literally married to your business and you have no life outside of work.
+
+00:02:57.680 --> 00:02:59.720
+Now I don't know about you, but I am married.
+
+00:02:59.720 --> 00:03:01.000
+I have three young kids.
+
+00:03:01.000 --> 00:03:02.000
+I have friends.
+
+00:03:02.000 --> 00:03:06.360
+I want a life outside of my work, although I really enjoy my work.
+
+00:03:06.360 --> 00:03:11.240
+And so it was around this time that I discovered this model that I'm going to be showing you
+
+00:03:11.240 --> 00:03:13.960
+inside of today's video.
+
+00:03:13.960 --> 00:03:20.260
+And that is the webinar model where I could do basically one sales call, one 90 minute
+
+00:03:20.260 --> 00:03:22.120
+sales call every single week.
+
+00:03:22.120 --> 00:03:27.720
+My goal was to get a thousand registrants onto this one sales call every single week.
+
+00:03:27.720 --> 00:03:31.960
+Show up, deliver the presentation, the best I could.
+
+00:03:31.960 --> 00:03:39.280
+And then most weeks I'd be making 20, 25, 30 sales in one live, 90 minute session.
+
+00:03:39.280 --> 00:03:42.560
+And the beautiful thing about this is the sales cycle was quick.
+
+00:03:42.560 --> 00:03:46.880
+I was typically able to recoup all of my ad spend within the first seven days of spending
+
+00:03:46.880 --> 00:03:47.960
+that money.
+
+00:03:47.960 --> 00:03:51.680
+And then also I wasn't having to drive around all these different appointments.
+
+00:03:51.680 --> 00:03:57.160
+And then instead of selling a monthly subscription service software, I was able to build up enough
+
+00:03:57.160 --> 00:04:03.280
+value on this 90 minute presentation where I was able to pre-sell multiple months up front
+
+00:04:03.280 --> 00:04:06.080
+and capture a thousand dollars in revenue.
+
+00:04:06.080 --> 00:04:10.800
+So I could subsidize my ad spend and get cash in the bank quicker.
+
+00:04:10.800 --> 00:04:13.240
+So I could fund my marketing efforts.
+
+00:04:13.240 --> 00:04:17.880
+I could fund my development efforts and really scale my business.
+
+00:04:17.880 --> 00:04:20.040
+So with that said, let's jump onto my computer.
+
+00:04:20.040 --> 00:04:23.080
+I want to build out this exact webinar funnel with you today.
+
+00:04:23.080 --> 00:04:26.160
+I'm going to show you guys exactly how I set it up.
+
+00:04:26.160 --> 00:04:27.880
+Show you step by step.
+
+00:04:27.880 --> 00:04:31.600
+And then throughout the rest of this week, I also want to show you guys the down sell
+
+00:04:31.600 --> 00:04:35.720
+funnels, the up sell funnels, everything step by step that I would do if I was starting
+
+00:04:35.720 --> 00:04:38.400
+all over again from scratch today.
+
+00:04:38.400 --> 00:04:42.320
+Just so you know, this is not just one of those YouTube videos to get clickbait views
+
+00:04:42.320 --> 00:04:43.800
+or anything of like, here's what I do.
+
+00:04:43.800 --> 00:04:48.440
+If I start all over, this actually is exactly what I would do if I started all over because
+
+00:04:48.440 --> 00:04:50.320
+I went through and used this exact model.
+
+00:04:50.320 --> 00:04:54.480
+I'll be showing you in this video to grow my real estate software business from zero to
+
+00:04:54.480 --> 00:04:57.840
+over 15,000 paying clients in just six years.
+
+00:04:57.840 --> 00:05:03.680
+And then when I started over as a high level affiliate, this is the exact same model that
+
+00:05:03.680 --> 00:05:08.320
+I went through and grew my high level affiliate business and became the first person
+
+00:05:08.320 --> 00:05:12.360
+ever to earn over $10 million in affiliate commissions from the high level affiliate
+
+00:05:12.360 --> 00:05:13.360
+program.
+
+00:05:13.360 --> 00:05:14.560
+So this is worked.
+
+00:05:14.560 --> 00:05:16.200
+It's worked extremely well for me.
+
+00:05:16.200 --> 00:05:20.080
+And so I want to go through and break this down, share the funnel with you guys so you
+
+00:05:20.080 --> 00:05:23.240
+can go through and implement it into your business as well.
+
+00:05:23.240 --> 00:05:27.800
+The cool thing is, even if you're not in the real estate space, this works for any industry.
+
+00:05:27.800 --> 00:05:32.560
+Because as I said, I did it in the real estate space and then I did it in more of the agency's
+
+00:05:32.560 --> 00:05:35.360
+space selling high level on the back end.
+
+00:05:35.360 --> 00:05:37.240
+So with that said, let's jump on on my computer.
+
+00:05:37.240 --> 00:05:39.320
+I'm going to show you guys the exact funnel template.
+
+00:05:39.320 --> 00:05:42.600
+We're going to build it out together using high levels AI studio.
+
+00:05:42.600 --> 00:05:45.980
+And then if you stick with me to the end of this video, I'm going to just give you the
+
+00:05:45.980 --> 00:05:49.000
+entire webinar sales funnel template as well.
+
+00:05:49.000 --> 00:05:51.200
+So you can start implementing into your own business.
+
+00:05:51.200 --> 00:05:54.800
+Okay, so we're going to be building out three core pages with this webinar sales funnel.
+
+00:05:54.800 --> 00:05:57.080
+The webinar registration page you can see right here.
+
+00:05:57.080 --> 00:06:01.000
+We're going to do the webinar confirmation pages before they go through and enter into
+
+00:06:01.000 --> 00:06:02.000
+the webinar.
+
+00:06:02.000 --> 00:06:05.800
+This could be for live or automated either one you want a confirmation page to look similar
+
+00:06:05.800 --> 00:06:06.800
+to this.
+
+00:06:06.800 --> 00:06:11.560
+And then also the sales page we're actually selling the offer that you are presenting
+
+00:06:11.560 --> 00:06:12.560
+on the webinar.
+
+00:06:12.560 --> 00:06:13.560
+All right.
+
+00:06:13.560 --> 00:06:16.520
+And you can see this is for a different offer, but we're going to go through and build
+
+00:06:16.520 --> 00:06:21.360
+this together specifically if you are selling a real estate, SaaS white label on go high
+
+00:06:21.360 --> 00:06:24.080
+level because that is what the focus is here.
+
+00:06:24.080 --> 00:06:27.040
+The cool thing is, is if you're watching this and you're like, oh man, I'm really interested
+
+00:06:27.040 --> 00:06:31.600
+in this, but I serve roofers or insurance agents or whoever it might be.
+
+00:06:31.600 --> 00:06:35.400
+This same exact model works, okay, because this is exactly how I grew my own real estate
+
+00:06:35.400 --> 00:06:36.560
+software business.
+
+00:06:36.560 --> 00:06:41.080
+But then it's exactly how I went through and started selling high level as an affiliate.
+
+00:06:41.080 --> 00:06:43.000
+So this model works.
+
+00:06:43.000 --> 00:06:46.240
+That's why I'm super excited to go through and break this down and share it with you guys.
+
+00:06:46.240 --> 00:06:50.240
+And then this template that we're going to be building plus this whole snapshot what
+
+00:06:50.240 --> 00:06:52.400
+we were building yesterday, we're building tomorrow.
+
+00:06:52.400 --> 00:06:56.560
+I'm going to go through and give that to you guys inside of my private community.
+
+00:06:56.560 --> 00:07:00.840
+When you get started with a 30 day extended free trial down below in the description with
+
+00:07:00.840 --> 00:07:04.920
+my affiliate link or if you're already on high level and you're like, man, Jason, I want
+
+00:07:04.920 --> 00:07:05.920
+all this stuff.
+
+00:07:05.920 --> 00:07:06.920
+You can just upgrade.
+
+00:07:06.920 --> 00:07:10.240
+There's a link down below in the description to upgrade your account and you'll get all
+
+00:07:10.240 --> 00:07:14.560
+this access as well plus my courses in coaching, all right.
+
+00:07:14.560 --> 00:07:17.800
+So the first thing we want to do is build out this webinar registration page.
+
+00:07:17.800 --> 00:07:21.520
+And if you watched yesterday's video, build out the real estate website.
+
+00:07:21.520 --> 00:07:24.960
+What we want to do is we want to figure out who we are actually selling to.
+
+00:07:24.960 --> 00:07:27.000
+Who's our ideal client avatar?
+
+00:07:27.000 --> 00:07:31.840
+And then we want to make sure that our sales pages, our funnels, our ads, our email
+
+00:07:31.840 --> 00:07:35.360
+marking, everything is speaking directly to this person.
+
+00:07:35.360 --> 00:07:39.680
+So if we haven't nailed that down and we're just being very generic with like real estate,
+
+00:07:39.680 --> 00:07:45.320
+real estate agent, real estate investor, whatever it is, it's not specific enough because you
+
+00:07:45.320 --> 00:07:49.200
+got real estate brokers, real estate team leads, solo real estate agents.
+
+00:07:49.200 --> 00:07:55.240
+You've got real estate investors and every single one of them have a very different marketing
+
+00:07:55.240 --> 00:07:59.520
+message to go through and connect with them in different pain points and different solutions
+
+00:07:59.520 --> 00:08:00.520
+we can offer.
+
+00:08:00.520 --> 00:08:05.240
+And so as I showed you guys yesterday, I have all of these different avatar docs.
+
+00:08:05.240 --> 00:08:07.880
+This one right here is the burnt out solo agent.
+
+00:08:07.880 --> 00:08:11.160
+This one right here, the tech paralyzed team builder.
+
+00:08:11.160 --> 00:08:12.840
+So they're real estate team lead.
+
+00:08:12.840 --> 00:08:17.160
+They're building out a real estate team and they're really good at sales and selling homes,
+
+00:08:17.160 --> 00:08:19.440
+but they're absolutely horrible with tech.
+
+00:08:19.440 --> 00:08:20.440
+Okay.
+
+00:08:20.440 --> 00:08:21.440
+And so we want to simplify that.
+
+00:08:21.440 --> 00:08:24.120
+So we speak to these people in different ways.
+
+00:08:24.120 --> 00:08:25.840
+So yesterday we used this avatar template.
+
+00:08:25.840 --> 00:08:27.240
+So we're just going to continue this theme.
+
+00:08:27.240 --> 00:08:30.440
+And once again, if you guys want all these avatar templates pre built and show you guys
+
+00:08:30.440 --> 00:08:34.400
+how to build these out for your specific business, that is all inside my community that
+
+00:08:34.400 --> 00:08:36.120
+you guys can go and get free access.
+
+00:08:36.120 --> 00:08:41.560
+If you are affiliated with me with high level, where do you start a new account or you upgrade
+
+00:08:41.560 --> 00:08:43.000
+or however that works.
+
+00:08:43.000 --> 00:08:44.960
+So let's go through and build this out.
+
+00:08:44.960 --> 00:08:49.800
+So like I said yesterday, what I like to do is I like to open up chat GPT and I like
+
+00:08:49.800 --> 00:08:52.320
+to voice out what I am thinking.
+
+00:08:52.320 --> 00:08:53.320
+Okay.
+
+00:08:54.040 --> 00:08:58.240
+I'm looking to build a webinar registration page and full sales funnel.
+
+00:08:58.240 --> 00:09:00.800
+First, we're going to start out with the webinar registration page.
+
+00:09:00.800 --> 00:09:05.800
+I'm going to give you a copy and pace of the ideal client avatar of who I want to the
+
+00:09:05.800 --> 00:09:10.200
+webinar registration page, the headline sub headline called action, everything to speak
+
+00:09:10.200 --> 00:09:11.400
+to.
+
+00:09:11.400 --> 00:09:14.600
+I'm going to give you an example of what I want the webinar registration page to look
+
+00:09:14.600 --> 00:09:20.760
+like and the call to action button is going to be to get the free workshop or get instant
+
+00:09:20.760 --> 00:09:22.360
+access to the free training.
+
+00:09:22.360 --> 00:09:26.440
+Whatever you think is going to help boost the conversion rates of people visiting the
+
+00:09:26.440 --> 00:09:31.720
+website to actually convert into leads to not only become a lead and register for the
+
+00:09:31.720 --> 00:09:37.160
+workshop, but also attend the event.
+
+00:09:37.160 --> 00:09:38.440
+So I'm going to do that right there.
+
+00:09:38.440 --> 00:09:40.080
+It's going to transcribe everything.
+
+00:09:40.080 --> 00:09:41.080
+Then I'm going to come over here.
+
+00:09:41.080 --> 00:09:46.960
+I'm just going to copy and paste all of this and then come over here and oh yeah, one
+
+00:09:46.960 --> 00:09:50.120
+thing that I want to do is just say this.
+
+00:09:50.120 --> 00:09:55.240
+I want you to give me a copy and pace prompt that I can copy and paste into Go High
+
+00:09:55.240 --> 00:10:01.520
+Levels AI Studio that will build out this webinar registration page for me.
+
+00:10:01.520 --> 00:10:05.040
+Okay, so I forgot to add that.
+
+00:10:05.040 --> 00:10:10.880
+So then we're going to have ideal client avatar, boom.
+
+00:10:10.880 --> 00:10:15.040
+And then I would probably also say you want to kind of say what you're offering.
+
+00:10:15.040 --> 00:10:19.160
+This is what we made yesterday as far as like going through and like biggest obstacles
+
+00:10:19.160 --> 00:10:24.080
+overcome, which I might throw that in there as well, just has more data.
+
+00:10:24.080 --> 00:10:26.880
+And then I'm just going to hit enter right here and then it's going to build out the whole
+
+00:10:26.880 --> 00:10:31.240
+prompt that I'm just going to now copy and paste into high levels AI Studio.
+
+00:10:31.240 --> 00:10:35.360
+So let's come over here to high levels AI Studio right there.
+
+00:10:35.360 --> 00:10:38.960
+And like I said yesterday, if you guys are just watching this catching in here, now you
+
+00:10:38.960 --> 00:10:41.880
+don't have AI Studio on your computer.
+
+00:10:41.880 --> 00:10:43.560
+You just got to go to settings.
+
+00:10:43.560 --> 00:10:46.680
+You got to go to labs and then scroll down.
+
+00:10:46.680 --> 00:10:50.200
+These are all the new features that they're using and you got AI Studio.
+
+00:10:50.200 --> 00:10:51.400
+Make sure that's toggled on.
+
+00:10:51.400 --> 00:10:54.920
+Okay, so we're going to come back over here, go to AI Studio.
+
+00:10:54.920 --> 00:10:57.000
+This is the website that we built yesterday.
+
+00:10:57.000 --> 00:10:59.040
+We're going to come over here to the webinar registration.
+
+00:10:59.040 --> 00:11:03.680
+Okay, so we're just going to come over here and we are going to select all of this.
+
+00:11:03.680 --> 00:11:08.320
+We're going to copy and paste it into high levels AI Studio to build out the first page
+
+00:11:08.320 --> 00:11:10.920
+of this webinar sales funnel.
+
+00:11:10.920 --> 00:11:11.920
+All right.
+
+00:11:11.920 --> 00:11:16.080
+And then I'm going to show you guys exactly what I would do once this is all built out
+
+00:11:16.080 --> 00:11:21.960
+to kind of maximize the conversion rates because honestly, AI Studio can get us like 80%
+
+00:11:21.960 --> 00:11:23.160
+of the way there.
+
+00:11:23.160 --> 00:11:26.920
+But typically when I'm going through and building out these websites and sales funnels, there
+
+00:11:26.920 --> 00:11:31.800
+is just some things after doing this for over 15 years that I can just pinpoint of saying,
+
+00:11:31.800 --> 00:11:36.920
+hey, we need to do this to boost the conversion rates to get more opt-ins, get more sales.
+
+00:11:36.920 --> 00:11:40.680
+And so I want to walk you through some of these different things after we go through and
+
+00:11:40.680 --> 00:11:41.680
+build this.
+
+00:11:41.680 --> 00:11:48.240
+You're not just left on your own and building out a V1, which is maybe 80% good and it can
+
+00:11:48.240 --> 00:11:53.800
+still work, but honestly, an additional 20% on conversions that can give you a massive
+
+00:11:53.800 --> 00:11:54.800
+lift in your business.
+
+00:11:54.800 --> 00:11:59.160
+And it honestly could be the difference of having a profitable webinar versus a break even
+
+00:11:59.160 --> 00:12:02.440
+webinar or even a webinar that completely loses money.
+
+00:12:02.440 --> 00:12:03.600
+And I don't want that for you.
+
+00:12:03.600 --> 00:12:07.760
+So hang tight, sit with me here so we can see step by step how to go through and do this.
+
+00:12:07.760 --> 00:12:08.760
+Okay.
+
+00:12:08.760 --> 00:12:11.200
+So went through and build out this whole webinar registration page.
+
+00:12:11.200 --> 00:12:13.760
+If you look at this one, this is very simple.
+
+00:12:13.760 --> 00:12:17.320
+It's got headline subheadline called action, three core things that they're going to learn
+
+00:12:17.320 --> 00:12:19.640
+and then a called action right here.
+
+00:12:19.640 --> 00:12:25.480
+This one right here is got a lot more information, which this is something that I would probably
+
+00:12:25.480 --> 00:12:27.400
+just split test.
+
+00:12:27.400 --> 00:12:32.580
+I don't love a ton of information, especially if you're running paydads to a landing page
+
+00:12:32.580 --> 00:12:33.920
+opt-in like this.
+
+00:12:33.920 --> 00:12:39.240
+If you've seen a lot of my opt-ins, it's very simple headline subheadline called action,
+
+00:12:39.240 --> 00:12:42.480
+maybe some social proof, but like that's it.
+
+00:12:42.480 --> 00:12:45.800
+So that would be like one thing where I'm like, okay, they just built this.
+
+00:12:45.800 --> 00:12:51.200
+It's not that AI studio is always right or that I'm right or it's wrong or whatever, but
+
+00:12:51.200 --> 00:12:53.280
+I think it's something to split test.
+
+00:12:53.280 --> 00:12:57.680
+Now for this example, I'm actually going to go through and have it tweak it to be more
+
+00:12:57.680 --> 00:13:00.680
+along the lines of this webinar registration page.
+
+00:13:00.680 --> 00:13:06.400
+Reason being is that is exactly the model, the format that I have run for over a decade.
+
+00:13:06.400 --> 00:13:08.520
+And so I know that it works.
+
+00:13:08.800 --> 00:13:12.200
+Okay, so I'm just going to write out some tweaks over here and you guys can like see this,
+
+00:13:12.200 --> 00:13:14.200
+be building this in real time.
+
+00:13:14.200 --> 00:13:16.760
+Okay, I'm just going to walk you through exactly what I'm saying here.
+
+00:13:16.760 --> 00:13:20.360
+So I put too many section, I want the layout, the whole page to be similar to this one,
+
+00:13:20.360 --> 00:13:22.920
+which is this page right here.
+
+00:13:22.920 --> 00:13:25.080
+And then I said, I like the free life training.
+
+00:13:25.080 --> 00:13:29.040
+So all of my pages, I just broke this down at a event I was at last week.
+
+00:13:29.040 --> 00:13:32.320
+And I was presenting on stage and showing everyone the kind of like the whole opt-in
+
+00:13:32.320 --> 00:13:34.400
+pages and why they convert well.
+
+00:13:34.400 --> 00:13:35.720
+And I've been doing this for a long time.
+
+00:13:35.720 --> 00:13:39.560
+So these are all like the format of what has always converted well for me.
+
+00:13:39.560 --> 00:13:41.640
+So I always like this right here at the very top.
+
+00:13:41.640 --> 00:13:42.640
+What is it?
+
+00:13:42.640 --> 00:13:44.200
+And who is it for?
+
+00:13:44.200 --> 00:13:47.360
+Okay, free live training for real estate agents.
+
+00:13:47.360 --> 00:13:48.360
+So I love that.
+
+00:13:48.360 --> 00:13:49.360
+That was great.
+
+00:13:49.360 --> 00:13:51.120
+I usually like to center though.
+
+00:13:51.120 --> 00:13:52.520
+And then I like the headline.
+
+00:13:52.520 --> 00:13:58.200
+So we've got at the very top, but I like to have the headline directly beneath that sub-headline,
+
+00:13:58.200 --> 00:14:01.080
+then called action, all centered on a white background.
+
+00:14:01.080 --> 00:14:02.080
+All right.
+
+00:14:02.080 --> 00:14:04.560
+Why is this cleaner and easier on the eyes?
+
+00:14:04.560 --> 00:14:09.200
+Sometimes I see people build at these like webinar registration pages or opt-in pages.
+
+00:14:09.200 --> 00:14:12.000
+And they're trying to like use my methodology.
+
+00:14:12.000 --> 00:14:15.640
+However, they are just like, it's very hard on the eyes.
+
+00:14:15.640 --> 00:14:17.160
+It's very distracting.
+
+00:14:17.160 --> 00:14:20.000
+And so it's very hard to like read and see what's going on.
+
+00:14:20.000 --> 00:14:21.000
+Okay.
+
+00:14:21.000 --> 00:14:24.680
+And then it says with the call to action button and the form only shown with the CTA, the
+
+00:14:24.680 --> 00:14:27.760
+call to action button is clicked and shown in a popup model.
+
+00:14:27.760 --> 00:14:28.760
+So I said rebuild.
+
+00:14:28.760 --> 00:14:29.760
+Okay.
+
+00:14:29.760 --> 00:14:31.800
+So I'm just going to have this rebuild this here really quick.
+
+00:14:31.800 --> 00:14:34.800
+But the reason why we want this is we want simplicity.
+
+00:14:34.800 --> 00:14:36.520
+We want the white background.
+
+00:14:36.520 --> 00:14:39.640
+We want as little as few details as possible.
+
+00:14:39.640 --> 00:14:45.040
+So if somebody's clicking on a paid ad or even coming from organic YouTube, Facebook, Instagram,
+
+00:14:45.040 --> 00:14:47.440
+whatever it is, they can land on the page.
+
+00:14:47.440 --> 00:14:49.280
+Instantly know what it is and who it's for.
+
+00:14:49.280 --> 00:14:52.300
+That's where the free life training for real sedations comes in.
+
+00:14:52.300 --> 00:14:54.960
+And then what the hook is, that is the core headline.
+
+00:14:54.960 --> 00:14:56.680
+That's what has been big font.
+
+00:14:56.680 --> 00:15:02.080
+And the sub headline is usually kind of like building on top of that or it's eliminating
+
+00:15:02.080 --> 00:15:05.160
+any of the pains or things that they have done previously.
+
+00:15:05.160 --> 00:15:06.160
+Okay.
+
+00:15:06.160 --> 00:15:08.080
+And then we've got the call to action button.
+
+00:15:08.080 --> 00:15:11.680
+If you don't have the form, it just keeps it a little bit cleaner or another way that
+
+00:15:11.680 --> 00:15:13.680
+I like it is like having to put in.
+
+00:15:13.680 --> 00:15:18.400
+If it shows the form, just having like their first name and then they hit enter and then
+
+00:15:18.400 --> 00:15:21.520
+email and then enter and then phone number then enter.
+
+00:15:21.520 --> 00:15:24.960
+So it's kind of like broken down as opposed to this long form.
+
+00:15:24.960 --> 00:15:29.200
+It's a little bit intimidating if you're clicking from a paid ad, cold traffic to this
+
+00:15:29.200 --> 00:15:30.200
+website.
+
+00:15:30.200 --> 00:15:31.200
+Okay.
+
+00:15:31.200 --> 00:15:32.200
+So let's check this out now.
+
+00:15:32.200 --> 00:15:33.200
+Free life training for real sedations.
+
+00:15:33.200 --> 00:15:34.200
+I like that.
+
+00:15:34.200 --> 00:15:35.400
+The red, I kind of like the green before.
+
+00:15:35.400 --> 00:15:38.040
+So I'd probably go back to green since green means go.
+
+00:15:38.040 --> 00:15:40.360
+Red means kind of like halt mentally.
+
+00:15:40.360 --> 00:15:44.040
+So how real terms are using AI to get more leads, follow faster and book more appointments
+
+00:15:44.040 --> 00:15:46.760
+without working nights and weekends.
+
+00:15:46.760 --> 00:15:50.920
+This I think is a little bit too wordy to be honest.
+
+00:15:50.920 --> 00:15:54.520
+I would honestly like it to cover like just those three lines right there.
+
+00:15:54.520 --> 00:15:57.920
+I discovered a simple system helping busy agents instantly respond to new leads, automate
+
+00:15:57.920 --> 00:16:01.600
+follow up and fill their calendars with more qualified appointments without hiring staff
+
+00:16:01.600 --> 00:16:03.360
+or learning complicated technology.
+
+00:16:03.360 --> 00:16:04.360
+Okay.
+
+00:16:04.360 --> 00:16:07.360
+And once again, I'd probably just want to do it simplified.
+
+00:16:07.360 --> 00:16:09.760
+So it's just like one line right there.
+
+00:16:09.760 --> 00:16:10.760
+Okay.
+
+00:16:10.760 --> 00:16:12.160
+Reserve my free seat now.
+
+00:16:12.160 --> 00:16:13.160
+Perfect.
+
+00:16:13.160 --> 00:16:14.360
+That's looking much better.
+
+00:16:14.360 --> 00:16:16.720
+Free life training limited availability.
+
+00:16:16.720 --> 00:16:19.640
+And then this right here, this would be like if you look at my page.
+
+00:16:19.640 --> 00:16:21.120
+It's a picture of me.
+
+00:16:21.120 --> 00:16:22.160
+So it's kind of like the branding.
+
+00:16:22.160 --> 00:16:25.040
+So you don't want like either a picture of you or whoever in your team is going to
+
+00:16:25.040 --> 00:16:26.080
+be delivering the webinar.
+
+00:16:26.080 --> 00:16:29.360
+I'm just a little bit of more trust right there.
+
+00:16:29.360 --> 00:16:32.360
+What you'll learn inside this free workshop, generate more qualified leads.
+
+00:16:32.360 --> 00:16:33.600
+I don't mind this.
+
+00:16:33.600 --> 00:16:34.600
+This is not too much.
+
+00:16:34.600 --> 00:16:35.600
+Okay.
+
+00:16:35.600 --> 00:16:36.840
+And then meet your workshop host.
+
+00:16:36.840 --> 00:16:37.840
+That's totally fine.
+
+00:16:37.840 --> 00:16:38.840
+Foring last questions.
+
+00:16:38.840 --> 00:16:42.840
+I still think there's probably a little bit much here more than we need.
+
+00:16:42.840 --> 00:16:44.640
+But that is kind of like a step one.
+
+00:16:44.640 --> 00:16:45.640
+Okay.
+
+00:16:45.640 --> 00:16:48.600
+So there's a lot more long lines of like how I like to structure these webinar registration
+
+00:16:48.600 --> 00:16:52.120
+pages, headline sub headline, the what it is and who it's for.
+
+00:16:52.640 --> 00:16:55.400
+This little button right here with the form looking great.
+
+00:16:55.400 --> 00:16:57.800
+Here's what you're going to learn great and a little footer.
+
+00:16:57.800 --> 00:16:58.800
+Okay.
+
+00:16:58.800 --> 00:16:59.800
+So that's perfect.
+
+00:16:59.800 --> 00:17:01.840
+We're just going to keep this as is for right now.
+
+00:17:01.840 --> 00:17:05.600
+And we're going to move on to the registration completion page.
+
+00:17:05.600 --> 00:17:06.600
+Okay.
+
+00:17:06.600 --> 00:17:09.360
+So now I'm saying now build out the confirmation page model and this confirmation page
+
+00:17:09.360 --> 00:17:12.800
+is the one I have that has a messaging that aligns with the registration page because
+
+00:17:12.800 --> 00:17:15.280
+we want to keep consistent messaging throughout, right?
+
+00:17:15.280 --> 00:17:17.520
+And the call to action button is to join the webinar.
+
+00:17:17.520 --> 00:17:20.520
+So we're just going to hit enter and it's going to give us a little prompt here.
+
+00:17:20.520 --> 00:17:25.240
+So you can see right here, it's basically same headline, same sub headline, join the
+
+00:17:25.240 --> 00:17:29.280
+workshop that would then kick us into the workshop and you want to have something like
+
+00:17:29.280 --> 00:17:30.280
+success.
+
+00:17:30.280 --> 00:17:31.280
+You've been registered.
+
+00:17:31.280 --> 00:17:35.600
+So let's see what we can go through and get on the first try.
+
+00:17:35.600 --> 00:17:39.880
+So we're just going to go through and copy and paste this into high levels AI studio.
+
+00:17:39.880 --> 00:17:40.880
+Okay.
+
+00:17:40.880 --> 00:17:44.080
+So build out this confirmation page and honestly, this is fine if it's going to be like
+
+00:17:44.080 --> 00:17:46.000
+a web or a live webinar.
+
+00:17:46.000 --> 00:17:50.320
+So I was doing live webinars every single week for three and a half years straight.
+
+00:17:50.320 --> 00:17:54.000
+But then I just told us to add this join the live workshop right here.
+
+00:17:54.000 --> 00:17:55.920
+Now it'd be more for like an automated webinar.
+
+00:17:55.920 --> 00:18:01.240
+So if it's not an automated webinar and it's not like an on demand one, then you probably
+
+00:18:01.240 --> 00:18:03.640
+don't need that right there.
+
+00:18:03.640 --> 00:18:07.600
+It's fine, which is like your registered kind of like a headline and this is workshop begins
+
+00:18:07.600 --> 00:18:12.480
+and it's got the countdown timer has the easy buttons added to your calendar and then
+
+00:18:12.480 --> 00:18:15.640
+hey, here's the webinar access link, which obviously this is not going to be the only
+
+00:18:15.640 --> 00:18:18.400
+place where if it's live webinar, we're going to get access.
+
+00:18:18.400 --> 00:18:21.480
+We're going to be sending emails, we're going to be sending texts directly with the link,
+
+00:18:21.480 --> 00:18:22.800
+all that stuff.
+
+00:18:22.800 --> 00:18:27.960
+But we also like to break down what is going to be covered and then kind of like you're
+
+00:18:27.960 --> 00:18:30.720
+always selling your selling on every single page.
+
+00:18:30.720 --> 00:18:34.480
+And so that's why it's really important to go through and still break down things like
+
+00:18:34.480 --> 00:18:35.480
+this.
+
+00:18:35.480 --> 00:18:38.960
+Then obviously you'd probably want to throw in a picture of yourself as opposed to the
+
+00:18:38.960 --> 00:18:40.600
+stock image right there.
+
+00:18:40.600 --> 00:18:43.680
+And so you can see that this page is actually pretty good.
+
+00:18:43.680 --> 00:18:46.960
+But like I said, if you're doing like an on demand webinar, which is that is kind of like
+
+00:18:46.960 --> 00:18:51.960
+what I did once I started selling to agency owners with high level as an affiliate, you
+
+00:18:51.960 --> 00:18:57.480
+want your call to action to jump into the webinar room, which once again, you don't want
+
+00:18:57.480 --> 00:19:00.160
+to be like live workshop if it's not really live.
+
+00:19:00.160 --> 00:19:02.440
+I was really doing them live for literally three and a half years.
+
+00:19:02.440 --> 00:19:06.320
+So that was kind of like that experience where you're going to have higher conversions
+
+00:19:06.320 --> 00:19:07.600
+on a live webinar.
+
+00:19:07.840 --> 00:19:11.080
+But you're going to be able to get more people to show up on an on demand webinar.
+
+00:19:11.080 --> 00:19:12.080
+Okay.
+
+00:19:12.080 --> 00:19:13.400
+So it kind of like bounces itself out.
+
+00:19:13.400 --> 00:19:17.360
+But if you do do on demand, you want the call to action button to actually jump into
+
+00:19:17.360 --> 00:19:21.960
+that webinar room as high up as possible, especially on mobile where they don't have to
+
+00:19:21.960 --> 00:19:25.960
+go through and scroll down that they can just click there and jump right in.
+
+00:19:25.960 --> 00:19:26.960
+Okay.
+
+00:19:26.960 --> 00:19:28.440
+So honestly, this page is pretty good.
+
+00:19:28.440 --> 00:19:32.640
+And so what we're going to do now is I want to go through and build out the sales page,
+
+00:19:32.640 --> 00:19:35.720
+which we'll just come back over here.
+
+00:19:35.720 --> 00:19:37.640
+And I'm going to go back over here to chat GPT.
+
+00:19:37.640 --> 00:19:41.920
+And we're going to create a quick little simple prompt that we can then go use the copy and
+
+00:19:41.920 --> 00:19:43.720
+paste into AI studio.
+
+00:19:43.720 --> 00:19:44.720
+Okay.
+
+00:19:44.720 --> 00:19:46.920
+So if we come up here and read what I wrote, I said, last I want you to build a webinar,
+
+00:19:46.920 --> 00:19:47.920
+sales page.
+
+00:19:47.920 --> 00:19:50.120
+The page is going to offer 997 webinar offer.
+
+00:19:50.120 --> 00:19:52.440
+And I said model this sales page right here.
+
+00:19:52.440 --> 00:19:54.680
+And we'll kind of see that here in just a second.
+
+00:19:54.680 --> 00:19:59.720
+And then I want to have a two step order form 997 or three monthly payments of 367.
+
+00:19:59.720 --> 00:20:03.120
+And as the page is building on AI studio, I'm going to want to break this down.
+
+00:20:03.120 --> 00:20:07.840
+And also what the offer is and why I do those different things on the offer.
+
+00:20:07.840 --> 00:20:10.400
+So I'm just going to come over here, copy and paste this.
+
+00:20:10.400 --> 00:20:14.560
+And then we're going to break that all down while AI studio is building this all out.
+
+00:20:14.560 --> 00:20:17.040
+Because it takes a minute or two for it to build it out.
+
+00:20:17.040 --> 00:20:19.160
+And so I just want to maximize our time together.
+
+00:20:19.160 --> 00:20:20.160
+Okay.
+
+00:20:20.160 --> 00:20:21.960
+So while this is building out, I want to jump back over here.
+
+00:20:21.960 --> 00:20:22.960
+So the offer.
+
+00:20:22.960 --> 00:20:23.960
+Okay.
+
+00:20:23.960 --> 00:20:27.320
+So when I first started running webinars, I thought, oh, I'm going to sell an annual
+
+00:20:27.320 --> 00:20:30.160
+plan for 997 dollars, $1,000.
+
+00:20:30.160 --> 00:20:31.920
+So I could get more revenue coming in.
+
+00:20:31.920 --> 00:20:35.560
+And so I could help fund the development of my business plus subsides, add costs and
+
+00:20:35.560 --> 00:20:37.600
+just bring in more revenue, right?
+
+00:20:37.600 --> 00:20:42.160
+However, after a little bit of doing that, I was like, man, that's a long time before
+
+00:20:42.160 --> 00:20:43.800
+we see rebuilds 12 months.
+
+00:20:43.800 --> 00:20:45.520
+I don't have that type of runway.
+
+00:20:45.520 --> 00:20:48.320
+So we cut the 12 months down to six months.
+
+00:20:48.320 --> 00:20:49.320
+Guess what?
+
+00:20:49.320 --> 00:20:51.360
+Convergence did not change.
+
+00:20:51.360 --> 00:20:54.880
+And then I was like, man, we actually would be really nice to have rebuilding happen even
+
+00:20:54.880 --> 00:20:55.880
+sooner.
+
+00:20:55.880 --> 00:20:59.900
+But the six months and half again, down to three months, and we would give a three month
+
+00:20:59.900 --> 00:21:03.160
+unlimited account access to the software.
+
+00:21:03.160 --> 00:21:06.240
+And that the conversions stayed the same once again.
+
+00:21:06.240 --> 00:21:10.360
+So what I like to do in the offer, if I'm going through and selling my white labeled
+
+00:21:10.360 --> 00:21:15.040
+real estate SaaS offer, I have three months unlimited access to the software.
+
+00:21:15.040 --> 00:21:18.080
+Now usually like to have like an unlimited leads like digital course.
+
+00:21:18.080 --> 00:21:22.400
+It's like for real estate, I have like how to generate buyer leads, seller leads, and
+
+00:21:22.480 --> 00:21:23.840
+these are all different modules, right?
+
+00:21:23.840 --> 00:21:27.800
+And showing the templates, the scripts, and showing how to go through and generate these
+
+00:21:27.800 --> 00:21:32.640
+leads inside of the white labeled high level account, open house leads, and all the different
+
+00:21:32.640 --> 00:21:34.240
+types of leads.
+
+00:21:34.240 --> 00:21:38.960
+Along with that, prebuilt templates and scripts, you want to be able to remove friction.
+
+00:21:38.960 --> 00:21:42.800
+So as you're creating your value stack for your offer, you're not just throwing crap
+
+00:21:42.800 --> 00:21:45.000
+in to throw crap in, okay?
+
+00:21:45.000 --> 00:21:50.240
+You're throwing things in to simplify things for them to make them things go faster, made
+
+00:21:50.240 --> 00:21:54.080
+more efficient to cost less or make them more money.
+
+00:21:54.080 --> 00:21:55.080
+Okay?
+
+00:21:55.080 --> 00:21:59.080
+So as you're going through and thinking about that, so the leads, the digital leads course,
+
+00:21:59.080 --> 00:22:00.920
+okay, that's great.
+
+00:22:00.920 --> 00:22:04.520
+But how can we make it faster, simpler, easier, better for them?
+
+00:22:04.520 --> 00:22:08.920
+And that is through prebuilt templates and scripts, a private community, a lot of realtors
+
+00:22:08.920 --> 00:22:13.280
+and depending on the market, they like to network with each other, weekly coaching.
+
+00:22:13.280 --> 00:22:18.280
+And then one spin that I did on this was the first time I was like, man, I got a boost
+
+00:22:18.280 --> 00:22:19.280
+conversions.
+
+00:22:19.360 --> 00:22:25.120
+So I was like, I'm going to do more of like a, so I thought I'm going to do more of
+
+00:22:25.120 --> 00:22:28.600
+an urgency play and say, hey, I'm going to do a done for you, set up for the first 10
+
+00:22:28.600 --> 00:22:30.760
+people you get started right here live on the webinar.
+
+00:22:30.760 --> 00:22:32.880
+And the craziest thing happened.
+
+00:22:32.880 --> 00:22:35.680
+No, what?
+
+00:22:35.680 --> 00:22:39.720
+My conversion rates actually did not change and I was shocked to that.
+
+00:22:39.720 --> 00:22:44.240
+And I was like, wait, we're doing a done for you, set up to get your first lead campaign
+
+00:22:44.240 --> 00:22:45.240
+set up.
+
+00:22:45.240 --> 00:22:48.400
+And only the first 10, like why are not more people buying?
+
+00:22:48.400 --> 00:22:54.000
+And then I realized I'm not speaking in the lingo of a realtor.
+
+00:22:54.000 --> 00:22:57.880
+So they thought a done for you set up of a lead campaign to like, what does that even
+
+00:22:57.880 --> 00:22:58.880
+mean?
+
+00:22:58.880 --> 00:23:04.080
+And then I switched the language that I was using and I said, hey, for the first 10 people,
+
+00:23:04.080 --> 00:23:07.660
+when you get started right now, we're going to set up your campaign and help you start
+
+00:23:07.660 --> 00:23:11.320
+generating your first 15 leads every single month.
+
+00:23:11.320 --> 00:23:15.080
+And so when it was like, okay, we're going to set your first lead campaign.
+
+00:23:15.080 --> 00:23:16.920
+They didn't know what that was actually going to do for them.
+
+00:23:16.920 --> 00:23:21.160
+And I said, hey, we're going to get a 15 exclusive leads every single month for you.
+
+00:23:21.160 --> 00:23:25.080
+That is what the lead campaign set up was actually going to do for them.
+
+00:23:25.080 --> 00:23:27.640
+That skyrocketed our conversions.
+
+00:23:27.640 --> 00:23:31.160
+So that's where I kind of put into that little prompt right there.
+
+00:23:31.160 --> 00:23:32.160
+Let's check back.
+
+00:23:32.160 --> 00:23:33.160
+Let's see how it looks.
+
+00:23:33.160 --> 00:23:37.760
+Bill Reale state lead generation, follow up system that helps you generate more opportunities.
+
+00:23:37.760 --> 00:23:40.080
+I probably tweaked the lingo here a little bit.
+
+00:23:40.080 --> 00:23:45.720
+But overall, this page, let's see, it's looking pretty good.
+
+00:23:45.720 --> 00:23:49.240
+So it's got the breakdown of three months of limited lead generation training, prebuilt
+
+00:23:49.240 --> 00:23:53.880
+template scripts, private community, weekly coaching, coaching sessions, implementation
+
+00:23:53.880 --> 00:23:54.880
+assistance.
+
+00:23:54.880 --> 00:23:59.920
+And so you can see right here, 997 or three payments of 367 to break it down, make it
+
+00:23:59.920 --> 00:24:00.920
+a little bit easier.
+
+00:24:00.920 --> 00:24:05.440
+The nice thing about this is because we're giving them three months access to the software.
+
+00:24:05.440 --> 00:24:10.280
+If they chose this, which 60 to 65% of people on the webinar that we're buying did choose
+
+00:24:10.280 --> 00:24:11.960
+this option.
+
+00:24:11.960 --> 00:24:16.480
+They kind of got used to that monthly recurring payment right out of the gate.
+
+00:24:16.480 --> 00:24:19.120
+And so then they do the first three months payments.
+
+00:24:19.120 --> 00:24:23.760
+And then after that, the three months access was done and say they roll into our 199 per
+
+00:24:23.760 --> 00:24:25.160
+month software plan.
+
+00:24:25.160 --> 00:24:28.240
+Obviously, the goal was to help them see results in those first three months.
+
+00:24:28.240 --> 00:24:30.000
+They wanted to stay on board.
+
+00:24:30.000 --> 00:24:33.960
+But that's where we would go through and sell it for $1,000 so we could stack more value
+
+00:24:33.960 --> 00:24:35.640
+on the front and offer.
+
+00:24:35.640 --> 00:24:38.520
+And overall, this page is looking great.
+
+00:24:38.520 --> 00:24:43.360
+I like to have a big testimonial wall when you're selling a $1,000 program and you're
+
+00:24:43.360 --> 00:24:47.000
+hoping to make sales without even having to get onto a sales call.
+
+00:24:47.000 --> 00:24:49.000
+And so that is where you want to have.
+
+00:24:49.000 --> 00:24:50.880
+Honestly, this is a start.
+
+00:24:50.880 --> 00:24:53.000
+Actually, that's a good amount.
+
+00:24:53.000 --> 00:24:55.680
+But you want to have as many testimonials as possible.
+
+00:24:55.680 --> 00:24:58.640
+And if you're brand new, just getting started, don't worry.
+
+00:24:58.640 --> 00:25:00.800
+Start with what you've got and kind of build from there.
+
+00:25:00.800 --> 00:25:04.160
+And then the free last questions, this is going to be crucial as well.
+
+00:25:04.160 --> 00:25:08.680
+So you want to be able to go through and have everything listed out.
+
+00:25:08.680 --> 00:25:11.960
+I see this, the secure checkout, the two-step opt-in form.
+
+00:25:11.960 --> 00:25:13.080
+I'm loving this.
+
+00:25:13.080 --> 00:25:16.240
+We then want to go through and make sure this is connected to our CRM.
+
+00:25:16.240 --> 00:25:18.880
+So we want to connect that and then go from there.
+
+00:25:18.880 --> 00:25:19.880
+All right.
+
+00:25:19.880 --> 00:25:23.000
+So anyway, guys, I know this is a very in-depth, detailed video.
+
+00:25:23.000 --> 00:25:25.640
+I hope it was helpful as far as breaking down this model.
+
+00:25:25.640 --> 00:25:29.480
+Honestly, I don't know if anyone else on the high level affiliate side or even the high
+
+00:25:29.480 --> 00:25:35.320
+level SaaS side who has built out a scalable SaaS business with this model.
+
+00:25:35.320 --> 00:25:39.360
+Like I said, I built this, my company to over 15,000 paying clients.
+
+00:25:39.360 --> 00:25:41.160
+I was the only sales person.
+
+00:25:41.160 --> 00:25:42.880
+I was the only marketing person.
+
+00:25:42.880 --> 00:25:44.840
+I was building the entire thing.
+
+00:25:44.840 --> 00:25:45.840
+And guess what?
+
+00:25:45.840 --> 00:25:47.960
+I didn't feel like I was strapped for time.
+
+00:25:47.960 --> 00:25:52.520
+I was doing one live sales call every single week for 90 minutes.
+
+00:25:52.520 --> 00:25:58.280
+And then we were bringing in 50, 60, 70 clients sometimes with our down sell offer, which I'll
+
+00:25:58.280 --> 00:26:00.520
+be showing you guys in tomorrow's video.
+
+00:26:00.520 --> 00:26:03.200
+So make sure you subscribe, tune in for that.
+
+00:26:03.200 --> 00:26:04.840
+And with that said, I'll see you in the next video.
+

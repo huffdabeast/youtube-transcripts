@@ -1,0 +1,533 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.440
+The first Go High Level AI agent that I ever built took less than 10 minutes to set up.
+
+00:00:05.440 --> 00:00:09.920
+And it's the same exact AI setup that you can turn around and then sell to clients for as much
+
+00:00:09.920 --> 00:00:15.760
+as 500 to even a thousand dollars per month. So in this video, I want to show you exactly how to build
+
+00:00:15.760 --> 00:00:21.040
+these AI agents inside of Go High Level, how to set them up so that they can help you generate
+
+00:00:21.040 --> 00:00:26.320
+more leads for your business as well as your clients' businesses and help you respond to these
+
+00:00:26.320 --> 00:00:31.680
+leads faster and be able to book more appointments from the leads that you're generating.
+
+00:00:31.680 --> 00:00:35.280
+I even want to give you my copy and paste prompts that you just copy,
+
+00:00:35.280 --> 00:00:41.760
+throw in a chat GPT with the link to the business's website and it's going to create all the custom
+
+00:00:41.760 --> 00:00:47.920
+instructions and knowledge base in just a matter of seconds that you're already set up and ready to go.
+
+00:00:47.920 --> 00:00:52.240
+So if you want to see the full setup plus the templates and scripts, everything that you can copy and
+
+00:00:52.240 --> 00:00:57.680
+paste and get running as soon as today, make sure you smash the like button, drop a comment down
+
+00:00:57.680 --> 00:01:02.720
+below so I can hook you with the private link to unlock my courses, template scripts, everything 100%
+
+00:01:02.720 --> 00:01:07.680
+for free and make sure you stick around with me here to the end of this video so you can see everything
+
+00:01:07.680 --> 00:01:12.080
+step by step. So now that you've used smash the like button and dropped a comment down below,
+
+00:01:12.080 --> 00:01:17.360
+let me jump on my computer so I can show you how to set all of this up. Let me show you guys first
+
+00:01:17.360 --> 00:01:21.760
+how you're going to go about getting your first client. So what I like to do, I like the leverage
+
+00:01:21.760 --> 00:01:27.440
+Google Maps. People go to Google Maps, people go to Google to find local service businesses. So
+
+00:01:27.440 --> 00:01:33.280
+like yesterday, I actually had a plumber come over to my house because my daughter dropped her toothbrush
+
+00:01:33.280 --> 00:01:38.080
+down the toilet flush the toilet. We had no idea why the toilet wasn't working. I kept getting
+
+00:01:38.080 --> 00:01:42.880
+plungers and all these different gadgets and then I had to go reach out to a plumber. So for this
+
+00:01:42.880 --> 00:01:51.440
+example, we're going to use a plumber and we'll say Bentonville Arkansas right here. The home of
+
+00:01:51.440 --> 00:01:56.320
+Walmart right. So what it's going to do is pop up all the different plumbers in this specific area.
+
+00:01:56.320 --> 00:02:00.000
+So we can go through and find plumbers and we're just going to zoom in a little bit and we're
+
+00:02:00.000 --> 00:02:04.640
+going through and we want to find one of these plumbers that does not have a website. A lot of
+
+00:02:04.640 --> 00:02:10.240
+these small businesses will have a website. However, there are still so many businesses that do not
+
+00:02:10.240 --> 00:02:15.600
+have a website and Jerry's plumbing right here is one I actually know that does not have a website
+
+00:02:15.600 --> 00:02:19.680
+and so what we see right here, you can go down and see right here out of website. Don't have anything
+
+00:02:19.760 --> 00:02:24.640
+on there. However, they've got seven five star reviews. So more than likely they provide an
+
+00:02:24.640 --> 00:02:30.080
+awesome service. So what I'm going to be doing here is I'm going to reach out to Jerry's plumbing
+
+00:02:30.080 --> 00:02:35.120
+and I'm going to say, Hey, I see you don't have a website. I built a website for you. Would you
+
+00:02:35.120 --> 00:02:38.880
+like me to send it over to you to see what it looks like, right? And you might be thinking, Well,
+
+00:02:38.880 --> 00:02:42.480
+Jason, I don't know how to build a website. I don't know how to code. I don't know how to do any
+
+00:02:42.480 --> 00:02:46.720
+website design or anything like that. And don't worry. I don't know how to do any of that either.
+
+00:02:46.720 --> 00:02:51.280
+And you actually don't even have to build out the website until you get somebody saying yes.
+
+00:02:51.280 --> 00:02:56.720
+But let's say that Jerry right here says, Yes, I am interested in having a website. I want to see
+
+00:02:56.720 --> 00:03:00.640
+what website you built. All we're going to do is come over here to their Google My Business Profile.
+
+00:03:00.640 --> 00:03:06.000
+We're going to click on share right here and we're just going to copy a link to their Google My Business
+
+00:03:06.000 --> 00:03:09.440
+Profile. And then I'm going to just come over here and I'm going to paste it. I've already got it
+
+00:03:09.440 --> 00:03:13.920
+pasted right here, but into this prompt that I have create a professional design website for a plumber
+
+00:03:13.920 --> 00:03:17.360
+make sure it's optimized to convert website visitors and the leads, make sure you have a website
+
+00:03:17.360 --> 00:03:21.280
+chat widget. Here's the Google My Business Profile link to grab their information. I'm just going
+
+00:03:21.280 --> 00:03:26.400
+to literally copy and paste all of this. And I'm going to come in here to this AI software. And in
+
+00:03:26.400 --> 00:03:30.880
+here, we've got two amazing tools. We've got one called ask AI, which we're going to be using here
+
+00:03:30.880 --> 00:03:35.280
+in just a second. And then we have this brand new AI studio. So this is what we're going to be using
+
+00:03:35.280 --> 00:03:38.880
+here. And if you're watching this and be like, Hey, Jason, how do you actually go through and get
+
+00:03:38.880 --> 00:03:44.160
+access? Because this is brand new literally was just released to me about 10 minutes ago. So all
+
+00:03:44.160 --> 00:03:48.800
+you got to do is come over here to settings. And then you go over here to labs labs are kind of the
+
+00:03:48.800 --> 00:03:53.280
+new features that are being released. Then you see a lot of these different features that are
+
+00:03:53.280 --> 00:03:59.360
+being released right now. So we're going to scroll down. We want to go find ask AI. You can see
+
+00:03:59.360 --> 00:04:03.200
+there's a lot of features being released ask AI. We want to make sure that's turned on. And then we
+
+00:04:03.200 --> 00:04:08.400
+go down a little bit more. And we got AI studio turned that one on as well. And like I said,
+
+00:04:08.400 --> 00:04:13.520
+this one was literally just released just a few minutes ago. So this is brand new. There's not
+
+00:04:13.520 --> 00:04:18.160
+anything that you have ever seen. This will absolutely blow your mind. And as far as which software
+
+00:04:18.160 --> 00:04:22.720
+I'm using, if you guys want to go through and get started with an extended 30 day free trial,
+
+00:04:22.720 --> 00:04:27.840
+plus my full course template scripts, everything from A to Z, there's going to be a link down the
+
+00:04:27.840 --> 00:04:31.520
+description or just drop a comment down below. I'll share with you the private link to get everything
+
+00:04:31.520 --> 00:04:36.720
+100% for free. So we're going to come over here to this AI studio. And this is crazy. This is
+
+00:04:36.720 --> 00:04:42.080
+imagine like a chat GPT, but you can tell it, hey, go build a website. Go do this. Go do that.
+
+00:04:42.080 --> 00:04:46.960
+Whatever you wanted to do. But because this is internal inside of this all-in-one sales and
+
+00:04:46.960 --> 00:04:52.560
+marketing software, it will be able to go through and use all those tools inside of that software.
+
+00:04:52.560 --> 00:04:57.280
+It just natively. So it can go and build the websites, build sales funnels, email marketing campaigns,
+
+00:04:57.280 --> 00:05:01.200
+text marketing campaigns, social media posts. And we're going to do all that right here in this
+
+00:05:01.200 --> 00:05:05.760
+video because I want to show you guys how simple and easy this is, even if you're getting started as
+
+00:05:05.760 --> 00:05:10.240
+a complete beginner and you have no experience with any of this. So I've got this prompt. I already
+
+00:05:10.240 --> 00:05:15.440
+copied it, right? I'm just going to paste in right here. Okay? So now what this is going to go through
+
+00:05:15.440 --> 00:05:21.200
+and do if you guys have ever used cloud like co work or cloud code, it is literally going to go in
+
+00:05:21.200 --> 00:05:26.160
+and build this all out. But the cool thing that I like as opposed to like a cloud code or cloud
+
+00:05:26.160 --> 00:05:32.800
+code work is those platforms, they need access to your desktop, to your computer, all the files on
+
+00:05:32.800 --> 00:05:37.840
+your computer, which can be honestly kind of a bit of a privacy risk. And that's why so many
+
+00:05:37.840 --> 00:05:44.480
+people are buying Mac minis right now. However, the cool thing about this is it's only using this
+
+00:05:44.480 --> 00:05:50.640
+specific software account. So it's not going into any of your local files on your computer or anything
+
+00:05:50.640 --> 00:05:56.560
+like that is just using the prebuilt tools that are already inside of the software. Now this is
+
+00:05:56.560 --> 00:05:59.680
+just going to take a couple of minutes. So a pause right here and then I'll show you guys the
+
+00:05:59.760 --> 00:06:04.480
+exact product once it is all done. But it's cool. You can see the step by step of what is doing. So
+
+00:06:04.480 --> 00:06:08.320
+it already feds the business from the Google Maps link that I gave it, right? It's sending up a
+
+00:06:08.320 --> 00:06:12.800
+plumbing design system and generate images, building lead optimized landing page with the chat widget
+
+00:06:12.800 --> 00:06:17.920
+like a asset to then it's going to update the SEO made it metadata and finalize the app and have
+
+00:06:17.920 --> 00:06:24.000
+it all 100% ready for us to then once that plumber comes back and says, yes, I want to see it. We're
+
+00:06:24.000 --> 00:06:28.720
+just going to be able to send them a link. And that is the initial starts of the conversation where we
+
+00:06:28.720 --> 00:06:33.120
+can start charging on a monthly ongoing basis and we'll get to more of that here in just a minute.
+
+00:06:33.120 --> 00:06:39.040
+All right guys, check this out. It just built this entire website for me and you can see everything.
+
+00:06:39.040 --> 00:06:43.600
+It looks beautiful. And it's even got their information. So it's got their address, phone number,
+
+00:06:43.600 --> 00:06:50.880
+their hours that they're open, five star Google rating, pull that all from Google. This looks amazing.
+
+00:06:50.880 --> 00:06:53.760
+Okay. So now what I'm going to do is I'm going to come over here. I'm just going to close
+
+00:06:58.720 --> 00:07:12.640
+this. To this business owner that said, yes, I'm interested. Let me check out what you got. Guys,
+
+00:07:12.640 --> 00:07:19.040
+this looks amazing. I have never done any website design before. I'm absolutely horrible at it. But
+
+00:07:19.040 --> 00:07:24.000
+this, this looks like a professional website designer went through and did all this. Now we just
+
+00:07:24.000 --> 00:07:29.840
+hit publish right here. It says your app is live. You can go through and add a custom URL later.
+
+00:07:29.840 --> 00:07:34.080
+But that's after they actually become a client. So now we're going to come over here and we're just
+
+00:07:34.080 --> 00:07:41.040
+going to copy and paste this into a new tab and look at this. This is all done. All set up and
+
+00:07:41.040 --> 00:07:46.400
+ready to go to go and show our potential new client. Now let me show you this next step. It's
+
+00:07:46.400 --> 00:07:50.480
+absolutely crazy. Now if we come back over here, you can see we can add a contact form. And the footer
+
+00:07:51.440 --> 00:07:55.280
+has all these suggestions that they do. They prove the website has all the credit
+
+00:07:55.280 --> 00:07:59.440
+and dedication service page. I don't care. I'm looks like it's got what I'm going to do. However,
+
+00:07:59.440 --> 00:08:05.120
+is I'm going to tell it to a price changes. I'm going to publish with the information
+
+00:08:05.120 --> 00:08:10.480
+of the website and who my business is. So what that is is as we come over here, I told it to add
+
+00:08:10.480 --> 00:08:15.680
+a little chat widget. And this is to help go through and convert more of the website visitors into
+
+00:08:15.680 --> 00:08:20.160
+actual leads and sales conversations. The only thing is is we haven't trained this to go
+
+00:08:20.160 --> 00:08:24.960
+through and respond to customers the right way with the proper information. So I'm going to do is
+
+00:08:24.960 --> 00:08:29.280
+I'm going to come back over here to this agent studio. And I'm just going to copy and paste this
+
+00:08:29.280 --> 00:08:32.960
+and hit enter. So right now it's going through and it's creating the chat widget with all the
+
+00:08:32.960 --> 00:08:38.000
+AI logic going through and pulling all the information that it can go and respond to new people
+
+00:08:38.000 --> 00:08:41.760
+that are going to be visiting this website right here. All right. So it looks like it finishes as
+
+00:08:41.760 --> 00:08:46.800
+I extract the status chat widget component acts as a mock AI agent. It can now respond to common
+
+00:08:46.800 --> 00:08:51.520
+questions about Jerry's plumbing such as our service location contact information using
+
+00:08:51.520 --> 00:08:56.720
+internal knowledge base. Now let's just hit publish and I want to just test this and make sure
+
+00:08:56.720 --> 00:09:01.040
+that it actually is working like we would hope it would. Okay. So now we're going to copy this.
+
+00:09:02.080 --> 00:09:08.640
+And so we'll paste this in right here. We're coming down to the chat widget and say what days of
+
+00:09:08.640 --> 00:09:16.080
+the week are you open. And we'll see the AI now is pulled in and is responding to this. We're open
+
+00:09:16.080 --> 00:09:22.160
+Thursday 730 AM to 430 PM. We also offer emergency services. Okay. So it's the same Thursday because
+
+00:09:22.160 --> 00:09:28.880
+it is Thursday today when I'm filming this. And so we might be able to say what's the best phone
+
+00:09:28.880 --> 00:09:35.840
+number to contact you. So it's going through pulling from the database. All right. 479 409 which
+
+00:09:35.840 --> 00:09:44.640
+looks like it accurate with right here. And then we say what services do you actually offer?
+
+00:09:45.600 --> 00:09:50.400
+Going through pulling from the database. We specialize in emergency repairs, water heater installation,
+
+00:09:50.400 --> 00:09:56.400
+drain, drain sheet cleaning, blah, blah, blah. What do you need help with? Guys, this is absolutely
+
+00:09:56.400 --> 00:10:00.880
+insane. I'm literally just prompting it telling it what to do. It's already built out the whole
+
+00:10:00.880 --> 00:10:05.360
+entire AI agent, built out the whole website. Now hope you're seeing this. If you're a total beginner,
+
+00:10:05.360 --> 00:10:10.480
+you've never done any of this before. Literally the only thing that is stopping you is reaching out
+
+00:10:10.480 --> 00:10:15.040
+to these business owners and saying, Hey, I love to help you get set up with the professionally
+
+00:10:15.040 --> 00:10:20.480
+design website. And if you're looking at this right now, knowing that I have zero design skills,
+
+00:10:20.480 --> 00:10:26.800
+whatsoever, I hope you can feel confident. If I just give you these copy and paste prompts that
+
+00:10:26.800 --> 00:10:33.840
+you can go in and make a website that looks beautiful like this has a chat AI widget just like this.
+
+00:10:33.840 --> 00:10:39.440
+And so the business is already seen immense value. Now one more thing I wanted to show you guys
+
+00:10:39.440 --> 00:10:46.000
+because this is absolutely crazy. A huge thing with these small local businesses is they want more
+
+00:10:46.000 --> 00:10:52.640
+exposure. They want more leads. And so a way that we can do that is by posting on social media.
+
+00:10:53.200 --> 00:10:57.440
+And historically, you would go through and you would create the content. There were some easy
+
+00:10:57.440 --> 00:11:02.560
+programs like Canva that you'd create the content and then you'd be able to schedule out those
+
+00:11:02.560 --> 00:11:07.040
+posts on some social media scheduler. But you still had to take the post and you had to
+
+00:11:07.040 --> 00:11:11.680
+let a man you go through and schedule it and you could schedule over the next seven days, 14 days,
+
+00:11:11.680 --> 00:11:18.640
+30 days, whatever it was. However, now with AI, we can just use a simple prompt that I have down
+
+00:11:18.640 --> 00:11:23.680
+right here, create a full week's worth of social media content for my business that I can post to
+
+00:11:23.680 --> 00:11:28.880
+Facebook and Instagram. I want you to create two posts per day and schedule them from 10 a.m.
+
+00:11:28.880 --> 00:11:34.320
+and 4 p.m. for Jerry's plumbing business. And let me just add this link right here because what we're
+
+00:11:34.320 --> 00:11:41.040
+going to do on this one, instead of using this AI studio, I'm actually going to go through and
+
+00:11:41.040 --> 00:11:46.320
+use another tool that's in here. So we're just going to hit publish right here. It should be good
+
+00:11:46.320 --> 00:11:52.400
+to go. We're going to come back here. We're going to use one called ask AI. So over here, ask AI,
+
+00:11:52.400 --> 00:11:57.680
+very similar to like a chat GPT prompting and we just say, Hey, I want you to create a full
+
+00:11:57.680 --> 00:12:01.280
+week's worth of social media content. Blah blah blah. Here's the link. And we're just going to
+
+00:12:01.280 --> 00:12:07.200
+hit let's go and we're going to let the AI go to work, create all the posts, schedule them all out
+
+00:12:07.200 --> 00:12:12.320
+for us. And all we have to do at the end is just say, Yep, looks good. Let's approve it. All right,
+
+00:12:12.320 --> 00:12:17.280
+guys, looks like it has wrapped us up and you can see it is going through and giving me the images
+
+00:12:17.280 --> 00:12:22.240
+plus all the content. If I can scroll up, it's kind of creating this as we're going on the fly.
+
+00:12:22.240 --> 00:12:27.200
+But it's got the full post of what it's saying in the written text plus the image and it's going
+
+00:12:27.280 --> 00:12:31.920
+through and saying, Okay, here's the one April 1st, the five stars on there, Jerry's team arrived
+
+00:12:31.920 --> 00:12:36.400
+within hours and fixed our burst pipe. That was from an actual customer review from the
+
+00:12:36.400 --> 00:12:41.440
+Guma business profile link, which is super cool. You've got all the images with the plumber. And so
+
+00:12:41.440 --> 00:12:46.160
+it has gone through and done all of this. Okay, so now you can see a full schedule summary of the
+
+00:12:46.160 --> 00:12:50.800
+next seven days. There's 14 posts because obviously two posts per day and we can go through and we
+
+00:12:50.800 --> 00:12:56.240
+can see every single post that is in here. Right. Now if we scroll down, this is obviously just a
+
+00:12:56.240 --> 00:13:00.640
+demo account. So it says next steps go live, connect Jerry's plumbing Facebook page, connect
+
+00:13:00.640 --> 00:13:04.400
+their Instagram account, a ground account, then then just come back here and say schedule all posts.
+
+00:13:04.400 --> 00:13:09.600
+So this is a demo count. So I don't have their page and Instagram account connected. But if they
+
+00:13:09.600 --> 00:13:15.440
+were connected, all I would just do is come over here and just say schedule posts and just hit enter
+
+00:13:15.440 --> 00:13:20.880
+and it would schedule them all for me because inside of the software as well, there is a social
+
+00:13:20.880 --> 00:13:26.480
+media planner that you can go through and schedule all of your posts. You can connect the clients
+
+00:13:26.480 --> 00:13:30.880
+Facebook business pages, you can connect their Instagram accounts, TikTok, all their different
+
+00:13:30.880 --> 00:13:37.760
+platforms, X. And so these are just three simple use cases of using AI. And I hope you can see the
+
+00:13:37.760 --> 00:13:42.160
+value from going through and building the website completely from scratch. All you need is the
+
+00:13:42.160 --> 00:13:47.680
+Google My Business Profile Share link. Throw it in there. Use that same share link to start a
+
+00:13:47.680 --> 00:13:53.440
+conversation AI chatbot that this is going to be massive value for these small business owners.
+
+00:13:53.440 --> 00:13:58.080
+In another video, if you guys want, you drop a comment down below. I can show you how to use
+
+00:13:58.080 --> 00:14:05.680
+the same AI technology to create a voice AI agent. So if they call into this phone number right here,
+
+00:14:05.680 --> 00:14:10.160
+and let's say Jerry or someone on his team is unable to answer because they're out at an
+
+00:14:10.160 --> 00:14:16.080
+appointment and they're super busy, which statistics show that 62% of calls going into small businesses
+
+00:14:16.080 --> 00:14:21.360
+go unanswered. And so instead of that call just going to the voicemail and then them just calling
+
+00:14:21.360 --> 00:14:27.040
+the next business owner, we can set up a voice AI agent that's able to take those calls. It's
+
+00:14:27.040 --> 00:14:31.840
+trained on all the same information that this conversation AI bot is trained on and we'll be able
+
+00:14:31.840 --> 00:14:38.160
+to automatically book an appointment with that client on Jerry's calendar, which is absolutely
+
+00:14:38.160 --> 00:14:44.480
+mind blowing. So once again, guys, this is totally changing the game of how AI is used for small
+
+00:14:44.480 --> 00:14:48.560
+businesses. I hope you guys can see even as a total beginner, you can go through and start your
+
+00:14:48.560 --> 00:14:53.600
+own business from the comfort of your own home. And you don't need any prior tech skills. You don't
+
+00:14:53.600 --> 00:14:59.040
+need to know piece of like AI guru because AI is doing the heavy lifting for you. You just tell
+
+00:14:59.040 --> 00:15:03.680
+it what to do. And if you guys smash like button, drop a comment down below. I'll hook you up with
+
+00:15:03.680 --> 00:15:10.560
+my full step by step course, a 30 day extended trial to this AI software plus a live boot camp.
+
+00:15:10.560 --> 00:15:17.920
+And I'll get you all of these prompts plus more prompts 100% for free. So you know exactly
+
+00:15:17.920 --> 00:15:23.600
+what to tell the AI to optimize it to get the best results for these clients. So anyway,
+
+00:15:23.600 --> 00:15:35.440
+guys, thanks so much for watching and I'll see you in the next video.
+

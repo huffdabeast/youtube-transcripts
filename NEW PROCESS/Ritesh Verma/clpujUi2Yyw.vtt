@@ -1,0 +1,1355 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:03.280
+The smartest business owners aren't
+
+00:00:01.600 --> 00:00:05.200
+hiring employees anymore. They are
+
+00:00:03.280 --> 00:00:07.040
+building AI employees that never sleep
+
+00:00:05.200 --> 00:00:08.800
+using Cloud Code. So, in this video, I'm
+
+00:00:07.040 --> 00:00:11.920
+going to show you step by step how to
+
+00:00:08.800 --> 00:00:13.679
+use Cloud Code to build these 247 never
+
+00:00:11.920 --> 00:00:15.839
+sleeping AI employees [music] that can
+
+00:00:13.679 --> 00:00:17.840
+do market research, handle your inboxes,
+
+00:00:15.839 --> 00:00:19.920
+messages, land key partnerships, close
+
+00:00:17.840 --> 00:00:22.640
+deals, [music] and so much more. One
+
+00:00:19.920 --> 00:00:24.640
+person, no team, just you, Cloud Code,
+
+00:00:22.640 --> 00:00:29.119
+and your fleet of AI employees. All
+
+00:00:24.640 --> 00:00:31.679
+right. So, we're going to build a skill
+
+00:00:29.119 --> 00:00:36.040
+to analyze YouTube videos of our
+
+00:00:31.679 --> 00:00:36.040
+competitors or my competitors at least.
+
+00:00:58.559 --> 00:01:03.840
+Yeah, let me say
+
+00:01:00.719 --> 00:01:07.960
+do the following. So, build a skill to
+
+00:01:03.840 --> 00:01:07.960
+command research to do the following.
+
+00:01:08.000 --> 00:01:16.560
+analyze my last, let's say,
+
+00:01:12.880 --> 00:01:19.560
+7 days of video
+
+00:01:16.560 --> 00:01:19.560
+views,
+
+00:01:22.880 --> 00:01:27.240
+likes, [music] and engagement.
+
+00:01:36.000 --> 00:01:42.560
+analyze my competitors
+
+00:01:38.880 --> 00:01:45.560
+videos to see their
+
+00:01:42.560 --> 00:01:45.560
+performance.
+
+00:01:48.880 --> 00:01:53.840
+The side of what's working [music] for
+
+00:01:51.680 --> 00:01:57.240
+my content
+
+00:01:53.840 --> 00:01:57.240
+and there's
+
+00:01:59.119 --> 00:02:03.280
+recognize outliers cuz outliers is the
+
+00:02:02.320 --> 00:02:05.360
+biggest thing. If your YouTube video is
+
+00:02:03.280 --> 00:02:06.880
+doing like extraordinary well for
+
+00:02:05.360 --> 00:02:09.360
+whatever reason, you want to make more
+
+00:02:06.880 --> 00:02:13.560
+of that type of video. [music] Um,
+
+00:02:09.360 --> 00:02:13.560
+another thing that we can do is
+
+00:02:20.879 --> 00:02:25.466
+create
+
+00:02:22.400 --> 00:02:25.466
+a next [music]
+
+00:02:25.520 --> 00:02:28.520
+seven.
+
+00:02:30.480 --> 00:02:38.239
+create a next seven videos plan
+
+00:02:34.160 --> 00:02:43.319
+for my channel based off
+
+00:02:38.239 --> 00:02:43.319
+the research you have done
+
+00:02:48.991 --> 00:02:53.080
+[music] every day at
+
+00:02:54.800 --> 00:02:59.000
+run this at what 8 am
+
+00:03:00.720 --> 00:03:09.200
+send your findings
+
+00:03:04.159 --> 00:03:13.920
+in a HTML file
+
+00:03:09.200 --> 00:03:18.400
+and maybe PDF or PDF.
+
+00:03:13.920 --> 00:03:21.400
+Send it to my email
+
+00:03:18.400 --> 00:03:21.400
+reba.com.
+
+00:03:22.239 --> 00:03:26.640
+So, we're gonna have it. Click let's go
+
+00:03:24.800 --> 00:03:30.280
+and it's going to do all the work for us
+
+00:03:26.640 --> 00:03:30.280
+and it's going to be magical.
+
+00:03:33.200 --> 00:03:36.807
+I realized one thing I probably should
+
+00:03:34.640 --> 00:03:41.560
+give is my attribute video channel link.
+
+00:03:36.807 --> 00:03:41.560
+[music] So, let me go ahead and do that.
+
+00:03:48.720 --> 00:03:54.560
+Maybe I'll use
+
+00:03:51.920 --> 00:03:58.200
+um here I'll type it in.
+
+00:03:54.560 --> 00:03:58.200
+I'll list them
+
+00:04:01.760 --> 00:04:05.959
+AI business.
+
+00:04:14.080 --> 00:04:19.560
+Okay. So channel and name
+
+00:04:20.000 --> 00:04:29.000
+uh right here and then competitor
+
+00:04:24.639 --> 00:04:29.000
+channels missing my competitors.
+
+00:04:29.120 --> 00:04:32.400
+So it's like you're building an employee
+
+00:04:30.800 --> 00:04:34.080
+that's asking you, hey to make sure I
+
+00:04:32.400 --> 00:04:36.639
+can do my job properly, can you answer
+
+00:04:34.080 --> 00:04:38.880
+these questions? That's that's great,
+
+00:04:36.639 --> 00:04:42.680
+right? That makes everyone's life
+
+00:04:38.880 --> 00:04:42.680
+involved way easier.
+
+00:04:45.199 --> 00:04:52.960
+There's one channel. Let's see.
+
+00:04:50.000 --> 00:04:55.440
+And look at this skill it created.
+
+00:04:52.960 --> 00:04:58.639
+See working folder. So it's creating a
+
+00:04:55.440 --> 00:05:00.800
+skill and these skills we can use again
+
+00:04:58.639 --> 00:05:02.400
+and again. So you make a skill once, you
+
+00:05:00.800 --> 00:05:03.923
+can leverage that however many times you
+
+00:05:02.400 --> 00:05:05.919
+want for different use cases even
+
+00:05:03.923 --> 00:05:08.880
+[music] and that become very powerful
+
+00:05:05.919 --> 00:05:11.759
+and you can make like employees managers
+
+00:05:08.880 --> 00:05:14.000
+managers managers skip level the entire
+
+00:05:11.759 --> 00:05:16.000
+structure the entire employee structure.
+
+00:05:14.000 --> 00:05:17.678
+So this is pretty cool. Cloud code tried
+
+00:05:16.000 --> 00:05:18.240
+accessing and scraping the channels
+
+00:05:17.678 --> 00:05:20.639
+[music]
+
+00:05:18.240 --> 00:05:22.479
+from YouTube directly but it couldn't.
+
+00:05:20.639 --> 00:05:24.000
+So instead what it decided to do was it
+
+00:05:22.479 --> 00:05:25.680
+first started using social blade. It
+
+00:05:24.000 --> 00:05:28.080
+couldn't work for that either. [music]
+
+00:05:25.680 --> 00:05:30.240
+But then if you web search recent video
+
+00:05:28.080 --> 00:05:32.479
+content, it works. You can find the
+
+00:05:30.240 --> 00:05:33.919
+recent videos of a YouTuber. Despite the
+
+00:05:32.479 --> 00:05:36.000
+fact that direct access was being
+
+00:05:33.919 --> 00:05:38.240
+blocked, it worked around it like any
+
+00:05:36.000 --> 00:05:41.919
+smart employee would and was able to
+
+00:05:38.240 --> 00:05:43.440
+find a way a solution like that. Like AI
+
+00:05:41.919 --> 00:05:45.440
+is literally becoming smarter than
+
+00:05:43.440 --> 00:05:47.440
+people. Like you will not have to hire
+
+00:05:45.440 --> 00:05:49.840
+real employees. You can just hire AI
+
+00:05:47.440 --> 00:05:52.240
+employees.
+
+00:05:49.840 --> 00:05:54.320
+And boom. So we have that figured out.
+
+00:05:52.240 --> 00:05:56.639
+So now to set up the daily 8 a.m.
+
+00:05:54.320 --> 00:05:58.800
+schedule task. So that way every single
+
+00:05:56.639 --> 00:06:01.680
+morning when I wake up, I will see the
+
+00:05:58.800 --> 00:06:03.440
+entire research and a plan listed out
+
+00:06:01.680 --> 00:06:06.440
+for my next seven videos that I can
+
+00:06:03.440 --> 00:06:06.440
+create.
+
+00:06:23.179 --> 00:06:25.199
+>> [snorts]
+
+00:06:36.000 --> 00:06:41.120
+>> and now if you look at the research
+
+00:06:38.000 --> 00:06:42.400
+skill that it created see the HTML your
+
+00:06:41.120 --> 00:06:45.360
+weekly YouTube research report is ready
+
+00:06:42.400 --> 00:06:46.960
+here's what's inside and this is a HTML
+
+00:06:45.360 --> 00:06:48.400
+scaffolding
+
+00:06:46.960 --> 00:06:50.319
+and then it also says notes and data
+
+00:06:48.400 --> 00:06:51.600
+availability you doesn't always expose
+
+00:06:50.319 --> 00:06:52.560
+all metrics publicly here's how to
+
+00:06:51.600 --> 00:06:55.759
+handle gaps
+
+00:06:52.560 --> 00:06:57.919
+So, it's saying what you can do to
+
+00:06:55.759 --> 00:07:00.400
+figure out how to get past [music]
+
+00:06:57.919 --> 00:07:02.880
+some of the blockers that YouTube is
+
+00:07:00.400 --> 00:07:04.400
+doing. Um, always do your best to find
+
+00:07:02.880 --> 00:07:08.160
+out for estimating goals, insight, not
+
+00:07:04.400 --> 00:07:10.400
+perfection. I like that. X that out.
+
+00:07:08.160 --> 00:07:12.160
+You see it as web search as a connector,
+
+00:07:10.400 --> 00:07:13.680
+other skills, skill creator, PDF
+
+00:07:12.160 --> 00:07:15.840
+generation.
+
+00:07:13.680 --> 00:07:17.680
+Amazing. All right. So, now we can
+
+00:07:15.840 --> 00:07:21.360
+schedule the task. [music] So, let me go
+
+00:07:17.680 --> 00:07:24.319
+ahead and let's say click schedule. And
+
+00:07:21.360 --> 00:07:26.800
+boom, it's now scheduled. So, what we
+
+00:07:24.319 --> 00:07:30.120
+can do is I guess let it finish this
+
+00:07:26.800 --> 00:07:30.120
+part first.
+
+00:07:34.720 --> 00:07:40.160
+All right, there you go. And this is a
+
+00:07:36.160 --> 00:07:41.680
+research skill uh that we resaw anyways.
+
+00:07:40.160 --> 00:07:44.639
+And you can see right here, it's listing
+
+00:07:41.680 --> 00:07:46.960
+out everything I did like again a good
+
+00:07:44.639 --> 00:07:48.985
+employee would. And now what we can do
+
+00:07:46.960 --> 00:07:50.160
+is we can go to the schedule tasks
+
+00:07:48.985 --> 00:07:52.319
+[music] and you see all the scheduled
+
+00:07:50.160 --> 00:07:54.000
+tasks we have right now is just the one.
+
+00:07:52.319 --> 00:07:56.319
+You can run it right now to see the
+
+00:07:54.000 --> 00:07:59.440
+results or it'll run again regardless at
+
+00:07:56.319 --> 00:08:02.960
+8:02 a.m. tomorrow. So this is the
+
+00:07:59.440 --> 00:08:04.960
+report that the employee made and it
+
+00:08:02.960 --> 00:08:06.800
+looked for March 1st to March 8th. And
+
+00:08:04.960 --> 00:08:09.440
+you can see the different videos [music]
+
+00:08:06.800 --> 00:08:11.520
+the competitors have made and what is
+
+00:08:09.440 --> 00:08:12.960
+recommending for me to make based off of
+
+00:08:11.520 --> 00:08:15.759
+the competitors as well as my own
+
+00:08:12.960 --> 00:08:17.759
+channel. You see low outliers, high
+
+00:08:15.759 --> 00:08:20.240
+outliers, you see content patterns this
+
+00:08:17.759 --> 00:08:21.680
+week. Cloud code, see this is cloud code
+
+00:08:20.240 --> 00:08:23.840
+is going crazy right now and a lot of
+
+00:08:21.680 --> 00:08:26.319
+people are making videos on it. Um, lot
+
+00:08:23.840 --> 00:08:28.160
+a lot of people are sharing how to use
+
+00:08:26.319 --> 00:08:31.039
+cloud code as a way of business which is
+
+00:08:28.160 --> 00:08:32.719
+what my videos are more based around and
+
+00:08:31.039 --> 00:08:36.240
+you see the next seven videos plan
+
+00:08:32.719 --> 00:08:38.159
+generated high 5K month agent 45 minutes
+
+00:08:36.240 --> 00:08:39.839
+data back reason high priority
+
+00:08:38.159 --> 00:08:41.120
+competitor gap. So it breaks down
+
+00:08:39.839 --> 00:08:43.519
+everything. So every morning I'm going
+
+00:08:41.120 --> 00:08:45.040
+to get this sent to me. I h I have I'm
+
+00:08:43.519 --> 00:08:48.320
+paying someone $500 a month right now
+
+00:08:45.040 --> 00:08:50.399
+for this. This can be automated with AI.
+
+00:08:48.320 --> 00:08:52.480
+And now here's a Gmail draft. Oh, this
+
+00:08:50.399 --> 00:08:56.451
+is the actual HTML. So I can probably
+
+00:08:52.480 --> 00:08:59.279
+tell it to send the email as a um
+
+00:08:56.451 --> 00:09:01.920
+[music] text. So allow for all schedule
+
+00:08:59.279 --> 00:09:04.640
+runs. Always allow. Allow once. Let me
+
+00:09:01.920 --> 00:09:05.920
+say allow for all schedule runs. So
+
+00:09:04.640 --> 00:09:07.519
+every single morning I will get this
+
+00:09:05.920 --> 00:09:11.200
+email and I don't have to always approve
+
+00:09:07.519 --> 00:09:13.040
+it. Cool. Okay. So, it said it's sent to
+
+00:09:11.200 --> 00:09:15.360
+my email top three finding summary. So,
+
+00:09:13.040 --> 00:09:17.839
+let me go ahead and verify that. If I go
+
+00:09:15.360 --> 00:09:21.839
+to drafts, look at that. YouTube
+
+00:09:17.839 --> 00:09:23.360
+research report 4:26 p.m.
+
+00:09:21.839 --> 00:09:27.000
+Wow,
+
+00:09:23.360 --> 00:09:27.000
+that is amazing.
+
+00:09:27.839 --> 00:09:31.279
+That's That's amazing. I love that. So,
+
+00:09:29.920 --> 00:09:33.360
+now in co-work, we're going to create a
+
+00:09:31.279 --> 00:09:35.360
+schedule task to review all of the
+
+00:09:33.360 --> 00:09:37.279
+emails we're getting in the morning and
+
+00:09:35.360 --> 00:09:39.200
+draft replies to them. [music] So to do
+
+00:09:37.279 --> 00:09:41.360
+that, the first we're going to go over
+
+00:09:39.200 --> 00:09:42.720
+is if you go to customize, you can see
+
+00:09:41.360 --> 00:09:44.720
+we got connector tools, create new
+
+00:09:42.720 --> 00:09:46.399
+skills, browse plugins. We're going
+
+00:09:44.720 --> 00:09:47.760
+going to go to connector tools [music]
+
+00:09:46.399 --> 00:09:50.800
+and you will see all the different
+
+00:09:47.760 --> 00:09:52.640
+connectors that cloud code supports. And
+
+00:09:50.800 --> 00:09:54.880
+the reason I was even able to send a
+
+00:09:52.640 --> 00:09:56.959
+Gmail or access my Gmail is because if I
+
+00:09:54.880 --> 00:09:59.600
+go to Gmail, you can see I have this
+
+00:09:56.959 --> 00:10:01.360
+node uh connected. So what you have to
+
+00:09:59.600 --> 00:10:03.279
+do is you click Gmail, you connect your
+
+00:10:01.360 --> 00:10:05.600
+account and now you'll have access to
+
+00:10:03.279 --> 00:10:07.519
+these abilities, these tools. Create
+
+00:10:05.600 --> 00:10:09.156
+draft, get profile, list drafts, read
+
+00:10:07.519 --> 00:10:11.200
+message, read thread, search messages.
+
+00:10:09.156 --> 00:10:13.519
+[music] So by connecting your Gmail to
+
+00:10:11.200 --> 00:10:15.680
+co-work, it can literally be your own
+
+00:10:13.519 --> 00:10:17.440
+email inbox manager. And that's what
+
+00:10:15.680 --> 00:10:20.480
+we're going to make it do because I get
+
+00:10:17.440 --> 00:10:22.320
+a ton of inquiries for acquisitions, for
+
+00:10:20.480 --> 00:10:23.600
+brand deals, for so many things. And
+
+00:10:22.320 --> 00:10:26.320
+going through all of them takes up like
+
+00:10:23.600 --> 00:10:28.480
+an hour of my day.
+
+00:10:26.320 --> 00:10:33.600
+So, because we're already connected,
+
+00:10:28.480 --> 00:10:36.800
+we're going to go ahead and tell Claude,
+
+00:10:33.600 --> 00:10:41.252
+create a [music] new
+
+00:10:36.800 --> 00:10:47.240
+skill that I want scheduled at 9 a.m.
+
+00:10:41.252 --> 00:10:47.240
+[music] every day to do the following.
+
+00:10:47.279 --> 00:10:52.760
+read my unread emails from
+
+00:10:53.040 --> 00:10:58.560
+my inbox
+
+00:10:56.240 --> 00:11:02.160
+and let them know Gmail
+
+00:10:58.560 --> 00:11:07.720
+and then summarize
+
+00:11:02.160 --> 00:11:07.720
+the emails that I am getting
+
+00:11:07.920 --> 00:11:16.000
+as well as label by priority
+
+00:11:12.800 --> 00:11:17.277
+in the summary. Right? So, some of the
+
+00:11:16.000 --> 00:11:17.279
+emails I'm getting
+
+00:11:17.277 --> 00:11:20.959
+>> [music]
+
+00:11:17.279 --> 00:11:24.240
+>> um like high priority
+
+00:11:20.959 --> 00:11:26.399
+would be I'd say acquisition. So, right
+
+00:11:24.240 --> 00:11:28.640
+now I've sold a soft for $200,000 and
+
+00:11:26.399 --> 00:11:31.120
+now I'm trying to sell my next one for
+
+00:11:28.640 --> 00:11:34.480
+$150 and I'm getting offers coming in
+
+00:11:31.120 --> 00:11:36.640
+but um nothing has officially been done
+
+00:11:34.480 --> 00:11:41.040
+yet. So, I'm still fewing new offers.
+
+00:11:36.640 --> 00:11:44.079
+So, acquisitions and sponsor deals. Low
+
+00:11:41.040 --> 00:11:46.240
+priority we can say
+
+00:11:44.079 --> 00:11:49.680
+is
+
+00:11:46.240 --> 00:11:51.519
+uh request to work
+
+00:11:49.680 --> 00:11:54.399
+with me in [music]
+
+00:11:51.519 --> 00:11:57.440
+editing designing
+
+00:11:54.399 --> 00:11:58.880
+um etc. I get a lot of editors and
+
+00:11:57.440 --> 00:12:00.320
+designers pitching themselves to me
+
+00:11:58.880 --> 00:12:01.680
+saying hey I'll edit your videos I'll
+
+00:12:00.320 --> 00:12:03.760
+design your thumbnails. [music] So
+
+00:12:01.680 --> 00:12:05.600
+nowadays I have another AI employee that
+
+00:12:03.760 --> 00:12:08.160
+I use actually creates my thumbnails for
+
+00:12:05.600 --> 00:12:10.480
+me and I will show that in a future
+
+00:12:08.160 --> 00:12:12.079
+video.
+
+00:12:10.480 --> 00:12:14.399
+Um
+
+00:12:12.079 --> 00:12:16.320
+yeah, what else?
+
+00:12:14.399 --> 00:12:19.040
+And then
+
+00:12:16.320 --> 00:12:23.200
+you can
+
+00:12:19.040 --> 00:12:26.079
+use your own judgment for the rest.
+
+00:12:23.200 --> 00:12:28.079
+Okay. So, we also added these last two
+
+00:12:26.079 --> 00:12:30.320
+parts. So, for all sponsors, we want to
+
+00:12:28.079 --> 00:12:33.040
+draft emails to let the sponsor know how
+
+00:12:30.320 --> 00:12:34.240
+much we charge. Um this isn't the actual
+
+00:12:33.040 --> 00:12:36.079
+value I charge. I'm just throwing a
+
+00:12:34.240 --> 00:12:38.240
+number out there. Uh, oh, but if the
+
+00:12:36.079 --> 00:12:40.880
+sponsor has [music] never reached out
+
+00:12:38.240 --> 00:12:42.720
+before, that's when we're going to list
+
+00:12:40.880 --> 00:12:44.800
+that price. If the sponsor has reached
+
+00:12:42.720 --> 00:12:47.440
+out already and we're in conversation, I
+
+00:12:44.800 --> 00:12:49.680
+want Cloud Co-work to be able to just
+
+00:12:47.440 --> 00:12:52.399
+read the email thread and understand
+
+00:12:49.680 --> 00:12:55.120
+what's a smart reply to send to the
+
+00:12:52.399 --> 00:12:57.440
+sponsor. Okay? Talk and talk in first
+
+00:12:55.120 --> 00:13:00.768
+person as if you are me. This is huge. A
+
+00:12:57.440 --> 00:13:02.788
+lot of AI tools, even Claude co-work
+
+00:13:00.768 --> 00:13:02.788
+[music]
+
+00:13:02.800 --> 00:13:06.959
+like no, don't don't say that.
+
+00:13:05.360 --> 00:13:08.720
+Um,
+
+00:13:06.959 --> 00:13:10.320
+yeah, I think that's really this will be
+
+00:13:08.720 --> 00:13:11.760
+super helpful for my business as well as
+
+00:13:10.320 --> 00:13:14.000
+a lot of other people's businesses. So,
+
+00:13:11.760 --> 00:13:17.120
+let's go ahead and So, here's a skill
+
+00:13:14.000 --> 00:13:18.880
+for our email digest. Step one, fetch
+
+00:13:17.120 --> 00:13:20.720
+unread emails. U Gmail searches message
+
+00:13:18.880 --> 00:13:23.200
+to find all unread emails in the inbox.
+
+00:13:20.720 --> 00:13:24.560
+Query fetch up to 50 messages. [music]
+
+00:13:23.200 --> 00:13:27.600
+Categorize each email. So, high
+
+00:13:24.560 --> 00:13:30.000
+priority, medium priority, um, low
+
+00:13:27.600 --> 00:13:31.519
+priority.
+
+00:13:30.000 --> 00:13:32.959
+Yeah. So it understands spam,
+
+00:13:31.519 --> 00:13:34.560
+newsletters, all that stuff you don't
+
+00:13:32.959 --> 00:13:36.160
+really care about, right? Medium
+
+00:13:34.560 --> 00:13:37.519
+priority, fan, community messages,
+
+00:13:36.160 --> 00:13:39.360
+business inquiries, press or media
+
+00:13:37.519 --> 00:13:41.519
+requests, platform notifications, and
+
+00:13:39.360 --> 00:13:43.680
+high priority is acquisition offers for
+
+00:13:41.519 --> 00:13:46.320
+sure, sponsorship, brand deal, revenue
+
+00:13:43.680 --> 00:13:47.519
+generate [music] opportunities,
+
+00:13:46.320 --> 00:13:49.600
+uh, excuse me, write the priority
+
+00:13:47.519 --> 00:13:52.240
+summary. U, so this is how the summaries
+
+00:13:49.600 --> 00:13:54.720
+will look like and then handle sponsor
+
+00:13:52.240 --> 00:13:57.839
+emails, draft replies, which is great.
+
+00:13:54.720 --> 00:14:00.639
+Um, so this is the example that we will
+
+00:13:57.839 --> 00:14:02.399
+get from um this example email we're
+
+00:14:00.639 --> 00:14:03.519
+going to send to the sponsor. Hi, thanks
+
+00:14:02.399 --> 00:14:06.800
+so much for reaching out. Appreciate
+
+00:14:03.519 --> 00:14:08.480
+thinking of TA from I guess you say my
+
+00:14:06.800 --> 00:14:11.199
+channel. I'd love to explore a
+
+00:14:08.480 --> 00:14:13.120
+partnership for dedicated ad spot.
+
+00:14:11.199 --> 00:14:15.360
+Pretty solid. Maybe we can we can always
+
+00:14:13.120 --> 00:14:17.440
+change that. Um, so we can edit the
+
+00:14:15.360 --> 00:14:19.199
+skill, right? And maybe if you want to
+
+00:14:17.440 --> 00:14:22.800
+change this message, you can. I think I
+
+00:14:19.199 --> 00:14:25.040
+might change it up a little bit.
+
+00:14:22.800 --> 00:14:26.959
+Existing sponsor draft contextual reply.
+
+00:14:25.040 --> 00:14:28.320
+That's smart. So that way it doesn't
+
+00:14:26.959 --> 00:14:30.560
+throw in a crazy number after you
+
+00:14:28.320 --> 00:14:34.160
+already closed the deal.
+
+00:14:30.560 --> 00:14:35.839
+Final output draft summary action items.
+
+00:14:34.160 --> 00:14:40.199
+Always write drafts in first person as
+
+00:14:35.839 --> 00:14:40.199
+rotation. Love it. Love it.
+
+00:14:43.120 --> 00:14:46.639
+And I like this part a lot. Skip
+
+00:14:44.880 --> 00:14:48.480
+acquisition emails for drafts. Flag them
+
+00:14:46.639 --> 00:14:50.880
+clearly in the digest, but do not draft
+
+00:14:48.480 --> 00:14:53.199
+a reply as these require careful human
+
+00:14:50.880 --> 00:14:55.519
+consideration. I definitely will not
+
+00:14:53.199 --> 00:14:57.120
+trust a an AI employee to discuss
+
+00:14:55.519 --> 00:15:00.160
+six-figure deals. At least not right
+
+00:14:57.120 --> 00:15:01.600
+now. Um, can I make one that can discuss
+
+00:15:00.160 --> 00:15:03.920
+six figure deals? For sure, I can make
+
+00:15:01.600 --> 00:15:06.240
+one. But I would probably spend a week
+
+00:15:03.920 --> 00:15:08.720
+to two weeks [music] on creating that
+
+00:15:06.240 --> 00:15:11.839
+cuz that would need a lot of testing.
+
+00:15:08.720 --> 00:15:13.680
+Imagine an AI employees tells someone
+
+00:15:11.839 --> 00:15:16.320
+who's trying to buy your software for
+
+00:15:13.680 --> 00:15:18.079
+150 grand, shut up. And then the buyer's
+
+00:15:16.320 --> 00:15:19.519
+like, wait, what? And then the deal is
+
+00:15:18.079 --> 00:15:20.800
+over. The deal is over. I don't know.
+
+00:15:19.519 --> 00:15:23.120
+Okay, [music]
+
+00:15:20.800 --> 00:15:24.639
+so here's the skill Ash produced on your
+
+00:15:23.120 --> 00:15:26.560
+real inbox right now. So you can see
+
+00:15:24.639 --> 00:15:29.680
+exactly what's already happened. So new
+
+00:15:26.560 --> 00:15:31.600
+sponsor inquiry for OnSpace AI draft
+
+00:15:29.680 --> 00:15:32.880
+created with a $7,000 rate car. So I'm
+
+00:15:31.600 --> 00:15:36.320
+going to be I'm very excited to check
+
+00:15:32.880 --> 00:15:38.079
+that out. Dexter freebie AI. Okay, so I
+
+00:15:36.320 --> 00:15:42.360
+already quoted $5,000 by colleague
+
+00:15:38.079 --> 00:15:42.360
+Jackson. They said budget is limited.
+
+00:15:42.880 --> 00:15:46.485
+This is acknowledging the prior
+
+00:15:44.639 --> 00:15:48.320
+conversation saying we now charge 7K.
+
+00:15:46.485 --> 00:15:52.639
+[music] So, we have an acquisition offer
+
+00:15:48.320 --> 00:15:54.880
+from this person on acquire.com.
+
+00:15:52.639 --> 00:15:56.560
+Um, oh, this is a older one from my
+
+00:15:54.880 --> 00:15:58.880
+older listing. So, I guess that doesn't
+
+00:15:56.560 --> 00:16:01.040
+really affect just now. Uh, three new
+
+00:15:58.880 --> 00:16:02.800
+type responses.
+
+00:16:01.040 --> 00:16:05.759
+These are new people who want to work
+
+00:16:02.800 --> 00:16:10.440
+with me. That's cool. And then 39 promo
+
+00:16:05.759 --> 00:16:10.440
+and newsletter notifications. Wow.
+
+00:16:10.639 --> 00:16:17.079
+Uh, so it's asking me, do I need to do
+
+00:16:13.759 --> 00:16:17.079
+any changes?
+
+00:16:17.680 --> 00:16:21.360
+This is good. Let's say no changes. All
+
+00:16:19.920 --> 00:16:22.399
+right. So, here's a breakdown of what
+
+00:16:21.360 --> 00:16:24.560
+it's going to do every single morning.
+
+00:16:22.399 --> 00:16:26.160
+It's read all unread inbox emails, look
+
+00:16:24.560 --> 00:16:31.279
+for new sponsors, acquisition email, low
+
+00:16:26.160 --> 00:16:33.040
+priority stuff. Um, and also give it
+
+00:16:31.279 --> 00:16:36.160
+gives the live test results. That's
+
+00:16:33.040 --> 00:16:37.920
+great. And that's great. Yeah, we have
+
+00:16:36.160 --> 00:16:39.440
+everything. And you can see the daily
+
+00:16:37.920 --> 00:16:42.959
+email digest skill that has been
+
+00:16:39.440 --> 00:16:45.040
+developed. You open it in Claude. Um,
+
+00:16:42.959 --> 00:16:48.240
+this is what it looks like. you add to
+
+00:16:45.040 --> 00:16:49.839
+your library.
+
+00:16:48.240 --> 00:16:51.440
+These are all the some of the skills
+
+00:16:49.839 --> 00:16:53.839
+that I have and some other example
+
+00:16:51.440 --> 00:16:55.759
+skills. So, this is one of the skills
+
+00:16:53.839 --> 00:16:57.839
+that we've I guess developed ourselves
+
+00:16:55.759 --> 00:17:00.480
+and we can use this as our own internal
+
+00:16:57.839 --> 00:17:02.160
+knowledge base for our company. Um, and
+
+00:17:00.480 --> 00:17:05.520
+you can get really complex with this and
+
+00:17:02.160 --> 00:17:07.360
+develop skills that are so amazing and
+
+00:17:05.520 --> 00:17:08.880
+do a lot of different things and
+
+00:17:07.360 --> 00:17:11.679
+integrate a lot of different connectors
+
+00:17:08.880 --> 00:17:13.280
+and MCPs and just keep it internal to
+
+00:17:11.679 --> 00:17:15.199
+your company. That's what will give your
+
+00:17:13.280 --> 00:17:16.799
+business the advantage over everyone
+
+00:17:15.199 --> 00:17:18.880
+else's.
+
+00:17:16.799 --> 00:17:20.799
+And if your skill is that powerful, you
+
+00:17:18.880 --> 00:17:22.240
+can even package it and sell it to
+
+00:17:20.799 --> 00:17:25.679
+another business owner. All right, with
+
+00:17:22.240 --> 00:17:28.480
+two skills created, if I click new task,
+
+00:17:25.679 --> 00:17:30.320
+I can just show you what the final skill
+
+00:17:28.480 --> 00:17:35.880
+that I think you should create is. And
+
+00:17:30.320 --> 00:17:35.880
+we can call that morning debrief.
+
+00:17:36.559 --> 00:17:43.840
+description would just summarize
+
+00:17:40.720 --> 00:17:48.039
+the day's [music] tasks.
+
+00:17:43.840 --> 00:17:48.039
+So, scan Google calendar
+
+00:17:50.080 --> 00:17:59.000
+to summarize the tasks of the day.
+
+00:17:53.520 --> 00:17:59.000
+Pretty straightforward. Uh remind me of
+
+00:18:00.400 --> 00:18:03.919
+uh medicine intake. So, this doesn't
+
+00:18:02.880 --> 00:18:06.160
+just have to be for your business. It
+
+00:18:03.919 --> 00:18:10.400
+can be for like getting your morning
+
+00:18:06.160 --> 00:18:14.880
+pills, drink your morning coffee. Um,
+
+00:18:10.400 --> 00:18:20.120
+what else do you do? Going to the gym.
+
+00:18:14.880 --> 00:18:20.120
+Fit it into a calendar breakdown.
+
+00:18:21.360 --> 00:18:27.679
+Uh, frequency. We can do this daily as
+
+00:18:23.520 --> 00:18:32.400
+well. 9:00 a.m. Um, save it. And you
+
+00:18:27.679 --> 00:18:37.600
+have this right here. You click run. Now
+
+00:18:32.400 --> 00:18:39.039
+you click the run. So today at 4:45
+
+00:18:37.600 --> 00:18:41.840
+then you see right here run schedule a
+
+00:18:39.039 --> 00:18:44.320
+task. And you might be thinking wait you
+
+00:18:41.840 --> 00:18:47.520
+just created that skill super fast. Yep.
+
+00:18:44.320 --> 00:18:49.679
+Here's how it happened. I already have
+
+00:18:47.520 --> 00:18:52.240
+my Google calendar connected in the
+
+00:18:49.679 --> 00:18:54.880
+connectors. So when I make that skill or
+
+00:18:52.240 --> 00:18:56.400
+when I make that task very quickly it's
+
+00:18:54.880 --> 00:18:57.919
+because the calendar is already
+
+00:18:56.400 --> 00:18:59.919
+connected to it. So it doesn't have to
+
+00:18:57.919 --> 00:19:01.440
+do much work. like it knows what needs
+
+00:18:59.919 --> 00:19:03.039
+to what needs to get done and it's not
+
+00:19:01.440 --> 00:19:05.039
+like it's a huge complex [music] task.
+
+00:19:03.039 --> 00:19:07.280
+It's just scanning my calendar, right?
+
+00:19:05.039 --> 00:19:09.679
+So, I go to it. You can see it's already
+
+00:19:07.280 --> 00:19:12.000
+taking action and boom, there you go.
+
+00:19:09.679 --> 00:19:14.640
+This was what, like 3 seconds. Morning
+
+00:19:12.000 --> 00:19:16.080
+reminders. Today's calendar breakdown.
+
+00:19:14.640 --> 00:19:17.919
+These are all the calls I have coming
+
+00:19:16.080 --> 00:19:21.200
+up. Look, this one was cancelled. Slot
+
+00:19:17.919 --> 00:19:24.400
+is free. Love that. Quick notes. The
+
+00:19:21.200 --> 00:19:26.400
+2:15 3:15 p.m. slot is free cuz it's
+
+00:19:24.400 --> 00:19:27.760
+only cancelled. You have a free hour. a
+
+00:19:26.400 --> 00:19:29.120
+good time for a breather or a quick
+
+00:19:27.760 --> 00:19:31.039
+walk. Let's give you some nice
+
+00:19:29.120 --> 00:19:32.640
+recommendations. Escape room at 11:00
+
+00:19:31.039 --> 00:19:34.720
+p.m. is a fun cap. True productive
+
+00:19:32.640 --> 00:19:37.120
+Sunday. I am going to escape room today,
+
+00:19:34.720 --> 00:19:38.880
+believe it or not. Have a great day.
+
+00:19:37.120 --> 00:19:41.520
+Amazing. And this already runs. This is
+
+00:19:38.880 --> 00:19:43.360
+a quick way to create a schedule task
+
+00:19:41.520 --> 00:19:46.799
+that doesn't really have much going on.
+
+00:19:43.360 --> 00:19:50.240
+Um, and the next step I would say is to
+
+00:19:46.799 --> 00:19:53.760
+go to customize, go to connected tools,
+
+00:19:50.240 --> 00:19:56.559
+link Slack, um, if you want to manually
+
+00:19:53.760 --> 00:19:58.480
+integrate Discord, any place that you
+
+00:19:56.559 --> 00:20:00.320
+can get your messages sent directly to
+
+00:19:58.480 --> 00:20:02.640
+you. Right now, I have it as email
+
+00:20:00.320 --> 00:20:04.080
+drafts or emails to my own email, you
+
+00:20:02.640 --> 00:20:06.160
+can definitely integrate with your own
+
+00:20:04.080 --> 00:20:07.360
+CRM [music] um, or messaging system.
+
+00:20:06.160 --> 00:20:08.799
+There's one thing you do not know about
+
+00:20:07.360 --> 00:20:11.120
+AI employees that I have not talked
+
+00:20:08.799 --> 00:20:13.039
+about yet. This entire fleet of AI
+
+00:20:11.120 --> 00:20:15.919
+employees you're creating can be turned
+
+00:20:13.039 --> 00:20:18.320
+into a suite that you can then sell to
+
+00:20:15.919 --> 00:20:20.320
+enterprises that will be worth multiple
+
+00:20:18.320 --> 00:20:22.080
+five figures. This is one of the biggest
+
+00:20:20.320 --> 00:20:23.360
+opportunities in the entire AI gold
+
+00:20:22.080 --> 00:20:24.960
+rush. And if you are not taking
+
+00:20:23.360 --> 00:20:26.400
+advantage of it and building your AI
+
+00:20:24.960 --> 00:20:28.559
+employees, you're already falling
+
+00:20:26.400 --> 00:20:30.480
+behind. And if you don't have the time
+
+00:20:28.559 --> 00:20:31.600
+to build AI employees, then check the
+
+00:20:30.480 --> 00:20:33.760
+link in description where I will
+
+00:20:31.600 --> 00:20:37.120
+literally install my AI employees into
+
+00:20:33.760 --> 00:20:37.120
+your business within 7
+

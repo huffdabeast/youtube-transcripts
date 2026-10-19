@@ -1,0 +1,1091 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.760
+All right, let's see how passive this
+
+00:00:01.800 --> 00:00:06.400
+actually is. I'm going to use a tool
+
+00:00:03.760 --> 00:00:08.800
+called OmniSend to see how much money I
+
+00:00:06.400 --> 00:00:12.160
+can make in 1 week sending a simple
+
+00:00:08.800 --> 00:00:13.960
+email, but I need AI agents to do all
+
+00:00:12.160 --> 00:00:15.320
+the work for me. And this is something
+
+00:00:13.960 --> 00:00:17.280
+that anyone in the world that has a
+
+00:00:15.320 --> 00:00:19.240
+knowledge about anything could be able
+
+00:00:17.280 --> 00:00:21.280
+to monetize just as I'm doing on this
+
+00:00:19.240 --> 00:00:23.200
+video here today. Also, this has to be a
+
+00:00:21.280 --> 00:00:25.720
+six-figure business, not just any
+
+00:00:23.200 --> 00:00:29.920
+business, which means over $100,000 a
+
+00:00:25.720 --> 00:00:29.920
+year of profit. So, let's get started.
+
+00:00:31.280 --> 00:00:36.440
+Okay, step number one, go to the AI tool
+
+00:00:34.080 --> 00:00:39.880
+of your choice. It's going to be Gemini,
+
+00:00:36.440 --> 00:00:41.080
+Grok, ChatGPT, or Claude. I like Claude.
+
+00:00:39.880 --> 00:00:43.520
+So, I'm going to go into my Claude
+
+00:00:41.080 --> 00:00:46.280
+account, click on my name, then go to
+
+00:00:43.520 --> 00:00:47.960
+settings, then go to connectors, and
+
+00:00:46.280 --> 00:00:50.040
+then I'm going to click custom
+
+00:00:47.960 --> 00:00:52.200
+connectors, okay, right there, and I'm
+
+00:00:50.040 --> 00:00:53.760
+going to call it OmniSend, because
+
+00:00:52.200 --> 00:00:57.080
+that's the tool I'm going to use to send
+
+00:00:53.760 --> 00:01:00.600
+this email, and the URL for this tool is
+
+00:00:57.080 --> 00:01:00.600
+right here, mcp.omnisend.com/mcp.
+
+00:01:01.040 --> 00:01:05.519
+Click continue, done, then click add,
+
+00:01:03.880 --> 00:01:07.160
+then it's going to want me to log in to
+
+00:01:05.519 --> 00:01:09.440
+OmniSend. I already have an account
+
+00:01:07.160 --> 00:01:10.920
+there. It's an email marketing tool,
+
+00:01:09.440 --> 00:01:12.360
+similar to Mailchimp, but like a
+
+00:01:10.920 --> 00:01:14.200
+thousand times better. I'm going to give
+
+00:01:12.360 --> 00:01:16.000
+it all read and write permissions,
+
+00:01:14.200 --> 00:01:19.320
+because I'm trusting like that, and then
+
+00:01:16.000 --> 00:01:21.920
+I'm going to click create chat. But, I
+
+00:01:19.320 --> 00:01:24.200
+still need to add some email addresses
+
+00:01:21.920 --> 00:01:26.000
+to my OmniSend account. Where am I going
+
+00:01:24.200 --> 00:01:27.760
+to get these email addresses? Well,
+
+00:01:26.000 --> 00:01:29.600
+these are people in my network that I'm
+
+00:01:27.760 --> 00:01:31.400
+going to email, but I want to randomize
+
+00:01:29.600 --> 00:01:34.000
+them, because I'm only going to email a
+
+00:01:31.400 --> 00:01:35.720
+set limited number of people, and you'll
+
+00:01:34.000 --> 00:01:38.160
+understand why here in a minute, trust
+
+00:01:35.720 --> 00:01:40.160
+me. So, I'm going to use this formula in
+
+00:01:38.160 --> 00:01:42.080
+Google Sheets, equals rand open
+
+00:01:40.160 --> 00:01:44.760
+parentheses close parentheses, that
+
+00:01:42.080 --> 00:01:49.400
+assigns a perfectly randomized number to
+
+00:01:44.760 --> 00:01:52.360
+that row. And then, I am going to filter
+
+00:01:49.400 --> 00:01:55.320
+A to Z or Z to A by that number. Why?
+
+00:01:52.360 --> 00:01:58.560
+Because that perfectly randomizes all of
+
+00:01:55.320 --> 00:02:00.480
+these email addresses, okay? So, then
+
+00:01:58.560 --> 00:02:02.600
+I've got a select few number of email
+
+00:02:00.480 --> 00:02:07.080
+addresses here. I'm going to hit
+
+00:02:02.600 --> 00:02:09.000
+download CSV, and this is my list. Now,
+
+00:02:07.080 --> 00:02:12.000
+I'm going to go back to Claude, add
+
+00:02:09.000 --> 00:02:14.040
+files and photos, go to the spreadsheet,
+
+00:02:12.000 --> 00:02:17.040
+and without even logging into Omnisend,
+
+00:02:14.040 --> 00:02:19.920
+I'm going to ask Claude to add those
+
+00:02:17.040 --> 00:02:22.240
+emails to an Omnisend segment for me.
+
+00:02:19.920 --> 00:02:24.160
+Okay, always allow. It's just needing my
+
+00:02:22.240 --> 00:02:25.959
+approval for some of this stuff. While
+
+00:02:24.160 --> 00:02:27.760
+we're waiting, I'm going to use another
+
+00:02:25.959 --> 00:02:29.840
+tool called TidyCal, which is just a
+
+00:02:27.760 --> 00:02:32.320
+calendar booking software,
+
+00:02:29.840 --> 00:02:35.320
+and I'm going to create a 5-minute
+
+00:02:32.320 --> 00:02:37.200
+consulting calendar, like a booking link
+
+00:02:35.320 --> 00:02:39.680
+with a Stripe integration. What is this
+
+00:02:37.200 --> 00:02:41.640
+idea? I'm going to sell my knowledge to
+
+00:02:39.680 --> 00:02:43.120
+people that I know might want it. The
+
+00:02:41.640 --> 00:02:45.959
+people on this list are people that like
+
+00:02:43.120 --> 00:02:47.360
+business ideas, or and or people that
+
+00:02:45.959 --> 00:02:48.800
+already own businesses, and they
+
+00:02:47.360 --> 00:02:51.000
+probably have business questions that I
+
+00:02:48.800 --> 00:02:52.760
+might be able to help them with. So, I'm
+
+00:02:51.000 --> 00:02:55.360
+offering 5 minutes of consulting for
+
+00:02:52.760 --> 00:02:58.000
+only $5. Now, that doesn't sound like
+
+00:02:55.360 --> 00:03:01.160
+but that's a dollar a minute, aka $60 an
+
+00:02:58.000 --> 00:03:03.680
+hour, and at a 40-hour work week, quote
+
+00:03:01.160 --> 00:03:06.120
+unquote, that's about $120,000
+
+00:03:03.680 --> 00:03:07.680
+a year of pure profit, because I have no
+
+00:03:06.120 --> 00:03:10.280
+costs on this business. I'm just selling
+
+00:03:07.680 --> 00:03:12.840
+my time. I'm consulting. But, I can also
+
+00:03:10.280 --> 00:03:15.080
+upsell coaching packages, recurring
+
+00:03:12.840 --> 00:03:16.800
+stuff, higher ticket stuff, AI audits,
+
+00:03:15.080 --> 00:03:19.080
+whatever. So, this is just my foot in
+
+00:03:16.800 --> 00:03:20.720
+the door. I'm getting paid to upsell.
+
+00:03:19.080 --> 00:03:22.120
+Pretty cool thing. Now, why am I doing
+
+00:03:20.720 --> 00:03:23.600
+this? Well, for the purposes of this
+
+00:03:22.120 --> 00:03:25.560
+video, I wanted to start a business that
+
+00:03:23.600 --> 00:03:27.600
+would make me money. And this is one of
+
+00:03:25.560 --> 00:03:29.400
+the most approachable business ideas
+
+00:03:27.600 --> 00:03:31.239
+ever, just consulting. And you don't
+
+00:03:29.400 --> 00:03:32.600
+need a degree to consult. You don't need
+
+00:03:31.239 --> 00:03:33.760
+to know anything about consulting. You
+
+00:03:32.600 --> 00:03:35.760
+just need to know something about
+
+00:03:33.760 --> 00:03:37.920
+something to consult, and then find the
+
+00:03:35.760 --> 00:03:39.519
+people that want whatever it is it's in
+
+00:03:37.920 --> 00:03:41.959
+your brain. If you're really good at
+
+00:03:39.519 --> 00:03:44.360
+putting LEGOs together, or grading
+
+00:03:41.959 --> 00:03:46.440
+Pokémon cards, that might not seem like
+
+00:03:44.360 --> 00:03:48.040
+a high-value skill, but it is. It is,
+
+00:03:46.440 --> 00:03:49.239
+because there's a demand for it.
+
+00:03:48.040 --> 00:03:51.720
+Vacuuming. You're really good at
+
+00:03:49.239 --> 00:03:53.560
+vacuuming, there is a demand for that.
+
+00:03:51.720 --> 00:03:55.520
+You could train people on how to vacuum
+
+00:03:53.560 --> 00:03:57.080
+really well. I'm using silly examples to
+
+00:03:55.520 --> 00:03:58.840
+make a point, but you get what I'm
+
+00:03:57.080 --> 00:04:01.240
+saying. You don't need a college degree,
+
+00:03:58.840 --> 00:04:03.000
+you don't need a ton of accolades, or an
+
+00:04:01.240 --> 00:04:05.160
+impressive resume to charge for your
+
+00:04:03.000 --> 00:04:07.560
+services. You just need to find people
+
+00:04:05.160 --> 00:04:09.720
+that have a demand for your knowledge,
+
+00:04:07.560 --> 00:04:12.080
+aka services. Cool. I'll answer whatever
+
+00:04:09.720 --> 00:04:14.440
+question you have. 5-minute consulting.
+
+00:04:12.080 --> 00:04:17.160
+Duration of the meeting is 5 minutes.
+
+00:04:14.440 --> 00:04:19.359
+We're going to go to pricing. Charge $5
+
+00:04:17.160 --> 00:04:21.040
+per booking. I integrated Stripe just
+
+00:04:19.359 --> 00:04:23.440
+with a couple clicks. No coupons
+
+00:04:21.040 --> 00:04:26.080
+allowed, and it's just going to be
+
+00:04:23.440 --> 00:04:27.400
+synced to my calendar cuz I use TidyCal
+
+00:04:26.080 --> 00:04:29.320
+for other stuff. Cool. There's the
+
+00:04:27.400 --> 00:04:31.760
+booking page. That's what it looks like.
+
+00:04:29.320 --> 00:04:33.120
+And when someone clicks on it, they're
+
+00:04:31.760 --> 00:04:35.680
+going to go here. They're going to be
+
+00:04:33.120 --> 00:04:38.240
+forced to pay in order to book the
+
+00:04:35.680 --> 00:04:39.919
+meeting. And I do want to block off some
+
+00:04:38.240 --> 00:04:42.840
+times here because it looks like it's
+
+00:04:39.919 --> 00:04:44.919
+showing my entire calendar. So, I'm
+
+00:04:42.840 --> 00:04:47.680
+going to use this availability schedule.
+
+00:04:44.919 --> 00:04:50.919
+I don't want to start at 8:00 a.m. I'd
+
+00:04:47.680 --> 00:04:53.280
+rather start at 1:00 p.m. So, I'm only
+
+00:04:50.919 --> 00:04:55.560
+going to sell times on Monday, let's
+
+00:04:53.280 --> 00:04:58.200
+say, Wednesday, and Thursday from 1:00
+
+00:04:55.560 --> 00:05:00.120
+to 5:00. Okay? Okay. All of these other
+
+00:04:58.200 --> 00:05:02.280
+times will be blocked, and it's also
+
+00:05:00.120 --> 00:05:04.440
+going to pull from my actual calendar.
+
+00:05:02.280 --> 00:05:06.160
+So, it won't double-book me on anything
+
+00:05:04.440 --> 00:05:08.800
+else I have going on. Okay? So, I'm
+
+00:05:06.160 --> 00:05:10.960
+going to copy the URL of that booking
+
+00:05:08.800 --> 00:05:12.840
+link, and then let's go see what Claude
+
+00:05:10.960 --> 00:05:15.520
+is up to. Keep in mind, through this
+
+00:05:12.840 --> 00:05:16.960
+MCP, which means model context protocol,
+
+00:05:15.520 --> 00:05:19.200
+and really it's just a fancy way of
+
+00:05:16.960 --> 00:05:21.160
+saying you can use your favorite AI tool
+
+00:05:19.200 --> 00:05:23.080
+inside of any other tool in the world as
+
+00:05:21.160 --> 00:05:25.240
+long as it is compatible, which Omnisend
+
+00:05:23.080 --> 00:05:26.919
+is. This removes the need for me to log
+
+00:05:25.240 --> 00:05:28.600
+in to Omnisend at all, and I can still
+
+00:05:26.919 --> 00:05:30.560
+use it and enjoy all the features of it.
+
+00:05:28.600 --> 00:05:32.440
+You can run your entire account from
+
+00:05:30.560 --> 00:05:33.919
+inside ChatGPT or Claude. You can
+
+00:05:32.440 --> 00:05:36.520
+understand your performance, build
+
+00:05:33.919 --> 00:05:38.080
+segments, read to it, write to it, all
+
+00:05:36.520 --> 00:05:39.800
+done through prompts, through your own
+
+00:05:38.080 --> 00:05:41.400
+natural language like I'm speaking now.
+
+00:05:39.800 --> 00:05:43.440
+Okay, Claude is asking me, "Who are
+
+00:05:41.400 --> 00:05:45.320
+these people? They subscribed. What do
+
+00:05:43.440 --> 00:05:47.640
+you want to call them?" TKO newsletter.
+
+00:05:45.320 --> 00:05:49.520
+Cool. All right, now if I go over to my
+
+00:05:47.640 --> 00:05:52.680
+Omnisend account, you can see right
+
+00:05:49.520 --> 00:05:54.400
+there, 999 contacts. It's exactly what I
+
+00:05:52.680 --> 00:05:56.360
+uploaded without ever having to log in
+
+00:05:54.400 --> 00:05:59.600
+to Omnisend. I did it through Claude.
+
+00:05:56.360 --> 00:06:01.440
+Okay, so I also want Claude to write
+
+00:05:59.600 --> 00:06:03.440
+this email for me, write and send it.
+
+00:06:01.440 --> 00:06:05.080
+So, I just said, "Okay, I want to send
+
+00:06:03.440 --> 00:06:07.240
+them a simple email offering to give
+
+00:06:05.080 --> 00:06:09.400
+them 5 minutes of consulting for only
+
+00:06:07.240 --> 00:06:12.000
+$5, either through this booking link or
+
+00:06:09.400 --> 00:06:14.000
+via email. Write that up to send to this
+
+00:06:12.000 --> 00:06:16.240
+list, please. Short and sweet, tell them
+
+00:06:14.000 --> 00:06:18.120
+I'm trying something new." Okay, here's
+
+00:06:16.240 --> 00:06:19.720
+the email. "Hey, trying something new.
+
+00:06:18.120 --> 00:06:20.880
+You get 5 minutes with me, I get 5
+
+00:06:19.720 --> 00:06:22.280
+bucks. You ask me anything about your
+
+00:06:20.880 --> 00:06:24.000
+business, your idea, your next move, I
+
+00:06:22.280 --> 00:06:25.880
+give you my honest take fast. Two ways
+
+00:06:24.000 --> 00:06:27.640
+to do it. One, book a live 5-minute slot
+
+00:06:25.880 --> 00:06:28.880
+here. Two, just reply to this email and
+
+00:06:27.640 --> 00:06:30.200
+I'll answer from there. No upsell, no
+
+00:06:28.880 --> 00:06:31.919
+pitch, I just want to see how many real
+
+00:06:30.200 --> 00:06:33.720
+problems I can help solve in 5 minutes
+
+00:06:31.919 --> 00:06:35.360
+at a time. That's it." I'm clicking on
+
+00:06:33.720 --> 00:06:37.360
+the link to make sure it works, and it
+
+00:06:35.360 --> 00:06:39.240
+works. Now, I could add an image to
+
+00:06:37.360 --> 00:06:41.240
+this, but I don't want to. I just want
+
+00:06:39.240 --> 00:06:43.160
+this to be plain text, one link for them
+
+00:06:41.240 --> 00:06:44.520
+to click on where they can buy, and I'm
+
+00:06:43.160 --> 00:06:46.160
+going to tell it what subject line to
+
+00:06:44.520 --> 00:06:48.160
+use. I could ask it to use whatever it
+
+00:06:46.160 --> 00:06:49.280
+thinks is best, but I want to make it 5
+
+00:06:48.160 --> 00:06:51.680
+bucks.
+
+00:06:49.280 --> 00:06:54.000
+Add a subject line that just says $5.
+
+00:06:51.680 --> 00:06:55.600
+Send it, baby. Okay, so it said, "Hey, I
+
+00:06:54.000 --> 00:06:57.680
+can't send this until there's a verified
+
+00:06:55.600 --> 00:06:59.440
+sender." That is a regulation, it's not
+
+00:06:57.680 --> 00:07:00.680
+Omnisend's choice. I can do that myself
+
+00:06:59.440 --> 00:07:01.960
+or I can ask Claude to do it. You
+
+00:07:00.680 --> 00:07:03.240
+already know what I'm going to do. I'm
+
+00:07:01.960 --> 00:07:04.880
+going to give it my personal email
+
+00:07:03.240 --> 00:07:06.560
+address and have it make that the
+
+00:07:04.880 --> 00:07:08.240
+verified sender. So, I'm going to go
+
+00:07:06.560 --> 00:07:10.560
+into Omnisend, I'm going to go to store
+
+00:07:08.240 --> 00:07:12.880
+settings. So, I just told Claude, "Okay,
+
+00:07:10.560 --> 00:07:15.120
+it's verified, send the email now." One
+
+00:07:12.880 --> 00:07:17.040
+prompt and it verified it for me. Okay,
+
+00:07:15.120 --> 00:07:19.160
+and it is sent. I'm going to revisit
+
+00:07:17.040 --> 00:07:21.680
+this in 1 week to see how much money we
+
+00:07:19.160 --> 00:07:23.760
+made. Okay, it's been a week. Here's a
+
+00:07:21.680 --> 00:07:25.960
+little longer, different shirt, and the
+
+00:07:23.760 --> 00:07:27.800
+campaign is done, and I made some money.
+
+00:07:25.960 --> 00:07:29.240
+Let's break it down, but let's ask
+
+00:07:27.800 --> 00:07:30.360
+Claude to break it down for us,
+
+00:07:29.240 --> 00:07:31.919
+actually.
+
+00:07:30.360 --> 00:07:35.240
+All right, I'm simply asking, "Tell me
+
+00:07:31.919 --> 00:07:37.560
+how my Omnisend campaign last week did."
+
+00:07:35.240 --> 00:07:40.320
+Okay, how cool is this? So, I also have
+
+00:07:37.560 --> 00:07:42.160
+Stripe connected through my Claude MCP,
+
+00:07:40.320 --> 00:07:45.400
+so it was able to cross-reference the
+
+00:07:42.160 --> 00:07:48.640
+clicks to the buyers and Stripe and put
+
+00:07:45.400 --> 00:07:50.640
+everything all in one chart. So, 1,013
+
+00:07:48.640 --> 00:07:53.160
+emails sent, almost all of them were
+
+00:07:50.640 --> 00:07:55.320
+delivered, 39% of them were opened. I
+
+00:07:53.160 --> 00:07:57.880
+had a 3 and 1/2% click-through rate, so
+
+00:07:55.320 --> 00:07:59.640
+35 people clicked the links. I got five
+
+00:07:57.880 --> 00:08:02.280
+email replies, three of them were
+
+00:07:59.640 --> 00:08:04.560
+wanting to buy, asking me a question for
+
+00:08:02.280 --> 00:08:07.440
+$5, and then I had this many bookings
+
+00:08:04.560 --> 00:08:10.520
+and that much Stripe revenue. Ended up
+
+00:08:07.440 --> 00:08:12.919
+with 80 bucks. So, on 1,000 emails sent,
+
+00:08:10.520 --> 00:08:15.560
+not bad. That puts the revenue per
+
+00:08:12.919 --> 00:08:17.560
+recipient at like what? 8 cents? Not bad
+
+00:08:15.560 --> 00:08:19.200
+at all for one email. And so, not
+
+00:08:17.560 --> 00:08:20.560
+including the time it took me to send
+
+00:08:19.200 --> 00:08:22.680
+this email, which was almost nothing,
+
+00:08:20.560 --> 00:08:25.880
+especially since I used the MCP, I'm
+
+00:08:22.680 --> 00:08:27.720
+going to make from these 16 calls $80,
+
+00:08:25.880 --> 00:08:29.919
+and it's going to take 80 minutes of my
+
+00:08:27.720 --> 00:08:31.640
+time, an hour and 20 minutes, which
+
+00:08:29.919 --> 00:08:33.039
+technically makes it a six-figure
+
+00:08:31.640 --> 00:08:35.560
+business. If I were to send this to my
+
+00:08:33.039 --> 00:08:36.960
+entire list and these percentages
+
+00:08:35.560 --> 00:08:39.120
+carried through, then it would be a
+
+00:08:36.960 --> 00:08:41.080
+six-figure consulting business at a
+
+00:08:39.120 --> 00:08:43.640
+ridiculously low rate. And that's the
+
+00:08:41.080 --> 00:08:46.240
+thing with charging $5 for consulting,
+
+00:08:43.640 --> 00:08:48.040
+you do more harm than good. I did this
+
+00:08:46.240 --> 00:08:50.640
+cuz I didn't want to like sell something
+
+00:08:48.040 --> 00:08:52.720
+to my subscribers unnecessarily, and I
+
+00:08:50.640 --> 00:08:54.839
+wanted to prove a point, but it's an
+
+00:08:52.720 --> 00:08:57.480
+interesting business lesson. If you go
+
+00:08:54.839 --> 00:08:59.800
+to buy a hot dog from a vendor and it's
+
+00:08:57.480 --> 00:09:01.480
+only 25 cents, you probably don't want
+
+00:08:59.800 --> 00:09:02.960
+that hot dog. Something's probably wrong
+
+00:09:01.480 --> 00:09:04.000
+with it. But, if it's three bucks, it's
+
+00:09:02.960 --> 00:09:05.680
+like, "Yeah, that's what a hot dog
+
+00:09:04.000 --> 00:09:06.276
+should cost." If it's 10 bucks, it's
+
+00:09:05.680 --> 00:09:06.640
+like,
+
+00:09:06.276 --> 00:09:08.680
+>> [snorts]
+
+00:09:06.640 --> 00:09:10.400
+>> "The hot dog must must be really, really
+
+00:09:08.680 --> 00:09:12.080
+good." And then your confirmation bias
+
+00:09:10.400 --> 00:09:14.680
+kicks in. Maybe it is, maybe it isn't,
+
+00:09:12.080 --> 00:09:16.480
+but pricing is a very, very important,
+
+00:09:14.680 --> 00:09:18.640
+yet finicky thing. So, I kind of want to
+
+00:09:16.480 --> 00:09:21.160
+do another video where I send out an
+
+00:09:18.640 --> 00:09:22.960
+email that offers like $1,000 for an
+
+00:09:21.160 --> 00:09:23.960
+hour of consulting and see how that does
+
+00:09:22.960 --> 00:09:25.200
+because
+
+00:09:23.960 --> 00:09:26.760
+just think about it. I sent this to
+
+00:09:25.200 --> 00:09:28.320
+1,000 people. Do you think one of them
+
+00:09:26.760 --> 00:09:32.240
+is willing to pay that? Pretty decent
+
+00:09:28.320 --> 00:09:34.520
+chance. If so, then I made 12x on the
+
+00:09:32.240 --> 00:09:36.680
+same email send that I would have made
+
+00:09:34.520 --> 00:09:38.080
+selling my time for only a dollar a
+
+00:09:36.680 --> 00:09:40.120
+minute. And also, I only have to deal
+
+00:09:38.080 --> 00:09:42.560
+with one person for an hour instead of
+
+00:09:40.120 --> 00:09:44.680
+16 people for 80 minutes. But, let's go
+
+00:09:42.560 --> 00:09:46.480
+a step further. I want to know what
+
+00:09:44.680 --> 00:09:48.040
+Claude thinks I could have done better
+
+00:09:46.480 --> 00:09:50.320
+for this campaign. By the way, I'm
+
+00:09:48.040 --> 00:09:52.480
+thrilled with 3.5% click-through rate.
+
+00:09:50.320 --> 00:09:54.520
+39% open rate was a little lower than I
+
+00:09:52.480 --> 00:09:56.320
+would have liked to see. I'm usually in
+
+00:09:54.520 --> 00:09:57.960
+like the mid-40s, but I didn't really
+
+00:09:56.320 --> 00:09:59.960
+take the time to optimize it. Didn't do
+
+00:09:57.960 --> 00:10:01.520
+a bunch of AB tests. Didn't send it at
+
+00:09:59.960 --> 00:10:03.080
+the right time of day. So, with a little
+
+00:10:01.520 --> 00:10:04.720
+more tweaking, I could have done a bit
+
+00:10:03.080 --> 00:10:06.080
+better here. Here's some things I said I
+
+00:10:04.720 --> 00:10:08.400
+could have done better. There was no
+
+00:10:06.080 --> 00:10:10.840
+reason to act now, no scarcity play. The
+
+00:10:08.400 --> 00:10:12.200
+free path ate the paid path. I guess it
+
+00:10:10.840 --> 00:10:13.960
+was confusing. Some people thought they
+
+00:10:12.200 --> 00:10:16.040
+could just reply to the email and get an
+
+00:10:13.960 --> 00:10:18.480
+answer for free, even though that's not
+
+00:10:16.040 --> 00:10:19.840
+what I meant. And $5 signals junk.
+
+00:10:18.480 --> 00:10:22.560
+That's exactly what I just said about
+
+00:10:19.840 --> 00:10:24.560
+pricing. It sounds like a gag. No proof,
+
+00:10:22.560 --> 00:10:26.920
+no testimonials, no reviews, no
+
+00:10:24.560 --> 00:10:29.160
+specificity. Booking link is a naked
+
+00:10:26.920 --> 00:10:31.240
+URL. And I never followed up, which is
+
+00:10:29.160 --> 00:10:33.000
+like the most important thing with any
+
+00:10:31.240 --> 00:10:34.800
+sales or marketing process, especially
+
+00:10:33.000 --> 00:10:36.160
+in email marketing. Follow up, follow
+
+00:10:34.800 --> 00:10:38.160
+up, follow up. I could have done that so
+
+00:10:36.160 --> 00:10:40.720
+easily, and I didn't. My wife is hosting
+
+00:10:38.160 --> 00:10:42.520
+a children's market in 2 weeks, and I
+
+00:10:40.720 --> 00:10:45.400
+was just talking to her about this like
+
+00:10:42.520 --> 00:10:48.120
+4 hours ago. Babe, email those vendors
+
+00:10:45.400 --> 00:10:49.280
+more than feels reasonable. Because if
+
+00:10:48.120 --> 00:10:50.600
+they're not going to go anyway, then
+
+00:10:49.280 --> 00:10:51.800
+they might get annoyed. Who cares?
+
+00:10:50.600 --> 00:10:53.400
+They're not your customer. But, if
+
+00:10:51.800 --> 00:10:55.400
+they're on the fence, then every time
+
+00:10:53.400 --> 00:10:56.880
+you email them increases the likelihood
+
+00:10:55.400 --> 00:10:58.360
+that they'll come on your side of the
+
+00:10:56.880 --> 00:10:59.839
+fence. And what do you know? She sent
+
+00:10:58.360 --> 00:11:01.920
+another email, and she got four more
+
+00:10:59.839 --> 00:11:04.080
+sign-ups for the kids market. So, it
+
+00:11:01.920 --> 00:11:05.920
+works. Follow up. Be annoying. There's a
+
+00:11:04.080 --> 00:11:07.240
+lot of competition on our inbox and for
+
+00:11:05.920 --> 00:11:08.760
+our attention right now, more so than
+
+00:11:07.240 --> 00:11:11.000
+ever.
+
+00:11:08.760 --> 00:11:13.040
+So, I just re-prompted Claude. I like
+
+00:11:11.000 --> 00:11:15.000
+points 1, 3, and 4. Make three new
+
+00:11:13.040 --> 00:11:17.040
+emails that incorporate all three, and
+
+00:11:15.000 --> 00:11:19.520
+post the drafts in Omnisend. In other
+
+00:11:17.040 --> 00:11:21.680
+words, don't just read what's in there
+
+00:11:19.520 --> 00:11:23.080
+or tell me what to paste over there.
+
+00:11:21.680 --> 00:11:24.720
+Show me what you're putting over there,
+
+00:11:23.080 --> 00:11:27.160
+and then actually create the drafts in
+
+00:11:24.720 --> 00:11:29.080
+Omnisend. And then, either I can bounce
+
+00:11:27.160 --> 00:11:30.520
+over there and click send, or I can say,
+
+00:11:29.080 --> 00:11:32.680
+"All right, send it." Keep in mind,
+
+00:11:30.520 --> 00:11:35.240
+guys, over 150,000
+
+00:11:32.680 --> 00:11:37.160
+brands use Omnisend. It's an amazing
+
+00:11:35.240 --> 00:11:39.520
+piece of software. On average, their
+
+00:11:37.160 --> 00:11:43.000
+brands make $79
+
+00:11:39.520 --> 00:11:45.120
+for every $1 they spend on Omnisend. So,
+
+00:11:43.000 --> 00:11:47.760
+if your account's 30 bucks a month, 30 *
+
+00:11:45.120 --> 00:11:51.080
+79 is $2,370.
+
+00:11:47.760 --> 00:11:53.480
+The average brand would generate $2,370
+
+00:11:51.080 --> 00:11:54.600
+from that $30 a month plan. All right,
+
+00:11:53.480 --> 00:11:56.600
+and look at that, when I go over to
+
+00:11:54.600 --> 00:11:59.520
+Omnisend, there they are, all three
+
+00:11:56.600 --> 00:12:02.360
+emails. Boom, there's one. Boom, there's
+
+00:11:59.520 --> 00:12:04.120
+two. And boom, there's three. You guys
+
+00:12:02.360 --> 00:12:05.560
+already know that if you're interested
+
+00:12:04.120 --> 00:12:07.680
+in a newsletter or a personal
+
+00:12:05.560 --> 00:12:09.960
+newsletter, personal brand, or hosting
+
+00:12:07.680 --> 00:12:11.760
+your podcast, Beehiiv is the way to go.
+
+00:12:09.960 --> 00:12:13.920
+But when it comes to e-commerce email
+
+00:12:11.760 --> 00:12:15.920
+marketing, there's nothing like
+
+00:12:13.920 --> 00:12:17.680
+Omnisend. They support the podcast, I
+
+00:12:15.920 --> 00:12:19.560
+support them. Just to recap what just
+
+00:12:17.680 --> 00:12:21.480
+happened here, last week I sat down with
+
+00:12:19.560 --> 00:12:23.760
+Claude, I connected Omnisend to it
+
+00:12:21.480 --> 00:12:25.840
+through the MCP, and I generated 80
+
+00:12:23.760 --> 00:12:27.800
+bucks by sending one quick email to a
+
+00:12:25.840 --> 00:12:29.480
+fraction of a percent of my email list.
+
+00:12:27.800 --> 00:12:31.600
+It's as easy as chatting with your
+
+00:12:29.480 --> 00:12:34.839
+favorite AI agent. So, use promo code
+
+00:12:31.600 --> 00:12:38.800
+Kerner, k o e r n e r, for 30% off all
+
+00:12:34.839 --> 00:12:38.800
+paid plans for the first 30 months.
+

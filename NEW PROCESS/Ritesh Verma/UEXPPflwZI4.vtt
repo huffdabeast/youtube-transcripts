@@ -1,0 +1,1538 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.520
+Iman Gadzhi, Alex Hormozi, Dan Martell
+
+00:00:02.720 --> 00:00:07.200
+make millions online by posting content.
+
+00:00:05.520 --> 00:00:09.560
+But you tell yourself you can't do the
+
+00:00:07.200 --> 00:00:11.440
+same because you don't have the time to.
+
+00:00:09.560 --> 00:00:13.080
+You work a 9-5 job. You don't have
+
+00:00:11.440 --> 00:00:15.560
+production team. You don't have millions
+
+00:00:13.080 --> 00:00:17.880
+to spend on content. But what if there's
+
+00:00:15.560 --> 00:00:19.560
+a way to level the playing field without
+
+00:00:17.880 --> 00:00:21.480
+spending millions [music] or losing time
+
+00:00:19.560 --> 00:00:23.040
+out your day? See, this is Obsidian and
+
+00:00:21.480 --> 00:00:25.000
+Obsidian is a powerful tool that [music]
+
+00:00:23.040 --> 00:00:26.760
+elite entrepreneurs are using as their
+
+00:00:25.000 --> 00:00:28.200
+second brain. What's cool about it is
+
+00:00:26.760 --> 00:00:29.600
+you can pair with a Claude code to
+
+00:00:28.200 --> 00:00:31.040
+automate your content production
+
+00:00:29.600 --> 00:00:32.759
+process. In this video, I'm going to
+
+00:00:31.040 --> 00:00:35.080
+show you how to use Obsidian and Claude
+
+00:00:32.759 --> 00:00:37.040
+code to create content at scale,
+
+00:00:35.080 --> 00:00:39.080
+automate the entire production process,
+
+00:00:37.040 --> 00:00:41.240
+so you can create more content, make
+
+00:00:39.080 --> 00:00:42.960
+more money with less time to spend. Now,
+
+00:00:41.240 --> 00:00:44.680
+this will be a five-step process and the
+
+00:00:42.960 --> 00:00:47.000
+third step is what is going to put you
+
+00:00:44.680 --> 00:00:48.480
+on the same level as Alex Hormozi or at
+
+00:00:47.000 --> 00:00:49.920
+least pretty close to it. So, don't miss
+
+00:00:48.480 --> 00:00:51.360
+it. The first part of this process will
+
+00:00:49.920 --> 00:00:52.640
+be setting up folders in the Obsidian
+
+00:00:51.360 --> 00:00:54.080
+vault. We will have different folders
+
+00:00:52.640 --> 00:00:56.360
+for different cases. We'll be using
+
+00:00:54.080 --> 00:00:59.120
+Claude table five as our [music] model
+
+00:00:56.360 --> 00:01:00.880
+for this entire setup. It's been
+
+00:00:59.120 --> 00:01:02.440
+extended through July 19th, so we have
+
+00:01:00.880 --> 00:01:04.640
+more time to use it and we want to
+
+00:01:02.440 --> 00:01:07.000
+absolutely abuse it before it becomes
+
+00:01:04.640 --> 00:01:08.400
+pay per use. This is our content OS.
+
+00:01:07.000 --> 00:01:10.740
+We're going to be taking my scripts from
+
+00:01:08.400 --> 00:01:10.960
+YouTube, LinkedIn, putting into a vault.
+
+00:01:10.740 --> 00:01:12.520
+>> [music]
+
+00:01:10.960 --> 00:01:14.000
+>> Our brain will be Claude code. We'll
+
+00:01:12.520 --> 00:01:16.640
+have a repurpose skill that will turn
+
+00:01:14.000 --> 00:01:18.520
+our content and put it into IG reels,
+
+00:01:16.640 --> 00:01:19.560
+LinkedIn posts, X threads, and finally a
+
+00:01:18.520 --> 00:01:21.520
+dashboard [music]
+
+00:01:19.560 --> 00:01:23.680
+with a nice UI and everything as you see
+
+00:01:21.520 --> 00:01:25.150
+will be ran through Claude table five.
+
+00:01:23.680 --> 00:01:25.240
+So, this is the entire setup
+
+00:01:25.150 --> 00:01:26.800
+>> [music]
+
+00:01:25.240 --> 00:01:29.200
+>> that will be running. One long-form
+
+00:01:26.800 --> 00:01:30.960
+asset turned to 30 posts. With Obsidian
+
+00:01:29.200 --> 00:01:32.355
+as our second brain and Claude code will
+
+00:01:30.960 --> 00:01:34.200
+be the manager behind everything.
+
+00:01:32.355 --> 00:01:36.040
+[music] So, we have Obsidian on the left
+
+00:01:34.200 --> 00:01:37.640
+side and we have Claude code on your
+
+00:01:36.040 --> 00:01:39.800
+right side. So, we're going to have an
+
+00:01:37.640 --> 00:01:41.760
+inbox folder. Uh we're going to add a
+
+00:01:39.800 --> 00:01:44.640
+voice folder for our brand, our business
+
+00:01:41.760 --> 00:01:46.760
+voice. A library.
+
+00:01:44.640 --> 00:01:48.200
+And then a repurpose
+
+00:01:46.760 --> 00:01:51.640
+folder, which will be all of our
+
+00:01:48.200 --> 00:01:55.240
+repurpose content. A skills folder.
+
+00:01:51.640 --> 00:01:57.640
+And then a meta folder.
+
+00:01:55.240 --> 00:01:59.760
+And we're going to show where how Claude
+
+00:01:57.640 --> 00:02:01.440
+show us the folder tree just so we can
+
+00:01:59.760 --> 00:02:03.880
+make sure everything is set up properly.
+
+00:02:01.440 --> 00:02:07.120
+Okay, so this is the entire folder tree.
+
+00:02:03.880 --> 00:02:08.679
+See content OS, [music] inbox, repurpose
+
+00:02:07.120 --> 00:02:11.160
+skills.
+
+00:02:08.679 --> 00:02:12.360
+And there's a welcome.md file.
+
+00:02:11.160 --> 00:02:13.959
+Everything on the right side and you see
+
+00:02:12.360 --> 00:02:16.800
+Obsidian vault on the left side. We're
+
+00:02:13.959 --> 00:02:19.800
+creating a new file called Claude
+
+00:02:16.800 --> 00:02:19.800
+.md.
+
+00:02:20.040 --> 00:02:24.240
+And
+
+00:02:21.920 --> 00:02:26.160
+is
+
+00:02:24.240 --> 00:02:28.160
+And in this Claude.md file, we're going
+
+00:02:26.160 --> 00:02:30.800
+to give it a little bit of information
+
+00:02:28.160 --> 00:02:32.616
+on myself, the vault map, and the rules
+
+00:02:30.800 --> 00:02:32.640
+that we want it to follow
+
+00:02:32.616 --> 00:02:34.760
+>> [music]
+
+00:02:32.640 --> 00:02:36.240
+>> when working with our Obsidian vault.
+
+00:02:34.760 --> 00:02:37.560
+So, this Claude.md file is extremely
+
+00:02:36.240 --> 00:02:39.160
+important cuz this is what's going to
+
+00:02:37.560 --> 00:02:41.600
+let Claude know how she interact with
+
+00:02:39.160 --> 00:02:43.840
+second brain, how she navigate each
+
+00:02:41.600 --> 00:02:45.120
+folder, what each folder's purposes for.
+
+00:02:43.840 --> 00:02:47.080
+This will just give Claude good
+
+00:02:45.120 --> 00:02:48.280
+directions when it, I don't know,
+
+00:02:47.080 --> 00:02:49.646
+changes things in your second brain,
+
+00:02:48.280 --> 00:02:51.080
+deletes things, adds things, etc.
+
+00:02:49.646 --> 00:02:53.080
+[music] Second part of this process will
+
+00:02:51.080 --> 00:02:55.560
+be loading our voice content and
+
+00:02:53.080 --> 00:02:57.360
+tonality into our vault. Now, the manual
+
+00:02:55.560 --> 00:02:58.959
+way is just to copy and paste all of my
+
+00:02:57.360 --> 00:03:01.040
+scripts in Google Docs and paste it into
+
+00:02:58.959 --> 00:03:03.440
+the vault, but an faster way is to use
+
+00:03:01.040 --> 00:03:04.480
+MCP to grab my scripts across Instagram,
+
+00:03:03.440 --> 00:03:07.600
+LinkedIn, and X. [music] So, now we're
+
+00:03:04.480 --> 00:03:09.959
+going to check if Appify MCP server is
+
+00:03:07.600 --> 00:03:12.440
+installed. This Appify [music] MCP is
+
+00:03:09.959 --> 00:03:14.640
+what's going to allow us to interact
+
+00:03:12.440 --> 00:03:16.519
+with Instagram, LinkedIn, YouTube, and
+
+00:03:14.640 --> 00:03:18.239
+scrape data from there.
+
+00:03:16.519 --> 00:03:20.360
+Um
+
+00:03:18.239 --> 00:03:21.742
+Okay, let's see. Okay, so it looks like
+
+00:03:20.360 --> 00:03:24.200
+we already have Appify MCP server,
+
+00:03:21.742 --> 00:03:26.880
+[music] which is perfect.
+
+00:03:24.200 --> 00:03:29.000
+Okay, you can see some of the MCPs we
+
+00:03:26.880 --> 00:03:30.560
+have. There is Appify,
+
+00:03:29.000 --> 00:03:32.640
+which is great. So, this means that we
+
+00:03:30.560 --> 00:03:35.239
+can now interact with Appify, which is a
+
+00:03:32.640 --> 00:03:37.239
+great platform that has a ton of APIs we
+
+00:03:35.239 --> 00:03:38.640
+can leverage to again interact with
+
+00:03:37.239 --> 00:03:41.392
+social medias,
+
+00:03:38.640 --> 00:03:43.880
+scrape content, transcribe media, and
+
+00:03:41.392 --> 00:03:45.920
+[music] just do a whole scraping in our
+
+00:03:43.880 --> 00:03:47.360
+case. Asking if we're authenticated just
+
+00:03:45.920 --> 00:03:49.680
+to make sure that we can connect to
+
+00:03:47.360 --> 00:03:51.560
+Appify. Looks like we are. Okay, so we
+
+00:03:49.680 --> 00:03:55.200
+should be able to use Appify easily now.
+
+00:03:51.560 --> 00:03:57.440
+Here are some links that I have and this
+
+00:03:55.200 --> 00:04:00.320
+is all the different actors we have in
+
+00:03:57.440 --> 00:04:02.760
+our Apify. We can use any one of these
+
+00:04:00.320 --> 00:04:04.520
+APIs, any one of these scrapers, to get
+
+00:04:02.760 --> 00:04:05.760
+the data we need.
+
+00:04:04.520 --> 00:04:09.040
+Uh we have Instagram real scraper,
+
+00:04:05.760 --> 00:04:11.920
+LinkedIn profile post scraper.
+
+00:04:09.040 --> 00:04:11.920
+Um
+
+00:04:13.280 --> 00:04:19.239
+Okay, so we can just
+
+00:04:16.720 --> 00:04:20.840
+scroll down. This is our Instagram real
+
+00:04:19.239 --> 00:04:23.360
+scraper. Just making sure these are
+
+00:04:20.840 --> 00:04:25.040
+scrapers that we want.
+
+00:04:23.360 --> 00:04:26.800
+Yep, this is the one that we're looking
+
+00:04:25.040 --> 00:04:28.080
+for.
+
+00:04:26.800 --> 00:04:30.080
+You see it scraped a lot of information
+
+00:04:28.080 --> 00:04:32.160
+from Instagram posts.
+
+00:04:30.080 --> 00:04:34.160
+So,
+
+00:04:32.160 --> 00:04:38.200
+we're going to use [music]
+
+00:04:34.160 --> 00:04:40.240
+three separate sub agents in parallel,
+
+00:04:38.200 --> 00:04:44.000
+one per source. We're going to use three
+
+00:04:40.240 --> 00:04:46.760
+separate sub agents. Use three separate
+
+00:04:44.000 --> 00:04:50.040
+Sonnet sub agents in parallel,
+
+00:04:46.760 --> 00:04:53.000
+one per source, each with its own
+
+00:04:50.040 --> 00:04:53.000
+context.
+
+00:04:55.200 --> 00:04:57.720
+Now, the reason we're doing sub agents,
+
+00:04:56.640 --> 00:04:58.919
+one is to just make this [music] way
+
+00:04:57.720 --> 00:05:00.160
+easier.
+
+00:04:58.919 --> 00:05:03.520
+And two,
+
+00:05:00.160 --> 00:05:05.480
+we want to use Sonnet because we don't
+
+00:05:03.520 --> 00:05:06.560
+need to have high complex thinking for
+
+00:05:05.480 --> 00:05:07.853
+this. We're just scraping information
+
+00:05:06.560 --> 00:05:08.000
+and using API.
+
+00:05:07.853 --> 00:05:09.680
+>> [music]
+
+00:05:08.000 --> 00:05:11.240
+>> We want to save our token consumption,
+
+00:05:09.680 --> 00:05:13.480
+so there's no need to use Fable 5 for
+
+00:05:11.240 --> 00:05:14.800
+this. For sub agent one, which we work
+
+00:05:13.480 --> 00:05:17.200
+with LinkedIn,
+
+00:05:14.800 --> 00:05:19.680
+we'll use the Apify [music] actor Horus
+
+00:05:17.200 --> 00:05:21.680
+API {slash} LinkedIn.
+
+00:05:19.680 --> 00:05:24.800
+We need sub agent to be targeting a
+
+00:05:21.680 --> 00:05:24.800
+different API.
+
+00:05:25.560 --> 00:05:29.760
+All right.
+
+00:05:27.919 --> 00:05:32.560
+Uh profiles,
+
+00:05:29.760 --> 00:05:32.560
+posts.
+
+00:05:33.640 --> 00:05:38.960
+Are we fetching our last 10 posts
+
+00:05:35.363 --> 00:05:38.960
+[music] from my profile?
+
+00:05:48.120 --> 00:05:51.560
+We're going to say each post has its own
+
+00:05:50.000 --> 00:05:53.120
+.md file.
+
+00:05:51.560 --> 00:05:57.320
+And we're going to sign it inside the
+
+00:05:53.120 --> 00:05:59.360
+voice / LinkedIn subdirectory.
+
+00:05:57.320 --> 00:06:00.920
+And only store the text. So, we have our
+
+00:05:59.360 --> 00:06:03.120
+sub-agents assigned. Now, we're going to
+
+00:06:00.920 --> 00:06:05.320
+instruct Claude to get the transcripts
+
+00:06:03.120 --> 00:06:07.040
+using the YouTube Dip library for
+
+00:06:05.320 --> 00:06:09.280
+YouTube specifically.
+
+00:06:07.040 --> 00:06:11.600
+And everything else should be working
+
+00:06:09.280 --> 00:06:16.480
+just fine. So, now let's go ahead and
+
+00:06:11.600 --> 00:06:16.480
+just finish this last [music] line.
+
+00:06:16.760 --> 00:06:19.400
+ that.
+
+00:06:24.040 --> 00:06:27.880
+So, we have all of our sub-agents
+
+00:06:25.400 --> 00:06:29.360
+assigned and we're letting sub-agent 3
+
+00:06:27.880 --> 00:06:32.120
+know to make sure it stores all
+
+00:06:29.360 --> 00:06:33.840
+information in library / YouTube.
+
+00:06:32.120 --> 00:06:35.480
+And delete any of the
+
+00:06:33.840 --> 00:06:36.880
+voice-to-text [music] files generated.
+
+00:06:35.480 --> 00:06:38.040
+Videos are now running in parallel. You
+
+00:06:36.880 --> 00:06:40.440
+can see
+
+00:06:38.040 --> 00:06:43.160
+each agent is working on a separate
+
+00:06:40.440 --> 00:06:45.080
+platform and grabbing
+
+00:06:43.160 --> 00:06:47.400
+my transcripts from those platforms. And
+
+00:06:45.080 --> 00:06:49.360
+it's going to update our folders in our
+
+00:06:47.400 --> 00:06:50.720
+vault. So, stay tuned for that. All
+
+00:06:49.360 --> 00:06:52.160
+right, [music] it is done.
+
+00:06:50.720 --> 00:06:54.440
+You can see all the posts that were
+
+00:06:52.160 --> 00:06:56.560
+saved and the folder they were saved in.
+
+00:06:54.440 --> 00:06:58.080
+They're all saved in voice for LinkedIn,
+
+00:06:56.560 --> 00:07:00.080
+voice for Instagram, and in library
+
+00:06:58.080 --> 00:07:01.800
+YouTube.
+
+00:07:00.080 --> 00:07:03.680
+So, let me move that out. And let me go
+
+00:07:01.800 --> 00:07:06.840
+ahead and show you these folders. So, if
+
+00:07:03.680 --> 00:07:08.360
+you go to inbox, voice,
+
+00:07:06.840 --> 00:07:10.800
+um
+
+00:07:08.360 --> 00:07:13.720
+Look at that. It looks empty right now.
+
+00:07:10.800 --> 00:07:13.720
+Why is it empty?
+
+00:07:14.080 --> 00:07:17.160
+Um
+
+00:07:15.720 --> 00:07:19.440
+Letting Claude know that it's saved in
+
+00:07:17.160 --> 00:07:21.080
+the wrong place.
+
+00:07:19.440 --> 00:07:23.320
+Must be in the content OS. I think it
+
+00:07:21.080 --> 00:07:26.320
+saved it in another [music] directory.
+
+00:07:23.320 --> 00:07:28.080
+All 23 files have been saved in the
+
+00:07:26.320 --> 00:07:29.800
+proper folder.
+
+00:07:28.080 --> 00:07:31.200
+Look at the different scripts. These are
+
+00:07:29.800 --> 00:07:34.720
+They're my YouTube video scripts. It's
+
+00:07:31.200 --> 00:07:36.800
+kind of crazy to see how long they are.
+
+00:07:34.720 --> 00:07:38.200
+My All my LinkedIn posts for the last
+
+00:07:36.800 --> 00:07:39.360
+10.
+
+00:07:38.200 --> 00:07:40.960
+I'll be a little bit more consistent on
+
+00:07:39.360 --> 00:07:42.360
+LinkedIn. I've been posting like three
+
+00:07:40.960 --> 00:07:44.800
+times a month.
+
+00:07:42.360 --> 00:07:46.480
+Following LinkedIn so I can be motivated
+
+00:07:44.800 --> 00:07:47.760
+to post more.
+
+00:07:46.480 --> 00:07:49.840
+Here's a graph you have all these
+
+00:07:47.760 --> 00:07:52.360
+different posts now that [music]
+
+00:07:49.840 --> 00:07:53.760
+I've I have my social medias. You click
+
+00:07:52.360 --> 00:07:56.160
+any one of these nodes you're directly
+
+00:07:53.760 --> 00:07:58.080
+taken into one of them.
+
+00:07:56.160 --> 00:07:59.960
+You click like um
+
+00:07:58.080 --> 00:08:01.920
+I'm just clicking around. Let me just
+
+00:07:59.960 --> 00:08:03.600
+You just look at that.
+
+00:08:01.920 --> 00:08:06.520
+And the more content you add like your
+
+00:08:03.600 --> 00:08:07.840
+graph will look super crazy soon.
+
+00:08:06.520 --> 00:08:09.360
+As I add more and more scripts I've
+
+00:08:07.840 --> 00:08:09.945
+created like so many pieces of content
+
+00:08:09.360 --> 00:08:10.000
+now.
+
+00:08:09.945 --> 00:08:11.160
+>> [music]
+
+00:08:10.000 --> 00:08:13.040
+>> If I were to script every single one
+
+00:08:11.160 --> 00:08:14.080
+this graph would
+
+00:08:13.040 --> 00:08:16.200
+freaking take up all the space in my
+
+00:08:14.080 --> 00:08:18.000
+computer.
+
+00:08:16.200 --> 00:08:19.760
+See this post right here where it leads
+
+00:08:18.000 --> 00:08:21.320
+systems
+
+00:08:19.760 --> 00:08:23.280
+on Instagram. I've recently just talked
+
+00:08:21.320 --> 00:08:25.680
+about this. So now we're letting Claude
+
+00:08:23.280 --> 00:08:28.160
+know to read everything in both the
+
+00:08:25.680 --> 00:08:29.320
+voice folder and the library folder.
+
+00:08:28.160 --> 00:08:30.840
+And what we're going to have it do is
+
+00:08:29.320 --> 00:08:34.080
+analyze
+
+00:08:30.840 --> 00:08:36.400
+both folders and describe my style of
+
+00:08:34.080 --> 00:08:38.360
+hooks, sentence rhythm, and my overall
+
+00:08:36.400 --> 00:08:40.560
+tonality and the way I talk. Cuz this is
+
+00:08:38.360 --> 00:08:43.320
+very important for what's next. So now
+
+00:08:40.560 --> 00:08:44.839
+Claude is studying the content
+
+00:08:43.320 --> 00:08:47.120
+and it's previewing all the scripts and
+
+00:08:44.839 --> 00:08:49.600
+all the data it now has in our folder.
+
+00:08:47.120 --> 00:08:50.440
+As Claude is studying all the content in
+
+00:08:49.600 --> 00:08:52.640
+our brain, [music]
+
+00:08:50.440 --> 00:08:54.600
+this is just showing you how if you
+
+00:08:52.640 --> 00:08:56.000
+update your brain consistently and
+
+00:08:54.600 --> 00:08:57.800
+include as much content that you've
+
+00:08:56.000 --> 00:08:59.160
+created inside of it or if you never
+
+00:08:57.800 --> 00:09:01.080
+created content when you start creating
+
+00:08:59.160 --> 00:09:03.200
+content, [music] the smarter your brain
+
+00:09:01.080 --> 00:09:05.760
+is the more it'll be able to sound like
+
+00:09:03.200 --> 00:09:07.839
+you, talk like you. So every new content
+
+00:09:05.760 --> 00:09:09.720
+piece it makes, you're no longer going
+
+00:09:07.839 --> 00:09:11.640
+to have to create that yourself. Or you
+
+00:09:09.720 --> 00:09:13.920
+can rely entirely on your Obsidian
+
+00:09:11.640 --> 00:09:15.960
+Claude code system to write content for
+
+00:09:13.920 --> 00:09:18.400
+you, ID content for you, and reproduce
+
+00:09:15.960 --> 00:09:20.920
+content [music] for you. Which is a
+
+00:09:18.400 --> 00:09:22.440
+crazy to say because this is a cost that
+
+00:09:20.920 --> 00:09:24.240
+business owners spend two to three
+
+00:09:22.440 --> 00:09:26.839
+thousand dollars a month on a marketing
+
+00:09:24.240 --> 00:09:28.240
+agency to do for them. So Claude now has
+
+00:09:26.839 --> 00:09:31.120
+done the voice analysis which is on the
+
+00:09:28.240 --> 00:09:32.400
+right side. And you can see right here
+
+00:09:31.120 --> 00:09:34.160
+to the voice analysis [music]
+
+00:09:32.400 --> 00:09:36.360
+in Obsidian vault.
+
+00:09:34.160 --> 00:09:38.440
+And just oh, right there. This is a
+
+00:09:36.360 --> 00:09:40.000
+voice analysis that Claude has [music]
+
+00:09:38.440 --> 00:09:42.280
+come up with based off all of the
+
+00:09:40.000 --> 00:09:44.240
+content we currently have in our vault.
+
+00:09:42.280 --> 00:09:47.040
+You can see our hooks, our first line
+
+00:09:44.240 --> 00:09:48.800
+patterns, contrarian claims, direct
+
+00:09:47.040 --> 00:09:50.800
+question to reader, confession,
+
+00:09:48.800 --> 00:09:51.960
+vulnerability bait. And [music] if you
+
+00:09:50.800 --> 00:09:53.800
+don't have content of your own, you can
+
+00:09:51.960 --> 00:09:55.440
+always add your favorite creators or
+
+00:09:53.800 --> 00:09:56.840
+business owners and put their content in
+
+00:09:55.440 --> 00:09:58.840
+your City Vault and just study [music]
+
+00:09:56.840 --> 00:10:01.360
+and have Claude study theirs. And you
+
+00:09:58.840 --> 00:10:03.600
+can just emulate what they got going on.
+
+00:10:01.360 --> 00:10:06.240
+But it tells you tells you how I talk,
+
+00:10:03.600 --> 00:10:08.000
+tells you my sentence structures.
+
+00:10:06.240 --> 00:10:09.640
+It's very in-depth. It even has my
+
+00:10:08.000 --> 00:10:10.920
+recurring themes like services and
+
+00:10:09.640 --> 00:10:12.920
+software,
+
+00:10:10.920 --> 00:10:14.680
+um Reddit as an underrated research
+
+00:10:12.920 --> 00:10:17.200
+source.
+
+00:10:14.680 --> 00:10:18.840
+Um
+
+00:10:17.200 --> 00:10:21.240
+Let me go
+
+00:10:18.840 --> 00:10:22.840
+press the red execution speed.
+
+00:10:21.240 --> 00:10:25.280
+Ship fast, prompt, don't code,
+
+00:10:22.840 --> 00:10:27.200
+credibility stacking, sales tactic. And
+
+00:10:25.280 --> 00:10:29.080
+then signature phrases and ticks. It's
+
+00:10:27.200 --> 00:10:30.480
+saying I have ticks. That's
+
+00:10:29.080 --> 00:10:31.640
+that's interesting to say. So you see
+
+00:10:30.480 --> 00:10:34.080
+our voice analysis is kind of in the
+
+00:10:31.640 --> 00:10:35.800
+middle of our graph because it's is
+
+00:10:34.080 --> 00:10:37.600
+related to a lot of different sources.
+
+00:10:35.800 --> 00:10:39.320
+Like if you drag it, you see how all the
+
+00:10:37.600 --> 00:10:41.320
+other nodes are moving? That's because
+
+00:10:39.320 --> 00:10:42.760
+voice analysis is tied [music] to all
+
+00:10:41.320 --> 00:10:45.182
+the different content pieces cuz it
+
+00:10:42.760 --> 00:10:45.240
+studied them. So it's analyzed them.
+
+00:10:45.182 --> 00:10:47.080
+>> [music]
+
+00:10:45.240 --> 00:10:49.440
+>> So now based off our script, posts, and
+
+00:10:47.080 --> 00:10:50.839
+transcripts, we're going to ask Claude
+
+00:10:49.440 --> 00:10:53.040
+to tell us what are the three hooks I
+
+00:10:50.839 --> 00:10:56.920
+lean on the most and what topic do I
+
+00:10:53.040 --> 00:10:58.560
+talk about [music] more than I realize?
+
+00:10:56.920 --> 00:11:01.520
+And we're going to have it site notes
+
+00:10:58.560 --> 00:11:05.120
+for us. This is to show me, almost like
+
+00:11:01.520 --> 00:11:07.560
+my own CMO, chief marketing officer,
+
+00:11:05.120 --> 00:11:09.839
+what am I doing in the content space,
+
+00:11:07.560 --> 00:11:11.520
+how am I doing it, and what do I need to
+
+00:11:09.839 --> 00:11:13.800
+talk less about? [music] I talk about
+
+00:11:11.520 --> 00:11:15.440
+Reddit as Legion a lot, which I did not
+
+00:11:13.800 --> 00:11:16.560
+realize that. I thought I rarely talked
+
+00:11:15.440 --> 00:11:17.880
+about it.
+
+00:11:16.560 --> 00:11:19.600
+This is the insight that having a
+
+00:11:17.880 --> 00:11:21.400
+powerful second brain is able to give
+
+00:11:19.600 --> 00:11:22.960
+you as a business owner. The next part
+
+00:11:21.400 --> 00:11:24.920
+of this process is will allow you to
+
+00:11:22.960 --> 00:11:27.120
+create content at scale just like Alex
+
+00:11:24.920 --> 00:11:28.839
+Hormozi and Iman Gadzhi. This is a
+
+00:11:27.120 --> 00:11:30.480
+repurpose skill. You see Alex Hormozi
+
+00:11:28.839 --> 00:11:32.800
+and Iman Gadzhi are able to post nearly
+
+00:11:30.480 --> 00:11:34.640
+300 pieces of content a month. They get
+
+00:11:32.800 --> 00:11:36.160
+their long-form content and repurpose it
+
+00:11:34.640 --> 00:11:38.040
+into short-form content. [music] More
+
+00:11:36.160 --> 00:11:39.720
+visibility means a bigger brand, which
+
+00:11:38.040 --> 00:11:41.360
+means more clients. So, pay close
+
+00:11:39.720 --> 00:11:42.800
+attention to see how you can replicate
+
+00:11:41.360 --> 00:11:44.600
+this. We are now creating a repurpose
+
+00:11:42.800 --> 00:11:46.480
+goal, and we're giving Claude the steps
+
+00:11:44.600 --> 00:11:49.160
+that we need to give [music] it so it
+
+00:11:46.480 --> 00:11:50.840
+can take any long-form piece of content
+
+00:11:49.160 --> 00:11:53.720
+and repurpose it into shorter forms of
+
+00:11:50.840 --> 00:11:55.760
+content. We're making sure that any idea
+
+00:11:53.720 --> 00:11:57.680
+that we have, [music] we get an X
+
+00:11:55.760 --> 00:11:59.440
+thread, an Instagram reel script three
+
+00:11:57.680 --> 00:12:03.040
+with three hooks options, a LinkedIn
+
+00:11:59.440 --> 00:12:04.400
+post, all in my branded voice.
+
+00:12:03.040 --> 00:12:06.160
+And we're going to save the output to
+
+00:12:04.400 --> 00:12:07.840
+the repurpose folder that we created in
+
+00:12:06.160 --> 00:12:09.800
+the beginning of this video. And we're
+
+00:12:07.840 --> 00:12:10.988
+going to have one file per platform and
+
+00:12:09.800 --> 00:12:11.160
+save the instructions
+
+00:12:10.988 --> 00:12:14.560
+>> [music]
+
+00:12:11.160 --> 00:12:16.280
+>> as skills uh repurposes.md
+
+00:12:14.560 --> 00:12:18.200
+so we can reuse this repurpose goal for
+
+00:12:16.280 --> 00:12:20.320
+any long-form piece of content we
+
+00:12:18.200 --> 00:12:22.400
+create. So, any YouTube video, any long
+
+00:12:20.320 --> 00:12:24.440
+script that's over 2,000 words, we can
+
+00:12:22.400 --> 00:12:26.440
+just repurpose it with the skill over
+
+00:12:24.440 --> 00:12:28.120
+and over again without constantly adding
+
+00:12:26.440 --> 00:12:31.400
+a new prompt into Claude code. And we're
+
+00:12:28.120 --> 00:12:34.200
+going to give it a test script that is
+
+00:12:31.400 --> 00:12:36.280
+in my YouTube library folder.
+
+00:12:34.200 --> 00:12:40.240
+And let's see how it performs. [music]
+
+00:12:36.280 --> 00:12:42.440
+Okay, so these are the ideas that
+
+00:12:40.240 --> 00:12:44.680
+our repurpose skill [music]
+
+00:12:42.440 --> 00:12:46.760
+has given us.
+
+00:12:44.680 --> 00:12:49.480
+So, land 25K client for a single Reddit
+
+00:12:46.760 --> 00:12:49.480
+post.
+
+00:12:50.120 --> 00:12:54.520
+Um it's not bad. That's a trick story to
+
+00:12:53.360 --> 00:12:56.640
+convince people you're good before you
+
+00:12:54.520 --> 00:12:58.640
+ever ask for the site.
+
+00:12:56.640 --> 00:13:01.000
+Then we have a second idea, the
+
+00:12:58.640 --> 00:13:02.240
+three-call rule for closing five-figure
+
+00:13:01.000 --> 00:13:04.120
+AI deals. And you can see on the left
+
+00:13:02.240 --> 00:13:07.360
+side more and more
+
+00:13:04.120 --> 00:13:10.200
+files are being added. Now, these X
+
+00:13:07.360 --> 00:13:12.400
+thread posts are pretty solid in terms
+
+00:13:10.200 --> 00:13:15.560
+of the ideas,
+
+00:13:12.400 --> 00:13:17.560
+but we're going to give it two fixes.
+
+00:13:15.560 --> 00:13:20.240
+Essentially, the X [music] posts are a
+
+00:13:17.560 --> 00:13:23.440
+bit too long. Uh so, we're going to cap
+
+00:13:20.240 --> 00:13:26.760
+each of them at about 280 characters.
+
+00:13:23.440 --> 00:13:29.520
+This will make the post shorter,
+
+00:13:26.760 --> 00:13:31.200
+punchier, and less of a read cuz people
+
+00:13:29.520 --> 00:13:32.720
+on [music] X have very short attention
+
+00:13:31.200 --> 00:13:34.200
+spans.
+
+00:13:32.720 --> 00:13:37.240
+You can see the LinkedIn posts,
+
+00:13:34.200 --> 00:13:39.200
+Instagram reel scripts that [music]
+
+00:13:37.240 --> 00:13:42.840
+Claude has come up with based off of our
+
+00:13:39.200 --> 00:13:44.520
+long-form YouTube script we gave it.
+
+00:13:42.840 --> 00:13:46.400
+And these are all like scripts that we
+
+00:13:44.520 --> 00:13:47.480
+can say with different hook options,
+
+00:13:46.400 --> 00:13:49.239
+too.
+
+00:13:47.480 --> 00:13:50.760
+And he even gives hashtags and a CTA
+
+00:13:49.239 --> 00:13:53.720
+[music] at the bottom.
+
+00:13:50.760 --> 00:13:53.720
+See the scripts.
+
+00:13:54.360 --> 00:13:58.200
+It's pretty solid script. It's something
+
+00:13:55.840 --> 00:13:59.360
+that I can definitely say.
+
+00:13:58.200 --> 00:14:01.000
+I could definitely make it a bit better,
+
+00:13:59.360 --> 00:14:02.200
+though. I will say that. The next part
+
+00:14:01.000 --> 00:14:03.660
+of this process would be to create a
+
+00:14:02.200 --> 00:14:05.200
+dashboard that makes it easy for anyone
+
+00:14:03.660 --> 00:14:06.680
+[music] to interact with the second
+
+00:14:05.200 --> 00:14:08.280
+brain. This is important because if you
+
+00:14:06.680 --> 00:14:09.840
+were to sell this to a client, you want
+
+00:14:08.280 --> 00:14:11.920
+them to be able to copy and paste
+
+00:14:09.840 --> 00:14:13.600
+scripts directly from some sort of UI
+
+00:14:11.920 --> 00:14:14.800
+versus opening up Claude code and
+
+00:14:13.600 --> 00:14:16.720
+copying it from there. Now, we're going
+
+00:14:14.800 --> 00:14:18.640
+to be building our web dashboard for all
+
+00:14:16.720 --> 00:14:20.760
+the repurposed content. These are the
+
+00:14:18.640 --> 00:14:22.560
+requirements that we are passing into
+
+00:14:20.760 --> 00:14:24.000
+Claude.
+
+00:14:22.560 --> 00:14:27.200
+And this prompt, you can feel free to
+
+00:14:24.000 --> 00:14:28.800
+pause the video and copy at any time.
+
+00:14:27.200 --> 00:14:31.160
+So, that way we have the same or very
+
+00:14:28.800 --> 00:14:33.480
+similar output. And with this, we are
+
+00:14:31.160 --> 00:14:37.440
+going to create a UI that is very easy
+
+00:14:33.480 --> 00:14:39.440
+to just copy the outputs from. Okay, our
+
+00:14:37.440 --> 00:14:41.120
+dashboard is ready. You open up
+
+00:14:39.440 --> 00:14:43.800
+localhost and see
+
+00:14:41.120 --> 00:14:45.080
+the repurposed [music] content right
+
+00:14:43.800 --> 00:14:47.040
+here.
+
+00:14:45.080 --> 00:14:49.080
+Categorized by platform, these are the X
+
+00:14:47.040 --> 00:14:52.320
+posts.
+
+00:14:49.080 --> 00:14:53.760
+Instagram [music] posts.
+
+00:14:52.320 --> 00:14:57.200
+Um
+
+00:14:53.760 --> 00:14:57.200
+and then LinkedIn posts.
+
+00:14:57.880 --> 00:15:03.320
+And this is the same content we see
+
+00:15:01.400 --> 00:15:06.080
+in our vault, so it checks out. [music]
+
+00:15:03.320 --> 00:15:08.600
+Everything lines up correctly.
+
+00:15:06.080 --> 00:15:11.115
+Um let's go to the Instagram reels. Land
+
+00:15:08.600 --> 00:15:11.440
+25k client, land 25k client. Yep.
+
+00:15:11.115 --> 00:15:13.280
+>> [music]
+
+00:15:11.440 --> 00:15:15.240
+>> It matches up one to one. So, this is
+
+00:15:13.280 --> 00:15:17.960
+the UI that we can now use just to copy
+
+00:15:15.240 --> 00:15:20.240
+any one of these outputs and paste it
+
+00:15:17.960 --> 00:15:22.840
+anywhere, whether it be on LinkedIn, X,
+
+00:15:20.240 --> 00:15:24.400
+uh your Instagram reel, Notion, or
+
+00:15:22.840 --> 00:15:27.040
+script folder, wherever you want to
+
+00:15:24.400 --> 00:15:27.040
+store that.
+
+00:15:28.320 --> 00:15:32.920
+See, let me check. Yep, the copy works
+
+00:15:30.800 --> 00:15:34.440
+as well. So, this UI is fully
+
+00:15:32.920 --> 00:15:36.360
+functional. And of course, you can make
+
+00:15:34.440 --> 00:15:38.160
+it look a lot better and a lot cooler if
+
+00:15:36.360 --> 00:15:40.040
+you want to maybe deliver it to a client
+
+00:15:38.160 --> 00:15:41.240
+or just make it [music] flashier for
+
+00:15:40.040 --> 00:15:44.200
+your use. Maybe you want to make a post
+
+00:15:41.240 --> 00:15:44.200
+about it on social media.
+
+00:15:45.120 --> 00:15:49.160
+If we open up on Google Chrome, you
+
+00:15:46.960 --> 00:15:51.160
+maximize it, you can see it's like a
+
+00:15:49.160 --> 00:15:53.035
+Kanban board separated by the
+
+00:15:51.160 --> 00:15:53.080
+categories. So, it looks a lot better.
+
+00:15:53.035 --> 00:15:54.520
+>> [music]
+
+00:15:53.080 --> 00:15:56.320
+>> The final step is to automate our
+
+00:15:54.520 --> 00:15:58.240
+production with Claude, so we don't have
+
+00:15:56.320 --> 00:16:00.560
+to call upon these individual skills and
+
+00:15:58.240 --> 00:16:01.960
+commands. We [music] are CEOs. We don't
+
+00:16:00.560 --> 00:16:04.400
+have time to waste. So, now we're going
+
+00:16:01.960 --> 00:16:07.680
+to create our automation, which will
+
+00:16:04.400 --> 00:16:10.720
+essentially allow us to regenerate the
+
+00:16:07.680 --> 00:16:13.480
+dashboard with the newest content that
+
+00:16:10.720 --> 00:16:15.240
+is in our vault every time we drop a new
+
+00:16:13.480 --> 00:16:16.960
+long-form in the inbox. [music]
+
+00:16:15.240 --> 00:16:19.040
+So, every time we drop a maybe a new
+
+00:16:16.960 --> 00:16:21.600
+YouTube script in our inbox folder, the
+
+00:16:19.040 --> 00:16:23.160
+repurpose skill will run, it'll put it
+
+00:16:21.600 --> 00:16:24.800
+in the repurposed folder, and it'll
+
+00:16:23.160 --> 00:16:27.040
+update our repurposed content [music]
+
+00:16:24.800 --> 00:16:30.640
+dashboard. So, at any point, we can just
+
+00:16:27.040 --> 00:16:33.320
+copy any of the outputs, written posts,
+
+00:16:30.640 --> 00:16:35.760
+scripts, etc. for X, LinkedIn,
+
+00:16:33.320 --> 00:16:37.920
+Instagram, and just paste it on that
+
+00:16:35.760 --> 00:16:39.800
+platform, and we have a whole bank for
+
+00:16:37.920 --> 00:16:42.520
+each platform ready to go. We see Claude
+
+00:16:39.800 --> 00:16:45.520
+working is helping automation for us.
+
+00:16:42.520 --> 00:16:48.440
+Uh looks like
+
+00:16:45.520 --> 00:16:49.560
+it's using the schedule command, and
+
+00:16:48.440 --> 00:16:52.000
+we're going to [music] just use the
+
+00:16:49.560 --> 00:16:53.360
+Claude code schedule skill.
+
+00:16:52.000 --> 00:16:55.080
+So, if it asks these questions, just
+
+00:16:53.360 --> 00:16:56.720
+follow along. You want to utilize the
+
+00:16:55.080 --> 00:16:58.120
+schedule skill that Claude code natively
+
+00:16:56.720 --> 00:17:00.920
+has because [music]
+
+00:16:58.120 --> 00:17:03.280
+that is what will make this a routine
+
+00:17:00.920 --> 00:17:04.760
+that can run
+
+00:17:03.280 --> 00:17:06.400
+uh using this
+
+00:17:04.760 --> 00:17:08.360
+URL.
+
+00:17:06.400 --> 00:17:10.560
+We can just pick the create. It's
+
+00:17:08.360 --> 00:17:12.680
+recommended anyways. We essentially done
+
+00:17:10.560 --> 00:17:14.920
+everything in the Constant OS.
+
+00:17:12.680 --> 00:17:16.600
+You can see everything is also updated
+
+00:17:14.920 --> 00:17:17.920
+in UI size, so now you can have the show
+
+00:17:16.600 --> 00:17:20.280
+more options, so you can see the full
+
+00:17:17.920 --> 00:17:21.839
+post. You can copy and paste it. It
+
+00:17:20.280 --> 00:17:24.160
+works successfully. See right there,
+
+00:17:21.839 --> 00:17:26.079
+it's where you would paste, and now
+
+00:17:24.160 --> 00:17:27.920
+it's fully functional. If you find
+
+00:17:26.079 --> 00:17:29.440
+Obsidian Cloud code setup helpful at
+
+00:17:27.920 --> 00:17:31.200
+all, please leave a like as it lets me
+
+00:17:29.440 --> 00:17:33.080
+know to create more content like this to
+
+00:17:31.200 --> 00:17:34.520
+help you out. If you want to learn how
+
+00:17:33.080 --> 00:17:36.480
+to make your second brain to a
+
+00:17:34.520 --> 00:17:39.000
+profitable machine, watch this video
+
+00:17:36.480 --> 00:17:39.000
+next.
+

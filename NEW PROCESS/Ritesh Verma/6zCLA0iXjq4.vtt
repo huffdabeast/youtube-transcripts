@@ -1,0 +1,2822 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.560
+This is Tessa. She's a software engineer
+
+00:00:01.880 --> 00:00:05.440
+who's building a one-person AI business.
+
+00:00:03.560 --> 00:00:07.240
+Her AI SaaS already has some early
+
+00:00:05.440 --> 00:00:08.720
+customers, but she has no predictable
+
+00:00:07.240 --> 00:00:10.360
+customer acquisition system, is
+
+00:00:08.720 --> 00:00:12.160
+struggling with marketing, and needs
+
+00:00:10.360 --> 00:00:13.400
+better product direction. My name is
+
+00:00:12.160 --> 00:00:15.200
+Ritish Sharma, and I have [music] helped
+
+00:00:13.400 --> 00:00:17.280
+200 plus founders build and scale their
+
+00:00:15.200 --> 00:00:19.040
+own AI businesses. So, in this video,
+
+00:00:17.280 --> 00:00:21.160
+we're going to scale one live. So,
+
+00:00:19.040 --> 00:00:22.760
+welcome Tessa. Go ahead and tell us more
+
+00:00:21.160 --> 00:00:24.120
+about yourself as well as your product,
+
+00:00:22.760 --> 00:00:25.600
+what you're building, and what your
+
+00:00:24.120 --> 00:00:27.480
+current business journey look like.
+
+00:00:25.600 --> 00:00:29.600
+Yeah, I'm Tessa. Um I'm a full-stack
+
+00:00:27.480 --> 00:00:31.440
+software engineer, you know, or software
+
+00:00:29.600 --> 00:00:31.640
+engineer keep it short.
+
+00:00:31.440 --> 00:00:34.400
+>> [laughter]
+
+00:00:31.640 --> 00:00:35.840
+>> Yeah. But yeah, I work uh full-time, and
+
+00:00:34.400 --> 00:00:40.040
+I work at a performance marketing
+
+00:00:35.840 --> 00:00:41.960
+company. I am ready to uh you know, on
+
+00:00:40.040 --> 00:00:43.320
+this on this session with you. I just
+
+00:00:41.960 --> 00:00:45.600
+want to introduce like a SaaS that I've
+
+00:00:43.320 --> 00:00:48.360
+been working on. Uh I am new to like the
+
+00:00:45.600 --> 00:00:50.520
+AI SaaS space outreach space. But yeah,
+
+00:00:48.360 --> 00:00:53.440
+basically, uh what I'm working on is a
+
+00:00:50.520 --> 00:00:55.680
+product called Sub Roast, and it is a
+
+00:00:53.440 --> 00:00:59.000
+Reddit lead generation growth tool. Um
+
+00:00:55.680 --> 00:01:00.880
+so, it monitors Reddit 24/7, and it
+
+00:00:59.000 --> 00:01:02.480
+finds people who are you know,
+
+00:01:00.880 --> 00:01:04.800
+complaining about the problems that your
+
+00:01:02.480 --> 00:01:07.480
+product will solve, and it surfaces
+
+00:01:04.800 --> 00:01:10.280
+those leads to users, you know, as warm
+
+00:01:07.480 --> 00:01:12.840
+leads, and then also with the exact pain
+
+00:01:10.280 --> 00:01:15.000
+points pain points that they are
+
+00:01:12.840 --> 00:01:17.320
+experiencing, and how you can help.
+
+00:01:15.000 --> 00:01:21.000
+It'll draft an outreach, you know, DM
+
+00:01:17.320 --> 00:01:22.960
+message, comment as well for you and uh
+
+00:01:21.000 --> 00:01:25.600
+before you even reach out to them. So,
+
+00:01:22.960 --> 00:01:28.040
+yeah. So, now I appreciate the the
+
+00:01:25.600 --> 00:01:29.560
+background of product. Can you go ahead
+
+00:01:28.040 --> 00:01:30.640
+and tell me like what are the main like
+
+00:01:29.560 --> 00:01:31.560
+pain points you're running out in your
+
+00:01:30.640 --> 00:01:33.720
+product? Like what what are you
+
+00:01:31.560 --> 00:01:37.200
+struggling with? Good question. So, I'm
+
+00:01:33.720 --> 00:01:39.880
+definitely at the early stages of
+
+00:01:37.200 --> 00:01:43.200
+building this product. It's roughly been
+
+00:01:39.880 --> 00:01:46.480
+like three three-ish weeks. So, um
+
+00:01:43.200 --> 00:01:48.760
+naturally, gaining users, and you know,
+
+00:01:46.480 --> 00:01:51.360
+we're at that growth stage of just
+
+00:01:48.760 --> 00:01:53.520
+getting that feedback from people who
+
+00:01:51.360 --> 00:01:56.520
+are signing up and trying out your
+
+00:01:53.520 --> 00:01:58.920
+application. So, I have a handful of
+
+00:01:56.520 --> 00:02:01.360
+people who have who have joined, and I
+
+00:01:58.920 --> 00:02:03.200
+have started getting some good traction
+
+00:02:01.360 --> 00:02:05.200
+and getting good feedback from them uh
+
+00:02:03.200 --> 00:02:08.800
+simply by just sharing my journey,
+
+00:02:05.200 --> 00:02:10.200
+honestly, and posting in public on on X,
+
+00:02:08.800 --> 00:02:12.160
+Twitter, whatever.
+
+00:02:10.200 --> 00:02:13.680
+Um but yeah, so still in the early
+
+00:02:12.160 --> 00:02:15.680
+stages. I would say that is a big pain
+
+00:02:13.680 --> 00:02:17.200
+point. Um scattering that valuable
+
+00:02:15.680 --> 00:02:17.920
+feedback that will help shape the
+
+00:02:17.200 --> 00:02:19.680
+product.
+
+00:02:17.920 --> 00:02:21.160
+>> So, what made you go into even building
+
+00:02:19.680 --> 00:02:22.600
+this? Like why did you decide to you
+
+00:02:21.160 --> 00:02:25.411
+know, build like a Reddit lead
+
+00:02:22.600 --> 00:02:26.040
+generation tool? So, yeah, funny enough,
+
+00:02:25.411 --> 00:02:28.400
+[music]
+
+00:02:26.040 --> 00:02:30.840
+I actually the initial route that I took
+
+00:02:28.400 --> 00:02:33.800
+for client acquisition for my business
+
+00:02:30.840 --> 00:02:36.000
+was um actually through running ads, um
+
+00:02:33.800 --> 00:02:37.920
+which I guess is great. Like it'll it'll
+
+00:02:36.000 --> 00:02:40.360
+it's great if you want a lot of data
+
+00:02:37.920 --> 00:02:41.760
+quickly and to you know, work at scale
+
+00:02:40.360 --> 00:02:43.440
+very quickly and things like that. But
+
+00:02:41.760 --> 00:02:45.880
+of course, you know, it comes with a lot
+
+00:02:43.440 --> 00:02:47.840
+of concepts, which you have to like also
+
+00:02:45.880 --> 00:02:49.440
+you know, it's paid ads. So, like that
+
+00:02:47.840 --> 00:02:51.280
+was the route I took. And after
+
+00:02:49.440 --> 00:02:53.120
+investing like a pretty penny a pretty
+
+00:02:51.280 --> 00:02:56.160
+good amount, you know, into that and
+
+00:02:53.120 --> 00:02:58.320
+kind of seeing it like just okay results
+
+00:02:56.160 --> 00:03:01.000
+like kind of mediocre results, I uh I
+
+00:02:58.320 --> 00:03:02.960
+decided to I was like, "Let me check out
+
+00:03:01.000 --> 00:03:05.520
+Reddit. This is something that Ritish
+
+00:03:02.960 --> 00:03:08.040
+has been talking about like all the
+
+00:03:05.520 --> 00:03:09.200
+time, and it's getting him results. I
+
+00:03:08.040 --> 00:03:11.000
+see it's getting like other people
+
+00:03:09.200 --> 00:03:12.720
+results in your in your server, you
+
+00:03:11.000 --> 00:03:15.240
+know, in the mentorship and stuff." I
+
+00:03:12.720 --> 00:03:18.200
+literally like set up an account. I was
+
+00:03:15.240 --> 00:03:21.320
+using another lead gen tool um at the
+
+00:03:18.200 --> 00:03:23.480
+time. And you know, but then weeks, I
+
+00:03:21.320 --> 00:03:26.480
+actually literally landed like three
+
+00:03:23.480 --> 00:03:28.240
+clients. Just like wild, and for free,
+
+00:03:26.480 --> 00:03:30.560
+right? Like I didn't have to pay
+
+00:03:28.240 --> 00:03:33.400
+anything. And yeah, I landed three
+
+00:03:30.560 --> 00:03:35.440
+clients in in like two weeks, and then
+
+00:03:33.400 --> 00:03:38.280
+two of those three clients I landed
+
+00:03:35.440 --> 00:03:40.680
+within 24 hours of one another. So, like
+
+00:03:38.280 --> 00:03:43.800
+definitely onto something here, you
+
+00:03:40.680 --> 00:03:45.920
+know, and uh keep this momentum going.
+
+00:03:43.800 --> 00:03:47.640
+Shortly after, you know, the account got
+
+00:03:45.920 --> 00:03:49.680
+banned, and there were some kind of like
+
+00:03:47.640 --> 00:03:51.400
+you know, user experience issues I was
+
+00:03:49.680 --> 00:03:54.200
+having like rate limiting and things
+
+00:03:51.400 --> 00:03:56.400
+like that with that app. So, I decided
+
+00:03:54.200 --> 00:03:58.400
+to build my own cuz I yeah, I figured
+
+00:03:56.400 --> 00:04:00.080
+like what what why not?
+
+00:03:58.400 --> 00:04:01.960
+Like build something for myself that I
+
+00:04:00.080 --> 00:04:03.880
+could use it every day uh since I'm
+
+00:04:01.960 --> 00:04:06.360
+seeing success, and then now here we
+
+00:04:03.880 --> 00:04:08.200
+are. Like now I have like yeah, my baby
+
+00:04:06.360 --> 00:04:10.000
+Sub Roast. Yeah, so that's a great
+
+00:04:08.200 --> 00:04:11.360
+story. Love it. So, the way it's going
+
+00:04:10.000 --> 00:04:12.720
+to go is we're going to go ahead and
+
+00:04:11.360 --> 00:04:14.120
+check your website out, and then we'll
+
+00:04:12.720 --> 00:04:15.280
+check your product out, and then we'll
+
+00:04:14.120 --> 00:04:16.720
+also check your current marketing
+
+00:04:15.280 --> 00:04:18.680
+strategy, and we'll see how we can you
+
+00:04:16.720 --> 00:04:20.079
+know, fix things. And with the ball next
+
+00:04:18.680 --> 00:04:21.799
+to our try to remove that. So, to start
+
+00:04:20.079 --> 00:04:23.480
+off, go ahead share your screen and walk
+
+00:04:21.799 --> 00:04:25.120
+through your website and see if it's
+
+00:04:23.480 --> 00:04:28.040
+high converting or not. Can you see my
+
+00:04:25.120 --> 00:04:29.440
+screen okay? Um yep, I see it. Know
+
+00:04:28.040 --> 00:04:31.120
+exactly what your buyer needs for you to
+
+00:04:29.440 --> 00:04:32.640
+reach out. I like the theme. I don't
+
+00:04:31.120 --> 00:04:35.840
+know a lot of uh Oh, actually, one thing
+
+00:04:32.640 --> 00:04:39.000
+is is your logo a box? Yeah. Yeah. Yeah,
+
+00:04:35.840 --> 00:04:40.400
+you probably want like a a non-box logo,
+
+00:04:39.000 --> 00:04:42.600
+right? It looks like it's just like a
+
+00:04:40.400 --> 00:04:44.720
+PNG image. Maybe have Maybe if if you
+
+00:04:42.600 --> 00:04:46.880
+want it like that, have the corners more
+
+00:04:44.720 --> 00:04:48.720
+rounded. Or if you can find a logo
+
+00:04:46.880 --> 00:04:51.000
+that's just like the logo itself and not
+
+00:04:48.720 --> 00:04:53.600
+like it looks like you got like a PNG or
+
+00:04:51.000 --> 00:04:54.280
+a a a snapshot of it on a background.
+
+00:04:53.600 --> 00:04:56.680
+All right, that makes it look more
+
+00:04:54.280 --> 00:04:57.880
+official. But cool. So, I like how you
+
+00:04:56.680 --> 00:05:00.320
+have the black and white theme right
+
+00:04:57.880 --> 00:05:02.240
+away. A lot of Reddit SaaS go with the
+
+00:05:00.320 --> 00:05:03.680
+Reddit colors, like the red and white,
+
+00:05:02.240 --> 00:05:06.320
+all right? So, it's not my first time
+
+00:05:03.680 --> 00:05:08.240
+seeing a black and white themed Reddit
+
+00:05:06.320 --> 00:05:09.800
+SaaS, which does make it a little bit
+
+00:05:08.240 --> 00:05:12.720
+unique. But you're walking through the
+
+00:05:09.800 --> 00:05:14.920
+website. Great. Yeah, awesome. Um yeah,
+
+00:05:12.720 --> 00:05:16.800
+thanks for pointing that out. That was
+
+00:05:14.920 --> 00:05:19.480
+actually an approach that that was very
+
+00:05:16.800 --> 00:05:21.480
+intentional while building this, and I
+
+00:05:19.480 --> 00:05:22.840
+wanted something that would like you
+
+00:05:21.480 --> 00:05:24.400
+know, obviously
+
+00:05:22.840 --> 00:05:26.800
+you know, stand out as it does right now
+
+00:05:24.400 --> 00:05:28.720
+like you mentioned. So, now um yeah,
+
+00:05:26.800 --> 00:05:32.040
+basically, this is like the hero section
+
+00:05:28.720 --> 00:05:35.480
+that we see right here. My ICP that I'm
+
+00:05:32.040 --> 00:05:37.120
+envisioning for this is like indie SaaS,
+
+00:05:35.480 --> 00:05:39.000
+you know, indie founders, right? Indie
+
+00:05:37.120 --> 00:05:41.480
+SaaS or what have you. Kind of like
+
+00:05:39.000 --> 00:05:43.360
+people like myself or like yourself or
+
+00:05:41.480 --> 00:05:46.080
+whoever has like a product tool or
+
+00:05:43.360 --> 00:05:47.600
+whatever that they want to market, and
+
+00:05:46.080 --> 00:05:50.600
+uh they want to generate outreach and
+
+00:05:47.600 --> 00:05:53.480
+generate warm leads for that. So, the
+
+00:05:50.600 --> 00:05:55.680
+goal of this yeah, the goal of this is
+
+00:05:53.480 --> 00:05:57.480
+basically to let users know like when
+
+00:05:55.680 --> 00:05:59.840
+they come to this page what they can
+
+00:05:57.480 --> 00:06:01.480
+expect as far as like the product goes.
+
+00:05:59.840 --> 00:06:02.760
+So, letting them know like I'm going to
+
+00:06:01.480 --> 00:06:05.560
+you know, it'll
+
+00:06:02.760 --> 00:06:07.800
+it'll extract pain points behind every
+
+00:06:05.560 --> 00:06:10.040
+Reddit post cuz it's scanning Reddit
+
+00:06:07.800 --> 00:06:11.600
+24/7 for people who are complaining
+
+00:06:10.040 --> 00:06:13.160
+about you know, those issues that your
+
+00:06:11.600 --> 00:06:16.680
+product might solve, and then it'll
+
+00:06:13.160 --> 00:06:18.320
+actually classify each lead by purchase
+
+00:06:16.680 --> 00:06:20.440
+intent. All right, so maybe like
+
+00:06:18.320 --> 00:06:22.960
+purchase ready versus someone who's
+
+00:06:20.440 --> 00:06:24.640
+actively looking versus like you know,
+
+00:06:22.960 --> 00:06:26.240
+problem maybe they're aware that they
+
+00:06:24.640 --> 00:06:29.440
+have a problem, but they're not quite at
+
+00:06:26.240 --> 00:06:31.840
+that stage where they are ready to spend
+
+00:06:29.440 --> 00:06:34.480
+money. So, it'll classify them by
+
+00:06:31.840 --> 00:06:36.080
+purchase intent, and then again, um
+
+00:06:34.480 --> 00:06:37.960
+based on those patterns, I'll also let
+
+00:06:36.080 --> 00:06:39.160
+you know kind of like what lead what the
+
+00:06:37.960 --> 00:06:40.480
+leads are experiencing.
+
+00:06:39.160 --> 00:06:42.560
+>> So, you're essentially scoring your
+
+00:06:40.480 --> 00:06:44.480
+leads, right? Like high, medium, low.
+
+00:06:42.560 --> 00:06:45.560
+Okay, cool. So, let's go scroll down.
+
+00:06:44.480 --> 00:06:48.240
+See your parents your market is
+
+00:06:45.560 --> 00:06:49.640
+screaming about uh some manual tracking.
+
+00:06:48.240 --> 00:06:50.880
+Okay, it shows like these examples,
+
+00:06:49.640 --> 00:06:52.120
+right? I have different pain points. All
+
+00:06:50.880 --> 00:06:54.360
+right, let's keep going down. How it
+
+00:06:52.120 --> 00:06:55.680
+works, extract. Scanning tracks of
+
+00:06:54.360 --> 00:06:57.000
+Reddit and uses AI to extract pain
+
+00:06:55.680 --> 00:06:58.480
+points for every post on the screen
+
+00:06:57.000 --> 00:07:00.200
+matches. Each of these classified to one
+
+00:06:58.480 --> 00:07:01.960
+of five buyer intent tiers from purchase
+
+00:07:00.200 --> 00:07:03.520
+ready to unclassified and outreach
+
+00:07:01.960 --> 00:07:06.760
+generated personalized DM drag ground
+
+00:07:03.520 --> 00:07:08.680
+and leads as a pain point. So, these DMs
+
+00:07:06.760 --> 00:07:11.480
+or these uh personalized DMs are going
+
+00:07:08.680 --> 00:07:14.240
+to be sent in the actual DM itself as a
+
+00:07:11.480 --> 00:07:16.840
+comment under like someone's post? Or
+
+00:07:14.240 --> 00:07:19.000
+both? It actually will be both. Yeah.
+
+00:07:16.840 --> 00:07:21.520
+Okay. Okay. And it's the same exact
+
+00:07:19.000 --> 00:07:23.160
+comment or So, it'll actually be like
+
+00:07:21.520 --> 00:07:23.960
+per it'll be personalized like per
+
+00:07:23.160 --> 00:07:25.680
+person like per
+
+00:07:23.960 --> 00:07:26.720
+>> No, I'm saying like is it the message
+
+00:07:25.680 --> 00:07:28.400
+you're sending going to be the same in
+
+00:07:26.720 --> 00:07:29.760
+the comment section that you send the
+
+00:07:28.400 --> 00:07:32.320
+person as well as a DM or is it
+
+00:07:29.760 --> 00:07:35.680
+different? No, it's different. Okay, got
+
+00:07:32.320 --> 00:07:38.600
+you. Go down more. Um
+
+00:07:35.680 --> 00:07:40.080
+here are these also AI generated.
+
+00:07:38.600 --> 00:07:42.120
+Okay.
+
+00:07:40.080 --> 00:07:45.080
+Okay, let's go a little bit more down.
+
+00:07:42.120 --> 00:07:46.480
+Plus 18 points after revision. Is that
+
+00:07:45.080 --> 00:07:47.920
+what it what is that? Gamifying or you
+
+00:07:46.480 --> 00:07:50.360
+gamifying this or
+
+00:07:47.920 --> 00:07:52.400
+This is more this is more like for
+
+00:07:50.360 --> 00:07:54.720
+example, like when you cuz basically
+
+00:07:52.400 --> 00:07:57.280
+like this is ranking like your post,
+
+00:07:54.720 --> 00:07:59.560
+right? And giving it a virality score.
+
+00:07:57.280 --> 00:08:03.320
+So, you'll have like one score from your
+
+00:07:59.560 --> 00:08:05.040
+initial draft that you've pasted in and
+
+00:08:03.320 --> 00:08:08.280
+ran through the analysis. It'll give you
+
+00:08:05.040 --> 00:08:09.720
+feedback on like your like clarity fit,
+
+00:08:08.280 --> 00:08:12.400
+and then it'll give you a
+
+00:08:09.720 --> 00:08:14.680
+recommendation, you know, tweak this or
+
+00:08:12.400 --> 00:08:17.560
+update this and a recommended draft,
+
+00:08:14.680 --> 00:08:19.440
+right? Basically. And then your virality
+
+00:08:17.560 --> 00:08:22.280
+score you'll see
+
+00:08:19.440 --> 00:08:24.720
+uh you know, might go up 18 points or
+
+00:08:22.280 --> 00:08:25.920
+might go up, you know, however many um
+
+00:08:24.720 --> 00:08:29.240
+you know, based on the revisions that
+
+00:08:25.920 --> 00:08:30.480
+were made. Okay, keep scrolling.
+
+00:08:29.240 --> 00:08:31.920
+I feel like so the The thing about your
+
+00:08:30.480 --> 00:08:33.520
+website is it's good, but I feel like a
+
+00:08:31.920 --> 00:08:35.320
+lot of stuff is repeated. Like you
+
+00:08:33.520 --> 00:08:37.320
+discover your pain points, all right?
+
+00:08:35.320 --> 00:08:38.640
+Like find ideal customer. I think you
+
+00:08:37.320 --> 00:08:40.520
+repeat like that almost every section
+
+00:08:38.640 --> 00:08:42.479
+now. So, I think you need to have your
+
+00:08:40.520 --> 00:08:44.840
+sections more dedicated to something
+
+00:08:42.479 --> 00:08:46.960
+different that is attacking maybe a pain
+
+00:08:44.840 --> 00:08:48.200
+point of your ICP. Like right now,
+
+00:08:46.960 --> 00:08:51.080
+you're saying, "Hey, look, you can
+
+00:08:48.200 --> 00:08:52.160
+attack the pain points of like whoever
+
+00:08:51.080 --> 00:08:53.280
+you're trying to target." Like you're
+
+00:08:52.160 --> 00:08:55.040
+target Let's say you're targeting
+
+00:08:53.280 --> 00:08:57.400
+segment A. Your website is saying, "Hey,
+
+00:08:55.040 --> 00:08:59.200
+segment A, you can target segment B."
+
+00:08:57.400 --> 00:09:01.640
+Right? You can you can target segment
+
+00:08:59.200 --> 00:09:04.280
+B's pain points, but your whole website
+
+00:09:01.640 --> 00:09:06.400
+right now is focused on telling segment
+
+00:09:04.280 --> 00:09:08.000
+A how they can target segment B's pain
+
+00:09:06.400 --> 00:09:10.000
+points, right? You need to attack more
+
+00:09:08.000 --> 00:09:11.000
+of segment A's pain points as well. All
+
+00:09:10.000 --> 00:09:12.440
+right? So, right now, you're only
+
+00:09:11.000 --> 00:09:14.240
+speaking to segment B. You got to be
+
+00:09:12.440 --> 00:09:16.280
+speaking to segment A. Cuz like cuz a
+
+00:09:14.240 --> 00:09:18.520
+lot of that stuff is repeated. I think
+
+00:09:16.280 --> 00:09:19.760
+maybe either either you just don't have
+
+00:09:18.520 --> 00:09:21.800
+everything written, maybe have a visual
+
+00:09:19.760 --> 00:09:22.960
+demo as well of the software on the
+
+00:09:21.800 --> 00:09:25.280
+landing page. That's probably one of the
+
+00:09:22.960 --> 00:09:26.480
+go-tos you can like having a visual demo
+
+00:09:25.280 --> 00:09:27.840
+of the software in action is probably
+
+00:09:26.480 --> 00:09:29.720
+one of the best thing that you can do, I
+
+00:09:27.840 --> 00:09:31.720
+think. I know you have like a a GIF
+
+00:09:29.720 --> 00:09:33.760
+right now at the top, right? Under the
+
+00:09:31.720 --> 00:09:36.160
+hero banner, but a maybe a walk-through
+
+00:09:33.760 --> 00:09:37.640
+of you actually using your tool or
+
+00:09:36.160 --> 00:09:39.120
+showing me a a success story. Do you
+
+00:09:37.640 --> 00:09:40.680
+have testimonials right now that you can
+
+00:09:39.120 --> 00:09:42.760
+put on the website or are there some at
+
+00:09:40.680 --> 00:09:44.600
+the bottom of the website? Yeah, we have
+
+00:09:42.760 --> 00:09:47.080
+uh right now, we got like we have early
+
+00:09:44.600 --> 00:09:48.760
+signals uh from you know, feedback from
+
+00:09:47.080 --> 00:09:50.760
+people who have you know, posted their
+
+00:09:48.760 --> 00:09:52.880
+feedback or whatever based on X and base
+
+00:09:50.760 --> 00:09:54.080
+you know, from like me posting and
+
+00:09:52.880 --> 00:09:56.760
+sharing what
+
+00:09:54.080 --> 00:09:58.400
+So, working on it updates and stuff. Are
+
+00:09:56.760 --> 00:10:00.560
+they commenting where they commenting
+
+00:09:58.400 --> 00:10:03.440
+this feedback? Like on your
+
+00:10:00.560 --> 00:10:05.400
+like on the X or on your X post? On X
+
+00:10:03.440 --> 00:10:07.120
+like or in the comments, basically like
+
+00:10:05.400 --> 00:10:08.560
+in the threads. So what you should do
+
+00:10:07.120 --> 00:10:10.480
+cuz right now it looks fake, right? What
+
+00:10:08.560 --> 00:10:12.760
+you should do is just have a screenshot
+
+00:10:10.480 --> 00:10:13.840
+of the actual X post itself, right? And
+
+00:10:12.760 --> 00:10:15.360
+put that [clears throat] as an early
+
+00:10:13.840 --> 00:10:17.020
+signal and
+
+00:10:15.360 --> 00:10:18.600
+as proof. Right now you could you
+
+00:10:17.020 --> 00:10:20.640
+[music] could have just got anyone's X
+
+00:10:18.600 --> 00:10:22.280
+names put that quote and we don't really
+
+00:10:20.640 --> 00:10:24.160
+know if that's really that person saying
+
+00:10:22.280 --> 00:10:25.480
+it, you know? So having the screenshot
+
+00:10:24.160 --> 00:10:26.600
+is just so much more proof. And
+
+00:10:25.480 --> 00:10:28.040
+eventually you want to get to the video
+
+00:10:26.600 --> 00:10:30.080
+testimonial level cuz that's really
+
+00:10:28.040 --> 00:10:31.520
+what's going to drive sales. But for now
+
+00:10:30.080 --> 00:10:32.880
+since this is starting early, you know,
+
+00:10:31.520 --> 00:10:35.680
+at least have the comments
+
+00:10:32.880 --> 00:10:37.440
+screenshotted. Cool. Okay. Cool.
+
+00:10:35.680 --> 00:10:38.240
+Keep scrolling down. Is that it or is
+
+00:10:37.440 --> 00:10:39.440
+more?
+
+00:10:38.240 --> 00:10:41.560
+And then there's a little more too.
+
+00:10:39.440 --> 00:10:42.280
+Yeah. Rate limiting built in. So rate
+
+00:10:41.560 --> 00:10:43.560
+limiting is something you should move to
+
+00:10:42.280 --> 00:10:45.880
+the top. That's one of the big things
+
+00:10:43.560 --> 00:10:48.280
+about Reddit is rate limiting, right? A
+
+00:10:45.880 --> 00:10:49.920
+lot of Reddit SaaS will get you screwed
+
+00:10:48.280 --> 00:10:51.560
+and you want to make sure that when
+
+00:10:49.920 --> 00:10:53.240
+someone you're segment A cuz segment
+
+00:10:51.560 --> 00:10:55.160
+again segment A's pain points are what,
+
+00:10:53.240 --> 00:10:57.280
+right? How we targeting segment these
+
+00:10:55.160 --> 00:10:58.280
+pain points which you are which you are
+
+00:10:57.280 --> 00:11:00.400
+targeting and I know that's like a
+
+00:10:58.280 --> 00:11:02.120
+little weird word conundrum I just
+
+00:11:00.400 --> 00:11:03.839
+conundrum I just did. But another
+
+00:11:02.120 --> 00:11:05.160
+another thing about segment A is rate
+
+00:11:03.839 --> 00:11:06.720
+limiting. That's another problem they're
+
+00:11:05.160 --> 00:11:08.560
+having doing Reddit outreach, right?
+
+00:11:06.720 --> 00:11:10.120
+Drafting a personalized DM. You do talk
+
+00:11:08.560 --> 00:11:11.760
+about that pain point for segment A.
+
+00:11:10.120 --> 00:11:14.839
+What else is a is a pain point segment
+
+00:11:11.760 --> 00:11:16.240
+A? Being able to have common karma or
+
+00:11:14.839 --> 00:11:17.080
+having karma for the Reddit accounts.
+
+00:11:16.240 --> 00:11:18.800
+Although I don't think that really
+
+00:11:17.080 --> 00:11:20.080
+applies to this, right? So that's not
+
+00:11:18.800 --> 00:11:21.400
+really a pain point of segment A you
+
+00:11:20.080 --> 00:11:22.880
+need to speak on cuz your SaaS isn't
+
+00:11:21.400 --> 00:11:24.960
+about that. But rate limiting is one of
+
+00:11:22.880 --> 00:11:26.839
+the biggest pain points of segment A. So
+
+00:11:24.960 --> 00:11:28.412
+you want to make sure that you put that
+
+00:11:26.839 --> 00:11:30.120
+to the top. Noted. Noted.
+
+00:11:28.412 --> 00:11:31.800
+[clears throat] All right, cool.
+
+00:11:30.120 --> 00:11:34.240
+Scroll down a bit more. Okay, and get
+
+00:11:31.800 --> 00:11:35.800
+early access. Right, nice. Uh yeah,
+
+00:11:34.240 --> 00:11:37.240
+let's go back to the top. I think well
+
+00:11:35.800 --> 00:11:39.160
+from a from a overview perspective you
+
+00:11:37.240 --> 00:11:40.600
+definitely need more video demo. Like
+
+00:11:39.160 --> 00:11:42.600
+one video demo and like maybe more video
+
+00:11:40.600 --> 00:11:44.560
+GIFs. I like this right here this this
+
+00:11:42.600 --> 00:11:46.360
+intelligence report and the one above it
+
+00:11:44.560 --> 00:11:47.880
+as well. Keep scrolling. Like this one I
+
+00:11:46.360 --> 00:11:50.200
+like this show like this software in
+
+00:11:47.880 --> 00:11:51.920
+action. Mhm. And then this one as well.
+
+00:11:50.200 --> 00:11:54.160
+I like this like this this right here
+
+00:11:51.920 --> 00:11:56.320
+this on the right side can be moved down
+
+00:11:54.160 --> 00:11:58.400
+to a a section lower and you can have a
+
+00:11:56.320 --> 00:12:00.680
+video a walk-through video as on your
+
+00:11:58.400 --> 00:12:02.200
+hero banner. I think that that that
+
+00:12:00.680 --> 00:12:06.200
+blend would be way better in terms of
+
+00:12:02.200 --> 00:12:07.440
+conversions. Great. Okay. Okay. So now
+
+00:12:06.200 --> 00:12:09.720
+yeah, we can go ahead and note that
+
+00:12:07.440 --> 00:12:11.280
+down. Let's go ahead and look at the
+
+00:12:09.720 --> 00:12:13.560
+actual product now. All right, so
+
+00:12:11.280 --> 00:12:15.400
+jumping into the product. Okay, so yeah,
+
+00:12:13.560 --> 00:12:17.480
+when you when you sign in or when you
+
+00:12:15.400 --> 00:12:18.600
+create first you create an account, it's
+
+00:12:17.480 --> 00:12:19.960
+going to take you through a onboarding
+
+00:12:18.600 --> 00:12:21.600
+form. So
+
+00:12:19.960 --> 00:12:23.560
+I don't know if you want to do that or
+
+00:12:21.600 --> 00:12:25.040
+what have you, but I've already done the
+
+00:12:23.560 --> 00:12:26.800
+onboarding and stuff, but I'll kind of
+
+00:12:25.040 --> 00:12:29.160
+walk you through asking like, you know,
+
+00:12:26.800 --> 00:12:31.360
+how you found out about this this app
+
+00:12:29.160 --> 00:12:33.680
+and what have you and you know, what are
+
+00:12:31.360 --> 00:12:36.560
+you using right now for outreach and
+
+00:12:33.680 --> 00:12:38.600
+what does success look like for you and
+
+00:12:36.560 --> 00:12:40.880
+kind of get a a feel for the willingness
+
+00:12:38.600 --> 00:12:42.200
+to pay as well. Um so that's something
+
+00:12:40.880 --> 00:12:45.200
+that I'll ask all the users who are
+
+00:12:42.200 --> 00:12:47.640
+signing up. After you do that, then you
+
+00:12:45.200 --> 00:12:49.360
+get directed to your dashboard or your
+
+00:12:47.640 --> 00:12:50.560
+you know, like your campaign and stuff.
+
+00:12:49.360 --> 00:12:52.520
+So I've been experimenting, right?
+
+00:12:50.560 --> 00:12:55.240
+Testing out We have here I think like
+
+00:12:52.520 --> 00:12:57.880
+six campaigns or something along those
+
+00:12:55.240 --> 00:12:59.520
+lines. But yeah,
+
+00:12:57.880 --> 00:13:01.640
+right now we're in the DM campaign view,
+
+00:12:59.520 --> 00:13:03.839
+but you actually this is the actual
+
+00:13:01.640 --> 00:13:04.880
+dashboard view. So this is what you
+
+00:13:03.839 --> 00:13:06.640
+actually
+
+00:13:04.880 --> 00:13:09.480
+see after you complete the onboarding.
+
+00:13:06.640 --> 00:13:10.720
+And then it's kind of simple from here.
+
+00:13:09.480 --> 00:13:14.440
+You know, you just have like two main
+
+00:13:10.720 --> 00:13:16.960
+steps, right? Like you can do a draft
+
+00:13:14.440 --> 00:13:18.720
+and roast of your post and kind of get
+
+00:13:16.960 --> 00:13:20.760
+that virality score that we were talking
+
+00:13:18.720 --> 00:13:22.880
+about before or you could go straight
+
+00:13:20.760 --> 00:13:24.280
+into like creating like your you know,
+
+00:13:22.880 --> 00:13:26.920
+your first campaign and stuff which is
+
+00:13:24.280 --> 00:13:28.680
+like what I did. So yeah, and then once
+
+00:13:26.920 --> 00:13:30.280
+you complete complete both of them and
+
+00:13:28.680 --> 00:13:32.880
+then that's it and then you'll just have
+
+00:13:30.280 --> 00:13:36.880
+your access to your six DMs which is Six
+
+00:13:32.880 --> 00:13:39.160
+DM campaigns is basically one campaign
+
+00:13:36.880 --> 00:13:41.440
+is tracking all the leads or scanning
+
+00:13:39.160 --> 00:13:45.440
+Reddit continuously for that like group
+
+00:13:41.440 --> 00:13:46.800
+of leads. Yeah. Yeah, so let me go into
+
+00:13:45.440 --> 00:13:49.880
+this and I'll show you what it looks
+
+00:13:46.800 --> 00:13:50.320
+like. So these are some newer ones that
+
+00:13:49.880 --> 00:13:52.200
+I've
+
+00:13:50.320 --> 00:13:53.480
+>> Yeah. within the last day.
+
+00:13:52.200 --> 00:13:55.400
+Yeah, so
+
+00:13:53.480 --> 00:13:56.720
+let's do this one. Um
+
+00:13:55.400 --> 00:13:59.800
+so when you come in and click a
+
+00:13:56.720 --> 00:14:02.360
+campaign, we can sync leads manually.
+
+00:13:59.800 --> 00:14:06.200
+One thing I want to point out is that
+
+00:14:02.360 --> 00:14:08.080
+the there is a auto sync feature that
+
+00:14:06.200 --> 00:14:10.040
+will run periodically like every couple
+
+00:14:08.080 --> 00:14:11.800
+of hours as well and then of course
+
+00:14:10.040 --> 00:14:13.839
+like, you know, we can sync it manually
+
+00:14:11.800 --> 00:14:16.000
+as well and then we can also edit a
+
+00:14:13.839 --> 00:14:18.959
+campaign. I'm going to click on this
+
+00:14:16.000 --> 00:14:20.760
+just to give you a feel of what the form
+
+00:14:18.959 --> 00:14:22.720
+looks like when you edit cuz it's
+
+00:14:20.760 --> 00:14:24.600
+basically the same as like when you're
+
+00:14:22.720 --> 00:14:26.240
+creating a new campaign. So you just
+
+00:14:24.600 --> 00:14:28.720
+start by like putting in your campaign
+
+00:14:26.240 --> 00:14:30.040
+name, all right, put in your website URL
+
+00:14:28.720 --> 00:14:32.400
+and then basically put in like the
+
+00:14:30.040 --> 00:14:34.480
+services that you're offering. Okay.
+
+00:14:32.400 --> 00:14:36.760
+Yeah, I think I got I get the I get the
+
+00:14:34.480 --> 00:14:38.839
+how how it goes. You can close this out.
+
+00:14:36.760 --> 00:14:39.959
+So it's yeah you have your multiple
+
+00:14:38.839 --> 00:14:42.000
+keywords and you're continuously
+
+00:14:39.959 --> 00:14:43.800
+scanning, right? And then it's when when
+
+00:14:42.000 --> 00:14:45.440
+it finds a fit where is it going to show
+
+00:14:43.800 --> 00:14:48.240
+you like, hey look, it's time to DM this
+
+00:14:45.440 --> 00:14:51.320
+person. Yeah. So you have your leads
+
+00:14:48.240 --> 00:14:52.760
+inbox. Okay. And you'll have you know,
+
+00:14:51.320 --> 00:14:54.360
+you can filter by
+
+00:14:52.760 --> 00:14:57.200
+you know, new queued, drafted and what
+
+00:14:54.360 --> 00:14:58.839
+have you or by purchase intent as well.
+
+00:14:57.200 --> 00:15:01.640
+So these are the purchase intent
+
+00:14:58.839 --> 00:15:04.040
+categories. And then yeah, basically all
+
+00:15:01.640 --> 00:15:06.720
+new leads will be right here on this
+
+00:15:04.040 --> 00:15:08.200
+main right right on the this this like
+
+00:15:06.720 --> 00:15:10.040
+main view where we are.
+
+00:15:08.200 --> 00:15:12.520
+And this one is kind of grayed out
+
+00:15:10.040 --> 00:15:14.040
+because I didn't want to go forward with
+
+00:15:12.520 --> 00:15:15.320
+this one, you know, someone who just
+
+00:15:14.040 --> 00:15:17.920
+started their their business they're
+
+00:15:15.320 --> 00:15:21.000
+kind of young. So that one is not really
+
+00:15:17.920 --> 00:15:23.600
+applicable. So there's the option to
+
+00:15:21.000 --> 00:15:25.280
+skip if you want it. So that's what I
+
+00:15:23.600 --> 00:15:27.600
+ended up doing for that one. Otherwise
+
+00:15:25.280 --> 00:15:28.600
+yeah, when you come in, let me show you
+
+00:15:27.600 --> 00:15:31.680
+a
+
+00:15:28.600 --> 00:15:34.280
+fresh one because yeah, basically you'll
+
+00:15:31.680 --> 00:15:35.720
+see a new lead and you I'll scroll down
+
+00:15:34.280 --> 00:15:37.400
+and show you one that hasn't been
+
+00:15:35.720 --> 00:15:39.680
+analyzed and doesn't have a fit score
+
+00:15:37.400 --> 00:15:41.880
+and everything. But there's a button
+
+00:15:39.680 --> 00:15:44.120
+that you click for each one. It'll
+
+00:15:41.880 --> 00:15:46.880
+analyze it, all right, give you this fit
+
+00:15:44.120 --> 00:15:48.520
+score, urgency score and then it'll tell
+
+00:15:46.880 --> 00:15:50.839
+you kind of like a summary, all right,
+
+00:15:48.520 --> 00:15:52.400
+why it's a good lead, what they need,
+
+00:15:50.839 --> 00:15:54.280
+like you know, what their pain points
+
+00:15:52.400 --> 00:15:56.800
+are and then kind of like how to
+
+00:15:54.280 --> 00:15:59.520
+approach the conversation and reach out
+
+00:15:56.800 --> 00:16:01.560
+to them. Cool. We have a DM draft and
+
+00:15:59.520 --> 00:16:02.680
+then we also have a comment draft which
+
+00:16:01.560 --> 00:16:04.160
+we can click on. This is what we talked
+
+00:16:02.680 --> 00:16:08.440
+about before. I remember we asked you if
+
+00:16:04.160 --> 00:16:08.440
+it was different or not. Nice. Right.
+
+00:16:11.520 --> 00:16:13.959
+Okay, the comment also sounds a little
+
+00:16:12.520 --> 00:16:19.040
+bit too AI-like. It doesn't really sound
+
+00:16:13.959 --> 00:16:19.040
+like a human talking. I think the DMs go
+
+00:16:19.120 --> 00:16:21.959
+Yeah, I think I could tweak that. Like
+
+00:16:20.400 --> 00:16:23.400
+I've noticed that too. I'm going to like
+
+00:16:21.959 --> 00:16:25.280
+The DMs go is definitely a little bit
+
+00:16:23.400 --> 00:16:27.640
+better or like that message that sounds
+
+00:16:25.280 --> 00:16:29.200
+better. Uh-huh. Uh you could probably
+
+00:16:27.640 --> 00:16:30.600
+cut it shorter though. I think the
+
+00:16:29.200 --> 00:16:31.000
+message doesn't need to be that long.
+
+00:16:30.600 --> 00:16:32.360
+Yeah.
+
+00:16:31.000 --> 00:16:33.480
+>> Cuz when when it's a little bit too long
+
+00:16:32.360 --> 00:16:35.240
+I think that's where it kind of gives
+
+00:16:33.480 --> 00:16:37.600
+off like an AI is responding to this
+
+00:16:35.240 --> 00:16:39.079
+versus a human. Maybe you try using cuz
+
+00:16:37.600 --> 00:16:40.800
+Reddit is also informal. It's like one
+
+00:16:39.079 --> 00:16:42.400
+of the most informal platforms. So you
+
+00:16:40.800 --> 00:16:43.800
+can say something like, yo, right? And
+
+00:16:42.400 --> 00:16:45.040
+that will throw off the person cuz they
+
+00:16:43.800 --> 00:16:47.480
+don't they don't think an AI is going to
+
+00:16:45.040 --> 00:16:49.200
+say, yo. Yeah. Yeah. And that's a very
+
+00:16:47.480 --> 00:16:50.480
+good psychological trick to throw people
+
+00:16:49.200 --> 00:16:52.360
+off. And of course you don't have em
+
+00:16:50.480 --> 00:16:53.560
+dashes. That's a given. Mhm. But you
+
+00:16:52.360 --> 00:16:54.959
+don't have em dashes so you're good on
+
+00:16:53.560 --> 00:16:57.320
+that.
+
+00:16:54.959 --> 00:16:58.880
+Let's see what else. What's history look
+
+00:16:57.320 --> 00:17:01.320
+like? I I get DM campaigns. That's
+
+00:16:58.880 --> 00:17:03.079
+solid. Cool. I see I see let's stay here
+
+00:17:01.320 --> 00:17:04.800
+cuz I'm saying I'm guessing DM campaigns
+
+00:17:03.079 --> 00:17:06.000
+is one of your most shareable screens.
+
+00:17:04.800 --> 00:17:07.439
+This is a this is a crux of your
+
+00:17:06.000 --> 00:17:09.560
+software, right? This is a this is a
+
+00:17:07.439 --> 00:17:12.120
+screen that has to look the best or have
+
+00:17:09.560 --> 00:17:13.360
+different components that look amazing
+
+00:17:12.120 --> 00:17:14.959
+that you're going to share constantly on
+
+00:17:13.360 --> 00:17:17.360
+social media. Okay?
+
+00:17:14.959 --> 00:17:19.320
+>> So I know you're you're saying Reddit
+
+00:17:17.360 --> 00:17:20.880
+like you're in the Reddit SaaS
+
+00:17:19.320 --> 00:17:23.040
+the Reddit you're one of the Reddit SaaS
+
+00:17:20.880 --> 00:17:25.120
+and none of them look like this from
+
+00:17:23.040 --> 00:17:27.120
+what I know. So you are standing out in
+
+00:17:25.120 --> 00:17:28.640
+that in that front among other Reddit
+
+00:17:27.120 --> 00:17:30.480
+SaaS. I just wonder how much you're
+
+00:17:28.640 --> 00:17:32.160
+standing out in front of like other
+
+00:17:30.480 --> 00:17:34.440
+software cuz you have this very you do
+
+00:17:32.160 --> 00:17:36.040
+have this very dark white theme, right?
+
+00:17:34.440 --> 00:17:38.720
+So it's not really in your face or
+
+00:17:36.040 --> 00:17:40.720
+popping. So like I know a lot of these
+
+00:17:38.720 --> 00:17:42.800
+SaaS that go viral on social media
+
+00:17:40.720 --> 00:17:44.440
+they're like very popping in your face.
+
+00:17:42.800 --> 00:17:45.720
+But let's say you're in the market
+
+00:17:44.440 --> 00:17:47.280
+you're in like you know other Reddit
+
+00:17:45.720 --> 00:17:48.920
+SaaS and you've seen them. This one is
+
+00:17:47.280 --> 00:17:51.520
+going to speak out to you. So it's great
+
+00:17:48.920 --> 00:17:53.560
+for the ICP that is you know, your any
+
+00:17:51.520 --> 00:17:56.080
+developers who've already tried Reddit
+
+00:17:53.560 --> 00:17:58.440
+SaaS before. I don't know about the ICP
+
+00:17:56.080 --> 00:18:00.240
+for developers, right? Who are just who
+
+00:17:58.440 --> 00:18:01.880
+are who haven't tried any Reddit SaaS
+
+00:18:00.240 --> 00:18:03.960
+before and they see your product they're
+
+00:18:01.880 --> 00:18:05.920
+like this looks very like it's dark and
+
+00:18:03.960 --> 00:18:07.920
+white, right? It's not it's not visually
+
+00:18:05.920 --> 00:18:10.640
+enticing as much. Right.
+
+00:18:07.920 --> 00:18:12.560
+>> So I would I would probably check that
+
+00:18:10.640 --> 00:18:14.280
+out. See if you get if you have a light
+
+00:18:12.560 --> 00:18:16.000
+version. And I'm not saying this is it
+
+00:18:14.280 --> 00:18:17.792
+still looks great. What you can do is
+
+00:18:16.000 --> 00:18:18.040
+you can have a maybe AB test.
+
+00:18:17.792 --> 00:18:20.360
+>> [music]
+
+00:18:18.040 --> 00:18:22.520
+>> You can try the light mode and dark mode
+
+00:18:20.360 --> 00:18:24.360
+and among your users themselves, why
+
+00:18:22.520 --> 00:18:25.720
+don't you go and see which users have
+
+00:18:24.360 --> 00:18:27.560
+light mode which have dark mode and
+
+00:18:25.720 --> 00:18:29.600
+track that. So you can see which which
+
+00:18:27.560 --> 00:18:32.360
+mode your users like more. That's a good
+
+00:18:29.600 --> 00:18:34.440
+idea. Yeah. And then on your X post, I
+
+00:18:32.360 --> 00:18:36.440
+want you to make the same exact X post
+
+00:18:34.440 --> 00:18:38.800
+for light and dark. Like I spread it in
+
+00:18:36.440 --> 00:18:40.480
+three days apart. Same time, all right?
+
+00:18:38.800 --> 00:18:42.120
+And then see which one gets more views
+
+00:18:40.480 --> 00:18:44.200
+and try that like five times and that's
+
+00:18:42.120 --> 00:18:45.520
+enough data for you to see was it light
+
+00:18:44.200 --> 00:18:48.040
+mode that's responding better on social
+
+00:18:45.520 --> 00:18:49.560
+media or dark mode. And you can see for
+
+00:18:48.040 --> 00:18:51.480
+among the current users do you like do
+
+00:18:49.560 --> 00:18:53.240
+you like mode more or dark mode? Cuz it
+
+00:18:51.480 --> 00:18:55.480
+is different. The the market response
+
+00:18:53.240 --> 00:18:57.880
+will be different potentially. Great
+
+00:18:55.480 --> 00:18:59.480
+ideas. Okay.
+
+00:18:57.880 --> 00:19:01.240
+Of course, no worries. What is feedback
+
+00:18:59.480 --> 00:19:02.640
+in the account? Oh, that's just for if
+
+00:19:01.240 --> 00:19:05.000
+you're the software itself like getting
+
+00:19:02.640 --> 00:19:07.200
+feedback for to you? Yeah. Yeah.
+
+00:19:05.000 --> 00:19:09.720
+>> Okay, go back. That's fine.
+
+00:19:07.200 --> 00:19:11.640
+Um history. Okay. Go wait go back to the
+
+00:19:09.720 --> 00:19:12.919
+the dashboard. So your dashboard you're
+
+00:19:11.640 --> 00:19:15.400
+going to need to spend a little more
+
+00:19:12.919 --> 00:19:17.360
+effort on. I think it's too simple and
+
+00:19:15.400 --> 00:19:19.400
+again this goes back to the in your
+
+00:19:17.360 --> 00:19:20.679
+face, right? Making sure it stands out
+
+00:19:19.400 --> 00:19:22.960
+cuz the dashboard is one of your main
+
+00:19:20.679 --> 00:19:24.800
+screens. Your dashboard for any SaaS is
+
+00:19:22.960 --> 00:19:27.240
+your success screen. This is how you can
+
+00:19:24.800 --> 00:19:29.240
+show this is the volume users are using
+
+00:19:27.240 --> 00:19:30.880
+your SaaS in like this is the volume of
+
+00:19:29.240 --> 00:19:32.679
+leads that are being found. These are
+
+00:19:30.880 --> 00:19:34.000
+DMs that are drafted. These are posts
+
+00:19:32.679 --> 00:19:35.640
+published. These are campaigns being
+
+00:19:34.000 --> 00:19:36.760
+ran, right? The higher these numbers the
+
+00:19:35.640 --> 00:19:38.360
+more it looks like these users are
+
+00:19:36.760 --> 00:19:39.720
+actually cooking with this tool. The
+
+00:19:38.360 --> 00:19:41.600
+more it looks like these users are using
+
+00:19:39.720 --> 00:19:43.400
+this tool to a high degree and not just
+
+00:19:41.600 --> 00:19:45.080
+downloading it, using a little bit and
+
+00:19:43.400 --> 00:19:46.120
+then getting churned. So this is the
+
+00:19:45.080 --> 00:19:47.919
+this is a screen you want to share a
+
+00:19:46.120 --> 00:19:50.320
+lot, right? You kind of want access to
+
+00:19:47.919 --> 00:19:51.680
+other students' screens of this or Or
+
+00:19:50.320 --> 00:19:53.480
+can you could do it so that you can make
+
+00:19:51.680 --> 00:19:56.200
+students be like, "Hey, sorry, your
+
+00:19:53.480 --> 00:19:58.680
+users be like, hey, share your share
+
+00:19:56.200 --> 00:20:00.680
+your perform share your your use of Sub
+
+00:19:58.680 --> 00:20:02.360
+Roast. How much are you using Sub Roast?
+
+00:20:00.680 --> 00:20:03.400
+How much are you roasting?" And that
+
+00:20:02.360 --> 00:20:04.960
+could be that could be the tagline,
+
+00:20:03.400 --> 00:20:06.320
+right? How much are you roasting? And
+
+00:20:04.960 --> 00:20:08.120
+then you can they can share their their
+
+00:20:06.320 --> 00:20:09.880
+dashboard and that's like the viralness
+
+00:20:08.120 --> 00:20:12.240
+effect. They can tag you. That's how you
+
+00:20:09.880 --> 00:20:14.160
+can get some more exposure on X. But
+
+00:20:12.240 --> 00:20:15.880
+that's the feedback on natural product
+
+00:20:14.160 --> 00:20:17.000
+itself. Let me go ahead and let's let's
+
+00:20:15.880 --> 00:20:18.520
+move to your senior marketing
+
+00:20:17.000 --> 00:20:20.400
+strategies. How are you currently
+
+00:20:18.520 --> 00:20:22.160
+sourcing users? And before we even check
+
+00:20:20.400 --> 00:20:23.640
+your marketing strategy, do you have
+
+00:20:22.160 --> 00:20:26.120
+Where are you talking to your current
+
+00:20:23.640 --> 00:20:28.960
+users? Yeah, right now it's mostly
+
+00:20:26.120 --> 00:20:30.320
+through through email and then
+
+00:20:28.960 --> 00:20:31.560
+and then Discord as well.
+
+00:20:30.320 --> 00:20:33.360
+>> Okay, so you do have a Discord server,
+
+00:20:31.560 --> 00:20:34.560
+correct? Yep. Can you open your Discord
+
+00:20:33.360 --> 00:20:35.360
+server? I was about to say you don't
+
+00:20:34.560 --> 00:20:36.560
+have a Discord server, that's that's a
+
+00:20:35.360 --> 00:20:38.480
+problem. You definitely need a Discord
+
+00:20:36.560 --> 00:20:40.080
+server with your early users. Yeah, so
+
+00:20:38.480 --> 00:20:41.400
+they could they they could join right in
+
+00:20:40.080 --> 00:20:43.200
+here. Yeah, yeah.
+
+00:20:41.400 --> 00:20:44.920
+>> Yeah, mainly Discord and then
+
+00:20:43.200 --> 00:20:46.880
+and then email, too. Yeah, make sure you
+
+00:20:44.920 --> 00:20:48.760
+push them all to the Discord.
+
+00:20:46.880 --> 00:20:51.280
+I would I would say in the onboarding
+
+00:20:48.760 --> 00:20:53.280
+process, like have like a big join
+
+00:20:51.280 --> 00:20:54.720
+Discord button. Like like make it not
+
+00:20:53.280 --> 00:20:56.760
+optional, make it like you have to join
+
+00:20:54.720 --> 00:20:58.120
+Discord, [music] right? Yeah. And at
+
+00:20:56.760 --> 00:20:59.000
+least it open a new tab. If they don't
+
+00:20:58.120 --> 00:21:00.480
+have Discord, they can make an account
+
+00:20:59.000 --> 00:21:01.680
+and say, "Hey, come and join the come
+
+00:21:00.480 --> 00:21:03.320
+join our Discord." And there shouldn't
+
+00:21:01.680 --> 00:21:05.840
+be an X button or a skip button. It
+
+00:21:03.320 --> 00:21:07.320
+should be like join Discord button. And
+
+00:21:05.840 --> 00:21:09.080
+then once they once they click it, then
+
+00:21:07.320 --> 00:21:10.480
+it can move to the next screen. Cool.
+
+00:21:09.080 --> 00:21:11.960
+Okay. I'm going But you are focused on
+
+00:21:10.480 --> 00:21:14.040
+Discord cuz you only have Yeah, you want
+
+00:21:11.960 --> 00:21:15.320
+to up your members in Discord. And the
+
+00:21:14.040 --> 00:21:17.400
+Discord should be free, right? You
+
+00:21:15.320 --> 00:21:20.000
+should also have your Discord on your
+
+00:21:17.400 --> 00:21:21.640
+landing page. Because people need to see
+
+00:21:20.000 --> 00:21:23.360
+other people using a product and it'll
+
+00:21:21.640 --> 00:21:25.440
+create FOMO. And that way when you have
+
+00:21:23.360 --> 00:21:27.680
+other users who are like not using a
+
+00:21:25.440 --> 00:21:29.040
+product and they see like pay users
+
+00:21:27.680 --> 00:21:31.120
+using a product and like they're sharing
+
+00:21:29.040 --> 00:21:32.680
+their roast their dashboard, the success
+
+00:21:31.120 --> 00:21:33.680
+screen, right? And they're like, god, I
+
+00:21:32.680 --> 00:21:35.160
+want a dashboard like that. I want
+
+00:21:33.680 --> 00:21:36.760
+success like that." And that will get
+
+00:21:35.160 --> 00:21:39.080
+them to buy the product. Creates natural
+
+00:21:36.760 --> 00:21:42.480
+FOMO. So you want the Discord to be on
+
+00:21:39.080 --> 00:21:43.840
+public on the landing page. Sweet. Okay.
+
+00:21:42.480 --> 00:21:45.840
+All right. I'm going to do that, too.
+
+00:21:43.840 --> 00:21:46.600
+Cool. That should help.
+
+00:21:45.840 --> 00:21:48.240
+Of course, of course. That should help
+
+00:21:46.600 --> 00:21:50.320
+user conversion a good amount. Let's go
+
+00:21:48.240 --> 00:21:51.680
+to X. See what X is doing. Are you using
+
+00:21:50.320 --> 00:21:52.840
+other strategies aside from X right now?
+
+00:21:51.680 --> 00:21:55.280
+Like what are your strategies on a high
+
+00:21:52.840 --> 00:21:57.640
+level? Oh, yeah. For for outreach it's
+
+00:21:55.280 --> 00:21:59.360
+it's actually just been X. Yeah, that's
+
+00:21:57.640 --> 00:22:00.520
+been the only one. Let's go Can you show
+
+00:21:59.360 --> 00:22:02.520
+your X and show your X access on the
+
+00:22:00.520 --> 00:22:03.520
+posts you're making? And then are you
+
+00:22:02.520 --> 00:22:05.360
+while you're pulling that up, are you
+
+00:22:03.520 --> 00:22:06.920
+doing like are you actually like sending
+
+00:22:05.360 --> 00:22:08.480
+messages to people, like DMing them
+
+00:22:06.920 --> 00:22:10.240
+about this, or just commenting on their
+
+00:22:08.480 --> 00:22:12.320
+post, or writing posts yourself, or all
+
+00:22:10.240 --> 00:22:14.240
+three? Actually, yeah, that's that's a
+
+00:22:12.320 --> 00:22:16.200
+good question. I'm actually
+
+00:22:14.240 --> 00:22:19.080
+I'm actually like mostly posting in the
+
+00:22:16.200 --> 00:22:20.960
+build build in public group. And I've
+
+00:22:19.080 --> 00:22:23.880
+been getting like this like responses
+
+00:22:20.960 --> 00:22:25.920
+from there, honestly. And then also
+
+00:22:23.880 --> 00:22:27.360
+through posts like people wanting to
+
+00:22:25.920 --> 00:22:29.800
+connect with other people in tech, you
+
+00:22:27.360 --> 00:22:31.120
+know, and you know, wanting to see what
+
+00:22:29.800 --> 00:22:32.760
+everyone else is working on and we're
+
+00:22:31.120 --> 00:22:34.560
+sharing our SaaS. So like I've gotten a
+
+00:22:32.760 --> 00:22:36.920
+sign up user that way. Actually,
+
+00:22:34.560 --> 00:22:38.760
+literally like within the first two days
+
+00:22:36.920 --> 00:22:41.480
+of posting on X is when I got the first
+
+00:22:38.760 --> 00:22:43.120
+sign up just by Oh, nice.
+
+00:22:41.480 --> 00:22:44.920
+There you go. That's the power of X. You
+
+00:22:43.120 --> 00:22:46.280
+know, if you post every day consistently
+
+00:22:44.920 --> 00:22:47.679
+with that, you can get a lot of users
+
+00:22:46.280 --> 00:22:50.000
+coming in. You only need one viral
+
+00:22:47.679 --> 00:22:51.560
+tweet, you know, to to get like a good
+
+00:22:50.000 --> 00:22:54.920
+amount a good healthy early base of
+
+00:22:51.560 --> 00:22:56.320
+users. Yeah, yeah, it was wild. So just
+
+00:22:54.920 --> 00:22:59.080
+kind of like building up a following on
+
+00:22:56.320 --> 00:23:00.800
+there. Like Yeah. started with like 10
+
+00:22:59.080 --> 00:23:03.520
+followers and then just kind of through
+
+00:23:00.800 --> 00:23:05.120
+posting on there I got into 100. So
+
+00:23:03.520 --> 00:23:07.400
+Nice. Right? As an indie developer,
+
+00:23:05.120 --> 00:23:08.600
+that's a really good start. Now, I'd say
+
+00:23:07.400 --> 00:23:10.000
+X is great for connecting with other
+
+00:23:08.600 --> 00:23:11.280
+developers and a lot of developers will
+
+00:23:10.000 --> 00:23:13.120
+probably use your product if they're
+
+00:23:11.280 --> 00:23:14.960
+also like launching SaaS and whatnot.
+
+00:23:13.120 --> 00:23:16.960
+But I do want to like see if you pull up
+
+00:23:14.960 --> 00:23:19.280
+your X account. Let's look at your X
+
+00:23:16.960 --> 00:23:22.560
+posts that you made so far. Yeah, okay.
+
+00:23:19.280 --> 00:23:26.240
+So yeah, for outreach it's been posting
+
+00:23:22.560 --> 00:23:27.480
+in public on X. Let me go to my profile.
+
+00:23:26.240 --> 00:23:29.960
+Another thing I was going to mention was
+
+00:23:27.480 --> 00:23:32.880
+like I got ever featured. Kind of It's
+
+00:23:29.960 --> 00:23:35.400
+just like a a solo like solopreneur,
+
+00:23:32.880 --> 00:23:37.760
+small business, startup, or whatever.
+
+00:23:35.400 --> 00:23:39.560
+And they do like feature articles. So I
+
+00:23:37.760 --> 00:23:41.760
+got a sign up that way as as well.
+
+00:23:39.560 --> 00:23:43.840
+>> Oh, nice. But again, like that was also
+
+00:23:41.760 --> 00:23:46.000
+through through X.
+
+00:23:43.840 --> 00:23:48.840
+Found out about that company, submitted
+
+00:23:46.000 --> 00:23:50.640
+my product for review, it got approved,
+
+00:23:48.840 --> 00:23:52.679
+they wrote up an article. So I could
+
+00:23:50.640 --> 00:23:54.960
+show you that, too. But nonetheless, you
+
+00:23:52.679 --> 00:23:56.320
+know, yeah. All through all through X so
+
+00:23:54.960 --> 00:23:57.640
+far. It's pretty cool. Let's go ahead
+
+00:23:56.320 --> 00:23:58.880
+and look at your posts. Yeah, I'm sure
+
+00:23:57.640 --> 00:24:00.360
+the article's fine. Let me just look at
+
+00:23:58.880 --> 00:24:01.679
+your posts, though. I do want to see how
+
+00:24:00.360 --> 00:24:03.480
+you're writing it.
+
+00:24:01.679 --> 00:24:04.560
+Day 12. Okay, so you guys can keep
+
+00:24:03.480 --> 00:24:06.960
+scrolling down. I just want to check a
+
+00:24:04.560 --> 00:24:06.960
+little bit more.
+
+00:24:07.640 --> 00:24:13.560
+Okay, so here's what I'll say. I think
+
+00:24:11.280 --> 00:24:15.720
+you need to have more visuals in your
+
+00:24:13.560 --> 00:24:17.560
+posts. And you have you have the written
+
+00:24:15.720 --> 00:24:19.520
+post, but like there's no visuals. So no
+
+00:24:17.560 --> 00:24:21.760
+one can really see your SaaS or in
+
+00:24:19.520 --> 00:24:23.360
+action. So it's a lot of words, you
+
+00:24:21.760 --> 00:24:25.840
+know, picture show a thousand words,
+
+00:24:23.360 --> 00:24:27.480
+that's what they say. And X has a word
+
+00:24:25.840 --> 00:24:28.960
+limit anyways. You can never write a
+
+00:24:27.480 --> 00:24:30.360
+thousand words on X. So why don't you
+
+00:24:28.960 --> 00:24:34.320
+just use a picture to show the thousand
+
+00:24:30.360 --> 00:24:37.080
+words? Got it. Okay. I thought like
+
+00:24:34.320 --> 00:24:38.679
+Let me try I'll try it again. My posts
+
+00:24:37.080 --> 00:24:41.280
+that I was posting with the pictures,
+
+00:24:38.679 --> 00:24:43.679
+like they got removed. I thought it was
+
+00:24:41.280 --> 00:24:46.560
+like because I was using images and they
+
+00:24:43.679 --> 00:24:48.360
+didn't allow it. But it actually I think
+
+00:24:46.560 --> 00:24:49.840
+it might have been like maybe how I was
+
+00:24:48.360 --> 00:24:51.440
+like structuring it or maybe like
+
+00:24:49.840 --> 00:24:52.960
+certain word I used or something maybe
+
+00:24:51.440 --> 00:24:54.040
+triggered that. Yeah, don't be silly
+
+00:24:52.960 --> 00:24:55.160
+with that. You kind of just want to You
+
+00:24:54.040 --> 00:24:57.080
+don't even want to say it's your SaaS
+
+00:24:55.160 --> 00:24:59.720
+sometimes. You just want to show like,
+
+00:24:57.080 --> 00:25:02.720
+"I built this or I found this Reddit
+
+00:24:59.720 --> 00:25:05.600
+lead, sent him a DM, and it landed a a
+
+00:25:02.720 --> 00:25:08.840
+landed a blank deal or it it it results
+
+00:25:05.600 --> 00:25:10.080
+in a warm lead or a a near close. Here's
+
+00:25:08.840 --> 00:25:12.840
+here's the process." And just like a
+
+00:25:10.080 --> 00:25:14.920
+down arrow and it shows like a GIF or
+
+00:25:12.840 --> 00:25:18.000
+video demo of your of your product. Like
+
+00:25:14.920 --> 00:25:19.200
+a quick GIF of it in action. Nice.
+
+00:25:18.000 --> 00:25:20.320
+Yeah. So don't claim ownership of the
+
+00:25:19.200 --> 00:25:21.640
+product. Even though it's very clear
+
+00:25:20.320 --> 00:25:22.640
+it's yours, don't claim ownership of it
+
+00:25:21.640 --> 00:25:24.040
+sometimes.
+
+00:25:22.640 --> 00:25:25.440
+Okay. And then and then there's just
+
+00:25:24.040 --> 00:25:27.440
+like different X posts, right? There's
+
+00:25:25.440 --> 00:25:29.440
+like the one that saying day you're 21,
+
+00:25:27.440 --> 00:25:30.400
+you share your SaaS, right? Or it
+
+00:25:29.440 --> 00:25:32.360
+doesn't have to be your SaaS, it could
+
+00:25:30.400 --> 00:25:34.120
+also just be you like coding. A picture
+
+00:25:32.360 --> 00:25:35.160
+of yourself coding. That will resonate
+
+00:25:34.120 --> 00:25:37.120
+more. It doesn't have to be about your
+
+00:25:35.160 --> 00:25:38.679
+SaaS itself, it could be more about you,
+
+00:25:37.120 --> 00:25:40.520
+all right? But let people know like make
+
+00:25:38.679 --> 00:25:41.840
+it show that you're working on your SaaS
+
+00:25:40.520 --> 00:25:43.200
+every day. You're saying you work on
+
+00:25:41.840 --> 00:25:44.520
+your SaaS every day, that's great. You
+
+00:25:43.200 --> 00:25:46.160
+also have to show that you work on your
+
+00:25:44.520 --> 00:25:48.360
+SaaS every day. And I think that will
+
+00:25:46.160 --> 00:25:51.440
+help a lot with conversions. Good good
+
+00:25:48.360 --> 00:25:53.440
+feedback. Good feedback. Let's go over
+
+00:25:51.440 --> 00:25:54.760
+to your bio. Okay, and then okay, you
+
+00:25:53.440 --> 00:25:57.040
+have subroast.com, you have a link right
+
+00:25:54.760 --> 00:25:58.760
+there. Nice. I would say building Sub
+
+00:25:57.040 --> 00:26:00.720
+Roast, that should be like another part
+
+00:25:58.760 --> 00:26:01.480
+of your bio. Building Sub Roast Sub
+
+00:26:00.720 --> 00:26:03.200
+Roast. [music]
+
+00:26:01.480 --> 00:26:04.920
+And you eventually want to set up a Sub
+
+00:26:03.200 --> 00:26:07.040
+Roast X page as well. And that way you
+
+00:26:04.920 --> 00:26:10.320
+can add that page. And that Sub Roast
+
+00:26:07.040 --> 00:26:12.840
+page should be a bunch of posts of your
+
+00:26:10.320 --> 00:26:14.640
+product. I just glazing your product.
+
+00:26:12.840 --> 00:26:16.320
+Pure advertise your product. Video
+
+00:26:14.640 --> 00:26:18.800
+demos, images, everything with your
+
+00:26:16.320 --> 00:26:21.120
+product. I'll do that. That way everyone
+
+00:26:18.800 --> 00:26:23.240
+comes to your X page to see your Sub
+
+00:26:21.120 --> 00:26:24.440
+Roast page automatically, right? Cuz
+
+00:26:23.240 --> 00:26:26.360
+they'll probably click it and see what
+
+00:26:24.440 --> 00:26:27.679
+it is, what it has to offer. And then
+
+00:26:26.360 --> 00:26:29.400
+they're just going to be looking through
+
+00:26:27.679 --> 00:26:31.040
+it. Yeah, and then there will be That
+
+00:26:29.400 --> 00:26:32.679
+that page should be just an advertising
+
+00:26:31.040 --> 00:26:33.720
+page, honestly. A bunch of posts about
+
+00:26:32.679 --> 00:26:35.880
+your product in action, happy
+
+00:26:33.720 --> 00:26:37.560
+testimonials, and just milking it,
+
+00:26:35.880 --> 00:26:39.240
+right? Like like really showing your
+
+00:26:37.560 --> 00:26:40.640
+product in action and getting people to
+
+00:26:39.240 --> 00:26:42.360
+like, "Wow, I want to try this out."
+
+00:26:40.640 --> 00:26:44.040
+That's awesome. Okay. Yeah, it's always
+
+00:26:42.360 --> 00:26:46.400
+interesting like coming from a platform
+
+00:26:44.040 --> 00:26:48.480
+like Reddit when you're sharing on there
+
+00:26:46.400 --> 00:26:50.800
+and then going to X and it's like, "Oh
+
+00:26:48.480 --> 00:26:53.160
+yeah, they don't really care like how
+
+00:26:50.800 --> 00:26:54.679
+many comments you put or how many posts
+
+00:26:53.160 --> 00:26:55.960
+you put with the
+
+00:26:54.679 --> 00:26:58.080
+with the
+
+00:26:55.960 --> 00:27:00.160
+hour, minute, or day, or whatever. So
+
+00:26:58.080 --> 00:27:01.880
+like yeah, I could like Hey, Elon's
+
+00:27:00.160 --> 00:27:04.760
+coming through.
+
+00:27:01.880 --> 00:27:06.920
+Right. Elon's coming through. No, cool.
+
+00:27:04.760 --> 00:27:08.520
+So I would The next thing I'd say to
+
+00:27:06.920 --> 00:27:10.640
+really to wrap it up, I'd say your
+
+00:27:08.520 --> 00:27:12.640
+product is you know what to do on your
+
+00:27:10.640 --> 00:27:13.960
+product. The marketing plan, you know,
+
+00:27:12.640 --> 00:27:15.280
+you make your X posts a bit better.
+
+00:27:13.960 --> 00:27:17.440
+Another thing is why don't Have you been
+
+00:27:15.280 --> 00:27:19.120
+using Reddit to market on Reddit? Now,
+
+00:27:17.440 --> 00:27:20.793
+that's a good question. And that's
+
+00:27:19.120 --> 00:27:21.240
+something that
+
+00:27:20.793 --> 00:27:22.800
+>> [laughter]
+
+00:27:21.240 --> 00:27:25.600
+>> Cuz as you know with Reddit, it's very
+
+00:27:22.800 --> 00:27:28.200
+easy to get banned. So I've you know,
+
+00:27:25.600 --> 00:27:30.160
+but that doesn't you know, stop me,
+
+00:27:28.200 --> 00:27:31.240
+right? So I've just created like I think
+
+00:27:30.160 --> 00:27:33.320
+we talked about this. I've created
+
+00:27:31.240 --> 00:27:34.880
+another account. I haven't posted about
+
+00:27:33.320 --> 00:27:36.800
+it because like now I have like one
+
+00:27:34.880 --> 00:27:39.240
+account that has like such good karma
+
+00:27:36.800 --> 00:27:40.320
+and is doing so good. And then it's
+
+00:27:39.240 --> 00:27:42.080
+always like where you're trying to
+
+00:27:40.320 --> 00:27:43.560
+figure out where to post or where not to
+
+00:27:42.080 --> 00:27:46.600
+post to make sure, you know how that
+
+00:27:43.560 --> 00:27:48.400
+goes. So I have I think the strategy
+
+00:27:46.600 --> 00:27:50.360
+that I'm going to take to this also is
+
+00:27:48.400 --> 00:27:51.679
+just kind of creating other accounts and
+
+00:27:50.360 --> 00:27:54.520
+maybe creating some that are just for
+
+00:27:51.679 --> 00:27:56.080
+posting and sharing about it. And then
+
+00:27:54.520 --> 00:27:58.120
+having other accounts. So like the main
+
+00:27:56.080 --> 00:28:00.880
+one that I have now for just kind of
+
+00:27:58.120 --> 00:28:02.440
+like building up reputation Hey, why
+
+00:28:00.880 --> 00:28:04.520
+don't you use your software to like find
+
+00:28:02.440 --> 00:28:06.080
+leads off like find potential leads for
+
+00:28:04.520 --> 00:28:07.840
+your product, I'm saying. Have you used
+
+00:28:06.080 --> 00:28:10.080
+how to grow on Reddit? Yeah, yeah, yeah.
+
+00:28:07.840 --> 00:28:12.760
+Yeah, I do that. Yeah. Okay, I think I
+
+00:28:10.080 --> 00:28:14.504
+did see like Sub Sub Roast ICP, right?
+
+00:28:12.760 --> 00:28:14.720
+Is one of your campaigns. Yeah, I was
+
+00:28:14.504 --> 00:28:16.240
+>> [clears throat]
+
+00:28:14.720 --> 00:28:17.960
+>> really hoping you're in
+
+00:28:16.240 --> 00:28:20.040
+Another thing another thing I would do
+
+00:28:17.960 --> 00:28:22.000
+is I would say maybe start Instagram
+
+00:28:20.040 --> 00:28:23.600
+marketing, right? Some some reels on
+
+00:28:22.000 --> 00:28:26.040
+this, right? Cuz it's like not that
+
+00:28:23.600 --> 00:28:28.080
+popular. And so it's it's a newer space.
+
+00:28:26.040 --> 00:28:29.919
+Reddit, optimizing your Reddit, getting
+
+00:28:28.080 --> 00:28:31.240
+leads off Reddit, all that is new. So I
+
+00:28:29.919 --> 00:28:33.679
+can get traction on social media if you
+
+00:28:31.240 --> 00:28:35.440
+start sharing it as like a day one of
+
+00:28:33.679 --> 00:28:36.679
+building a million dollar app, day two
+
+00:28:35.440 --> 00:28:38.280
+of building a million dollar app, right?
+
+00:28:36.679 --> 00:28:39.919
+And that that tagline would resonate
+
+00:28:38.280 --> 00:28:42.280
+well with the audience. And your product
+
+00:28:39.919 --> 00:28:43.919
+being unique on top of that will make
+
+00:28:42.280 --> 00:28:45.600
+the video do even better. And people
+
+00:28:43.919 --> 00:28:47.480
+more people will invest in your journey.
+
+00:28:45.600 --> 00:28:49.640
+And yeah, and and you know,
+
+00:28:47.480 --> 00:28:51.800
+also like, you know, you're you're a
+
+00:28:49.640 --> 00:28:53.280
+woman of color in tech, right? That
+
+00:28:51.800 --> 00:28:55.120
+right there is something that's not as
+
+00:28:53.280 --> 00:28:57.159
+common, you know? So you you should lean
+
+00:28:55.120 --> 00:28:58.200
+into that angle, right? Lean into that.
+
+00:28:57.159 --> 00:28:59.040
+Like like there's a lot of people who
+
+00:28:58.200 --> 00:28:59.960
+probably would look at you and be like,
+
+00:28:59.040 --> 00:29:02.720
+"Wow, I want to be like her in the
+
+00:28:59.960 --> 00:29:05.080
+future," right? So like being that and
+
+00:29:02.720 --> 00:29:07.080
+like cuz I'm a I'm a brown guy in tech.
+
+00:29:05.080 --> 00:29:08.040
+There's a ton of us, you know? Like like
+
+00:29:07.080 --> 00:29:10.679
+they're they're everywhere. So there's
+
+00:29:08.040 --> 00:29:12.440
+nothing new right there. So like so I I
+
+00:29:10.679 --> 00:29:14.640
+can lean into it, but how like what's it
+
+00:29:12.440 --> 00:29:16.000
+going to do for me? So I
+
+00:29:14.640 --> 00:29:17.919
+I you should always lean into like what
+
+00:29:16.000 --> 00:29:19.960
+you have coming into like like just of
+
+00:29:17.919 --> 00:29:22.120
+who you are as a person, your ethnicity,
+
+00:29:19.960 --> 00:29:24.320
+your religion even, everything, right?
+
+00:29:22.120 --> 00:29:25.440
+And with that personal brand, you kind
+
+00:29:24.320 --> 00:29:27.360
+of want to put your personal brand and
+
+00:29:25.440 --> 00:29:29.480
+your personality into your product. And
+
+00:29:27.360 --> 00:29:31.320
+that's how you create a a good campaign
+
+00:29:29.480 --> 00:29:33.320
+of organic content, right? So you mix
+
+00:29:31.320 --> 00:29:35.120
+your personal life with some not life,
+
+00:29:33.320 --> 00:29:37.200
+but I mean the personal brand with like
+
+00:29:35.120 --> 00:29:38.919
+a product you're building. And then you
+
+00:29:37.200 --> 00:29:40.640
+can that's really what's going to drive
+
+00:29:38.919 --> 00:29:42.360
+people to your product and actually
+
+00:29:40.640 --> 00:29:43.560
+connect with you as a person. So in the
+
+00:29:42.360 --> 00:29:45.480
+future if you just decide to build
+
+00:29:43.560 --> 00:29:46.960
+another app, right? Your your audience
+
+00:29:45.480 --> 00:29:48.680
+will automatically move to that app as
+
+00:29:46.960 --> 00:29:51.200
+well. That's That's good. That's a good
+
+00:29:48.680 --> 00:29:52.480
+tidbit. And And I I'm actually I'm going
+
+00:29:51.200 --> 00:29:54.360
+to take that. I'm going to take that.
+
+00:29:52.480 --> 00:29:56.080
+I'm going to apply it. Yeah, love it.
+
+00:29:54.360 --> 00:29:57.200
+Love it. That's pretty much Yeah, that's
+
+00:29:56.080 --> 00:29:59.160
+pretty much it. I think you have a good
+
+00:29:57.200 --> 00:30:00.520
+amount of steps you need to take now. I
+
+00:29:59.160 --> 00:30:02.080
+don't want to flood you with more
+
+00:30:00.520 --> 00:30:03.240
+things. This should be Yeah, this should
+
+00:30:02.080 --> 00:30:04.600
+be good. This should be good enough to
+
+00:30:03.240 --> 00:30:06.560
+like get you to the next level. Yeah,
+
+00:30:04.600 --> 00:30:08.720
+definitely appreciate I I appreciate
+
+00:30:06.560 --> 00:30:10.640
+like you taking the time out to help.
+
+00:30:08.720 --> 00:30:11.960
+First time Not first time with software
+
+00:30:10.640 --> 00:30:13.560
+and like coding and all that, but
+
+00:30:11.960 --> 00:30:16.120
+definitely first time with like building
+
+00:30:13.560 --> 00:30:18.600
+a SaaS. So, I'm excited for the journey
+
+00:30:16.120 --> 00:30:21.640
+and I had a ton of good feedback. You're
+
+00:30:18.600 --> 00:30:22.640
+like the best in doing this. So, thank
+
+00:30:21.640 --> 00:30:24.240
+you.
+
+00:30:22.640 --> 00:30:26.920
+Appreciate it. Appreciate it, yeah.
+
+00:30:24.240 --> 00:30:26.920
+Thank you, man.
+

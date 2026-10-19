@@ -1,0 +1,1274 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.120
+I built a marketing automation app for
+
+00:00:01.720 --> 00:00:04.880
+Shopify, which has made a total of
+
+00:00:03.120 --> 00:00:05.760
+$147,000
+
+00:00:04.880 --> 00:00:08.360
+since launch.
+
+00:00:05.760 --> 00:00:09.480
+>> This is Jack. He spent a lot of time
+
+00:00:08.360 --> 00:00:12.080
+building spreadsheets [music] for
+
+00:00:09.480 --> 00:00:14.320
+clients until one day he thought, "What
+
+00:00:12.080 --> 00:00:16.800
+if I just turn this spreadsheet into an
+
+00:00:14.320 --> 00:00:18.560
+app?" Well, that's exactly what he did
+
+00:00:16.800 --> 00:00:20.240
+and just a few months later this
+
+00:00:18.560 --> 00:00:23.000
+spreadsheet turned app [music] makes him
+
+00:00:20.240 --> 00:00:24.440
+$30,000 per month. What's even crazier
+
+00:00:23.000 --> 00:00:26.200
+is that he wasn't technical. He built
+
+00:00:24.440 --> 00:00:27.800
+the whole thing with AI without knowing
+
+00:00:26.200 --> 00:00:29.480
+[music] how to code at all. I asked Jack
+
+00:00:27.800 --> 00:00:31.640
+to come on to the channel to break all
+
+00:00:29.480 --> 00:00:33.760
+this down and in this episode we'll dive
+
+00:00:31.640 --> 00:00:37.600
+into the exact spreadsheet that turned
+
+00:00:33.760 --> 00:00:39.920
+into a 30K MRR SaaS, why the best ideas
+
+00:00:37.600 --> 00:00:41.840
+come from work you are already doing,
+
+00:00:39.920 --> 00:00:43.800
+and exactly what Jack would do if he had
+
+00:00:41.840 --> 00:00:46.240
+to start over again and find a new idea
+
+00:00:43.800 --> 00:00:49.560
+in 2026. All right, let's dive in. I'm
+
+00:00:46.240 --> 00:00:50.920
+Pat Walls and this is Starter Story.
+
+00:00:49.560 --> 00:00:52.320
+All right, Jack, great to have you on
+
+00:00:50.920 --> 00:00:53.800
+the channel. Tell me a little bit about
+
+00:00:52.320 --> 00:00:54.440
+who you are, what you built, and what's
+
+00:00:53.800 --> 00:00:55.840
+your story.
+
+00:00:54.440 --> 00:00:57.880
+>> My name's Jack and I built a profit
+
+00:00:55.840 --> 00:00:59.680
+analytics and marketing automation app
+
+00:00:57.880 --> 00:01:02.200
+for Shopify called Profit AI, which has
+
+00:00:59.680 --> 00:01:03.800
+made a total of $147,000
+
+00:01:02.200 --> 00:01:06.040
+since launch in December and is
+
+00:01:03.800 --> 00:01:08.520
+currently at 30K MRR [music]
+
+00:01:06.040 --> 00:01:10.200
+for the app and just under 40K MRR for
+
+00:01:08.520 --> 00:01:11.640
+services. I launched Profit AI in
+
+00:01:10.200 --> 00:01:13.240
+December. It was actually approved by
+
+00:01:11.640 --> 00:01:14.640
+Shopify on Christmas Day and we had no
+
+00:01:13.240 --> 00:01:16.160
+customers for the first couple of weeks,
+
+00:01:14.640 --> 00:01:17.880
+just a handful of brands that I knew
+
+00:01:16.160 --> 00:01:19.680
+that were beta testing the app and
+
+00:01:17.880 --> 00:01:20.920
+getting free access. And yeah, today I'm
+
+00:01:19.680 --> 00:01:22.680
+excited to share more about how I took
+
+00:01:20.920 --> 00:01:24.000
+it from zero to where it is now.
+
+00:01:22.680 --> 00:01:26.000
+>> That's amazing. You started this
+
+00:01:24.000 --> 00:01:27.560
+business in December. We are recording
+
+00:01:26.000 --> 00:01:29.720
+right now in May and you took this
+
+00:01:27.560 --> 00:01:31.040
+business from zero to tens of thousands
+
+00:01:29.720 --> 00:01:32.160
+of dollars in revenue. That's one of the
+
+00:01:31.040 --> 00:01:33.760
+reasons why I wanted to bring you on the
+
+00:01:32.160 --> 00:01:36.040
+channel. So, let's talk about this
+
+00:01:33.760 --> 00:01:37.960
+actual business that you built. Can you
+
+00:01:36.040 --> 00:01:39.360
+explain to me how it works, what's the
+
+00:01:37.960 --> 00:01:40.800
+business model, and then if you could
+
+00:01:39.360 --> 00:01:42.440
+pull up some of your revenue dashboards
+
+00:01:40.800 --> 00:01:44.760
+so we can show that this thing is legit?
+
+00:01:42.440 --> 00:01:46.760
+>> For sure. So, this is a app for Shopify
+
+00:01:44.760 --> 00:01:48.720
+that users can download to their Shopify
+
+00:01:46.760 --> 00:01:50.320
+store that shows them their profit in
+
+00:01:48.720 --> 00:01:51.800
+seconds. This is normally a process that
+
+00:01:50.320 --> 00:01:53.320
+takes a lot of time. So, if I click
+
+00:01:51.800 --> 00:01:54.720
+through the screenshots here, they
+
+00:01:53.320 --> 00:01:56.000
+pretty much tell the story. You can see
+
+00:01:54.720 --> 00:01:58.560
+your profit in seconds. You can see
+
+00:01:56.000 --> 00:01:59.800
+exactly your ad platform profit dollars.
+
+00:01:58.560 --> 00:02:01.160
+So, on the left-hand side here, we have
+
+00:01:59.800 --> 00:02:02.960
+spend per channel. [music] On the
+
+00:02:01.160 --> 00:02:03.960
+middle, we have uh sales attributed to
+
+00:02:02.960 --> 00:02:05.520
+those channels. And then on the
+
+00:02:03.960 --> 00:02:06.680
+right-hand side, it's profit after all
+
+00:02:05.520 --> 00:02:08.280
+of the costs associated with those
+
+00:02:06.680 --> 00:02:10.000
+sales, including marketing. There's also
+
+00:02:08.280 --> 00:02:11.480
+for enterprise stores, for stores that
+
+00:02:10.000 --> 00:02:13.440
+are spending a lot of money, the ability
+
+00:02:11.480 --> 00:02:14.959
+to forecast and measure the relationship
+
+00:02:13.440 --> 00:02:16.840
+between their ad spend [music] and their
+
+00:02:14.959 --> 00:02:18.720
+revenue from each of their platforms. To
+
+00:02:16.840 --> 00:02:20.760
+launch ads, send email, and build
+
+00:02:18.720 --> 00:02:23.120
+landing pages with AI. This is a bit of
+
+00:02:20.760 --> 00:02:24.760
+a cloud wrapper, cloud plus skills plus
+
+00:02:23.120 --> 00:02:26.200
+connectors through Profit AI. You can
+
+00:02:24.760 --> 00:02:27.760
+generate a profit and loss from all of
+
+00:02:26.200 --> 00:02:30.000
+your costs and your revenues, and you
+
+00:02:27.760 --> 00:02:31.200
+can deploy directly from Slack. So, we
+
+00:02:30.000 --> 00:02:32.880
+have a free plan and we have a paid
+
+00:02:31.200 --> 00:02:34.480
+plan. Paid plan used to be $5,000 a
+
+00:02:32.880 --> 00:02:36.040
+month, but we only had a couple takers
+
+00:02:34.480 --> 00:02:37.040
+that were, you know, businesses that we
+
+00:02:36.040 --> 00:02:38.880
+were already working with. So, we
+
+00:02:37.040 --> 00:02:40.480
+dropped it down to $800 a month. And
+
+00:02:38.880 --> 00:02:42.440
+then the free plan, even though a lot of
+
+00:02:40.480 --> 00:02:44.360
+people talk uh badly about free plans, I
+
+00:02:42.440 --> 00:02:45.320
+want everyone to use the app. So, when
+
+00:02:44.360 --> 00:02:46.920
+you sign up for the free plan, you
+
+00:02:45.320 --> 00:02:49.000
+actually have a 30-day free trial of the
+
+00:02:46.920 --> 00:02:51.360
+paid plan to see all of the app. This is
+
+00:02:49.000 --> 00:02:52.640
+the dashboard here in Shopify. We're
+
+00:02:51.360 --> 00:02:54.000
+churning as many customers as we're
+
+00:02:52.640 --> 00:02:56.680
+bringing [music] in. Basically, you can
+
+00:02:54.000 --> 00:02:58.959
+see we have 43 un- uninstalls and 47
+
+00:02:56.680 --> 00:03:01.280
+installs. We made $147,000 to date. We
+
+00:02:58.959 --> 00:03:03.160
+have 122 users of the app right now.
+
+00:03:01.280 --> 00:03:05.280
+Most of them are free. I think we have
+
+00:03:03.160 --> 00:03:07.360
+38 or 39 paying customers right now.
+
+00:03:05.280 --> 00:03:09.080
+Most of our growth came from like word
+
+00:03:07.360 --> 00:03:10.959
+of mouth. We haven't hard launched the
+
+00:03:09.080 --> 00:03:11.840
+marketing yet at all. But soon, we're
+
+00:03:10.959 --> 00:03:12.920
+going to do a big launch.
+
+00:03:11.840 --> 00:03:14.280
+>> Okay, cool. Well, thank you for sharing
+
+00:03:12.920 --> 00:03:16.360
+that. I mean, you just started the app,
+
+00:03:14.280 --> 00:03:17.800
+so the churn, it's not the most ideal,
+
+00:03:16.360 --> 00:03:20.720
+but still pretty crazy that you got it
+
+00:03:17.800 --> 00:03:22.280
+up to 30, [music] 40K MRR in really just
+
+00:03:20.720 --> 00:03:23.060
+a couple months. So, congratulations on
+
+00:03:22.280 --> 00:03:24.239
+that. It's part of the reason why
+
+00:03:23.060 --> 00:03:26.120
+[music] I wanted to bring you on to show
+
+00:03:24.239 --> 00:03:27.400
+how fast you can do this if you follow
+
+00:03:26.120 --> 00:03:28.600
+this kind of one thing that we're going
+
+00:03:27.400 --> 00:03:30.040
+to talk about in a little bit. But
+
+00:03:28.600 --> 00:03:31.519
+before we do, let's talk about your
+
+00:03:30.040 --> 00:03:33.120
+background. How do you get to this point
+
+00:03:31.519 --> 00:03:34.280
+where you're have a really successful
+
+00:03:33.120 --> 00:03:35.040
+app that you [music] built in like a
+
+00:03:34.280 --> 00:03:37.120
+couple months?
+
+00:03:35.040 --> 00:03:38.800
+>> In 2016, I launched my first e-commerce
+
+00:03:37.120 --> 00:03:40.680
+brand. We made software and sample packs
+
+00:03:38.800 --> 00:03:42.760
+for music producers. Think like dubstep
+
+00:03:40.680 --> 00:03:44.239
+music producers. The brand grew very
+
+00:03:42.760 --> 00:03:45.160
+quickly, and profitability was never a
+
+00:03:44.239 --> 00:03:46.280
+question. We were [music] extremely high
+
+00:03:45.160 --> 00:03:47.920
+margin because we were a software
+
+00:03:46.280 --> 00:03:49.680
+business. So, yeah, I went from being a
+
+00:03:47.920 --> 00:03:50.880
+broke university student uh to having
+
+00:03:49.680 --> 00:03:52.720
+more money than I knew what to do with
+
+00:03:50.880 --> 00:03:53.760
+very quickly. After a while, I noticed
+
+00:03:52.720 --> 00:03:55.480
+that there was a scene [music]
+
+00:03:53.760 --> 00:03:57.760
+around e-commerce that had grown. There
+
+00:03:55.480 --> 00:03:59.200
+were marketers and agencies and gurus
+
+00:03:57.760 --> 00:04:01.000
+all built around running [music]
+
+00:03:59.200 --> 00:04:02.640
+Facebook ads. And this is how we grew
+
+00:04:01.000 --> 00:04:04.400
+the business, right? I put a thousand
+
+00:04:02.640 --> 00:04:06.040
+dollars into Facebook ads [music] and it
+
+00:04:04.400 --> 00:04:07.760
+just worked. So, I thought, "Hey, maybe
+
+00:04:06.040 --> 00:04:09.640
+this is something I can contribute to."
+
+00:04:07.760 --> 00:04:11.640
+So, I started consulting for small
+
+00:04:09.640 --> 00:04:13.920
+mom-and-pop shop agencies, then bigger
+
+00:04:11.640 --> 00:04:15.600
+agencies. The ethos is and the idea
+
+00:04:13.920 --> 00:04:17.280
+behind it is that good decision-making
+
+00:04:15.600 --> 00:04:19.120
+comes from information. I built
+
+00:04:17.280 --> 00:04:21.120
+easy-to-access spreadsheets that helped
+
+00:04:19.120 --> 00:04:23.080
+founders and marketing teams make better
+
+00:04:21.120 --> 00:04:25.880
+decisions. Spreadsheets are donkey and
+
+00:04:23.080 --> 00:04:27.680
+data is time-consuming task. So, I asked
+
+00:04:25.880 --> 00:04:29.440
+a developer that I met who built this
+
+00:04:27.680 --> 00:04:31.280
+online marketplace called Nookazon for
+
+00:04:29.440 --> 00:04:33.000
+the game Animal Crossing and he just
+
+00:04:31.280 --> 00:04:35.280
+basically refused. So, yeah, then coding
+
+00:04:33.000 --> 00:04:37.160
+with AI started and then I got stuck in.
+
+00:04:35.280 --> 00:04:38.440
+I spent your hundreds of hours in Codex
+
+00:04:37.160 --> 00:04:40.480
+figuring it out.
+
+00:04:38.440 --> 00:04:42.320
+>> what Jack is breaking down right now.
+
+00:04:40.480 --> 00:04:44.320
+And I think anyone can come up with SaaS
+
+00:04:42.320 --> 00:04:46.520
+ideas like this by following [music] his
+
+00:04:44.320 --> 00:04:48.560
+approach, which is find the boring
+
+00:04:46.520 --> 00:04:49.513
+repetitive tasks and turn them into
+
+00:04:48.560 --> 00:04:49.560
+simple products.
+
+00:04:49.513 --> 00:04:51.800
+>> [music]
+
+00:04:49.560 --> 00:04:54.200
+>> But, here's the thing. I know coming up
+
+00:04:51.800 --> 00:04:56.240
+with ideas is hard. Well, that's exactly
+
+00:04:54.200 --> 00:04:58.680
+why we built [music] the MicroSaaS Ideas
+
+00:04:56.240 --> 00:05:00.960
+Database, where you will find over 100
+
+00:04:58.680 --> 00:05:02.280
+proven MicroSaaS ideas just like this
+
+00:05:00.960 --> 00:05:04.360
+that are already working. [music] We'll
+
+00:05:02.280 --> 00:05:06.280
+break them all down with real revenue,
+
+00:05:04.360 --> 00:05:08.320
+their pricing, growth tactics, and the
+
+00:05:06.280 --> 00:05:10.000
+cost to start behind each one. If you
+
+00:05:08.320 --> 00:05:11.760
+download this database right now, you'll
+
+00:05:10.000 --> 00:05:13.919
+get to see [music] apps that people
+
+00:05:11.760 --> 00:05:15.560
+actually are willing to pay for. So, if
+
+00:05:13.919 --> 00:05:16.720
+you're ready to build, head to the first
+
+00:05:15.560 --> 00:05:19.040
+link in the description right down
+
+00:05:16.720 --> 00:05:19.919
+there. You can grab it 100% for free.
+
+00:05:19.040 --> 00:05:21.240
+All right, let's get back to the
+
+00:05:19.919 --> 00:05:22.919
+episode. Okay, so, one of the reasons
+
+00:05:21.240 --> 00:05:24.600
+why I wanted to bring you on is that
+
+00:05:22.919 --> 00:05:25.680
+this idea came from just a spreadsheet.
+
+00:05:24.600 --> 00:05:27.440
+You had a spreadsheet that you were
+
+00:05:25.680 --> 00:05:28.840
+using with clients and you had built up
+
+00:05:27.440 --> 00:05:31.040
+and you said, "Okay, maybe I could turn
+
+00:05:28.840 --> 00:05:33.160
+this into an app." So, could you pull up
+
+00:05:31.040 --> 00:05:34.560
+that actual spreadsheet for me and just
+
+00:05:33.160 --> 00:05:35.320
+show me what it looked like so the
+
+00:05:34.560 --> 00:05:37.080
+audience can see?
+
+00:05:35.320 --> 00:05:39.240
+>> So, this is the P&L page and as you can
+
+00:05:37.080 --> 00:05:40.800
+see, it's a very accessible P&L. Like
+
+00:05:39.240 --> 00:05:42.440
+it's nice and colorful, all the numbers
+
+00:05:40.800 --> 00:05:44.760
+are nice and big and you've got your
+
+00:05:42.440 --> 00:05:46.320
+profit metrics here sort of highlighted
+
+00:05:44.760 --> 00:05:47.600
+and you've you've your best months, you
+
+00:05:46.320 --> 00:05:49.160
+know, conditionally formatted to a
+
+00:05:47.600 --> 00:05:50.320
+deeper green and red when there's
+
+00:05:49.160 --> 00:05:51.920
+something that you should pay attention
+
+00:05:50.320 --> 00:05:53.560
+to. So, this is the P&L. This is where
+
+00:05:51.920 --> 00:05:54.720
+you would log your fixed costs. Takes
+
+00:05:53.560 --> 00:05:56.480
+time [music] to do this and takes
+
+00:05:54.720 --> 00:05:58.560
+attention. Variable costs, the cost of
+
+00:05:56.480 --> 00:06:00.160
+goods sold, you see your LTVs,
+
+00:05:58.560 --> 00:06:02.200
+understand whether you should pay more
+
+00:06:00.160 --> 00:06:03.760
+to acquire a customer or less. This is
+
+00:06:02.200 --> 00:06:05.720
+like a little calculator that I built to
+
+00:06:03.760 --> 00:06:07.480
+better understand the term ROAS, which
+
+00:06:05.720 --> 00:06:09.520
+is quite misunderstood, a little ad
+
+00:06:07.480 --> 00:06:11.400
+analyzer, a scenario planner. But, like,
+
+00:06:09.520 --> 00:06:12.280
+if you see a real scenario planner, the
+
+00:06:11.400 --> 00:06:14.200
+one that, you know, like, [music]
+
+00:06:12.280 --> 00:06:15.640
+Deloitte will produce and charge tens of
+
+00:06:14.200 --> 00:06:17.480
+thousands of dollars to do it. It's
+
+00:06:15.640 --> 00:06:18.919
+complicated and totally inaccessible.
+
+00:06:17.480 --> 00:06:20.800
+Whereas, these [music] trying to make
+
+00:06:18.919 --> 00:06:21.520
+very, very complicated things as simple
+
+00:06:20.800 --> 00:06:23.080
+as possible.
+
+00:06:21.520 --> 00:06:24.880
+>> Okay. So, looks like a cool spreadsheet,
+
+00:06:23.080 --> 00:06:26.760
+looks somewhat complicated, but how did
+
+00:06:24.880 --> 00:06:28.040
+you go about turning this spreadsheet,
+
+00:06:26.760 --> 00:06:29.760
+specifically, how did you go about
+
+00:06:28.040 --> 00:06:30.960
+turning it into an app? Can you share
+
+00:06:29.760 --> 00:06:32.360
+exactly how you did that?
+
+00:06:30.960 --> 00:06:33.840
+>> I wish I could show you my cursor
+
+00:06:32.360 --> 00:06:35.880
+chance, but they're [music] gone now. I
+
+00:06:33.840 --> 00:06:37.480
+don't have a a cursor plan anymore, but
+
+00:06:35.880 --> 00:06:39.680
+it's literally downloading the
+
+00:06:37.480 --> 00:06:41.400
+spreadsheet as a CSV, uploading it to
+
+00:06:39.680 --> 00:06:43.240
+cursor, and saying build it. And then
+
+00:06:41.400 --> 00:06:44.720
+identifying all the ways that cursor got
+
+00:06:43.240 --> 00:06:46.520
+it wrong and saying, [music] "We need to
+
+00:06:44.720 --> 00:06:48.600
+fix this. This is the right calculation
+
+00:06:46.520 --> 00:06:50.120
+here." Today, it's so much easier, but
+
+00:06:48.600 --> 00:06:52.080
+that was how I built it initially. This
+
+00:06:50.120 --> 00:06:53.160
+took the best part of 3 and 1/2 months,
+
+00:06:52.080 --> 00:06:55.280
+4 months, maybe.
+
+00:06:53.160 --> 00:06:56.840
+>> Yeah, nowadays, you could do it so fast.
+
+00:06:55.280 --> 00:06:58.640
+I actually have a personal story where I
+
+00:06:56.840 --> 00:07:00.120
+have like a personal finance net worth
+
+00:06:58.640 --> 00:07:02.200
+budgeting tracker type thing that I was
+
+00:07:00.120 --> 00:07:05.200
+doing in a spreadsheet for years. I just
+
+00:07:02.200 --> 00:07:06.800
+put it into Claude Code and I built it
+
+00:07:05.200 --> 00:07:08.320
+in basically a day. This is the
+
+00:07:06.800 --> 00:07:10.200
+opportunity right now, which I think is
+
+00:07:08.320 --> 00:07:11.480
+amazing. On that same note, could you
+
+00:07:10.200 --> 00:07:13.240
+just walk me through what that tech
+
+00:07:11.480 --> 00:07:14.960
+stack looks like for you right now? I
+
+00:07:13.240 --> 00:07:16.280
+know you were using cursor back then,
+
+00:07:14.960 --> 00:07:17.960
+but like, what are you using to develop
+
+00:07:16.280 --> 00:07:19.640
+the app and add new features right now?
+
+00:07:17.960 --> 00:07:21.440
+>> Sure thing. We're using Claude Code,
+
+00:07:19.640 --> 00:07:23.360
+which is, I think, about 200 bucks a
+
+00:07:21.440 --> 00:07:24.960
+month on the max plan. We started using
+
+00:07:23.360 --> 00:07:26.840
+Instantly, but that's for marketing.
+
+00:07:24.960 --> 00:07:28.760
+We're using Framer for the website, but
+
+00:07:26.840 --> 00:07:31.040
+we might switch out and just use a
+
+00:07:28.760 --> 00:07:32.960
+Claude website eventually. Uh we also
+
+00:07:31.040 --> 00:07:34.720
+are using Codex [music] now, but within
+
+00:07:32.960 --> 00:07:37.240
+terminal, not as in, like, the Codex
+
+00:07:34.720 --> 00:07:38.760
+app. That was $200, but then I canceled
+
+00:07:37.240 --> 00:07:39.919
+and then they gave me a 100% discount,
+
+00:07:38.760 --> 00:07:41.640
+so I'm not paying anything right now.
+
+00:07:39.919 --> 00:07:43.400
+And Google Sheets, which is free.
+
+00:07:41.640 --> 00:07:45.240
+>> Yeah, let's talk about e-commerce tools,
+
+00:07:43.400 --> 00:07:47.000
+e-commerce software. We interviewed
+
+00:07:45.240 --> 00:07:48.440
+someone on the channel about a year ago.
+
+00:07:47.000 --> 00:07:50.480
+You can go find this video. His name was
+
+00:07:48.440 --> 00:07:52.160
+Eric Kos and he was doing something like
+
+00:07:50.480 --> 00:07:53.600
+$200,000
+
+00:07:52.160 --> 00:07:55.720
+a month and he had somewhat recently
+
+00:07:53.600 --> 00:07:57.560
+started. It was a Shopify plugin. I just
+
+00:07:55.720 --> 00:07:59.080
+caught up with him the other day and he
+
+00:07:57.560 --> 00:08:00.240
+just crossed 1 million a month and that
+
+00:07:59.080 --> 00:08:02.560
+was crazy. I'm like, "Wow, there must be
+
+00:08:00.240 --> 00:08:05.120
+something here in e-commerce SaaS." Like
+
+00:08:02.560 --> 00:08:06.560
+helping e-commerce stores or brands do
+
+00:08:05.120 --> 00:08:07.960
+something with software and I keep
+
+00:08:06.560 --> 00:08:09.360
+having these conversations over and I'm
+
+00:08:07.960 --> 00:08:11.400
+seeing this is a good place to be
+
+00:08:09.360 --> 00:08:13.880
+building. You're in this space. You talk
+
+00:08:11.400 --> 00:08:16.440
+to brand owners all day and I'm curious,
+
+00:08:13.880 --> 00:08:18.440
+what other problems need to be solved
+
+00:08:16.440 --> 00:08:20.640
+here? What other spreadsheets are these
+
+00:08:18.440 --> 00:08:22.840
+brand owners using that could be turned
+
+00:08:20.640 --> 00:08:25.240
+into an app? What are good spreadsheet
+
+00:08:22.840 --> 00:08:26.975
+to app type businesses similar to yours?
+
+00:08:25.240 --> 00:08:28.919
+>> Everyone has a unique use case for
+
+00:08:26.975 --> 00:08:31.200
+[music] where they need data. So, we
+
+00:08:28.919 --> 00:08:33.000
+just closed an agency in Miami that has
+
+00:08:31.200 --> 00:08:34.640
+an office in New York and they're fairly
+
+00:08:33.000 --> 00:08:36.145
+big and it's very exciting. And they
+
+00:08:34.640 --> 00:08:37.440
+have a million and one use cases for
+
+00:08:36.145 --> 00:08:38.960
+[music] where they need the data. The
+
+00:08:37.440 --> 00:08:40.159
+beautiful thing is that now, as long as
+
+00:08:38.960 --> 00:08:41.919
+you have the pipelines, you can just
+
+00:08:40.159 --> 00:08:43.919
+send data by saying, "Hey, Claude, send
+
+00:08:41.919 --> 00:08:45.560
+it here." So, if they have a request,
+
+00:08:43.919 --> 00:08:47.400
+they can just message the Profit AI
+
+00:08:45.560 --> 00:08:48.800
+Slack bot, which is just Claude, send
+
+00:08:47.400 --> 00:08:50.120
+that data into different spreadsheets
+
+00:08:48.800 --> 00:08:51.080
+for the purpose of educating good
+
+00:08:50.120 --> 00:08:52.760
+decision-making.
+
+00:08:51.080 --> 00:08:55.000
+>> Yeah, no, I think there's something
+
+00:08:52.760 --> 00:08:56.760
+there which is like reporting data and
+
+00:08:55.000 --> 00:08:58.680
+analytics. If you can get better data
+
+00:08:56.760 --> 00:09:00.839
+into the hands of business owners or
+
+00:08:58.680 --> 00:09:02.520
+Shopify brand owners, like there's so
+
+00:09:00.839 --> 00:09:04.160
+many different use cases. We're about to
+
+00:09:02.520 --> 00:09:06.440
+bring someone on the channel who does
+
+00:09:04.160 --> 00:09:08.839
+specifically Klaviyo reporting, like one
+
+00:09:06.440 --> 00:09:10.160
+specific tool in [music] e-commerce and
+
+00:09:08.839 --> 00:09:11.680
+his business is he's doing a million
+
+00:09:10.160 --> 00:09:13.160
+dollars a year just on this very
+
+00:09:11.680 --> 00:09:14.680
+specific reporting.
+
+00:09:13.160 --> 00:09:16.680
+I love the e-commerce tooling space.
+
+00:09:14.680 --> 00:09:19.160
+It's not as like creator tools. You see
+
+00:09:16.680 --> 00:09:20.839
+a lot of like AI tools, AI wrappers. I
+
+00:09:19.160 --> 00:09:22.880
+think e-commerce tooling is like one of
+
+00:09:20.839 --> 00:09:24.760
+the coolest kind of underrated spaces
+
+00:09:22.880 --> 00:09:26.600
+right now. So, I'm hoping to see your
+
+00:09:24.760 --> 00:09:27.800
+app continue to grow. Last question that
+
+00:09:26.600 --> 00:09:29.920
+we ask all founders who come on the
+
+00:09:27.800 --> 00:09:31.600
+Starter Story is, what advice would you
+
+00:09:29.920 --> 00:09:34.640
+have for anyone who wants to make this
+
+00:09:31.600 --> 00:09:36.880
+transition from agency owner or
+
+00:09:34.640 --> 00:09:38.560
+providing services or working with
+
+00:09:36.880 --> 00:09:41.080
+clients or maybe just people even in a
+
+00:09:38.560 --> 00:09:44.320
+full-time job to move from, "Hey, I
+
+00:09:41.080 --> 00:09:46.920
+trade my hours for dollars." to, "Hey, I
+
+00:09:44.320 --> 00:09:48.720
+build software that makes me money while
+
+00:09:46.920 --> 00:09:49.640
+I sleep." What would be your one piece
+
+00:09:48.720 --> 00:09:51.600
+of advice?
+
+00:09:49.640 --> 00:09:54.840
+>> Yeah, I would [music] say, "Don't aim
+
+00:09:51.600 --> 00:09:56.240
+for laziness." If your goal is, "I want
+
+00:09:54.840 --> 00:09:57.640
+to make lots of money while doing
+
+00:09:56.240 --> 00:10:00.040
+nothing." you're going to get quickly
+
+00:09:57.640 --> 00:10:02.360
+replaced. This market's moving fast and
+
+00:10:00.040 --> 00:10:04.440
+likes fast. My two cents would be is
+
+00:10:02.360 --> 00:10:06.760
+just ask Claude if it can do the thing.
+
+00:10:04.440 --> 00:10:07.920
+And [music] I'm so surprised by things
+
+00:10:06.760 --> 00:10:09.800
+as long as it has connections to
+
+00:10:07.920 --> 00:10:11.960
+everything, how much it can do from just
+
+00:10:09.800 --> 00:10:13.080
+one prompt. Just ask Claude. Just do it
+
+00:10:11.960 --> 00:10:14.400
+and stick at it.
+
+00:10:13.080 --> 00:10:16.720
+>> Yeah, that's a great advice for anyone
+
+00:10:14.400 --> 00:10:18.840
+watching this. If you have an idea, what
+
+00:10:16.720 --> 00:10:20.440
+Jack is saying is, just go put it into
+
+00:10:18.840 --> 00:10:22.440
+your Claude code terminal and it might
+
+00:10:20.440 --> 00:10:23.840
+just even build it for you right there.
+
+00:10:22.440 --> 00:10:25.520
+So, if you're watching this right now,
+
+00:10:23.840 --> 00:10:26.800
+go put it in. See what happens. All
+
+00:10:25.520 --> 00:10:27.560
+right, Jack, thank you for coming on and
+
+00:10:26.800 --> 00:10:28.080
+sharing everything.
+
+00:10:27.560 --> 00:10:30.080
+>> Thank you, Ben.
+
+00:10:28.080 --> 00:10:31.880
+>> All right. Gus, producer of Starter
+
+00:10:30.080 --> 00:10:33.440
+Story. You got a nice haircut there. I'm
+
+00:10:31.880 --> 00:10:36.040
+liking the haircut. What did you think
+
+00:10:33.440 --> 00:10:37.440
+of Profit AI and the Jack's company that
+
+00:10:36.040 --> 00:10:39.000
+he built in the last couple months?
+
+00:10:37.440 --> 00:10:40.240
+>> Yeah, it's a little out of my scope, so
+
+00:10:39.000 --> 00:10:42.200
+that's the first thing I'll say in in
+
+00:10:40.240 --> 00:10:44.040
+terms of my Shopify and all that stuff.
+
+00:10:42.200 --> 00:10:46.560
+But, I love the idea that he kind of
+
+00:10:44.040 --> 00:10:48.720
+noticed like these tasks he was doing in
+
+00:10:46.560 --> 00:10:50.200
+these like spreadsheets and was able to
+
+00:10:48.720 --> 00:10:52.120
+like think about like how can I make
+
+00:10:50.200 --> 00:10:53.360
+this more efficient or something that
+
+00:10:52.120 --> 00:10:55.120
+someone else might be able to use in a
+
+00:10:53.360 --> 00:10:57.040
+simpler fashion. I think about all the
+
+00:10:55.120 --> 00:10:58.839
+stuff I have in spreadsheets personally,
+
+00:10:57.040 --> 00:10:59.760
+you know, use on a daily basis and just
+
+00:10:58.839 --> 00:11:01.680
+think, "Oh man, there's probably a lot
+
+00:10:59.760 --> 00:11:03.040
+of stuff I can like turn into something
+
+00:11:01.680 --> 00:11:03.800
+that makes my life a little easier." So,
+
+00:11:03.040 --> 00:11:05.440
+that's my first thought.
+
+00:11:03.800 --> 00:11:06.760
+>> Yeah, there used to be this thing in
+
+00:11:05.440 --> 00:11:08.000
+startup world where it said like, you
+
+00:11:06.760 --> 00:11:09.680
+know, there are a lot of business ideas
+
+00:11:08.000 --> 00:11:11.520
+that are in spreadsheets. And I always
+
+00:11:09.680 --> 00:11:13.960
+thought that was cool, but it was always
+
+00:11:11.520 --> 00:11:16.160
+hard to do because it was hard to build
+
+00:11:13.960 --> 00:11:17.800
+apps, you know, two or three years ago.
+
+00:11:16.160 --> 00:11:20.000
+But, now I think this is like the actual
+
+00:11:17.800 --> 00:11:21.960
+time where a lot of spreadsheets can
+
+00:11:20.000 --> 00:11:23.120
+actually be turned into like profitable
+
+00:11:21.960 --> 00:11:25.000
+apps. Like I'm just thinking about a
+
+00:11:23.120 --> 00:11:27.440
+couple apps that I built recently.
+
+00:11:25.000 --> 00:11:28.920
+Actually, the interface is way better.
+
+00:11:27.440 --> 00:11:31.400
+>> Yeah, and I think generally like there's
+
+00:11:28.920 --> 00:11:33.120
+a lot of workflows I do every single day
+
+00:11:31.400 --> 00:11:34.480
+that are just like the same thing over
+
+00:11:33.120 --> 00:11:35.920
+and over again. And it's a different
+
+00:11:34.480 --> 00:11:38.200
+world, but it's like adjacent to like
+
+00:11:35.920 --> 00:11:39.720
+the idea of like turning a workflow or
+
+00:11:38.200 --> 00:11:41.560
+something I do every day that's
+
+00:11:39.720 --> 00:11:43.160
+repetitive into something more
+
+00:11:41.560 --> 00:11:44.560
+automated. And I've done that a little
+
+00:11:43.160 --> 00:11:45.480
+bit. I think there's lots of more
+
+00:11:44.560 --> 00:11:47.160
+opportunities [music] there.
+
+00:11:45.480 --> 00:11:49.440
+>> Okay, so if you're watching this right
+
+00:11:47.160 --> 00:11:51.600
+now, what I would recommend you do is go
+
+00:11:49.440 --> 00:11:53.560
+open Claude code right now. Have it
+
+00:11:51.600 --> 00:11:55.400
+connect to your Google Drive account.
+
+00:11:53.560 --> 00:11:57.200
+Look at the last 20 spreadsheets that
+
+00:11:55.400 --> 00:11:58.680
+have been added to your account. Ask it
+
+00:11:57.200 --> 00:12:00.520
+to build one of that. It'll probably
+
+00:11:58.680 --> 00:12:02.200
+build you an app pretty fast. You can
+
+00:12:00.520 --> 00:12:03.760
+use any of these five coding apps to do
+
+00:12:02.200 --> 00:12:05.240
+this. I think that's super cool. And if
+
+00:12:03.760 --> 00:12:07.520
+you don't have any ideas, you can check
+
+00:12:05.240 --> 00:12:09.080
+out our micro SaaS ideas, including apps
+
+00:12:07.520 --> 00:12:10.600
+that are making tens of thousands of
+
+00:12:09.080 --> 00:12:11.840
+dollars a month right now. Just go to
+
+00:12:10.600 --> 00:12:13.200
+the link in the description. You can
+
+00:12:11.840 --> 00:12:15.640
+download that and you'll find plenty of
+
+00:12:13.200 --> 00:12:17.480
+ideas just like this one. Ideas built by
+
+00:12:15.640 --> 00:12:18.800
+solopreneurs that are crushing it right
+
+00:12:17.480 --> 00:12:20.240
+now. All right, guys. Hope you enjoyed
+
+00:12:18.800 --> 00:12:22.720
+this one. We'll see you in the next one.
+
+00:12:20.240 --> 00:12:22.720
+Peace.
+

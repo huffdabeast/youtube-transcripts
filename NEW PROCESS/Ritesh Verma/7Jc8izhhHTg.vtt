@@ -1,0 +1,4763 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:02.879
+In this video, we are going to build
+
+00:00:01.520 --> 00:00:04.799
+this $25,000 [music]
+
+00:00:02.879 --> 00:00:06.640
+AI agent from complete scratch using
+
+00:00:04.799 --> 00:00:09.599
+just cloud code. And the best part is
+
+00:00:06.640 --> 00:00:11.440
+this $25,000 AI agent we can resell to
+
+00:00:09.599 --> 00:00:13.759
+other clients for [music] the exact same
+
+00:00:11.440 --> 00:00:15.599
+price. That's how powerful it is. So,
+
+00:00:13.759 --> 00:00:18.000
+let's get to building. Here's Cloud
+
+00:00:15.599 --> 00:00:20.080
+Code. We're going to do is first figure
+
+00:00:18.000 --> 00:00:24.160
+out a prompt to then pass into Cloud
+
+00:00:20.080 --> 00:00:27.279
+Code to go ahead and build our AI
+
+00:00:24.160 --> 00:00:30.320
+e-commerce ad engine. But what we can do
+
+00:00:27.279 --> 00:00:35.640
+is edit automatically
+
+00:00:30.320 --> 00:00:35.640
+and then um let's go local.
+
+00:00:37.680 --> 00:00:43.600
+Make sure you pick the model. Uh let's
+
+00:00:41.200 --> 00:00:46.600
+open 4.6.
+
+00:00:43.600 --> 00:00:46.600
+Okay.
+
+00:00:46.879 --> 00:00:50.719
+Have another agent just in case you want
+
+00:00:48.640 --> 00:00:54.480
+to use two at the same time, but
+
+00:00:50.719 --> 00:00:56.239
+honestly, I think one will be good.
+
+00:00:54.480 --> 00:00:58.879
+All right. uh edit automatically is to
+
+00:00:56.239 --> 00:01:01.039
+plan mode. So this plan mode will
+
+00:00:58.879 --> 00:01:03.039
+basically iron out the ideas that we
+
+00:01:01.039 --> 00:01:04.720
+need to
+
+00:01:03.039 --> 00:01:07.360
+iron out in order to make sure AI
+
+00:01:04.720 --> 00:01:11.280
+e-commerce engine is perfect.
+
+00:01:07.360 --> 00:01:14.479
+We are going to build and let me move
+
+00:01:11.280 --> 00:01:20.400
+this right here
+
+00:01:14.479 --> 00:01:23.040
+an AI ecom ad engine that is able to
+
+00:01:20.400 --> 00:01:26.040
+let's say scrape
+
+00:01:23.040 --> 00:01:26.040
+competitor
+
+00:01:26.320 --> 00:01:33.520
+Facebook ads
+
+00:01:29.759 --> 00:01:36.960
+that are high converting
+
+00:01:33.520 --> 00:01:42.240
+and explain why they are high converting
+
+00:01:36.960 --> 00:01:47.600
+and analyze these ads using
+
+00:01:42.240 --> 00:01:51.680
+I'm going to use the foreplay API.
+
+00:01:47.600 --> 00:01:55.000
+So this right here on product
+
+00:01:51.680 --> 00:01:55.000
+um solutions
+
+00:01:56.399 --> 00:01:59.640
+what's this?
+
+00:02:02.159 --> 00:02:07.360
+Yeah,
+
+00:02:04.079 --> 00:02:09.759
+this is a cool website that essentially
+
+00:02:07.360 --> 00:02:11.360
+is able to scrape ads um from your
+
+00:02:09.759 --> 00:02:15.599
+competitors and figure out what the best
+
+00:02:11.360 --> 00:02:19.440
+ones are. So, we're using foreplay and
+
+00:02:15.599 --> 00:02:22.440
+we're going to pass it into Claude.
+
+00:02:19.440 --> 00:02:22.440
+Um,
+
+00:02:30.879 --> 00:02:38.040
+allows us to find
+
+00:02:33.840 --> 00:02:38.040
+competitor winning ads
+
+00:02:38.319 --> 00:02:45.920
+and analyze.
+
+00:02:41.040 --> 00:02:49.400
+The next step of our
+
+00:02:45.920 --> 00:02:49.400
+ad engine
+
+00:02:50.160 --> 00:02:57.120
+is to duplicate
+
+00:02:53.760 --> 00:03:01.560
+these winning ads. We will focus on
+
+00:02:57.120 --> 00:03:01.560
+static ads first only
+
+00:03:02.000 --> 00:03:07.319
+since they are easier to duplicate
+
+00:03:09.280 --> 00:03:16.120
+using Nano Banana 2. It just came out.
+
+00:03:19.040 --> 00:03:26.560
+However, we will add our own branding
+
+00:03:23.280 --> 00:03:28.319
+onto these ads. By duplicating these ads
+
+00:03:26.560 --> 00:03:30.159
+and then adding our own branding on
+
+00:03:28.319 --> 00:03:33.040
+them, we are going to make a new ad
+
+00:03:30.159 --> 00:03:34.799
+that's considered based off of data
+
+00:03:33.040 --> 00:03:38.080
+proven to convert and it's going to
+
+00:03:34.799 --> 00:03:42.000
+result in a lot of um income for the
+
+00:03:38.080 --> 00:03:43.440
+ecom client. Ideally,
+
+00:03:42.000 --> 00:03:46.720
+after these ads, what are some other
+
+00:03:43.440 --> 00:03:51.360
+things that we might want to do? Um here
+
+00:03:46.720 --> 00:03:53.280
+write a feature doc
+
+00:03:51.360 --> 00:03:56.319
+for the
+
+00:03:53.280 --> 00:04:00.000
+for this project.
+
+00:03:56.319 --> 00:04:02.959
+We also want dashboard. So we want a
+
+00:04:00.000 --> 00:04:05.920
+dashboard
+
+00:04:02.959 --> 00:04:07.680
+to track recent I don't know competitor
+
+00:04:05.920 --> 00:04:13.799
+ads
+
+00:04:07.680 --> 00:04:13.799
+that are winning. uh a tab for
+
+00:04:14.080 --> 00:04:20.000
+knowledge base. So the engine can
+
+00:04:17.280 --> 00:04:22.800
+understand
+
+00:04:20.000 --> 00:04:27.759
+what our brand is
+
+00:04:22.800 --> 00:04:31.520
+um who our competitors are,
+
+00:04:27.759 --> 00:04:35.960
+what niches they are in.
+
+00:04:31.520 --> 00:04:35.960
+So the tool fully understands
+
+00:04:36.560 --> 00:04:40.639
+the client's business. Now, we are
+
+00:04:38.400 --> 00:04:43.919
+building this so we're building this in
+
+00:04:40.639 --> 00:04:45.759
+a way such that it'll be easy for us to
+
+00:04:43.919 --> 00:04:47.120
+turn into a SAS later on cuz right now
+
+00:04:45.759 --> 00:04:49.600
+this is a custom project that we're
+
+00:04:47.120 --> 00:04:52.080
+giving to one client specifically. But
+
+00:04:49.600 --> 00:04:54.160
+if this works really well for the
+
+00:04:52.080 --> 00:04:55.919
+client, there's no reason we don't turn
+
+00:04:54.160 --> 00:04:58.240
+this to a SAS and just resell to other
+
+00:04:55.919 --> 00:04:59.520
+ecom brands. And of course, the first
+
+00:04:58.240 --> 00:05:01.440
+client we give some sort of commission
+
+00:04:59.520 --> 00:05:04.800
+to since he's paying us like multiple
+
+00:05:01.440 --> 00:05:07.360
+five figures to build this out.
+
+00:05:04.800 --> 00:05:09.520
+But that shouldn't stop us from also
+
+00:05:07.360 --> 00:05:12.400
+getting other people and I'm sure he'll
+
+00:05:09.520 --> 00:05:15.680
+be more than happy to have his hands in
+
+00:05:12.400 --> 00:05:17.840
+AI business
+
+00:05:15.680 --> 00:05:20.840
+the client's business. Okay. Uh what
+
+00:05:17.840 --> 00:05:20.840
+else
+
+00:05:21.759 --> 00:05:26.800
+for this project?
+
+00:05:24.080 --> 00:05:29.280
+Uh let me see if I can find any
+
+00:05:26.800 --> 00:05:34.840
+competitors.
+
+00:05:29.280 --> 00:05:34.840
+Duplicate winning ads dashboard.
+
+00:05:35.360 --> 00:05:42.440
+When he adds across every channel
+
+00:05:38.800 --> 00:05:42.440
+there's omni key
+
+00:05:48.160 --> 00:05:52.919
+brow selection. Yeah. Generate image
+
+00:05:49.680 --> 00:05:52.919
+video ads.
+
+00:05:57.634 --> 00:05:59.654
+[snorts]
+
+00:06:22.319 --> 00:06:27.199
+Sometimes I like to go on Google images
+
+00:06:24.240 --> 00:06:29.759
+to see various dashboards of the tool
+
+00:06:27.199 --> 00:06:31.280
+I'm trying to build.
+
+00:06:29.759 --> 00:06:34.520
+Oh, with the one thing you also need
+
+00:06:31.280 --> 00:06:34.520
+tracks analytics
+
+00:06:36.160 --> 00:06:40.840
+and other insightful
+
+00:06:42.720 --> 00:06:45.720
+analytics
+
+00:06:45.840 --> 00:06:50.000
+such as impressions.
+
+00:06:48.400 --> 00:06:51.919
+No.
+
+00:06:50.000 --> 00:06:54.560
+Uh,
+
+00:06:51.919 --> 00:06:56.479
+can we track our ads performances? We
+
+00:06:54.560 --> 00:06:58.000
+need access to the meta API for this,
+
+00:06:56.479 --> 00:07:00.960
+but that's not what the client really
+
+00:06:58.000 --> 00:07:04.160
+wants. He doesn't want the social also
+
+00:07:00.960 --> 00:07:06.479
+track the performance of the ads. He
+
+00:07:04.160 --> 00:07:08.240
+cares more about this being built. He
+
+00:07:06.479 --> 00:07:10.160
+has someone he has a person in place to
+
+00:07:08.240 --> 00:07:11.759
+track the performance. But ideally, if
+
+00:07:10.160 --> 00:07:13.520
+our dashboard also tracked the
+
+00:07:11.759 --> 00:07:17.080
+performance of like current ads, that
+
+00:07:13.520 --> 00:07:17.080
+would be pretty sick.
+
+00:07:18.639 --> 00:07:25.639
+such as tracking performance of current
+
+00:07:22.639 --> 00:07:25.639
+ads.
+
+00:07:33.280 --> 00:07:37.759
+Does fourplayer track performance of
+
+00:07:35.120 --> 00:07:40.720
+current ads?
+
+00:07:37.759 --> 00:07:45.319
+New launch scaling winners
+
+00:07:40.720 --> 00:07:45.319
+know what's working and why. Okay.
+
+00:07:50.560 --> 00:07:56.080
+I I believe
+
+00:07:53.360 --> 00:07:59.080
+I think this foreplay gives us that
+
+00:07:56.080 --> 00:07:59.080
+information.
+
+00:08:02.639 --> 00:08:07.840
+Yeah. So it does track.
+
+00:08:05.199 --> 00:08:09.440
+Okay.
+
+00:08:07.840 --> 00:08:11.919
+Does Rob also allow us to duplicate
+
+00:08:09.440 --> 00:08:14.720
+these ads?
+
+00:08:11.919 --> 00:08:16.319
+No, it doesn't look like a duplication.
+
+00:08:14.720 --> 00:08:19.759
+I imagine if they allow duplication,
+
+00:08:16.319 --> 00:08:25.319
+this product in itself would be pretty
+
+00:08:19.759 --> 00:08:25.319
+fire. This is not sponsored, by the way.
+
+00:08:31.280 --> 00:08:35.279
+Use foreplay.
+
+00:08:33.839 --> 00:08:37.839
+So now we're going to ask Claude code to
+
+00:08:35.279 --> 00:08:39.680
+figure out a plan for all this. And if
+
+00:08:37.839 --> 00:08:42.800
+the plan looks good, we'll have it
+
+00:08:39.680 --> 00:08:44.800
+actually build this app. Oh, we need to
+
+00:08:42.800 --> 00:08:50.200
+say use next.js. We should define the
+
+00:08:44.800 --> 00:08:50.200
+text stack so it knows what to do. Um,
+
+00:08:55.279 --> 00:09:00.080
+oh, maybe I shouldn't have. I should
+
+00:08:56.800 --> 00:09:04.640
+have said yes to all. I highly recommend
+
+00:09:00.080 --> 00:09:06.640
+using plan mode first because that way
+
+00:09:04.640 --> 00:09:11.519
+it you have a better idea of what needs
+
+00:09:06.640 --> 00:09:15.600
+to be done for your specific AI tool
+
+00:09:11.519 --> 00:09:17.839
+slash AI app or AI project.
+
+00:09:15.600 --> 00:09:19.200
+And if you don't like Claude's plan,
+
+00:09:17.839 --> 00:09:21.200
+even though Claude Code is probably
+
+00:09:19.200 --> 00:09:23.920
+smarter than you, you can just tell it
+
+00:09:21.200 --> 00:09:25.920
+change certain things before it goes
+
+00:09:23.920 --> 00:09:28.320
+ahead and builds it. Because if you
+
+00:09:25.920 --> 00:09:29.760
+don't and you just let it build and then
+
+00:09:28.320 --> 00:09:31.279
+you just got to fix the build and that
+
+00:09:29.760 --> 00:09:33.360
+will just burn more credits and more
+
+00:09:31.279 --> 00:09:36.160
+tokens which you don't want to do. So I
+
+00:09:33.360 --> 00:09:39.360
+rather we just get the plan correct and
+
+00:09:36.160 --> 00:09:43.080
+then pass that plan to Claude Co to
+
+00:09:39.360 --> 00:09:43.080
+generally build it.
+
+00:09:43.680 --> 00:09:51.000
+All right, make an account now for this
+
+00:09:47.120 --> 00:09:51.000
+one software.
+
+00:09:52.160 --> 00:09:56.640
+Okay. Yeah, I thought this is a free
+
+00:09:54.160 --> 00:09:57.920
+trial.
+
+00:09:56.640 --> 00:10:00.160
+All right, looks like you have to put
+
+00:09:57.920 --> 00:10:02.320
+your information. Okay, now we have
+
+00:10:00.160 --> 00:10:04.640
+foreplay loaded up. We kind of just
+
+00:10:02.320 --> 00:10:08.680
+check how this works.
+
+00:10:04.640 --> 00:10:08.680
+Again, my first time using it.
+
+00:10:09.519 --> 00:10:12.760
+You see?
+
+00:10:14.000 --> 00:10:19.000
+This is a free trial, by the way.
+
+00:10:26.399 --> 00:10:31.720
+Three.
+
+00:10:28.720 --> 00:10:31.720
+One.
+
+00:10:52.800 --> 00:10:56.000
+right here. What you want to do when
+
+00:10:54.399 --> 00:10:57.519
+looking at ad campaigns is you want to
+
+00:10:56.000 --> 00:10:59.040
+see which ads have been running for a
+
+00:10:57.519 --> 00:11:01.279
+long time because ads have been running
+
+00:10:59.040 --> 00:11:02.560
+for a long time. That means the ads are
+
+00:11:01.279 --> 00:11:04.560
+working cuz why would a business be
+
+00:11:02.560 --> 00:11:07.200
+spending money on an ad that's not
+
+00:11:04.560 --> 00:11:08.959
+converting users or paying customers?
+
+00:11:07.200 --> 00:11:11.360
+They wouldn't. So it's fine ads have
+
+00:11:08.959 --> 00:11:14.000
+been running for a long period of time.
+
+00:11:11.360 --> 00:11:16.800
+So we do oldest.
+
+00:11:14.000 --> 00:11:19.839
+This one has been running for a while.
+
+00:11:16.800 --> 00:11:22.959
+Stony Brook Susan vacuums. Like that's a
+
+00:11:19.839 --> 00:11:25.959
+long time.
+
+00:11:22.959 --> 00:11:25.959
+Um,
+
+00:11:33.200 --> 00:11:38.720
+AI analysis. Nice. I like So we can use
+
+00:11:35.839 --> 00:11:42.480
+AI analysis from foreplay and put into
+
+00:11:38.720 --> 00:11:48.519
+our own tool to make it look cooler.
+
+00:11:42.480 --> 00:11:48.519
+Uh time format. Okay, cool.
+
+00:12:06.000 --> 00:12:12.760
+All right, we got the API access.
+
+00:12:09.200 --> 00:12:12.760
+I thought we did.
+
+00:12:18.240 --> 00:12:23.760
+Okay, there you go.
+
+00:12:20.320 --> 00:12:27.200
+Um, so we use this API key, I guess.
+
+00:12:23.760 --> 00:12:31.240
+Look at the documents.
+
+00:12:27.200 --> 00:12:31.240
+What exactly can we do?
+
+00:12:31.600 --> 00:12:38.639
+Here we go. That's funny. This API
+
+00:12:36.480 --> 00:12:42.639
+page should be better. This goes more
+
+00:12:38.639 --> 00:12:44.480
+information at least boards.
+
+00:12:42.639 --> 00:12:46.320
+Um,
+
+00:12:44.480 --> 00:12:49.720
+get all brands for a specific board.
+
+00:12:46.320 --> 00:12:49.720
+What is a board?
+
+00:12:59.519 --> 00:13:07.720
+Get all brands for specific board.
+
+00:13:04.079 --> 00:13:07.720
+What is a board?
+
+00:13:09.360 --> 00:13:15.839
+Um
+
+00:13:11.839 --> 00:13:19.440
+chat the foreplay API docs.
+
+00:13:15.839 --> 00:13:24.440
+Oh nice chatbt. Okay.
+
+00:13:19.440 --> 00:13:24.440
+What is a board?
+
+00:13:28.720 --> 00:13:34.959
+Oh okay. So it's like you have to create
+
+00:13:32.000 --> 00:13:37.440
+our own collection of brands. So, can
+
+00:13:34.959 --> 00:13:41.320
+you create a board? No. Look like you
+
+00:13:37.440 --> 00:13:41.320
+only get current boards.
+
+00:13:41.519 --> 00:13:45.480
+Okay. Add details by ID.
+
+00:13:53.040 --> 00:13:59.639
+Get ads by brand IDs and filters. Get
+
+00:13:55.920 --> 00:13:59.639
+brands by domain.
+
+00:14:03.040 --> 00:14:06.880
+So this is a potentially thing a good
+
+00:14:04.880 --> 00:14:10.079
+thing good thing we can do. We can just
+
+00:14:06.880 --> 00:14:12.079
+the user can pass in competitor URLs
+
+00:14:10.079 --> 00:14:14.959
+like their company URLs and we can use
+
+00:14:12.079 --> 00:14:17.040
+those URLs pass it into
+
+00:14:14.959 --> 00:14:18.560
+I guess right here and we can see if any
+
+00:14:17.040 --> 00:14:22.560
+of these companies are running ads and
+
+00:14:18.560 --> 00:14:24.639
+if so we get all their ads.
+
+00:14:22.560 --> 00:14:27.199
+Get brands by domain. Get brand
+
+00:14:24.639 --> 00:14:31.399
+analytics by brand ID or page ID is
+
+00:14:27.199 --> 00:14:31.399
+running ad distribution create velocity
+
+00:14:33.760 --> 00:14:37.279
+discovery
+
+00:14:35.279 --> 00:14:38.480
+search brands by name. Okay, there you
+
+00:14:37.279 --> 00:14:39.680
+go. You search brands by name. All
+
+00:14:38.480 --> 00:14:42.160
+right, this is the part we probably
+
+00:14:39.680 --> 00:14:45.680
+looking for the most. And search and
+
+00:14:42.160 --> 00:14:48.240
+filter ads by So you can search based
+
+00:14:45.680 --> 00:14:50.399
+off text search descriptive content.
+
+00:14:48.240 --> 00:14:52.959
+It's like how how I searched up vacuum
+
+00:14:50.399 --> 00:14:55.600
+earlier
+
+00:14:52.959 --> 00:14:59.160
+in discovery right here. You can just
+
+00:14:55.600 --> 00:14:59.160
+It's the same thing.
+
+00:15:00.800 --> 00:15:07.360
+What's the response give
+
+00:15:04.399 --> 00:15:08.880
+example response brand ID the brand
+
+00:15:07.360 --> 00:15:11.519
+title.
+
+00:15:08.880 --> 00:15:14.480
+Okay. So you can see some of the the ads
+
+00:15:11.519 --> 00:15:18.880
+that come up as a result which is sick.
+
+00:15:14.480 --> 00:15:22.720
+created at updated at market targets
+
+00:15:18.880 --> 00:15:26.320
+market targets B2C B2B that's nice
+
+00:15:22.720 --> 00:15:29.199
+but does it tell how much how long it's
+
+00:15:26.320 --> 00:15:32.199
+been running for
+
+00:15:29.199 --> 00:15:32.199
+um
+
+00:15:37.440 --> 00:15:44.000
+models okay
+
+00:15:40.560 --> 00:15:46.240
+so get ads get ad details can't get the
+
+00:15:44.000 --> 00:15:48.639
+the ad details.
+
+00:15:46.240 --> 00:15:50.959
+So this is an example response of all
+
+00:15:48.639 --> 00:15:54.639
+the ad details we would get started
+
+00:15:50.959 --> 00:15:56.560
+running metadata. Okay, does it say how
+
+00:15:54.639 --> 00:15:58.560
+many days? Oh, okay. Perfect. Running
+
+00:15:56.560 --> 00:16:00.240
+duration. So this is good. This will
+
+00:15:58.560 --> 00:16:02.880
+allow us to know how many days the ad
+
+00:16:00.240 --> 00:16:05.600
+has been running for, which is pretty
+
+00:16:02.880 --> 00:16:10.360
+good. Um,
+
+00:16:05.600 --> 00:16:10.360
+and we can just organize all the ads
+
+00:16:11.199 --> 00:16:17.680
+that come up by how long they've been
+
+00:16:14.959 --> 00:16:19.759
+running.
+
+00:16:17.680 --> 00:16:21.839
+Um,
+
+00:16:19.759 --> 00:16:23.920
+here keep doing. So, while the plan the
+
+00:16:21.839 --> 00:16:26.959
+plan is still being made, see, it's been
+
+00:16:23.920 --> 00:16:28.480
+thinking good amount.
+
+00:16:26.959 --> 00:16:32.000
+But it it'll make it easier if we can
+
+00:16:28.480 --> 00:16:36.560
+just pass in maybe the specific
+
+00:16:32.000 --> 00:16:39.600
+UR specific API URLs that we want Claude
+
+00:16:36.560 --> 00:16:40.800
+to use to, you know, get the ad details.
+
+00:16:39.600 --> 00:16:43.120
+In this case, we're kind of steering
+
+00:16:40.800 --> 00:16:44.800
+claw. We're saying, hey, we can pass
+
+00:16:43.120 --> 00:16:46.240
+this entire all these documents in, but
+
+00:16:44.800 --> 00:16:47.839
+might not know what to when to use
+
+00:16:46.240 --> 00:16:49.759
+which. So, we might just have to give it
+
+00:16:47.839 --> 00:16:51.120
+that extra information. Like what we're
+
+00:16:49.759 --> 00:16:53.360
+going to do is we're going to search by
+
+00:16:51.120 --> 00:16:55.759
+brand, you know, search by brand name.
+
+00:16:53.360 --> 00:16:58.160
+Um,
+
+00:16:55.759 --> 00:17:00.000
+search and filter ads. And then once the
+
+00:16:58.160 --> 00:17:02.320
+ads come, you can go ahead and get each
+
+00:17:00.000 --> 00:17:05.919
+ad details by ID cuz the search and
+
+00:17:02.320 --> 00:17:08.400
+filter ads you see in the response
+
+00:17:05.919 --> 00:17:11.520
+we have the ID, the ad ID that we can
+
+00:17:08.400 --> 00:17:13.919
+pass that in to get ad details by ID. We
+
+00:17:11.520 --> 00:17:15.919
+can pass in the ID of the ad right here
+
+00:17:13.919 --> 00:17:17.439
+and it'll give us this response which
+
+00:17:15.919 --> 00:17:20.079
+gives all the information of the ad. So,
+
+00:17:17.439 --> 00:17:22.959
+this is a pretty simple solution if you
+
+00:17:20.079 --> 00:17:25.439
+really boil it down. It should be like
+
+00:17:22.959 --> 00:17:27.120
+two API requests, honestly. Get all the
+
+00:17:25.439 --> 00:17:30.880
+ads of the brand and get the details of
+
+00:17:27.120 --> 00:17:32.400
+the ads that are running of that brand.
+
+00:17:30.880 --> 00:17:34.080
+Um,
+
+00:17:32.400 --> 00:17:35.440
+yeah, I mean, that's that's pretty much
+
+00:17:34.080 --> 00:17:36.960
+it. And then we're just going to we're
+
+00:17:35.440 --> 00:17:38.320
+just going to copy that. We're going to
+
+00:17:36.960 --> 00:17:39.840
+copy it. Like the thumbnail is right
+
+00:17:38.320 --> 00:17:43.840
+here, right? So, we'll get that
+
+00:17:39.840 --> 00:17:45.679
+thumbnail and we'll pass it into um
+
+00:17:43.840 --> 00:17:48.240
+we'll use we'll extract that thumbnail.
+
+00:17:45.679 --> 00:17:50.400
+That's how we can clone that picture
+
+00:17:48.240 --> 00:17:51.919
+into multiple other pictures, which I
+
+00:17:50.400 --> 00:17:56.280
+don't right now it doesn't make. Let me
+
+00:17:51.919 --> 00:17:56.280
+maybe draw this out
+
+00:17:56.799 --> 00:18:04.160
+here. So, this is what I'm thinking.
+
+00:17:59.760 --> 00:18:08.120
+We're going to you we're going to search
+
+00:18:04.160 --> 00:18:08.120
+brands by name.
+
+00:18:10.640 --> 00:18:15.240
+Okay.
+
+00:18:12.240 --> 00:18:15.240
+Um,
+
+00:18:17.120 --> 00:18:22.679
+yeah. So, we're going to search brands
+
+00:18:18.960 --> 00:18:22.679
+by name here.
+
+00:18:22.960 --> 00:18:30.320
+Search brands by name.
+
+00:18:27.760 --> 00:18:33.919
+And then what's going to happen is we're
+
+00:18:30.320 --> 00:18:36.799
+going to get all these
+
+00:18:33.919 --> 00:18:40.640
+the brands.
+
+00:18:36.799 --> 00:18:42.559
+I'm going to do get
+
+00:18:40.640 --> 00:18:44.080
+brands
+
+00:18:42.559 --> 00:18:47.320
+ads
+
+00:18:44.080 --> 00:18:47.320
+and then
+
+00:18:48.960 --> 00:18:54.160
+we're going to
+
+00:18:51.440 --> 00:18:57.039
+get details
+
+00:18:54.160 --> 00:18:59.360
+of each ad.
+
+00:18:57.039 --> 00:19:05.720
+So,
+
+00:18:59.360 --> 00:19:05.720
+um this would result in probably
+
+00:19:05.760 --> 00:19:11.280
+this would result in like add one, add
+
+00:19:08.720 --> 00:19:13.360
+two, add three, add four, add five, add
+
+00:19:11.280 --> 00:19:17.360
+six, add seven, add eight. Then we're
+
+00:19:13.360 --> 00:19:22.600
+going to get the details of each ad and
+
+00:19:17.360 --> 00:19:22.600
+we'll organize based off of
+
+00:19:23.919 --> 00:19:30.440
+most converting
+
+00:19:26.400 --> 00:19:30.440
+slash longest duration
+
+00:19:31.679 --> 00:19:35.559
+and the top ads
+
+00:19:38.320 --> 00:19:43.200
+top ads we are going to duplicate
+
+00:19:41.600 --> 00:19:46.720
+and this will be done with Google's nano
+
+00:19:43.200 --> 00:19:49.280
+banana 2. Perfect. That's the that's the
+
+00:19:46.720 --> 00:19:52.320
+flow.
+
+00:19:49.280 --> 00:19:55.919
+All right. So, let me mark what is going
+
+00:19:52.320 --> 00:19:59.760
+to be a HTTP request as blue. That's
+
+00:19:55.919 --> 00:20:00.720
+one. That's one. That's one. So, these
+
+00:19:59.760 --> 00:20:04.520
+are all the requests we're going to
+
+00:20:00.720 --> 00:20:04.520
+make. So, we're making three requests.
+
+00:20:04.559 --> 00:20:08.480
+Uh, and then we're This is a techn
+
+00:20:06.799 --> 00:20:12.240
+request
+
+00:20:08.480 --> 00:20:15.039
+from Nano Banana. So, this would be nano
+
+00:20:12.240 --> 00:20:18.240
+banana.
+
+00:20:15.039 --> 00:20:19.919
+Okay, cool.
+
+00:20:18.240 --> 00:20:21.280
+All right, let's go. Now we got the
+
+00:20:19.919 --> 00:20:25.360
+plan. Let's go back to cloud and see
+
+00:20:21.280 --> 00:20:28.240
+what's up. So, this is pretty cool. Um,
+
+00:20:25.360 --> 00:20:30.240
+it's asking us which text stack we want.
+
+00:20:28.240 --> 00:20:33.039
+So, instead of having to tell it, you
+
+00:20:30.240 --> 00:20:36.280
+know, nextJS, it already understands.
+
+00:20:33.039 --> 00:20:36.280
+It's great.
+
+00:20:37.760 --> 00:20:40.799
+That's how you know AGI is almost here
+
+00:20:39.440 --> 00:20:43.799
+and these AI is getting smarter and
+
+00:20:40.799 --> 00:20:43.799
+smarter
+
+00:20:44.240 --> 00:20:49.440
+and yeah the planning does not is not
+
+00:20:46.799 --> 00:20:51.200
+short and it does take long sometimes.
+
+00:20:49.440 --> 00:20:53.600
+It's been about what like 20 minutes of
+
+00:20:51.200 --> 00:20:55.840
+planning so
+
+00:20:53.600 --> 00:20:59.679
+it's a part of the game but it's almost
+
+00:20:55.840 --> 00:21:02.080
+done. It has MVP scope pretty
+
+00:20:59.679 --> 00:21:06.760
+uh
+
+00:21:02.080 --> 00:21:06.760
+okay so here's the plan. Um,
+
+00:21:16.880 --> 00:21:23.520
+so here's the total base variable per
+
+00:21:21.200 --> 00:21:27.360
+client.
+
+00:21:23.520 --> 00:21:30.640
+Okay, four play $175 a month now to $32
+
+00:21:27.360 --> 00:21:32.480
+per month. GBT for now $2 wish for 25 or
+
+00:21:30.640 --> 00:21:35.480
+so
+
+00:21:32.480 --> 00:21:35.480
+this
+
+00:21:35.520 --> 00:21:43.120
+okay these this is set really going to
+
+00:21:39.600 --> 00:21:46.799
+change so the variable cost per client
+
+00:21:43.120 --> 00:21:49.760
+is 35 bucks a month um
+
+00:21:46.799 --> 00:21:52.159
+so we work to make this a SAS it would
+
+00:21:49.760 --> 00:21:54.559
+have to be pricey like $100 to like a
+
+00:21:52.159 --> 00:21:56.000
+$200 a month but since it's a project
+
+00:21:54.559 --> 00:21:57.600
+that we're just assigning to a client it
+
+00:21:56.000 --> 00:21:59.120
+would be and they're covering the cost
+
+00:21:57.600 --> 00:22:03.080
+of it. It's their personal cost. We're
+
+00:21:59.120 --> 00:22:03.080
+not going to bear the cost of them
+
+00:22:06.400 --> 00:22:11.679
+here. Um
+
+00:22:09.280 --> 00:22:14.400
+here prove the plan. Let's start
+
+00:22:11.679 --> 00:22:18.080
+building the foundations first.
+
+00:22:14.400 --> 00:22:21.679
+Let me stop it right there.
+
+00:22:18.080 --> 00:22:26.720
+Before building the project,
+
+00:22:21.679 --> 00:22:28.880
+what the plan? Do not worry about
+
+00:22:26.720 --> 00:22:34.360
+database
+
+00:22:28.880 --> 00:22:34.360
+and authentication right now.
+
+00:22:36.559 --> 00:22:41.760
+We will add that later. Database hosting
+
+00:22:39.919 --> 00:22:43.440
+authentication because we just want to
+
+00:22:41.760 --> 00:22:45.440
+make sure the base product works first.
+
+00:22:43.440 --> 00:22:47.760
+You know, like the tech the client
+
+00:22:45.440 --> 00:22:49.919
+doesn't need a database cuz he not have
+
+00:22:47.760 --> 00:22:52.640
+to log in. He doesn't have to log in to
+
+00:22:49.919 --> 00:22:53.919
+this right now because it's his product,
+
+00:22:52.640 --> 00:22:56.400
+his solution. And so when you're working
+
+00:22:53.919 --> 00:22:58.000
+with client projects, you don't have to
+
+00:22:56.400 --> 00:22:59.600
+worry about bunch of users cuz it'll
+
+00:22:58.000 --> 00:23:00.960
+only be one user and that's him. I mean,
+
+00:22:59.600 --> 00:23:02.240
+if he has a in this case, the client
+
+00:23:00.960 --> 00:23:04.240
+doesn't have a team. If the client had a
+
+00:23:02.240 --> 00:23:06.080
+team, maybe then you have login for like
+
+00:23:04.240 --> 00:23:07.280
+his team members. But even then, they
+
+00:23:06.080 --> 00:23:09.600
+can just have like the shared
+
+00:23:07.280 --> 00:23:11.440
+application. But
+
+00:23:09.600 --> 00:23:13.440
+right now, since it's one client, he has
+
+00:23:11.440 --> 00:23:16.880
+no team. He's doing all himself. It will
+
+00:23:13.440 --> 00:23:18.559
+be uh no login. But I will add a login
+
+00:23:16.880 --> 00:23:20.080
+later. It's just not a priority. So it's
+
+00:23:18.559 --> 00:23:21.840
+not like I'm not going to add suit. It's
+
+00:23:20.080 --> 00:23:24.480
+just not a priority right now in this
+
+00:23:21.840 --> 00:23:26.240
+case because the guy can still use this
+
+00:23:24.480 --> 00:23:29.600
+without having the database support. So
+
+00:23:26.240 --> 00:23:33.520
+you always want to build in the with the
+
+00:23:29.600 --> 00:23:35.039
+minimal viable things needed added
+
+00:23:33.520 --> 00:23:36.480
+because if you're trying to add
+
+00:23:35.039 --> 00:23:39.360
+everything all at once, you're open up
+
+00:23:36.480 --> 00:23:41.360
+to errors and it's just going to get
+
+00:23:39.360 --> 00:23:42.640
+messy. I rather just focus on the least
+
+00:23:41.360 --> 00:23:46.159
+amount of features I need in the
+
+00:23:42.640 --> 00:23:52.919
+beginning and then build slowly
+
+00:23:46.159 --> 00:23:52.919
+that later. Um, for for play API,
+
+00:23:53.520 --> 00:24:01.840
+here are the specific
+
+00:23:57.120 --> 00:24:03.679
+links to the requests needed.
+
+00:24:01.840 --> 00:24:06.400
+And then we're going to get those links.
+
+00:24:03.679 --> 00:24:11.799
+So, I believe that's
+
+00:24:06.400 --> 00:24:11.799
+search brands by name. Um
+
+00:24:15.440 --> 00:24:19.880
+yeah is brand by name.
+
+00:24:20.240 --> 00:24:24.799
+You also do search and filter ads. I
+
+00:24:22.080 --> 00:24:27.760
+mean do that as well.
+
+00:24:24.799 --> 00:24:30.799
+Oh
+
+00:24:27.760 --> 00:24:33.679
+and then here so say let's just let's
+
+00:24:30.799 --> 00:24:37.640
+segment this. So
+
+00:24:33.679 --> 00:24:37.640
+search for ads
+
+00:24:39.520 --> 00:24:47.520
+then brands.
+
+00:24:41.840 --> 00:24:52.799
+Uh then get ads by brand ID. So
+
+00:24:47.520 --> 00:24:56.320
+find ads of brands and use that one.
+
+00:24:52.799 --> 00:25:01.440
+Um what else? Oh yeah, then get add
+
+00:24:56.320 --> 00:25:03.840
+details by ID. What is this one?
+
+00:25:01.440 --> 00:25:08.279
+Okay. How you know what what the ID is
+
+00:25:03.840 --> 00:25:08.279
+though? Yeah. Add. Okay.
+
+00:25:10.960 --> 00:25:16.279
+Get add
+
+00:25:13.279 --> 00:25:16.279
+details.
+
+00:25:20.159 --> 00:25:25.480
+Okay. Same thing. Nice. All right.
+
+00:25:28.240 --> 00:25:35.120
+All right. Um, and let's give him my
+
+00:25:32.000 --> 00:25:37.200
+foreplay API key.
+
+00:25:35.120 --> 00:25:39.039
+And you should have yours. So, do not
+
+00:25:37.200 --> 00:25:40.720
+use mine cuz this will not exist by the
+
+00:25:39.039 --> 00:25:43.520
+time this video, you know, you guys are
+
+00:25:40.720 --> 00:25:47.679
+seeing this. I will revoke this API key
+
+00:25:43.520 --> 00:25:48.960
+so it cannot be hacked.
+
+00:25:47.679 --> 00:25:52.720
+Where's my API key? Where'd it go? Oh,
+
+00:25:48.960 --> 00:25:54.960
+there you go. Copy key. Nice.
+
+00:25:52.720 --> 00:25:57.679
+Uh, don't give any keys. My nano banana
+
+00:25:54.960 --> 00:26:01.960
+2 key I would also have to give. Um,
+
+00:25:57.679 --> 00:26:01.960
+nano banana 2.
+
+00:26:02.960 --> 00:26:08.679
+Uh, which API? API. Google.
+
+00:26:16.559 --> 00:26:19.559
+Banana.
+
+00:26:31.919 --> 00:26:35.039
+You can just use any API key to be
+
+00:26:33.440 --> 00:26:39.200
+honest. Use this one. I'll make a new
+
+00:26:35.039 --> 00:26:42.840
+one. Create API key. Let's call it ecom
+
+00:26:39.200 --> 00:26:42.840
+ad engine.
+
+00:26:43.279 --> 00:26:46.279
+Sure.
+
+00:26:50.720 --> 00:26:54.159
+Copy that.
+
+00:27:11.679 --> 00:27:15.240
+Okay, cool.
+
+00:27:16.159 --> 00:27:22.159
+Now you can build. Perfect. with the
+
+00:27:20.000 --> 00:27:25.039
+added changes. Now it should create a
+
+00:27:22.159 --> 00:27:26.400
+solid application.
+
+00:27:25.039 --> 00:27:27.919
+And the reason I'm doing this right now
+
+00:27:26.400 --> 00:27:29.520
+is because I rather not have the
+
+00:27:27.919 --> 00:27:31.279
+application rebuilt and then prompt it
+
+00:27:29.520 --> 00:27:32.720
+again, add some more stuff. I just want
+
+00:27:31.279 --> 00:27:36.120
+to see what I can come up with in in
+
+00:27:32.720 --> 00:27:36.120
+like one go.
+
+00:27:38.400 --> 00:27:45.480
+Look at Claude, man. So inspirational
+
+00:27:41.440 --> 00:27:45.480
+doing all this work for us.
+
+00:27:46.159 --> 00:27:50.320
+I remember as a software engineer I was
+
+00:27:48.159 --> 00:27:53.679
+working at that big tech company a year
+
+00:27:50.320 --> 00:27:55.840
+ago. I was having to do all this
+
+00:27:53.679 --> 00:27:57.919
+manually and it was insane. Now that
+
+00:27:55.840 --> 00:28:01.840
+same company I used to work at actually
+
+00:27:57.919 --> 00:28:03.600
+is allowing engineers use cloud code.
+
+00:28:01.840 --> 00:28:06.000
+They're allowing engineers to use cloud
+
+00:28:03.600 --> 00:28:07.679
+code every single day. When I was there
+
+00:28:06.000 --> 00:28:10.399
+cloud code wasn't trusted enough. But
+
+00:28:07.679 --> 00:28:12.399
+now it's so trusted that these big
+
+00:28:10.399 --> 00:28:13.840
+financial tech companies are aligned.
+
+00:28:12.399 --> 00:28:15.840
+they're engineer, junior level,
+
+00:28:13.840 --> 00:28:17.840
+mid-level, senior level to use cloud
+
+00:28:15.840 --> 00:28:19.200
+code to build everything. And I know
+
+00:28:17.840 --> 00:28:22.720
+life is so much easier as a software
+
+00:28:19.200 --> 00:28:24.799
+engineer now in big tech because these
+
+00:28:22.720 --> 00:28:26.960
+programs AIS are doing all the work for
+
+00:28:24.799 --> 00:28:28.159
+you. And I'll be honest, I know how to
+
+00:28:26.960 --> 00:28:30.320
+code. I've been coding for 10 plus
+
+00:28:28.159 --> 00:28:32.399
+years, but I much rather use cloud code
+
+00:28:30.320 --> 00:28:33.919
+than do myself. That's just who ever
+
+00:28:32.399 --> 00:28:36.000
+would want to do these things themselves
+
+00:28:33.919 --> 00:28:38.960
+now. All right, cloud code just finished
+
+00:28:36.000 --> 00:28:43.360
+building. Um,
+
+00:28:38.960 --> 00:28:43.360
+so we can go ahead and actually run it.
+
+00:28:44.960 --> 00:28:49.120
+It does say fill your brand profile at
+
+00:28:47.520 --> 00:28:50.399
+once competitors or ads or static ads
+
+00:28:49.120 --> 00:28:53.840
+appear as volume duration badges.
+
+00:28:50.399 --> 00:28:56.720
+Discover search place 27 million plus ad
+
+00:28:53.840 --> 00:29:00.480
+database by keyword niche. Click any ad
+
+00:28:56.720 --> 00:29:02.480
+to run DP4 vision analysis requires open
+
+00:29:00.480 --> 00:29:04.000
+API key which we just pass into the
+
+00:29:02.480 --> 00:29:05.520
+apparently.
+
+00:29:04.000 --> 00:29:06.960
+Walk through the wizard. Select ad.
+
+00:29:05.520 --> 00:29:08.960
+Review analysis. Configure. Generate
+
+00:29:06.960 --> 00:29:11.200
+brand variation with nav 2. Downloads
+
+00:29:08.960 --> 00:29:13.600
+usage stats. Approve race cost tracking.
+
+00:29:11.200 --> 00:29:15.200
+Let me see. Generate ads.
+
+00:29:13.600 --> 00:29:17.440
+Okay.
+
+00:29:15.200 --> 00:29:19.919
+All stay to local storage phases. No
+
+00:29:17.440 --> 00:29:22.960
+database needed yet. All right. Cool.
+
+00:29:19.919 --> 00:29:25.279
+So, we got we got some we got something.
+
+00:29:22.960 --> 00:29:29.520
+I don't know what to expect yet, but
+
+00:29:25.279 --> 00:29:31.520
+let's see. Um,
+
+00:29:29.520 --> 00:29:35.320
+another apparently another instance is
+
+00:29:31.520 --> 00:29:35.320
+running already.
+
+00:29:36.399 --> 00:29:40.520
+No, let me just tell it.
+
+00:29:43.039 --> 00:29:49.840
+And we are almost at 100% used, which is
+
+00:29:45.760 --> 00:29:52.640
+uh [snorts] not that good.
+
+00:29:49.840 --> 00:29:53.840
+Here, this will end any other process.
+
+00:29:52.640 --> 00:29:56.480
+Maybe I was building another app and I
+
+00:29:53.840 --> 00:30:00.679
+forgot to close the close the server.
+
+00:29:56.480 --> 00:30:00.679
+Okay, cool. Now it should work.
+
+00:30:13.279 --> 00:30:16.360
+All right.
+
+00:30:18.480 --> 00:30:24.360
+All right. Looks like nothing crashed.
+
+00:30:20.799 --> 00:30:24.360
+So, let's run it.
+
+00:30:24.399 --> 00:30:29.360
+And let me just take out that. Take out
+
+00:30:26.960 --> 00:30:30.960
+that. I don't think we need these keys
+
+00:30:29.360 --> 00:30:33.279
+anymore, but I'll just leave it open for
+
+00:30:30.960 --> 00:30:35.760
+now.
+
+00:30:33.279 --> 00:30:37.200
+Okay. Compare ad feed. Track winning ads
+
+00:30:35.760 --> 00:30:41.200
+from competitors. I compare novice to
+
+00:30:37.200 --> 00:30:46.159
+get started. Search ads. Discover
+
+00:30:41.200 --> 00:30:48.480
+winning ads. Let's see. So my client um
+
+00:30:46.159 --> 00:30:50.399
+he runs a vacuum business. So we are
+
+00:30:48.480 --> 00:30:53.120
+going to
+
+00:30:50.399 --> 00:30:56.120
+talk about vacuums.
+
+00:30:53.120 --> 00:30:56.120
+Um
+
+00:30:57.440 --> 00:31:02.279
+wireless
+
+00:30:59.279 --> 00:31:02.279
+vacuums.
+
+00:31:03.520 --> 00:31:12.039
+No ads found.
+
+00:31:07.200 --> 00:31:12.039
+Search for something similar. Uh yoga.
+
+00:31:13.440 --> 00:31:17.760
+Okay.
+
+00:31:14.960 --> 00:31:22.200
+Mats.
+
+00:31:17.760 --> 00:31:22.200
+All right. Okay. We got
+
+00:31:22.720 --> 00:31:29.360
+we got something. Um did I spell back
+
+00:31:27.039 --> 00:31:32.399
+incorrectly? Am I?
+
+00:31:29.360 --> 00:31:33.919
+I doubt we spelled vacuum correctly.
+
+00:31:32.399 --> 00:31:35.120
+Vacuum.
+
+00:31:33.919 --> 00:31:39.039
+Oh, this is the one we were seeing
+
+00:31:35.120 --> 00:31:41.840
+earlier. Stony Brook S. Okay. Can
+
+00:31:39.039 --> 00:31:45.399
+sustainable RX pricing. What are these
+
+00:31:41.840 --> 00:31:45.399
+ones? All niches
+
+00:31:45.760 --> 00:31:48.760
+knowledgiscover
+
+00:31:57.207 --> 00:32:02.120
+[snorts]
+
+00:31:58.159 --> 00:32:02.120
+ads 14 days.
+
+00:32:10.159 --> 00:32:16.320
+All right. generate.
+
+00:32:13.200 --> 00:32:19.440
+Also want to track our API usage. So if
+
+00:32:16.320 --> 00:32:23.360
+we go to this refresh here, you can see
+
+00:32:19.440 --> 00:32:25.760
+how many credits we're pulling.
+
+00:32:23.360 --> 00:32:28.399
+Wow. So we already pulled 434 ads. So we
+
+00:32:25.760 --> 00:32:31.600
+definitely need to limit um the number
+
+00:32:28.399 --> 00:32:35.159
+of ads we are pulling.
+
+00:32:31.600 --> 00:32:35.159
+That's just too much.
+
+00:32:35.440 --> 00:32:42.640
+Okay. Uh add Facebook page. Come back
+
+00:32:38.000 --> 00:32:45.600
+here. Generate. Interesting. So
+
+00:32:42.640 --> 00:32:47.919
+set the knowledge base with our our
+
+00:32:45.600 --> 00:32:50.640
+stuff. So brand density, target audience
+
+00:32:47.919 --> 00:32:53.360
+and niche, visual density, brand assets,
+
+00:32:50.640 --> 00:32:54.399
+exclusions. Okay, this is great.
+
+00:32:53.360 --> 00:32:57.760
+Essentially just building a whole
+
+00:32:54.399 --> 00:33:00.399
+knowledge base for our brand. Um,
+
+00:32:57.760 --> 00:33:02.480
+this is not the client's brand, but I'm
+
+00:33:00.399 --> 00:33:06.559
+just going to do a fake one. Website
+
+00:33:02.480 --> 00:33:09.039
+URL. Don't need it. Um,
+
+00:33:06.559 --> 00:33:13.480
+well, he also sells
+
+00:33:09.039 --> 00:33:13.480
+dog mats. So,
+
+00:33:14.320 --> 00:33:19.279
+this here.
+
+00:33:16.720 --> 00:33:21.200
+There you go. We run with dogmats then
+
+00:33:19.279 --> 00:33:23.039
+for this. I'm trying to think. I have to
+
+00:33:21.200 --> 00:33:24.240
+show the client a demo of this project.
+
+00:33:23.039 --> 00:33:25.919
+So, we got to make it look pretty. All
+
+00:33:24.240 --> 00:33:29.519
+right. And look good. And it has to work
+
+00:33:25.919 --> 00:33:33.120
+smoothly. So, dog mats it is. Um, all
+
+00:33:29.519 --> 00:33:36.679
+right. Knowledge base brand description.
+
+00:33:33.120 --> 00:33:36.679
+High quality
+
+00:33:37.519 --> 00:33:46.279
+dog mats that have cool designs on them.
+
+00:33:46.480 --> 00:33:52.960
+Very homey
+
+00:33:48.559 --> 00:33:57.000
+and warm. Brand voice playful.
+
+00:33:52.960 --> 00:33:57.000
+price range is about
+
+00:33:57.120 --> 00:34:04.399
+20 to like 10 to $30.
+
+00:34:02.480 --> 00:34:06.880
+We can keep this visual density for now.
+
+00:34:04.399 --> 00:34:10.079
+Uh we don't have any example ads. So
+
+00:34:06.880 --> 00:34:14.320
+target audience dog owners primary niche
+
+00:34:10.079 --> 00:34:18.000
+it's animals right
+
+00:34:14.320 --> 00:34:21.760
+home. unique selling points.
+
+00:34:18.000 --> 00:34:23.280
+Dogs love our
+
+00:34:21.760 --> 00:34:27.119
+mats.
+
+00:34:23.280 --> 00:34:31.119
+Dogs and their owners
+
+00:34:27.119 --> 00:34:32.560
+love our mats. Product categories.
+
+00:34:31.119 --> 00:34:35.560
+Is that the same thing almost here?
+
+00:34:32.560 --> 00:34:35.560
+Animals
+
+00:34:36.320 --> 00:34:40.159
+home.
+
+00:34:38.399 --> 00:34:41.760
+I press first enter, don't I? I don't
+
+00:34:40.159 --> 00:34:46.280
+know.
+
+00:34:41.760 --> 00:34:46.280
+Yeah. Dogs and the owners love our mats.
+
+00:34:46.960 --> 00:34:50.760
+affordable mats.
+
+00:34:51.440 --> 00:34:57.920
+I'm guessing this saves, correct? Good.
+
+00:34:54.320 --> 00:35:03.359
+Generate analytics.
+
+00:34:57.920 --> 00:35:06.400
+All right. Uh, discover ad feed.
+
+00:35:03.359 --> 00:35:09.520
+Set up the knowledge
+
+00:35:06.400 --> 00:35:11.440
+base, which we have the competitors. All
+
+00:35:09.520 --> 00:35:16.320
+right. So, we can find some competitors.
+
+00:35:11.440 --> 00:35:18.240
+So dog if you go to regular foreplay. Um
+
+00:35:16.320 --> 00:35:20.079
+let's find the dog to find some
+
+00:35:18.240 --> 00:35:21.920
+competitors from the actual without
+
+00:35:20.079 --> 00:35:24.560
+wasting our API credits. We can just go
+
+00:35:21.920 --> 00:35:27.839
+to this map. Buy one get one.
+
+00:35:24.560 --> 00:35:29.680
+This is 119 days. Dang. So this is what
+
+00:35:27.839 --> 00:35:30.960
+are they're doing this cooling Aussies.
+
+00:35:29.680 --> 00:35:33.440
+They're they're killing it man. They're
+
+00:35:30.960 --> 00:35:37.160
+doing good.
+
+00:35:33.440 --> 00:35:37.160
+Where's landing page?
+
+00:35:37.359 --> 00:35:41.640
+What did they change their
+
+00:35:41.680 --> 00:35:46.760
+Oh, relief for dogs. There you go.
+
+00:35:49.440 --> 00:35:53.400
+Dang, this is kind of expensive.
+
+00:35:54.000 --> 00:35:58.520
+But you pass this in.
+
+00:36:21.359 --> 00:36:24.680
+Wait, what?
+
+00:36:28.240 --> 00:36:33.880
+Oh, okay. Let's try get the cooling AIS.
+
+00:36:38.000 --> 00:36:44.760
+Yeah, there you go. Nice.
+
+00:36:40.640 --> 00:36:44.760
+Uh, find some other competitors.
+
+00:36:46.320 --> 00:36:52.760
+Funny fuzzy pet.
+
+00:36:48.960 --> 00:36:52.760
+Funny fuzzy pet.
+
+00:36:52.880 --> 00:36:57.560
+Look at that. Funny fuzzy pet.
+
+00:37:08.800 --> 00:37:15.359
+201
+
+00:37:11.680 --> 00:37:17.359
+Oh my god. Some of these ads must be
+
+00:37:15.359 --> 00:37:19.200
+amazing or something. Like they must be
+
+00:37:17.359 --> 00:37:23.040
+the I don't know the best ads of all
+
+00:37:19.200 --> 00:37:24.480
+time. That's 200 day ad is a lot.
+
+00:37:23.040 --> 00:37:29.079
+I wonder how much money they spent on
+
+00:37:24.480 --> 00:37:29.079
+this ad. They just running it.
+
+00:37:29.920 --> 00:37:33.680
+Yeah, I think this is good enough. This
+
+00:37:31.520 --> 00:37:35.760
+good enough competitors for now. Okay,
+
+00:37:33.680 --> 00:37:38.760
+let's let's make uh six. Let's make six
+
+00:37:35.760 --> 00:37:38.760
+competitors.
+
+00:37:39.200 --> 00:37:47.160
+Love for my dot 213 days.
+
+00:37:43.280 --> 00:37:47.160
+Let me just copy from here.
+
+00:37:49.359 --> 00:37:56.359
+There you go.
+
+00:37:52.720 --> 00:37:56.359
+Best finds.
+
+00:38:03.280 --> 00:38:07.240
+There's a This is it.
+
+00:38:15.440 --> 00:38:19.079
+Oh, wow.
+
+00:38:21.280 --> 00:38:27.960
+What? No.
+
+00:38:24.079 --> 00:38:27.960
+Pet lab code.
+
+00:38:33.839 --> 00:38:37.160
+Oh, wait.
+
+00:38:38.960 --> 00:38:46.119
+Yeah. See that one? All right. Uh, see
+
+00:38:42.160 --> 00:38:46.119
+our knowledge base set up.
+
+00:38:46.320 --> 00:38:51.200
+Proven winner. Proven winner. Proven
+
+00:38:48.160 --> 00:38:55.280
+winner. We got some proven winners.
+
+00:38:51.200 --> 00:38:59.359
+Let's go. Okay.
+
+00:38:55.280 --> 00:39:02.000
+Yes. This is great cuz this makes our
+
+00:38:59.359 --> 00:39:05.920
+life easy for us. All we have to do is
+
+00:39:02.000 --> 00:39:08.560
+clone this with our own branding now.
+
+00:39:05.920 --> 00:39:09.920
+Wait, how are we h how
+
+00:39:08.560 --> 00:39:11.839
+duplicate? I was going to say how are we
+
+00:39:09.920 --> 00:39:14.640
+doing that again?
+
+00:39:11.839 --> 00:39:16.320
+Um,
+
+00:39:14.640 --> 00:39:18.400
+this is pretty easy to duplicate. Okay,
+
+00:39:16.320 --> 00:39:22.079
+analyze.
+
+00:39:18.400 --> 00:39:24.640
+Okay, so this is why we need um we need
+
+00:39:22.079 --> 00:39:28.359
+to add our OpenAI API key here. So, I'm
+
+00:39:24.640 --> 00:39:28.359
+going go ahead and do that.
+
+00:39:37.280 --> 00:39:44.520
+All right, these are API keys. Create a
+
+00:39:39.040 --> 00:39:44.520
+new one. Um, just call it ecom key.
+
+00:39:45.119 --> 00:39:50.960
+Copy [clears throat] that. Uh, where is
+
+00:39:47.520 --> 00:39:54.520
+our ecom?
+
+00:39:50.960 --> 00:39:54.520
+All right. analyze.
+
+00:39:56.672 --> 00:39:58.692
+[snorts]
+
+00:40:10.640 --> 00:40:14.160
+Nice. This screen is sponsored by Pet
+
+00:40:12.560 --> 00:40:15.520
+Labs code dental form with hook create
+
+00:40:14.160 --> 00:40:16.800
+curiosity by linking your dogs happy
+
+00:40:15.520 --> 00:40:19.040
+expression to product encourage viewers
+
+00:40:16.800 --> 00:40:21.520
+to learn more. Visual hierarchy layout
+
+00:40:19.040 --> 00:40:26.560
+focal point flow eye moves from the
+
+00:40:21.520 --> 00:40:29.040
+dog's face to the ad copy right here
+
+00:40:26.560 --> 00:40:30.480
+analysis replication brief keep
+
+00:40:29.040 --> 00:40:33.920
+curiosity hook testimony suggest a
+
+00:40:30.480 --> 00:40:36.400
+headline transfer dog smile pet lab coa
+
+00:40:33.920 --> 00:40:41.320
+try now 90day guarantee duplicate this
+
+00:40:36.400 --> 00:40:41.320
+ad okay duplicate this ad
+
+00:40:42.079 --> 00:40:47.680
+three variations one variation uh aspect
+
+00:40:44.960 --> 00:40:50.079
+ratio meta feed using brand sunny these
+
+00:40:47.680 --> 00:40:54.000
+vacuums. Perfect.
+
+00:40:50.079 --> 00:40:57.680
+Uh, application brief headline.
+
+00:40:54.000 --> 00:40:59.760
+So, we should be able to edit this part.
+
+00:40:57.680 --> 00:41:01.839
+Um, so let's because we don't want this
+
+00:40:59.760 --> 00:41:05.400
+headline. Transfer dog smile with pet
+
+00:41:01.839 --> 00:41:05.400
+lab coat, right?
+
+00:41:08.160 --> 00:41:12.880
+Or is this the copy of the original ad?
+
+00:41:11.040 --> 00:41:15.599
+Let's generate three variations and see
+
+00:41:12.880 --> 00:41:20.040
+what it comes up with. Dang,
+
+00:41:15.599 --> 00:41:20.040
+it all failed. Why?
+
+00:41:20.880 --> 00:41:24.359
+Why did it fail?
+
+00:41:34.560 --> 00:41:41.880
+Says it invalidation pillow receive
+
+00:41:37.200 --> 00:41:41.880
+unknown name. Okay.
+
+00:41:44.800 --> 00:41:48.760
+Give their cloud code
+
+00:42:13.599 --> 00:42:21.280
+projects. expend
+
+00:42:16.000 --> 00:42:22.880
+API key API quick start.
+
+00:42:21.280 --> 00:42:27.880
+I want to make sure it's actually knows
+
+00:42:22.880 --> 00:42:27.880
+how to do everything correctly.
+
+00:42:28.640 --> 00:42:35.200
+Image generation Rust
+
+00:42:31.920 --> 00:42:38.200
+uh text create a picture text image to
+
+00:42:35.200 --> 00:42:38.200
+image.
+
+00:42:52.800 --> 00:43:02.839
+Here is a URL. Here is example payload
+
+00:42:58.880 --> 00:43:02.839
+that should be sent
+
+00:43:03.839 --> 00:43:10.440
+also use model
+
+00:43:06.640 --> 00:43:10.440
+which is a new one.
+
+00:43:17.200 --> 00:43:21.319
+You want to use model
+
+00:43:22.160 --> 00:43:26.839
+3.1 flash image preview.
+
+00:43:31.040 --> 00:43:34.960
+Um, anything else you want to change?
+
+00:43:33.119 --> 00:43:36.400
+Yeah, you want to try to as many, you
+
+00:43:34.960 --> 00:43:40.760
+know, get everything done as least
+
+00:43:36.400 --> 00:43:40.760
+prompts as possible. Um,
+
+00:43:56.319 --> 00:44:01.520
+wait. I wonder duplicate if just do one
+
+00:43:59.119 --> 00:44:06.040
+variation. Does it work?
+
+00:44:01.520 --> 00:44:06.040
+No. Hey, it doesn't work regardless.
+
+00:44:07.920 --> 00:44:14.160
+have a field to
+
+00:44:11.599 --> 00:44:18.520
+specify
+
+00:44:14.160 --> 00:44:18.520
+any um
+
+00:44:18.640 --> 00:44:26.440
+we specifically want
+
+00:44:22.640 --> 00:44:26.440
+in the duplicated
+
+00:44:26.560 --> 00:44:31.160
+version of the ad.
+
+00:44:35.599 --> 00:44:43.560
+such as CTA or I don't know color scheme
+
+00:44:40.240 --> 00:44:43.560
+or branding
+
+00:44:48.560 --> 00:44:56.560
+empty fields means use default prompt.
+
+00:44:54.000 --> 00:45:00.359
+All right. This hope we should fix our
+
+00:44:56.560 --> 00:45:00.359
+errors that we have currently.
+
+00:45:00.640 --> 00:45:07.119
+And yeah, we are going to have to change
+
+00:45:02.720 --> 00:45:11.480
+like a this look. This is it's not
+
+00:45:07.119 --> 00:45:11.480
+horrible, but it's not the best.
+
+00:45:15.599 --> 00:45:19.520
+The cool part about it is for a lot of
+
+00:45:18.000 --> 00:45:21.040
+clients, they don't care about the looks
+
+00:45:19.520 --> 00:45:23.440
+too much when it comes to these like
+
+00:45:21.040 --> 00:45:25.520
+one-off solutions. with SAS is different
+
+00:45:23.440 --> 00:45:27.520
+because you're serving so many users and
+
+00:45:25.520 --> 00:45:29.200
+you need you need it to look. But for
+
+00:45:27.520 --> 00:45:30.880
+these big ticket clients, as long as it
+
+00:45:29.200 --> 00:45:33.680
+works, man, it's easy to use, that's
+
+00:45:30.880 --> 00:45:35.440
+what they care about.
+
+00:45:33.680 --> 00:45:37.680
+This ad feed is great. You know, it
+
+00:45:35.440 --> 00:45:40.480
+shows the proven winner is amazing. Um
+
+00:45:37.680 --> 00:45:43.520
+the logos can be changed, the naming,
+
+00:45:40.480 --> 00:45:46.560
+this the discovering maybe this a little
+
+00:45:43.520 --> 00:45:48.240
+bit better. Um
+
+00:45:46.560 --> 00:45:52.400
+but the dogma example, which what he
+
+00:45:48.240 --> 00:45:54.960
+uses is pretty good. The generate
+
+00:45:52.400 --> 00:45:57.680
+That's That's fine. We were just doing
+
+00:45:54.960 --> 00:46:00.160
+that earlier. Knowledge base is great, I
+
+00:45:57.680 --> 00:46:01.839
+believe. And then analytics is pretty
+
+00:46:00.160 --> 00:46:03.920
+straightforward.
+
+00:46:01.839 --> 00:46:05.440
+We just get the the duplication to work.
+
+00:46:03.920 --> 00:46:08.800
+That's the main point. If I want to show
+
+00:46:05.440 --> 00:46:10.560
+the if I want to show the client the
+
+00:46:08.800 --> 00:46:15.400
+duplication that they're not they're not
+
+00:46:10.560 --> 00:46:15.400
+too happy with if it's not working.
+
+00:46:18.000 --> 00:46:21.000
+Okay.
+
+00:46:26.240 --> 00:46:31.200
+Also, I do want to specify this is the
+
+00:46:28.800 --> 00:46:32.880
+first version of this product. I will
+
+00:46:31.200 --> 00:46:34.640
+make it better. Uh the client is paying
+
+00:46:32.880 --> 00:46:37.040
+half and half. So, he's paying half up
+
+00:46:34.640 --> 00:46:38.880
+front, which is about 12.5K.
+
+00:46:37.040 --> 00:46:40.319
+So, once I show him this and show him
+
+00:46:38.880 --> 00:46:42.079
+this like the MVP and gives whatever
+
+00:46:40.319 --> 00:46:43.280
+feedback he wants to, then I'm going to
+
+00:46:42.079 --> 00:46:46.760
+go ahead and build like the final
+
+00:46:43.280 --> 00:46:46.760
+version of the solution.
+
+00:46:51.359 --> 00:46:59.000
+Okay, I think this is um
+
+00:46:55.040 --> 00:46:59.000
+potentially might work now.
+
+00:47:01.920 --> 00:47:06.119
+All right. Um
+
+00:47:07.520 --> 00:47:12.640
+custom headline transfer dog smile.
+
+00:47:10.160 --> 00:47:16.880
+Nope, that's not what we're doing.
+
+00:47:12.640 --> 00:47:20.680
+transform your dogs
+
+00:47:16.880 --> 00:47:20.680
+smile with
+
+00:47:20.720 --> 00:47:25.680
+this kind of isn't our offer,
+
+00:47:23.200 --> 00:47:29.319
+right? But
+
+00:47:25.680 --> 00:47:29.319
+we're not we're not
+
+00:47:31.920 --> 00:47:35.200
+we're technically I Pet Lab Code can be
+
+00:47:34.000 --> 00:47:38.000
+just brushing their teeth. We're not
+
+00:47:35.200 --> 00:47:40.319
+brushing their teeth, but
+
+00:47:38.000 --> 00:47:41.680
+the image is working. So, we can
+
+00:47:40.319 --> 00:47:43.119
+potentially use it in a different way.
+
+00:47:41.680 --> 00:47:44.560
+This about there's a pet lab called
+
+00:47:43.119 --> 00:47:46.480
+dental formulas. It's for, you know,
+
+00:47:44.560 --> 00:47:47.839
+food. These ads are definitely more.
+
+00:47:46.480 --> 00:47:50.079
+Okay. Let's duplicate these ads. What am
+
+00:47:47.839 --> 00:47:52.560
+I doing? This is a dog smile. Let's
+
+00:47:50.079 --> 00:47:55.520
+duplicate these ads right here. Um,
+
+00:47:52.560 --> 00:47:59.839
+okay. So, duplicate. And then instead of
+
+00:47:55.520 --> 00:48:01.359
+funny fuzzy right here and right here.
+
+00:47:59.839 --> 00:48:04.319
+Uh,
+
+00:48:01.359 --> 00:48:05.760
+wait.
+
+00:48:04.319 --> 00:48:06.880
+What? Trying to duplicate this, man. I
+
+00:48:05.760 --> 00:48:09.599
+don't care about analyzing. All right.
+
+00:48:06.880 --> 00:48:16.079
+must analyze.
+
+00:48:09.599 --> 00:48:18.079
+Also, users should be able to duplicate
+
+00:48:16.079 --> 00:48:21.760
+and add
+
+00:48:18.079 --> 00:48:24.400
+without analyzing it first.
+
+00:48:21.760 --> 00:48:27.119
+That's a fix.
+
+00:48:24.400 --> 00:48:33.599
+Discount offer dog on bed. Nice. Okay.
+
+00:48:27.119 --> 00:48:36.599
+Pamper your Pamper your pup with cozy
+
+00:48:33.599 --> 00:48:36.599
+mats.
+
+00:48:38.640 --> 00:48:44.880
+And then you say, "Get yours today. Copy
+
+00:48:41.359 --> 00:48:48.319
+the exact CTA. Custom color scheme."
+
+00:48:44.880 --> 00:48:51.720
+Yeah, sure. Use pastel pink
+
+00:48:48.319 --> 00:48:51.720
+custom branding.
+
+00:48:52.000 --> 00:48:57.480
+Sunny's
+
+00:48:54.480 --> 00:48:57.480
+mattes
+
+00:48:59.599 --> 00:49:05.160
+instead of what should what is it
+
+00:49:01.599 --> 00:49:05.160
+called? Funny fuzzy
+
+00:49:06.720 --> 00:49:10.520
+uh remove any
+
+00:49:10.640 --> 00:49:20.319
+mention of competitor brand name
+
+00:49:15.119 --> 00:49:24.119
+only brand name should be
+
+00:49:20.319 --> 00:49:24.119
+uh sunnies
+
+00:49:24.800 --> 00:49:27.800
+mats
+
+00:49:31.200 --> 00:49:35.280
+I like how it has estimated cost, too.
+
+00:49:33.280 --> 00:49:37.760
+That's good.
+
+00:49:35.280 --> 00:49:39.040
+Uh, three variations. I think in the
+
+00:49:37.760 --> 00:49:40.640
+final version, I'll have unlimited
+
+00:49:39.040 --> 00:49:42.480
+variation because I know my client
+
+00:49:40.640 --> 00:49:46.559
+specified he want like be able to do 25
+
+00:49:42.480 --> 00:49:50.200
+variations if needed at once.
+
+00:49:46.559 --> 00:49:50.200
+It didn't work again.
+
+00:49:50.400 --> 00:49:53.400
+Why?
+
+00:50:21.920 --> 00:50:24.880
+So, I want to I want to see the exact
+
+00:50:23.359 --> 00:50:27.119
+error logs. I'm going to just have it I
+
+00:50:24.880 --> 00:50:29.040
+mean, it says right here as well. API
+
+00:50:27.119 --> 00:50:31.680
+generate
+
+00:50:29.040 --> 00:50:34.480
+500 500 500. I just want to see what it
+
+00:50:31.680 --> 00:50:38.480
+says.
+
+00:50:34.480 --> 00:50:40.800
+Full. Yeah. Um,
+
+00:50:38.480 --> 00:50:45.559
+full error should we display? Cuz right
+
+00:50:40.800 --> 00:50:45.559
+now the duplication part isn't working.
+
+00:51:17.680 --> 00:51:20.680
+Well,
+
+00:51:22.640 --> 00:51:27.280
+times like this, I use my ex software
+
+00:51:24.640 --> 00:51:29.920
+engineering experience.
+
+00:51:27.280 --> 00:51:32.920
+Wait, no. What's the model again?
+
+00:51:29.920 --> 00:51:32.920
+Gemini
+
+00:51:34.910 --> 00:51:36.930
+[snorts]
+
+00:51:39.760 --> 00:51:44.960
+right here. All right. So, we can see
+
+00:51:42.160 --> 00:51:47.359
+why exact what's going on.
+
+00:51:44.960 --> 00:51:50.880
+HTTPS.
+
+00:51:47.359 --> 00:51:53.520
+Where's the nano banana gemini?
+
+00:51:50.880 --> 00:51:56.839
+Okay. This is a request. I mean, it's a
+
+00:51:53.520 --> 00:51:56.839
+post request.
+
+00:51:57.040 --> 00:52:00.720
+This is API key.
+
+00:52:01.599 --> 00:52:05.559
+parts. Tax picture.
+
+00:52:06.640 --> 00:52:10.760
+Where's the body parts?
+
+00:52:30.480 --> 00:52:35.319
+The data B 64 image data
+
+00:53:10.480 --> 00:53:14.520
+Is there a better way to do this?
+
+00:53:29.359 --> 00:53:34.079
+How are they doing in Python
+
+00:53:31.760 --> 00:53:35.920
+or JavaScript?
+
+00:53:34.079 --> 00:53:38.000
+I should just put in JavaScript. Why do
+
+00:53:35.920 --> 00:53:41.240
+I
+
+00:53:38.000 --> 00:53:41.240
+way easier?
+
+00:53:45.680 --> 00:53:51.760
+Okay, so Ruth want to know how is the
+
+00:53:50.000 --> 00:53:56.079
+image
+
+00:53:51.760 --> 00:54:02.839
+from the ad being passed
+
+00:53:56.079 --> 00:54:02.839
+into the post request for nano banana?
+
+00:54:02.960 --> 00:54:10.880
+Which field in the response
+
+00:54:07.839 --> 00:54:14.000
+is being taken out?
+
+00:54:10.880 --> 00:54:17.000
+Which field in the response is being
+
+00:54:14.000 --> 00:54:17.000
+He's
+
+00:54:19.760 --> 00:54:28.079
+taken out and passed into
+
+00:54:24.240 --> 00:54:29.680
+the nano banana request.
+
+00:54:28.079 --> 00:54:31.280
+Now you guys are like, what are you
+
+00:54:29.680 --> 00:54:34.480
+talking about? So if you look at the
+
+00:54:31.280 --> 00:54:36.800
+foreplay API again, it shows you the
+
+00:54:34.480 --> 00:54:39.680
+response. So this is the this is a ad,
+
+00:54:36.800 --> 00:54:42.319
+right? Ad ID. So this is a thumbnail.
+
+00:54:39.680 --> 00:54:44.800
+This is a field that should be being
+
+00:54:42.319 --> 00:54:48.400
+passed like this is this image right
+
+00:54:44.800 --> 00:54:51.839
+here. This URL we need to go to that URL
+
+00:54:48.400 --> 00:54:55.520
+and download that image and then pass
+
+00:54:51.839 --> 00:54:57.599
+that image into
+
+00:54:55.520 --> 00:54:59.760
+into Nano Banana. And that's how that's
+
+00:54:57.599 --> 00:55:01.040
+the structure of this. But I don't I
+
+00:54:59.760 --> 00:55:03.599
+don't know if it's grabbing the
+
+00:55:01.040 --> 00:55:06.079
+thumbnail or maybe is it a thumbnail? Is
+
+00:55:03.599 --> 00:55:09.720
+a different thumbnail
+
+00:55:06.079 --> 00:55:09.720
+that we try and get.
+
+00:55:11.040 --> 00:55:14.040
+Uh
+
+00:55:14.720 --> 00:55:22.040
+is there a display format that's like
+
+00:55:18.640 --> 00:55:22.040
+uh regular
+
+00:55:22.400 --> 00:55:25.400
+image?
+
+00:55:55.520 --> 00:55:58.680
+Got it.
+
+00:56:04.118 --> 00:56:06.138
+[snorts]
+
+00:56:24.799 --> 00:56:29.160
+Oh my god, we hit our limit.
+
+00:56:31.040 --> 00:56:35.280
+So, we have to wait 4 hours for it to
+
+00:56:33.040 --> 00:56:38.720
+reset. So,
+
+00:56:35.280 --> 00:56:42.760
+huh, at least we got the changes made.
+
+00:56:38.720 --> 00:56:42.760
+So, let's just see the changes.
+
+00:56:43.359 --> 00:56:47.119
+Yeah, come back. Hey, why don't you get
+
+00:56:45.599 --> 00:56:51.000
+why don't you get Cloud Max? I'll get
+
+00:56:47.119 --> 00:56:51.000
+Cloud Max. Don't worry.
+
+00:56:51.440 --> 00:56:55.640
+Oh, this.
+
+00:56:56.160 --> 00:57:00.440
+Let's do one variation.
+
+00:57:00.720 --> 00:57:05.920
+Two variations. It is. I think it's
+
+00:57:02.720 --> 00:57:10.160
+going to work anyways.
+
+00:57:05.920 --> 00:57:13.200
+Oh, it looks like just a money issue.
+
+00:57:10.160 --> 00:57:15.280
+Code exceeds limit zero mono course
+
+00:57:13.200 --> 00:57:20.520
+metric.
+
+00:57:15.280 --> 00:57:20.520
+I think it is a
+
+00:57:20.720 --> 00:57:24.880
+Oh, generate content free tier. All
+
+00:57:22.960 --> 00:57:27.760
+right. So, it might just be a money
+
+00:57:24.880 --> 00:57:31.599
+issue. So, I made some changes and I'm
+
+00:57:27.760 --> 00:57:33.760
+trying again. And I really hope it um
+
+00:57:31.599 --> 00:57:35.280
+works this time,
+
+00:57:33.760 --> 00:57:40.359
+but
+
+00:57:35.280 --> 00:57:40.359
+it in fact did work.
+
+00:57:44.319 --> 00:57:50.559
+It What the All right, this is what
+
+00:57:48.640 --> 00:57:51.920
+happened.
+
+00:57:50.559 --> 00:57:53.760
+There's something messed up my building
+
+00:57:51.920 --> 00:57:54.960
+portal. I don't know what's going on. I
+
+00:57:53.760 --> 00:57:56.559
+think it may have actually worked for
+
+00:57:54.960 --> 00:57:58.000
+you if you've been following along
+
+00:57:56.559 --> 00:57:59.520
+because my billing port was messed up,
+
+00:57:58.000 --> 00:58:01.440
+but for you it wasn't. So, what I had to
+
+00:57:59.520 --> 00:58:03.599
+do is I went on projects. I created a
+
+00:58:01.440 --> 00:58:07.319
+new project.
+
+00:58:03.599 --> 00:58:07.319
+Um, where'd it go?
+
+00:58:07.359 --> 00:58:14.160
+I Yeah, AI ecomad. And then in this
+
+00:58:10.799 --> 00:58:16.880
+project, I simply create a new API key.
+
+00:58:14.160 --> 00:58:19.680
+So, I say create API key. I picked AI
+
+00:58:16.880 --> 00:58:22.559
+e-comad made a new one as you see right
+
+00:58:19.680 --> 00:58:24.079
+here. And that was it. Legitimately, I
+
+00:58:22.559 --> 00:58:25.760
+switched my API key, it started working
+
+00:58:24.079 --> 00:58:28.000
+against I I don't know what happened,
+
+00:58:25.760 --> 00:58:30.319
+but I think I must have hit the limit of
+
+00:58:28.000 --> 00:58:34.720
+this one. Um, it was an older API key,
+
+00:58:30.319 --> 00:58:39.359
+so makes sense. But if look at this,
+
+00:58:34.720 --> 00:58:41.680
+we have a duplicated ad.
+
+00:58:39.359 --> 00:58:44.240
+Pamper your pup with our cozy bed.
+
+00:58:41.680 --> 00:58:46.160
+Perfect for every season with the PS
+
+00:58:44.240 --> 00:58:50.240
+Sport. Machine washable, durable, and
+
+00:58:46.160 --> 00:58:52.480
+soft. Get yours today. 70% off. Buy now.
+
+00:58:50.240 --> 00:58:55.880
+Pamper your pup without a cozy bed. Get
+
+00:58:52.480 --> 00:58:55.880
+yours today.
+
+00:58:59.200 --> 00:59:02.720
+One thing I want I want do want to look
+
+00:59:00.880 --> 00:59:08.079
+at though
+
+00:59:02.720 --> 00:59:09.280
+is Oh, wait. This say So, this says
+
+00:59:08.079 --> 00:59:11.119
+I guess you can't really read what that
+
+00:59:09.280 --> 00:59:14.400
+said, but say fuzzy on it. So, we don't
+
+00:59:11.119 --> 00:59:16.720
+like that. Whoa. Whoa. Not approved.
+
+00:59:14.400 --> 00:59:20.079
+Here, I'll just say approved for
+
+00:59:16.720 --> 00:59:24.000
+everything real quick.
+
+00:59:20.079 --> 00:59:27.400
+Go to add feed. Discover. Generate
+
+00:59:24.000 --> 00:59:27.400
+knowledge base.
+
+00:59:30.960 --> 00:59:35.760
+Go to ad feed. Oh, that's a generate
+
+00:59:33.040 --> 00:59:37.359
+tab. Okay. Knowledge base analytics. So,
+
+00:59:35.760 --> 00:59:39.760
+these are recently generated ads. That's
+
+00:59:37.359 --> 00:59:41.280
+pretty cool.
+
+00:59:39.760 --> 00:59:45.280
+Okay. Now, but there are things that we
+
+00:59:41.280 --> 00:59:48.280
+need to kind of change. Um, one,
+
+00:59:45.280 --> 00:59:48.280
+it's
+
+00:59:48.480 --> 00:59:52.960
+Oh shoot. We got to get claw max, don't
+
+00:59:50.480 --> 00:59:55.960
+we? All right, let me go upgrade real
+
+00:59:52.960 --> 00:59:55.960
+quick.
+
+01:00:16.079 --> 01:00:21.799
+Oh, we wait 3 hours. That will hurt.
+
+01:01:03.359 --> 01:01:08.960
+So the copy analysis
+
+01:01:06.079 --> 01:01:13.359
+same% off
+
+01:01:08.960 --> 01:01:17.920
+headline large thick dog cushion bed
+
+01:01:13.359 --> 01:01:21.680
+promotes copy a hook. So why was it
+
+01:01:17.920 --> 01:01:25.040
+trying to suggest a CTA get yours today?
+
+01:01:21.680 --> 01:01:27.760
+Suggestion headline. No. So
+
+01:01:25.040 --> 01:01:32.200
+we want to remove these fields. We want
+
+01:01:27.760 --> 01:01:32.200
+the exact copy, right? So
+
+01:01:32.880 --> 01:01:37.480
+these in the replication
+
+01:01:41.440 --> 01:01:47.240
+or have them as optional act. So
+
+01:01:50.640 --> 01:01:55.640
+have the falling optional. So,
+
+01:02:01.599 --> 01:02:06.839
+so if the fields are blank,
+
+01:02:07.760 --> 01:02:15.160
+um do not add them into the replicated
+
+01:02:12.160 --> 01:02:15.160
+image.
+
+01:02:15.599 --> 01:02:19.960
+Another thing um
+
+01:02:22.240 --> 01:02:27.920
+the three variations should be of the
+
+01:02:25.440 --> 01:02:31.839
+image
+
+01:02:27.920 --> 01:02:35.760
+but have the first two
+
+01:02:31.839 --> 01:02:40.720
+be exact replicas
+
+01:02:35.760 --> 01:02:43.760
+but with any branding of
+
+01:02:40.720 --> 01:02:48.079
+the competitor removed
+
+01:02:43.760 --> 01:02:52.280
+with with the branding of the
+
+01:02:48.079 --> 01:02:52.280
+users business
+
+01:02:52.559 --> 01:02:56.040
+name, branding,
+
+01:02:56.480 --> 01:03:03.839
+and maybe color too.
+
+01:03:00.400 --> 01:03:06.640
+The other variations can have different
+
+01:03:03.839 --> 01:03:10.319
+colors
+
+01:03:06.640 --> 01:03:15.119
+um but still look
+
+01:03:10.319 --> 01:03:18.880
+pretty similar. uh different colors, um
+
+01:03:15.119 --> 01:03:21.119
+sizes of objects,
+
+01:03:18.880 --> 01:03:24.559
+layouts, I don't know, but still look
+
+01:03:21.119 --> 01:03:26.960
+pretty similar. Um
+
+01:03:24.559 --> 01:03:28.480
+what else do we want? Like cuz the
+
+01:03:26.960 --> 01:03:32.160
+copying was okay if you really think
+
+01:03:28.480 --> 01:03:35.039
+about it cuz I mean
+
+01:03:32.160 --> 01:03:36.960
+if you look at this
+
+01:03:35.039 --> 01:03:39.599
+it's pretty similar. I mean it is pretty
+
+01:03:36.960 --> 01:03:41.440
+similar to this one but it's not the
+
+01:03:39.599 --> 01:03:43.760
+exact one we're looking for. We want the
+
+01:03:41.440 --> 01:03:46.880
+exact ones, the branding different.
+
+01:03:43.760 --> 01:03:48.480
+That's it.
+
+01:03:46.880 --> 01:03:52.920
+So,
+
+01:03:48.480 --> 01:03:52.920
+these are pretty good ads. Nonetheless,
+
+01:03:53.280 --> 01:03:58.440
+can add a different color size object.
+
+01:03:54.880 --> 01:03:58.440
+Most pretty similar.
+
+01:03:58.999 --> 01:04:03.119
+[snorts]
+
+01:03:59.599 --> 01:04:05.920
+If the user
+
+01:04:03.119 --> 01:04:08.079
+selects less than three ads, three
+
+01:04:05.920 --> 01:04:11.280
+variations,
+
+01:04:08.079 --> 01:04:16.480
+just have the variations
+
+01:04:11.280 --> 01:04:19.480
+be exact replicas with naming
+
+01:04:16.480 --> 01:04:19.480
+switched.
+
+01:04:20.079 --> 01:04:25.119
+If more than three, follow what I said
+
+01:04:22.640 --> 01:04:28.240
+earlier. So the more variations, the
+
+01:04:25.119 --> 01:04:31.039
+more Yeah. variations, the more
+
+01:04:28.240 --> 01:04:33.359
+variations. what the more variation the
+
+01:04:31.039 --> 01:04:34.640
+user wants, the more experimental we're
+
+01:04:33.359 --> 01:04:36.640
+going to get. Like we're switching with
+
+01:04:34.640 --> 01:04:39.520
+colors, layouts, but the first couple
+
+01:04:36.640 --> 01:04:42.559
+ads you want to be as
+
+01:04:39.520 --> 01:04:45.559
+looking almost exact like the the target
+
+01:04:42.559 --> 01:04:45.559
+ad.
+
+01:04:46.000 --> 01:04:55.280
+So just a nano banana API call prompt as
+
+01:04:51.200 --> 01:04:57.520
+such as well as a UI. I think this will
+
+01:04:55.280 --> 01:05:00.000
+make this will finalize everything. Uh
+
+01:04:57.520 --> 01:05:04.960
+oh yeah the naming
+
+01:05:00.000 --> 01:05:09.680
+the name of the tool should be ecom OS.
+
+01:05:04.960 --> 01:05:14.559
+No let's do what should we call it?
+
+01:05:09.680 --> 01:05:17.559
+Genie OS. All right the genie. Um
+
+01:05:14.559 --> 01:05:17.559
+generate
+
+01:05:20.880 --> 01:05:29.760
+generate tab should have a lightning
+
+01:05:24.160 --> 01:05:32.799
+bolt icon. What else? Um,
+
+01:05:29.760 --> 01:05:34.960
+a analytics
+
+01:05:32.799 --> 01:05:38.359
+generate
+
+01:05:34.960 --> 01:05:38.359
+knowledge base.
+
+01:05:40.079 --> 01:05:44.480
+So, real quick, which Marlo are we
+
+01:05:41.839 --> 01:05:46.640
+using?
+
+01:05:44.480 --> 01:05:48.880
+So, we're currently using Opus 4.6.
+
+01:05:46.640 --> 01:05:51.039
+Okay. Just making sure. Just making
+
+01:05:48.880 --> 01:05:52.799
+sure. I don't know. I thought for some
+
+01:05:51.039 --> 01:05:55.799
+reason I thought you're using older
+
+01:05:52.799 --> 01:05:55.799
+model.
+
+01:05:57.039 --> 01:06:01.520
+Yeah. And then the errors just clear
+
+01:06:00.000 --> 01:06:03.680
+off.
+
+01:06:01.520 --> 01:06:07.480
+We keep the air logs for now, but then
+
+01:06:03.680 --> 01:06:07.480
+we can move it soon.
+
+01:06:30.880 --> 01:06:35.480
+personalization
+
+01:06:32.480 --> 01:06:35.480
+field.
+
+01:06:35.760 --> 01:06:44.079
+Make the background pitch black of
+
+01:06:39.839 --> 01:06:45.599
+navbar and the
+
+01:06:44.079 --> 01:06:47.280
+middle
+
+01:06:45.599 --> 01:06:50.400
+UI
+
+01:06:47.280 --> 01:06:53.520
+navbar. Yeah.
+
+01:06:50.400 --> 01:06:55.280
+And the center
+
+01:06:53.520 --> 01:06:59.079
+component. So, we want this be all black
+
+01:06:55.280 --> 01:06:59.079
+and this be all black.
+
+01:06:59.280 --> 01:07:06.480
+That looks fine. The 100 base. Yeah. All
+
+01:07:03.760 --> 01:07:10.640
+right. So, this is the prompt we're
+
+01:07:06.480 --> 01:07:13.200
+going to pass in for Claude once we have
+
+01:07:10.640 --> 01:07:15.359
+our thing reset. All right. So, now that
+
+01:07:13.200 --> 01:07:18.640
+we have our
+
+01:07:15.359 --> 01:07:21.039
+updated prompt, and I did end up getting
+
+01:07:18.640 --> 01:07:23.359
+the max way till 8:00 p.m. So, here we
+
+01:07:21.039 --> 01:07:25.359
+are. [music] Cool. And I do live in New
+
+01:07:23.359 --> 01:07:27.119
+York City, so it's perfectly synced.
+
+01:07:25.359 --> 01:07:28.799
+What we're going to do now is we have
+
+01:07:27.119 --> 01:07:31.280
+our updated prompt where we have suggest
+
+01:07:28.799 --> 01:07:33.520
+the headline, suggest the CTA, we gave
+
+01:07:31.280 --> 01:07:35.440
+us a new direction, changed the name,
+
+01:07:33.520 --> 01:07:36.640
+uh, as well as added some
+
+01:07:35.440 --> 01:07:38.880
+personalization. Going to add like a
+
+01:07:36.640 --> 01:07:41.880
+profile card right here. So if we run
+
+01:07:38.880 --> 01:07:41.880
+it,
+
+01:07:42.160 --> 01:07:46.520
+it's clotting as it says.
+
+01:07:48.240 --> 01:07:51.839
+It's doing it up. All right, here we go.
+
+01:07:50.160 --> 01:07:54.000
+It has a to-do says update generation
+
+01:07:51.839 --> 01:07:55.680
+prompt logic which is good. Exact
+
+01:07:54.000 --> 01:07:57.520
+replicas for under less than equal to
+
+01:07:55.680 --> 01:08:00.240
+create creative variations for 3 plus
+
+01:07:57.520 --> 01:08:02.319
+update generate page UI rebrand to GOS.
+
+01:08:00.240 --> 01:08:03.920
+Add brand profile card side bar bottom
+
+01:08:02.319 --> 01:08:05.920
+left update color scheme pitch black
+
+01:08:03.920 --> 01:08:07.839
+background. Cool. It has absolutely
+
+01:08:05.920 --> 01:08:11.640
+everything that we are looking for. Go
+
+01:08:07.839 --> 01:08:11.640
+ahead and take that out.
+
+01:08:14.559 --> 01:08:18.960
+This is what we're working with right
+
+01:08:15.760 --> 01:08:21.359
+here. So I mean we are 80% done. I'd say
+
+01:08:18.960 --> 01:08:25.799
+if you just get the replicas to be more
+
+01:08:21.359 --> 01:08:25.799
+exact replicas, it would be great.
+
+01:08:28.560 --> 01:08:34.640
+And the competitors, nothing really
+
+01:08:30.560 --> 01:08:37.040
+needed to change here, I'd say.
+
+01:08:34.640 --> 01:08:39.759
+Brand profile.
+
+01:08:37.040 --> 01:08:42.239
+Again, it allows add logos [music] and
+
+01:08:39.759 --> 01:08:44.400
+example ads and whatnot, but we just
+
+01:08:42.239 --> 01:08:46.239
+aren't.
+
+01:08:44.400 --> 01:08:47.600
+Although for the client, I think he
+
+01:08:46.239 --> 01:08:49.040
+would love to see that, right? Hey, you
+
+01:08:47.600 --> 01:08:54.480
+love to see his logo just displayed
+
+01:08:49.040 --> 01:08:56.719
+here. Here, maybe for a logo I can put.
+
+01:08:54.480 --> 01:08:58.880
+So, I run a mentorship program where I
+
+01:08:56.719 --> 01:09:00.159
+help business owners scale their AI
+
+01:08:58.880 --> 01:09:02.159
+businesses, whether it be product or
+
+01:09:00.159 --> 01:09:04.239
+service based called Asian Rise. So, I'm
+
+01:09:02.159 --> 01:09:06.719
+going just upload a logo of that just
+
+01:09:04.239 --> 01:09:11.719
+for
+
+01:09:06.719 --> 01:09:11.719
+this video. Go to media.
+
+01:09:11.759 --> 01:09:18.880
+There you go. Upload that for now.
+
+01:09:16.560 --> 01:09:22.279
+Um,
+
+01:09:18.880 --> 01:09:22.279
+product images
+
+01:09:22.560 --> 01:09:27.199
+could probably ask him for that. Oh, I
+
+01:09:24.560 --> 01:09:29.120
+know what to do on the live demo. I will
+
+01:09:27.199 --> 01:09:32.000
+have I'll do these examp product product
+
+01:09:29.120 --> 01:09:33.120
+images or maybe example ads and wow him.
+
+01:09:32.000 --> 01:09:35.199
+Although the example ad is kind of
+
+01:09:33.120 --> 01:09:36.640
+useless. We're duplicating ads anyways.
+
+01:09:35.199 --> 01:09:38.880
+So maybe this is good for another
+
+01:09:36.640 --> 01:09:41.199
+feature where we can make new ads ads
+
+01:09:38.880 --> 01:09:42.400
+from scratch using just prompting which
+
+01:09:41.199 --> 01:09:43.759
+can be just an additional feature. So
+
+01:09:42.400 --> 01:09:46.000
+instead of just duplicating ads, we can
+
+01:09:43.759 --> 01:09:50.159
+make our own ads. But cool. Here's our
+
+01:09:46.000 --> 01:09:52.640
+logos. Um, dog owners. Nice.
+
+01:09:50.159 --> 01:09:55.199
+Ad feed discover still working. Still
+
+01:09:52.640 --> 01:09:56.480
+clotting. Still clotting.
+
+01:09:55.199 --> 01:09:59.199
+Let's go ahead and just wait for it to
+
+01:09:56.480 --> 01:10:01.440
+finish clotting and then we can see
+
+01:09:59.199 --> 01:10:02.960
+what's up.
+
+01:10:01.440 --> 01:10:07.199
+I don't think we ever load the rest of
+
+01:10:02.960 --> 01:10:10.199
+the Oh, that's it. Okay. Well, there we
+
+01:10:07.199 --> 01:10:10.199
+go.
+
+01:10:11.600 --> 01:10:17.120
+All right, let's let's wait.
+
+01:10:15.679 --> 01:10:18.640
+So all chains are implemented. Let
+
+01:10:17.120 --> 01:10:20.960
+verify the build works. So it looks like
+
+01:10:18.640 --> 01:10:23.360
+just testing. All right, go ahead and
+
+01:10:20.960 --> 01:10:25.920
+run it. You see get requests are coming
+
+01:10:23.360 --> 01:10:28.560
+in. Everything is we're getting 200s
+
+01:10:25.920 --> 01:10:30.320
+which mean successful.
+
+01:10:28.560 --> 01:10:32.560
+Um
+
+01:10:30.320 --> 01:10:38.120
+compile successfully. All right, looks
+
+01:10:32.560 --> 01:10:38.120
+like it's working. Build passes cleanly.
+
+01:10:40.880 --> 01:10:45.840
+The main test that we're going to really
+
+01:10:42.800 --> 01:10:49.440
+see here is how successful is it in uh
+
+01:10:45.840 --> 01:10:51.600
+actually making a duplicate. But one
+
+01:10:49.440 --> 01:10:55.400
+other thing I do want to check is are we
+
+01:10:51.600 --> 01:10:55.400
+using the updated model
+
+01:10:55.840 --> 01:11:05.440
+Gemini 3 Pro image preview. Yeah, that
+
+01:10:59.360 --> 01:11:09.159
+is is it did I copy the wrong one?
+
+01:11:05.440 --> 01:11:09.159
+Google APIs
+
+01:11:11.760 --> 01:11:17.080
+no to model name.
+
+01:11:18.080 --> 01:11:22.600
+Oh no, I'm definitely using the wrong
+
+01:11:19.600 --> 01:11:22.600
+one.
+
+01:11:22.640 --> 01:11:31.640
+Yeah. So, let's uh Okay, it looks like
+
+01:11:25.920 --> 01:11:31.640
+that's changed. So, let me go ahead and
+
+01:11:32.239 --> 01:11:38.199
+All right.
+
+01:11:34.880 --> 01:11:38.199
+Change that.
+
+01:11:39.199 --> 01:11:46.000
+Here we are. Generate,
+
+01:11:42.719 --> 01:11:49.480
+discover, add feed.
+
+01:11:46.000 --> 01:11:49.480
+Let's go to duplicate
+
+01:11:50.239 --> 01:11:56.800
+two exact
+
+01:11:53.360 --> 01:11:59.040
+plus three creatives. Uh so two exact
+
+01:11:56.800 --> 01:12:03.440
+two creative
+
+01:11:59.040 --> 01:12:04.719
+and then generate four variations.
+
+01:12:03.440 --> 01:12:08.080
+Wow.
+
+01:12:04.719 --> 01:12:09.840
+is not found. Okay, maybe I put the
+
+01:12:08.080 --> 01:12:13.239
+wrong name. So, let's check again.
+
+01:12:09.840 --> 01:12:13.239
+Google APIs.
+
+01:12:13.840 --> 01:12:16.840
+Um,
+
+01:12:26.400 --> 01:12:32.000
+Banana 2.
+
+01:12:29.600 --> 01:12:35.760
+All right. Now, I'm not Oh, it's a
+
+01:12:32.000 --> 01:12:38.560
+preview. Oh, was a pro image.
+
+01:12:35.760 --> 01:12:42.000
+Oh, you see these models names are just
+
+01:12:38.560 --> 01:12:46.560
+confusing me. All right, here we are.
+
+01:12:42.000 --> 01:12:52.040
+So, that should be good.
+
+01:12:46.560 --> 01:12:52.040
+So, fail before. Now, let's try again.
+
+01:12:53.600 --> 01:12:58.239
+Yeah. So, it's not found. All right.
+
+01:12:55.040 --> 01:13:00.320
+Fine. Let's do it again.
+
+01:12:58.239 --> 01:13:01.600
+A long time means that's a good reason.
+
+01:13:00.320 --> 01:13:04.320
+All right. It's probably going to work
+
+01:13:01.600 --> 01:13:05.840
+because it's not failing right away. So,
+
+01:13:04.320 --> 01:13:09.560
+here we go. These are the exact replica.
+
+01:13:05.840 --> 01:13:09.560
+These are creative variations.
+
+01:13:09.600 --> 01:13:15.480
+How
+
+01:13:11.760 --> 01:13:15.480
+close can it get?
+
+01:13:15.920 --> 01:13:21.880
+Sunny's dog mats. So, it did add the
+
+01:13:21.920 --> 01:13:26.400
+exceeded the quota. No, we got another
+
+01:13:24.159 --> 01:13:28.640
+quota issue.
+
+01:13:26.400 --> 01:13:30.239
+I think it's because the newer models
+
+01:13:28.640 --> 01:13:32.880
+now I'm going to add two just taking up
+
+01:13:30.239 --> 01:13:34.159
+more I don't know API credits or
+
+01:13:32.880 --> 01:13:35.600
+whatever the case may be. Yeah. So it
+
+01:13:34.159 --> 01:13:38.239
+looks like they're all going to fail.
+
+01:13:35.600 --> 01:13:41.120
+Let's just change it back then to
+
+01:13:38.239 --> 01:13:44.239
+instead of flash image preview change it
+
+01:13:41.120 --> 01:13:46.080
+back to pro image preview. Let's save
+
+01:13:44.239 --> 01:13:50.239
+that.
+
+01:13:46.080 --> 01:13:54.520
+That failed. Nice.
+
+01:13:50.239 --> 01:13:54.520
+So add fee duplicate
+
+01:13:55.600 --> 01:14:02.520
+again. We'll do four
+
+01:13:58.640 --> 01:14:02.520
+and generate four variations.
+
+01:14:03.920 --> 01:14:08.320
+This is a live build. This is you can't
+
+01:14:05.920 --> 01:14:10.640
+fake this. Too many create YouTube
+
+01:14:08.320 --> 01:14:12.320
+creators fake this. No, this is these
+
+01:14:10.640 --> 01:14:13.760
+are bugs you're going to experience.
+
+01:14:12.320 --> 01:14:15.520
+Nothing is perfect. You're going to have
+
+01:14:13.760 --> 01:14:16.880
+to walk through it. And if you want to
+
+01:14:15.520 --> 01:14:19.440
+be a successful AI business owner and
+
+01:14:16.880 --> 01:14:21.520
+build apps and work on $25,000 projects
+
+01:14:19.440 --> 01:14:25.040
+like this, you got to be someone who's
+
+01:14:21.520 --> 01:14:27.120
+willing to um change and adapt to all
+
+01:14:25.040 --> 01:14:32.120
+these different bugs like this that kind
+
+01:14:27.120 --> 01:14:32.120
+of make you a bit angry.
+
+01:14:34.356 --> 01:14:36.880
+[snorts]
+
+01:14:35.040 --> 01:14:39.920
+I think we got we just got to make a new
+
+01:14:36.880 --> 01:14:42.400
+API key at this point. Setting the value
+
+01:14:39.920 --> 01:14:45.400
+of exceed the code. Oh my goodness. All
+
+01:14:42.400 --> 01:14:45.400
+right.
+
+01:15:08.417 --> 01:15:10.437
+>> [snorts]
+
+01:15:38.159 --> 01:15:44.080
+>> But the thing is we're so far behind
+
+01:15:40.320 --> 01:15:45.199
+when it comes to natural quotas. So I
+
+01:15:44.080 --> 01:15:46.960
+don't understand why we keep getting
+
+01:15:45.199 --> 01:15:49.120
+rate limited when I mean look how far
+
+01:15:46.960 --> 01:15:51.280
+behind we are.
+
+01:15:49.120 --> 01:15:53.520
+We should be able to use this. All
+
+01:15:51.280 --> 01:15:57.719
+right. I think something else is going
+
+01:15:53.520 --> 01:15:57.719
+wrong that I I'm not
+
+01:15:57.760 --> 01:16:05.520
+aware of. Which requests fail post API
+
+01:16:00.800 --> 01:16:08.480
+generate. Let me say something. API
+
+01:16:05.520 --> 01:16:11.480
+slash
+
+01:16:08.480 --> 01:16:11.480
+generate.
+
+01:16:31.600 --> 01:16:36.719
+Just trying to find which service is has
+
+01:16:34.960 --> 01:16:41.159
+this
+
+01:16:36.719 --> 01:16:41.159
+request API generate request.
+
+01:16:43.760 --> 01:16:48.440
+I'm getting this error.
+
+01:17:18.719 --> 01:17:22.560
+All right. Um, another thing we can
+
+01:17:20.480 --> 01:17:24.320
+check out is the API. Are we here at
+
+01:17:22.560 --> 01:17:26.080
+credits? No. We're so far ahead in
+
+01:17:24.320 --> 01:17:29.080
+credits, too. We get 10,000 free
+
+01:17:26.080 --> 01:17:29.080
+credits.
+
+01:17:29.280 --> 01:17:36.400
+So, still, you know, nothing should be
+
+01:17:31.360 --> 01:17:36.400
+breaking is the main point of all this.
+
+01:17:51.360 --> 01:17:55.600
+So, I did make the second API key right
+
+01:17:53.520 --> 01:17:58.560
+here. Uh, I mean, it shouldn't change
+
+01:17:55.600 --> 01:18:01.040
+anything.
+
+01:17:58.560 --> 01:18:04.040
+Uh it should be
+
+01:18:01.040 --> 01:18:04.040
+what?
+
+01:18:04.640 --> 01:18:09.280
+Wait, what's happening? The store is
+
+01:18:06.719 --> 01:18:11.874
+saying full basics for images look five.
+
+01:18:09.280 --> 01:18:11.874
+I mean that's a [clears throat]
+
+01:18:13.199 --> 01:18:19.199
+Oh, okay.
+
+01:18:15.679 --> 01:18:23.239
+So it's a storage issue. What? So it's
+
+01:18:19.199 --> 01:18:23.239
+not API issue at all.
+
+01:18:34.880 --> 01:18:40.280
+cuz making changes. So, all right.
+
+01:18:48.000 --> 01:18:51.640
+Let's try again.
+
+01:18:52.000 --> 01:18:55.840
+Okay. So cloud was very smart about
+
+01:18:53.760 --> 01:18:57.760
+this. They would find out that the issue
+
+01:18:55.840 --> 01:19:00.560
+was just a storage issue all along. It
+
+01:18:57.760 --> 01:19:02.719
+was I think because we were saving we're
+
+01:19:00.560 --> 01:19:04.640
+generating images and the images we have
+
+01:19:02.719 --> 01:19:06.239
+generated successfully. We were saving
+
+01:19:04.640 --> 01:19:10.600
+to our local system and there's there's
+
+01:19:06.239 --> 01:19:10.600
+a limit to it and we hit the limit
+
+01:19:11.280 --> 01:19:18.239
+Gemini API only. So not foreplay. So we
+
+01:19:13.600 --> 01:19:20.080
+isolated that to our baff
+
+01:19:18.239 --> 01:19:21.280
+to the config. Gemini AP key invalid
+
+01:19:20.080 --> 01:19:23.760
+building issue. Gemini return error
+
+01:19:21.280 --> 01:19:26.320
+quickly. Gemini model availability. No,
+
+01:19:23.760 --> 01:19:29.040
+the the model is definitely there.
+
+01:19:26.320 --> 01:19:32.320
+That's not an issue.
+
+01:19:29.040 --> 01:19:35.920
+Gemini API key issue.
+
+01:19:32.320 --> 01:19:38.320
+Body size limit.
+
+01:19:35.920 --> 01:19:40.080
+All right. So, it reran it. Um, so if
+
+01:19:38.320 --> 01:19:41.679
+you refresh,
+
+01:19:40.080 --> 01:19:43.120
+I wonder if our base still be there.
+
+01:19:41.679 --> 01:19:45.679
+Okay, it is. I'm actually surprised. I
+
+01:19:43.120 --> 01:19:47.920
+was not expecting still be there. Okay,
+
+01:19:45.679 --> 01:19:50.640
+so let's duplicate.
+
+01:19:47.920 --> 01:19:53.640
+Let's do one exact replica. Keep it very
+
+01:19:50.640 --> 01:19:53.640
+simple.
+
+01:19:58.719 --> 01:20:06.199
+Was this earlier? No, this is 8:36.
+
+01:20:02.320 --> 01:20:06.199
+Let's clear this real quick.
+
+01:20:06.320 --> 01:20:10.640
+Oh, it doesn't persist. Dang it. Okay,
+
+01:20:08.400 --> 01:20:13.280
+so I have to stay on the screen. Do it
+
+01:20:10.640 --> 01:20:17.159
+again. Oops.
+
+01:20:13.280 --> 01:20:17.159
+That's a two cuz
+
+01:20:37.440 --> 01:20:42.640
+It worked. It worked. Pamper your pup
+
+01:20:40.800 --> 01:20:44.400
+without a cozy bed. Perfect for every
+
+01:20:42.640 --> 01:20:47.520
+season. 70% off. Get yours today.
+
+01:20:44.400 --> 01:20:50.239
+Sunny's dog mats.
+
+01:20:47.520 --> 01:20:51.600
+It literally worked. Exact replica. And
+
+01:20:50.239 --> 01:20:54.400
+do we have our logos? Okay, let me check
+
+01:20:51.600 --> 01:20:55.920
+if we still have our logo uploaded.
+
+01:20:54.400 --> 01:20:58.239
+We did, but I don't think we all
+
+01:20:55.920 --> 01:21:00.480
+specified to add logos. Nice. And this
+
+01:20:58.239 --> 01:21:03.520
+is like a different color scheme.
+
+01:21:00.480 --> 01:21:05.520
+Amazing. Amazing. This is great. This is
+
+01:21:03.520 --> 01:21:08.320
+exactly what we wanted. Perfect. All
+
+01:21:05.520 --> 01:21:14.120
+right, so it worked. Good job. Good job.
+
+01:21:08.320 --> 01:21:14.120
+Um, Claude, you did your thing.
+
+01:21:14.239 --> 01:21:19.120
+Can does that one work? Nice. Download
+
+01:21:16.080 --> 01:21:22.679
+works to
+
+01:21:19.120 --> 01:21:22.679
+only download one.
+
+01:21:23.520 --> 01:21:27.760
+Oh. Oh, okay. Now I should download. All
+
+01:21:26.000 --> 01:21:31.239
+right. Perfect. Both are downloaded. Let
+
+01:21:27.760 --> 01:21:31.239
+me double check.
+
+01:21:32.480 --> 01:21:37.760
+There you go. And there's the other one
+
+01:21:34.080 --> 01:21:41.600
+right here. Beautiful.
+
+01:21:37.760 --> 01:21:44.000
+Beautiful. Beautiful. Beautiful.
+
+01:21:41.600 --> 01:21:45.840
+I mean, yeah, we got the core of our
+
+01:21:44.000 --> 01:21:47.199
+product is working. This is this is a
+
+01:21:45.840 --> 01:21:48.960
+part that you want you want working no
+
+01:21:47.199 --> 01:21:51.280
+matter what is the core of it. So now we
+
+01:21:48.960 --> 01:21:55.120
+can beautify, make it prettier, change
+
+01:21:51.280 --> 01:21:57.440
+some things up. Um I know one thing I
+
+01:21:55.120 --> 01:22:00.840
+noticed if you go to add feed and we do
+
+01:21:57.440 --> 01:22:00.840
+uh duplicate.
+
+01:22:02.159 --> 01:22:08.239
+We didn't it it did have like the the
+
+01:22:05.120 --> 01:22:14.120
+same it changed the text which I think
+
+01:22:08.239 --> 01:22:14.120
+it's honestly fine right now. um
+
+01:22:15.440 --> 01:22:19.320
+text on the ad.
+
+01:22:21.377 --> 01:22:30.560
+[snorts] Let's see if you if you say
+
+01:22:24.719 --> 01:22:34.080
+copy the text on the original ad.
+
+01:22:30.560 --> 01:22:38.040
+Large thick
+
+01:22:34.080 --> 01:22:38.040
+dog cushion bed.
+
+01:22:41.520 --> 01:22:46.480
+So let's just specify that. I want to
+
+01:22:43.679 --> 01:22:49.719
+see maybe if it changes anything gen
+
+01:22:46.480 --> 01:22:49.719
+three variations.
+
+01:22:50.880 --> 01:22:54.880
+Now because right now we're saving the
+
+01:22:52.880 --> 01:22:58.480
+images to a local like our local
+
+01:22:54.880 --> 01:22:59.440
+computer. So to do it in a way where we
+
+01:22:58.480 --> 01:23:01.920
+don't have to worry about our local
+
+01:22:59.440 --> 01:23:04.480
+storage, we would hook up Superbase and
+
+01:23:01.920 --> 01:23:07.920
+we can save all the images to Superbase
+
+01:23:04.480 --> 01:23:09.760
+maybe for like three like 3 days to 48
+
+01:23:07.920 --> 01:23:11.840
+hours. We don't want to like save the
+
+01:23:09.760 --> 01:23:13.600
+images too much or too we don't want to
+
+01:23:11.840 --> 01:23:14.960
+save all the images forever because
+
+01:23:13.600 --> 01:23:17.120
+what's going to happen is then the suit
+
+01:23:14.960 --> 01:23:18.639
+base will the the price of suit base
+
+01:23:17.120 --> 01:23:20.239
+would just increase so much because it's
+
+01:23:18.639 --> 01:23:21.760
+holding so much information which is all
+
+01:23:20.239 --> 01:23:27.080
+these images which is there's so much
+
+01:23:21.760 --> 01:23:27.080
+more data than like text. So um
+
+01:23:41.199 --> 01:23:45.040
+pamper your pup with our cozy bed.
+
+01:23:43.360 --> 01:23:47.040
+Perfect for every season. Large thick
+
+01:23:45.040 --> 01:23:48.159
+dog cushion bed. What I'm kind of
+
+01:23:47.040 --> 01:23:50.320
+confused about where is he getting this
+
+01:23:48.159 --> 01:23:52.480
+pamper your pup from our cozy with our
+
+01:23:50.320 --> 01:23:54.800
+cozy bed from. It did add the text
+
+01:23:52.480 --> 01:23:57.040
+though. large thick dog cushion bed that
+
+01:23:54.800 --> 01:23:58.880
+we specified.
+
+01:23:57.040 --> 01:24:01.760
+Oh, this is a creative variation. Pamper
+
+01:23:58.880 --> 01:24:04.400
+your pup with our cozy bed again. Where
+
+01:24:01.760 --> 01:24:07.880
+is this? Where is this pamper my pup
+
+01:24:04.400 --> 01:24:07.880
+thing coming from?
+
+01:24:08.800 --> 01:24:14.480
+Let's go back. Discover add feed.
+
+01:24:11.920 --> 01:24:19.120
+Our oversized padded perfect all season.
+
+01:24:14.480 --> 01:24:22.120
+Make a relaxing gift for your pet. Uh,
+
+01:24:19.120 --> 01:24:22.120
+duplicate.
+
+01:24:27.679 --> 01:24:32.560
+Pamper your pup.
+
+01:24:30.239 --> 01:24:37.880
+Do not include
+
+01:24:32.560 --> 01:24:37.880
+any text on the image
+
+01:24:39.760 --> 01:24:45.199
+beside brand
+
+01:24:42.719 --> 01:24:48.800
+name.
+
+01:24:45.199 --> 01:24:51.760
+Let's do one exact replica generation.
+
+01:24:48.800 --> 01:24:56.560
+Now, one thing I do want to add is
+
+01:24:51.760 --> 01:24:59.679
+when an image is generating or when the
+
+01:24:56.560 --> 01:25:03.320
+generate tab
+
+01:24:59.679 --> 01:25:03.320
+is being put
+
+01:25:03.840 --> 01:25:12.280
+to use.
+
+01:25:06.480 --> 01:25:12.280
+let the user navigate to other tabs
+
+01:25:12.560 --> 01:25:18.320
+without the generate tab
+
+01:25:16.719 --> 01:25:21.040
+resetting
+
+01:25:18.320 --> 01:25:22.800
+because right now if we click generate
+
+01:25:21.040 --> 01:25:26.159
+or generate something then we go to it's
+
+01:25:22.800 --> 01:25:28.000
+like add discover the generate tab is
+
+01:25:26.159 --> 01:25:29.520
+completely gone. We have to redo
+
+01:25:28.000 --> 01:25:32.520
+everything. We don't want that. We want
+
+01:25:29.520 --> 01:25:32.520
+persistence.
+
+01:25:33.520 --> 01:25:38.800
+Yeah. Um, nice.
+
+01:25:37.440 --> 01:25:40.320
+Again, the pamper your pup with dark
+
+01:25:38.800 --> 01:25:45.639
+cozy bed perfect for every season is
+
+01:25:40.320 --> 01:25:45.639
+coming up. Okay. Also, make sure
+
+01:25:46.080 --> 01:25:57.280
+the nano banana prompt does not
+
+01:25:51.840 --> 01:26:00.280
+indicate to add any extra text.
+
+01:25:57.280 --> 01:26:00.280
+the
+
+01:26:00.480 --> 01:26:03.480
+input
+
+01:26:03.600 --> 01:26:08.400
+text boxes in
+
+01:26:06.320 --> 01:26:13.760
+the UI
+
+01:26:08.400 --> 01:26:17.800
+should decide if any extra text is added
+
+01:26:13.760 --> 01:26:17.800
+that's not
+
+01:26:18.320 --> 01:26:25.440
+in the base image. So target ad or
+
+01:26:22.239 --> 01:26:30.159
+example ad.
+
+01:26:25.440 --> 01:26:35.440
+Then we also should do do this also
+
+01:26:30.159 --> 01:26:39.280
+have a um view full prompt button that
+
+01:26:35.440 --> 01:26:44.080
+gives the entire prompt
+
+01:26:39.280 --> 01:26:47.199
+that's being sent to Gemini API.
+
+01:26:44.080 --> 01:26:48.880
+So user can edit it if needed. It's
+
+01:26:47.199 --> 01:26:50.400
+going to be good because now instead of
+
+01:26:48.880 --> 01:26:53.040
+relying on what'sever happening in the
+
+01:26:50.400 --> 01:26:55.040
+back end, however the prompt cloud set,
+
+01:26:53.040 --> 01:26:58.920
+we can change the entire prompt if need
+
+01:26:55.040 --> 01:26:58.920
+be, which is perfect.
+
+01:26:59.840 --> 01:27:04.560
+And dash, this should be one of the last
+
+01:27:01.840 --> 01:27:07.360
+changes we have to do.
+
+01:27:04.560 --> 01:27:10.560
+So, um, cloud code makes some changes
+
+01:27:07.360 --> 01:27:12.719
+that I am not, uh, thinking that are
+
+01:27:10.560 --> 01:27:15.120
+needed.
+
+01:27:12.719 --> 01:27:19.080
+I need to widen the array. Is that
+
+01:27:15.120 --> 01:27:19.080
+really need a claw code?
+
+01:27:22.719 --> 01:27:25.920
+When is making architectural change? I
+
+01:27:24.719 --> 01:27:27.679
+get kind of scared. I'm not going to
+
+01:27:25.920 --> 01:27:30.639
+lie. I feel like it's going to break
+
+01:27:27.679 --> 01:27:33.280
+everything.
+
+01:27:30.639 --> 01:27:36.080
+Ah, okay. This is all done. Here's this
+
+01:27:33.280 --> 01:27:37.440
+change. A separate substand memory not
+
+01:27:36.080 --> 01:27:39.920
+local storage that holds all generate
+
+01:27:37.440 --> 01:27:41.120
+page step. The state survives when you
+
+01:27:39.920 --> 01:27:42.639
+navigate to other tasks comes back.
+
+01:27:41.120 --> 01:27:44.239
+Nothing resets. No extra text generate
+
+01:27:42.639 --> 01:27:45.520
+images updated when the user leaves
+
+01:27:44.239 --> 01:27:47.120
+headline table blank. The problem now
+
+01:27:45.520 --> 01:27:49.280
+explicitly tells Gemini do not add
+
+01:27:47.120 --> 01:27:50.800
+invent or generate any text headline
+
+01:27:49.280 --> 01:27:53.280
+copy as not already visible in the
+
+01:27:50.800 --> 01:27:54.960
+reference image. Nice view full promp
+
+01:27:53.280 --> 01:27:58.000
+button configur opens the editable pan
+
+01:27:54.960 --> 01:28:01.679
+from the exact promp to Gemini.
+
+01:27:58.000 --> 01:28:06.560
+Uh changing okay
+
+01:28:01.679 --> 01:28:08.880
+let's see GOS. Here we go.
+
+01:28:06.560 --> 01:28:11.440
+Duplicate our ad.
+
+01:28:08.880 --> 01:28:12.960
+We're going to do we're going to we're
+
+01:28:11.440 --> 01:28:15.679
+going to full send it. We got We're
+
+01:28:12.960 --> 01:28:19.360
+going to do a final test.
+
+01:28:15.679 --> 01:28:21.840
+View full prompt. All right. Wow. Nice.
+
+01:28:19.360 --> 01:28:26.679
+Jerry pixel perfect replicates
+
+01:28:21.840 --> 01:28:26.679
+on these dog mats. Exact same lifestyle.
+
+01:28:29.120 --> 01:28:34.760
+do not. Okay, so this is a rule that we
+
+01:28:31.440 --> 01:28:34.760
+basically added.
+
+01:28:40.960 --> 01:28:48.080
+Okay, I mean this this looks pretty
+
+01:28:43.840 --> 01:28:53.719
+good, right? So beautiful pumped again.
+
+01:28:48.080 --> 01:28:53.719
+So we get if you Okay, so we can
+
+01:28:54.639 --> 01:28:59.440
+uh How do you save it though? Wait, it
+
+01:28:57.280 --> 01:29:02.080
+says save, right?
+
+01:28:59.440 --> 01:29:03.920
+regenerates pro current
+
+01:29:02.080 --> 01:29:09.320
+reverse to autogenerate problem. So if
+
+01:29:03.920 --> 01:29:09.320
+we change it and do reset
+
+01:29:16.159 --> 01:29:20.120
+have a save button
+
+01:29:20.159 --> 01:29:25.760
+to close the prompt editor but save the
+
+01:29:23.120 --> 01:29:29.080
+prompt. I totally forgot a save button.
+
+01:29:25.760 --> 01:29:29.080
+What the hell?
+
+01:29:37.612 --> 01:29:39.632
+>> [music]
+
+01:29:41.520 --> 01:29:44.520
+>> Um,
+
+01:29:44.560 --> 01:29:48.840
+add feet duplicate.
+
+01:29:51.440 --> 01:29:57.440
+So, let's just X that out. Click save.
+
+01:29:55.600 --> 01:29:59.760
+Edit prompt.
+
+01:29:57.440 --> 01:30:01.760
+Yep. There you go.
+
+01:29:59.760 --> 01:30:03.760
+Save.
+
+01:30:01.760 --> 01:30:05.679
+Make sure again. All right. Everything
+
+01:30:03.760 --> 01:30:08.719
+is
+
+01:30:05.679 --> 01:30:10.800
+changed as we needed.
+
+01:30:08.719 --> 01:30:13.120
+One more.
+
+01:30:10.800 --> 01:30:15.600
+Where is reset? Do Okay, cool. All
+
+01:30:13.120 --> 01:30:17.920
+right. Um,
+
+01:30:15.600 --> 01:30:21.840
+this is a big test right here. Let's do
+
+01:30:17.920 --> 01:30:26.120
+two exact, three creative.
+
+01:30:21.840 --> 01:30:26.120
+Uh, keep discount offered.
+
+01:30:29.520 --> 01:30:36.760
+And the final test starts
+
+01:30:33.760 --> 01:30:36.760
+now.
+
+01:30:41.920 --> 01:30:49.080
+This is intense.
+
+01:30:45.199 --> 01:30:49.080
+Please wear it. Please.
+
+01:30:49.120 --> 01:30:55.760
+Sometimes I just think my client's very
+
+01:30:51.760 --> 01:30:57.040
+old and I just sometimes think like what
+
+01:30:55.760 --> 01:30:58.239
+if he's watching my video right now and
+
+01:30:57.040 --> 01:31:02.360
+he's like, "Wow, this is what the guy
+
+01:30:58.239 --> 01:31:02.360
+was going through building this."
+
+01:31:03.280 --> 01:31:08.080
+We did it. We got the exact replica. We
+
+01:31:06.560 --> 01:31:11.520
+got the We did it. We got the exact
+
+01:31:08.080 --> 01:31:12.960
+replica. Okay, we That's That's good.
+
+01:31:11.520 --> 01:31:16.239
+Now, let's see who the second replica
+
+01:31:12.960 --> 01:31:19.840
+is. But I'm glad it understood not to
+
+01:31:16.239 --> 01:31:23.440
+add it own text anymore.
+
+01:31:19.840 --> 01:31:25.520
+All right. This is even more um like
+
+01:31:23.440 --> 01:31:29.560
+this one. I mean, I guess a doggy is
+
+01:31:25.520 --> 01:31:29.560
+less smaller, but
+
+01:31:35.440 --> 01:31:40.880
+All right. Look at that. We got two
+
+01:31:38.400 --> 01:31:43.600
+exact replicas.
+
+01:31:40.880 --> 01:31:46.000
+I mean, granted, the bed is a little um
+
+01:31:43.600 --> 01:31:48.080
+it's a little different now
+
+01:31:46.000 --> 01:31:50.800
+in terms of size and this one's a whole
+
+01:31:48.080 --> 01:31:55.040
+different color, but AI isn't perfect.
+
+01:31:50.800 --> 01:31:56.800
+The replicas are pretty close to this
+
+01:31:55.040 --> 01:31:59.600
+one. So, I imagine the conversion rate
+
+01:31:56.800 --> 01:32:01.440
+should be like near the same exact
+
+01:31:59.600 --> 01:32:03.199
+percentage. And we have a creative
+
+01:32:01.440 --> 01:32:04.800
+variation, which is amazing as well. We
+
+01:32:03.199 --> 01:32:07.040
+have orthopedic support, easy to clean
+
+01:32:04.800 --> 01:32:09.760
+on the clouds.
+
+01:32:07.040 --> 01:32:11.120
+And this is in the forest or patio.
+
+01:32:09.760 --> 01:32:12.639
+That's not a forest. That's a That'll be
+
+01:32:11.120 --> 01:32:16.239
+an interesting forest with these wooden
+
+01:32:12.639 --> 01:32:18.480
+patios in them. But nice. I mean, we we
+
+01:32:16.239 --> 01:32:21.840
+have it. We have it all. We have exactly
+
+01:32:18.480 --> 01:32:23.199
+what we want. Um,
+
+01:32:21.840 --> 01:32:25.760
+and let me see. Let's wait for the last
+
+01:32:23.199 --> 01:32:27.679
+one.
+
+01:32:25.760 --> 01:32:29.600
+Nice. And this is a whole different like
+
+01:32:27.679 --> 01:32:32.400
+style.
+
+01:32:29.600 --> 01:32:34.880
+So, if your client sees this, they're
+
+01:32:32.400 --> 01:32:38.960
+going to be like, "Holy
+
+01:32:34.880 --> 01:32:41.360
+insert crazy work. This is amazing."
+
+01:32:38.960 --> 01:32:42.719
+Yes, we did it. All right, so we can
+
+01:32:41.360 --> 01:32:45.280
+download all of them. It should allow us
+
+01:32:42.719 --> 01:32:51.040
+to download all the files. Bang. Look at
+
+01:32:45.280 --> 01:32:55.880
+that. Let's open them real quick. Um,
+
+01:32:51.040 --> 01:32:55.880
+let's open them. Show the folder.
+
+01:33:01.760 --> 01:33:08.760
+It's on the other screen. There you go.
+
+01:33:04.560 --> 01:33:08.760
+We got Sunny's dog mats.
+
+01:33:09.440 --> 01:33:15.840
+We got some more Sunny's dog masks right
+
+01:33:11.440 --> 01:33:18.159
+here. We set out what we wanted to do on
+
+01:33:15.840 --> 01:33:22.239
+this side. So, the last question ends up
+
+01:33:18.159 --> 01:33:24.159
+becoming what's next? Well, I wish I
+
+01:33:22.239 --> 01:33:25.840
+could say building is the final step of
+
+01:33:24.159 --> 01:33:28.159
+all this, but it's not. There is one
+
+01:33:25.840 --> 01:33:30.400
+last thing we have to do that is going
+
+01:33:28.159 --> 01:33:32.480
+to be crucial if you want to scale this
+
+01:33:30.400 --> 01:33:34.960
+product to other clients in the future
+
+01:33:32.480 --> 01:33:36.400
+as well as have a great presentation to
+
+01:33:34.960 --> 01:33:38.960
+show the you know the client that I have
+
+01:33:36.400 --> 01:33:41.040
+to show this to
+
+01:33:38.960 --> 01:33:42.880
+uh go generate okay and generate tab
+
+01:33:41.040 --> 01:33:44.320
+persist see how he switched it's not
+
+01:33:42.880 --> 01:33:45.679
+wiped out like it used to be it's not
+
+01:33:44.320 --> 01:33:48.639
+blank it's everything is still there
+
+01:33:45.679 --> 01:33:52.600
+which is great analytics
+
+01:33:48.639 --> 01:33:52.600
+recently generated ads
+
+01:33:53.600 --> 01:33:56.394
+Um, [music]
+
+01:33:57.280 --> 01:34:04.760
+I noticed this is not update though.
+
+01:34:00.719 --> 01:34:04.760
+So, let's fix that as well.
+
+01:34:11.440 --> 01:34:17.639
+Is it auto update? No, that's update
+
+01:34:13.840 --> 01:34:17.639
+here. Okay.
+
+01:34:20.560 --> 01:34:27.120
+Please fix. All right. Nice. say updated
+
+01:34:23.520 --> 01:34:29.199
+the recently generated ads and we have
+
+01:34:27.120 --> 01:34:31.120
+what we need. Now the next step would be
+
+01:34:29.199 --> 01:34:32.800
+creating a Loom video and using that
+
+01:34:31.120 --> 01:34:35.040
+exact Loom video to send it to other
+
+01:34:32.800 --> 01:34:36.400
+clientele to get more big ticket clients
+
+01:34:35.040 --> 01:34:38.159
+so you can really scale your business.
+
+01:34:36.400 --> 01:34:40.719
+This is a product that can service
+
+01:34:38.159 --> 01:34:42.159
+literally any business especially ecom
+
+01:34:40.719 --> 01:34:43.679
+businesses. Now you might not want to
+
+01:34:42.159 --> 01:34:44.880
+create this product from scratch like I
+
+01:34:43.679 --> 01:34:46.960
+did in this video. You might just want
+
+01:34:44.880 --> 01:34:49.040
+the exact replica. To do that you have
+
+01:34:46.960 --> 01:34:50.639
+to be a student of my agent rise
+
+01:34:49.040 --> 01:34:52.320
+program. It's a program where I work
+
+01:34:50.639 --> 01:34:54.480
+one- on-one with people from all around
+
+01:34:52.320 --> 01:34:56.880
+the world to build a successful AI
+
+01:34:54.480 --> 01:34:58.320
+business and scale it to multiple 5
+
+01:34:56.880 --> 01:35:00.480
+figures per month in revenue. But you
+
+01:34:58.320 --> 01:35:03.920
+want to see build and sell another AI
+
+01:35:00.480 --> 01:35:03.920
+app from complete scratch.
+

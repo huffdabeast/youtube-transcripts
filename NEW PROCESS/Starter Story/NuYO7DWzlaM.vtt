@@ -1,0 +1,1391 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.280
+It's my first iOS app. It took roughly 3
+
+00:00:02.520 --> 00:00:07.040
+weeks. It's currently averaging around
+
+00:00:05.280 --> 00:00:09.480
+2-3,000 dollars a day.
+
+00:00:07.040 --> 00:00:12.120
+>> This is Rasty. A few months ago, he had
+
+00:00:09.480 --> 00:00:14.120
+never built an iOS app in his life.
+
+00:00:12.120 --> 00:00:16.280
+Until he decided to build something to
+
+00:00:14.120 --> 00:00:19.880
+solve a very simple problem. In the
+
+00:00:16.280 --> 00:00:23.240
+first month, the app made just $66. But,
+
+00:00:19.880 --> 00:00:25.560
+6 months later, it made $41,000
+
+00:00:23.240 --> 00:00:27.680
+in a single month. [music] But, here's
+
+00:00:25.560 --> 00:00:28.280
+the thing. The app he built is crazy
+
+00:00:27.680 --> 00:00:30.440
+simple.
+
+00:00:28.280 --> 00:00:32.880
+>> I literally haven't written single line
+
+00:00:30.440 --> 00:00:33.840
+either of code or the text on the web.
+
+00:00:32.880 --> 00:00:36.200
+>> The reason you want to watch this
+
+00:00:33.840 --> 00:00:38.000
+episode is to learn about how he grew
+
+00:00:36.200 --> 00:00:40.520
+it. Which, no, it wasn't posting on
+
+00:00:38.000 --> 00:00:42.040
+TikTok and it wasn't doing any paid ads.
+
+00:00:40.520 --> 00:00:44.080
+I asked Rasty to come on to the channel
+
+00:00:42.040 --> 00:00:46.080
+and actually break this down. And in
+
+00:00:44.080 --> 00:00:47.880
+this episode, we're going to dive into
+
+00:00:46.080 --> 00:00:50.760
+the simple app he built that made
+
+00:00:47.880 --> 00:00:52.800
+$41,000 in a single month, how he's
+
+00:00:50.760 --> 00:00:55.280
+taking on really big competitors in a
+
+00:00:52.800 --> 00:00:58.000
+very crowded space, and the {quote}
+
+00:00:55.280 --> 00:01:00.320
+outdated growth strategy that is working
+
+00:00:58.000 --> 00:01:02.680
+really well for him in 2026. All right,
+
+00:01:00.320 --> 00:01:03.560
+guys. This is one that you cannot miss.
+
+00:01:02.680 --> 00:01:04.320
+I'm Pat Walls.
+
+00:01:03.560 --> 00:01:07.640
+>> And I'm Gus.
+
+00:01:04.320 --> 00:01:07.640
+>> And this is Starter Story.
+
+00:01:07.720 --> 00:01:11.480
+All right, Rasty. I'm pumped to have you
+
+00:01:10.000 --> 00:01:12.920
+here on the channel. Welcome to Starter
+
+00:01:11.480 --> 00:01:14.160
+Story. Tell me a little about who you
+
+00:01:12.920 --> 00:01:14.760
+are, what you built, and what's your
+
+00:01:14.160 --> 00:01:16.440
+story.
+
+00:01:14.760 --> 00:01:18.520
+>> Well, I'm Rasty Turek. I built Vault
+
+00:01:16.440 --> 00:01:20.520
+Air, which is iPhone app that encrypts
+
+00:01:18.520 --> 00:01:22.600
+the storage and allows people to store
+
+00:01:20.520 --> 00:01:25.320
+encrypted files and photos. It's my
+
+00:01:22.600 --> 00:01:27.680
+first iOS app, mostly thanks to the
+
+00:01:25.320 --> 00:01:31.160
+Coding Agents. It took roughly 3 weeks.
+
+00:01:27.680 --> 00:01:33.360
+The first month, it made $66. Got a
+
+00:01:31.160 --> 00:01:35.920
+couple of downloads. It's currently
+
+00:01:33.360 --> 00:01:38.240
+averaging around 2-3,000 dollars a day.
+
+00:01:35.920 --> 00:01:39.600
+>> Wow. Rasty, this is awesome. Off camera
+
+00:01:38.240 --> 00:01:41.920
+before they said you started this in
+
+00:01:39.600 --> 00:01:43.800
+March, so it's only like 6 months, which
+
+00:01:41.920 --> 00:01:45.520
+makes this even more amazing. But, let's
+
+00:01:43.800 --> 00:01:48.240
+talk about Vault Air. Can you just
+
+00:01:45.520 --> 00:01:48.720
+explain what the app is, who your users
+
+00:01:48.240 --> 00:01:50.680
+are?
+
+00:01:48.720 --> 00:01:53.480
+>> Well, it's very simple. It's very, very
+
+00:01:50.680 --> 00:01:55.120
+similar to Dropbox with the one caveat
+
+00:01:53.480 --> 00:01:57.680
+that it is essentially encrypted. It's
+
+00:01:55.120 --> 00:01:59.720
+encrypted on device. There's no servers,
+
+00:01:57.680 --> 00:02:01.600
+no shared keys. I have no access to it,
+
+00:01:59.720 --> 00:02:03.160
+neither does Apple or anyone else. And
+
+00:02:01.600 --> 00:02:05.720
+so it's actually there's no way to
+
+00:02:03.160 --> 00:02:07.479
+recover anything. The app is free. In
+
+00:02:05.720 --> 00:02:09.440
+fact, I was going to put it completely
+
+00:02:07.479 --> 00:02:12.760
+free app and then literally the day
+
+00:02:09.440 --> 00:02:15.400
+before I just decided that maybe due to
+
+00:02:12.760 --> 00:02:17.160
+some advanced features, if users start
+
+00:02:15.400 --> 00:02:18.840
+sending me support requests, I just
+
+00:02:17.160 --> 00:02:20.800
+don't want to be bothered as much. So I
+
+00:02:18.840 --> 00:02:22.720
+literally just set few dollars here and
+
+00:02:20.800 --> 00:02:25.080
+we'll see. Honestly, majority of my
+
+00:02:22.720 --> 00:02:27.480
+purchases are for lifetime. I will say
+
+00:02:25.080 --> 00:02:29.240
+good 60% at this point. They also
+
+00:02:27.480 --> 00:02:31.800
+accounts for majority of the revenue,
+
+00:02:29.240 --> 00:02:34.760
+north of 80% I think. And then I just
+
+00:02:31.800 --> 00:02:37.040
+passed uh 60,000 overall downloads. And
+
+00:02:34.760 --> 00:02:39.600
+one very different thing about this app
+
+00:02:37.040 --> 00:02:41.200
+versus others, a lot of the trendy apps
+
+00:02:39.600 --> 00:02:42.800
+that are very focused on like they have
+
+00:02:41.200 --> 00:02:44.160
+to convert you immediately. So like Call
+
+00:02:42.800 --> 00:02:45.640
+AI, like if they don't convert you
+
+00:02:44.160 --> 00:02:47.240
+immediately, you will never pay. Mine is
+
+00:02:45.640 --> 00:02:48.840
+the opposite. Like I have the lowest
+
+00:02:47.240 --> 00:02:50.480
+conversion day one and I have the
+
+00:02:48.840 --> 00:02:52.400
+highest conversion like day 60.
+
+00:02:50.480 --> 00:02:55.000
+>> Real quick, what I love about Rasty's
+
+00:02:52.400 --> 00:02:56.640
+story is that his app is crazy simple.
+
+00:02:55.000 --> 00:02:59.200
+One of the reason why it works is that
+
+00:02:56.640 --> 00:03:01.000
+it's just a proven category. People want
+
+00:02:59.200 --> 00:03:03.200
+to download this app and pay for this.
+
+00:03:01.000 --> 00:03:05.400
+An app like this and a founder like
+
+00:03:03.200 --> 00:03:07.959
+Rasty is proof that you do not need a
+
+00:03:05.400 --> 00:03:09.600
+brand new or complicated idea to win.
+
+00:03:07.959 --> 00:03:12.200
+Which is why we put together an actual
+
+00:03:09.600 --> 00:03:14.400
+database of simple app ideas like this
+
+00:03:12.200 --> 00:03:16.160
+that are making tons of money right now.
+
+00:03:14.400 --> 00:03:17.840
+Every idea in this database comes with
+
+00:03:16.160 --> 00:03:19.760
+real revenue numbers. These are real
+
+00:03:17.840 --> 00:03:21.320
+apps with real pricing models and growth
+
+00:03:19.760 --> 00:03:22.120
+tactics that you can check out. Just
+
+00:03:21.320 --> 00:03:23.600
+head to the first link in the
+
+00:03:22.120 --> 00:03:26.320
+description if you want to download this
+
+00:03:23.600 --> 00:03:28.160
+database 100% for free. Start browsing,
+
+00:03:26.320 --> 00:03:29.360
+maybe get an idea and get building. All
+
+00:03:28.160 --> 00:03:30.519
+right, let's get back to the episode.
+
+00:03:29.360 --> 00:03:32.040
+>> This is really impressive. I mean,
+
+00:03:30.519 --> 00:03:33.400
+especially on an app that, you know, you
+
+00:03:32.040 --> 00:03:34.519
+could potentially use some of it for
+
+00:03:33.400 --> 00:03:35.920
+free. That's really good.
+
+00:03:34.519 --> 00:03:38.800
+>> And then finally, could you just pull up
+
+00:03:35.920 --> 00:03:40.200
+your like analytics, revenue dashboards,
+
+00:03:38.800 --> 00:03:41.200
+just show to the audience, you know,
+
+00:03:40.200 --> 00:03:42.320
+this thing is real.
+
+00:03:41.200 --> 00:03:45.400
+>> Yeah, so this is the App Store
+
+00:03:42.320 --> 00:03:48.800
+analytics. As you can see, my MRR is
+
+00:03:45.400 --> 00:03:51.600
+quite low because most people opt in for
+
+00:03:48.800 --> 00:03:53.600
+the lifetime plans. So daily downloads,
+
+00:03:51.600 --> 00:03:55.120
+currently as I said, around depending on
+
+00:03:53.600 --> 00:03:56.000
+the day. So, this is what
+
+00:03:55.120 --> 00:03:58.320
+>> And that huge spike.
+
+00:03:56.000 --> 00:04:01.080
+>> Yeah, I have no idea. This is the source
+
+00:03:58.320 --> 00:04:02.640
+is Apple search. However, what is weird
+
+00:04:01.080 --> 00:04:04.400
+about it, it doesn't correlate to
+
+00:04:02.640 --> 00:04:06.400
+revenue. See?
+
+00:04:04.400 --> 00:04:09.120
+Daily revenue is like hovering around
+
+00:04:06.400 --> 00:04:10.840
+$2,000 these days. It's like slowly
+
+00:04:09.120 --> 00:04:13.000
+increasing. This is what we talked
+
+00:04:10.840 --> 00:04:15.600
+about. Like as you can see, my download
+
+00:04:13.000 --> 00:04:18.040
+to paid is only 5.47%
+
+00:04:15.600 --> 00:04:22.600
+on day one, but day 35, it actually
+
+00:04:18.040 --> 00:04:26.120
+grows. It's weekly is $1.99, annual is
+
+00:04:22.600 --> 00:04:28.440
+$19.99, and lifetime is $39.99.
+
+00:04:26.120 --> 00:04:30.160
+>> So, I mean, these numbers, Rusty, are
+
+00:04:28.440 --> 00:04:31.640
+crazy. Like this growth channel that's
+
+00:04:30.160 --> 00:04:33.720
+been working for you. That is growing
+
+00:04:31.640 --> 00:04:36.080
+like really nicely, really linearly. You
+
+00:04:33.720 --> 00:04:38.400
+have this amazing download to conversion
+
+00:04:36.080 --> 00:04:39.240
+rate. You're doing over 40,000 a month.
+
+00:04:38.400 --> 00:04:40.800
+This is soon going to be a
+
+00:04:39.240 --> 00:04:42.880
+million-dollar per year business.
+
+00:04:40.800 --> 00:04:44.000
+Congrats for providing a lot of value to
+
+00:04:42.880 --> 00:04:45.480
+people, which we're going to talk about.
+
+00:04:44.000 --> 00:04:46.880
+But before we do, I want to learn about
+
+00:04:45.480 --> 00:04:48.840
+your background cuz I know that you've
+
+00:04:46.880 --> 00:04:50.160
+done startups before. This isn't your
+
+00:04:48.840 --> 00:04:51.880
+first business that you started, but you
+
+00:04:50.160 --> 00:04:53.160
+did way different stuff. So, how do you
+
+00:04:51.880 --> 00:04:55.760
+get to this point where you have this
+
+00:04:53.160 --> 00:04:59.320
+awesome $2,000 a day app that you built?
+
+00:04:55.760 --> 00:05:01.840
+>> Well, my road is pretty windy. I grew up
+
+00:04:59.320 --> 00:05:04.280
+in Slovakia in a tiny, tiny village of
+
+00:05:01.840 --> 00:05:07.080
+700 people. After high school, I moved
+
+00:05:04.280 --> 00:05:08.800
+to Boston to work for a security company
+
+00:05:07.080 --> 00:05:10.760
+that got acquired by Google. And so, I
+
+00:05:08.800 --> 00:05:12.720
+worked at Google. I worked on a chunk of
+
+00:05:10.760 --> 00:05:14.560
+the Gmail where I sat on the Gmail team
+
+00:05:12.720 --> 00:05:17.000
+and then left and started a couple of
+
+00:05:14.560 --> 00:05:18.160
+startups. Mostly, the first one started
+
+00:05:17.000 --> 00:05:19.880
+in security because that was my
+
+00:05:18.160 --> 00:05:22.000
+background. Then I moved to
+
+00:05:19.880 --> 00:05:23.880
+entertainment. I built a company.
+
+00:05:22.000 --> 00:05:25.680
+Company got acquired by Amazon and they
+
+00:05:23.880 --> 00:05:27.320
+use some of the tech to this day. My
+
+00:05:25.680 --> 00:05:29.880
+last large-scale one, and this is
+
+00:05:27.320 --> 00:05:32.680
+venture funded, was Pics, which was kind
+
+00:05:29.880 --> 00:05:34.760
+of a sassy copyright as a service for
+
+00:05:32.680 --> 00:05:36.480
+entertainment, mostly focused on music.
+
+00:05:34.760 --> 00:05:37.040
+And then we sold that last year.
+
+00:05:36.480 --> 00:05:39.200
+>> That's awesome.
+
+00:05:37.040 --> 00:05:41.040
+>> So, that leads naturally into how do you
+
+00:05:39.200 --> 00:05:42.800
+find this idea? How do you build a
+
+00:05:41.040 --> 00:05:45.520
+encryption utility app?
+
+00:05:42.800 --> 00:05:48.080
+>> You like if you deal with crypto, a lot
+
+00:05:45.520 --> 00:05:50.440
+of people have wallet keys stored in all
+
+00:05:48.080 --> 00:05:52.320
+sorts of places and it's very hard to
+
+00:05:50.440 --> 00:05:54.280
+put it somewhere close to the device but
+
+00:05:52.320 --> 00:05:56.440
+also have it available. This was my
+
+00:05:54.280 --> 00:05:59.200
+solution for it. Especially pictures of
+
+00:05:56.440 --> 00:06:01.680
+IDs, birth certificates. And as I said,
+
+00:05:59.200 --> 00:06:03.400
+I was not planning to make this paid. I
+
+00:06:01.680 --> 00:06:05.840
+didn't even know if anyone is ever going
+
+00:06:03.400 --> 00:06:07.840
+to use this. So like I put it out with
+
+00:06:05.840 --> 00:06:08.440
+the idea is like I will have it it will
+
+00:06:07.840 --> 00:06:10.040
+be there.
+
+00:06:08.440 --> 00:06:12.160
+>> Yeah. Well, let's talk a little bit more
+
+00:06:10.040 --> 00:06:13.600
+about that growth thing. We talked about
+
+00:06:12.160 --> 00:06:15.920
+this a little earlier before but you're
+
+00:06:13.600 --> 00:06:17.400
+not spending money on ads, you're not
+
+00:06:15.920 --> 00:06:18.880
+paying people to create content for the
+
+00:06:17.400 --> 00:06:20.800
+app. You're kind of just growing through
+
+00:06:18.880 --> 00:06:22.840
+SEO and you know, if you go online these
+
+00:06:20.800 --> 00:06:24.120
+days everyone's saying SEO is dead. SEO
+
+00:06:22.840 --> 00:06:25.919
+is dead. [music] You got to do something
+
+00:06:24.120 --> 00:06:28.320
+else but this is clearly working for you
+
+00:06:25.919 --> 00:06:29.480
+and it's growing really nicely. So, can
+
+00:06:28.320 --> 00:06:31.200
+you tell me a little bit more about
+
+00:06:29.480 --> 00:06:32.000
+that? Like what's been your approach for
+
+00:06:31.200 --> 00:06:34.680
+this?
+
+00:06:32.000 --> 00:06:37.240
+>> Most of the apps in this area are 15
+
+00:06:34.680 --> 00:06:39.560
+years or older. They have millions of
+
+00:06:37.240 --> 00:06:41.280
+users a lot of downloads so Apple
+
+00:06:39.560 --> 00:06:42.960
+prioritizes them and like I will have
+
+00:06:41.280 --> 00:06:45.040
+zero chance to get there but they
+
+00:06:42.960 --> 00:06:46.480
+completely ignore but because you know,
+
+00:06:45.040 --> 00:06:49.080
+they don't have to. They can have money
+
+00:06:46.480 --> 00:06:51.800
+and just don't care enough. And so my
+
+00:06:49.080 --> 00:06:53.720
+approach was like what if I try to pull
+
+00:06:51.800 --> 00:06:55.440
+in every keyword that is out there that
+
+00:06:53.720 --> 00:06:57.560
+essentially points to the same thing as
+
+00:06:55.440 --> 00:06:59.760
+an app store but on the web. And so my
+
+00:06:57.560 --> 00:07:02.760
+first foray into this was like a basic
+
+00:06:59.760 --> 00:07:05.160
+marketing site which is outlines of all
+
+00:07:02.760 --> 00:07:07.840
+of the features and then building series
+
+00:07:05.160 --> 00:07:10.240
+of guides that was like how do I store
+
+00:07:07.840 --> 00:07:12.360
+my photos on iPhone? And when I say I, I
+
+00:07:10.240 --> 00:07:14.440
+literally haven't written single line
+
+00:07:12.360 --> 00:07:16.680
+you know, of code or the text on the
+
+00:07:14.440 --> 00:07:18.840
+web. Everything is done by one of the
+
+00:07:16.680 --> 00:07:22.320
+coding agents. Over time this is like
+
+00:07:18.840 --> 00:07:24.440
+gaining a lot of authority and with that
+
+00:07:22.320 --> 00:07:26.720
+comes a lot of traffic and then I focus
+
+00:07:24.440 --> 00:07:28.400
+on the conversion. So like I tell the
+
+00:07:26.720 --> 00:07:30.320
+coding agents like make sure that the
+
+00:07:28.400 --> 00:07:32.480
+CTA structure that that essentially has
+
+00:07:30.320 --> 00:07:34.280
+the person A somewhere in the article
+
+00:07:32.480 --> 00:07:36.760
+wherever people are like commonly
+
+00:07:34.280 --> 00:07:38.760
+ending. I want them to be able to go
+
+00:07:36.760 --> 00:07:41.160
+through the app and so I have around 10%
+
+00:07:38.760 --> 00:07:43.320
+conversion from the web and the web is
+
+00:07:41.160 --> 00:07:46.480
+the majority of traffic at this point.
+
+00:07:43.320 --> 00:07:49.600
+>> Wow. So, you essentially have a whole
+
+00:07:46.480 --> 00:07:51.080
+content marketing and conversion team
+
+00:07:49.600 --> 00:07:53.080
+that's working for you, but there's not
+
+00:07:51.080 --> 00:07:55.400
+an actual team. You just have some sort
+
+00:07:53.080 --> 00:07:57.200
+of agent running that's always improving
+
+00:07:55.400 --> 00:07:58.480
+your SEO. Tell me more about how you set
+
+00:07:57.200 --> 00:07:59.240
+up something like that. Like what tools
+
+00:07:58.480 --> 00:08:02.480
+are you using?
+
+00:07:59.240 --> 00:08:05.440
+>> It's honestly basic cloud or codex. I
+
+00:08:02.480 --> 00:08:09.040
+wrote this library called gum. It's just
+
+00:08:05.440 --> 00:08:11.160
+open-source command line tools with MCP
+
+00:08:09.040 --> 00:08:12.800
+at top of all Google services including
+
+00:08:11.160 --> 00:08:15.120
+Google search and Google keyword
+
+00:08:12.800 --> 00:08:16.440
+planner. And so, what it does it runs
+
+00:08:15.120 --> 00:08:18.840
+through keyword planner every single
+
+00:08:16.440 --> 00:08:21.400
+morning, looks at all the traffic,
+
+00:08:18.840 --> 00:08:23.520
+identifies keywords that are being
+
+00:08:21.400 --> 00:08:25.400
+surfaced but not essentially being
+
+00:08:23.520 --> 00:08:27.880
+driven to the site. So, like you can see
+
+00:08:25.400 --> 00:08:29.760
+your site was showed 16,000 times for
+
+00:08:27.880 --> 00:08:31.680
+this keyword, but no clicks because you
+
+00:08:29.760 --> 00:08:33.640
+are like number 50. And so, then it
+
+00:08:31.680 --> 00:08:35.320
+takes that and optimize creates this
+
+00:08:33.640 --> 00:08:37.760
+guide, and then the guide is essentially
+
+00:08:35.320 --> 00:08:40.599
+published. It takes roughly 3 to 4 days
+
+00:08:37.760 --> 00:08:42.159
+for Google to register, and I optimize a
+
+00:08:40.599 --> 00:08:44.560
+lot of internal links. And so, the
+
+00:08:42.159 --> 00:08:46.560
+internal links from existing traffic
+
+00:08:44.560 --> 00:08:48.160
+point to the new guides, and that's how
+
+00:08:46.560 --> 00:08:50.040
+Google essentially prioritizes it, and
+
+00:08:48.160 --> 00:08:51.640
+then you can see the correlation with
+
+00:08:50.040 --> 00:08:53.800
+that essentially growing the traffic,
+
+00:08:51.640 --> 00:08:56.240
+and then the traffic it converts into
+
+00:08:53.800 --> 00:08:58.280
+dollars. And essentially publishing one
+
+00:08:56.240 --> 00:08:59.760
+a day, and that's it. Google likes the
+
+00:08:58.280 --> 00:09:01.800
+fact that there's like not a lot of
+
+00:08:59.760 --> 00:09:03.600
+content coming, but the content is like
+
+00:09:01.800 --> 00:09:06.080
+high-quality. Like I make sure that the
+
+00:09:03.600 --> 00:09:07.320
+content is not just like vomit of words.
+
+00:09:06.080 --> 00:09:08.720
+>> I think you mentioned one thing that I
+
+00:09:07.320 --> 00:09:10.640
+really liked is that like you're
+
+00:09:08.720 --> 00:09:11.680
+actually not publishing that much.
+
+00:09:10.640 --> 00:09:12.880
+Sometimes you hear where people will
+
+00:09:11.680 --> 00:09:14.560
+automate their SEO, it's just like a
+
+00:09:12.880 --> 00:09:16.080
+bunch of AI slop. They push out a
+
+00:09:14.560 --> 00:09:18.320
+thousand articles in a day, but you
+
+00:09:16.080 --> 00:09:20.160
+actually mentioned that you only do one
+
+00:09:18.320 --> 00:09:21.839
+article a day, which maybe you think
+
+00:09:20.160 --> 00:09:23.560
+that Google really likes that. And I
+
+00:09:21.839 --> 00:09:25.320
+think I want to get you back on the
+
+00:09:23.560 --> 00:09:26.720
+channel maybe in 6 months and see where
+
+00:09:25.320 --> 00:09:29.120
+your revenue is because I think this
+
+00:09:26.720 --> 00:09:30.800
+focus on providing valuable content to a
+
+00:09:29.120 --> 00:09:32.200
+very niche audience. Maybe they care a
+
+00:09:30.800 --> 00:09:33.680
+lot about security, they care a lot
+
+00:09:32.200 --> 00:09:35.120
+about this very niche thing that you
+
+00:09:33.680 --> 00:09:37.360
+have. I think this is actually going to
+
+00:09:35.120 --> 00:09:38.800
+benefit you even more because you're
+
+00:09:37.360 --> 00:09:40.880
+going to get start getting shown in
+
+00:09:38.800 --> 00:09:42.520
+LLM's. As the more traffic you get, the
+
+00:09:40.880 --> 00:09:45.200
+more Google likes you, the more Gemini
+
+00:09:42.520 --> 00:09:47.120
+likes you, the more AEO search overviews
+
+00:09:45.200 --> 00:09:48.840
+like you, all this attention coming to
+
+00:09:47.120 --> 00:09:50.440
+your app. So, I'm excited to see where
+
+00:09:48.840 --> 00:09:51.800
+you are in 6 months, especially because
+
+00:09:50.440 --> 00:09:53.720
+it's growing so fast already.
+
+00:09:51.800 --> 00:09:55.360
+>> Rasti, you mentioned that you have kind
+
+00:09:53.720 --> 00:09:56.800
+of a light tech stack. A lot of this is
+
+00:09:55.360 --> 00:09:58.720
+profit. So, what are the tools that you
+
+00:09:56.800 --> 00:09:59.280
+use on a regular basis to run this
+
+00:09:58.720 --> 00:10:02.120
+business?
+
+00:09:59.280 --> 00:10:04.480
+>> Well, I mean, the app is Swift with UI
+
+00:10:02.120 --> 00:10:07.320
+Kit. There's really nothing else. It
+
+00:10:04.480 --> 00:10:09.760
+uses a lot of the iCloud features, but
+
+00:10:07.320 --> 00:10:12.720
+everything is native to the app. I use
+
+00:10:09.760 --> 00:10:14.920
+extensively Codex and Claude, and I have
+
+00:10:12.720 --> 00:10:17.400
+also local models that I utilize for
+
+00:10:14.920 --> 00:10:20.880
+myself, but I will say at this point,
+
+00:10:17.400 --> 00:10:23.000
+99% of the stuff that is left to be done
+
+00:10:20.880 --> 00:10:24.720
+is Claude waking up every morning and
+
+00:10:23.000 --> 00:10:27.440
+then running the guide, and that's kind
+
+00:10:24.720 --> 00:10:29.080
+of it. For measurements, I use Posthog.
+
+00:10:27.440 --> 00:10:30.760
+It's free. So, one of the nice things
+
+00:10:29.080 --> 00:10:32.720
+about this is like I don't have enough
+
+00:10:30.760 --> 00:10:34.600
+traffic or enough users because they
+
+00:10:32.720 --> 00:10:36.720
+don't measure anything. These days, like
+
+00:10:34.600 --> 00:10:38.280
+you can really run things for free. You
+
+00:10:36.720 --> 00:10:39.880
+know, there's like nothing to break,
+
+00:10:38.280 --> 00:10:41.520
+which is really nice. Like as long as
+
+00:10:39.880 --> 00:10:43.560
+Apple is up, the app works.
+
+00:10:41.520 --> 00:10:44.560
+>> All right, so Rasti, real quick. I mean,
+
+00:10:43.560 --> 00:10:46.360
+we kind of talked about what your app
+
+00:10:44.560 --> 00:10:47.720
+does. It's encryption for your photos,
+
+00:10:46.360 --> 00:10:50.360
+but I'd love to just see it. Can you
+
+00:10:47.720 --> 00:10:53.000
+show me the app that you built that made
+
+00:10:50.360 --> 00:10:54.320
+over $40,000 last month? Like how does
+
+00:10:53.000 --> 00:10:55.400
+the app work? What does it do? Can you
+
+00:10:54.320 --> 00:10:57.000
+give us a little bit of a demo?
+
+00:10:55.400 --> 00:10:59.839
+>> Yeah, it's the great person makes a
+
+00:10:57.000 --> 00:11:02.080
+pattern. Any any pattern opens a vault.
+
+00:10:59.839 --> 00:11:04.000
+So, there's roughly 52 billion potential
+
+00:11:02.080 --> 00:11:06.160
+vaults, and then they just add files to
+
+00:11:04.000 --> 00:11:08.107
+it. So, what's interesting about this is
+
+00:11:06.160 --> 00:11:08.120
+there's no way to find out
+
+00:11:08.107 --> 00:11:10.160
+>> [music]
+
+00:11:08.120 --> 00:11:12.880
+>> how much data or what is in there. And
+
+00:11:10.160 --> 00:11:15.000
+so, it actually accumulated to a really
+
+00:11:12.880 --> 00:11:17.760
+interesting story. So, on a Friday, I
+
+00:11:15.000 --> 00:11:20.600
+got a call from FBI agent. They caught
+
+00:11:17.760 --> 00:11:23.800
+someone that they believe used the app,
+
+00:11:20.600 --> 00:11:25.680
+opened a vault to record some sensitive
+
+00:11:23.800 --> 00:11:28.000
+information, and so they believe the
+
+00:11:25.680 --> 00:11:29.520
+person done it, and they want my help.
+
+00:11:28.000 --> 00:11:31.880
+And there's no way to figure it out. The
+
+00:11:29.520 --> 00:11:34.360
+app is built such way that I can't tell
+
+00:11:31.880 --> 00:11:36.760
+if the person ever had anything in
+
+00:11:34.360 --> 00:11:38.640
+there. And so the agent was pretty upset
+
+00:11:36.760 --> 00:11:40.080
+about it, but that's what the app does.
+
+00:11:38.640 --> 00:11:41.840
+>> That's amazing. I mean, that's literally
+
+00:11:40.080 --> 00:11:44.520
+the point is to encrypt it. That's why
+
+00:11:41.840 --> 00:11:46.520
+people use it because no FBI agent can
+
+00:11:44.520 --> 00:11:48.480
+call the founder of the app and get the
+
+00:11:46.520 --> 00:11:49.920
+information. So that's super cool. Last
+
+00:11:48.480 --> 00:11:51.640
+question that we ask all founders who
+
+00:11:49.920 --> 00:11:53.440
+come under Starter Story, and I know
+
+00:11:51.640 --> 00:11:55.000
+you've built a bunch of awesome startups
+
+00:11:53.440 --> 00:11:56.520
+and you're doing great for yourself,
+
+00:11:55.000 --> 00:11:58.000
+obviously. What advice would you give
+
+00:11:56.520 --> 00:11:59.560
+someone watching this? Maybe they're
+
+00:11:58.000 --> 00:12:00.880
+about to start their first company or
+
+00:11:59.560 --> 00:12:02.600
+they're about to start an app, like
+
+00:12:00.880 --> 00:12:03.880
+you've built a utility app even. What
+
+00:12:02.600 --> 00:12:06.800
+would be your advice to them?
+
+00:12:03.880 --> 00:12:08.680
+>> I mean, start. That's the hardest part,
+
+00:12:06.800 --> 00:12:11.040
+right? Like I have at least two dozen
+
+00:12:08.680 --> 00:12:12.880
+projects that are somewhere in me ready,
+
+00:12:11.040 --> 00:12:14.280
+but they're not out there. And as long
+
+00:12:12.880 --> 00:12:16.480
+as they're not out there, they don't
+
+00:12:14.280 --> 00:12:19.120
+exist. And then, honestly, like people
+
+00:12:16.480 --> 00:12:21.320
+overthink how things too should be done.
+
+00:12:19.120 --> 00:12:23.080
+Like none of these came out of years of
+
+00:12:21.320 --> 00:12:25.000
+experience because my experience is in
+
+00:12:23.080 --> 00:12:26.720
+B2B and enterprise. And so like I really
+
+00:12:25.000 --> 00:12:28.600
+didn't know anything about this. So if I
+
+00:12:26.720 --> 00:12:30.200
+can learn, anyone can. And so like as
+
+00:12:28.600 --> 00:12:31.800
+long as you have open mind and, you
+
+00:12:30.200 --> 00:12:33.720
+know, how to put one foot in front of
+
+00:12:31.800 --> 00:12:35.440
+the other and every day just be slightly
+
+00:12:33.720 --> 00:12:36.760
+better than the day before. And that's
+
+00:12:35.440 --> 00:12:38.000
+kind of all I care about.
+
+00:12:36.760 --> 00:12:39.839
+>> Well, that's great advice. Thank you,
+
+00:12:38.000 --> 00:12:41.720
+Rasty, for coming on. Super cool app.
+
+00:12:39.839 --> 00:12:44.000
+Thanks for being so open about sharing
+
+00:12:41.720 --> 00:12:45.640
+it and all your SEO experiments and all
+
+00:12:44.000 --> 00:12:47.160
+that. Super cool. Thanks for coming on.
+
+00:12:45.640 --> 00:12:49.520
+>> Yeah, thanks for having me.
+
+00:12:47.160 --> 00:12:51.000
+>> All right, Gus, co-host and producer of
+
+00:12:49.520 --> 00:12:52.280
+Starter Story. What did you think of
+
+00:12:51.000 --> 00:12:54.160
+Rasty and his app?
+
+00:12:52.280 --> 00:12:55.600
+>> When I first talked to him, I knew it
+
+00:12:54.160 --> 00:12:56.839
+was going to be awesome. He reminded me
+
+00:12:55.600 --> 00:12:58.720
+of Do you remember that guy we
+
+00:12:56.839 --> 00:13:00.920
+interviewed a while back? The He's from
+
+00:12:58.720 --> 00:13:02.960
+Australia. He had like a His name was
+
+00:13:00.920 --> 00:13:04.920
+Mike Hill. Yeah.
+
+00:13:02.960 --> 00:13:06.160
+He did like the seven SaaS thing. The
+
+00:13:04.920 --> 00:13:08.000
+similarities between the obviously
+
+00:13:06.160 --> 00:13:10.000
+besides their demeanor was like I feel
+
+00:13:08.000 --> 00:13:11.880
+like they kind of have a really It's
+
+00:13:10.000 --> 00:13:13.640
+simple but not easy, but simple approach
+
+00:13:11.880 --> 00:13:15.440
+to like how they do things. That's what
+
+00:13:13.640 --> 00:13:16.839
+I really liked about everything he was
+
+00:13:15.440 --> 00:13:19.400
+saying was like, you know, all the app
+
+00:13:16.839 --> 00:13:21.240
+guys we bring on are like Tik Tok and go
+
+00:13:19.400 --> 00:13:23.240
+viral and all that stuff obviously
+
+00:13:21.240 --> 00:13:24.520
+works. We have plenty of examples. But I
+
+00:13:23.240 --> 00:13:26.520
+thought it was cool that he was just
+
+00:13:24.520 --> 00:13:28.440
+like, I do one article a day. I try to
+
+00:13:26.520 --> 00:13:29.960
+like eat up the competition, and that's
+
+00:13:28.440 --> 00:13:30.440
+my strategy. Yeah, that's my first
+
+00:13:29.960 --> 00:13:31.920
+thought. Yeah.
+
+00:13:30.440 --> 00:13:33.200
+>> The vibe is like no It's kind
+
+00:13:31.920 --> 00:13:34.440
+of just like, I don't know, a guy in his
+
+00:13:33.200 --> 00:13:35.880
+I'm not sure how old he is, but let's
+
+00:13:34.440 --> 00:13:37.360
+say he's in his 40s. There's a
+
+00:13:35.880 --> 00:13:39.120
+difference between a guy in his 40s and
+
+00:13:37.360 --> 00:13:41.040
+a kid in his 20s. You know, he's not
+
+00:13:39.120 --> 00:13:42.520
+coming on here talking about the latest
+
+00:13:41.040 --> 00:13:43.600
+greatest growth hack. You got to do
+
+00:13:42.520 --> 00:13:45.280
+this, you got to do that. It's more just
+
+00:13:43.600 --> 00:13:46.880
+like put one foot in front of the other.
+
+00:13:45.280 --> 00:13:48.800
+I think there's a lot to learn from this
+
+00:13:46.880 --> 00:13:50.480
+interview just seeing how someone like
+
+00:13:48.800 --> 00:13:51.520
+him carries himself, uh, which is a
+
+00:13:50.480 --> 00:13:52.960
+little different than the typical
+
+00:13:51.520 --> 00:13:54.440
+interviews we do. Yeah.
+
+00:13:52.960 --> 00:13:56.880
+>> I agree. Yeah, what do you think about
+
+00:13:54.440 --> 00:13:58.440
+like the whole SEO play that he's doing
+
+00:13:56.880 --> 00:14:00.440
+and um, I think he even said there in
+
+00:13:58.440 --> 00:14:02.320
+the interview like everyone says SEO is
+
+00:14:00.440 --> 00:14:02.640
+dead or whatever, you know. What do you
+
+00:14:02.320 --> 00:14:04.480
+think?
+
+00:14:02.640 --> 00:14:06.200
+>> I still think SEO is dead, whatever you
+
+00:14:04.480 --> 00:14:07.680
+want to call that. But the the reason
+
+00:14:06.200 --> 00:14:10.640
+why I think it works for him is that
+
+00:14:07.680 --> 00:14:12.600
+it's super super niche. It's like a very
+
+00:14:10.640 --> 00:14:14.280
+specific app that does a very specific
+
+00:14:12.600 --> 00:14:16.120
+thing. He's not going to get a million
+
+00:14:14.280 --> 00:14:17.880
+people visiting his website every day.
+
+00:14:16.120 --> 00:14:20.360
+And I think he's probably getting a lot
+
+00:14:17.880 --> 00:14:23.120
+more traffic from recommendations, word
+
+00:14:20.360 --> 00:14:24.480
+of mouth, and LLMs than he knows already
+
+00:14:23.120 --> 00:14:26.080
+cuz he's letting us know you couldn't
+
+00:14:24.480 --> 00:14:27.440
+really track these things because he
+
+00:14:26.080 --> 00:14:29.000
+doesn't want to put analytics on it cuz
+
+00:14:27.440 --> 00:14:30.680
+it's privacy focused.
+
+00:14:29.000 --> 00:14:32.120
+>> Yes, it started with the SEO. It started
+
+00:14:30.680 --> 00:14:33.720
+with writing the content, but it's
+
+00:14:32.120 --> 00:14:35.520
+actually going to grow a lot more just
+
+00:14:33.720 --> 00:14:37.480
+because he's putting that out there.
+
+00:14:35.520 --> 00:14:39.640
+Yeah. The other thing that I love about
+
+00:14:37.480 --> 00:14:41.440
+his app is that it's so simple. You
+
+00:14:39.640 --> 00:14:43.440
+watch the demo, you're literally
+
+00:14:41.440 --> 00:14:45.200
+encrypting some files. There's not a
+
+00:14:43.440 --> 00:14:46.839
+thousand features. They make them easy
+
+00:14:45.200 --> 00:14:49.520
+to market. We have a bunch of other
+
+00:14:46.839 --> 00:14:51.520
+examples like this, real actual simple
+
+00:14:49.520 --> 00:14:53.520
+apps that are making money right now. We
+
+00:14:51.520 --> 00:14:55.160
+put them all into a database of all the
+
+00:14:53.520 --> 00:14:57.000
+people that we've interviewed
+
+00:14:55.160 --> 00:14:58.480
+>> and researched and found a bunch of cool
+
+00:14:57.000 --> 00:14:59.839
+simple apps that are making money right
+
+00:14:58.480 --> 00:15:01.240
+now. Check that out in the description
+
+00:14:59.839 --> 00:15:02.680
+right there. It's all free. Hope you
+
+00:15:01.240 --> 00:15:06.000
+guys enjoy. Thank you for watching.
+
+00:15:02.680 --> 00:15:06.000
+We'll see you in the next one. Peace.
+

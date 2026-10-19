@@ -1,0 +1,3101 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.040
+So, Claude Code just made YouTube
+
+00:00:01.920 --> 00:00:06.040
+content production roughly 10 times
+
+00:00:04.040 --> 00:00:07.920
+easier. And the wildest part is that
+
+00:00:06.040 --> 00:00:10.080
+almost no YouTubers have figured this
+
+00:00:07.920 --> 00:00:11.720
+out yet because Claude Code was built
+
+00:00:10.080 --> 00:00:13.200
+for software developers, not for content
+
+00:00:11.720 --> 00:00:15.160
+creators. And that's because people
+
+00:00:13.200 --> 00:00:16.680
+assume that it's really difficult to use
+
+00:00:15.160 --> 00:00:18.560
+or it's very technical and you have to
+
+00:00:16.680 --> 00:00:20.600
+be some kind of coding genius to make it
+
+00:00:18.560 --> 00:00:22.080
+work. When in reality, if you just use
+
+00:00:20.600 --> 00:00:23.440
+it the right way, the way that I'm going
+
+00:00:22.080 --> 00:00:25.440
+to show you here in a moment, it's
+
+00:00:23.440 --> 00:00:28.120
+actually not much harder to use than
+
+00:00:25.440 --> 00:00:30.920
+just normal ChatGPT or Claude interface.
+
+00:00:28.120 --> 00:00:31.960
+But it can do so, so, so much more. Now,
+
+00:00:30.920 --> 00:00:33.560
+a lot of the videos that you see on
+
+00:00:31.960 --> 00:00:35.400
+YouTube about using Claude Code for
+
+00:00:33.560 --> 00:00:36.920
+YouTube are honestly just clickbait. You
+
+00:00:35.400 --> 00:00:38.640
+know, people saying, "Oh, I replaced my
+
+00:00:36.920 --> 00:00:40.760
+entire production team with Claude
+
+00:00:38.640 --> 00:00:42.800
+Code." Or I replaced my entire marketing
+
+00:00:40.760 --> 00:00:44.880
+team with Claude Code. Or Claude Code
+
+00:00:42.800 --> 00:00:47.000
+runs my entire YouTube channel. All of
+
+00:00:44.880 --> 00:00:49.200
+those are clickbait, right? Claude Code
+
+00:00:47.000 --> 00:00:51.560
+can't actually do everything for you,
+
+00:00:49.200 --> 00:00:54.040
+but it can help you make content 10
+
+00:00:51.560 --> 00:00:55.920
+times faster, make it 10 times better,
+
+00:00:54.040 --> 00:00:57.760
+and make 10 times more. And over the
+
+00:00:55.920 --> 00:00:59.640
+last few weeks, I've been quietly using
+
+00:00:57.760 --> 00:01:01.520
+it across every single stage of my
+
+00:00:59.640 --> 00:01:03.520
+production process, and the difference
+
+00:01:01.520 --> 00:01:05.080
+is honestly hard to put into words.
+
+00:01:03.520 --> 00:01:07.080
+We're talking about idea generation,
+
+00:01:05.080 --> 00:01:08.800
+thumbnail and title testing, full script
+
+00:01:07.080 --> 00:01:10.480
+writing, even helping with uploading and
+
+00:01:08.800 --> 00:01:12.520
+launch optimization. It can help with
+
+00:01:10.480 --> 00:01:14.320
+everything. All of it is accelerated by
+
+00:01:12.520 --> 00:01:16.040
+a single tool that most creators have
+
+00:01:14.320 --> 00:01:17.440
+never even opened. And I'm telling you
+
+00:01:16.040 --> 00:01:19.000
+this as someone who's built a channel
+
+00:01:17.440 --> 00:01:21.200
+with over a million subscribers, and
+
+00:01:19.000 --> 00:01:23.280
+I've made over 1.5 million dollars just
+
+00:01:21.200 --> 00:01:25.240
+from AdSense alone. And I've tested just
+
+00:01:23.280 --> 00:01:26.760
+about every AI workflow that's hit the
+
+00:01:25.240 --> 00:01:29.120
+market. So, when I say something
+
+00:01:26.760 --> 00:01:30.600
+genuinely changes the math, I mean it.
+
+00:01:29.120 --> 00:01:32.280
+Now, before you assume that this is some
+
+00:01:30.600 --> 00:01:34.240
+technical thing that only works if you
+
+00:01:32.280 --> 00:01:36.000
+can code, no. You don't need to know a
+
+00:01:34.240 --> 00:01:37.320
+single line of code to use any of what
+
+00:01:36.000 --> 00:01:38.680
+I'm about to show you. So, in this
+
+00:01:37.320 --> 00:01:40.080
+video, I'm going to walk you through
+
+00:01:38.680 --> 00:01:41.640
+every single step of our YouTube
+
+00:01:40.080 --> 00:01:43.560
+production process. We're going to start
+
+00:01:41.640 --> 00:01:44.880
+at the very beginning, idea generation.
+
+00:01:43.560 --> 00:01:46.680
+Then we're going to move to thumbnail,
+
+00:01:44.880 --> 00:01:48.000
+title, intro, what we call the holy
+
+00:01:46.680 --> 00:01:49.520
+trifecta. Then we're going to go to
+
+00:01:48.000 --> 00:01:51.240
+script writing and research. Then we're
+
+00:01:49.520 --> 00:01:52.920
+going to talk about recording, editing,
+
+00:01:51.240 --> 00:01:54.600
+uploading, and launch. And I'm going to
+
+00:01:52.920 --> 00:01:56.000
+show you exactly how to plug Claude Code
+
+00:01:54.600 --> 00:01:57.440
+into each one. And by the end, you're
+
+00:01:56.000 --> 00:01:59.280
+going to have a complete blueprint that
+
+00:01:57.440 --> 00:02:00.720
+you can copy. Or, even if you're
+
+00:01:59.280 --> 00:02:02.080
+struggling with one of these things,
+
+00:02:00.720 --> 00:02:04.080
+this video is going to help you dial
+
+00:02:02.080 --> 00:02:05.840
+that one thing in, and I can guarantee
+
+00:02:04.080 --> 00:02:07.320
+you that no matter how little or how
+
+00:02:05.840 --> 00:02:08.720
+much you know about YouTube, you're
+
+00:02:07.320 --> 00:02:10.240
+going to learn a lot by the end of this
+
+00:02:08.720 --> 00:02:11.880
+video because it's designed to be
+
+00:02:10.240 --> 00:02:13.600
+beginner-friendly, but also go over the
+
+00:02:11.880 --> 00:02:14.760
+most important things as well. Or, even
+
+00:02:13.600 --> 00:02:16.200
+if you're just struggling with one of
+
+00:02:14.760 --> 00:02:18.320
+these things, this video is going to
+
+00:02:16.200 --> 00:02:19.640
+help you dial that one thing in, and I
+
+00:02:18.320 --> 00:02:21.000
+can guarantee you that no matter how
+
+00:02:19.640 --> 00:02:22.520
+little or how much you know about
+
+00:02:21.000 --> 00:02:23.760
+YouTube, you're going to learn a lot by
+
+00:02:22.520 --> 00:02:25.720
+the end of this video because it's
+
+00:02:23.760 --> 00:02:27.520
+designed to be beginner-friendly, but
+
+00:02:25.720 --> 00:02:29.320
+also go over the most important things
+
+00:02:27.520 --> 00:02:30.400
+as well. So, even experts are going to
+
+00:02:29.320 --> 00:02:31.600
+get a lot out of it. So, if you
+
+00:02:30.400 --> 00:02:33.880
+appreciate me breaking down the real
+
+00:02:31.600 --> 00:02:35.640
+workflows, and this video is a lot of
+
+00:02:33.880 --> 00:02:36.760
+work, and you want me to do more videos
+
+00:02:35.640 --> 00:02:38.480
+like this in the future, then let me
+
+00:02:36.760 --> 00:02:39.640
+know by gently tapping that like button,
+
+00:02:38.480 --> 00:02:41.200
+and let's jump into it. All right, guys.
+
+00:02:39.640 --> 00:02:43.440
+So, we're going to jump into the
+
+00:02:41.200 --> 00:02:45.360
+computer, and quick housekeeping. Uh
+
+00:02:43.440 --> 00:02:47.360
+before you can use Claude Code, you need
+
+00:02:45.360 --> 00:02:49.320
+two things on your computer. You need
+
+00:02:47.360 --> 00:02:50.760
+Claude itself, and you need GitHub. Now,
+
+00:02:49.320 --> 00:02:53.200
+I'm going to walk you through it. Uh the
+
+00:02:50.760 --> 00:02:54.600
+whole install takes about 5 minutes, and
+
+00:02:53.200 --> 00:02:56.640
+you only have to do it once. So, open
+
+00:02:54.600 --> 00:02:58.040
+your browser, type in Claude install,
+
+00:02:56.640 --> 00:02:59.959
+and your operating system. I'm on a
+
+00:02:58.040 --> 00:03:01.880
+Windows, so we're typing in Claude
+
+00:02:59.959 --> 00:03:03.519
+install Windows. If you're on a Mac,
+
+00:03:01.880 --> 00:03:05.440
+type in Claude install Mac. It's the
+
+00:03:03.519 --> 00:03:06.880
+same exact process. So, for Windows,
+
+00:03:05.440 --> 00:03:08.640
+you're going to click Windows, and it's
+
+00:03:06.880 --> 00:03:09.920
+going to download the Claude setup for
+
+00:03:08.640 --> 00:03:12.280
+you. Once it's downloaded, click on
+
+00:03:09.920 --> 00:03:14.160
+Claude setup.exe on the top right part
+
+00:03:12.280 --> 00:03:15.640
+of the screen, which is your download,
+
+00:03:14.160 --> 00:03:17.040
+and once you hit that, Claude will
+
+00:03:15.640 --> 00:03:19.080
+install itself now. Then, you want to
+
+00:03:17.040 --> 00:03:21.040
+hit get started, and you need to sign in
+
+00:03:19.080 --> 00:03:22.280
+first, so just click on continue with
+
+00:03:21.040 --> 00:03:23.680
+Google. And then, just choose the
+
+00:03:22.280 --> 00:03:24.800
+account that you have for Claude. I'm
+
+00:03:23.680 --> 00:03:26.640
+going to use this account since I have a
+
+00:03:24.800 --> 00:03:28.880
+paid subscription on this account. And
+
+00:03:26.640 --> 00:03:31.600
+one important thing here is Claude Code
+
+00:03:28.880 --> 00:03:33.920
+requires a paid Claude account. So, free
+
+00:03:31.600 --> 00:03:35.680
+claude.ai does not work. Now, if you
+
+00:03:33.920 --> 00:03:37.840
+don't have one already, just purchase
+
+00:03:35.680 --> 00:03:39.400
+the pro version for $20 a month. This is
+
+00:03:37.840 --> 00:03:41.400
+not a sponsored video. I'm not
+
+00:03:39.400 --> 00:03:42.880
+affiliated with Claude in any way. I
+
+00:03:41.400 --> 00:03:44.400
+just think it's a great tool, right?
+
+00:03:42.880 --> 00:03:45.959
+There's no affiliate link. There's no
+
+00:03:44.400 --> 00:03:47.360
+sponsorship or anything like that. I I
+
+00:03:45.959 --> 00:03:49.200
+literally just think it's a great tool.
+
+00:03:47.360 --> 00:03:50.519
+So, if you want to do the $20 a month, I
+
+00:03:49.200 --> 00:03:52.440
+would highly recommend it. And this is
+
+00:03:50.519 --> 00:03:54.560
+going to be just like insanely valuable
+
+00:03:52.440 --> 00:03:56.640
+for you. The $20 a month I cannot
+
+00:03:54.560 --> 00:03:57.960
+describe how much of a deal that is for
+
+00:03:56.640 --> 00:03:59.320
+the value that it gives you. And I can
+
+00:03:57.960 --> 00:04:01.640
+almost guarantee you that price is going
+
+00:03:59.320 --> 00:04:03.040
+to go up massively soon. So, you really
+
+00:04:01.640 --> 00:04:05.440
+want to lock it in while you still can.
+
+00:04:03.040 --> 00:04:06.840
+And next is going to ask you to verify
+
+00:04:05.440 --> 00:04:08.320
+your account if it's your first time
+
+00:04:06.840 --> 00:04:09.880
+logging in. So, just go ahead and go
+
+00:04:08.320 --> 00:04:11.640
+through it. And I'll just go ahead and
+
+00:04:09.880 --> 00:04:13.200
+hit continue here. And once you're
+
+00:04:11.640 --> 00:04:14.840
+signed in, this is what you're going to
+
+00:04:13.200 --> 00:04:17.200
+see. Now, on the upper left part, you're
+
+00:04:14.840 --> 00:04:19.799
+going to see this option right here. It
+
+00:04:17.200 --> 00:04:21.840
+says chat, co-work, and code. And the
+
+00:04:19.799 --> 00:04:23.200
+code tab is where Claude Code lives. And
+
+00:04:21.840 --> 00:04:25.000
+that's where the magic happens. But
+
+00:04:23.200 --> 00:04:27.000
+before we open it up, we need to install
+
+00:04:25.000 --> 00:04:28.680
+one more thing. GitHub. If you never
+
+00:04:27.000 --> 00:04:30.000
+touched GitHub before, don't panic,
+
+00:04:28.680 --> 00:04:31.480
+right? You don't need to know what it
+
+00:04:30.000 --> 00:04:33.120
+is. You don't need to know how it works.
+
+00:04:31.480 --> 00:04:34.480
+You just need to install it once, okay?
+
+00:04:33.120 --> 00:04:36.160
+So, connect it to Claude Code and then
+
+00:04:34.480 --> 00:04:38.280
+forget it exists. The easiest way to
+
+00:04:36.160 --> 00:04:40.240
+know what you need is to just ask Claude
+
+00:04:38.280 --> 00:04:42.200
+Code and it'll tell you what to install.
+
+00:04:40.240 --> 00:04:43.960
+So, open the code tab and uh type
+
+00:04:42.200 --> 00:04:46.160
+anything in. For example, I'll just type
+
+00:04:43.960 --> 00:04:47.919
+uh what are the things I need to make
+
+00:04:46.160 --> 00:04:49.640
+sure you are working, right? Now, Claude
+
+00:04:47.919 --> 00:04:51.480
+Code is going to tell you exactly what's
+
+00:04:49.640 --> 00:04:53.960
+missing here. And for most of you,
+
+00:04:51.480 --> 00:04:55.919
+that's going to be GitHub CLI and the
+
+00:04:53.960 --> 00:04:57.760
+Claude GitHub app. So, it'll tell you to
+
+00:04:55.919 --> 00:04:59.240
+install the Claude GitHub app. And we're
+
+00:04:57.760 --> 00:05:01.200
+just going to click this link here. And
+
+00:04:59.240 --> 00:05:03.240
+it'll reroute us to confirm our GitHub
+
+00:05:01.200 --> 00:05:04.840
+account. Now, if you don't have one, uh
+
+00:05:03.240 --> 00:05:06.360
+you can just use your Google account to
+
+00:05:04.840 --> 00:05:08.200
+create one. And all you need to do is
+
+00:05:06.360 --> 00:05:09.360
+verify your email and you're going to be
+
+00:05:08.200 --> 00:05:11.360
+good to go. Now, I'm going to go ahead
+
+00:05:09.360 --> 00:05:13.160
+and hit verify email. Then I'll go ahead
+
+00:05:11.360 --> 00:05:14.840
+and get the code from my email. And I'm
+
+00:05:13.160 --> 00:05:16.280
+just going to copy that and paste it
+
+00:05:14.840 --> 00:05:17.919
+here. And there you go. I already have
+
+00:05:16.280 --> 00:05:19.600
+the Claude GitHub done. And the next
+
+00:05:17.919 --> 00:05:21.640
+thing you want to do is create a blank
+
+00:05:19.600 --> 00:05:22.960
+folder in your computer. And that is
+
+00:05:21.640 --> 00:05:24.840
+going to be storage. So, I just named
+
+00:05:22.960 --> 00:05:26.960
+this folder Claude Code. And once you're
+
+00:05:24.840 --> 00:05:29.120
+done, go back to Claude Code window and
+
+00:05:26.960 --> 00:05:30.960
+click default and then click on local.
+
+00:05:29.120 --> 00:05:32.440
+And there is the folder that I created.
+
+00:05:30.960 --> 00:05:34.120
+So, I'm just going to click on that. And
+
+00:05:32.440 --> 00:05:36.080
+once done, this is how it's going to
+
+00:05:34.120 --> 00:05:37.880
+look. Now, to test if Claude Code is
+
+00:05:36.080 --> 00:05:39.280
+working, I'm just going to ask it, are
+
+00:05:37.880 --> 00:05:40.640
+you working? All right. So, now that we
+
+00:05:39.280 --> 00:05:42.960
+got that out of the way, let's use
+
+00:05:40.640 --> 00:05:44.800
+Claude Code to make a YouTube video 10
+
+00:05:42.960 --> 00:05:46.320
+times easier. Hey, quick break. I'm
+
+00:05:44.800 --> 00:05:48.200
+going to be doing a live training this
+
+00:05:46.320 --> 00:05:49.920
+week on how to start a YouTube channel
+
+00:05:48.200 --> 00:05:51.400
+step-by-step for beginners. This is
+
+00:05:49.920 --> 00:05:52.640
+going to be for people who want to start
+
+00:05:51.400 --> 00:05:54.440
+a channel, but they don't know what
+
+00:05:52.640 --> 00:05:55.800
+niche to pick, what videos to make, or
+
+00:05:54.440 --> 00:05:57.360
+how to actually get started the right
+
+00:05:55.800 --> 00:05:59.600
+way. And it's a completely free
+
+00:05:57.360 --> 00:06:02.000
+training, no strings attached. In fact,
+
+00:05:59.600 --> 00:06:03.840
+I'm giving away even more bonuses at the
+
+00:06:02.000 --> 00:06:05.440
+training. So, just as an example, I'm
+
+00:06:03.840 --> 00:06:07.000
+going to be giving away my niche
+
+00:06:05.440 --> 00:06:09.280
+validator. Um, this is going to be
+
+00:06:07.000 --> 00:06:11.320
+available both for ChatGPT as well as
+
+00:06:09.280 --> 00:06:12.960
+Claude, which is a super valuable piece
+
+00:06:11.320 --> 00:06:15.560
+of software where you can finally figure
+
+00:06:12.960 --> 00:06:17.120
+out what the best niche for you is. So,
+
+00:06:15.560 --> 00:06:18.120
+do not miss out on this training. Make
+
+00:06:17.120 --> 00:06:19.919
+sure you sign up for it down in the
+
+00:06:18.120 --> 00:06:21.800
+description and the pinned comment below
+
+00:06:19.919 --> 00:06:23.880
+because you only get it if you join the
+
+00:06:21.800 --> 00:06:25.560
+training. So, if you don't join now, you
+
+00:06:23.880 --> 00:06:27.480
+might miss it. But, that being said, in
+
+00:06:25.560 --> 00:06:29.040
+the workshop, you'll get to meet me and
+
+00:06:27.480 --> 00:06:30.160
+you'll get to ask me questions directly.
+
+00:06:29.040 --> 00:06:31.080
+So, I look forward to seeing you in
+
+00:06:30.160 --> 00:06:31.960
+there. So, click the link in the
+
+00:06:31.080 --> 00:06:33.480
+description and the pinned comment
+
+00:06:31.960 --> 00:06:34.680
+below, put it in your calendar, and if
+
+00:06:33.480 --> 00:06:36.520
+for whatever reason you missed out on it
+
+00:06:34.680 --> 00:06:38.240
+or you weren't able to attend, make sure
+
+00:06:36.520 --> 00:06:40.320
+you still click that link because we
+
+00:06:38.240 --> 00:06:41.760
+might be having workshops in the future
+
+00:06:40.320 --> 00:06:43.080
+as well, and you'll be the first to know
+
+00:06:41.760 --> 00:06:45.000
+about it. So, yeah, hope to see you
+
+00:06:43.080 --> 00:06:45.880
+there. And now back to your regularly
+
+00:06:45.000 --> 00:06:47.080
+scheduled content.
+
+00:06:45.880 --> 00:06:49.600
+>> Okay, so the first section of the
+
+00:06:47.080 --> 00:06:51.080
+production process is your niche. Now,
+
+00:06:49.600 --> 00:06:52.800
+if you already have a channel and you
+
+00:06:51.080 --> 00:06:54.200
+know exactly who to serve, what to talk
+
+00:06:52.800 --> 00:06:55.800
+about, and who's watching, then you can
+
+00:06:54.200 --> 00:06:57.240
+skip this section or you can still watch
+
+00:06:55.800 --> 00:06:58.560
+this section because honestly, even
+
+00:06:57.240 --> 00:07:00.240
+people that think they know what their
+
+00:06:58.560 --> 00:07:01.720
+niche is, they usually don't. But, if
+
+00:07:00.240 --> 00:07:02.840
+you don't have a channel yet or you have
+
+00:07:01.720 --> 00:07:04.160
+one and you've been throwing spaghetti
+
+00:07:02.840 --> 00:07:05.919
+at the wall, this is where it all
+
+00:07:04.160 --> 00:07:07.960
+starts, right? So, the niche is what
+
+00:07:05.919 --> 00:07:09.680
+makes or breaks a YouTube channel. And
+
+00:07:07.960 --> 00:07:10.919
+most creators pick the wrong niche and
+
+00:07:09.680 --> 00:07:12.600
+they don't even realize it. They work
+
+00:07:10.919 --> 00:07:14.560
+their face off for 10 years and they
+
+00:07:12.600 --> 00:07:15.880
+burn out at 47 subscribers because
+
+00:07:14.560 --> 00:07:18.200
+they're trying to be the next Mr. Beast
+
+00:07:15.880 --> 00:07:19.919
+in a category that pays $2 per 1,000
+
+00:07:18.200 --> 00:07:21.400
+views. But, Claude Code is going to fix
+
+00:07:19.919 --> 00:07:23.120
+that for you. Now, I'm going to use my
+
+00:07:21.400 --> 00:07:24.760
+brother Zach as an example here because
+
+00:07:23.120 --> 00:07:26.120
+that's literally how we figured out his
+
+00:07:24.760 --> 00:07:27.680
+niche when we built his channel from
+
+00:07:26.120 --> 00:07:28.800
+scratch. Okay, so for Zach, I'm just
+
+00:07:27.680 --> 00:07:30.560
+going to say, "I've worked in the trades
+
+00:07:28.800 --> 00:07:32.160
+for almost 30 years now and I want to
+
+00:07:30.560 --> 00:07:33.919
+make a YouTube channel." And if it's the
+
+00:07:32.160 --> 00:07:35.919
+first time you're using Claude, uh, it's
+
+00:07:33.919 --> 00:07:37.440
+going to ask you to allow some things,
+
+00:07:35.919 --> 00:07:39.400
+so just go ahead and click allow. Now,
+
+00:07:37.440 --> 00:07:41.360
+Claude Code is going to do a few things
+
+00:07:39.400 --> 00:07:42.880
+at once. First, it's going to ask you
+
+00:07:41.360 --> 00:07:44.680
+about your background, then about your
+
+00:07:42.880 --> 00:07:46.560
+audience, then your goals. Now, notice
+
+00:07:44.680 --> 00:07:48.200
+here I have this skill. This is
+
+00:07:46.560 --> 00:07:50.480
+something that I created inside of
+
+00:07:48.200 --> 00:07:52.560
+Claude code. Now, this is not needed,
+
+00:07:50.480 --> 00:07:54.240
+but this will make your Claude code way
+
+00:07:52.560 --> 00:07:55.520
+better at its job than not having it.
+
+00:07:54.240 --> 00:07:57.280
+Because if you install the skill
+
+00:07:55.520 --> 00:07:58.800
+beforehand, your Claude code will get
+
+00:07:57.280 --> 00:08:00.400
+the knowledge right away, then it
+
+00:07:58.800 --> 00:08:02.040
+doesn't have to learn from scratch. So,
+
+00:08:00.400 --> 00:08:03.840
+the way to install these skills is just
+
+00:08:02.040 --> 00:08:05.360
+to go to customize. Once you are here,
+
+00:08:03.840 --> 00:08:07.280
+just click on skills, and I already
+
+00:08:05.360 --> 00:08:09.000
+created the skills because I use it for
+
+00:08:07.280 --> 00:08:09.800
+my content creation system. Now, a lot
+
+00:08:09.000 --> 00:08:11.160
+of the skills that we're going to be
+
+00:08:09.800 --> 00:08:13.440
+talking about in this video will
+
+00:08:11.160 --> 00:08:14.360
+actually be available completely free,
+
+00:08:13.440 --> 00:08:15.640
+and you can click the link in the
+
+00:08:14.360 --> 00:08:17.080
+description and the pin comment below to
+
+00:08:15.640 --> 00:08:18.280
+get them. Now, the reason we do that is
+
+00:08:17.080 --> 00:08:20.240
+picking a niche is a little bit more
+
+00:08:18.280 --> 00:08:21.760
+involved than just, "Hey, download this
+
+00:08:20.240 --> 00:08:23.520
+AI." There's a human element to it, and
+
+00:08:21.760 --> 00:08:25.200
+that's all about what my live training
+
+00:08:23.520 --> 00:08:26.520
+is about, right? So, definitely attend
+
+00:08:25.200 --> 00:08:27.560
+the live training by clicking the other
+
+00:08:26.520 --> 00:08:29.160
+link in the description and the pin
+
+00:08:27.560 --> 00:08:30.640
+comment below, and you can also ask me
+
+00:08:29.160 --> 00:08:31.800
+questions live on Zoom, and I look
+
+00:08:30.640 --> 00:08:33.440
+forward to seeing you there. But yeah,
+
+00:08:31.800 --> 00:08:35.400
+click on the plus icon to add a new
+
+00:08:33.440 --> 00:08:37.200
+skill, and you've got three options in
+
+00:08:35.400 --> 00:08:39.000
+making them. First is you create it with
+
+00:08:37.200 --> 00:08:41.039
+Claude. You basically just ask Claude to
+
+00:08:39.000 --> 00:08:42.640
+make it for you. Second is you write the
+
+00:08:41.039 --> 00:08:44.200
+skill instructions. This is basically
+
+00:08:42.640 --> 00:08:45.839
+where you just type in the skill that
+
+00:08:44.200 --> 00:08:47.920
+you want Claude to have. And then third
+
+00:08:45.839 --> 00:08:50.320
+is upload a skill, and this is where you
+
+00:08:47.920 --> 00:08:52.240
+upload a markdown file. Uh just as an
+
+00:08:50.320 --> 00:08:53.480
+example, the niche validator skill that
+
+00:08:52.240 --> 00:08:55.320
+I will be giving away on the live
+
+00:08:53.480 --> 00:08:56.320
+training, that is a markdown file, and
+
+00:08:55.320 --> 00:08:57.640
+that's the one that you would upload
+
+00:08:56.320 --> 00:08:59.640
+here. And then you want to answer the
+
+00:08:57.640 --> 00:09:01.880
+questions honestly, right? And the more
+
+00:08:59.640 --> 00:09:03.480
+specific you are, the better the output.
+
+00:09:01.880 --> 00:09:05.440
+So, I'm just going to paste electrical,
+
+00:09:03.480 --> 00:09:06.480
+plumbing, and HVAC for which trade. So,
+
+00:09:05.440 --> 00:09:07.680
+you can see here that it's asking me
+
+00:09:06.480 --> 00:09:09.240
+some questions, and you really want to
+
+00:09:07.680 --> 00:09:10.800
+answer the questions honestly. And the
+
+00:09:09.240 --> 00:09:12.560
+more specific you are, the better the
+
+00:09:10.800 --> 00:09:14.520
+output. Now, one of the things that I
+
+00:09:12.560 --> 00:09:16.640
+like to do is I actually just prefer to
+
+00:09:14.520 --> 00:09:19.000
+talk to Claude. So, I will actually just
+
+00:09:16.640 --> 00:09:20.720
+click the voice command and talk to it.
+
+00:09:19.000 --> 00:09:22.080
+But just for purposes of this video, I'm
+
+00:09:20.720 --> 00:09:23.400
+going to go ahead and type things in.
+
+00:09:22.080 --> 00:09:25.520
+So, I'm just going to paste electrical,
+
+00:09:23.400 --> 00:09:26.560
+plumbing, and HVAC for which trade, then
+
+00:09:25.520 --> 00:09:28.320
+the people watching should be
+
+00:09:26.560 --> 00:09:30.200
+apprentices learning the trade, and I
+
+00:09:28.320 --> 00:09:32.160
+want him to sell courses on top of
+
+00:09:30.200 --> 00:09:33.720
+AdSense money. Now, typically I would
+
+00:09:32.160 --> 00:09:36.000
+give more information, but I'm actually
+
+00:09:33.720 --> 00:09:37.800
+keeping this really simple just to show
+
+00:09:36.000 --> 00:09:39.640
+you how powerful it is even with super
+
+00:09:37.800 --> 00:09:40.880
+basic responses. But typically, I would
+
+00:09:39.640 --> 00:09:42.360
+recommend that you actually give it more
+
+00:09:40.880 --> 00:09:43.600
+information and kind of go back and
+
+00:09:42.360 --> 00:09:45.200
+forth and let it interview you. But
+
+00:09:43.600 --> 00:09:47.200
+yeah, go ahead and press enter and while
+
+00:09:45.200 --> 00:09:49.400
+Claude code is thinking, let me explain
+
+00:09:47.200 --> 00:09:51.200
+why this works. Every winning YouTube
+
+00:09:49.400 --> 00:09:53.000
+channel follows this exact formula,
+
+00:09:51.200 --> 00:09:55.000
+right? Who's your viewer? What's their
+
+00:09:53.000 --> 00:09:56.520
+problem? How do you solve it? Uh and how
+
+00:09:55.000 --> 00:09:57.760
+does that actually turn into revenue?
+
+00:09:56.520 --> 00:09:59.440
+And if you can answer those four
+
+00:09:57.760 --> 00:10:00.960
+questions in one sentence, you've got a
+
+00:09:59.440 --> 00:10:02.440
+niche. And that's exactly what Claude
+
+00:10:00.960 --> 00:10:03.920
+code is doing for you right now. It's
+
+00:10:02.440 --> 00:10:05.920
+not just throwing random ideas at a
+
+00:10:03.920 --> 00:10:07.960
+wall. It's running my actual niche
+
+00:10:05.920 --> 00:10:09.560
+framework, right? The one that I teach
+
+00:10:07.960 --> 00:10:11.240
+in my live trainings this week. The one
+
+00:10:09.560 --> 00:10:12.920
+that I used to scale my brother Zach's
+
+00:10:11.240 --> 00:10:14.520
+channel from zero. Okay, so it's asking
+
+00:10:12.920 --> 00:10:16.360
+me more questions to make sure that it's
+
+00:10:14.520 --> 00:10:17.680
+going to give me the right niche I need
+
+00:10:16.360 --> 00:10:19.200
+for my brother's channel. So, I'm just
+
+00:10:17.680 --> 00:10:22.680
+going to answer this question here. All
+
+00:10:19.200 --> 00:10:27.280
+right, we've got HVAC. We've got yes.
+
+00:10:22.680 --> 00:10:31.240
+We've got yes. And uh we've got US. Uh
+
+00:10:27.280 --> 00:10:34.000
+we've got basically my audience is still
+
+00:10:31.240 --> 00:10:36.320
+deciding if they want trades or they
+
+00:10:34.000 --> 00:10:37.880
+want to go to school. Uh number six, I'm
+
+00:10:36.320 --> 00:10:39.760
+going to say no. It's something that
+
+00:10:37.880 --> 00:10:41.920
+would help beginners know what trades is
+
+00:10:39.760 --> 00:10:43.880
+about. Um number seven, I'm going to say
+
+00:10:41.920 --> 00:10:45.360
+five hours a week. Number eight, I'm
+
+00:10:43.880 --> 00:10:47.080
+going to say yes, I'm currently the
+
+00:10:45.360 --> 00:10:48.800
+owner of the business. Then I'm just
+
+00:10:47.080 --> 00:10:51.200
+going to go ahead and press enter and
+
+00:10:48.800 --> 00:10:53.120
+let it cook. So, real quick, let's talk
+
+00:10:51.200 --> 00:10:54.720
+about niches, right? Because most people
+
+00:10:53.120 --> 00:10:56.080
+get this part completely wrong. When I
+
+00:10:54.720 --> 00:10:57.839
+ask someone what their niche is, they're
+
+00:10:56.080 --> 00:11:00.000
+going to say stuff like accounting or
+
+00:10:57.839 --> 00:11:01.320
+fitness or money. And look, I can't even
+
+00:11:00.000 --> 00:11:03.320
+blame you for that because that's how
+
+00:11:01.320 --> 00:11:05.000
+99% of these YouTube gurus tell you to
+
+00:11:03.320 --> 00:11:06.880
+think about it. But that is not a niche.
+
+00:11:05.000 --> 00:11:08.440
+That is a topic. Now, here's how I
+
+00:11:06.880 --> 00:11:10.080
+actually look at it. Whenever someone in
+
+00:11:08.440 --> 00:11:11.720
+our community asks me this, I have them
+
+00:11:10.080 --> 00:11:13.520
+answer two simple questions. Who do you
+
+00:11:11.720 --> 00:11:15.280
+help and what do you help them with,
+
+00:11:13.520 --> 00:11:17.839
+right? So, it sounds like this. I help X
+
+00:11:15.280 --> 00:11:19.240
+do Y or I help X overcome Y. Or if you
+
+00:11:17.839 --> 00:11:21.360
+want to get fancy, you could say I help
+
+00:11:19.240 --> 00:11:22.800
+X overcome Y by doing Z. But here's the
+
+00:11:21.360 --> 00:11:25.120
+thing, don't even worry about the Z part
+
+00:11:22.800 --> 00:11:27.400
+right now. Just nail the X and the Y and
+
+00:11:25.120 --> 00:11:29.800
+you're already ahead of 99.9% of other
+
+00:11:27.400 --> 00:11:32.320
+creators. For Zach, Claude gave us four
+
+00:11:29.800 --> 00:11:34.360
+options. Option one, uh the HVAC curious
+
+00:11:32.320 --> 00:11:36.160
+Puddle. This is basically helping young
+
+00:11:34.360 --> 00:11:38.280
+people figure out if HVAC is the right
+
+00:11:36.160 --> 00:11:40.200
+trade for them. Option two, the Trades
+
+00:11:38.280 --> 00:11:42.280
+versus College Decision Channel. This is
+
+00:11:40.200 --> 00:11:44.240
+basically helping young people decide if
+
+00:11:42.280 --> 00:11:46.120
+trades are right for them. Option three
+
+00:11:44.240 --> 00:11:47.760
+is the Parents Channel. This is where
+
+00:11:46.120 --> 00:11:49.120
+you help parents guide their kids into a
+
+00:11:47.760 --> 00:11:50.880
+career in the trades instead of a
+
+00:11:49.120 --> 00:11:52.720
+hundred grand college mistake. And
+
+00:11:50.880 --> 00:11:54.040
+option four is the Employee to Business
+
+00:11:52.720 --> 00:11:56.400
+Owner Channel. This is where you help
+
+00:11:54.040 --> 00:11:58.240
+HVAC techs go from employee to business
+
+00:11:56.400 --> 00:11:59.640
+owner. So, same guy, same background,
+
+00:11:58.240 --> 00:12:01.800
+and four different YouTube channel
+
+00:11:59.640 --> 00:12:03.520
+options for his niche. And each one with
+
+00:12:01.800 --> 00:12:04.800
+a different audience. And each one with
+
+00:12:03.520 --> 00:12:07.040
+a different way to make money. Now, for
+
+00:12:04.800 --> 00:12:08.680
+Zach, we went ahead and we picked option
+
+00:12:07.040 --> 00:12:10.280
+two. I help young people and career
+
+00:12:08.680 --> 00:12:12.080
+switchers decide if the trades are right
+
+00:12:10.280 --> 00:12:13.920
+for them and to pick the right one. So,
+
+00:12:12.080 --> 00:12:15.560
+there it is. That is the niche that we
+
+00:12:13.920 --> 00:12:17.760
+used for Zach's channel. Now, let's go
+
+00:12:15.560 --> 00:12:19.200
+to stage two, which is the Idea Vault.
+
+00:12:17.760 --> 00:12:21.320
+So, now we have the niche. The next
+
+00:12:19.200 --> 00:12:23.080
+stage is figuring out what videos to
+
+00:12:21.320 --> 00:12:24.840
+actually make. And this is where most
+
+00:12:23.080 --> 00:12:26.760
+creators get stuck. They sit down at
+
+00:12:24.840 --> 00:12:28.440
+their laptop, they open up a Google Doc,
+
+00:12:26.760 --> 00:12:30.120
+and they stare at it for two hours, and
+
+00:12:28.440 --> 00:12:31.600
+then they write down one terrible idea
+
+00:12:30.120 --> 00:12:33.160
+like five reasons to start a YouTube
+
+00:12:31.600 --> 00:12:34.720
+channel or something like that. And then
+
+00:12:33.160 --> 00:12:36.440
+they go and take a nap. And I am not
+
+00:12:34.720 --> 00:12:37.920
+making this up. I see it all the time.
+
+00:12:36.440 --> 00:12:39.880
+I've done this myself as well. So, you
+
+00:12:37.920 --> 00:12:42.320
+should never be guessing video ideas.
+
+00:12:39.880 --> 00:12:43.800
+The right ideas already exist out on the
+
+00:12:42.320 --> 00:12:45.440
+internet. And other creators in your
+
+00:12:43.800 --> 00:12:47.320
+niche are already making them. They're
+
+00:12:45.440 --> 00:12:48.880
+already being watched millions of times,
+
+00:12:47.320 --> 00:12:50.839
+and your job is to find the ones that
+
+00:12:48.880 --> 00:12:52.920
+are proven to work and then make your
+
+00:12:50.839 --> 00:12:55.280
+version, okay? And that is exactly what
+
+00:12:52.920 --> 00:12:56.960
+Claude Code does next. So, since I have
+
+00:12:55.280 --> 00:12:58.839
+the skill for finding a video idea, and
+
+00:12:56.960 --> 00:13:01.160
+again, just click below to get the skill
+
+00:12:58.839 --> 00:13:03.320
+for that, I'm just going to type {slash}
+
+00:13:01.160 --> 00:13:05.360
+choose the Video Idea Finder and paste
+
+00:13:03.320 --> 00:13:07.200
+in Zach's niche hypothesis statement and
+
+00:13:05.360 --> 00:13:09.160
+then hit enter. And what Claude Code is
+
+00:13:07.200 --> 00:13:11.120
+doing right now is it's looking at
+
+00:13:09.160 --> 00:13:12.600
+thousands of YouTube videos in your
+
+00:13:11.120 --> 00:13:14.400
+niche. And it's finding the ones that
+
+00:13:12.600 --> 00:13:15.760
+blew up, the ones that did 10x more
+
+00:13:14.400 --> 00:13:17.000
+views than the channel's average, and
+
+00:13:15.760 --> 00:13:18.560
+the proven winners. And then it gives
+
+00:13:17.000 --> 00:13:20.400
+you back 10 variations that you could
+
+00:13:18.560 --> 00:13:22.200
+make. So, how do we actually find these
+
+00:13:20.400 --> 00:13:23.920
+videos? Well, it's simple. We look for
+
+00:13:22.200 --> 00:13:25.800
+videos that pulled a hundred thousand
+
+00:13:23.920 --> 00:13:27.400
+views or more from a channel with under
+
+00:13:25.800 --> 00:13:30.240
+a hundred thousand subscribers. And the
+
+00:13:27.400 --> 00:13:32.120
+rule I use is a 5:1 ratio of views to
+
+00:13:30.240 --> 00:13:34.160
+subs, at least, right? So, at least a
+
+00:13:32.120 --> 00:13:36.680
+5:1 ratio. So, watch this. If a video
+
+00:13:34.160 --> 00:13:38.880
+has 100,000 views, that channel better
+
+00:13:36.680 --> 00:13:40.440
+have no more than 20,000 subscribers.
+
+00:13:38.880 --> 00:13:41.760
+And if a channel does have 100,000
+
+00:13:40.440 --> 00:13:43.880
+subscribers, then the video needs at
+
+00:13:41.760 --> 00:13:46.000
+least 500,000 views. And if it has more
+
+00:13:43.880 --> 00:13:47.760
+than 100,000 subscribers, just don't use
+
+00:13:46.000 --> 00:13:49.920
+it, right? Because here's the thing,
+
+00:13:47.760 --> 00:13:52.240
+when a tiny channel pulls massive views
+
+00:13:49.920 --> 00:13:54.360
+on a video, that is not luck, that's the
+
+00:13:52.240 --> 00:13:55.840
+idea doing the heavy lifting. And that's
+
+00:13:54.360 --> 00:13:58.120
+the kind of idea that you want to go
+
+00:13:55.840 --> 00:14:00.440
+find. Now, for Zach, we got back 10
+
+00:13:58.120 --> 00:14:02.320
+really good options. Now, I do like the
+
+00:14:00.440 --> 00:14:03.840
+second one, highest paying trades jobs
+
+00:14:02.320 --> 00:14:05.680
+that no one's talking about. So, I'll
+
+00:14:03.840 --> 00:14:07.680
+just paste this in, and look at these,
+
+00:14:05.680 --> 00:14:10.040
+it gave me eight really good trades jobs
+
+00:14:07.680 --> 00:14:11.680
+that are earning between 100 to 200k.
+
+00:14:10.040 --> 00:14:12.960
+So, I'm locking it in, and once that
+
+00:14:11.680 --> 00:14:14.760
+Muse video is locked in, it tells me
+
+00:14:12.960 --> 00:14:16.920
+what to do next. Now, by the way, the
+
+00:14:14.760 --> 00:14:18.320
+actual scripting part is coming next,
+
+00:14:16.920 --> 00:14:20.360
+that's just the very first part. But,
+
+00:14:18.320 --> 00:14:22.200
+stage three is what I like to call the
+
+00:14:20.360 --> 00:14:23.920
+holy trifecta. So, now we've got our
+
+00:14:22.200 --> 00:14:25.080
+niche, and we've got our Muse video.
+
+00:14:23.920 --> 00:14:27.040
+But, now you need to actually do the
+
+00:14:25.080 --> 00:14:28.480
+three things that make that winning idea
+
+00:14:27.040 --> 00:14:29.839
+work. Because you could have the best
+
+00:14:28.480 --> 00:14:31.960
+product in the world, but if your
+
+00:14:29.839 --> 00:14:33.520
+marketing is really bad, no one's ever
+
+00:14:31.960 --> 00:14:34.680
+going to try your product, and no one's
+
+00:14:33.520 --> 00:14:36.240
+ever going to know it's the best product
+
+00:14:34.680 --> 00:14:37.400
+in the world, right? But, the three
+
+00:14:36.240 --> 00:14:39.600
+things that are actually going to
+
+00:14:37.400 --> 00:14:41.240
+communicate the idea of the video, that
+
+00:14:39.600 --> 00:14:43.720
+winning idea, and communicate the value
+
+00:14:41.240 --> 00:14:45.560
+of that idea, are your title, your
+
+00:14:43.720 --> 00:14:47.800
+thumbnail, and your intro. So, I call
+
+00:14:45.560 --> 00:14:49.360
+this the holy trifecta. So, again, you
+
+00:14:47.800 --> 00:14:51.160
+get the skill and all the information
+
+00:14:49.360 --> 00:14:52.160
+for that, uh, in the link below, and
+
+00:14:51.160 --> 00:14:53.600
+you're going to pull up that holy
+
+00:14:52.160 --> 00:14:55.120
+trifecta skill. And then I'm going to
+
+00:14:53.600 --> 00:14:56.400
+paste the title of the video we found,
+
+00:14:55.120 --> 00:14:58.600
+and we are going to wait for it to
+
+00:14:56.400 --> 00:15:00.080
+analyze the video idea. Now, while
+
+00:14:58.600 --> 00:15:01.240
+waiting for CloudGo to analyze this, I'm
+
+00:15:00.080 --> 00:15:03.080
+going to tell you the most important
+
+00:15:01.240 --> 00:15:04.920
+part about the holy trifecta. So, the
+
+00:15:03.080 --> 00:15:06.880
+title, the thumbnail, and intro, it's
+
+00:15:04.920 --> 00:15:10.120
+actually more important than they are
+
+00:15:06.880 --> 00:15:12.080
+congruent, aka they tell the same story,
+
+00:15:10.120 --> 00:15:14.240
+or they all point in the same direction,
+
+00:15:12.080 --> 00:15:15.880
+than how good they are individually. So,
+
+00:15:14.240 --> 00:15:17.600
+your thumbnail should say approximately
+
+00:15:15.880 --> 00:15:19.440
+the same idea as your title, and your
+
+00:15:17.600 --> 00:15:21.160
+title should match the first 30 seconds
+
+00:15:19.440 --> 00:15:22.800
+of your video, which is your intro.
+
+00:15:21.160 --> 00:15:23.880
+Another way of saying that is the person
+
+00:15:22.800 --> 00:15:24.800
+is going to look at your thumbnail
+
+00:15:23.880 --> 00:15:26.640
+first, they're going to make the
+
+00:15:24.800 --> 00:15:28.040
+decision based on that if they're going
+
+00:15:26.640 --> 00:15:29.440
+to look at the title, then based on the
+
+00:15:28.040 --> 00:15:30.560
+title, they're going to click the video,
+
+00:15:29.440 --> 00:15:32.120
+and from the intro, they're going to
+
+00:15:30.560 --> 00:15:33.080
+make the decision on whether or not
+
+00:15:32.120 --> 00:15:35.080
+they're going to watch the rest of the
+
+00:15:33.080 --> 00:15:37.040
+video. So, when all three of these line
+
+00:15:35.080 --> 00:15:38.720
+up, that is when the video has a higher
+
+00:15:37.040 --> 00:15:40.560
+chance of taking off. So, think of it
+
+00:15:38.720 --> 00:15:42.480
+like ordering food at a restaurant. Your
+
+00:15:40.560 --> 00:15:44.840
+thumbnail is the photo of the dish on
+
+00:15:42.480 --> 00:15:47.320
+the menu. Your title is the name of that
+
+00:15:44.840 --> 00:15:49.080
+dish, and your intro is the first bite.
+
+00:15:47.320 --> 00:15:51.040
+So, if the menu shows a big juicy
+
+00:15:49.080 --> 00:15:53.000
+cheeseburger, the title says best
+
+00:15:51.040 --> 00:15:55.440
+cheeseburger in town, and the first bite
+
+00:15:53.000 --> 00:15:56.840
+actually tastes amazing, you are sold.
+
+00:15:55.440 --> 00:15:58.600
+You keep eating, right? But, if the
+
+00:15:56.840 --> 00:16:00.320
+photo shows a burger, the title says
+
+00:15:58.600 --> 00:16:02.480
+something else like pizza, and then the
+
+00:16:00.320 --> 00:16:04.920
+first bite tastes like cold fish, you
+
+00:16:02.480 --> 00:16:06.480
+feel lied to, right? You push the plate
+
+00:16:04.920 --> 00:16:08.000
+away, and you walk out. And that's
+
+00:16:06.480 --> 00:16:09.640
+exactly what happens on YouTube. The
+
+00:16:08.000 --> 00:16:11.480
+thumbnail makes the promise, the title
+
+00:16:09.640 --> 00:16:13.600
+backs it up, and the intro has to
+
+00:16:11.480 --> 00:16:15.240
+deliver, right? All three need to tell
+
+00:16:13.600 --> 00:16:17.280
+the same story, or people click off.
+
+00:16:15.240 --> 00:16:18.960
+This is one of the most common mistakes
+
+00:16:17.280 --> 00:16:20.760
+I see people make. I cannot tell you how
+
+00:16:18.960 --> 00:16:22.080
+common this is. And using this tool is
+
+00:16:20.760 --> 00:16:23.320
+going to make sure that all three of
+
+00:16:22.080 --> 00:16:24.440
+them are congruent. And it's going to
+
+00:16:23.320 --> 00:16:26.760
+make sure your thumbnail, title, and
+
+00:16:24.440 --> 00:16:28.040
+intro are also good, right? Now, at this
+
+00:16:26.760 --> 00:16:30.080
+point, it's probably just going to come
+
+00:16:28.040 --> 00:16:31.200
+up with your thumbnail idea, right? We
+
+00:16:30.080 --> 00:16:32.680
+don't want to take all the time to
+
+00:16:31.200 --> 00:16:34.000
+actually make the full thumbnail out of
+
+00:16:32.680 --> 00:16:35.480
+this point. It's just going to come up
+
+00:16:34.000 --> 00:16:36.760
+with your thumbnail idea, and then it's
+
+00:16:35.480 --> 00:16:38.880
+pretty easy to make the thumbnail with
+
+00:16:36.760 --> 00:16:40.240
+something like Nano Banana. ChatGPT is
+
+00:16:38.880 --> 00:16:42.560
+getting really good with thumbnails now.
+
+00:16:40.240 --> 00:16:43.760
+Pixels is really good. One of 10.com is
+
+00:16:42.560 --> 00:16:44.800
+really good. Or you can just use
+
+00:16:43.760 --> 00:16:46.080
+thumbnail templates, that's what we
+
+00:16:44.800 --> 00:16:47.800
+typically give to our clients, and then
+
+00:16:46.080 --> 00:16:49.640
+you can use something like Canva to edit
+
+00:16:47.800 --> 00:16:51.600
+the thumbnail. So, here it gave me 10
+
+00:16:49.640 --> 00:16:53.320
+title options. It gave me the thumbnail
+
+00:16:51.600 --> 00:16:54.839
+instructions with a mock-up, basically
+
+00:16:53.320 --> 00:16:56.800
+telling what expression is on the
+
+00:16:54.839 --> 00:16:58.480
+thumbnail, the text and stuff like that,
+
+00:16:56.800 --> 00:17:00.080
+and it gave me intro options to choose
+
+00:16:58.480 --> 00:17:02.360
+from as well. Now, I want to be honest
+
+00:17:00.080 --> 00:17:04.319
+with you, Claude Code is incredible at
+
+00:17:02.360 --> 00:17:06.400
+the title and the intro. The titles it
+
+00:17:04.319 --> 00:17:08.120
+spits out are usually 90% of the way
+
+00:17:06.400 --> 00:17:10.240
+there, and the intros might need one or
+
+00:17:08.120 --> 00:17:11.760
+two tweaks max. And honestly, a lot of
+
+00:17:10.240 --> 00:17:14.240
+the time the titles and the intros are
+
+00:17:11.760 --> 00:17:16.319
+better than professional copywriters,
+
+00:17:14.240 --> 00:17:17.600
+like professional copywriters, okay?
+
+00:17:16.319 --> 00:17:20.079
+They're really, really good. But the
+
+00:17:17.600 --> 00:17:21.600
+thumbnail, Claude Code can describe a
+
+00:17:20.079 --> 00:17:23.680
+great thumbnail. It can tell you the
+
+00:17:21.600 --> 00:17:25.120
+face, the text, the colors, the layouts,
+
+00:17:23.680 --> 00:17:26.640
+but it cannot perfectly create the
+
+00:17:25.120 --> 00:17:28.360
+thumbnail that you like, at least not
+
+00:17:26.640 --> 00:17:29.680
+for now. Maybe in the next few months or
+
+00:17:28.360 --> 00:17:31.040
+in the future it will be better. So,
+
+00:17:29.680 --> 00:17:32.640
+treat the thumbnail outlook like a
+
+00:17:31.040 --> 00:17:34.440
+creative brief, right? Take it to
+
+00:17:32.640 --> 00:17:36.440
+whoever's making your thumbnails or feed
+
+00:17:34.440 --> 00:17:38.200
+it into your design tool and have them
+
+00:17:36.440 --> 00:17:39.680
+execute on it. That said, what Claude
+
+00:17:38.200 --> 00:17:41.720
+Code gives you for the thumbnail brief
+
+00:17:39.680 --> 00:17:43.200
+is already better than what 95% of
+
+00:17:41.720 --> 00:17:44.640
+creators are doing on their own. And for
+
+00:17:43.200 --> 00:17:46.240
+Zach's video, we got the title locked
+
+00:17:44.640 --> 00:17:47.840
+in, we got the thumbnail concept locked
+
+00:17:46.240 --> 00:17:49.520
+in, we got the intro draft, and now we
+
+00:17:47.840 --> 00:17:50.880
+move on to the next page. Now, of
+
+00:17:49.520 --> 00:17:52.440
+course, I'm pretending to do this for
+
+00:17:50.880 --> 00:17:53.920
+Zach for the first time, but this is
+
+00:17:52.440 --> 00:17:55.320
+basically the process that we went
+
+00:17:53.920 --> 00:17:57.600
+through when we first started this
+
+00:17:55.320 --> 00:17:59.680
+channel. Now, stage four is the script
+
+00:17:57.600 --> 00:18:01.160
+engine. So, download that script skill.
+
+00:17:59.680 --> 00:18:02.800
+Uh we're going to type in {slash} script
+
+00:18:01.160 --> 00:18:05.200
+writer skill, and I'm just going to say
+
+00:18:02.800 --> 00:18:07.760
+create the script now and let Claude
+
+00:18:05.200 --> 00:18:09.560
+Code cook. Now, real talk, for a lot of
+
+00:18:07.760 --> 00:18:11.120
+creators, script writing used to be the
+
+00:18:09.560 --> 00:18:12.920
+bottleneck, and it's the thing that
+
+00:18:11.120 --> 00:18:14.640
+slowed everything down, right? You have
+
+00:18:12.920 --> 00:18:16.560
+your idea, you got your title, your
+
+00:18:14.640 --> 00:18:18.880
+thumbnail, and then you'd sit there for
+
+00:18:16.560 --> 00:18:19.920
+hours staring at a blank page. But, AI
+
+00:18:18.880 --> 00:18:21.720
+changed that completely, and
+
+00:18:19.920 --> 00:18:23.640
+specifically Claude changed that. And
+
+00:18:21.720 --> 00:18:25.160
+honestly, I think Claude is the best
+
+00:18:23.640 --> 00:18:26.560
+tool out there for writing scripts,
+
+00:18:25.160 --> 00:18:28.760
+hands down. And it's really just the
+
+00:18:26.560 --> 00:18:30.320
+best tool for uh copywriting and content
+
+00:18:28.760 --> 00:18:32.920
+creation in general. Now, our clients
+
+00:18:30.320 --> 00:18:34.080
+get access to custom script writing AIs,
+
+00:18:32.920 --> 00:18:35.320
+and this thing is on a whole 'nother
+
+00:18:34.080 --> 00:18:37.240
+level. But if you don't have that,
+
+00:18:35.320 --> 00:18:38.840
+almost every time I just let Claude
+
+00:18:37.240 --> 00:18:40.120
+write the script for me. So, again, we
+
+00:18:38.840 --> 00:18:41.440
+are going to give you a version of that
+
+00:18:40.120 --> 00:18:43.120
+where it's pretty good, and it's going
+
+00:18:41.440 --> 00:18:44.480
+to make it relatively easy to do. It's
+
+00:18:43.120 --> 00:18:45.720
+not the full thing that we give to our
+
+00:18:44.480 --> 00:18:47.960
+clients, of course, because that's a
+
+00:18:45.720 --> 00:18:49.480
+full system. It's not just one thing.
+
+00:18:47.960 --> 00:18:50.760
+But this is going to be really, really
+
+00:18:49.480 --> 00:18:52.040
+good. It's going to be better than just
+
+00:18:50.760 --> 00:18:53.760
+about anything else you've ever used
+
+00:18:52.040 --> 00:18:55.960
+before. And it's completely free, right?
+
+00:18:53.760 --> 00:18:57.400
+So, put that one in, and now Claude Code
+
+00:18:55.960 --> 00:18:59.040
+is going to ask you a few things. And
+
+00:18:57.400 --> 00:19:00.720
+for this demo, uh we just want one
+
+00:18:59.040 --> 00:19:02.240
+script for now, and I usually have my
+
+00:19:00.720 --> 00:19:03.880
+brother batch about three scripts at a
+
+00:19:02.240 --> 00:19:05.560
+time just to save time. But we're just
+
+00:19:03.880 --> 00:19:06.720
+going to do one this time. So, hit enter
+
+00:19:05.560 --> 00:19:08.560
+again, and you're going to see an
+
+00:19:06.720 --> 00:19:09.880
+outline first. And at this point, you
+
+00:19:08.560 --> 00:19:11.440
+have a couple different options. You can
+
+00:19:09.880 --> 00:19:13.760
+obviously just let it write the script
+
+00:19:11.440 --> 00:19:15.440
+for you altogether, or you can do what I
+
+00:19:13.760 --> 00:19:16.920
+like to call a yap session where you
+
+00:19:15.440 --> 00:19:18.320
+kind of just talk to it about what you
+
+00:19:16.920 --> 00:19:19.560
+want to see and just the general
+
+00:19:18.320 --> 00:19:21.680
+direction that you want to see from the
+
+00:19:19.560 --> 00:19:23.280
+script. And that usually helps both in
+
+00:19:21.680 --> 00:19:25.800
+terms of making it sound like you, but
+
+00:19:23.280 --> 00:19:27.800
+also in terms of you having unique takes
+
+00:19:25.800 --> 00:19:29.280
+and unique opinions that it can then put
+
+00:19:27.800 --> 00:19:30.440
+into your script. If you don't do that,
+
+00:19:29.280 --> 00:19:31.680
+chances are it's going to say some
+
+00:19:30.440 --> 00:19:33.160
+things in the script that you don't
+
+00:19:31.680 --> 00:19:34.080
+like, and that might annoy you. And then
+
+00:19:33.160 --> 00:19:35.640
+you're going to have to spend some time
+
+00:19:34.080 --> 00:19:37.120
+editing it, right? But at this point,
+
+00:19:35.640 --> 00:19:38.680
+we're going to do the full script, and
+
+00:19:37.120 --> 00:19:40.080
+this is going to be with my voice baked
+
+00:19:38.680 --> 00:19:42.280
+in. And these sections are going to be
+
+00:19:40.080 --> 00:19:44.320
+labeled, the editor notes are built in,
+
+00:19:42.280 --> 00:19:46.240
+the whole deal, right? And like I said,
+
+00:19:44.320 --> 00:19:48.200
+at this point what I typically do is I
+
+00:19:46.240 --> 00:19:50.000
+just talk to Claude, right? So you see
+
+00:19:48.200 --> 00:19:52.120
+this little microphone icon down here? I
+
+00:19:50.000 --> 00:19:54.160
+just press it and I talk. I call this a
+
+00:19:52.120 --> 00:19:56.120
+yap session. And Claude basically just
+
+00:19:54.160 --> 00:19:57.520
+starts asking me questions, what do I
+
+00:19:56.120 --> 00:19:59.400
+want the script to sound like, what my
+
+00:19:57.520 --> 00:20:00.640
+tone is, all that stuff, and it's
+
+00:19:59.400 --> 00:20:02.960
+basically just making sure that the
+
+00:20:00.640 --> 00:20:04.800
+script comes out sounding just like me
+
+00:20:02.960 --> 00:20:07.200
+and not like some robot. And honestly,
+
+00:20:04.800 --> 00:20:08.680
+talking is just faster. I'd rather say
+
+00:20:07.200 --> 00:20:10.480
+it out loud than sit there typing
+
+00:20:08.680 --> 00:20:12.560
+paragraph after paragraph. And it's just
+
+00:20:10.480 --> 00:20:14.840
+way easier for me to just brainstorm and
+
+00:20:12.560 --> 00:20:16.640
+talk using my voice. And it just feels
+
+00:20:14.840 --> 00:20:18.320
+so much better than typing. Typing is
+
+00:20:16.640 --> 00:20:20.440
+such a mechanical process, it's not
+
+00:20:18.320 --> 00:20:21.920
+really creative, whereas just talking is
+
+00:20:20.440 --> 00:20:23.520
+a pretty creative process, and it just
+
+00:20:21.920 --> 00:20:25.120
+feels way better. So, after you're done
+
+00:20:23.520 --> 00:20:27.080
+with that, press enter, and just like
+
+00:20:25.120 --> 00:20:28.600
+that, your script is done, ready to
+
+00:20:27.080 --> 00:20:29.960
+record. Now, of course, you can go over
+
+00:20:28.600 --> 00:20:31.200
+it, you can tell Claude what you like
+
+00:20:29.960 --> 00:20:33.040
+and what you don't like, and then it can
+
+00:20:31.200 --> 00:20:34.920
+just, you know, redo it and edit it, and
+
+00:20:33.040 --> 00:20:37.360
+that's completely fine. But stage five
+
+00:20:34.920 --> 00:20:39.360
+is the recording moment. So, the next
+
+00:20:37.360 --> 00:20:41.480
+thing you need to do is recording. So,
+
+00:20:39.360 --> 00:20:43.080
+this is the part where AI cannot really
+
+00:20:41.480 --> 00:20:44.760
+replace you, right? And I'm telling you
+
+00:20:43.080 --> 00:20:47.160
+right now that that is actually good
+
+00:20:44.760 --> 00:20:49.160
+news. You do not want AI to replace you.
+
+00:20:47.160 --> 00:20:51.440
+Because the reason people watch you on
+
+00:20:49.160 --> 00:20:52.920
+YouTube, it's not your script, it's not
+
+00:20:51.440 --> 00:20:54.960
+your editing, it's not your thumbnail,
+
+00:20:52.920 --> 00:20:56.720
+it's you, right? It's your face, your
+
+00:20:54.960 --> 00:20:58.600
+energy, your authority, the thing that
+
+00:20:56.720 --> 00:21:00.400
+they can't get from a textbook or a
+
+00:20:58.600 --> 00:21:02.400
+Wikipedia article. And people keep
+
+00:21:00.400 --> 00:21:04.400
+coming back because they trust you,
+
+00:21:02.400 --> 00:21:05.680
+specifically you. They relate to you.
+
+00:21:04.400 --> 00:21:07.160
+You know, human beings are social
+
+00:21:05.680 --> 00:21:09.160
+animals, and we relate to other human
+
+00:21:07.160 --> 00:21:10.520
+beings. So, when you sit down to record,
+
+00:21:09.160 --> 00:21:12.320
+you're doing the one thing on this
+
+00:21:10.520 --> 00:21:14.160
+entire planet that nobody else can
+
+00:21:12.320 --> 00:21:16.200
+replicate, which is you're being
+
+00:21:14.160 --> 00:21:17.720
+yourself. So, you do not want AI to be
+
+00:21:16.200 --> 00:21:19.560
+able to replicate you, right? So, think
+
+00:21:17.720 --> 00:21:21.400
+about a boxer for a second, right? He's
+
+00:21:19.560 --> 00:21:22.720
+got a whole team behind him. A coach
+
+00:21:21.400 --> 00:21:24.400
+drawing up the game plan, a
+
+00:21:22.720 --> 00:21:26.280
+nutritionist, a guy studying the
+
+00:21:24.400 --> 00:21:27.920
+opponent's every move, a corner man
+
+00:21:26.280 --> 00:21:29.920
+patching him up between rounds. But,
+
+00:21:27.920 --> 00:21:32.680
+when that bell rings, he walks into the
+
+00:21:29.920 --> 00:21:34.720
+ring alone. Nobody can throw punches for
+
+00:21:32.680 --> 00:21:36.560
+him. Nobody can take hits for him.
+
+00:21:34.720 --> 00:21:38.840
+Because the crowd didn't pay to watch
+
+00:21:36.560 --> 00:21:41.000
+the corner team, they paid to watch the
+
+00:21:38.840 --> 00:21:43.080
+fighter, the boxer. So, think about what
+
+00:21:41.000 --> 00:21:44.440
+that actually means for you. AI, that's
+
+00:21:43.080 --> 00:21:46.600
+like your corner. That's your whole
+
+00:21:44.440 --> 00:21:48.120
+team. It draws up the game plan. That's
+
+00:21:46.600 --> 00:21:49.960
+your idea and your research. It studies
+
+00:21:48.120 --> 00:21:51.760
+the competition. That's your Muse video.
+
+00:21:49.960 --> 00:21:53.080
+It preps every single thing behind the
+
+00:21:51.760 --> 00:21:54.960
+scenes so that you can show up ready to
+
+00:21:53.080 --> 00:21:56.760
+go, and you have the highest possible
+
+00:21:54.960 --> 00:21:58.600
+chances of success. But, here's the part
+
+00:21:56.760 --> 00:22:00.200
+that it can never touch, the fighter and
+
+00:21:58.600 --> 00:22:01.720
+the fight. You're the one who steps in
+
+00:22:00.200 --> 00:22:03.760
+that ring, the one who throws the
+
+00:22:01.720 --> 00:22:05.080
+punches, and the one who takes the hits.
+
+00:22:03.760 --> 00:22:07.360
+And you're the one who the crowd
+
+00:22:05.080 --> 00:22:08.840
+actually shows up to see. So, AI can do
+
+00:22:07.360 --> 00:22:10.400
+everything to get you ready. It can do
+
+00:22:08.840 --> 00:22:12.640
+everything to prepare you and give you
+
+00:22:10.400 --> 00:22:14.160
+the absolute highest chances of success.
+
+00:22:12.640 --> 00:22:15.800
+But, at the end of the day, you need to
+
+00:22:14.160 --> 00:22:17.760
+be the one recording the videos. And if
+
+00:22:15.800 --> 00:22:19.800
+any AI guru tells you otherwise, they
+
+00:22:17.760 --> 00:22:21.560
+are lying to you. And people who do try
+
+00:22:19.800 --> 00:22:23.160
+to like clone themselves and use their
+
+00:22:21.560 --> 00:22:25.280
+AI clone and have that be the whole
+
+00:22:23.160 --> 00:22:26.320
+video, well, they're getting demonetized
+
+00:22:25.280 --> 00:22:28.320
+left and right and getting their
+
+00:22:26.320 --> 00:22:30.000
+channels deleted. YouTube is not messing
+
+00:22:28.320 --> 00:22:32.120
+around, and I don't recommend doing it
+
+00:22:30.000 --> 00:22:34.160
+for 99% of people. I just recommend
+
+00:22:32.120 --> 00:22:36.280
+recording the videos yourself, just like
+
+00:22:34.160 --> 00:22:37.920
+I'm doing right now. All right. Next is
+
+00:22:36.280 --> 00:22:39.520
+the editing stage. So, I'm going to say
+
+00:22:37.920 --> 00:22:41.360
+something here that might surprise you.
+
+00:22:39.520 --> 00:22:43.520
+A lot of people expect me to either say
+
+00:22:41.360 --> 00:22:45.320
+let AI edit the whole thing for you or
+
+00:22:43.520 --> 00:22:47.000
+never touch an AI editing tool ever. And
+
+00:22:45.320 --> 00:22:48.240
+the truth is, it's right in the middle.
+
+00:22:47.000 --> 00:22:50.680
+Here's the one rule that you cannot
+
+00:22:48.240 --> 00:22:52.160
+break. Never let AI do the entire edit
+
+00:22:50.680 --> 00:22:53.840
+for you. And I'm dead serious about it.
+
+00:22:52.160 --> 00:22:55.440
+If you let it auto cut, auto caption,
+
+00:22:53.840 --> 00:22:57.280
+auto everything with zero human touch,
+
+00:22:55.440 --> 00:22:59.480
+it comes out looking like slop,
+
+00:22:57.280 --> 00:23:01.080
+cookie-cutter cuts, weird timing, and
+
+00:22:59.480 --> 00:23:03.040
+people are going to get that uncanny
+
+00:23:01.080 --> 00:23:05.400
+valley feeling where something just
+
+00:23:03.040 --> 00:23:06.640
+feels off, right? The viewers can feel
+
+00:23:05.400 --> 00:23:08.320
+it. And trust me, they can always tell,
+
+00:23:06.640 --> 00:23:10.560
+right? I know you can tell. And even if
+
+00:23:08.320 --> 00:23:12.600
+hypothetically you do find a particular
+
+00:23:10.560 --> 00:23:14.720
+style where it can perfectly edit your
+
+00:23:12.600 --> 00:23:16.960
+videos, and it can do it all on its own,
+
+00:23:14.720 --> 00:23:19.520
+the moment that something can be fully
+
+00:23:16.960 --> 00:23:21.400
+automated, it loses the majority of its
+
+00:23:19.520 --> 00:23:23.160
+value, right? That is just a fact of
+
+00:23:21.400 --> 00:23:24.440
+life. If you can fully automate
+
+00:23:23.160 --> 00:23:25.960
+something, it's going to lose the
+
+00:23:24.440 --> 00:23:27.480
+majority of its value. And so, if
+
+00:23:25.960 --> 00:23:29.200
+there's ever a format, for instance,
+
+00:23:27.480 --> 00:23:30.800
+that I'm doing and somebody else figures
+
+00:23:29.200 --> 00:23:32.240
+out how to fully automate that format
+
+00:23:30.800 --> 00:23:34.160
+with AI, I'm going to stop making
+
+00:23:32.240 --> 00:23:35.760
+content in that format immediately cuz I
+
+00:23:34.160 --> 00:23:37.320
+know that it's not going to work very
+
+00:23:35.760 --> 00:23:38.800
+quickly. Now, if you really want to know
+
+00:23:37.320 --> 00:23:40.760
+how to use AI to the best of its
+
+00:23:38.800 --> 00:23:42.400
+ability, and this is realistic, right?
+
+00:23:40.760 --> 00:23:44.000
+This isn't some BS. This is actually
+
+00:23:42.400 --> 00:23:46.120
+realistic. Think of it like an airplane,
+
+00:23:44.000 --> 00:23:47.960
+right? Every modern plane has autopilot.
+
+00:23:46.120 --> 00:23:49.840
+And autopilot is great. It flies the
+
+00:23:47.960 --> 00:23:51.600
+long, boring stretch in the middle so
+
+00:23:49.840 --> 00:23:53.720
+that the pilot isn't white-knuckling the
+
+00:23:51.600 --> 00:23:55.720
+controls for 6 to 12 hours straight. But
+
+00:23:53.720 --> 00:23:58.560
+there's still a pilot sitting in that
+
+00:23:55.720 --> 00:24:00.240
+cockpit for takeoff and for landing and
+
+00:23:58.560 --> 00:24:02.120
+just in case something goes wrong
+
+00:24:00.240 --> 00:24:04.360
+autopilot doesn't work. Because would
+
+00:24:02.120 --> 00:24:06.520
+you ever step onto a plane that had
+
+00:24:04.360 --> 00:24:08.080
+autopilot and no pilot? I know I
+
+00:24:06.520 --> 00:24:10.040
+wouldn't. And I mean, just look at these
+
+00:24:08.080 --> 00:24:11.600
+right here. Channel after channel
+
+00:24:10.040 --> 00:24:12.840
+getting terminated. And a lot of these
+
+00:24:11.600 --> 00:24:15.200
+channels probably listened to these
+
+00:24:12.840 --> 00:24:17.080
+goofball AI coach gurus that said that
+
+00:24:15.200 --> 00:24:18.920
+they can fully automate all of it with
+
+00:24:17.080 --> 00:24:20.280
+AI, right? And these channels got
+
+00:24:18.920 --> 00:24:21.320
+terminated, right? And these channels
+
+00:24:20.280 --> 00:24:22.480
+got terminated. And you want to know
+
+00:24:21.320 --> 00:24:25.440
+what every single one of them has in
+
+00:24:22.480 --> 00:24:27.320
+common? They let AI do everything. It
+
+00:24:25.440 --> 00:24:29.120
+was fully automated. There was zero
+
+00:24:27.320 --> 00:24:31.520
+human touch. And it was straight-up AI
+
+00:24:29.120 --> 00:24:33.680
+slop. And YouTube wiped them clean off
+
+00:24:31.520 --> 00:24:35.680
+the platform. But that does not mean you
+
+00:24:33.680 --> 00:24:37.000
+run away from AI completely. Remember
+
+00:24:35.680 --> 00:24:39.280
+the plane? You don't ditch the
+
+00:24:37.000 --> 00:24:41.640
+autopilot, you just don't let it fly
+
+00:24:39.280 --> 00:24:43.240
+solo. Typically, the pilot is going to
+
+00:24:41.640 --> 00:24:44.800
+be the one that does the takeoff. The
+
+00:24:43.240 --> 00:24:46.840
+pilot needs to be there just in case
+
+00:24:44.800 --> 00:24:48.400
+something goes wrong. And the pilot is
+
+00:24:46.840 --> 00:24:50.200
+the one that does the landing. And even
+
+00:24:48.400 --> 00:24:52.480
+if the autopilot hypothetically could do
+
+00:24:50.200 --> 00:24:53.960
+the landing, the pilot is still there in
+
+00:24:52.480 --> 00:24:55.240
+case something goes wrong. Because
+
+00:24:53.960 --> 00:24:58.080
+here's the truth that nobody talks
+
+00:24:55.240 --> 00:24:59.720
+about. Editing is the number one reason
+
+00:24:58.080 --> 00:25:01.720
+that people stop uploading. It's
+
+00:24:59.720 --> 00:25:03.680
+tedious, it takes forever, and it's the
+
+00:25:01.720 --> 00:25:05.280
+part that everybody dreads. So, they
+
+00:25:03.680 --> 00:25:07.600
+film a few videos, they hit a wall with
+
+00:25:05.280 --> 00:25:09.360
+editing, and they quit. So, you should
+
+00:25:07.600 --> 00:25:11.280
+use AI to make your editing faster and
+
+00:25:09.360 --> 00:25:13.240
+smoother, and you should make it so easy
+
+00:25:11.280 --> 00:25:14.840
+that editing is never your excuse to
+
+00:25:13.240 --> 00:25:17.200
+skip an upload again. And the tool I
+
+00:25:14.840 --> 00:25:18.160
+recommend for that is Descript. So, let
+
+00:25:17.200 --> 00:25:19.960
+me actually show you what this thing
+
+00:25:18.160 --> 00:25:21.200
+does, right? Because once you see it,
+
+00:25:19.960 --> 00:25:22.520
+you're going to get why I like it so
+
+00:25:21.200 --> 00:25:25.000
+much, right? So, the first thing you'll
+
+00:25:22.520 --> 00:25:26.840
+notice is Descript pulls the entire
+
+00:25:25.000 --> 00:25:28.800
+transcript of your video and drops it
+
+00:25:26.840 --> 00:25:30.520
+right here on the screen. Every single
+
+00:25:28.800 --> 00:25:32.080
+word you said written out. And it does
+
+00:25:30.520 --> 00:25:33.920
+it automatically. It's incredible. So,
+
+00:25:32.080 --> 00:25:35.360
+watch this. Say I want to cut something
+
+00:25:33.920 --> 00:25:37.200
+out, right? I'm not hunting through the
+
+00:25:35.360 --> 00:25:38.760
+timeline frame by frame like the old
+
+00:25:37.200 --> 00:25:40.840
+days. I just highlight the words right
+
+00:25:38.760 --> 00:25:42.400
+here and I hit delete. And boom, it's
+
+00:25:40.840 --> 00:25:44.120
+gone from the video. You're literally
+
+00:25:42.400 --> 00:25:45.760
+editing your video like it's a word doc.
+
+00:25:44.120 --> 00:25:47.360
+Next, all those awkward little pauses,
+
+00:25:45.760 --> 00:25:48.640
+the dead air, those little uh moments
+
+00:25:47.360 --> 00:25:50.640
+where you're thinking out loud,
+
+00:25:48.640 --> 00:25:52.840
+Descript's AI finds all of them and
+
+00:25:50.640 --> 00:25:54.760
+trims them out for you automatically,
+
+00:25:52.840 --> 00:25:56.880
+right? This one feature alone could save
+
+00:25:54.760 --> 00:25:58.480
+you hours. And one more, say there's a
+
+00:25:56.880 --> 00:25:59.880
+part where you want to zoom in for
+
+00:25:58.480 --> 00:26:01.600
+emphasis, or you want to drop in some
+
+00:25:59.880 --> 00:26:03.440
+B-roll, you just highlight that sentence
+
+00:26:01.600 --> 00:26:05.120
+right there and add it in. It's dead
+
+00:26:03.440 --> 00:26:07.080
+simple. And look, I've actually used
+
+00:26:05.120 --> 00:26:08.560
+this one myself and honestly, I liked it
+
+00:26:07.080 --> 00:26:10.920
+a lot. And that means something because
+
+00:26:08.560 --> 00:26:12.920
+I've tried a lot of AI editing tools.
+
+00:26:10.920 --> 00:26:14.400
+And I want our community to edit fast,
+
+00:26:12.920 --> 00:26:15.920
+and I want to get their videos out ASAP.
+
+00:26:14.400 --> 00:26:17.960
+And I'll be straight with you, I haven't
+
+00:26:15.920 --> 00:26:20.240
+found a single one good enough to edit
+
+00:26:17.960 --> 00:26:21.560
+completely on its own. Not one. Descript
+
+00:26:20.240 --> 00:26:24.040
+is the closest thing out there right
+
+00:26:21.560 --> 00:26:25.360
+now, but even it still needs you to be
+
+00:26:24.040 --> 00:26:26.960
+in the driver's seat. Now, here's the
+
+00:26:25.360 --> 00:26:28.320
+best part. If you're making raw,
+
+00:26:26.960 --> 00:26:29.760
+authentic content where you're just
+
+00:26:28.320 --> 00:26:30.880
+talking to a camera, or maybe you're
+
+00:26:29.760 --> 00:26:32.800
+just sharing your screen while you're
+
+00:26:30.880 --> 00:26:34.720
+doing stuff, you really don't need all
+
+00:26:32.800 --> 00:26:37.080
+the bells and whistles. Just use that
+
+00:26:34.720 --> 00:26:38.760
+one trimming feature, cut the dead air,
+
+00:26:37.080 --> 00:26:40.960
+tighten it up, and you can edit your
+
+00:26:38.760 --> 00:26:43.080
+whole video in under 10 minutes. No more
+
+00:26:40.960 --> 00:26:44.800
+excuses, no more editing nightmare, just
+
+00:26:43.080 --> 00:26:47.240
+film it, trim it, and ship it. All
+
+00:26:44.800 --> 00:26:48.800
+right, final stage, uploading and
+
+00:26:47.240 --> 00:26:50.480
+optimizing. Now, here's what most
+
+00:26:48.800 --> 00:26:52.880
+creators do. They upload a video and
+
+00:26:50.480 --> 00:26:54.440
+they pray, right? They slap a generic
+
+00:26:52.880 --> 00:26:56.400
+description in there, they tag whatever
+
+00:26:54.440 --> 00:26:58.120
+YouTube auto suggests, and they never
+
+00:26:56.400 --> 00:26:59.240
+even touch the cards or the end screen.
+
+00:26:58.120 --> 00:27:00.560
+And then they sit there confused
+
+00:26:59.240 --> 00:27:02.520
+wondering why their video died. Now
+
+00:27:00.560 --> 00:27:04.560
+look, the first 24 hours after you hit
+
+00:27:02.520 --> 00:27:06.120
+publish, they're everything. If you
+
+00:27:04.560 --> 00:27:07.720
+don't push that video out right, it
+
+00:27:06.120 --> 00:27:09.080
+never finds its audience, and once it
+
+00:27:07.720 --> 00:27:10.640
+misses that first window, you're going
+
+00:27:09.080 --> 00:27:12.880
+to be climbing an uphill strategy the
+
+00:27:10.640 --> 00:27:14.560
+entire way. But Claude Code can fix this
+
+00:27:12.880 --> 00:27:16.360
+for you as well. And honestly, this
+
+00:27:14.560 --> 00:27:18.080
+might be one of my favorite uses. So it
+
+00:27:16.360 --> 00:27:19.800
+writes you a fully SEO optimized
+
+00:27:18.080 --> 00:27:21.440
+description that doesn't suck. It's
+
+00:27:19.800 --> 00:27:23.200
+actually good. It drops in your time
+
+00:27:21.440 --> 00:27:25.160
+stamps automatically. It suggests your
+
+00:27:23.200 --> 00:27:27.280
+tags. It tells you which category to
+
+00:27:25.160 --> 00:27:28.680
+upload under. It can give you hashtags.
+
+00:27:27.280 --> 00:27:30.280
+It can even write your pinned comment
+
+00:27:28.680 --> 00:27:31.960
+for you, which by the way, most creators
+
+00:27:30.280 --> 00:27:33.400
+don't even use, which is insane to me
+
+00:27:31.960 --> 00:27:34.800
+cuz it's free real estate. Almost
+
+00:27:33.400 --> 00:27:36.080
+everybody looks at the comment section,
+
+00:27:34.800 --> 00:27:37.640
+so you should always have a pinned
+
+00:27:36.080 --> 00:27:39.840
+comment. And basically, it turns the
+
+00:27:37.640 --> 00:27:41.440
+upload screen from a guessing game into
+
+00:27:39.840 --> 00:27:43.480
+a science. So think of it like a
+
+00:27:41.440 --> 00:27:45.280
+checklist that every good pilot does
+
+00:27:43.480 --> 00:27:46.920
+before they ever leave the ground. They
+
+00:27:45.280 --> 00:27:48.640
+run a pre-flight checklist. They don't
+
+00:27:46.920 --> 00:27:50.680
+just hop in the cockpit and start
+
+00:27:48.640 --> 00:27:53.160
+smashing buttons hoping for the best.
+
+00:27:50.680 --> 00:27:55.000
+Engines, flaps, fuel, controls, every
+
+00:27:53.160 --> 00:27:57.680
+single item needs to be checked. And
+
+00:27:55.000 --> 00:28:00.640
+YouTube is the same thing. Description,
+
+00:27:57.680 --> 00:28:02.600
+time stamps, tags, cards, end screens,
+
+00:28:00.640 --> 00:28:04.440
+pinned comment. You run the checklist,
+
+00:28:02.600 --> 00:28:06.040
+you hit every item, and then you launch.
+
+00:28:04.440 --> 00:28:08.160
+And how do you get all this done? Well,
+
+00:28:06.040 --> 00:28:09.880
+it's simple. You hop back into Claude
+
+00:28:08.160 --> 00:28:11.480
+Code and you just say, "Give me the full
+
+00:28:09.880 --> 00:28:12.720
+upload package for this video." And it
+
+00:28:11.480 --> 00:28:14.680
+writes the whole thing for you. The
+
+00:28:12.720 --> 00:28:16.280
+description, the time stamps, the tags,
+
+00:28:14.680 --> 00:28:17.840
+all of it. Then you copy it and paste
+
+00:28:16.280 --> 00:28:19.920
+into YouTube and you hit publish. So
+
+00:28:17.840 --> 00:28:21.680
+look, a few years ago, everything I just
+
+00:28:19.920 --> 00:28:24.520
+showed you would have taken an entire
+
+00:28:21.680 --> 00:28:26.240
+team, probably over a week to produce. A
+
+00:28:24.520 --> 00:28:28.400
+script writer, a researcher, an editor,
+
+00:28:26.240 --> 00:28:30.480
+a creative director, and thousands of
+
+00:28:28.400 --> 00:28:32.520
+dollars a month spent. And I know
+
+00:28:30.480 --> 00:28:34.480
+because that's exactly what I had. Now,
+
+00:28:32.520 --> 00:28:36.160
+you can do all of it with AI and your
+
+00:28:34.480 --> 00:28:38.000
+phone. And the tools used to be the
+
+00:28:36.160 --> 00:28:39.600
+excuse. "I don't have the gear. I don't
+
+00:28:38.000 --> 00:28:42.240
+have the team. I can't write. I don't
+
+00:28:39.600 --> 00:28:44.120
+have the time." That excuse is gone. The
+
+00:28:42.240 --> 00:28:46.680
+only thing standing between you and your
+
+00:28:44.120 --> 00:28:48.960
+first video now is you actually hitting
+
+00:28:46.680 --> 00:28:51.040
+the record button. Now, for about 99% of
+
+00:28:48.960 --> 00:28:52.520
+you watching, free content is exactly
+
+00:28:51.040 --> 00:28:53.840
+what you need and I've got you. I'm
+
+00:28:52.520 --> 00:28:55.920
+running a free live training this week
+
+00:28:53.840 --> 00:28:57.400
+where I go even deeper on this exact
+
+00:28:55.920 --> 00:28:59.120
+system and I'll even hand you some of
+
+00:28:57.400 --> 00:29:00.360
+the AI skills that I use myself and
+
+00:28:59.120 --> 00:29:02.240
+we're going to focus on either finding
+
+00:29:00.360 --> 00:29:04.000
+your niche, dialing in your niche, or
+
+00:29:02.240 --> 00:29:05.280
+figuring out how to actually properly
+
+00:29:04.000 --> 00:29:06.520
+monetize your channel so you can
+
+00:29:05.280 --> 00:29:07.920
+actually make money from your channel
+
+00:29:06.520 --> 00:29:09.080
+and treat it like a business. So, link
+
+00:29:07.920 --> 00:29:10.400
+for that is in the description and the
+
+00:29:09.080 --> 00:29:12.280
+pin comment below. But, there's going to
+
+00:29:10.400 --> 00:29:14.320
+be about 1% of you watching right now
+
+00:29:12.280 --> 00:29:15.880
+who are ready for more and you know who
+
+00:29:14.320 --> 00:29:17.000
+you are. Maybe you're a total beginner
+
+00:29:15.880 --> 00:29:18.520
+and you want to start the right way
+
+00:29:17.000 --> 00:29:20.160
+instead of wasting 2 years figuring it
+
+00:29:18.520 --> 00:29:22.040
+out the hard way. Maybe you've tried
+
+00:29:20.160 --> 00:29:23.480
+YouTube before and it just didn't work
+
+00:29:22.040 --> 00:29:24.720
+out. Maybe you're tired of guessing. Or
+
+00:29:23.480 --> 00:29:26.320
+maybe you've already got the
+
+00:29:24.720 --> 00:29:27.800
+subscribers, but you're barely making
+
+00:29:26.320 --> 00:29:29.280
+any money from them. Or maybe you run a
+
+00:29:27.800 --> 00:29:31.120
+business and you want YouTube to become
+
+00:29:29.280 --> 00:29:33.440
+a machine that brings you leads and
+
+00:29:31.120 --> 00:29:34.880
+clients on autopilot. If that's you, we
+
+00:29:33.440 --> 00:29:36.480
+want to talk to you. I've got a handful
+
+00:29:34.880 --> 00:29:38.040
+of spots open for a one-on-one call
+
+00:29:36.480 --> 00:29:39.800
+where we map out your niche, your
+
+00:29:38.040 --> 00:29:41.160
+channel, your whole game plan. You can
+
+00:29:39.800 --> 00:29:42.360
+book that call by clicking the link in
+
+00:29:41.160 --> 00:29:44.080
+the description and the pin comment
+
+00:29:42.360 --> 00:29:46.040
+below. And it's the same process that my
+
+00:29:44.080 --> 00:29:48.080
+client Shawn used to go from 30k per
+
+00:29:46.040 --> 00:29:49.840
+month to over 500k per month. And it's
+
+00:29:48.080 --> 00:29:52.920
+the same process that my client Isaiah
+
+00:29:49.840 --> 00:29:54.400
+used to go from $0 a month to $30,000 a
+
+00:29:52.920 --> 00:29:56.360
+month. And it's the same process that
+
+00:29:54.400 --> 00:29:58.360
+countless other people have used to make
+
+00:29:56.360 --> 00:29:59.800
+full-time incomes on YouTube. So, if
+
+00:29:58.360 --> 00:30:01.320
+you're ready to really treat YouTube
+
+00:29:59.800 --> 00:30:03.160
+like a business and you're serious about
+
+00:30:01.320 --> 00:30:05.000
+growing and monetizing on YouTube, we do
+
+00:30:03.160 --> 00:30:06.600
+work with a small amount of people and
+
+00:30:05.000 --> 00:30:07.840
+we have a one-on-one option and we also
+
+00:30:06.600 --> 00:30:09.480
+have a done-for-you option where we
+
+00:30:07.840 --> 00:30:10.880
+literally just do it all for you. So, if
+
+00:30:09.480 --> 00:30:11.920
+that sounds interesting to you, then go
+
+00:30:10.880 --> 00:30:13.000
+ahead and book a call by clicking the
+
+00:30:11.920 --> 00:30:14.200
+link in the description and the pin
+
+00:30:13.000 --> 00:30:15.680
+comment below. And if you want to see
+
+00:30:14.200 --> 00:30:17.760
+exactly how we helped Shawn get to
+
+00:30:15.680 --> 00:30:21.320
+$500,000 in a single month, then go
+
+00:30:17.760 --> 00:30:21.320
+ahead and click this video right here.
+

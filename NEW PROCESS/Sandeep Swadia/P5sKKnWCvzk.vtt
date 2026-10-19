@@ -1,0 +1,950 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.880
+Most people think they're using AI well
+
+00:00:02.560 --> 00:00:07.480
+when they get a decent answer from chat
+
+00:00:04.880 --> 00:00:10.400
+GPT. That was enough 6 months ago. It's
+
+00:00:07.480 --> 00:00:12.160
+not enough anymore. The next shift is AI
+
+00:00:10.400 --> 00:00:14.400
+agents, and [music] the gap between
+
+00:00:12.160 --> 00:00:16.640
+people who understand them and people
+
+00:00:14.400 --> 00:00:18.640
+who don't, it's about to get very
+
+00:00:16.640 --> 00:00:20.520
+expensive. I've spent years in the
+
+00:00:18.640 --> 00:00:23.600
+boardrooms of billion-dollar companies,
+
+00:00:20.520 --> 00:00:26.120
+and the good news here is that agents
+
+00:00:23.600 --> 00:00:28.280
+are much simpler than most people think.
+
+00:00:26.120 --> 00:00:31.040
+So, in this video, I'll show you exactly
+
+00:00:28.280 --> 00:00:33.520
+how they work, when to use them, and how
+
+00:00:31.040 --> 00:00:37.000
+to start before everyone else catches
+
+00:00:33.520 --> 00:00:39.360
+up. An AI prompt and an AI agent are
+
+00:00:37.000 --> 00:00:41.920
+completely different, but most of us are
+
+00:00:39.360 --> 00:00:44.120
+still stuck with old habits. Let me give
+
+00:00:41.920 --> 00:00:46.360
+you the simplest way to think about this
+
+00:00:44.120 --> 00:00:48.200
+before we go any further. This is our
+
+00:00:46.360 --> 00:00:51.920
+first framework, right off the bat. I
+
+00:00:48.200 --> 00:00:54.560
+call it ARR. If a task is autonomous,
+
+00:00:51.920 --> 00:00:57.280
+recurring, and reviewable, it's a strong
+
+00:00:54.560 --> 00:01:00.520
+candidate for an agent. If it needs live
+
+00:00:57.280 --> 00:01:03.160
+judgment, or it only happens once, or
+
+00:01:00.520 --> 00:01:05.880
+can't be reviewed clearly, then use a
+
+00:01:03.160 --> 00:01:08.520
+prompt. That one distinction alone will
+
+00:01:05.880 --> 00:01:11.320
+put you miles ahead of most people using
+
+00:01:08.520 --> 00:01:14.320
+AI today. The internet gave us search,
+
+00:01:11.320 --> 00:01:17.040
+so we started Googling. AI gave us LLMs,
+
+00:01:14.320 --> 00:01:20.480
+or large language models, but most
+
+00:01:17.040 --> 00:01:23.440
+people today still think of AI as a
+
+00:01:20.480 --> 00:01:25.280
+glorified search. Now, agents are here,
+
+00:01:23.440 --> 00:01:28.280
+and we're still making the same mistake
+
+00:01:25.280 --> 00:01:31.800
+again. We think of agents as just more
+
+00:01:28.280 --> 00:01:34.760
+capable chatbots. They're not. A chatbot
+
+00:01:31.800 --> 00:01:37.600
+waits for your next prompt. An agent
+
+00:01:34.760 --> 00:01:39.840
+figures out its next move. Prompting is
+
+00:01:37.600 --> 00:01:42.040
+like sitting next to a student driver.
+
+00:01:39.840 --> 00:01:44.440
+You still have to guide them, correct
+
+00:01:42.040 --> 00:01:46.560
+them, and stay very alert. An agent, on
+
+00:01:44.440 --> 00:01:49.280
+the other hand, is a hired driver. You
+
+00:01:46.560 --> 00:01:51.400
+set the destination, hand over the keys,
+
+00:01:49.280 --> 00:01:53.400
+and just sit in the backseat. It handles
+
+00:01:51.400 --> 00:01:55.720
+the route, the traffic, and all the
+
+00:01:53.400 --> 00:01:58.440
+step-by-step decisions. That's the
+
+00:01:55.720 --> 00:02:01.040
+mental shift we have to make. So, here's
+
+00:01:58.440 --> 00:02:02.600
+a prompt. Write me a LinkedIn post and
+
+00:02:01.040 --> 00:02:04.800
+here's an agent. Watch my [music]
+
+00:02:02.600 --> 00:02:07.920
+industry every Monday, find the three
+
+00:02:04.800 --> 00:02:10.200
+most relevant stories, study my previous
+
+00:02:07.920 --> 00:02:12.880
+post, draft a new post based on those
+
+00:02:10.200 --> 00:02:15.480
+stories in my voice, revise against my
+
+00:02:12.880 --> 00:02:18.400
+style, and schedule it for Tuesday
+
+00:02:15.480 --> 00:02:20.880
+morning. That's the power of AI agents.
+
+00:02:18.400 --> 00:02:23.000
+And to wield that power, you need to
+
+00:02:20.880 --> 00:02:25.160
+know what's actually running under the
+
+00:02:23.000 --> 00:02:27.280
+hood. Everyone's talking about AI
+
+00:02:25.160 --> 00:02:29.000
+agents. Almost nobody can tell you
+
+00:02:27.280 --> 00:02:31.306
+what's actually happening inside. A
+
+00:02:29.000 --> 00:02:31.360
+chatbot predicts the next word.
+
+00:02:31.306 --> 00:02:34.080
+>> [music]
+
+00:02:31.360 --> 00:02:36.920
+>> An agent decides the next action. Here's
+
+00:02:34.080 --> 00:02:38.760
+how a chatbot actually works. It's a
+
+00:02:36.920 --> 00:02:40.720
+large language model. When you type a
+
+00:02:38.760 --> 00:02:42.920
+question, it's going to break that
+
+00:02:40.720 --> 00:02:45.200
+question into small units of words
+
+00:02:42.920 --> 00:02:47.560
+called tokens and it converts them into
+
+00:02:45.200 --> 00:02:50.200
+numbers. And then it just finishes the
+
+00:02:47.560 --> 00:02:53.576
+sentence. So, if you said, "Jack fell
+
+00:02:50.200 --> 00:02:56.240
+down and broke his crown." Now, you know
+
+00:02:53.576 --> 00:02:58.920
+[music] that, but LLM does not know that
+
+00:02:56.240 --> 00:03:00.840
+rhyme. It will know words like bones and
+
+00:02:58.920 --> 00:03:03.519
+heart and crown. [music]
+
+00:03:00.840 --> 00:03:06.000
+And all of those words could make sense,
+
+00:03:03.519 --> 00:03:08.680
+but based on its training, it predicts
+
+00:03:06.000 --> 00:03:10.680
+that the most likely next word, given
+
+00:03:08.680 --> 00:03:13.760
+that line, is crown. It's based on
+
+00:03:10.680 --> 00:03:17.160
+probabilities. The agent has the same
+
+00:03:13.760 --> 00:03:19.160
+language model in the center, but now
+
+00:03:17.160 --> 00:03:23.320
+there are four workers around [music]
+
+00:03:19.160 --> 00:03:25.017
+it. Analyst, planner, operator, auditor.
+
+00:03:23.320 --> 00:03:25.080
+One finds the pattern,
+
+00:03:25.017 --> 00:03:28.200
+>> [music]
+
+00:03:25.080 --> 00:03:30.400
+>> one decides the plan, one does the work,
+
+00:03:28.200 --> 00:03:32.600
+one checks the results. Let's make this
+
+00:03:30.400 --> 00:03:35.160
+real. You can give an agent some
+
+00:03:32.600 --> 00:03:37.920
+instruction like, "Every Monday at 7:00
+
+00:03:35.160 --> 00:03:40.920
+a.m., review the past week's customer
+
+00:03:37.920 --> 00:03:44.040
+support tickets, sales notes, and
+
+00:03:40.920 --> 00:03:46.440
+product feedback. Identify three biggest
+
+00:03:44.040 --> 00:03:50.120
+recurring issues, summarize what
+
+00:03:46.440 --> 00:03:52.080
+changed, and email my leadership team a
+
+00:03:50.120 --> 00:03:54.600
+one-page weekly brief." That's [music]
+
+00:03:52.080 --> 00:03:57.400
+it. I mean, those are lots of steps, but
+
+00:03:54.600 --> 00:03:59.760
+the agent will read the tickets, notes,
+
+00:03:57.400 --> 00:04:01.520
+and feedback, and find the pattern
+
+00:03:59.760 --> 00:04:03.720
+analyst. [music] It will then decide
+
+00:04:01.520 --> 00:04:06.560
+what matters most and what belongs in
+
+00:04:03.720 --> 00:04:09.360
+the brief planner. It will write and
+
+00:04:06.560 --> 00:04:12.040
+send the update operator. And then it'll
+
+00:04:09.360 --> 00:04:14.640
+check for weak logic, missing context,
+
+00:04:12.040 --> 00:04:17.280
+or sloppy conclusions, and it'll refine
+
+00:04:14.640 --> 00:04:20.120
+it auditor. Now, by Monday morning, the
+
+00:04:17.280 --> 00:04:21.720
+brief is in your team's inbox. You did
+
+00:04:20.120 --> 00:04:24.440
+not write the report, you did not
+
+00:04:21.720 --> 00:04:28.200
+analyze it, you just assigned the job of
+
+00:04:24.440 --> 00:04:31.520
+four people to one agent. So, here's
+
+00:04:28.200 --> 00:04:34.448
+your move. Tonight, open ChatGPT agent
+
+00:04:31.520 --> 00:04:34.480
+mode and give it one recurring task,
+
+00:04:34.448 --> 00:04:36.880
+>> [music]
+
+00:04:34.480 --> 00:04:39.720
+>> but then watch what it does. You'll see
+
+00:04:36.880 --> 00:04:43.320
+all four workers show up in real [music]
+
+00:04:39.720 --> 00:04:46.240
+time. That's the anatomy of an AI agent.
+
+00:04:43.320 --> 00:04:48.720
+Now that you understand the parts, let's
+
+00:04:46.240 --> 00:04:51.600
+look at the entire loop. The best thing
+
+00:04:48.720 --> 00:04:54.160
+about agents is that they can adapt when
+
+00:04:51.600 --> 00:04:56.440
+things go wrong. This is what makes
+
+00:04:54.160 --> 00:04:58.680
+agents genuinely different from
+
+00:04:56.440 --> 00:05:01.800
+everything that came before it. In the
+
+00:04:58.680 --> 00:05:04.200
+1970s, there was an Air Force Colonel
+
+00:05:01.800 --> 00:05:06.840
+John Boyd, and he studied a very
+
+00:05:04.200 --> 00:05:09.560
+intriguing puzzle from the Korean War.
+
+00:05:06.840 --> 00:05:12.880
+American pilots in their F-86 kept
+
+00:05:09.560 --> 00:05:15.480
+beating technically superior Soviet MiG.
+
+00:05:12.880 --> 00:05:18.680
+Now, the MiG was faster and it could
+
+00:05:15.480 --> 00:05:21.160
+climb higher. It should have won, but it
+
+00:05:18.680 --> 00:05:23.000
+didn't. And Boyd eventually found the
+
+00:05:21.160 --> 00:05:25.160
+difference. The American pilots could
+
+00:05:23.000 --> 00:05:28.200
+see more from their cockpits, and they
+
+00:05:25.160 --> 00:05:30.760
+could adapt faster. So, they got inside
+
+00:05:28.200 --> 00:05:33.400
+the enemy's decision cycle before the
+
+00:05:30.760 --> 00:05:37.520
+enemy could respond. He called that loop
+
+00:05:33.400 --> 00:05:39.640
+the OODA loop: observe, orient, decide,
+
+00:05:37.520 --> 00:05:41.280
+act. [music] And in the world of agents,
+
+00:05:39.640 --> 00:05:43.640
+it's the same thing. That is the real
+
+00:05:41.280 --> 00:05:46.280
+test of an agent. When the obvious path
+
+00:05:43.640 --> 00:05:48.680
+fails, can it choose a better one? Can
+
+00:05:46.280 --> 00:05:50.680
+it go through its own UDA loop? So, let
+
+00:05:48.680 --> 00:05:53.080
+me give you a concrete example. You can
+
+00:05:50.680 --> 00:05:54.880
+build an automated workflow. Every
+
+00:05:53.080 --> 00:05:58.000
+Friday, check this [music] week's
+
+00:05:54.880 --> 00:06:00.080
+grocery prices, build my shopping list,
+
+00:05:58.000 --> 00:06:03.240
+and place the order. It [music] works
+
+00:06:00.080 --> 00:06:04.840
+every Friday. Until one week, your usual
+
+00:06:03.240 --> 00:06:06.640
+item is out of stock, [music]
+
+00:06:04.840 --> 00:06:09.880
+and you have six friends coming for
+
+00:06:06.640 --> 00:06:12.160
+dinner on Saturday. So, that automated
+
+00:06:09.880 --> 00:06:14.600
+workflow is going to break. Not because
+
+00:06:12.160 --> 00:06:17.240
+it's dumb, but because it's designed to
+
+00:06:14.600 --> 00:06:19.800
+be obedient. It's designed to not think
+
+00:06:17.240 --> 00:06:21.800
+on its own. An agent, on the other hand,
+
+00:06:19.800 --> 00:06:23.800
+does something very unique. It sees the
+
+00:06:21.800 --> 00:06:26.480
+usual list. It sees that it's not
+
+00:06:23.800 --> 00:06:28.919
+working. It finds substitutes. It
+
+00:06:26.480 --> 00:06:32.000
+adjusts quantities for six people. It
+
+00:06:28.919 --> 00:06:34.200
+checks your calendar, sees the dinner,
+
+00:06:32.000 --> 00:06:37.120
+and rebuilds the entire order around it.
+
+00:06:34.200 --> 00:06:39.480
+A workflow can follow the process. An
+
+00:06:37.120 --> 00:06:41.480
+agent can reroute it completely. [music]
+
+00:06:39.480 --> 00:06:43.400
+That's the difference. So, when someone
+
+00:06:41.480 --> 00:06:46.280
+says they built an agent, ask one
+
+00:06:43.400 --> 00:06:48.040
+question. When the first path breaks,
+
+00:06:46.280 --> 00:06:50.000
+does the agent keep following the
+
+00:06:48.040 --> 00:06:52.960
+script, or can it find [music] a better
+
+00:06:50.000 --> 00:06:56.240
+path? Can it find another way? That's
+
+00:06:52.960 --> 00:06:58.880
+the agent adapting in real time. So,
+
+00:06:56.240 --> 00:07:01.800
+this begs the question, right? If agents
+
+00:06:58.880 --> 00:07:02.479
+have autonomy, why do they still fail so
+
+00:07:01.800 --> 00:07:02.600
+often
+
+00:07:02.479 --> 00:07:04.120
+>> [music]
+
+00:07:02.600 --> 00:07:06.360
+>> in real life?
+
+00:07:04.120 --> 00:07:08.480
+That's next. The most dangerous thing
+
+00:07:06.360 --> 00:07:10.480
+about AI agents is that they will do
+
+00:07:08.480 --> 00:07:13.160
+wrong things faster and with more
+
+00:07:10.480 --> 00:07:15.960
+confidence than you ever could. An agent
+
+00:07:13.160 --> 00:07:18.400
+is not magic. It's a multiplier. I was
+
+00:07:15.960 --> 00:07:20.800
+working with the aboard and leadership
+
+00:07:18.400 --> 00:07:22.600
+team of large consumer company. Yeah,
+
+00:07:20.800 --> 00:07:25.919
+I'm still working with them. And they're
+
+00:07:22.600 --> 00:07:28.040
+profitable, well-run, great CEO. And
+
+00:07:25.919 --> 00:07:30.840
+when I asked what was stopping them from
+
+00:07:28.040 --> 00:07:35.000
+using AI to drive customer acquisition,
+
+00:07:30.840 --> 00:07:37.480
+for example, the CMO responded, "We have
+
+00:07:35.000 --> 00:07:41.080
+all the data, but we'll still need to
+
+00:07:37.480 --> 00:07:43.320
+build a clean process, so we can turn
+
+00:07:41.080 --> 00:07:46.040
+that into something useful, something
+
+00:07:43.320 --> 00:07:48.480
+insightful. And I asked where the real
+
+00:07:46.040 --> 00:07:50.960
+challenge was and she said, "You know,
+
+00:07:48.480 --> 00:07:53.160
+we need the right people in the seats
+
+00:07:50.960 --> 00:07:56.320
+first." That's the story everywhere.
+
+00:07:53.160 --> 00:07:59.160
+Most AI problems are human problems in
+
+00:07:56.320 --> 00:08:01.480
+disguise. An agent is just a mirror. It
+
+00:07:59.160 --> 00:08:03.960
+reflects the quality of your thinking
+
+00:08:01.480 --> 00:08:07.560
+back at you. It just amplifies it. Give
+
+00:08:03.960 --> 00:08:10.120
+an agent vague goals, sloppy directions,
+
+00:08:07.560 --> 00:08:12.280
+and no way to get feedback and it will
+
+00:08:10.120 --> 00:08:14.919
+drive the car straight into the tree
+
+00:08:12.280 --> 00:08:17.120
+faster and with more confidence than you
+
+00:08:14.919 --> 00:08:20.160
+ever could. Here's the dangerous part.
+
+00:08:17.120 --> 00:08:22.760
+An agent doesn't fix bad thinking, it
+
+00:08:20.160 --> 00:08:25.480
+formalizes it. Usually the agent fails
+
+00:08:22.760 --> 00:08:27.120
+because the human was vague, not because
+
+00:08:25.480 --> 00:08:29.240
+the underlying model was bad or
+
+00:08:27.120 --> 00:08:33.039
+anything. So, before you automate
+
+00:08:29.240 --> 00:08:36.080
+anything, run a GPS check. Goal, proof,
+
+00:08:33.039 --> 00:08:38.120
+steps. Goal, can I define the goal in
+
+00:08:36.080 --> 00:08:41.360
+one sentence very clearly? [music]
+
+00:08:38.120 --> 00:08:44.200
+Proof, can I tell what good looks like
+
+00:08:41.360 --> 00:08:47.160
+and how will I know if the agent got it
+
+00:08:44.200 --> 00:08:49.360
+right? And steps, can I describe each
+
+00:08:47.160 --> 00:08:51.320
+and every step very clearly without a
+
+00:08:49.360 --> 00:08:53.880
+lot of hand-waving? Unless you can do
+
+00:08:51.320 --> 00:08:55.480
+those three things very well, your agent
+
+00:08:53.880 --> 00:08:57.080
+is not going to make any difference.
+
+00:08:55.480 --> 00:08:59.040
+I'll give [music] you an example. Here
+
+00:08:57.080 --> 00:09:01.360
+are two instructions for your agent.
+
+00:08:59.040 --> 00:09:02.880
+First one, "Summarize my emails every
+
+00:09:01.360 --> 00:09:05.280
+morning." It's good. And here's the
+
+00:09:02.880 --> 00:09:07.720
+second one, "Every morning at 7:00 a.m.,
+
+00:09:05.280 --> 00:09:10.640
+read my unread emails, categorize them
+
+00:09:07.720 --> 00:09:13.640
+by urgency, draft replies to routine
+
+00:09:10.640 --> 00:09:15.440
+messages, and flag anything from my top
+
+00:09:13.640 --> 00:09:16.680
+five customers." So you see there is a
+
+00:09:15.440 --> 00:09:19.200
+difference between those two
+
+00:09:16.680 --> 00:09:21.480
+instructions and that [music] gap is
+
+00:09:19.200 --> 00:09:23.800
+exactly where the mess lives. The
+
+00:09:21.480 --> 00:09:25.160
+winners who can wield the power of AI
+
+00:09:23.800 --> 00:09:27.400
+agents aren't just [music] going to be
+
+00:09:25.160 --> 00:09:30.400
+engineers. They'll be the people who
+
+00:09:27.400 --> 00:09:31.839
+understand their work deeply enough to
+
+00:09:30.400 --> 00:09:34.640
+define it precisely. [music]
+
+00:09:31.839 --> 00:09:37.000
+Most companies want AI everywhere. The
+
+00:09:34.640 --> 00:09:39.440
+ones actually winning are obsessively
+
+00:09:37.000 --> 00:09:41.560
+narrow. If clarity is a bottleneck, then
+
+00:09:39.440 --> 00:09:44.560
+the opportunity is not broad
+
+00:09:41.560 --> 00:09:47.680
+intelligence, it's narrow ownership. I
+
+00:09:44.560 --> 00:09:49.200
+was visiting the customer conference of
+
+00:09:47.680 --> 00:09:51.360
+construction software company that I
+
+00:09:49.200 --> 00:09:54.091
+work with, and the product lead was on
+
+00:09:51.360 --> 00:09:54.440
+stage showing a demo of a single agent
+
+00:09:54.091 --> 00:09:56.200
+>> [music]
+
+00:09:54.440 --> 00:09:59.240
+>> that was focused on a very specific
+
+00:09:56.200 --> 00:10:02.160
+problem, collecting field data for a
+
+00:09:59.240 --> 00:10:04.160
+specific type of customers in a specific
+
+00:10:02.160 --> 00:10:07.240
+type of situation. And it was a beta
+
+00:10:04.160 --> 00:10:09.720
+launch. The demo worked mostly with a
+
+00:10:07.240 --> 00:10:12.480
+few minor glitches here and there, but
+
+00:10:09.720 --> 00:10:14.560
+when he showed the QR code at the end,
+
+00:10:12.480 --> 00:10:16.960
+every hand in the conference room went
+
+00:10:14.560 --> 00:10:17.760
+up with their phones. Everyone took a
+
+00:10:16.960 --> 00:10:20.960
+picture [music]
+
+00:10:17.760 --> 00:10:23.800
+because it solved a very specific, but
+
+00:10:20.960 --> 00:10:25.760
+very real pain they all had been living
+
+00:10:23.800 --> 00:10:28.760
+with for decades. [music] That is where
+
+00:10:25.760 --> 00:10:30.840
+the real opportunity is, in your career
+
+00:10:28.760 --> 00:10:34.360
+or in your company. Narrow [music]
+
+00:10:30.840 --> 00:10:36.160
+focus. Here's the test. Find a highly
+
+00:10:34.360 --> 00:10:38.440
+specific task [music]
+
+00:10:36.160 --> 00:10:40.520
+people hate doing, but they have to do
+
+00:10:38.440 --> 00:10:42.920
+it repeatedly. That's where the money
+
+00:10:40.520 --> 00:10:45.640
+is. You know, we're entering an age
+
+00:10:42.920 --> 00:10:48.080
+where we'll have more agents than human
+
+00:10:45.640 --> 00:10:50.680
+beings on this planet. On the business
+
+00:10:48.080 --> 00:10:53.280
+side, for every software company that
+
+00:10:50.680 --> 00:10:55.320
+exists today, there will be an agent
+
+00:10:53.280 --> 00:10:58.480
+company trying to dethrone it. The
+
+00:10:55.320 --> 00:11:00.720
+winners won't build the broadest agents
+
+00:10:58.480 --> 00:11:03.200
+first. They'll build the one that
+
+00:11:00.720 --> 00:11:06.280
+understands one workflow, [music]
+
+00:11:03.200 --> 00:11:08.920
+one market, and one kind of user pain
+
+00:11:06.280 --> 00:11:10.680
+better than everyone else. By the way,
+
+00:11:08.920 --> 00:11:13.400
+if you want to keep this conversation
+
+00:11:10.680 --> 00:11:16.600
+going, I write a short newsletter once a
+
+00:11:13.400 --> 00:11:18.880
+week, just useful ideas, tools, honest
+
+00:11:16.600 --> 00:11:22.200
+reflections. You can subscribe below.
+
+00:11:18.880 --> 00:11:24.680
+It's free. AI will reshape almost every
+
+00:11:22.200 --> 00:11:27.720
+role, but it won't replace what makes
+
+00:11:24.680 --> 00:11:30.960
+you irreplaceable. You know, AI is a
+
+00:11:27.720 --> 00:11:33.920
+giant decoupling machine. For most of
+
+00:11:30.960 --> 00:11:35.560
+our modern history, your income was tied
+
+00:11:33.920 --> 00:11:37.720
+to your hours. [music]
+
+00:11:35.560 --> 00:11:40.840
+Even at the top, you're always trading
+
+00:11:37.720 --> 00:11:43.120
+time for decisions. Agents are breaking
+
+00:11:40.840 --> 00:11:45.920
+that link for the first time. Now they
+
+00:11:43.120 --> 00:11:48.480
+do the work and you scale your judgment
+
+00:11:45.920 --> 00:11:51.320
+in areas where it matters most. And that
+
+00:11:48.480 --> 00:11:54.480
+changes what's valuable. We're entering
+
+00:11:51.320 --> 00:11:57.800
+an era of infinite output, content,
+
+00:11:54.480 --> 00:12:00.400
+code, and analysis all becoming super
+
+00:11:57.800 --> 00:12:02.800
+cheap. When intelligence becomes that
+
+00:12:00.400 --> 00:12:05.280
+cheap, judgment becomes even more
+
+00:12:02.800 --> 00:12:07.520
+expensive. When output becomes infinite,
+
+00:12:05.280 --> 00:12:10.160
+taste becomes scarce. Every time you
+
+00:12:07.520 --> 00:12:12.080
+define a task clearly enough for an
+
+00:12:10.160 --> 00:12:15.280
+agent to run it, you're not just
+
+00:12:12.080 --> 00:12:18.640
+training the system, you're clarifying
+
+00:12:15.280 --> 00:12:21.680
+your own standards. You're learning what
+
+00:12:18.640 --> 00:12:24.560
+good actually looks like. Sure, some
+
+00:12:21.680 --> 00:12:27.480
+roles will be reshaped. The paralegal,
+
+00:12:24.560 --> 00:12:29.800
+the junior analyst, the coordinator. But
+
+00:12:27.480 --> 00:12:31.800
+every disruption has always created new
+
+00:12:29.800 --> 00:12:34.000
+roles that never existed before. [music]
+
+00:12:31.800 --> 00:12:36.920
+Before the internet, nobody imagined the
+
+00:12:34.000 --> 00:12:39.280
+role of an online community manager. The
+
+00:12:36.920 --> 00:12:42.760
+question is not whether the shift
+
+00:12:39.280 --> 00:12:45.440
+happens. It is whether you shape it or
+
+00:12:42.760 --> 00:12:48.323
+get shaped by it. The most valuable
+
+00:12:45.440 --> 00:12:50.720
+person is no longer the one who can
+
+00:12:48.323 --> 00:12:54.920
+[music] think the fastest. It's the one
+
+00:12:50.720 --> 00:12:58.080
+who can define good work, spot bad work,
+
+00:12:54.920 --> 00:13:00.600
+and know when to trust an agent and when
+
+00:12:58.080 --> 00:13:04.040
+to trust a human. That is where your
+
+00:13:00.600 --> 00:13:07.120
+value is going to move. Ironically, AI
+
+00:13:04.040 --> 00:13:08.320
+will make human life less robotic.
+
+00:13:07.120 --> 00:13:11.000
+Thank you.
+
+00:13:08.320 --> 00:13:11.000
+And I love you.
+

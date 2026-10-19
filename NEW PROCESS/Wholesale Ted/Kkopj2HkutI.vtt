@@ -1,0 +1,1595 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.760
+Look, it's kind of crazy, but people are
+
+00:00:02.280 --> 00:00:06.840
+getting rich by creating simple, boring
+
+00:00:04.760 --> 00:00:08.840
+websites. And I think that it's a pretty
+
+00:00:06.840 --> 00:00:10.880
+interesting side hustle. And so, in this
+
+00:00:08.840 --> 00:00:13.200
+video, I'm going to show you how I, as
+
+00:00:10.880 --> 00:00:15.480
+someone who knows zero code, managed to
+
+00:00:13.200 --> 00:00:17.640
+write code, host, and release my own
+
+00:00:15.480 --> 00:00:19.280
+simple, boring website that can rank in
+
+00:00:17.640 --> 00:00:21.880
+Google and get free search engine
+
+00:00:19.280 --> 00:00:24.160
+traffic in less than 30 minutes using
+
+00:00:21.880 --> 00:00:26.000
+beginner-friendly AI tools. But first,
+
+00:00:24.160 --> 00:00:28.720
+you might be thinking, "Okay, Sarah, but
+
+00:00:26.000 --> 00:00:30.640
+what even is a simple, boring website?"
+
+00:00:28.720 --> 00:00:33.320
+It's a good question. So, it's basically
+
+00:00:30.640 --> 00:00:36.360
+just a website that performs one simple,
+
+00:00:33.320 --> 00:00:38.000
+boring task that solves a problem, but
+
+00:00:36.360 --> 00:00:39.800
+it does it well, like this one here
+
+00:00:38.000 --> 00:00:41.920
+does. This is a website that lets you
+
+00:00:39.800 --> 00:00:43.760
+set up a spin the wheel game. You just
+
+00:00:41.920 --> 00:00:45.360
+enter in the names or labels that you
+
+00:00:43.760 --> 00:00:47.280
+want the wheel to have, and then you
+
+00:00:45.360 --> 00:00:49.480
+click to spin it, and it will randomly
+
+00:00:47.280 --> 00:00:51.520
+choose and assign a winner. It's often
+
+00:00:49.480 --> 00:00:54.000
+used by groups of people as part of game
+
+00:00:51.520 --> 00:00:55.840
+nights or as part of parties. It solves
+
+00:00:54.000 --> 00:00:57.600
+the problem of having a fun way to
+
+00:00:55.840 --> 00:00:59.560
+randomly choose people. And here's the
+
+00:00:57.600 --> 00:01:02.400
+cool thing, right? This website doesn't
+
+00:00:59.560 --> 00:01:04.360
+even need itself to get traffic. If you
+
+00:01:02.400 --> 00:01:06.720
+go to Google and do a search for a free
+
+00:01:04.360 --> 00:01:08.720
+spin the wheel tool, it'll show up as
+
+00:01:06.720 --> 00:01:10.440
+the first result. And if you pop it into
+
+00:01:08.720 --> 00:01:12.000
+a traffic estimator tool, you'll see
+
+00:01:10.440 --> 00:01:15.960
+that it estimates that it's getting over
+
+00:01:12.000 --> 00:01:18.560
+7.1 million views a month. Wow. And it
+
+00:01:15.960 --> 00:01:21.080
+makes sense, since this was one of, if
+
+00:01:18.560 --> 00:01:23.320
+not the first, actually good spin the
+
+00:01:21.080 --> 00:01:25.760
+wheel website. Meaning, it had a strong
+
+00:01:23.320 --> 00:01:28.520
+first mover advantage. Basically, the
+
+00:01:25.760 --> 00:01:30.440
+creator saw a need for a specific tool,
+
+00:01:28.520 --> 00:01:32.920
+made it, and started very quickly
+
+00:01:30.440 --> 00:01:35.240
+getting free traffic since due to a lack
+
+00:01:32.920 --> 00:01:37.800
+of competition. It started ranking
+
+00:01:35.240 --> 00:01:40.080
+quickly within Google. But of course,
+
+00:01:37.800 --> 00:01:42.600
+all of this begs the question, how can a
+
+00:01:40.080 --> 00:01:44.800
+free website like this be monetized? And
+
+00:01:42.600 --> 00:01:46.440
+that's a very good question. Basically,
+
+00:01:44.800 --> 00:01:48.600
+if you take a look at this website, you
+
+00:01:46.440 --> 00:01:50.320
+can see it has ads on it. And these ads
+
+00:01:48.600 --> 00:01:52.760
+come from Google's own advertising
+
+00:01:50.320 --> 00:01:54.920
+program, Google AdSense. It's free, and
+
+00:01:52.760 --> 00:01:57.000
+anyone can sign up for this. When you
+
+00:01:54.920 --> 00:01:59.080
+do, Google will let you place their ads
+
+00:01:57.000 --> 00:02:00.960
+on your website, and they will split the
+
+00:01:59.080 --> 00:02:02.920
+profits with you. And while using an
+
+00:02:00.960 --> 00:02:04.640
+AdSense calculator, we can figure out
+
+00:02:02.920 --> 00:02:06.840
+the estimated earnings a website like
+
+00:02:04.640 --> 00:02:08.600
+this would earn on average. So, on
+
+00:02:06.840 --> 00:02:11.120
+average, a utility website like this
+
+00:02:08.600 --> 00:02:14.560
+generally has a 0.5% click-through rate
+
+00:02:11.120 --> 00:02:16.760
+for ads and around a 50-cent CPC, which
+
+00:02:14.560 --> 00:02:18.200
+basically means earnings per click. And
+
+00:02:16.760 --> 00:02:20.640
+by using this, we can figure out the
+
+00:02:18.200 --> 00:02:23.880
+estimated yearly, monthly, or daily
+
+00:02:20.640 --> 00:02:25.800
+earnings. Wow. As I said, it's kind of
+
+00:02:23.880 --> 00:02:28.120
+crazy, right? But of course, the next
+
+00:02:25.800 --> 00:02:30.040
+question is this. Okay, Sarah, that's
+
+00:02:28.120 --> 00:02:32.040
+great and all. Let's say I had come up
+
+00:02:30.040 --> 00:02:33.800
+with this idea myself to make a spin the
+
+00:02:32.040 --> 00:02:36.720
+wheel website to solve a problem for
+
+00:02:33.800 --> 00:02:38.760
+parties and game nights. I have my idea.
+
+00:02:36.720 --> 00:02:40.840
+That's one thing, but how would I
+
+00:02:38.760 --> 00:02:42.920
+actually make a website like this myself
+
+00:02:40.840 --> 00:02:44.920
+as a complete beginner who doesn't know
+
+00:02:42.920 --> 00:02:47.240
+any code? And that's another good
+
+00:02:44.920 --> 00:02:50.120
+question. And frankly, back before AI
+
+00:02:47.240 --> 00:02:52.400
+got so smart, you probably couldn't. I
+
+00:02:50.120 --> 00:02:54.760
+mean, I know that I couldn't if I'm just
+
+00:02:52.400 --> 00:02:57.360
+being honest and realistic here about my
+
+00:02:54.760 --> 00:02:59.880
+own skills. But now all-in-one vibe
+
+00:02:57.360 --> 00:03:02.440
+coding platforms exist. These combine AI
+
+00:02:59.880 --> 00:03:04.760
+LLMs like Code Code with AI image
+
+00:03:02.440 --> 00:03:07.640
+generators into a single website wrapper
+
+00:03:04.760 --> 00:03:09.720
+to not only vibe code apps and websites,
+
+00:03:07.640 --> 00:03:11.560
+but design them, too. Plus, they also
+
+00:03:09.720 --> 00:03:13.840
+offer web hosting. There are several to
+
+00:03:11.560 --> 00:03:16.600
+pick from, but the two most popular are
+
+00:03:13.840 --> 00:03:19.160
+Lovable and Base 44. They are both
+
+00:03:16.600 --> 00:03:20.880
+extremely similar to each other, so it
+
+00:03:19.160 --> 00:03:23.519
+really just comes down to personal
+
+00:03:20.880 --> 00:03:25.239
+preference in my opinion, which is why I
+
+00:03:23.519 --> 00:03:27.440
+recommend that you sign up to both of
+
+00:03:25.239 --> 00:03:29.360
+their free accounts because these let
+
+00:03:27.440 --> 00:03:31.239
+you vibe code a website or tool for
+
+00:03:29.360 --> 00:03:33.519
+free. And then you can use that to help
+
+00:03:31.239 --> 00:03:35.720
+you choose. My personal preference is
+
+00:03:33.519 --> 00:03:37.200
+Base 44. So, I'll be using it, and I
+
+00:03:35.720 --> 00:03:39.360
+will include my affiliate link to the
+
+00:03:37.200 --> 00:03:41.280
+free version if you'd like to use it to
+
+00:03:39.360 --> 00:03:43.320
+support the channel. But either way,
+
+00:03:41.280 --> 00:03:45.000
+just come to your vibe coding platform
+
+00:03:43.320 --> 00:03:47.519
+and tell it what you want your website
+
+00:03:45.000 --> 00:03:49.440
+to do. Then click to make plan. Now your
+
+00:03:47.519 --> 00:03:51.600
+vibe coding platform will take your idea
+
+00:03:49.440 --> 00:03:53.280
+and turn it into a written plan. And if
+
+00:03:51.600 --> 00:03:55.200
+you're happy with this, you can then
+
+00:03:53.280 --> 00:03:56.960
+click to start building. And then, well,
+
+00:03:55.200 --> 00:03:58.960
+that's it. It will now generate your
+
+00:03:56.960 --> 00:04:00.640
+website for you. Each time you build
+
+00:03:58.960 --> 00:04:02.560
+something, it uses some of your free
+
+00:04:00.640 --> 00:04:05.000
+credits. So, that's why I recommend
+
+00:04:02.560 --> 00:04:07.360
+making a plan first to ensure that it
+
+00:04:05.000 --> 00:04:09.680
+understands what you want before it goes
+
+00:04:07.360 --> 00:04:12.080
+ahead and builds it. But yes, in less
+
+00:04:09.680 --> 00:04:13.920
+than 2 minutes, it built it for me. And
+
+00:04:12.080 --> 00:04:15.320
+if we turn it into full-screen mode,
+
+00:04:13.920 --> 00:04:17.640
+here's how it looks. And it's
+
+00:04:15.320 --> 00:04:19.160
+interactive, too. So, we went ahead and
+
+00:04:17.640 --> 00:04:21.200
+deleted the filler names that the
+
+00:04:19.160 --> 00:04:24.080
+website started with and I added in a
+
+00:04:21.200 --> 00:04:26.440
+bunch of names to it just as an example.
+
+00:04:24.080 --> 00:04:29.080
+And then, I did a test spin to see if
+
+00:04:26.440 --> 00:04:31.560
+the wheel spin animation would work,
+
+00:04:29.080 --> 00:04:33.919
+which it did perfectly. It spun and
+
+00:04:31.560 --> 00:04:35.840
+randomly selected a winner. Pretty cool,
+
+00:04:33.919 --> 00:04:37.360
+right? And so, yeah, that's pretty much
+
+00:04:35.840 --> 00:04:39.480
+it. You can now come in and tweak your
+
+00:04:37.360 --> 00:04:41.440
+new website by adding things to it. So,
+
+00:04:39.480 --> 00:04:44.000
+for example, you take the original Spin
+
+00:04:41.440 --> 00:04:46.320
+the Wheel website here, right? They have
+
+00:04:44.000 --> 00:04:49.120
+a super cool little simulation tool that
+
+00:04:46.320 --> 00:04:51.600
+lets you simulate 10,000 spins using the
+
+00:04:49.120 --> 00:04:54.160
+randomization method to prove to the
+
+00:04:51.600 --> 00:04:56.680
+skeptics that yes, it is extremely
+
+00:04:54.160 --> 00:04:58.520
+random. Well, if I'd come up with this
+
+00:04:56.680 --> 00:05:00.800
+idea myself, I could have easily created
+
+00:04:58.520 --> 00:05:03.400
+this, too. All I need to do is just come
+
+00:05:00.800 --> 00:05:05.919
+back to the Base 44 chat and explain to
+
+00:05:03.400 --> 00:05:07.880
+it in general natural language terms
+
+00:05:05.919 --> 00:05:10.080
+what I want to add to it. And then
+
+00:05:07.880 --> 00:05:12.919
+that's it. It came in and it added it
+
+00:05:10.080 --> 00:05:15.080
+for me, no problem. And so, if we check
+
+00:05:12.919 --> 00:05:17.440
+it out by making the website full screen
+
+00:05:15.080 --> 00:05:19.520
+again, we can test it. You can see it
+
+00:05:17.440 --> 00:05:21.720
+added in a bunch of different simulation
+
+00:05:19.520 --> 00:05:24.360
+options for us. And if we click this one
+
+00:05:21.720 --> 00:05:26.640
+to spin it 1,000 times, it'll do just
+
+00:05:24.360 --> 00:05:28.120
+that and turn the results into a graph
+
+00:05:26.640 --> 00:05:31.200
+along with the percentage breakdown
+
+00:05:28.120 --> 00:05:34.440
+table of how many times each name won.
+
+00:05:31.200 --> 00:05:37.040
+So, this is one way to modify and add to
+
+00:05:34.440 --> 00:05:39.160
+your new website. Or another way is you
+
+00:05:37.040 --> 00:05:40.720
+can use the edit feature, which again,
+
+00:05:39.160 --> 00:05:43.800
+pretty much all of the Vibe coding
+
+00:05:40.720 --> 00:05:45.760
+platforms have, not just Base 44. Using
+
+00:05:43.800 --> 00:05:47.760
+these, you can just select what thing
+
+00:05:45.760 --> 00:05:49.840
+you want to modify on the page and
+
+00:05:47.760 --> 00:05:51.920
+explain how you want it to be changed or
+
+00:05:49.840 --> 00:05:54.080
+type in whatever text you want it to be
+
+00:05:51.920 --> 00:05:56.440
+switched out with. And then that's it.
+
+00:05:54.080 --> 00:05:58.360
+The AI will go in and change and modify
+
+00:05:56.440 --> 00:06:00.560
+it for you. So, I went in and made some
+
+00:05:58.360 --> 00:06:02.880
+tweaks to it to finalize my layout. I
+
+00:06:00.560 --> 00:06:04.520
+made the wheel much bigger and I moved
+
+00:06:02.880 --> 00:06:06.840
+the buttons to the right of the screen
+
+00:06:04.520 --> 00:06:09.000
+to improve the layout and I also added
+
+00:06:06.840 --> 00:06:11.000
+in a dark mode button toggle, which when
+
+00:06:09.000 --> 00:06:13.440
+you press will switch the website into
+
+00:06:11.000 --> 00:06:15.280
+dark mode. Plus, I also got it to then
+
+00:06:13.440 --> 00:06:17.080
+switch the toggle to light mode, which
+
+00:06:15.280 --> 00:06:19.120
+means then that you can just click that
+
+00:06:17.080 --> 00:06:21.400
+to turn it back. Although, something
+
+00:06:19.120 --> 00:06:23.800
+important to note is that when I first
+
+00:06:21.400 --> 00:06:26.120
+added this feature, it didn't initially
+
+00:06:23.800 --> 00:06:28.720
+work. You can see in my chat log that I
+
+00:06:26.120 --> 00:06:31.080
+initially asked to add the button, which
+
+00:06:28.720 --> 00:06:33.200
+it did, but when I tested it, the button
+
+00:06:31.080 --> 00:06:35.640
+was broken. So, I told it that it was
+
+00:06:33.200 --> 00:06:37.800
+broken and then it went back, analyzed
+
+00:06:35.640 --> 00:06:40.080
+the code, and it fixed it for me. So,
+
+00:06:37.800 --> 00:06:42.800
+yeah, that's how you can fix bugs while
+
+00:06:40.080 --> 00:06:44.640
+vibe coding. So then, let's now discuss
+
+00:06:42.800 --> 00:06:46.800
+the next step, which is publishing and
+
+00:06:44.640 --> 00:06:48.800
+hosting your new website so that people
+
+00:06:46.800 --> 00:06:50.880
+can actually use it. And for this, you
+
+00:06:48.800 --> 00:06:52.840
+have two options. One is that you can
+
+00:06:50.880 --> 00:06:55.120
+pay for your own web host and then
+
+00:06:52.840 --> 00:06:57.160
+migrate over your website yourself and
+
+00:06:55.120 --> 00:06:59.360
+Netlify is probably the most popular
+
+00:06:57.160 --> 00:07:00.760
+AI-focused web hosting platform to do
+
+00:06:59.360 --> 00:07:02.600
+this with and there are several
+
+00:07:00.760 --> 00:07:05.240
+tutorials here on YouTube that teach how
+
+00:07:02.600 --> 00:07:07.800
+to deploy your websites over there. So,
+
+00:07:05.240 --> 00:07:09.720
+this is one way. Or if, like me, you
+
+00:07:07.800 --> 00:07:11.640
+aren't that techy, you could just opt to
+
+00:07:09.720 --> 00:07:14.160
+upgrade your free account to the build
+
+00:07:11.640 --> 00:07:16.440
+plan, which includes web hosting. This
+
+00:07:14.160 --> 00:07:18.400
+is the simplest way to do it. If you do
+
+00:07:16.440 --> 00:07:20.760
+that, you can switch your new website
+
+00:07:18.400 --> 00:07:22.360
+from private mode to public mode. And
+
+00:07:20.760 --> 00:07:24.360
+now, they will give you a free domain
+
+00:07:22.360 --> 00:07:26.640
+name if you do this. And you know, this
+
+00:07:24.360 --> 00:07:28.400
+domain, it does work. So, if you did
+
+00:07:26.640 --> 00:07:30.600
+want to, you could keep this, but
+
+00:07:28.400 --> 00:07:32.680
+chances are you will want to change it,
+
+00:07:30.600 --> 00:07:35.360
+you know? In which case, you can get a
+
+00:07:32.680 --> 00:07:37.320
+custom domain for just $1 right now
+
+00:07:35.360 --> 00:07:40.080
+within your dashboard. Just open up the
+
+00:07:37.320 --> 00:07:42.400
+customs domain option, search the domain
+
+00:07:40.080 --> 00:07:44.840
+that you want, and if it's available,
+
+00:07:42.400 --> 00:07:47.040
+most domains start at just $1 when
+
+00:07:44.840 --> 00:07:49.200
+purchased through the domain provider
+
+00:07:47.040 --> 00:07:50.720
+ionos.
+
+00:07:49.200 --> 00:07:52.560
+So, just go through the checkout
+
+00:07:50.720 --> 00:07:54.480
+process, and then boom, it'll be
+
+00:07:52.560 --> 00:07:56.680
+automatically set up and connected to
+
+00:07:54.480 --> 00:07:59.120
+your website. So, yeah, that's pretty
+
+00:07:56.680 --> 00:08:01.640
+much it. Creating this was super fast. I
+
+00:07:59.120 --> 00:08:04.480
+went from website idea to an actual live
+
+00:08:01.640 --> 00:08:06.560
+hosted website in less than 30 minutes.
+
+00:08:04.480 --> 00:08:08.720
+But, of course, at this point here, you
+
+00:08:06.560 --> 00:08:10.520
+might be wondering, "Okay, Sarah, that's
+
+00:08:08.720 --> 00:08:12.960
+great and all, but once I've built my
+
+00:08:10.520 --> 00:08:14.960
+website, how do I get traffic to it?"
+
+00:08:12.960 --> 00:08:17.320
+And it's a good question. And the answer
+
+00:08:14.960 --> 00:08:19.640
+to this is actually pretty simple. You
+
+00:08:17.320 --> 00:08:21.360
+don't get traffic from what you do after
+
+00:08:19.640 --> 00:08:24.160
+you make your website, you get your
+
+00:08:21.360 --> 00:08:26.200
+traffic from what you do before you make
+
+00:08:24.160 --> 00:08:28.280
+it. Basically, the reason why this
+
+00:08:26.200 --> 00:08:31.080
+website was so successful was because it
+
+00:08:28.280 --> 00:08:33.400
+was one of, if not the first, decent
+
+00:08:31.080 --> 00:08:35.120
+online spin the wheel website. And so, I
+
+00:08:33.400 --> 00:08:37.200
+reckon that this is the best strategy
+
+00:08:35.120 --> 00:08:39.960
+for getting traffic. Try to research and
+
+00:08:37.200 --> 00:08:42.120
+brainstorm an idea for a simple website
+
+00:08:39.960 --> 00:08:44.200
+that doesn't yet exist that you could
+
+00:08:42.120 --> 00:08:46.880
+make that would solve a problem that
+
+00:08:44.200 --> 00:08:48.800
+people are directly looking for. That
+
+00:08:46.880 --> 00:08:51.480
+way, you can piggyback off of free
+
+00:08:48.800 --> 00:08:54.200
+search engine traffic from Google. So,
+
+00:08:51.480 --> 00:08:56.400
+for example, right? I came to Google and
+
+00:08:54.200 --> 00:08:58.440
+I did a search for a clothing size
+
+00:08:56.400 --> 00:09:00.839
+converter. And take a look, there were
+
+00:08:58.440 --> 00:09:02.440
+no dedicated converters. Instead, I was
+
+00:09:00.839 --> 00:09:04.360
+just given a bunch of websites which
+
+00:09:02.440 --> 00:09:07.120
+have clothing charts. And while these
+
+00:09:04.360 --> 00:09:10.160
+clothing charts are helpful, I suppose
+
+00:09:07.120 --> 00:09:13.240
+they aren't exactly what I want. I want
+
+00:09:10.160 --> 00:09:15.240
+an actual converter. So, guess what? If
+
+00:09:13.240 --> 00:09:18.080
+I go ahead and use a Vibe coding tool
+
+00:09:15.240 --> 00:09:20.120
+like Base 44 or Lovable to make this,
+
+00:09:18.080 --> 00:09:21.880
+then I'll be the first one to do it. And
+
+00:09:20.120 --> 00:09:24.360
+if I do, there's a good chance that
+
+00:09:21.880 --> 00:09:26.280
+Google will rank me very highly, if not
+
+00:09:24.360 --> 00:09:28.560
+at the very top, for search phrases
+
+00:09:26.280 --> 00:09:30.640
+related to it, since I'll be the first
+
+00:09:28.560 --> 00:09:32.360
+true clothing converter. So, it's up to
+
+00:09:30.640 --> 00:09:34.600
+you, of course, how you choose to get
+
+00:09:32.360 --> 00:09:36.040
+traffic to your website, but for me, I
+
+00:09:34.600 --> 00:09:38.400
+think that this is the most effective
+
+00:09:36.040 --> 00:09:40.960
+strategy. Don't pay for traffic or pay
+
+00:09:38.400 --> 00:09:43.120
+for marketing. Instead, just let Google
+
+00:09:40.960 --> 00:09:45.480
+naturally rank your website and send it
+
+00:09:43.120 --> 00:09:47.840
+free traffic by coming up with unique
+
+00:09:45.480 --> 00:09:50.520
+and original ideas to build a website
+
+00:09:47.840 --> 00:09:52.440
+for. And check it out. Base 44 was able
+
+00:09:50.520 --> 00:09:55.320
+to vibe code a clothing converter for
+
+00:09:52.440 --> 00:09:57.200
+me, no problem. As you can see, it added
+
+00:09:55.320 --> 00:09:59.680
+in all of the different clothing types
+
+00:09:57.200 --> 00:10:01.560
+and it converts them perfectly. However,
+
+00:09:59.680 --> 00:10:03.640
+in saying this, I'm sure that this all
+
+00:10:01.560 --> 00:10:06.360
+raises a new question in a lot of people
+
+00:10:03.640 --> 00:10:08.280
+watching, which is this. Okay, sir. Cool
+
+00:10:06.360 --> 00:10:10.440
+idea you came up with and all, but what
+
+00:10:08.280 --> 00:10:12.800
+about me? How do I come up with the
+
+00:10:10.440 --> 00:10:15.080
+unique idea like this? And that is also
+
+00:10:12.800 --> 00:10:17.920
+a good question. And well, there is no
+
+00:10:15.080 --> 00:10:19.880
+magical answer. Personally, one of the
+
+00:10:17.920 --> 00:10:22.080
+ways that I get inspired and come up
+
+00:10:19.880 --> 00:10:23.960
+with my own ideas is by taking a look at
+
+00:10:22.080 --> 00:10:26.320
+case studies of other people who have
+
+00:10:23.960 --> 00:10:28.600
+been successful doing a very similar
+
+00:10:26.320 --> 00:10:30.280
+things. And so, with that in mind then,
+
+00:10:28.600 --> 00:10:32.560
+let's come and take a look at another
+
+00:10:30.280 --> 00:10:35.120
+case study to help us get inspiration.
+
+00:10:32.560 --> 00:10:37.480
+This website here, Rhymesone. This helps
+
+00:10:35.120 --> 00:10:39.960
+people solve problems related to words.
+
+00:10:37.480 --> 00:10:41.760
+Basically, it is a rhyme matcher. You
+
+00:10:39.960 --> 00:10:44.040
+enter in a word and it will match it to
+
+00:10:41.760 --> 00:10:45.960
+a bunch of other words that rhyme while
+
+00:10:44.040 --> 00:10:48.040
+giving it a score. People use this
+
+00:10:45.960 --> 00:10:50.360
+website to help them create rhymes and
+
+00:10:48.040 --> 00:10:52.200
+to write poetry. And check this out. If
+
+00:10:50.360 --> 00:10:54.920
+we come and enter this into the website
+
+00:10:52.200 --> 00:10:57.080
+traffic checker by Ahref, you'll see
+
+00:10:54.920 --> 00:10:59.440
+that it estimates that it's getting over
+
+00:10:57.080 --> 00:11:01.120
+1 million views every month. So of
+
+00:10:59.440 --> 00:11:03.080
+course, we can now take this traffic
+
+00:11:01.120 --> 00:11:05.480
+data and enter it into an AdSense
+
+00:11:03.080 --> 00:11:06.960
+earnings calculator. This website had
+
+00:11:05.480 --> 00:11:09.320
+more ads than the spin the wheel
+
+00:11:06.960 --> 00:11:11.240
+website. I noticed on average four ads
+
+00:11:09.320 --> 00:11:14.040
+per page, which bumped up the average
+
+00:11:11.240 --> 00:11:16.360
+earnings per view by quite a lot. But of
+
+00:11:14.040 --> 00:11:18.440
+course, this begs the question. Let's
+
+00:11:16.360 --> 00:11:20.839
+say that you had come up with an idea
+
+00:11:18.440 --> 00:11:24.000
+like this. Could you have vibe coded it
+
+00:11:20.839 --> 00:11:25.880
+together using AI? The answer is yes.
+
+00:11:24.000 --> 00:11:27.960
+Yes, you absolutely could. And let me
+
+00:11:25.880 --> 00:11:29.760
+show you how. All you need to do is come
+
+00:11:27.960 --> 00:11:31.920
+to your all-in-one vibe coding platform
+
+00:11:29.760 --> 00:11:33.880
+that you like and tell it exactly what
+
+00:11:31.920 --> 00:11:36.120
+the website should do. In this case, of
+
+00:11:33.880 --> 00:11:38.280
+course, I wanted it to be a website that
+
+00:11:36.120 --> 00:11:40.080
+lets a user enter in a word, which would
+
+00:11:38.280 --> 00:11:42.640
+then get matched to other words that
+
+00:11:40.080 --> 00:11:43.920
+rhymed, and ranked them, and also noted
+
+00:11:42.640 --> 00:11:45.960
+whether they were stressed or
+
+00:11:43.920 --> 00:11:48.240
+unstressed, and noted what type of word
+
+00:11:45.960 --> 00:11:50.080
+they were, such as a verb or a noun.
+
+00:11:48.240 --> 00:11:51.880
+Then I clicked to have it create a plan,
+
+00:11:50.080 --> 00:11:53.760
+and that was it. I let it make a plan,
+
+00:11:51.880 --> 00:11:55.320
+and after reading over it to make sure
+
+00:11:53.760 --> 00:11:57.720
+that it understood exactly what I
+
+00:11:55.320 --> 00:11:59.880
+wanted, I went ahead and I let it do its
+
+00:11:57.720 --> 00:12:02.760
+magic. I obviously sped it up for this
+
+00:11:59.880 --> 00:12:04.480
+video, but in total, it took just over 2
+
+00:12:02.760 --> 00:12:06.040
+minutes. And when it was done, I, of
+
+00:12:04.480 --> 00:12:07.960
+course, had to test that the website
+
+00:12:06.040 --> 00:12:10.240
+actually works. And check it out, it
+
+00:12:07.960 --> 00:12:12.880
+works great. You enter in a word, and it
+
+00:12:10.240 --> 00:12:15.920
+will identify rhymes, and it even ranks
+
+00:12:12.880 --> 00:12:17.880
+them, too. Super cool. So, once you have
+
+00:12:15.920 --> 00:12:20.120
+your base design, you can then change
+
+00:12:17.880 --> 00:12:22.000
+things or add additional features to it.
+
+00:12:20.120 --> 00:12:23.600
+For example, that original website,
+
+00:12:22.000 --> 00:12:25.560
+RhymeZone, doesn't just have a rhyme
+
+00:12:23.600 --> 00:12:27.640
+checker, it has a drop-down menu that
+
+00:12:25.560 --> 00:12:29.560
+lets you use other tools, such as a
+
+00:12:27.640 --> 00:12:32.000
+synonym checker. This lets you input a
+
+00:12:29.560 --> 00:12:34.200
+word and find synonyms for it, which is
+
+00:12:32.000 --> 00:12:35.720
+helpful when writing. Well, you can add
+
+00:12:34.200 --> 00:12:37.760
+in additional tools like this to a
+
+00:12:35.720 --> 00:12:40.160
+website when you vibe code, too. Just
+
+00:12:37.760 --> 00:12:42.200
+explain in the chat window the extra new
+
+00:12:40.160 --> 00:12:44.080
+feature that you would like to add, and
+
+00:12:42.200 --> 00:12:46.160
+then that's it, it'll go in and add it
+
+00:12:44.080 --> 00:12:48.240
+for you. In total, this took less than a
+
+00:12:46.160 --> 00:12:50.400
+minute for it to add in, and check it
+
+00:12:48.240 --> 00:12:52.640
+out. Now you can enter in a word and
+
+00:12:50.400 --> 00:12:54.480
+choose a synonym option, and then do a
+
+00:12:52.640 --> 00:12:56.640
+search, and instead of finding rhymes,
+
+00:12:54.480 --> 00:12:58.920
+it will match it to synonyms, which is
+
+00:12:56.640 --> 00:13:01.120
+very cool. So yes, if you come up with a
+
+00:12:58.920 --> 00:13:03.440
+unique idea for a website that can solve
+
+00:13:01.120 --> 00:13:05.800
+problems related to words, then it can
+
+00:13:03.440 --> 00:13:07.400
+work great. So then, on to the next type
+
+00:13:05.800 --> 00:13:09.200
+of simple website that people are
+
+00:13:07.400 --> 00:13:11.760
+searching for to help give you
+
+00:13:09.200 --> 00:13:13.640
+inspiration. But first, just a quick
+
+00:13:11.760 --> 00:13:15.480
+favor, if you are enjoying this video
+
+00:13:13.640 --> 00:13:17.440
+and it is helping you, please consider
+
+00:13:15.480 --> 00:13:19.640
+giving it a like. I create lots of
+
+00:13:17.440 --> 00:13:21.560
+tutorials on how to use AI tools on this
+
+00:13:19.640 --> 00:13:24.120
+channel, and I have recently had a big
+
+00:13:21.560 --> 00:13:26.560
+influx of people who do not like AI
+
+00:13:24.120 --> 00:13:29.640
+disliking my videos. And honestly, it
+
+00:13:26.560 --> 00:13:31.680
+can be a tad demotivating. So, if you do
+
+00:13:29.640 --> 00:13:34.160
+choose to click like on my videos if
+
+00:13:31.680 --> 00:13:36.280
+they are helping you, I do genuinely
+
+00:13:34.160 --> 00:13:38.840
+appreciate that. So, thank you if you
+
+00:13:36.280 --> 00:13:40.480
+choose to do so. But yes, either way,
+
+00:13:38.840 --> 00:13:43.080
+this is the next type of website that
+
+00:13:40.480 --> 00:13:45.080
+people are searching for, and that is
+
+00:13:43.080 --> 00:13:48.160
+generators. So, this here is a great
+
+00:13:45.080 --> 00:13:50.760
+example. It is a filler text generator.
+
+00:13:48.160 --> 00:13:52.760
+Lorem Ipsum is a dummy text language
+
+00:13:50.760 --> 00:13:56.120
+that was designed to look similar to
+
+00:13:52.760 --> 00:13:58.360
+actual words, but be nonsense. sorry, it
+
+00:13:56.120 --> 00:14:00.520
+can be used as a generic placeholder.
+
+00:13:58.360 --> 00:14:02.080
+This website lets you easily and very
+
+00:14:00.520 --> 00:14:04.240
+quickly generate sentences and
+
+00:14:02.080 --> 00:14:06.840
+paragraphs to use. It's often used by
+
+00:14:04.240 --> 00:14:08.920
+people who are, say, designing a website
+
+00:14:06.840 --> 00:14:11.280
+or a template for a client, and they
+
+00:14:08.920 --> 00:14:13.080
+need to add some dummy text to it. And
+
+00:14:11.280 --> 00:14:14.520
+take a look, if we pop into the website
+
+00:14:13.080 --> 00:14:16.640
+traffic checker, you can see it
+
+00:14:14.520 --> 00:14:18.800
+estimates that it's getting over 1.3
+
+00:14:16.640 --> 00:14:20.600
+million views every month. So, of
+
+00:14:18.800 --> 00:14:22.840
+course, we can now take this traffic
+
+00:14:20.600 --> 00:14:25.160
+estimate and then pop it into the Google
+
+00:14:22.840 --> 00:14:26.720
+AdSense revenue calculator, and again,
+
+00:14:25.160 --> 00:14:28.800
+using an average click-through rate
+
+00:14:26.720 --> 00:14:30.480
+along with an average cost per click, we
+
+00:14:28.800 --> 00:14:33.600
+can estimate how much it is earning
+
+00:14:30.480 --> 00:14:35.680
+every day, week, and month. Not bad for
+
+00:14:33.600 --> 00:14:38.080
+a simple little website, right? But of
+
+00:14:35.680 --> 00:14:40.520
+course, the next question is this. Okay,
+
+00:14:38.080 --> 00:14:42.839
+Sarah, but if I came up with an idea for
+
+00:14:40.520 --> 00:14:45.000
+a generator website, is this actually
+
+00:14:42.839 --> 00:14:48.040
+something that I can vibe code together?
+
+00:14:45.000 --> 00:14:50.200
+And the answer is yes, absolutely. So,
+
+00:14:48.040 --> 00:14:52.440
+as an example, let's say that you had
+
+00:14:50.200 --> 00:14:55.040
+come up with the idea to create a Lorem
+
+00:14:52.440 --> 00:14:57.280
+Ipsum generator. Well, you could totally
+
+00:14:55.040 --> 00:15:00.160
+just come to a vibe code platform like
+
+00:14:57.280 --> 00:15:02.280
+Lovable or Base44 and ask it to create a
+
+00:15:00.160 --> 00:15:04.839
+generator for you, explaining what
+
+00:15:02.280 --> 00:15:07.720
+exactly you want, and it'll do that, no
+
+00:15:04.839 --> 00:15:09.520
+problem. So, come and check it out. If
+
+00:15:07.720 --> 00:15:11.080
+we give the website a go, you'll see
+
+00:15:09.520 --> 00:15:12.960
+that it works perfectly. It lets me
+
+00:15:11.080 --> 00:15:14.880
+choose how many sentences that I
+
+00:15:12.960 --> 00:15:17.520
+generate, or it lets me switch to
+
+00:15:14.880 --> 00:15:19.960
+paragraphs and choose how many of those
+
+00:15:17.520 --> 00:15:21.920
+I want to generate. But you know, this
+
+00:15:19.960 --> 00:15:24.800
+is actually a fairly easy thing,
+
+00:15:21.920 --> 00:15:27.680
+relatively speaking, for it to create.
+
+00:15:24.800 --> 00:15:29.160
+So, let's put it to the test because
+
+00:15:27.680 --> 00:15:32.400
+take a look at this, right? On the
+
+00:15:29.160 --> 00:15:34.440
+original Lorem ipsum generator, it
+
+00:15:32.400 --> 00:15:36.720
+doesn't just let you add an English
+
+00:15:34.440 --> 00:15:39.280
+Lorem ipsum. It lets you choose from
+
+00:15:36.720 --> 00:15:41.920
+other languages, too. That is much more
+
+00:15:39.280 --> 00:15:44.360
+complex. So, as a test, I went ahead and
+
+00:15:41.920 --> 00:15:46.400
+I asked the AI to do this and I searched
+
+00:15:44.360 --> 00:15:49.200
+out by giving it three relatively easy
+
+00:15:46.400 --> 00:15:51.000
+languages, French, Spanish, and German,
+
+00:15:49.200 --> 00:15:53.120
+and then I just sat back and let it work
+
+00:15:51.000 --> 00:15:55.120
+its AI magic and in less than a minute,
+
+00:15:53.120 --> 00:15:57.320
+it added this feature in for me. And
+
+00:15:55.120 --> 00:15:59.360
+take a look. If we give it a quick test
+
+00:15:57.320 --> 00:16:01.640
+run, you will see that it has now added
+
+00:15:59.360 --> 00:16:04.000
+in toggles for each of the languages,
+
+00:16:01.640 --> 00:16:06.560
+and if you go ahead and generate dummy
+
+00:16:04.000 --> 00:16:10.400
+text in it, it'll generate it in the new
+
+00:16:06.560 --> 00:16:13.160
+language. Very cool. But yes, I had one
+
+00:16:10.400 --> 00:16:15.120
+final test to give it. I decided to see
+
+00:16:13.160 --> 00:16:17.680
+if it could take on a much bigger
+
+00:16:15.120 --> 00:16:19.680
+challenge to create toggles for four of
+
+00:16:17.680 --> 00:16:22.360
+the most difficult languages to learn
+
+00:16:19.680 --> 00:16:25.040
+and keep correct, Chinese, Japanese,
+
+00:16:22.360 --> 00:16:28.000
+Korean, and Arabic. And then I sat back
+
+00:16:25.040 --> 00:16:30.360
+and again, let the AI do its magic. And
+
+00:16:28.000 --> 00:16:31.960
+in less than 1 minute, it added these
+
+00:16:30.360 --> 00:16:33.320
+toggles for me.
+
+00:16:31.960 --> 00:16:35.360
+Now, if we come and give them a quick
+
+00:16:33.320 --> 00:16:37.440
+test, you'll see that yep, they do
+
+00:16:35.360 --> 00:16:39.640
+indeed work. When you switch to it, it
+
+00:16:37.440 --> 00:16:41.720
+changes the language and if you generate
+
+00:16:39.640 --> 00:16:44.240
+text in it, it'll generate it using
+
+00:16:41.720 --> 00:16:47.600
+dummy text inspired by the language that
+
+00:16:44.240 --> 00:16:49.160
+you picked. Super cool. So then, onto
+
+00:16:47.600 --> 00:16:51.400
+the next type of website that people are
+
+00:16:49.160 --> 00:16:53.960
+looking for to help inspire you to come
+
+00:16:51.400 --> 00:16:56.440
+up with your own website idea, which is
+
+00:16:53.960 --> 00:16:58.880
+this, calculators. So, this here is a
+
+00:16:56.440 --> 00:17:00.560
+great example of a simple calculator.
+
+00:16:58.880 --> 00:17:02.440
+It's designed to help you track how many
+
+00:17:00.560 --> 00:17:05.199
+calories you burn each day. It's a
+
+00:17:02.440 --> 00:17:07.680
+simple basic website, but it does get
+
+00:17:05.199 --> 00:17:09.400
+lots of views. And I mean a lot of
+
+00:17:07.680 --> 00:17:11.400
+views. If you pop it into the traffic
+
+00:17:09.400 --> 00:17:13.800
+estimator tool, you'll see it estimates
+
+00:17:11.400 --> 00:17:14.959
+it's getting over 1.3 million views per
+
+00:17:13.800 --> 00:17:17.560
+month.
+
+00:17:14.959 --> 00:17:18.920
+Wow. And check out this calculator here.
+
+00:17:17.560 --> 00:17:20.880
+This one is designed to help you
+
+00:17:18.920 --> 00:17:23.040
+calculate what your mortgage repayments
+
+00:17:20.880 --> 00:17:24.800
+would be for a house and also calculate
+
+00:17:23.040 --> 00:17:26.880
+how much interest you would pay over
+
+00:17:24.800 --> 00:17:29.200
+time while accounting for property
+
+00:17:26.880 --> 00:17:31.200
+taxes. And this calculator is even more
+
+00:17:29.200 --> 00:17:33.200
+popular. If we check it out using the
+
+00:17:31.200 --> 00:17:35.560
+traffic estimator tool, you can see it
+
+00:17:33.200 --> 00:17:37.720
+estimates it's getting over 2.2 million
+
+00:17:35.560 --> 00:17:39.360
+views per month. And of course, speaking
+
+00:17:37.720 --> 00:17:41.080
+of calculators, we can use another
+
+00:17:39.360 --> 00:17:42.800
+calculator that we've been utilizing
+
+00:17:41.080 --> 00:17:45.080
+throughout this video, the Google
+
+00:17:42.800 --> 00:17:46.680
+AdSense calculator, to estimate how much
+
+00:17:45.080 --> 00:17:49.160
+you would expect to earn on average
+
+00:17:46.680 --> 00:17:51.680
+every day, week, and month for traffic
+
+00:17:49.160 --> 00:17:54.400
+like this. And actually, I'm pretty sure
+
+00:17:51.680 --> 00:17:56.400
+but this website earns even more than
+
+00:17:54.400 --> 00:17:58.760
+this because it has these links on the
+
+00:17:56.400 --> 00:18:00.960
+website to where you can click to go get
+
+00:17:58.760 --> 00:18:03.480
+mortgage quotes. And these look like
+
+00:18:00.960 --> 00:18:05.320
+affiliate links to me, which are links
+
+00:18:03.480 --> 00:18:07.960
+which track who clicks on them and then
+
+00:18:05.320 --> 00:18:10.680
+who purchases or signs up for a mortgage
+
+00:18:07.960 --> 00:18:12.640
+after doing so. And if someone does do
+
+00:18:10.680 --> 00:18:15.200
+that, the website owner will get paid a
+
+00:18:12.640 --> 00:18:17.680
+commission. So yeah, it's kind of hard
+
+00:18:15.200 --> 00:18:20.000
+to say just how much money that this
+
+00:18:17.680 --> 00:18:22.440
+website is making, but my guess is that
+
+00:18:20.000 --> 00:18:24.160
+it's making a lot. But of course, this
+
+00:18:22.440 --> 00:18:26.200
+all begs the question. If you come up
+
+00:18:24.160 --> 00:18:28.400
+with an idea for a calculator, can a
+
+00:18:26.200 --> 00:18:31.120
+vibe coding platform like Lovable or
+
+00:18:28.400 --> 00:18:33.400
+Base44 make it for you? And so, I
+
+00:18:31.120 --> 00:18:35.920
+decided to come and put it to the test.
+
+00:18:33.400 --> 00:18:38.400
+And admittedly, I'm not an expert in how
+
+00:18:35.920 --> 00:18:40.520
+mortgages work in the USA, but I know
+
+00:18:38.400 --> 00:18:42.560
+how mortgages work here where I live,
+
+00:18:40.520 --> 00:18:44.680
+which is New Zealand. So I decided to
+
+00:18:42.560 --> 00:18:46.800
+see if I could vibe code together
+
+00:18:44.680 --> 00:18:49.000
+calculator for New Zealanders. And this
+
+00:18:46.800 --> 00:18:51.160
+can actually be a smart strategy. If you
+
+00:18:49.000 --> 00:18:53.760
+see, say, a website idea working in the
+
+00:18:51.160 --> 00:18:56.280
+USA, you can often successfully clone it
+
+00:18:53.760 --> 00:18:58.640
+for a different region and monetize that
+
+00:18:56.280 --> 00:19:00.800
+way. And check it out. It took about 2
+
+00:18:58.640 --> 00:19:02.640
+minutes, but it created it for me pretty
+
+00:19:00.800 --> 00:19:04.880
+much perfectly. You can enter in your
+
+00:19:02.640 --> 00:19:07.440
+details to the calculator and the graph
+
+00:19:04.880 --> 00:19:09.400
+and repayments will calculate and change
+
+00:19:07.440 --> 00:19:11.320
+based on what you enter. And it also
+
+00:19:09.400 --> 00:19:13.880
+figured out what should be added into
+
+00:19:11.320 --> 00:19:16.240
+the calculator to make it specific and
+
+00:19:13.880 --> 00:19:18.280
+regionalized for New Zealand as well,
+
+00:19:16.240 --> 00:19:20.360
+which was super helpful.
+
+00:19:18.280 --> 00:19:22.240
+So then, I hope that my tutorials and my
+
+00:19:20.360 --> 00:19:23.960
+case studies have inspired you. And if
+
+00:19:22.240 --> 00:19:25.760
+you'd like to learn about even more ways
+
+00:19:23.960 --> 00:19:27.800
+that people are using AI tools to start
+
+00:19:25.760 --> 00:19:29.760
+online businesses, be sure to check out
+
+00:19:27.800 --> 00:19:33.280
+my next video here on screen, and I will
+
+00:19:29.760 --> 00:19:33.280
+see you in the next video.
+

@@ -1,0 +1,1139 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.120
+The smartest entrepreneurs making six to
+
+00:00:01.960 --> 00:00:06.480
+seven figures online are one-person
+
+00:00:04.120 --> 00:00:09.040
+business machines who use Claude Code to
+
+00:00:06.480 --> 00:00:10.560
+do 90% of their work. So, in this video,
+
+00:00:09.040 --> 00:00:12.520
+I'm going to show you step-by-step how
+
+00:00:10.560 --> 00:00:14.480
+to use Claude Code to find a winning AI
+
+00:00:12.520 --> 00:00:16.640
+business idea, build an irresistible
+
+00:00:14.480 --> 00:00:18.520
+offer, build an MVP and high-converting
+
+00:00:16.640 --> 00:00:19.650
+website to sell it, handle marketing for
+
+00:00:18.520 --> 00:00:22.640
+you, and help you close five-figure
+
+00:00:19.650 --> 00:00:24.800
+[music] deals. One person, no team, no
+
+00:00:22.640 --> 00:00:26.680
+agency, just you and Claude Code running
+
+00:00:24.800 --> 00:00:27.320
+the entire operation. How is this
+
+00:00:26.680 --> 00:00:29.360
+possible?
+
+00:00:27.320 --> 00:00:30.560
+>> Let me show you. Now, as an ex-big tech
+
+00:00:29.360 --> 00:00:32.360
+software engineer turned AI
+
+00:00:30.560 --> 00:00:35.440
+entrepreneur, I built apps that got
+
+00:00:32.360 --> 00:00:37.200
+$200,000 offers, scaled 150-plus AI
+
+00:00:35.440 --> 00:00:38.680
+businesses, and I spent most of my time
+
+00:00:37.200 --> 00:00:40.240
+building, shipping, and showing other
+
+00:00:38.680 --> 00:00:41.800
+people how to do the same. I've been
+
+00:00:40.240 --> 00:00:43.520
+using Claude Code since it launched, and
+
+00:00:41.800 --> 00:00:45.800
+I'm not exaggerating when I say it's the
+
+00:00:43.520 --> 00:00:48.200
+most powerful tool in my stack right now
+
+00:00:45.800 --> 00:00:49.760
+for all of my AI businesses. Even my
+
+00:00:48.200 --> 00:00:51.400
+content stuff, like these YouTube videos
+
+00:00:49.760 --> 00:00:53.480
+right here, I use Claude Code to help
+
+00:00:51.400 --> 00:00:55.360
+with ideation, planning, scripting, even
+
+00:00:53.480 --> 00:00:58.440
+the thumbnails. See, Claude Code is a
+
+00:00:55.360 --> 00:01:00.440
+full-on junior-level engineer. Like, it
+
+00:00:58.440 --> 00:01:02.280
+can You give it a go, and it plans,
+
+00:01:00.440 --> 00:01:04.040
+reasons, writes files, runs commands,
+
+00:01:02.280 --> 00:01:06.000
+reads your whole codebase, iterates all
+
+00:01:04.040 --> 00:01:08.000
+on its own. It's like AI Superman. And
+
+00:01:06.000 --> 00:01:10.000
+according to Anthropic, Claude Code can
+
+00:01:08.000 --> 00:01:11.840
+autonomously handle full software
+
+00:01:10.000 --> 00:01:13.520
+development tasks end-to-end. And based
+
+00:01:11.840 --> 00:01:15.320
+on my experience, this dashboard I
+
+00:01:13.520 --> 00:01:16.920
+created right here is very true.
+
+00:01:15.320 --> 00:01:19.080
+Developers using in production are
+
+00:01:16.920 --> 00:01:20.920
+shipping 30 to 50% faster, and for a
+
+00:01:19.080 --> 00:01:22.880
+solo founder, that's the entire unfair
+
+00:01:20.920 --> 00:01:24.560
+advantage right there. But the tragedy
+
+00:01:22.880 --> 00:01:26.440
+is that most people only use Claude Code
+
+00:01:24.560 --> 00:01:27.720
+to build the MVP of their app. Well, I'm
+
+00:01:26.440 --> 00:01:29.560
+going to show you how to use it for
+
+00:01:27.720 --> 00:01:31.000
+everything. Okay, everyone wants a
+
+00:01:29.560 --> 00:01:32.640
+million-dollar idea. Everyone thinks
+
+00:01:31.000 --> 00:01:34.480
+about it all wrong. You are one of those
+
+00:01:32.640 --> 00:01:36.080
+people. You say, I don't know what to
+
+00:01:34.480 --> 00:01:38.120
+build. Is this an idea people would even
+
+00:01:36.080 --> 00:01:40.920
+buy? So, instead of taking any action,
+
+00:01:38.120 --> 00:01:42.880
+you get analysis paralysis, months pass
+
+00:01:40.920 --> 00:01:44.600
+by with no progress. Here's how to use
+
+00:01:42.880 --> 00:01:46.200
+Claude Code to fix that. You use its
+
+00:01:44.600 --> 00:01:48.160
+research and reasoning abilities to do
+
+00:01:46.200 --> 00:01:49.560
+the ideation for you. Let me show you. I
+
+00:01:48.160 --> 00:01:51.440
+open Claude Code, and I give it a
+
+00:01:49.560 --> 00:01:53.400
+structured prompt, something like, "You
+
+00:01:51.440 --> 00:01:55.160
+are a product researcher. Scrape the top
+
+00:01:53.400 --> 00:01:57.080
+50 Product Hunt launches from the last
+
+00:01:55.160 --> 00:01:59.400
+30 days. Analyze the problem each
+
+00:01:57.080 --> 00:02:01.640
+product solves, identify patterns in the
+
+00:01:59.400 --> 00:02:03.440
+pain points, and give me the top five
+
+00:02:01.640 --> 00:02:05.479
+underserved opportunities ranked by
+
+00:02:03.440 --> 00:02:07.360
+market size and buildability for solo
+
+00:02:05.479 --> 00:02:09.720
+developer. Buildability, what a funny
+
+00:02:07.360 --> 00:02:11.880
+word. Claude Co will then browse, read,
+
+00:02:09.720 --> 00:02:14.280
+synthesize, and hand me a ranked list of
+
+00:02:11.880 --> 00:02:15.880
+ideas with reasoning. See, Claude isn't
+
+00:02:14.280 --> 00:02:17.640
+like ChatGPT which gives me a generic
+
+00:02:15.880 --> 00:02:19.600
+list. This is a full-on agentic system
+
+00:02:17.640 --> 00:02:21.080
+doing real research in real time. But,
+
+00:02:19.600 --> 00:02:23.280
+here's how I take it even one step
+
+00:02:21.080 --> 00:02:25.160
+further. I take the top idea and I say,
+
+00:02:23.280 --> 00:02:26.800
+"Now, find me five Reddit communities
+
+00:02:25.160 --> 00:02:28.680
+where this pain point is discussed. Pull
+
+00:02:26.800 --> 00:02:30.360
+the most uploaded post complaining about
+
+00:02:28.680 --> 00:02:32.040
+this problem. Summarize the language
+
+00:02:30.360 --> 00:02:33.880
+people use to describe the frustration."
+
+00:02:32.040 --> 00:02:36.840
+And this prompt right here gives me a
+
+00:02:33.880 --> 00:02:39.280
+full-on market research debrief and the
+
+00:02:36.840 --> 00:02:41.160
+exact words my customers use to describe
+
+00:02:39.280 --> 00:02:42.640
+their own problem. That's literal
+
+00:02:41.160 --> 00:02:44.520
+marketing gold and I'll show you how to
+
+00:02:42.640 --> 00:02:46.280
+turn this gold into profits when we
+
+00:02:44.520 --> 00:02:48.120
+discuss marketing later in the video.
+
+00:02:46.280 --> 00:02:49.800
+Now, before committing to an idea, I ask
+
+00:02:48.120 --> 00:02:51.160
+Claude Co to search for competitors,
+
+00:02:49.800 --> 00:02:53.280
+analyze their pricing, look at the
+
+00:02:51.160 --> 00:02:55.160
+reviews on G2 or Trustpilot, and tell me
+
+00:02:53.280 --> 00:02:56.840
+the top three complaint users have have
+
+00:02:55.160 --> 00:02:58.400
+about the existing solutions. Whatever
+
+00:02:56.840 --> 00:03:00.000
+the complaints are, that gap right
+
+00:02:58.400 --> 00:03:01.800
+there, that's my product. The whole
+
+00:03:00.000 --> 00:03:03.160
+ideation phase used to take me weeks,
+
+00:03:01.800 --> 00:03:05.160
+you know, find that gap doing the market
+
+00:03:03.160 --> 00:03:06.720
+research. But now, it's a 2-hour Claude
+
+00:03:05.160 --> 00:03:08.720
+Co session and I walk out with a
+
+00:03:06.720 --> 00:03:10.800
+validated idea, competitive analysis,
+
+00:03:08.720 --> 00:03:12.120
+and customer language all from one tool.
+
+00:03:10.800 --> 00:03:14.080
+All right, now that you've got your
+
+00:03:12.120 --> 00:03:16.160
+idea, let's actually build. And look, I
+
+00:03:14.080 --> 00:03:17.720
+completely vibe code my apps now. I'm a
+
+00:03:16.160 --> 00:03:19.560
+software engineer who's been coding for
+
+00:03:17.720 --> 00:03:21.360
+over 10-plus years and I still let
+
+00:03:19.560 --> 00:03:23.680
+Claude Co do the heavy lifting. It's
+
+00:03:21.360 --> 00:03:25.239
+just faster and for an MVP, speed is
+
+00:03:23.680 --> 00:03:26.640
+everything. All we care about is getting
+
+00:03:25.239 --> 00:03:28.400
+out there to the market, getting some
+
+00:03:26.640 --> 00:03:29.800
+feedback, and iterating on any of the
+
+00:03:28.400 --> 00:03:31.480
+changes needed. With all that being
+
+00:03:29.800 --> 00:03:33.440
+said, here's a thing most people don't
+
+00:03:31.480 --> 00:03:35.920
+realize about Claude Co. You're not
+
+00:03:33.440 --> 00:03:38.760
+limited to one agent doing one task at a
+
+00:03:35.920 --> 00:03:40.360
+time. Claude Co supports agent teams.
+
+00:03:38.760 --> 00:03:42.160
+Basically, a bunch of sub agents working
+
+00:03:40.360 --> 00:03:43.720
+together to do a task and this is where
+
+00:03:42.160 --> 00:03:45.519
+it actually gets very insane. [music]
+
+00:03:43.720 --> 00:03:47.360
+Imagine you're building a complex app
+
+00:03:45.519 --> 00:03:49.080
+and there are multiple tracks of work
+
+00:03:47.360 --> 00:03:51.120
+happening simultaneously. You've got the
+
+00:03:49.080 --> 00:03:53.240
+back-end API, by database schema, the
+
+00:03:51.120 --> 00:03:55.200
+front-end UI, the authentication layer,
+
+00:03:53.240 --> 00:03:57.000
+the third-party integrations. Normally,
+
+00:03:55.200 --> 00:03:58.800
+even with AI coding tools, you tackle
+
+00:03:57.000 --> 00:04:00.920
+these one by one. With Cloud Code
+
+00:03:58.800 --> 00:04:02.720
+sub-agents, you spin up parallel agents
+
+00:04:00.920 --> 00:04:04.960
+that each handle a specific slice of the
+
+00:04:02.720 --> 00:04:06.800
+build concurrently. One sub-agent is
+
+00:04:04.960 --> 00:04:08.440
+building your API endpoints. Another is
+
+00:04:06.800 --> 00:04:10.280
+setting up your database models. Another
+
+00:04:08.440 --> 00:04:12.120
+scaffolding the front-end. They all work
+
+00:04:10.280 --> 00:04:13.880
+simultaneously. They share context and
+
+00:04:12.120 --> 00:04:15.480
+they report back to the main agent,
+
+00:04:13.880 --> 00:04:16.760
+which orchestrates everything. It's like
+
+00:04:15.480 --> 00:04:17.799
+when a senior-level engineer is telling
+
+00:04:16.760 --> 00:04:19.359
+the junior-level engineers to do
+
+00:04:17.799 --> 00:04:21.160
+everything while a senior-level engineer
+
+00:04:19.359 --> 00:04:22.680
+just drinks a coffee. They ask why I
+
+00:04:21.160 --> 00:04:25.040
+quit corporate. And I'm not the only one
+
+00:04:22.680 --> 00:04:26.240
+taking advantage of this. Two of my 170
+
+00:04:25.040 --> 00:04:27.480
+entrepreneurs that I work with
+
+00:04:26.240 --> 00:04:29.320
+one-on-one to help scale their
+
+00:04:27.480 --> 00:04:31.360
+one-person AI businesses are building a
+
+00:04:29.320 --> 00:04:32.880
+chef app right now for a client I
+
+00:04:31.360 --> 00:04:34.280
+brought to them. And both of them are
+
+00:04:32.880 --> 00:04:36.120
+software engineers, but they're using
+
+00:04:34.280 --> 00:04:38.360
+Cloud Code to build the entire app.
+
+00:04:36.120 --> 00:04:40.640
+They're using sub-agents very, very
+
+00:04:38.360 --> 00:04:41.960
+nicely. In fact, one sub-agent handling
+
+00:04:40.640 --> 00:04:43.919
+all the back-end routes and business
+
+00:04:41.960 --> 00:04:45.880
+logic. Another sub-agent is handling the
+
+00:04:43.919 --> 00:04:47.640
+database schema migrations. Another
+
+00:04:45.880 --> 00:04:49.520
+sub-agent is building the UI components
+
+00:04:47.640 --> 00:04:50.960
+in parallel while the main agent is
+
+00:04:49.520 --> 00:04:52.840
+reviewing all all the work that each
+
+00:04:50.960 --> 00:04:54.400
+sub-agent is completing and is stitching
+
+00:04:52.840 --> 00:04:55.600
+everything together. So, these two
+
+00:04:54.400 --> 00:04:57.960
+software engineers who are working on
+
+00:04:55.600 --> 00:04:59.600
+this app are more managers than they are
+
+00:04:57.960 --> 00:05:00.960
+actually engineers for this. And here's
+
+00:04:59.600 --> 00:05:02.560
+the MVP they currently have built in
+
+00:05:00.960 --> 00:05:04.000
+just a matter of days. It's pretty
+
+00:05:02.560 --> 00:05:05.000
+solid, if you ask me. So, even if you
+
+00:05:04.000 --> 00:05:06.320
+don't know how to code, you don't have
+
+00:05:05.000 --> 00:05:07.720
+to fuss to hire a developer team, and
+
+00:05:06.320 --> 00:05:09.400
+you are completely on your own, you can
+
+00:05:07.720 --> 00:05:10.680
+still build any app that you want.
+
+00:05:09.400 --> 00:05:12.400
+Before you move on to marketing, which
+
+00:05:10.680 --> 00:05:14.040
+is where most people fail that, possibly
+
+00:05:12.400 --> 00:05:15.840
+you as well, here are the best building
+
+00:05:14.040 --> 00:05:17.600
+practices when using Cloud Code. Before
+
+00:05:15.840 --> 00:05:19.400
+you start any session, drop in a short
+
+00:05:17.600 --> 00:05:21.280
+product brief. Two paragraphs. What the
+
+00:05:19.400 --> 00:05:22.280
+app does, who it is for, the tech stack,
+
+00:05:21.280 --> 00:05:23.800
+and what you're building today. Make
+
+00:05:22.280 --> 00:05:25.400
+sure that's all covered. That alone
+
+00:05:23.800 --> 00:05:27.320
+would double the quality of everything
+
+00:05:25.400 --> 00:05:29.640
+Cloud Code ends up producing. And also,
+
+00:05:27.320 --> 00:05:31.320
+stay in sprints. Give it one clear task
+
+00:05:29.640 --> 00:05:32.960
+per session. Build authentication flow.
+
+00:05:31.320 --> 00:05:34.800
+Connect to this API. Add a dashboard
+
+00:05:32.960 --> 00:05:36.673
+that shows X. Don't throw the whole app,
+
+00:05:34.800 --> 00:05:38.480
+the entire prompt all at it at once.
+
+00:05:36.673 --> 00:05:40.200
+[music] Do everything sprint by sprint,
+
+00:05:38.480 --> 00:05:41.840
+and the thing comes together faster. If
+
+00:05:40.200 --> 00:05:44.080
+you do everything sprint by sprint, the
+
+00:05:41.840 --> 00:05:45.800
+overall app comes together faster. Okay,
+
+00:05:44.080 --> 00:05:47.120
+now comes marketing. Pay attention
+
+00:05:45.800 --> 00:05:48.840
+because this is where it gets genuinely
+
+00:05:47.120 --> 00:05:50.640
+ridiculous. Most people finish their
+
+00:05:48.840 --> 00:05:52.640
+build and then go, "Okay now, I have to
+
+00:05:50.640 --> 00:05:54.120
+figure out marketing and let's go ahead
+
+00:05:52.640 --> 00:05:55.520
+and do it." That's the wrong order. You
+
+00:05:54.120 --> 00:05:56.840
+start marketing before you finish the
+
+00:05:55.520 --> 00:05:58.280
+building. The moment you [music] start
+
+00:05:56.840 --> 00:06:00.400
+coding, the moment you put your first
+
+00:05:58.280 --> 00:06:02.480
+prompt into Cloud Code, you better post
+
+00:06:00.400 --> 00:06:04.720
+about it. On X, on LinkedIn, Instagram,
+
+00:06:02.480 --> 00:06:06.640
+show your build process. Tease what your
+
+00:06:04.720 --> 00:06:08.320
+product is going to be doing. Build the
+
+00:06:06.640 --> 00:06:09.560
+audience before the product is even
+
+00:06:08.320 --> 00:06:10.800
+ready. Wait, wait, wait, wait, wait,
+
+00:06:09.560 --> 00:06:12.360
+wait, Tesh. You said Cloud Code would do
+
+00:06:10.800 --> 00:06:13.800
+the marketing for me. I know. Keep
+
+00:06:12.360 --> 00:06:15.480
+listening. I am about to review my
+
+00:06:13.800 --> 00:06:17.360
+four-step Cloud Code pipeline that I
+
+00:06:15.480 --> 00:06:19.680
+used to create content at scale. Step
+
+00:06:17.360 --> 00:06:21.240
+one, I prepare a Google Doc with all of
+
+00:06:19.680 --> 00:06:22.320
+the written X posts, LinkedIn posts,
+
+00:06:21.240 --> 00:06:24.640
+YouTube video scripts that have
+
+00:06:22.320 --> 00:06:26.800
+performed well for my social medias. I
+
+00:06:24.640 --> 00:06:28.800
+pass this all into Cloud Code as a
+
+00:06:26.800 --> 00:06:30.720
+knowledge base. Then I give Cloud Code a
+
+00:06:28.800 --> 00:06:32.160
+voice memo or a quick bullet list of
+
+00:06:30.720 --> 00:06:34.040
+everything that I've been building or
+
+00:06:32.160 --> 00:06:35.960
+learning that week. Step three, Cloud
+
+00:06:34.040 --> 00:06:37.680
+Code takes all my updates, writes three
+
+00:06:35.960 --> 00:06:39.280
+different X posts in my voice, a
+
+00:06:37.680 --> 00:06:41.040
+LinkedIn post, and a short-form script
+
+00:06:39.280 --> 00:06:42.400
+for an Instagram reel or YouTube short.
+
+00:06:41.040 --> 00:06:44.200
+And finally, once I approve these
+
+00:06:42.400 --> 00:06:46.160
+written posts and scripts, I have Cloud
+
+00:06:44.200 --> 00:06:47.960
+Code auto post these on their respective
+
+00:06:46.160 --> 00:06:49.760
+platforms using Potato API. And for the
+
+00:06:47.960 --> 00:06:51.320
+video content, well, I have to manually
+
+00:06:49.760 --> 00:06:52.640
+record these videos, nothing to do about
+
+00:06:51.320 --> 00:06:54.640
+that. As of right now, maybe in the
+
+00:06:52.640 --> 00:06:56.360
+future Cloud Code can make AI avatars of
+
+00:06:54.640 --> 00:06:58.720
+myself and just use that to record
+
+00:06:56.360 --> 00:07:00.080
+videos of me. I'm even using Cloud Code
+
+00:06:58.720 --> 00:07:01.600
+to create AI thumbnails for me and some
+
+00:07:00.080 --> 00:07:03.000
+of them perform really well. I mean,
+
+00:07:01.600 --> 00:07:04.560
+look at this one. It's not too shabby at
+
+00:07:03.000 --> 00:07:06.360
+all. Now, for written marketing, if
+
+00:07:04.560 --> 00:07:08.000
+you're building a B2B tool, Cloud Code
+
+00:07:06.360 --> 00:07:09.919
+can also run your outreach pipeline.
+
+00:07:08.000 --> 00:07:11.720
+Give it your ICP, your offer, and your
+
+00:07:09.919 --> 00:07:13.480
+tone, and it will draft personalized
+
+00:07:11.720 --> 00:07:15.320
+outreach DMs for LinkedIn, cold email
+
+00:07:13.480 --> 00:07:17.280
+sequences, and follow-up messages. You
+
+00:07:15.320 --> 00:07:19.160
+can review these messages, these emails,
+
+00:07:17.280 --> 00:07:20.720
+approve them, and boom, Cloud Code will
+
+00:07:19.160 --> 00:07:21.919
+go ahead and send them. This is all very
+
+00:07:20.720 --> 00:07:24.000
+important because marketing is what
+
+00:07:21.919 --> 00:07:25.480
+takes a great app from zero to $10,000
+
+00:07:24.000 --> 00:07:26.880
+MRR. And now you don't have to choose
+
+00:07:25.480 --> 00:07:28.640
+between building and marketing because
+
+00:07:26.880 --> 00:07:30.040
+Cloud Code can handle both. Do one
+
+00:07:28.640 --> 00:07:31.720
+sub-agent for marketing and one
+
+00:07:30.040 --> 00:07:33.520
+sub-agent for building. Okay, so now you
+
+00:07:31.720 --> 00:07:34.960
+got clients coming in, the marketing is
+
+00:07:33.520 --> 00:07:37.200
+working, you got eyeballs on your
+
+00:07:34.960 --> 00:07:38.919
+product, and people are interested. This
+
+00:07:37.200 --> 00:07:41.000
+is where most technical people
+
+00:07:38.919 --> 00:07:42.840
+completely fumble. A potential client
+
+00:07:41.000 --> 00:07:44.320
+says, "Send me a proposal." And suddenly
+
+00:07:42.840 --> 00:07:46.360
+the developer who can build anything in
+
+00:07:44.320 --> 00:07:47.960
+a week with Claude code takes two weeks
+
+00:07:46.360 --> 00:07:49.360
+to [music] write a two-page document.
+
+00:07:47.960 --> 00:07:50.840
+This is me and my old proposals that I
+
+00:07:49.360 --> 00:07:52.840
+would spend weeks on. This is my new
+
+00:07:50.840 --> 00:07:54.600
+style proposals that I have Claude code
+
+00:07:52.840 --> 00:07:56.520
+write in like [music] two minutes. And
+
+00:07:54.600 --> 00:07:59.840
+these proposals are fully customized,
+
+00:07:56.520 --> 00:08:01.280
+client-facing, and they look amazing.
+
+00:07:59.840 --> 00:08:03.040
+Now, to have a proposal like this,
+
+00:08:01.280 --> 00:08:04.840
+here's my exact process you can copy.
+
+00:08:03.040 --> 00:08:06.960
+Before I write a proposal, I use a
+
+00:08:04.840 --> 00:08:08.760
+transcript of my sales call with the
+
+00:08:06.960 --> 00:08:10.760
+client [music] and pass it into Claude.
+
+00:08:08.760 --> 00:08:12.600
+I then tell Claude to write a proposal
+
+00:08:10.760 --> 00:08:14.840
+to a solution that hits all the client's
+
+00:08:12.600 --> 00:08:16.560
+pain points. This is a $2,000 software
+
+00:08:14.840 --> 00:08:18.280
+proposal I sent to a client recently.
+
+00:08:16.560 --> 00:08:19.960
+Completely one-shot prompting this with
+
+00:08:18.280 --> 00:08:21.600
+Claude. The proposal it generates is
+
+00:08:19.960 --> 00:08:22.840
+specific. It speaks their language. It
+
+00:08:21.600 --> 00:08:24.400
+references the actual business. It
+
+00:08:22.840 --> 00:08:25.840
+doesn't sound like a template. It sounds
+
+00:08:24.400 --> 00:08:27.800
+like I spent eight weeks studying their
+
+00:08:25.840 --> 00:08:29.560
+company. But this right here, like two
+
+00:08:27.800 --> 00:08:31.120
+minutes, easy. Now, compare your
+
+00:08:29.560 --> 00:08:33.400
+proposal to the person who spent two
+
+00:08:31.120 --> 00:08:35.159
+days agonizing over how to word the
+
+00:08:33.400 --> 00:08:36.520
+scope of work for this project the
+
+00:08:35.159 --> 00:08:37.880
+client is asking you to build. [music]
+
+00:08:36.520 --> 00:08:39.440
+You're moving faster than that person.
+
+00:08:37.880 --> 00:08:41.200
+You're closing faster, and your proposal
+
+00:08:39.440 --> 00:08:43.039
+quality is honestly higher because
+
+00:08:41.200 --> 00:08:44.800
+Claude code doesn't get emotional or
+
+00:08:43.039 --> 00:08:45.971
+second-guess itself the way we do when
+
+00:08:44.800 --> 00:08:47.040
+we're trying to impress a client.
+
+00:08:45.971 --> 00:08:48.640
+[music] Well, I know you're Tael, you're
+
+00:08:47.040 --> 00:08:50.600
+so experienced in this, but what about
+
+00:08:48.640 --> 00:08:51.960
+us who aren't as much? And just so you
+
+00:08:50.600 --> 00:08:54.200
+understand the importance of a good
+
+00:08:51.960 --> 00:08:56.520
+proposal, one of my mentees in my Agency
+
+00:08:54.200 --> 00:08:58.640
+Rights program, Gleb, sold a ended and
+
+00:08:56.520 --> 00:09:00.360
+automation for $5,000. He then got a
+
+00:08:58.640 --> 00:09:03.040
+follow-up project with the same client
+
+00:09:00.360 --> 00:09:05.560
+for $22,000. His proposals were all
+
+00:09:03.040 --> 00:09:07.240
+incredibly unique and tight. And what
+
+00:09:05.560 --> 00:09:08.760
+was the reason he was able to get these
+
+00:09:07.240 --> 00:09:10.520
+follow-up deals with the same exact
+
+00:09:08.760 --> 00:09:12.440
+client? Well, his proposals were very
+
+00:09:10.520 --> 00:09:14.280
+well thought out. Every proposal he
+
+00:09:12.440 --> 00:09:16.101
+sends, he runs through his exact Claude
+
+00:09:14.280 --> 00:09:17.200
+code research and write process first,
+
+00:09:16.101 --> 00:09:18.600
+[music] that we just talked about in
+
+00:09:17.200 --> 00:09:20.400
+this video. The clients read the
+
+00:09:18.600 --> 00:09:22.000
+proposal, and they say that this guy
+
+00:09:20.400 --> 00:09:23.440
+actually understands our business. And
+
+00:09:22.000 --> 00:09:25.640
+they're right, because Claude code did
+
+00:09:23.440 --> 00:09:27.640
+the analysis. It knows a business like
+
+00:09:25.640 --> 00:09:30.040
+the back of your hand. Abdul, another
+
+00:09:27.640 --> 00:09:31.821
+mentee of mine, is charging 50 to $100
+
+00:09:30.040 --> 00:09:33.000
+an hour on straightforward builds
+
+00:09:31.821 --> 00:09:35.280
+[music] because his outreach and
+
+00:09:33.000 --> 00:09:36.640
+proposals are so targeted that clients
+
+00:09:35.280 --> 00:09:37.720
+don't even push back on the rate because
+
+00:09:36.640 --> 00:09:39.920
+they feel like everything is so
+
+00:09:37.720 --> 00:09:42.360
+customized to them. Another example, my
+
+00:09:39.920 --> 00:09:44.360
+student Shubham closed a $20,000 deal
+
+00:09:42.360 --> 00:09:45.920
+for an AI system that was projected to
+
+00:09:44.360 --> 00:09:48.040
+take 3 months [music] to finish. He
+
+00:09:45.920 --> 00:09:49.320
+built it in 3 weeks using Cloud Code.
+
+00:09:48.040 --> 00:09:50.440
+Now, if you want hands-on help building
+
+00:09:49.320 --> 00:09:51.720
+this entire system we're talking about
+
+00:09:50.440 --> 00:09:53.360
+with Cloud Code, the workflow, the
+
+00:09:51.720 --> 00:09:54.960
+sub-agent setup, the content pipeline,
+
+00:09:53.360 --> 00:09:56.240
+the proposal process, that is literally
+
+00:09:54.960 --> 00:09:58.360
+what my mentorship agency arises built
+
+00:09:56.240 --> 00:09:59.960
+around. I work directly with you and I
+
+00:09:58.360 --> 00:10:01.320
+help you land paying clients,
+
+00:09:59.960 --> 00:10:03.320
+guaranteed. Link is in the [music]
+
+00:10:01.320 --> 00:10:05.160
+description. Now, at this point, you're
+
+00:10:03.320 --> 00:10:06.760
+almost ready to start a one-person AI
+
+00:10:05.160 --> 00:10:08.040
+business with Cloud Code. But, here's
+
+00:10:06.760 --> 00:10:10.240
+the last part, the very [music]
+
+00:10:08.040 --> 00:10:12.160
+important part that most people get
+
+00:10:10.240 --> 00:10:14.480
+wrong, their routine. This is how a
+
+00:10:12.160 --> 00:10:16.480
+typical Cloud Code day should look like.
+
+00:10:14.480 --> 00:10:18.080
+Morning, you open Cloud Code, you run a
+
+00:10:16.480 --> 00:10:19.720
+sub-agent research session on your
+
+00:10:18.080 --> 00:10:20.920
+target market, what's trending, what
+
+00:10:19.720 --> 00:10:22.800
+problems are being complained about
+
+00:10:20.920 --> 00:10:24.720
+Reddit and Twitter, any new competitor
+
+00:10:22.800 --> 00:10:27.120
+moves. Mid-morning, you go into build
+
+00:10:24.720 --> 00:10:29.520
+mode, sprint-based, one task at a time,
+
+00:10:27.120 --> 00:10:31.840
+sub-agents handling parallel tracks if
+
+00:10:29.520 --> 00:10:33.520
+the build is complex. Afternoon, you
+
+00:10:31.840 --> 00:10:35.440
+have your content pipeline running.
+
+00:10:33.520 --> 00:10:36.800
+Cloud Code takes your building notes,
+
+00:10:35.440 --> 00:10:38.440
+your read me's, and turns them into
+
+00:10:36.800 --> 00:10:40.320
+posts, a short-form script, and a
+
+00:10:38.440 --> 00:10:41.800
+thumbnail brief. Total time on your end,
+
+00:10:40.320 --> 00:10:43.920
+maybe 20 minutes of reviewing and
+
+00:10:41.800 --> 00:10:46.320
+approving [music] all the short-form and
+
+00:10:43.920 --> 00:10:48.320
+written content it makes. By evening,
+
+00:10:46.320 --> 00:10:50.160
+you got an interested prospect. Cloud
+
+00:10:48.320 --> 00:10:51.760
+Code researches them, writes a proposal,
+
+00:10:50.160 --> 00:10:53.839
+builds the pricing tiers. You review it,
+
+00:10:51.760 --> 00:10:55.040
+you send the email to them, boom, done.
+
+00:10:53.839 --> 00:10:56.800
+Now, you wait for that sales call to
+
+00:10:55.040 --> 00:10:58.760
+come in. That entire pipeline right
+
+00:10:56.800 --> 00:11:00.839
+there was one day's worth of work. And
+
+00:10:58.760 --> 00:11:02.480
+if you do that for 7 days straight, you
+
+00:11:00.839 --> 00:11:04.680
+can expect some change. And that right
+
+00:11:02.480 --> 00:11:07.080
+there is an entire one-person business
+
+00:11:04.680 --> 00:11:08.600
+operating like a multi-person business,
+
+00:11:07.080 --> 00:11:10.440
+all because of Cloud Code. And this is
+
+00:11:08.600 --> 00:11:12.320
+why Sam Altman said a one-person
+
+00:11:10.440 --> 00:11:13.880
+billion-dollar company is coming. But,
+
+00:11:12.320 --> 00:11:15.240
+actions speak louder than words. So, if
+
+00:11:13.880 --> 00:11:17.360
+you want to see me use Cloud Code to
+
+00:11:15.240 --> 00:11:21.040
+build an AI solution worth multiple five
+
+00:11:17.360 --> 00:11:21.040
+figures, watch this video next.
+

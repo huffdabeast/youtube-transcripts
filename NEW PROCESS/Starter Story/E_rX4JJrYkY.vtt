@@ -1,0 +1,1757 @@
+WEBVTT
+
+00:00:00.160 --> 00:00:03.280
+This is how every indie hacker should
+
+00:00:02.159 --> 00:00:05.520
+grow their apps.
+
+00:00:03.280 --> 00:00:07.919
+>> This is Mickey, a guy from Spain who
+
+00:00:05.520 --> 00:00:09.840
+launched his app just seven months ago.
+
+00:00:07.919 --> 00:00:11.280
+And today, he's already making over
+
+00:00:09.840 --> 00:00:13.519
+$40,000 a month.
+
+00:00:11.280 --> 00:00:15.839
+>> This app was profitable from day one.
+
+00:00:13.519 --> 00:00:17.760
+>> But here's what he did different. He
+
+00:00:15.839 --> 00:00:19.680
+didn't chase Tik Tok trends or spend
+
+00:00:17.760 --> 00:00:22.880
+years building a personal brand. He did
+
+00:00:19.680 --> 00:00:24.960
+it all through a single channel, Google.
+
+00:00:22.880 --> 00:00:25.760
+>> Google still works today if you take
+
+00:00:24.960 --> 00:00:27.519
+this approach.
+
+00:00:25.760 --> 00:00:29.840
+>> So, I brought Mickey onto the channel to
+
+00:00:27.519 --> 00:00:31.840
+break it all down for us. And in this
+
+00:00:29.840 --> 00:00:34.000
+episode, we'll dive into what every
+
+00:00:31.840 --> 00:00:36.160
+builder gets wrong about distribution,
+
+00:00:34.000 --> 00:00:38.320
+the right combination of organic and
+
+00:00:36.160 --> 00:00:40.399
+paid Google search, and the exact
+
+00:00:38.320 --> 00:00:43.520
+five-step playbook he used to hit
+
+00:00:40.399 --> 00:00:45.680
+$40,000 MR in less than a year. This one
+
+00:00:43.520 --> 00:00:50.200
+is going to be fun. Let's dive in. I'm
+
+00:00:45.680 --> 00:00:50.200
+Pat Walls, and this is Starter Story.
+
+00:00:50.480 --> 00:00:54.559
+All right, real quick before we dive in.
+
+00:00:52.480 --> 00:00:57.120
+Mickey is about to break down how he
+
+00:00:54.559 --> 00:00:58.480
+broke 40K a month using Google search.
+
+00:00:57.120 --> 00:01:00.399
+But if you're watching this and
+
+00:00:58.480 --> 00:01:02.480
+thinking, I want to build something, but
+
+00:01:00.399 --> 00:01:04.080
+I don't have an idea yet. Well, I've got
+
+00:01:02.480 --> 00:01:05.840
+a free template that will help you find
+
+00:01:04.080 --> 00:01:08.080
+one. Link is right down there in the
+
+00:01:05.840 --> 00:01:09.760
+description. But more on that later. All
+
+00:01:08.080 --> 00:01:11.040
+right, Mickey. Welcome to the channel.
+
+00:01:09.760 --> 00:01:12.320
+Tell me about who you are, what you
+
+00:01:11.040 --> 00:01:14.320
+built, and what's your story.
+
+00:01:12.320 --> 00:01:17.280
+>> Hey, Pat, I'm Mickey. I'm the founder of
+
+00:01:14.320 --> 00:01:19.200
+Late Social Media API that help brands
+
+00:01:17.280 --> 00:01:21.600
+scale and um make content across
+
+00:01:19.200 --> 00:01:24.880
+multiple platforms. We went from zero to
+
+00:01:21.600 --> 00:01:25.840
+30K MR in just 7 months by focusing on
+
+00:01:24.880 --> 00:01:27.040
+Google search ads.
+
+00:01:25.840 --> 00:01:28.400
+>> All right, cool. Well, I'm really
+
+00:01:27.040 --> 00:01:30.000
+excited to talk about it. We're going to
+
+00:01:28.400 --> 00:01:31.280
+talk a lot about Google today, which I
+
+00:01:30.000 --> 00:01:32.560
+love and I'm very excited about. But
+
+00:01:31.280 --> 00:01:34.159
+first, before we do that, I want to
+
+00:01:32.560 --> 00:01:35.840
+understand what did you build? What's
+
+00:01:34.159 --> 00:01:36.560
+your product? What's the pricing model?
+
+00:01:35.840 --> 00:01:38.799
+How does it work?
+
+00:01:36.560 --> 00:01:41.840
+>> So, late is a social media API. What we
+
+00:01:38.799 --> 00:01:44.880
+do is wrap around the official APIs,
+
+00:01:41.840 --> 00:01:46.799
+Facebook, Instagram, Twitter, LinkedIn.
+
+00:01:44.880 --> 00:01:49.360
+We go through all the platform
+
+00:01:46.799 --> 00:01:51.759
+permissions. We uh basically pay for the
+
+00:01:49.360 --> 00:01:54.479
+highest plans so that you have access to
+
+00:01:51.759 --> 00:01:57.680
+the uh all the features available and uh
+
+00:01:54.479 --> 00:02:00.399
+we hand it to you in a single API that
+
+00:01:57.680 --> 00:02:02.960
+basically has access to everything and
+
+00:02:00.399 --> 00:02:04.640
+uh without limits. We charge our users
+
+00:02:02.960 --> 00:02:06.640
+for connected accounts. Basically we
+
+00:02:04.640 --> 00:02:08.800
+have three plans. We have the bill so
+
+00:02:06.640 --> 00:02:10.879
+the users can just start building their
+
+00:02:08.800 --> 00:02:13.040
+integrations. We go through accelerate
+
+00:02:10.879 --> 00:02:15.040
+for more accounts. Then our unlimited
+
+00:02:13.040 --> 00:02:17.599
+plan allows you to connect as many
+
+00:02:15.040 --> 00:02:20.879
+accounts as as you want. So currently we
+
+00:02:17.599 --> 00:02:23.440
+just crossed 40k MR. We started around 7
+
+00:02:20.879 --> 00:02:25.599
+months ago. So we have been growing
+
+00:02:23.440 --> 00:02:27.840
+pretty fast and uh well the first
+
+00:02:25.599 --> 00:02:30.640
+clients started landing around August
+
+00:02:27.840 --> 00:02:34.080
+last year and today we just crossed 4K
+
+00:02:30.640 --> 00:02:36.720
+MR. So our total signups are 50K uh
+
+00:02:34.080 --> 00:02:39.200
+since launch. We have more than 700
+
+00:02:36.720 --> 00:02:40.959
+paying users for now and our turn rate
+
+00:02:39.200 --> 00:02:42.720
+is less than 10%.
+
+00:02:40.959 --> 00:02:45.760
+>> That is pretty amazing. You were able to
+
+00:02:42.720 --> 00:02:47.120
+do 40k MR in really less than a year.
+
+00:02:45.760 --> 00:02:49.200
+That's really really impressive. I'm
+
+00:02:47.120 --> 00:02:50.720
+excited to talk all about Google and how
+
+00:02:49.200 --> 00:02:52.560
+you did that. But before we do, I want
+
+00:02:50.720 --> 00:02:54.000
+to understand how you get here. What
+
+00:02:52.560 --> 00:02:55.440
+were you doing before? Why did you
+
+00:02:54.000 --> 00:02:56.080
+decide to build a SAS business? How do
+
+00:02:55.440 --> 00:02:59.120
+you get here?
+
+00:02:56.080 --> 00:03:01.200
+>> Yeah, the before late, I spent over 5
+
+00:02:59.120 --> 00:03:03.360
+years experimenting with startups. I
+
+00:03:01.200 --> 00:03:05.599
+started an online tech company called
+
+00:03:03.360 --> 00:03:08.000
+Academy here in Spain. We raised venture
+
+00:03:05.599 --> 00:03:10.400
+capital and today has more than 100
+
+00:03:08.000 --> 00:03:12.480
+employees. So, uh around a year ago, I
+
+00:03:10.400 --> 00:03:14.400
+got deeper into building SAS products
+
+00:03:12.480 --> 00:03:17.040
+and recognized a gap in the market.
+
+00:03:14.400 --> 00:03:19.040
+There was no simple affordable API for
+
+00:03:17.040 --> 00:03:20.879
+social media automation and well most
+
+00:03:19.040 --> 00:03:23.200
+tools were either too expensive, too
+
+00:03:20.879 --> 00:03:25.200
+complicated or lacked good documentation
+
+00:03:23.200 --> 00:03:26.959
+which is essential for developers. So
+
+00:03:25.200 --> 00:03:29.280
+well this led to the idea of building
+
+00:03:26.959 --> 00:03:30.959
+late an API first platform designed to
+
+00:03:29.280 --> 00:03:33.599
+be developer friendly. I started
+
+00:03:30.959 --> 00:03:36.319
+spending my time on proven channels like
+
+00:03:33.599 --> 00:03:38.879
+SEO and paid ads which is basically what
+
+00:03:36.319 --> 00:03:39.440
+has allowed us to hit 40k MR in 7
+
+00:03:38.879 --> 00:03:41.120
+months.
+
+00:03:39.440 --> 00:03:42.799
+>> Okay, cool. So, we're not even going to
+
+00:03:41.120 --> 00:03:43.760
+talk today much about how you built or
+
+00:03:42.799 --> 00:03:45.120
+anything like that cuz I don't think
+
+00:03:43.760 --> 00:03:46.159
+it's all that important. You have a
+
+00:03:45.120 --> 00:03:48.080
+really cool approach here where you
+
+00:03:46.159 --> 00:03:49.920
+basically said, "I can build this. All I
+
+00:03:48.080 --> 00:03:51.360
+want to do is focus on distribution.
+
+00:03:49.920 --> 00:03:54.080
+Focus on how this thing can grow." And
+
+00:03:51.360 --> 00:03:55.920
+it did. It got to 40k MR in less than a
+
+00:03:54.080 --> 00:03:57.599
+year. What was a highle strategy that
+
+00:03:55.920 --> 00:03:58.959
+you had when you went into this and you
+
+00:03:57.599 --> 00:04:00.239
+decided to build this? What was your
+
+00:03:58.959 --> 00:04:02.959
+plan to grow it quickly?
+
+00:04:00.239 --> 00:04:05.760
+>> So, basically, we saw that social media
+
+00:04:02.959 --> 00:04:07.840
+is noisy. It's oversaturated. And while
+
+00:04:05.760 --> 00:04:10.000
+organic reach is dead for most
+
+00:04:07.840 --> 00:04:12.000
+businesses and it's very very difficult
+
+00:04:10.000 --> 00:04:14.000
+to work on it. There are people that are
+
+00:04:12.000 --> 00:04:16.560
+actively searching for social media
+
+00:04:14.000 --> 00:04:18.959
+scavening API or Twitter automation tool
+
+00:04:16.560 --> 00:04:20.959
+that they have a 10x higher intent to
+
+00:04:18.959 --> 00:04:23.360
+buy. So uh we are actually here
+
+00:04:20.959 --> 00:04:25.040
+capturing the intent that red exists
+
+00:04:23.360 --> 00:04:27.919
+rather than are trying to create it
+
+00:04:25.040 --> 00:04:30.560
+through viral content. We focus 100%
+
+00:04:27.919 --> 00:04:32.639
+high in channels like SEO and go search
+
+00:04:30.560 --> 00:04:35.360
+ads because they have predictable unique
+
+00:04:32.639 --> 00:04:37.440
+economics and uh don't depend on lack or
+
+00:04:35.360 --> 00:04:39.600
+trends and we use data from both
+
+00:04:37.440 --> 00:04:42.160
+channels to optimize landing pages
+
+00:04:39.600 --> 00:04:44.560
+messaging and we reinvest all our
+
+00:04:42.160 --> 00:04:47.360
+revenue into scaling what works.
+
+00:04:44.560 --> 00:04:49.600
+Mickey's story is just insane. 0 to
+
+00:04:47.360 --> 00:04:51.680
+$40,000 a month in just 7 months [music]
+
+00:04:49.600 --> 00:04:53.120
+is crazy impressive. But here's what
+
+00:04:51.680 --> 00:04:54.479
+happens when you get to this sort of
+
+00:04:53.120 --> 00:04:55.840
+level. Once you start having to close
+
+00:04:54.479 --> 00:04:57.199
+bigger customers, things [music] start
+
+00:04:55.840 --> 00:04:58.880
+to get tricky. It's not just about
+
+00:04:57.199 --> 00:05:00.800
+whether your app works or not. These
+
+00:04:58.880 --> 00:05:04.000
+customers want to know if your SOCK 2 or
+
+00:05:00.800 --> 00:05:06.639
+ISO 2701 compliant. And if you can't say
+
+00:05:04.000 --> 00:05:08.880
+yes, the deal is probably dead. This is
+
+00:05:06.639 --> 00:05:10.320
+why we partnered with Vanta on this
+
+00:05:08.880 --> 00:05:12.320
+video. [music] Vanta automates the
+
+00:05:10.320 --> 00:05:14.320
+painful parts of compliance so you can
+
+00:05:12.320 --> 00:05:16.000
+keep scaling instead of drowning in
+
+00:05:14.320 --> 00:05:18.400
+paperwork. It hooks right into your
+
+00:05:16.000 --> 00:05:20.479
+stack, runs continuous checks, and keeps
+
+00:05:18.400 --> 00:05:22.400
+all the evidence clean for the auditors.
+
+00:05:20.479 --> 00:05:25.120
+Vanta [music] handles it so you can stay
+
+00:05:22.400 --> 00:05:27.520
+in growth mode. Over 14,000 companies
+
+00:05:25.120 --> 00:05:29.520
+like Ramp and Writer already use Vanta
+
+00:05:27.520 --> 00:05:32.160
+to prove security in real time. And
+
+00:05:29.520 --> 00:05:34.080
+right now, Vanta is offering $1,000 off
+
+00:05:32.160 --> 00:05:36.080
+for Starter [music] Story viewers. So,
+
+00:05:34.080 --> 00:05:37.520
+if you're scaling fast and want to land
+
+00:05:36.080 --> 00:05:39.600
+customers without the compliance
+
+00:05:37.520 --> 00:05:41.360
+headache, check out Vanta at the first
+
+00:05:39.600 --> 00:05:43.280
+link in the description. Huge thank you
+
+00:05:41.360 --> 00:05:44.800
+to Vanta for this partnership. Let's get
+
+00:05:43.280 --> 00:05:47.759
+back to the episode. Okay. Yeah, and
+
+00:05:44.800 --> 00:05:48.960
+that's a really really good insight is a
+
+00:05:47.759 --> 00:05:50.320
+lot of people think when they get
+
+00:05:48.960 --> 00:05:51.360
+started, I need to figure out 10
+
+00:05:50.320 --> 00:05:53.360
+different channels. I going to have to
+
+00:05:51.360 --> 00:05:54.639
+do Reddit. I got to do organic social. I
+
+00:05:53.360 --> 00:05:56.320
+got to do a waiting list. I got to do
+
+00:05:54.639 --> 00:05:58.240
+all these things. I think smart founders
+
+00:05:56.320 --> 00:05:59.680
+like you pick one channel, then maybe
+
+00:05:58.240 --> 00:06:01.199
+pick a couple ideas of what could work,
+
+00:05:59.680 --> 00:06:02.960
+but then if something sort of starts
+
+00:06:01.199 --> 00:06:05.280
+working, they go all in on one channel,
+
+00:06:02.960 --> 00:06:07.520
+they get it to 40K MR, and then like you
+
+00:06:05.280 --> 00:06:09.039
+said, you get it to a million ARR. That
+
+00:06:07.520 --> 00:06:11.360
+I think is the right way of thinking
+
+00:06:09.039 --> 00:06:13.360
+about channels. So, let's talk about the
+
+00:06:11.360 --> 00:06:14.960
+channel that truly worked for you, which
+
+00:06:13.360 --> 00:06:16.800
+was Google. I know there was a little
+
+00:06:14.960 --> 00:06:18.639
+bit of organic, but then also you were
+
+00:06:16.800 --> 00:06:21.039
+running paid ads as well. Let's do a
+
+00:06:18.639 --> 00:06:21.759
+deep dive into this one channel that
+
+00:06:21.039 --> 00:06:23.919
+worked for you.
+
+00:06:21.759 --> 00:06:26.479
+>> So, for Google, basically, we create
+
+00:06:23.919 --> 00:06:29.600
+content on our website that is useful
+
+00:06:26.479 --> 00:06:32.720
+for our users or our target users. And
+
+00:06:29.600 --> 00:06:34.560
+some of this gets on uh Google and ranks
+
+00:06:32.720 --> 00:06:36.560
+organically and some of it it doesn't
+
+00:06:34.560 --> 00:06:38.560
+rank. So, we run ads for it. So
+
+00:06:36.560 --> 00:06:41.120
+basically it's the same content that is
+
+00:06:38.560 --> 00:06:43.840
+useful for both purposes. Obviously we
+
+00:06:41.120 --> 00:06:45.840
+prefer it if the pages show up for the
+
+00:06:43.840 --> 00:06:48.479
+organic Google searches but sometimes
+
+00:06:45.840 --> 00:06:49.360
+it's not possible. That's when we run
+
+00:06:48.479 --> 00:06:51.280
+ads on it.
+
+00:06:49.360 --> 00:06:53.440
+>> Okay, I like that. So really you're just
+
+00:06:51.280 --> 00:06:55.199
+writing one article or lots of articles
+
+00:06:53.440 --> 00:06:56.880
+that can organically rank and then you
+
+00:06:55.199 --> 00:06:59.120
+can run paid against. So you only really
+
+00:06:56.880 --> 00:07:01.520
+have to do one sort of action. Let's
+
+00:06:59.120 --> 00:07:03.840
+dive into the organic stuff. Can you
+
+00:07:01.520 --> 00:07:06.319
+break down what works in on the organic
+
+00:07:03.840 --> 00:07:09.120
+side? Basically for the organic side, we
+
+00:07:06.319 --> 00:07:11.360
+just focus on very bottom of the funnel
+
+00:07:09.120 --> 00:07:14.400
+keywords. We use tools like hrefs to
+
+00:07:11.360 --> 00:07:16.400
+find keywords with 300 800 monthly
+
+00:07:14.400 --> 00:07:19.039
+searches that have low competition but
+
+00:07:16.400 --> 00:07:21.360
+that they are very very high intent. We
+
+00:07:19.039 --> 00:07:23.280
+just target terms like social media API
+
+00:07:21.360 --> 00:07:25.199
+scheduling API for Twitter and things
+
+00:07:23.280 --> 00:07:27.759
+like that. Then we create content. We
+
+00:07:25.199 --> 00:07:29.599
+write in depth guides that answer the
+
+00:07:27.759 --> 00:07:31.759
+user's intent. For example, how to
+
+00:07:29.599 --> 00:07:33.599
+schedule Instagram posts automatically.
+
+00:07:31.759 --> 00:07:36.479
+And we also try and maintain a clean
+
+00:07:33.599 --> 00:07:39.039
+site structure, fast load times and
+
+00:07:36.479 --> 00:07:41.599
+mobile optimization, proper metadata. We
+
+00:07:39.039 --> 00:07:43.599
+also do link building. We've built back
+
+00:07:41.599 --> 00:07:45.840
+links through tools and also by reaching
+
+00:07:43.599 --> 00:07:48.479
+out manually to other people and paying
+
+00:07:45.840 --> 00:07:50.960
+them. And we track everything all our
+
+00:07:48.479 --> 00:07:52.960
+rankings with hrefs and Google search
+
+00:07:50.960 --> 00:07:56.240
+console and basically constantly
+
+00:07:52.960 --> 00:07:58.479
+optimize our CTR based on the results.
+
+00:07:56.240 --> 00:08:00.319
+This has already produced more than 8K
+
+00:07:58.479 --> 00:08:02.400
+MR in organic revenue.
+
+00:08:00.319 --> 00:08:03.759
+>> Okay. So you write these articles, they
+
+00:08:02.400 --> 00:08:05.440
+essentially rank for free through
+
+00:08:03.759 --> 00:08:07.120
+Google's organic search. So this
+
+00:08:05.440 --> 00:08:08.800
+generates around 8,000 in [music] new
+
+00:08:07.120 --> 00:08:10.560
+customers per month. What about the rest
+
+00:08:08.800 --> 00:08:12.720
+of the revenue? How's that happening?
+
+00:08:10.560 --> 00:08:15.199
+>> So they happen through Google search ads
+
+00:08:12.720 --> 00:08:17.759
+which are our guaranteed revenue engine.
+
+00:08:15.199 --> 00:08:19.840
+So while IO compounds over time, paid
+
+00:08:17.759 --> 00:08:21.440
+search gives us immediate results and
+
+00:08:19.840 --> 00:08:23.440
+feedback. So here's our strategy. We
+
+00:08:21.440 --> 00:08:25.919
+beat on high intent commercial keywords
+
+00:08:23.440 --> 00:08:28.240
+the same that we are trying to rank
+
+00:08:25.919 --> 00:08:30.879
+organically for. We create landing pages
+
+00:08:28.240 --> 00:08:33.200
+for each one of them. So each ad group
+
+00:08:30.879 --> 00:08:35.360
+has its custom landing page tailored to
+
+00:08:33.200 --> 00:08:38.560
+the keyword and the intent. For example,
+
+00:08:35.360 --> 00:08:40.399
+Instagram API has a specific page for
+
+00:08:38.560 --> 00:08:43.200
+Instagram. We automate everything
+
+00:08:40.399 --> 00:08:47.440
+through uh Google ads. We use automated
+
+00:08:43.200 --> 00:08:50.080
+bidding which sets a target CPA at $120,
+
+00:08:47.440 --> 00:08:52.399
+which is our average catch threshold.
+
+00:08:50.080 --> 00:08:54.320
+Google's algorithm optimizes bits to hit
+
+00:08:52.399 --> 00:08:56.560
+this target. And on the ad copy, we
+
+00:08:54.320 --> 00:08:59.680
+basically focus on value. For example,
+
+00:08:56.560 --> 00:09:02.800
+scale 30 days of social media in 1 hour
+
+00:08:59.680 --> 00:09:04.640
+or reach 100k followers fast with our
+
+00:09:02.800 --> 00:09:06.640
+API. On the testing side, we do
+
+00:09:04.640 --> 00:09:08.320
+continuous AB testing of headlines,
+
+00:09:06.640 --> 00:09:10.240
+descriptions, and landing pages.
+
+00:09:08.320 --> 00:09:13.040
+Everything tracked through Post Hook.
+
+00:09:10.240 --> 00:09:16.160
+Currently, we spend around $8,000 a
+
+00:09:13.040 --> 00:09:18.480
+month. We get $2.5 in revenue for every
+
+00:09:16.160 --> 00:09:20.720
+dollar spent. Monthly revenue from paid
+
+00:09:18.480 --> 00:09:23.200
+search is around 15K MR.
+
+00:09:20.720 --> 00:09:25.040
+>> I love what Mickey is showing us right
+
+00:09:23.200 --> 00:09:27.600
+now. He just found one channel that
+
+00:09:25.040 --> 00:09:29.600
+works and he's going allin. But here's
+
+00:09:27.600 --> 00:09:31.360
+the thing. Before you get into growth,
+
+00:09:29.600 --> 00:09:32.480
+you still need to build something. And
+
+00:09:31.360 --> 00:09:34.959
+if you're watching this and still
+
+00:09:32.480 --> 00:09:36.959
+feeling stuck on that step, well, I have
+
+00:09:34.959 --> 00:09:39.279
+something for you. I put together our
+
+00:09:36.959 --> 00:09:41.680
+free business idea template, and it
+
+00:09:39.279 --> 00:09:44.240
+walks you through seven proven methods
+
+00:09:41.680 --> 00:09:46.560
+to find painful problems that people
+
+00:09:44.240 --> 00:09:48.800
+actually want solved. In under one hour,
+
+00:09:46.560 --> 00:09:51.279
+you will map out 21 problems worth
+
+00:09:48.800 --> 00:09:53.360
+solving and then pick the one that you
+
+00:09:51.279 --> 00:09:55.600
+should go build. Sometimes the best
+
+00:09:53.360 --> 00:09:57.519
+ideas are hiding in plain sight. And
+
+00:09:55.600 --> 00:09:59.680
+this template gives you a simple system
+
+00:09:57.519 --> 00:10:01.360
+to spot them. So head to the first link
+
+00:09:59.680 --> 00:10:03.600
+in the description, grab the template
+
+00:10:01.360 --> 00:10:05.600
+for free, and potentially find your next
+
+00:10:03.600 --> 00:10:07.440
+idea. All right, let's get back into the
+
+00:10:05.600 --> 00:10:08.880
+episode. Okay. Well, I mean, I like
+
+00:10:07.440 --> 00:10:11.519
+that. It's cool. Like you can just do
+
+00:10:08.880 --> 00:10:13.519
+the organic thing and do this 8K and
+
+00:10:11.519 --> 00:10:15.120
+you'd have 8K MR, but you're sort of
+
+00:10:13.519 --> 00:10:16.560
+again treating it like a math problem.
+
+00:10:15.120 --> 00:10:18.640
+you're pouring a little bit of gasoline
+
+00:10:16.560 --> 00:10:20.800
+on the fire and when you see certain
+
+00:10:18.640 --> 00:10:22.800
+keywords working in paid, then you're
+
+00:10:20.800 --> 00:10:24.399
+channeling maybe more articles or more
+
+00:10:22.800 --> 00:10:26.160
+keywords around organic and then those
+
+00:10:24.399 --> 00:10:27.839
+feed them back. So, what I think our
+
+00:10:26.160 --> 00:10:29.440
+audience will love to hear from you,
+
+00:10:27.839 --> 00:10:31.200
+could you break down this strategy step
+
+00:10:29.440 --> 00:10:33.360
+by step? Imagine you have a brand new
+
+00:10:31.200 --> 00:10:34.880
+SAS. It's ready to go. You have an MVP
+
+00:10:33.360 --> 00:10:36.399
+ready to go. It's a decent product.
+
+00:10:34.880 --> 00:10:37.920
+Maybe you got a few customers. What
+
+00:10:36.399 --> 00:10:40.640
+would be your step-by-step process to
+
+00:10:37.920 --> 00:10:42.959
+get started on this Google strategy in
+
+00:10:40.640 --> 00:10:45.279
+2026? So for step one, you just
+
+00:10:42.959 --> 00:10:47.120
+basically find your core keywords that
+
+00:10:45.279 --> 00:10:48.880
+are high intent and are very very close
+
+00:10:47.120 --> 00:10:51.279
+to your value proposition. You can use
+
+00:10:48.880 --> 00:10:53.360
+edge refs, you can use seam. I mean
+
+00:10:51.279 --> 00:10:55.519
+there are some very very core keywords
+
+00:10:53.360 --> 00:10:57.040
+that you don't have to search for. You
+
+00:10:55.519 --> 00:10:58.640
+already know that they are very related
+
+00:10:57.040 --> 00:11:00.560
+to your product. For example, for us
+
+00:10:58.640 --> 00:11:02.560
+it's social media API. It's very very
+
+00:11:00.560 --> 00:11:04.480
+obvious. So um you know that these
+
+00:11:02.560 --> 00:11:06.560
+keywords are being searched and you
+
+00:11:04.480 --> 00:11:08.320
+basically create a spreadsheet with them
+
+00:11:06.560 --> 00:11:10.399
+the monthly search volume that they have
+
+00:11:08.320 --> 00:11:12.560
+and the difficulty and you focus on
+
+00:11:10.399 --> 00:11:15.519
+these keywords and nothing else and
+
+00:11:12.560 --> 00:11:18.079
+basically try and work towards ranking
+
+00:11:15.519 --> 00:11:20.399
+for them within 3 to 6 months. For step
+
+00:11:18.079 --> 00:11:22.079
+two, just focus on creating content for
+
+00:11:20.399 --> 00:11:23.920
+the keywords that you've found. Make
+
+00:11:22.079 --> 00:11:26.000
+sure that it's high quality content. Can
+
+00:11:23.920 --> 00:11:28.880
+be a blog, a landing page or just a free
+
+00:11:26.000 --> 00:11:30.880
+tool. And well, just add a big CTA to
+
+00:11:28.880 --> 00:11:33.279
+your signing page so that you get
+
+00:11:30.880 --> 00:11:35.519
+signups for this traffic. And basically
+
+00:11:33.279 --> 00:11:37.760
+then you can just add internal linking
+
+00:11:35.519 --> 00:11:39.680
+link to other pieces of content on your
+
+00:11:37.760 --> 00:11:42.320
+site. And you try and do that through uh
+
+00:11:39.680 --> 00:11:44.959
+the first week. So you try and push 10
+
+00:11:42.320 --> 00:11:46.800
+to 15 highquality articles in the first
+
+00:11:44.959 --> 00:11:49.279
+week to build momentum. It's also
+
+00:11:46.800 --> 00:11:51.440
+important that you don't create too much
+
+00:11:49.279 --> 00:11:53.120
+content and also Google doesn't like
+
+00:11:51.440 --> 00:11:55.760
+that. So it's better to have quality
+
+00:11:53.120 --> 00:11:58.399
+content. For step three, you just start
+
+00:11:55.760 --> 00:12:00.000
+launching your ads with the data and the
+
+00:11:58.399 --> 00:12:02.399
+content that you already have. So
+
+00:12:00.000 --> 00:12:04.560
+basically, set up a Google Ads account,
+
+00:12:02.399 --> 00:12:06.720
+create some ad groups based on these
+
+00:12:04.560 --> 00:12:08.720
+keywords that you are also targeting
+
+00:12:06.720 --> 00:12:11.279
+with organic content. You create three
+
+00:12:08.720 --> 00:12:13.839
+to five variations of the copy. Just
+
+00:12:11.279 --> 00:12:16.079
+focus on value propositions more than
+
+00:12:13.839 --> 00:12:18.399
+just stating the features. In step four,
+
+00:12:16.079 --> 00:12:20.240
+just optimize and scale based on the
+
+00:12:18.399 --> 00:12:21.468
+data that you have. You identify what's
+
+00:12:20.240 --> 00:12:22.000
+working. You identify the keywords
+
+00:12:21.468 --> 00:12:24.160
+[music]
+
+00:12:22.000 --> 00:12:25.920
+that are bringing new customers and you
+
+00:12:24.160 --> 00:12:27.920
+try and optimize for this. You just
+
+00:12:25.920 --> 00:12:29.600
+can't forget about the rest because the
+
+00:12:27.920 --> 00:12:31.680
+ones that are converting are the ones
+
+00:12:29.600 --> 00:12:33.360
+that really matter to you. You can post
+
+00:12:31.680 --> 00:12:36.480
+their performing keywords and just
+
+00:12:33.360 --> 00:12:38.240
+double down on the high ROI keywords.
+
+00:12:36.480 --> 00:12:40.240
+And then you can just start testing.
+
+00:12:38.240 --> 00:12:42.959
+Update the headlines, update the copy
+
+00:12:40.240 --> 00:12:45.040
+and add CTAs based on what converts
+
+00:12:42.959 --> 00:12:47.839
+best. Then just try and increase the
+
+00:12:45.040 --> 00:12:50.480
+budget month over month as long as the
+
+00:12:47.839 --> 00:12:52.480
+return on this ad spend is working. In
+
+00:12:50.480 --> 00:12:54.480
+step five, just track and try and
+
+00:12:52.480 --> 00:12:57.279
+improve your cost of acquisition. So now
+
+00:12:54.480 --> 00:12:59.839
+you can just set dashboard either in
+
+00:12:57.279 --> 00:13:01.680
+Google Sheets, data studio or any tool
+
+00:12:59.839 --> 00:13:03.839
+that you like. You can start tracking
+
+00:13:01.680 --> 00:13:06.000
+the cost of acquisition, the return on
+
+00:13:03.839 --> 00:13:07.519
+ad spend, the revenue and the traffic
+
+00:13:06.000 --> 00:13:09.920
+per channel. And then you can just start
+
+00:13:07.519 --> 00:13:12.800
+benchmarking against what's working.
+
+00:13:09.920 --> 00:13:14.959
+Good CAC is 20 40% of the lifetime
+
+00:13:12.800 --> 00:13:17.519
+value. And your goal is basically to
+
+00:13:14.959 --> 00:13:19.680
+keep CA under 30% of the first year
+
+00:13:17.519 --> 00:13:22.720
+revenue. Every month you can just AB
+
+00:13:19.680 --> 00:13:25.200
+test new keywords add copy landing pages
+
+00:13:22.720 --> 00:13:27.360
+based on what worked last month. So that
+
+00:13:25.200 --> 00:13:28.480
+would be my fivestep playbook if I would
+
+00:13:27.360 --> 00:13:29.839
+be starting over again.
+
+00:13:28.480 --> 00:13:31.920
+>> Okay. Well, thank you for sharing that.
+
+00:13:29.839 --> 00:13:33.360
+Great playbook. I love Google. This is
+
+00:13:31.920 --> 00:13:34.959
+awesome. Thanks for breaking it all down
+
+00:13:33.360 --> 00:13:36.240
+for us. Let's switch topics a little bit
+
+00:13:34.959 --> 00:13:37.680
+and talk about the product that you
+
+00:13:36.240 --> 00:13:39.040
+built. Could you give us a demo? I just
+
+00:13:37.680 --> 00:13:40.880
+want to see what this thing looks like,
+
+00:13:39.040 --> 00:13:41.279
+how it works, and yeah, could you show
+
+00:13:40.880 --> 00:13:44.000
+it?
+
+00:13:41.279 --> 00:13:47.200
+>> Sure. So, our app is nothing fancy
+
+00:13:44.000 --> 00:13:49.440
+really on the UI. We just have uh social
+
+00:13:47.200 --> 00:13:52.079
+media. Basically, everything that you
+
+00:13:49.440 --> 00:13:54.320
+can do through the API, you can also do
+
+00:13:52.079 --> 00:13:56.959
+through our UI. So, it's very very
+
+00:13:54.320 --> 00:13:59.680
+simple. Um you can just from here create
+
+00:13:56.959 --> 00:14:01.600
+new posts and uh yeah, basically just
+
+00:13:59.680 --> 00:14:03.440
+select the accounts that you want this
+
+00:14:01.600 --> 00:14:05.519
+content [music] to go to. We also have
+
+00:14:03.440 --> 00:14:07.199
+here the option to connect all your
+
+00:14:05.519 --> 00:14:09.600
+accounts and handle all your accounts
+
+00:14:07.199 --> 00:14:11.920
+from the UI. Here you can also create
+
+00:14:09.600 --> 00:14:14.240
+new API keys. So as a developer you can
+
+00:14:11.920 --> 00:14:16.480
+just basically handle all your APIs from
+
+00:14:14.240 --> 00:14:18.399
+here. We also have here an inbox feature
+
+00:14:16.480 --> 00:14:21.440
+that basically allows you to handle all
+
+00:14:18.399 --> 00:14:23.199
+your DMs and comments through uh the UI.
+
+00:14:21.440 --> 00:14:25.920
+The rest of the platforms you can set up
+
+00:14:23.199 --> 00:14:27.884
+web hooks. You uh get notifications when
+
+00:14:25.920 --> 00:14:29.040
+a post fails or when a post succeeds
+
+00:14:27.884 --> 00:14:30.639
+[music] when an accounts get
+
+00:14:29.040 --> 00:14:33.279
+disconnected. You can also check all the
+
+00:14:30.639 --> 00:14:36.160
+logs from your publishing activity to
+
+00:14:33.279 --> 00:14:37.710
+see well if you have errors or you if
+
+00:14:36.160 --> 00:14:38.240
+you if everything is working correctly
+
+00:14:37.710 --> 00:14:40.560
+[music]
+
+00:14:38.240 --> 00:14:42.880
+and then from here you just can access
+
+00:14:40.560 --> 00:14:45.040
+the API docs which are well very
+
+00:14:42.880 --> 00:14:47.535
+important um because you'll be building
+
+00:14:45.040 --> 00:14:49.839
+an integration and this is uh what
+
+00:14:47.535 --> 00:14:52.320
+[music] we try and spend the most time
+
+00:14:49.839 --> 00:14:54.320
+on so that uh well it's very very
+
+00:14:52.320 --> 00:14:55.120
+straightforward for you to learn and
+
+00:14:54.320 --> 00:14:57.040
+start using.
+
+00:14:55.120 --> 00:14:58.639
+>> Okay cool and on a similar note how did
+
+00:14:57.040 --> 00:15:00.240
+you build this? What tech stack did you
+
+00:14:58.639 --> 00:15:00.800
+use? What runs the business? How'd you
+
+00:15:00.240 --> 00:15:02.399
+build it?
+
+00:15:00.800 --> 00:15:04.880
+>> So most important thing that we use is
+
+00:15:02.399 --> 00:15:06.959
+cloud code so we can code much faster.
+
+00:15:04.880 --> 00:15:08.800
+We also use data fast. It helps us track
+
+00:15:06.959 --> 00:15:12.240
+what's bringing revenue and what's not.
+
+00:15:08.800 --> 00:15:14.480
+We also use Google ads spend uh up to
+
+00:15:12.240 --> 00:15:16.720
+$8,000 per month. And we also use eight
+
+00:15:14.480 --> 00:15:19.120
+refs which is around $200 per month. And
+
+00:15:16.720 --> 00:15:21.199
+this is essential for us for insights
+
+00:15:19.120 --> 00:15:22.399
+monitoring on the organic side.
+
+00:15:21.199 --> 00:15:24.079
+>> Okay, cool. Well, thanks for sharing
+
+00:15:22.399 --> 00:15:26.079
+that. Last question that we ask all
+
+00:15:24.079 --> 00:15:27.680
+founders who come on to Starter Story
+
+00:15:26.079 --> 00:15:29.120
+who built cool stuff like you. What
+
+00:15:27.680 --> 00:15:30.880
+would be your advice to young Mickey
+
+00:15:29.120 --> 00:15:32.480
+before you got started or for anyone
+
+00:15:30.880 --> 00:15:34.000
+watching that wants to get started and
+
+00:15:32.480 --> 00:15:35.440
+build cool SAS like this and learn
+
+00:15:34.000 --> 00:15:37.680
+Google? What would be your advice?
+
+00:15:35.440 --> 00:15:40.160
+>> My advice would be to just stop trying
+
+00:15:37.680 --> 00:15:41.839
+to be everything to everyone. When I
+
+00:15:40.160 --> 00:15:43.680
+realized that basically picking one
+
+00:15:41.839 --> 00:15:45.199
+growth channel, getting really good at
+
+00:15:43.680 --> 00:15:47.360
+it. In our case, [music] it's paid
+
+00:15:45.199 --> 00:15:49.759
+search. It was 100 times better than
+
+00:15:47.360 --> 00:15:51.759
+being mediocre at 10 channels. So, my
+
+00:15:49.759 --> 00:15:53.920
+advice would be just pick your single
+
+00:15:51.759 --> 00:15:56.240
+best level for growth, get obsessed with
+
+00:15:53.920 --> 00:15:58.000
+it, and measure it relentlessly. And
+
+00:15:56.240 --> 00:16:00.639
+that's great advice. As I kind of
+
+00:15:58.000 --> 00:16:02.480
+mentioned before, you can win with just
+
+00:16:00.639 --> 00:16:03.759
+one channel, right? You can build a
+
+00:16:02.480 --> 00:16:04.959
+million-dollar business. You can build a
+
+00:16:03.759 --> 00:16:06.399
+$10 million business, maybe even a
+
+00:16:04.959 --> 00:16:08.000
+hundred million dollar business with
+
+00:16:06.399 --> 00:16:09.360
+just one channel. So, if anyone's
+
+00:16:08.000 --> 00:16:11.120
+watching this and you take one thing
+
+00:16:09.360 --> 00:16:12.720
+away from that, here's proof of that.
+
+00:16:11.120 --> 00:16:14.560
+Thank you, Mickey, for coming on and
+
+00:16:12.720 --> 00:16:15.199
+sharing. Awesome business. Hope to see
+
+00:16:14.560 --> 00:16:16.399
+you grow.
+
+00:16:15.199 --> 00:16:18.399
+>> Thank you for having me.
+
+00:16:16.399 --> 00:16:19.120
+>> Okay, producer Gus, what' you think
+
+00:16:18.399 --> 00:16:21.279
+about that one?
+
+00:16:19.120 --> 00:16:22.800
+>> I thought it was really cool. I I think
+
+00:16:21.279 --> 00:16:24.880
+we talked to someone else recently like
+
+00:16:22.800 --> 00:16:27.120
+that was very similar but like it's very
+
+00:16:24.880 --> 00:16:29.279
+systematized right he has like a super
+
+00:16:27.120 --> 00:16:31.360
+solid system I think for you know
+
+00:16:29.279 --> 00:16:32.560
+whatever finding the keywords ranking
+
+00:16:31.360 --> 00:16:34.000
+them and [music] then running paid
+
+00:16:32.560 --> 00:16:36.000
+search on them. So I thought that was
+
+00:16:34.000 --> 00:16:37.839
+really awesome just to hear kind of that
+
+00:16:36.000 --> 00:16:40.000
+system and I feel like so many of the
+
+00:16:37.839 --> 00:16:42.000
+great founders we talked to like have
+
+00:16:40.000 --> 00:16:44.240
+something like that where they have like
+
+00:16:42.000 --> 00:16:45.519
+this methodical approach like we don't
+
+00:16:44.240 --> 00:16:47.680
+get lucky like it's it's all [music]
+
+00:16:45.519 --> 00:16:48.160
+math and I was like wow that's that's
+
+00:16:47.680 --> 00:16:50.240
+awesome.
+
+00:16:48.160 --> 00:16:51.519
+>> Yeah that's what I like about Google. I
+
+00:16:50.240 --> 00:16:53.600
+think a lot of people are talking about
+
+00:16:51.519 --> 00:16:55.839
+organic Tik Tok and these sorts of
+
+00:16:53.600 --> 00:16:57.440
+things or AI and you know all this but
+
+00:16:55.839 --> 00:17:00.079
+at the end of the day Google is like a
+
+00:16:57.440 --> 00:17:02.000
+very very tried and trueue acquisition
+
+00:17:00.079 --> 00:17:03.600
+channel for a lot of businesses. At the
+
+00:17:02.000 --> 00:17:05.120
+end of the day this is a great
+
+00:17:03.600 --> 00:17:06.319
+distribution strategy or marketing
+
+00:17:05.120 --> 00:17:08.079
+strategy for people that don't want to
+
+00:17:06.319 --> 00:17:09.199
+go on camera and want to, you know,
+
+00:17:08.079 --> 00:17:11.039
+maybe they're a little bit more of a
+
+00:17:09.199 --> 00:17:12.559
+finance type and enjoy putting together
+
+00:17:11.039 --> 00:17:14.160
+spreadsheets of keywords and seeing
+
+00:17:12.559 --> 00:17:15.839
+intent and looking at the numbers. Not
+
+00:17:14.160 --> 00:17:18.240
+everyone is meant to be on camera and
+
+00:17:15.839 --> 00:17:20.559
+and create viral content. This is this
+
+00:17:18.240 --> 00:17:22.079
+is a real solid plan that he put
+
+00:17:20.559 --> 00:17:23.520
+together and his playbook was especially
+
+00:17:22.079 --> 00:17:25.600
+good. I think you can really do this
+
+00:17:23.520 --> 00:17:27.919
+with pretty much any SAS, specifically
+
+00:17:25.600 --> 00:17:29.322
+B2B SAS more so, but I really think that
+
+00:17:27.919 --> 00:17:30.640
+this could work and is a great first
+
+00:17:29.322 --> 00:17:31.760
+[music] channel. Yeah. And then the
+
+00:17:30.640 --> 00:17:33.840
+other thing I was thinking about was
+
+00:17:31.760 --> 00:17:35.217
+like on Twitter, you'll see how many
+
+00:17:33.840 --> 00:17:37.280
+people are talking about how like Google
+
+00:17:35.217 --> 00:17:39.802
+[music] search is dead or like Google
+
+00:17:37.280 --> 00:17:41.440
+SEO is dead kind of thing. I think
+
+00:17:39.802 --> 00:17:43.360
+[music] we've even done like some videos
+
+00:17:41.440 --> 00:17:44.559
+on the Bill channel on that topic. But I
+
+00:17:43.360 --> 00:17:46.720
+don't know. I guess what do you think
+
+00:17:44.559 --> 00:17:49.440
+about that? like is he's kind of showing
+
+00:17:46.720 --> 00:17:50.400
+that maybe it's not this as true or what
+
+00:17:49.440 --> 00:17:52.559
+we're like what do you think
+
+00:17:50.400 --> 00:17:55.120
+>> here's the truth Google search is not
+
+00:17:52.559 --> 00:17:57.200
+dead but informational queries are dead
+
+00:17:55.120 --> 00:17:59.120
+so if you search not dead but
+
+00:17:57.200 --> 00:18:03.200
+essentially dead if you search Google
+
+00:17:59.120 --> 00:18:05.039
+for how to uh create a great social
+
+00:18:03.200 --> 00:18:06.960
+media post that you're probably not
+
+00:18:05.039 --> 00:18:08.960
+going to rank it's going to be harder to
+
+00:18:06.960 --> 00:18:12.000
+rank for that and those people are
+
+00:18:08.960 --> 00:18:13.360
+coming for information on how to create
+
+00:18:12.000 --> 00:18:15.440
+a good social media post they're just
+
+00:18:13.360 --> 00:18:17.039
+going to use chat GPT for right to get a
+
+00:18:15.440 --> 00:18:18.720
+more customized way better answer. But
+
+00:18:17.039 --> 00:18:21.120
+if they're searching for things like
+
+00:18:18.720 --> 00:18:23.440
+social media scheduler, they may put
+
+00:18:21.120 --> 00:18:24.880
+that into more so into AI, but at the
+
+00:18:23.440 --> 00:18:25.840
+end of the day, it's still the same.
+
+00:18:24.880 --> 00:18:26.799
+Like they're going to put that into
+
+00:18:25.840 --> 00:18:28.720
+Google, they're going to put that into
+
+00:18:26.799 --> 00:18:31.200
+the AI. They're going to click in
+
+00:18:28.720 --> 00:18:32.880
+through to your software and buy it.
+
+00:18:31.200 --> 00:18:34.480
+Yeah, there's an argument that one day
+
+00:18:32.880 --> 00:18:35.760
+you'll be able to put into AI and it'll
+
+00:18:34.480 --> 00:18:37.600
+write all the code and create the whole
+
+00:18:35.760 --> 00:18:39.760
+app for you. But right now still people
+
+00:18:37.600 --> 00:18:41.600
+need tools and intentbased
+
+00:18:39.760 --> 00:18:43.600
+there'sformational queries and then
+
+00:18:41.600 --> 00:18:45.120
+maybe you call it intentbased queries.
+
+00:18:43.600 --> 00:18:47.520
+people are still searching things for
+
+00:18:45.120 --> 00:18:49.679
+like I need insurance, I need a social
+
+00:18:47.520 --> 00:18:51.520
+media scheduling tool, I need some
+
+00:18:49.679 --> 00:18:53.280
+clothing or something like that. So the
+
+00:18:51.520 --> 00:18:55.280
+SEO is dead is more [music]
+
+00:18:53.280 --> 00:18:57.039
+aroundformational based queries.
+
+00:18:55.280 --> 00:18:59.360
+>> Yeah, I mean I find myself using like
+
+00:18:57.039 --> 00:19:01.039
+Chat GBT a lot more first search. But
+
+00:18:59.360 --> 00:19:03.360
+sometimes when I even when I'm still
+
+00:19:01.039 --> 00:19:05.120
+looking for like a tool or something to
+
+00:19:03.360 --> 00:19:06.480
+buy, I almost still go to Google instead
+
+00:19:05.120 --> 00:19:08.240
+of chat cuz [music] I don't know. I feel
+
+00:19:06.480 --> 00:19:10.000
+like Google has something it'll really
+
+00:19:08.240 --> 00:19:12.080
+show me versus chat will just like list
+
+00:19:10.000 --> 00:19:13.919
+out whatever the answer without not
+
+00:19:12.080 --> 00:19:15.039
+always with like a link. Anyway, so
+
+00:19:13.919 --> 00:19:16.720
+yeah, I thought that was interesting to
+
+00:19:15.039 --> 00:19:19.039
+see that that still works if you do it
+
+00:19:16.720 --> 00:19:21.840
+kind of in this mathematical way. Okay,
+
+00:19:19.039 --> 00:19:23.600
+cool. Well, SEO and Google still works,
+
+00:19:21.840 --> 00:19:25.120
+but you need to build something. So, I
+
+00:19:23.600 --> 00:19:26.480
+will shamelessly plug starter story
+
+00:19:25.120 --> 00:19:28.000
+build right here. If you want to find
+
+00:19:26.480 --> 00:19:30.720
+that idea that you can eventually put
+
+00:19:28.000 --> 00:19:32.240
+into the Google Playbook, check out
+
+00:19:30.720 --> 00:19:33.600
+Starter Story Build. I'll put a link in
+
+00:19:32.240 --> 00:19:35.280
+the description for that. We will help
+
+00:19:33.600 --> 00:19:36.880
+you come up with your idea, build it
+
+00:19:35.280 --> 00:19:38.400
+with just AI tools. You don't even need
+
+00:19:36.880 --> 00:19:40.000
+to know how to code and get it in the
+
+00:19:38.400 --> 00:19:41.280
+hands of real customers. I'll put that
+
+00:19:40.000 --> 00:19:42.720
+link down there. Thank you guys for
+
+00:19:41.280 --> 00:19:45.720
+watching. We'll see you in the next one.
+
+00:19:42.720 --> 00:19:45.720
+Peace.
+

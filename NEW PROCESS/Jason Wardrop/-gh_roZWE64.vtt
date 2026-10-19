@@ -1,0 +1,959 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.200
+Most businesses don't need more leads.
+
+00:00:03.200 --> 00:00:06.760
+They need someone to answer and follow up with the leads
+
+00:00:06.760 --> 00:00:08.240
+that they're already getting.
+
+00:00:08.240 --> 00:00:11.840
+Because while business owners are busy running their business
+
+00:00:11.840 --> 00:00:13.960
+and working with clients,
+
+00:00:13.960 --> 00:00:17.240
+there are new potential prospects sitting
+
+00:00:17.240 --> 00:00:20.080
+in their Instagram DMs, Facebook DMs,
+
+00:00:20.080 --> 00:00:23.600
+and their text message inbox as well as their email inbox
+
+00:00:23.600 --> 00:00:25.520
+that are not getting followed up with.
+
+00:00:25.520 --> 00:00:27.120
+And when they don't get followed up with,
+
+00:00:27.120 --> 00:00:30.520
+they typically will move on to the competitor
+
+00:00:30.520 --> 00:00:32.920
+and they'll typically do that very fast.
+
+00:00:32.920 --> 00:00:33.760
+That's why in this video,
+
+00:00:33.760 --> 00:00:36.840
+I'm gonna show you a simple Go High Level Conversation AI
+
+00:00:36.840 --> 00:00:40.600
+bot that you can set up that will run 24-7
+
+00:00:40.600 --> 00:00:43.360
+and respond to all of your leads,
+
+00:00:43.360 --> 00:00:45.960
+as well as all of your client's leads,
+
+00:00:45.960 --> 00:00:50.240
+so they can go, so they can focus on doing what they do best,
+
+00:00:50.240 --> 00:00:51.680
+which is running their business.
+
+00:00:51.680 --> 00:00:54.080
+And the cool thing is business owners are already paying
+
+00:00:54.080 --> 00:00:56.720
+something like $300 to $500 per month
+
+00:00:56.720 --> 00:00:58.880
+for services just like these,
+
+00:00:58.880 --> 00:01:00.960
+do handle leads to help them
+
+00:01:00.960 --> 00:01:02.920
+so they don't slip through the cracks.
+
+00:01:02.920 --> 00:01:05.000
+And my favorite part about this whole business model
+
+00:01:05.000 --> 00:01:08.000
+is that you don't have to have some prior marketing experience,
+
+00:01:08.000 --> 00:01:10.000
+you don't have to be some tech expert,
+
+00:01:10.000 --> 00:01:13.440
+or even an AI expert to get this set up and running
+
+00:01:13.440 --> 00:01:15.400
+as soon as this afternoon.
+
+00:01:15.400 --> 00:01:16.960
+Everything I'm gonna show you in this video
+
+00:01:16.960 --> 00:01:20.360
+are using tools that are already pre-built,
+
+00:01:20.360 --> 00:01:24.120
+ready to use inside of Go High Level.
+
+00:01:24.120 --> 00:01:25.760
+All right, so before we jump into this,
+
+00:01:25.760 --> 00:01:27.940
+if you guys want all of my free courses,
+
+00:01:27.940 --> 00:01:31.320
+templates, scripts, everything to run your entire business,
+
+00:01:31.320 --> 00:01:32.680
+just go ahead, smash like button,
+
+00:01:32.680 --> 00:01:33.760
+drop a comment down below,
+
+00:01:33.760 --> 00:01:35.920
+consider sharing this video with a friend
+
+00:01:35.920 --> 00:01:38.160
+who might also find this video valuable,
+
+00:01:38.160 --> 00:01:39.800
+and I'll hook you up with a private link
+
+00:01:39.800 --> 00:01:42.560
+to unlock everything 100% for free.
+
+00:01:42.560 --> 00:01:45.240
+Also an extended 30-day free trial
+
+00:01:45.240 --> 00:01:48.440
+to the high level software with a 101 kickoff call
+
+00:01:48.440 --> 00:01:50.120
+to make sure you're getting everything set up
+
+00:01:50.120 --> 00:01:52.880
+the right way, as well as a live boot camp.
+
+00:01:52.880 --> 00:01:54.440
+Right, so now that you smash like button,
+
+00:01:54.440 --> 00:01:55.640
+drop a comment down below,
+
+00:01:55.640 --> 00:01:56.920
+let me jump onto my computer
+
+00:01:56.920 --> 00:01:59.600
+so we can show you everything step by step.
+
+00:01:59.600 --> 00:02:00.680
+So what we're gonna be doing
+
+00:02:00.680 --> 00:02:03.000
+is we're gonna be helping small local business owners
+
+00:02:03.000 --> 00:02:07.160
+think chiropractors, orthodontists, dentists, hairstyles,
+
+00:02:07.160 --> 00:02:08.640
+any type of small local business,
+
+00:02:08.640 --> 00:02:11.400
+and no, we're not setting up with Facebook ads
+
+00:02:11.400 --> 00:02:13.040
+or doing SEO for clients,
+
+00:02:13.040 --> 00:02:17.120
+but we're setting them up with simple AI automation software,
+
+00:02:17.120 --> 00:02:19.920
+and you'll see if you can copy and paste,
+
+00:02:19.920 --> 00:02:21.640
+you can make this setup happen,
+
+00:02:21.640 --> 00:02:23.480
+and it only takes about five minutes
+
+00:02:23.480 --> 00:02:25.640
+to go through and set this up for these businesses,
+
+00:02:25.640 --> 00:02:28.720
+but it's gonna bring tremendous value to the business owner
+
+00:02:28.720 --> 00:02:32.960
+where then you can go and charge $300 to $500 per month
+
+00:02:32.960 --> 00:02:34.720
+per client for the service.
+
+00:02:34.720 --> 00:02:35.560
+So if you look at that,
+
+00:02:35.560 --> 00:02:38.120
+if you just get three clients paying you $300 per month,
+
+00:02:38.120 --> 00:02:40.200
+you're already at $900 per month,
+
+00:02:40.200 --> 00:02:44.240
+which is an amazing start to this new AI software side hustle.
+
+00:02:44.240 --> 00:02:45.520
+Okay, so now that we understand
+
+00:02:45.520 --> 00:02:47.000
+the simple three step business model,
+
+00:02:47.000 --> 00:02:50.160
+now I wanna show you two simple things of first,
+
+00:02:50.160 --> 00:02:52.200
+how to find these small local business owners,
+
+00:02:52.200 --> 00:02:54.320
+and then second, how to set them up
+
+00:02:54.320 --> 00:02:57.640
+on this AI software automation and get them results,
+
+00:02:57.640 --> 00:03:02.080
+so they'll want to continue to pay you $300 every single month.
+
+00:03:02.080 --> 00:03:03.200
+So the first thing that we're gonna do
+
+00:03:03.200 --> 00:03:04.360
+is we're gonna go to Google.
+
+00:03:04.360 --> 00:03:06.080
+Then once we're on Google, all we have to do
+
+00:03:06.080 --> 00:03:08.720
+is go through and search for any type of business owners.
+
+00:03:08.720 --> 00:03:10.400
+So for this one, I'm just gonna say plumbers,
+
+00:03:10.400 --> 00:03:13.160
+and then we're gonna say San Diego, California,
+
+00:03:13.160 --> 00:03:15.240
+and this is gonna work for any location,
+
+00:03:15.240 --> 00:03:17.120
+any type of small business owner.
+
+00:03:17.120 --> 00:03:18.680
+But when we hit enter, what it's gonna do
+
+00:03:18.680 --> 00:03:21.200
+is gonna pop up some initial businesses
+
+00:03:21.200 --> 00:03:22.520
+that are paying to be at the top.
+
+00:03:22.520 --> 00:03:24.240
+That's why they're sponsored right there.
+
+00:03:24.240 --> 00:03:28.000
+But then next, it's gonna show several of the organic listings
+
+00:03:28.000 --> 00:03:31.040
+of businesses that typically have the most reviews
+
+00:03:31.040 --> 00:03:32.880
+and the most five star reviews.
+
+00:03:32.880 --> 00:03:34.240
+And typically if they've gone through
+
+00:03:34.240 --> 00:03:36.320
+and got a lot of reviews on their business,
+
+00:03:36.320 --> 00:03:39.720
+it means they have invested marketing dollars
+
+00:03:39.720 --> 00:03:41.880
+into going and getting more reviews
+
+00:03:41.880 --> 00:03:43.600
+and making sure they have the right software
+
+00:03:43.600 --> 00:03:45.360
+and automations all in place.
+
+00:03:45.360 --> 00:03:48.520
+Which I like this because that means they're probably open
+
+00:03:48.520 --> 00:03:51.240
+to investing into the marketing and advertising
+
+00:03:51.240 --> 00:03:52.840
+of their business, right?
+
+00:03:52.840 --> 00:03:55.440
+So these are gonna be ideal businesses
+
+00:03:55.440 --> 00:03:57.560
+that we can go through in contact anyone
+
+00:03:57.560 --> 00:04:00.720
+that already is paying for advertising up here
+
+00:04:00.720 --> 00:04:02.880
+or they already have a lot of reviews
+
+00:04:02.880 --> 00:04:04.640
+because it shows that they're willing
+
+00:04:04.640 --> 00:04:06.440
+and you don't have to go through and sell them
+
+00:04:06.440 --> 00:04:08.440
+on why they should invest into marketing
+
+00:04:08.440 --> 00:04:10.480
+and advertising for their business.
+
+00:04:10.480 --> 00:04:12.800
+However, we are not selling them reviews.
+
+00:04:12.800 --> 00:04:14.120
+We are not selling them paid ads.
+
+00:04:14.120 --> 00:04:15.680
+We're not selling them any of that.
+
+00:04:15.680 --> 00:04:18.960
+We are selling them a simple AI service
+
+00:04:18.960 --> 00:04:23.920
+to help them respond to all of their incoming calls, text,
+
+00:04:23.920 --> 00:04:26.800
+emails, Facebook messages and Instagram DMs.
+
+00:04:26.800 --> 00:04:28.920
+So let me show you a live example of this
+
+00:04:28.920 --> 00:04:31.320
+and exactly how we're gonna go through and set it up.
+
+00:04:31.320 --> 00:04:33.280
+So let's say we're gonna go work with Anderson Plumbing
+
+00:04:33.280 --> 00:04:35.160
+right here, Plannerson Plumbing, Heating Air.
+
+00:04:35.160 --> 00:04:37.120
+So all we're gonna do is click on their website.
+
+00:04:37.120 --> 00:04:38.960
+It's gonna pull up their website right here.
+
+00:04:38.960 --> 00:04:41.320
+Now if we look at this website, if I move my head right here,
+
+00:04:41.320 --> 00:04:42.600
+they have a little chat widget
+
+00:04:42.600 --> 00:04:44.200
+where people visiting their website
+
+00:04:44.200 --> 00:04:47.480
+can start a chat communication where they're hoping
+
+00:04:47.480 --> 00:04:48.760
+that there's this chat specialist
+
+00:04:48.760 --> 00:04:50.840
+that's gonna respond to their messaging.
+
+00:04:50.840 --> 00:04:52.520
+And there's probably have a Facebook page
+
+00:04:52.520 --> 00:04:55.200
+and Instagram page where people are reaching out,
+
+00:04:55.200 --> 00:04:58.480
+asking questions in Facebook DMs, Instagram DMs
+
+00:04:58.480 --> 00:04:59.960
+on the chat widget page.
+
+00:04:59.960 --> 00:05:01.960
+They're probably texting this business.
+
+00:05:01.960 --> 00:05:05.080
+And so now this business needs to go through
+
+00:05:05.080 --> 00:05:09.000
+and hire a support rep to respond to all of their questions.
+
+00:05:09.000 --> 00:05:10.200
+And if you think about that,
+
+00:05:10.200 --> 00:05:12.360
+you have to find somebody that actually wants to work
+
+00:05:12.360 --> 00:05:14.360
+and then you have to pay them an hourly rate.
+
+00:05:14.360 --> 00:05:15.720
+You have to train them.
+
+00:05:15.720 --> 00:05:18.160
+And then if they're not really doing the great job,
+
+00:05:18.160 --> 00:05:20.600
+then you have to fire them and find some new person.
+
+00:05:20.600 --> 00:05:24.640
+Well, what if we could just train AI to do all of this
+
+00:05:24.640 --> 00:05:28.640
+respond to every incoming question for the small business
+
+00:05:28.640 --> 00:05:30.960
+for a fraction of the costs?
+
+00:05:30.960 --> 00:05:35.960
+We can just hire this AI agent one time, train them one time.
+
+00:05:36.080 --> 00:05:39.360
+It takes a matter of minutes to train this AI bot.
+
+00:05:39.360 --> 00:05:41.400
+And then we never have to fire them
+
+00:05:41.400 --> 00:05:43.320
+because they're never going to show up sick
+
+00:05:43.320 --> 00:05:45.040
+to worker anything like that.
+
+00:05:45.040 --> 00:05:47.120
+So all we have to do is come over here
+
+00:05:47.120 --> 00:05:49.880
+and we're just going to copy and paste this website URL.
+
+00:05:49.880 --> 00:05:53.440
+We're going to go over here to the simple AI automation software
+
+00:05:53.440 --> 00:05:56.360
+and click on settings and set this business up
+
+00:05:56.360 --> 00:06:00.160
+with a simple service called Conversation AI.
+
+00:06:00.160 --> 00:06:03.680
+Now the cool thing about this is inside of conversation AI
+
+00:06:03.680 --> 00:06:06.520
+is we can say, hey, we want this AI bot
+
+00:06:06.520 --> 00:06:08.680
+to respond via text message.
+
+00:06:08.680 --> 00:06:11.640
+If there's an Instagram DM, Facebook DMs,
+
+00:06:11.640 --> 00:06:14.400
+that chat widget that's live on their website right there,
+
+00:06:14.400 --> 00:06:17.360
+or any live chat that's coming in any type of inbound
+
+00:06:17.360 --> 00:06:19.880
+communication that is text-based,
+
+00:06:19.880 --> 00:06:24.360
+we want this AI bot to respond and answer all the questions.
+
+00:06:24.360 --> 00:06:26.880
+And then we're just going to turn it on autopilot.
+
+00:06:26.880 --> 00:06:28.280
+And then if I move my head right there,
+
+00:06:28.280 --> 00:06:29.560
+we'll just click on save.
+
+00:06:29.560 --> 00:06:30.800
+And then you might be thinking,
+
+00:06:30.800 --> 00:06:33.800
+well, how do we actually train this AI bot?
+
+00:06:33.800 --> 00:06:36.040
+And I know nothing about this business.
+
+00:06:36.040 --> 00:06:38.520
+So how do we know how to train the bot
+
+00:06:38.600 --> 00:06:41.800
+so it knows the exact services the time of day they're open,
+
+00:06:41.800 --> 00:06:45.320
+what they're pricing is when their appointments are available?
+
+00:06:45.320 --> 00:06:48.320
+Well, all we have to do is come over here to bot training.
+
+00:06:48.320 --> 00:06:51.800
+And what we can do here is literally copy and paste
+
+00:06:51.800 --> 00:06:54.800
+the website URL to the business right here
+
+00:06:54.800 --> 00:06:56.960
+and click on get data.
+
+00:06:56.960 --> 00:06:59.960
+And so now what AI do is doing is it scanning
+
+00:06:59.960 --> 00:07:03.600
+the entire website is learning about all their services,
+
+00:07:03.600 --> 00:07:05.920
+they're pricing the hours that they're open,
+
+00:07:05.920 --> 00:07:07.800
+what appointments that they have available.
+
+00:07:07.800 --> 00:07:10.960
+And it's learning everything it needs to know about the business.
+
+00:07:10.960 --> 00:07:13.680
+And then on top of that, typically most businesses,
+
+00:07:13.680 --> 00:07:15.080
+they have about five or six,
+
+00:07:15.080 --> 00:07:16.960
+frequently asked questions that people
+
+00:07:16.960 --> 00:07:18.840
+are always asking their business.
+
+00:07:18.840 --> 00:07:20.320
+And so you can ask the business owner,
+
+00:07:20.320 --> 00:07:23.680
+hey, what are the typical questions that you guys get asked
+
+00:07:23.680 --> 00:07:25.400
+that might not be on the website,
+
+00:07:25.400 --> 00:07:26.880
+but we might need to know.
+
+00:07:26.880 --> 00:07:29.800
+And then you could just come over here and click on add Q&A
+
+00:07:29.800 --> 00:07:31.840
+and you just go and type in a question,
+
+00:07:31.840 --> 00:07:34.080
+type in the answer, and then we hit save,
+
+00:07:34.080 --> 00:07:36.480
+and then we go through and add all the questions
+
+00:07:36.480 --> 00:07:39.240
+and all of the answers for this business.
+
+00:07:39.240 --> 00:07:42.360
+Okay, so now you can see that this link has now been updated.
+
+00:07:42.360 --> 00:07:44.600
+So the AI bot has scanned the entire website,
+
+00:07:44.600 --> 00:07:46.960
+learn everything it needs to know about this website.
+
+00:07:46.960 --> 00:07:49.760
+So now we can come over here to this bot trial and test it.
+
+00:07:49.760 --> 00:07:54.760
+So we might be saying like, what services do you offer?
+
+00:07:55.040 --> 00:07:55.960
+Something like that.
+
+00:07:55.960 --> 00:07:59.120
+Now the AI bot has learned everything it needs to know
+
+00:07:59.120 --> 00:07:59.960
+from the website.
+
+00:07:59.960 --> 00:08:01.920
+So it says we offer residential plumbing,
+
+00:08:01.920 --> 00:08:03.360
+heating, drain cleaning,
+
+00:08:03.360 --> 00:08:05.960
+and air conditioning services in San Diego County.
+
+00:08:06.120 --> 00:08:08.360
+And so now if we like this answer,
+
+00:08:08.360 --> 00:08:10.720
+we can go through and say yes, we can thumbs it up
+
+00:08:10.720 --> 00:08:12.440
+and say yes is a great answer.
+
+00:08:12.440 --> 00:08:15.200
+Or if it's like, they didn't quite get it right,
+
+00:08:15.200 --> 00:08:16.920
+we just thumbs it down right here,
+
+00:08:16.920 --> 00:08:19.840
+and we can go through and enter the right information
+
+00:08:19.840 --> 00:08:21.400
+and click on train bot.
+
+00:08:21.400 --> 00:08:22.760
+And then you can continue to test it
+
+00:08:22.760 --> 00:08:24.840
+with whatever questions somebody might ask.
+
+00:08:24.840 --> 00:08:28.840
+So are you open on Mondays?
+
+00:08:28.840 --> 00:08:31.080
+The bot already knows we're open 24-7
+
+00:08:31.080 --> 00:08:33.920
+so you can reach up out at any time on Monday.
+
+00:08:33.920 --> 00:08:36.760
+So you can see as simple as a copy and pace
+
+00:08:36.760 --> 00:08:40.360
+of the website URL into this AI automation software,
+
+00:08:40.360 --> 00:08:42.280
+it's already learned everything it needs to know
+
+00:08:42.280 --> 00:08:43.560
+about the business.
+
+00:08:43.560 --> 00:08:45.680
+And then another cool thing that you can add
+
+00:08:45.680 --> 00:08:48.600
+as a special bonus to these small business owners
+
+00:08:48.600 --> 00:08:51.360
+is if they wanna go through and book more appointments
+
+00:08:51.360 --> 00:08:53.360
+on their calendar because they wanna go
+
+00:08:53.360 --> 00:08:55.040
+through and schedule appointments,
+
+00:08:55.040 --> 00:08:59.000
+you can go through and enable this appointment booking
+
+00:08:59.000 --> 00:09:02.200
+and choose a calendar to have the AI bot
+
+00:09:02.200 --> 00:09:04.800
+automatically asks a few questions
+
+00:09:04.800 --> 00:09:07.760
+and then direct them to booking appointment on their calendar.
+
+00:09:07.760 --> 00:09:09.120
+So now the great thing about this
+
+00:09:09.120 --> 00:09:10.400
+for these small business owners
+
+00:09:10.400 --> 00:09:13.040
+is they don't have to worry about hiring secretaries
+
+00:09:13.040 --> 00:09:14.920
+and assistants and training them
+
+00:09:14.920 --> 00:09:16.440
+and making sure they're showing up to work
+
+00:09:16.440 --> 00:09:17.920
+and showing up on time
+
+00:09:17.920 --> 00:09:20.280
+and learn everything they need to know about the business.
+
+00:09:20.280 --> 00:09:22.280
+Which, even learning everything about the business
+
+00:09:22.280 --> 00:09:24.880
+can take several weeks, whereas with this AI bot,
+
+00:09:24.880 --> 00:09:26.440
+it takes a matter of minutes.
+
+00:09:26.440 --> 00:09:27.960
+And you can charge these businesses
+
+00:09:27.960 --> 00:09:29.720
+as low as $300 per month,
+
+00:09:29.720 --> 00:09:32.160
+whereas hiring an assistant or a secretary,
+
+00:09:32.200 --> 00:09:34.080
+they're probably gonna be paying a minimum
+
+00:09:34.080 --> 00:09:38.400
+of $2,000 to $3,000 every single month for somebody
+
+00:09:38.400 --> 00:09:41.240
+that's unreliable is not fully trained
+
+00:09:41.240 --> 00:09:43.680
+and then you have to deal with them getting sick
+
+00:09:43.680 --> 00:09:45.440
+and they might be out on the weekends,
+
+00:09:45.440 --> 00:09:49.080
+they might take breaks, whereas AI never take breaks,
+
+00:09:49.080 --> 00:09:52.160
+never goes on vacation and it never gets sick.
+
+00:09:52.160 --> 00:09:55.400
+And I hope you can see how this is literally a one time setup
+
+00:09:55.400 --> 00:09:57.760
+where you go through and train this AI bot.
+
+00:09:57.760 --> 00:10:00.280
+Takes about five minutes to copy and paste in here,
+
+00:10:00.280 --> 00:10:01.920
+add some freely asked questions,
+
+00:10:01.920 --> 00:10:04.400
+go in and make sure that it's answering the questions
+
+00:10:04.400 --> 00:10:05.400
+the right way.
+
+00:10:05.400 --> 00:10:08.440
+And then from here on out, the bot is trained
+
+00:10:08.440 --> 00:10:10.280
+and it's gonna continue to add value
+
+00:10:10.280 --> 00:10:13.120
+to the small local business owner every single month.
+
+00:10:13.120 --> 00:10:14.880
+But this business owner is gonna continue
+
+00:10:14.880 --> 00:10:17.640
+to pay you $300 per month for the service
+
+00:10:17.640 --> 00:10:20.760
+because it's adding massive value to their business.
+
+00:10:20.760 --> 00:10:23.800
+Which then this is creating a really nice stream
+
+00:10:23.800 --> 00:10:26.440
+of what I like to call semi passive income.
+
+00:10:26.440 --> 00:10:28.160
+Cause it's not pure passive income,
+
+00:10:28.160 --> 00:10:29.800
+cause you actually had to do a little bit of work
+
+00:10:29.800 --> 00:10:31.600
+of setting it up, getting the client,
+
+00:10:31.600 --> 00:10:32.880
+but honestly at the end of the day,
+
+00:10:32.880 --> 00:10:34.640
+there's nothing that's truly passive
+
+00:10:34.640 --> 00:10:35.840
+where you just set it and forget it
+
+00:10:35.840 --> 00:10:37.160
+and you don't have to do anything.
+
+00:10:37.160 --> 00:10:39.560
+But this right here, once you get the client,
+
+00:10:39.560 --> 00:10:43.200
+you make a sale one time, you set it up one time
+
+00:10:43.200 --> 00:10:45.040
+and then maybe along the path,
+
+00:10:45.040 --> 00:10:46.680
+you answer a few support questions
+
+00:10:46.680 --> 00:10:48.840
+or if they have any need for help, you go through
+
+00:10:48.840 --> 00:10:49.680
+and help them.
+
+00:10:49.680 --> 00:10:52.080
+But other than that, this is pretty scalable
+
+00:10:52.080 --> 00:10:53.760
+and you could easily see how you go through
+
+00:10:53.760 --> 00:10:56.480
+and grow this to 10 clients, 20 clients,
+
+00:10:56.480 --> 00:11:00.360
+even 50 clients that are all paying you $300 per month.
+
+00:11:00.360 --> 00:11:04.280
+And this simple AI side hustle can really scale
+
+00:11:04.280 --> 00:11:06.040
+and grow with you work and ultimately,
+
+00:11:06.040 --> 00:11:08.440
+replace your full time income.
+
+00:11:08.440 --> 00:11:10.760
+So if you like this simple AI side hustle
+
+00:11:10.760 --> 00:11:13.200
+to go through and create some semi passive income,
+
+00:11:13.200 --> 00:11:14.920
+like I said, just smash like button,
+
+00:11:14.920 --> 00:11:16.120
+drop a comment down below
+
+00:11:16.120 --> 00:11:18.120
+and even consider subscribing to the channel.
+
+00:11:18.120 --> 00:11:20.320
+And I'll hook you up with a private link
+
+00:11:20.320 --> 00:11:22.680
+to unlock my free step-by-step course,
+
+00:11:22.680 --> 00:11:24.880
+plus templates, plus sale scripts.
+
+00:11:24.880 --> 00:11:26.480
+So you know exactly how to go through
+
+00:11:26.480 --> 00:11:28.280
+and contact these business owners.
+
+00:11:28.280 --> 00:11:30.680
+And I've got several free ways
+
+00:11:30.680 --> 00:11:32.840
+to go find small local business owners
+
+00:11:32.840 --> 00:11:35.040
+in addition to the one that I showed you
+
+00:11:35.040 --> 00:11:37.920
+and how to set up the software step-by-step.
+
+00:11:37.920 --> 00:11:40.040
+And I'll even give you a professionally designed
+
+00:11:40.040 --> 00:11:42.360
+website template for free
+
+00:11:42.360 --> 00:11:45.720
+that you can have set up and running as soon as today
+
+00:11:45.720 --> 00:11:47.720
+so you can start getting new clients
+
+00:11:47.720 --> 00:11:51.120
+and looking like a professional legit business
+
+00:11:51.120 --> 00:11:54.320
+so you can start their own AI side hustle.
+
+00:11:54.320 --> 00:11:56.480
+And this Friday at 12 PM Eastern Time,
+
+00:11:56.480 --> 00:11:59.600
+we're actually having a 100% free boot camp
+
+00:11:59.600 --> 00:12:01.360
+where in 45 minutes we're gonna help you
+
+00:12:01.360 --> 00:12:04.200
+set this entire business up and show you
+
+00:12:04.200 --> 00:12:06.040
+how to get your first clients,
+
+00:12:06.040 --> 00:12:07.880
+how to onboard those clients,
+
+00:12:07.880 --> 00:12:09.280
+get results for those clients
+
+00:12:09.280 --> 00:12:11.600
+so they continue to pay you every single month.
+
+00:12:11.600 --> 00:12:13.680
+And then in addition to that boot camp,
+
+00:12:13.680 --> 00:12:16.720
+we'll also have a free one on one kickoff call
+
+00:12:16.720 --> 00:12:18.880
+that you can jump on with a member of our team,
+
+00:12:18.880 --> 00:12:20.720
+make sure everything is set up the right way
+
+00:12:20.720 --> 00:12:23.880
+and know that you have a confident path moving forward
+
+00:12:23.880 --> 00:12:26.880
+in growing this simple AI software business.
+
+00:12:26.880 --> 00:12:28.920
+So with that said, thanks so much for watching.
+
+00:12:28.920 --> 00:12:31.160
+Don't forget to like, subscribe,
+
+00:12:31.160 --> 00:12:32.600
+and drop a comment down below
+
+00:12:32.600 --> 00:12:34.520
+and I'll hook you guys up with a free course,
+
+00:12:34.520 --> 00:12:36.480
+template scripts, coaching boot camp,
+
+00:12:36.480 --> 00:12:38.120
+and one on one kickoff call.
+

@@ -1,0 +1,2099 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.480
+But, right now, everybody and their
+
+00:00:01.520 --> 00:00:06.960
+grandma is vibe coding iOS apps. We even
+
+00:00:04.480 --> 00:00:09.720
+launched an iOS boot camp. But, what if
+
+00:00:06.960 --> 00:00:11.560
+I told you that iOS is not the only
+
+00:00:09.720 --> 00:00:13.240
+place to be making money? Something I've
+
+00:00:11.560 --> 00:00:15.960
+realized is that most people are
+
+00:00:13.240 --> 00:00:18.000
+sleeping on the potential of Android.
+
+00:00:15.960 --> 00:00:19.720
+Meet Steve. He's a guy who built a
+
+00:00:18.000 --> 00:00:23.320
+simple mobile app that makes over
+
+00:00:19.720 --> 00:00:26.080
+$100,000 a month, but almost all of his
+
+00:00:23.320 --> 00:00:28.240
+revenue comes from Android. We tested
+
+00:00:26.080 --> 00:00:31.000
+both platforms and Android performed
+
+00:00:28.240 --> 00:00:33.360
+better every single time. Most people
+
+00:00:31.000 --> 00:00:35.640
+think iOS is the only place where you
+
+00:00:33.360 --> 00:00:37.600
+can make money building apps, but Steve
+
+00:00:35.640 --> 00:00:39.320
+proved the exact opposite.
+
+00:00:37.600 --> 00:00:41.400
+>> If you're bootstrapping like we are,
+
+00:00:39.320 --> 00:00:42.840
+Android is actually way better. So, I
+
+00:00:41.400 --> 00:00:44.920
+asked Steve to come on to the channel to
+
+00:00:42.840 --> 00:00:47.560
+share everything, and in this video,
+
+00:00:44.920 --> 00:00:49.880
+we'll dive into his crazy simple app
+
+00:00:47.560 --> 00:00:52.720
+that makes over $100,000 a month, the
+
+00:00:49.880 --> 00:00:55.960
+six-step process he used to grow his app
+
+00:00:52.720 --> 00:00:58.840
+fast, and why Android apps are still an
+
+00:00:55.960 --> 00:01:02.040
+untapped opportunity in 2026. All right,
+
+00:00:58.840 --> 00:01:04.839
+guys, this is one you cannot miss. I'm
+
+00:01:02.040 --> 00:01:05.960
+Pat Walls, and this is Starter Story.
+
+00:01:04.839 --> 00:01:07.840
+All right, Steve, welcome to the
+
+00:01:05.960 --> 00:01:09.560
+channel. Tell me who you are, what you
+
+00:01:07.840 --> 00:01:11.960
+build, and what's your story. My name is
+
+00:01:09.560 --> 00:01:13.720
+Steve. I built a mobile app almost 18
+
+00:01:11.960 --> 00:01:15.680
+months ago, and over the past year,
+
+00:01:13.720 --> 00:01:18.400
+we've bootstrapped it from less than
+
+00:01:15.680 --> 00:01:20.200
+$1,000 in revenue up to $100,000 per
+
+00:01:18.400 --> 00:01:23.080
+month. Today, I'm really excited to
+
+00:01:20.200 --> 00:01:25.720
+share how we grew this to over $100,000
+
+00:01:23.080 --> 00:01:27.560
+a month primarily on Android. Before we
+
+00:01:25.720 --> 00:01:29.040
+dive into that, Android, I'm really
+
+00:01:27.560 --> 00:01:30.880
+excited to talk about it. But, before we
+
+00:01:29.040 --> 00:01:32.840
+do, what's the app that you built, and
+
+00:01:30.880 --> 00:01:34.440
+can you show me some of your revenue
+
+00:01:32.840 --> 00:01:36.480
+dashboards and things like that to show
+
+00:01:34.440 --> 00:01:38.560
+me that this is legit? Joinable is an AI
+
+00:01:36.480 --> 00:01:41.040
+calorie counter. It's kind of an
+
+00:01:38.560 --> 00:01:43.080
+all-in-one AI nutrition assistant. It
+
+00:01:41.040 --> 00:01:44.600
+tracks your calories, your macros, it
+
+00:01:43.080 --> 00:01:46.960
+tracks your weight loss over time, it
+
+00:01:44.600 --> 00:01:48.800
+gives you insights. So, this is our app.
+
+00:01:46.960 --> 00:01:50.600
+This is our Play Store listing. You can
+
+00:01:48.800 --> 00:01:52.480
+see the number of reviews, the
+
+00:01:50.600 --> 00:01:54.160
+downloads. This is almost at a million
+
+00:01:52.480 --> 00:01:55.480
+just on Android, which we're really
+
+00:01:54.160 --> 00:01:57.560
+excited about. So, this is our
+
+00:01:55.480 --> 00:02:00.040
+RevenueCat dashboard. In the past 28
+
+00:01:57.560 --> 00:02:03.200
+days, we've made $125,000
+
+00:02:00.040 --> 00:02:05.760
+in revenue with an MRR of around 80K,
+
+00:02:03.200 --> 00:02:08.240
+which brings us to just under 1 million
+
+00:02:05.760 --> 00:02:10.679
+ARR in annual terms, and just over
+
+00:02:08.240 --> 00:02:14.400
+30,000 active subscribers, and around
+
+00:02:10.679 --> 00:02:18.000
+40,000 total subscribers. So, our app is
+
+00:02:14.400 --> 00:02:19.920
+a premium subscription app. We have two
+
+00:02:18.000 --> 00:02:21.280
+subscription packages, a monthly
+
+00:02:19.920 --> 00:02:23.280
+subscription, and an annual
+
+00:02:21.280 --> 00:02:26.240
+subscription. And that's where all of
+
+00:02:23.280 --> 00:02:29.240
+our revenue comes from. Around 80% of
+
+00:02:26.240 --> 00:02:31.800
+our users and around 80% of our revenue
+
+00:02:29.240 --> 00:02:34.200
+comes from Android, and 20% of our users
+
+00:02:31.800 --> 00:02:37.400
+and revenue come from iOS. Okay, that's
+
+00:02:34.200 --> 00:02:38.680
+pretty crazy. 80% of your sales come
+
+00:02:37.400 --> 00:02:39.880
+from Android. We're going to talk all
+
+00:02:38.680 --> 00:02:41.400
+about that, cuz I think you're going to
+
+00:02:39.880 --> 00:02:43.080
+have some cool stuff on that. But before
+
+00:02:41.400 --> 00:02:44.160
+we do, let's talk about how you even get
+
+00:02:43.080 --> 00:02:46.040
+here. How do you get to the point where
+
+00:02:44.160 --> 00:02:46.600
+you have an app that's used by millions
+
+00:02:46.040 --> 00:02:48.880
+of people?
+
+00:02:46.600 --> 00:02:50.280
+>> So, the way we started working on this,
+
+00:02:48.880 --> 00:02:52.520
+and the way this app came to be, was
+
+00:02:50.280 --> 00:02:54.400
+that my co-founder and I have both been
+
+00:02:52.520 --> 00:02:56.959
+through our own weight loss journeys.
+
+00:02:54.400 --> 00:02:58.520
+Personally, I used to weigh 125 kilos,
+
+00:02:56.959 --> 00:03:02.120
+and I currently weigh 80 kilos. So, I
+
+00:02:58.520 --> 00:03:03.680
+dropped 45 kilos or 100 lb. And I did
+
+00:03:02.120 --> 00:03:05.920
+this by tracking my calories
+
+00:03:03.680 --> 00:03:07.720
+religiously. During this period, I
+
+00:03:05.920 --> 00:03:09.440
+tracked my calories. I used many
+
+00:03:07.720 --> 00:03:12.040
+different apps, many of our competitors.
+
+00:03:09.440 --> 00:03:14.239
+So, I had a very good idea of these
+
+00:03:12.040 --> 00:03:16.600
+products, of the space. And we realized
+
+00:03:14.239 --> 00:03:18.200
+that the current state of the space is
+
+00:03:16.600 --> 00:03:20.000
+very complex. There is no simple
+
+00:03:18.200 --> 00:03:22.239
+solution to get you where you need to
+
+00:03:20.000 --> 00:03:25.000
+go. So, the reason we started working on
+
+00:03:22.239 --> 00:03:27.920
+this app was to offer the same value to
+
+00:03:25.000 --> 00:03:30.959
+our user, the the best in class solution
+
+00:03:27.920 --> 00:03:33.600
+with way less complexity. The number one
+
+00:03:30.959 --> 00:03:35.200
+thing that we focus on is simplicity, is
+
+00:03:33.600 --> 00:03:36.680
+the quick and easy experience that we
+
+00:03:35.200 --> 00:03:39.080
+offer. And so, that's what we try and
+
+00:03:36.680 --> 00:03:40.480
+capture with our marketing content.
+
+00:03:39.080 --> 00:03:41.519
+>> We interviewed someone recently who
+
+00:03:40.480 --> 00:03:43.600
+talked about that as well, as like
+
+00:03:41.519 --> 00:03:45.200
+building something very simple, very
+
+00:03:43.600 --> 00:03:46.480
+frictionless. A lot of developers
+
+00:03:45.200 --> 00:03:48.440
+watching this want to add a million
+
+00:03:46.480 --> 00:03:50.519
+features. I like the line, which is keep
+
+00:03:48.440 --> 00:03:52.160
+it simple, stupid. Even as as mentioned,
+
+00:03:50.519 --> 00:03:53.960
+the time spent on your app was less than
+
+00:03:52.160 --> 00:03:55.200
+others, but actually that's what made it
+
+00:03:53.960 --> 00:03:56.080
+valuable. I want to dive into the next
+
+00:03:55.200 --> 00:03:57.800
+topic here, and you mentioned this a
+
+00:03:56.080 --> 00:03:59.440
+couple times, which is what this
+
+00:03:57.800 --> 00:04:01.080
+hopefully video is about, which is
+
+00:03:59.440 --> 00:04:04.000
+Android. A lot of people talk about
+
+00:04:01.080 --> 00:04:05.880
+building on iOS, and how those users
+
+00:04:04.000 --> 00:04:07.720
+have more money to spend, where Android
+
+00:04:05.880 --> 00:04:09.680
+is not as much the case, but you did it
+
+00:04:07.720 --> 00:04:11.000
+the exact opposite. So, let's talk about
+
+00:04:09.680 --> 00:04:12.680
+the growth of this app. How did you get
+
+00:04:11.000 --> 00:04:15.560
+users? How did you build it? What was
+
+00:04:12.680 --> 00:04:18.200
+your focus? We are bootstrapped. We have
+
+00:04:15.560 --> 00:04:20.320
+spent only our own money since day one.
+
+00:04:18.200 --> 00:04:22.400
+So, we didn't really have huge budgets
+
+00:04:20.320 --> 00:04:24.240
+to work with. iOS is way more expensive
+
+00:04:22.400 --> 00:04:26.800
+than Android, right? So, the CPMs, the
+
+00:04:24.240 --> 00:04:28.760
+cost per thousand views or generally the
+
+00:04:26.800 --> 00:04:31.120
+cost per view is almost four times as
+
+00:04:28.760 --> 00:04:32.800
+high on iOS than it is on Android. So,
+
+00:04:31.120 --> 00:04:35.200
+being bootstrapped and being capital
+
+00:04:32.800 --> 00:04:37.880
+constrained from day one, we knew that
+
+00:04:35.200 --> 00:04:41.360
+we needed a solution. So, we decided to
+
+00:04:37.880 --> 00:04:43.560
+focus a bit on Android initially. So, we
+
+00:04:41.360 --> 00:04:45.400
+started working on Android, and you
+
+00:04:43.560 --> 00:04:47.520
+know, obviously the conventional wisdom
+
+00:04:45.400 --> 00:04:49.680
+here says, "Focus on iOS. That's where
+
+00:04:47.520 --> 00:04:51.840
+all the money is. That's where the
+
+00:04:49.680 --> 00:04:54.680
+success is in in business and in
+
+00:04:51.840 --> 00:04:56.600
+subscription apps." But, we went against
+
+00:04:54.680 --> 00:04:58.880
+that for a few reasons, including
+
+00:04:56.600 --> 00:05:01.400
+capital constraint, but also we got
+
+00:04:58.880 --> 00:05:04.040
+inspired by the RevenueCat State of
+
+00:05:01.400 --> 00:05:06.720
+Subscription Apps Report in 2025. In
+
+00:05:04.040 --> 00:05:09.919
+that report, it showed that despite iOS
+
+00:05:06.720 --> 00:05:12.919
+users being four times as expensive to
+
+00:05:09.919 --> 00:05:16.400
+advertise to, they only convert at
+
+00:05:12.919 --> 00:05:18.440
+around 20% better than Android. So, it
+
+00:05:16.400 --> 00:05:19.720
+made sense for us to start working on
+
+00:05:18.440 --> 00:05:21.800
+Android and start getting some
+
+00:05:19.720 --> 00:05:23.600
+subscribers there. Okay, cool. I really
+
+00:05:21.800 --> 00:05:25.280
+like that. Instead of just seeing what
+
+00:05:23.600 --> 00:05:26.919
+everyone's doing on X and just taking
+
+00:05:25.280 --> 00:05:28.240
+random advice from people that talk on
+
+00:05:26.919 --> 00:05:30.360
+the internet, you guys looked at the
+
+00:05:28.240 --> 00:05:31.800
+data. That report is really telling. And
+
+00:05:30.360 --> 00:05:33.160
+then you looked at the data from your
+
+00:05:31.800 --> 00:05:35.480
+own ads. You're saying, "Okay, we can
+
+00:05:33.160 --> 00:05:37.240
+acquire users much cheaper, and they
+
+00:05:35.480 --> 00:05:39.080
+generally convert the same." That's
+
+00:05:37.240 --> 00:05:40.600
+super smart. For anyone watching this,
+
+00:05:39.080 --> 00:05:43.840
+follow the data, follow the money.
+
+00:05:40.600 --> 00:05:45.600
+That's great intel. What did you do next
+
+00:05:43.840 --> 00:05:47.160
+once you sort of realized, "Oh, here's
+
+00:05:45.600 --> 00:05:48.680
+this opportunity." How did you get it
+
+00:05:47.160 --> 00:05:50.520
+off the ground and actually start
+
+00:05:48.680 --> 00:05:52.760
+getting users and getting the word out?
+
+00:05:50.520 --> 00:05:55.720
+>> We started by launching on Product Hunt.
+
+00:05:52.760 --> 00:05:58.120
+That was our day zero marketing and
+
+00:05:55.720 --> 00:06:00.040
+distribution strategy. We got featured
+
+00:05:58.120 --> 00:06:02.040
+on the front page of Product Hunt. It
+
+00:06:00.040 --> 00:06:03.960
+got us a couple hundred installs. Two of
+
+00:06:02.040 --> 00:06:06.040
+those installs converted to subscribers.
+
+00:06:03.960 --> 00:06:07.440
+At which point we knew we had validated
+
+00:06:06.040 --> 00:06:08.760
+the product. We knew that we had
+
+00:06:07.440 --> 00:06:10.960
+something that people were willing to
+
+00:06:08.760 --> 00:06:13.560
+pay for. We started working on Meta ads
+
+00:06:10.960 --> 00:06:15.800
+and Meta ad campaigns we saw that we
+
+00:06:13.560 --> 00:06:17.120
+couldn't afford to run iOS campaigns
+
+00:06:15.800 --> 00:06:19.040
+because we're bootstrapped and because
+
+00:06:17.120 --> 00:06:20.280
+we're capital constrained. So, we
+
+00:06:19.040 --> 00:06:21.680
+naturally
+
+00:06:20.280 --> 00:06:23.560
+reverted to just running Android
+
+00:06:21.680 --> 00:06:25.240
+campaigns in the states because we
+
+00:06:23.560 --> 00:06:26.760
+didn't have the money. Now, when we ran
+
+00:06:25.240 --> 00:06:28.960
+the Android campaigns we saw that they
+
+00:06:26.760 --> 00:06:31.640
+had a conversion rate just as good as
+
+00:06:28.960 --> 00:06:33.440
+our iOS users. So, we tested both.
+
+00:06:31.640 --> 00:06:34.800
+Eventually, we tested iOS as well and
+
+00:06:33.440 --> 00:06:36.720
+found that, you know, Android was way
+
+00:06:34.800 --> 00:06:39.280
+more cost effective. We also realized
+
+00:06:36.720 --> 00:06:41.200
+that by running ads on Android we get
+
+00:06:39.280 --> 00:06:42.800
+some spillover into iOS. For all of
+
+00:06:41.200 --> 00:06:45.000
+these reasons, the fact that we got
+
+00:06:42.800 --> 00:06:47.760
+initial success on Android and we were
+
+00:06:45.000 --> 00:06:50.040
+getting a couple hits on iOS as a result
+
+00:06:47.760 --> 00:06:53.120
+meant that we just double down on on
+
+00:06:50.040 --> 00:06:55.360
+Android. We decided to ramp up our spend
+
+00:06:53.120 --> 00:06:57.360
+and really focus on this platform. All
+
+00:06:55.360 --> 00:06:59.280
+right, so ads, that's a pretty big
+
+00:06:57.360 --> 00:07:01.480
+strategy for you and for a lot of other
+
+00:06:59.280 --> 00:07:03.840
+people who have successful Android apps.
+
+00:07:01.480 --> 00:07:06.360
+Can you just explain what ads means for
+
+00:07:03.840 --> 00:07:08.160
+you? Is it SEO, Google ads, or is it
+
+00:07:06.360 --> 00:07:11.360
+Android ads? How does it work? This is
+
+00:07:08.160 --> 00:07:13.680
+effectively our all-time Google ads
+
+00:07:11.360 --> 00:07:17.280
+dashboard. We have spent just under
+
+00:07:13.680 --> 00:07:19.560
+$500,000 on ads and we have made almost
+
+00:07:17.280 --> 00:07:22.280
+that exact same amount in revenue that
+
+00:07:19.560 --> 00:07:24.200
+is attributed to Google ads. So, revenue
+
+00:07:22.280 --> 00:07:26.200
+directly attributed to Google ads is
+
+00:07:24.200 --> 00:07:28.919
+almost the same. So, we are effectively
+
+00:07:26.200 --> 00:07:30.600
+100% break-even on this. Ideally, we
+
+00:07:28.919 --> 00:07:32.200
+would have a way lower return on ad
+
+00:07:30.600 --> 00:07:33.680
+spend and a way higher volume. But,
+
+00:07:32.200 --> 00:07:35.919
+because we're bootstrapped, we're
+
+00:07:33.680 --> 00:07:37.320
+constrained by the performance of these
+
+00:07:35.919 --> 00:07:38.919
+campaigns. We need them to be
+
+00:07:37.320 --> 00:07:41.040
+profitable. Could you just show me an
+
+00:07:38.919 --> 00:07:42.920
+example of what an ad looks like? You
+
+00:07:41.040 --> 00:07:44.600
+can show me the campaign manager or
+
+00:07:42.920 --> 00:07:46.680
+potentially what it looks like if you're
+
+00:07:44.600 --> 00:07:47.640
+viewing an ad from the Play Store or
+
+00:07:46.680 --> 00:07:49.120
+something like that. I'm just curious
+
+00:07:47.640 --> 00:07:50.680
+what that looks like or how you set up
+
+00:07:49.120 --> 00:07:53.120
+the campaign and what keywords you
+
+00:07:50.680 --> 00:07:55.560
+target. So, you see this section here?
+
+00:07:53.120 --> 00:07:57.760
+This is us previewing the ads that we've
+
+00:07:55.560 --> 00:08:00.080
+generated. And then it shows up across,
+
+00:07:57.760 --> 00:08:02.040
+as we mentioned, Google's digital real
+
+00:08:00.080 --> 00:08:04.200
+estate. So, in the display network, for
+
+00:08:02.040 --> 00:08:06.040
+example, in other ads or in websites, it
+
+00:08:04.200 --> 00:08:08.080
+can show up like this. It can show up in
+
+00:08:06.040 --> 00:08:10.080
+Google search. So, if someone's on
+
+00:08:08.080 --> 00:08:11.680
+Google search on their mobile device, we
+
+00:08:10.080 --> 00:08:14.280
+also show up on YouTube. We've got a
+
+00:08:11.680 --> 00:08:16.080
+couple videos here which also lead
+
+00:08:14.280 --> 00:08:17.720
+people to the Play Store to install our
+
+00:08:16.080 --> 00:08:20.320
+app. On the Discover network, on the
+
+00:08:17.720 --> 00:08:22.400
+Discover page, and most importantly, on
+
+00:08:20.320 --> 00:08:24.680
+the Play Store. So, this is our highest
+
+00:08:22.400 --> 00:08:26.560
+performer, our Play Store ad. It
+
+00:08:24.680 --> 00:08:28.120
+obviously shows up in between other
+
+00:08:26.560 --> 00:08:30.040
+apps, especially if you search for one
+
+00:08:28.120 --> 00:08:31.840
+of the keywords like calorie counter or
+
+00:08:30.040 --> 00:08:34.159
+calorie tracker. If you have an Android
+
+00:08:31.840 --> 00:08:36.039
+device, Pat, and you search for a
+
+00:08:34.159 --> 00:08:37.440
+calorie tracker on the Play Store,
+
+00:08:36.039 --> 00:08:39.080
+there's a very high chance that we're
+
+00:08:37.440 --> 00:08:41.760
+going to be number one for this reason.
+
+00:08:39.080 --> 00:08:44.280
+So, this is our bread and butter, the
+
+00:08:41.760 --> 00:08:46.880
+Google Play ads. Steve's approach to
+
+00:08:44.280 --> 00:08:48.920
+growth is genius. He found just one
+
+00:08:46.880 --> 00:08:51.800
+channel, Google, and used it to scale
+
+00:08:48.920 --> 00:08:53.760
+his app to over $100,000 a month. And
+
+00:08:51.800 --> 00:08:56.400
+what I love about mobile apps is that
+
+00:08:53.760 --> 00:08:58.360
+there are dozens of ways to grow just
+
+00:08:56.400 --> 00:09:00.160
+like this. So, we put together a free
+
+00:08:58.360 --> 00:09:02.240
+guide to help you find the strategies
+
+00:09:00.160 --> 00:09:04.520
+real founders are using today to grow
+
+00:09:02.240 --> 00:09:06.720
+their apps. From influencer marketing to
+
+00:09:04.520 --> 00:09:08.360
+building a public, the mobile app growth
+
+00:09:06.720 --> 00:09:10.320
+cheat sheet will break down seven
+
+00:09:08.360 --> 00:09:12.400
+different tactics you can use to start
+
+00:09:10.320 --> 00:09:14.040
+growing your app today. Just head to the
+
+00:09:12.400 --> 00:09:15.600
+first link in the description to grab it
+
+00:09:14.040 --> 00:09:18.000
+for free. All right, let's get back to
+
+00:09:15.600 --> 00:09:19.120
+the episode. Okay, this is super cool.
+
+00:09:18.000 --> 00:09:21.200
+You know, we talked a lot of people who
+
+00:09:19.120 --> 00:09:22.760
+build apps and they're doing like UGC
+
+00:09:21.200 --> 00:09:24.520
+and all this TikTok stuff. What I like
+
+00:09:22.760 --> 00:09:25.880
+about yours is that you just run ads.
+
+00:09:24.520 --> 00:09:27.400
+There's one place where you can do it
+
+00:09:25.880 --> 00:09:28.880
+and then it goes to all of Google's
+
+00:09:27.400 --> 00:09:30.680
+digital real estate. This is one of the
+
+00:09:28.880 --> 00:09:32.480
+advantages of just focusing in on one
+
+00:09:30.680 --> 00:09:34.680
+platform like Android. You take
+
+00:09:32.480 --> 00:09:36.480
+advantage of Google's way bigger
+
+00:09:34.680 --> 00:09:38.560
+advertising network. I want you to dive
+
+00:09:36.480 --> 00:09:41.240
+a little deeper into that, into the
+
+00:09:38.560 --> 00:09:43.760
+playbook for how to win on Android, how
+
+00:09:41.240 --> 00:09:45.320
+to win specifically with paid ads in the
+
+00:09:43.760 --> 00:09:46.720
+Google network. Could you walk me
+
+00:09:45.320 --> 00:09:49.520
+through this step-by-step if you were to
+
+00:09:46.720 --> 00:09:50.800
+build another app in the consumer space?
+
+00:09:49.520 --> 00:09:53.400
+What would be your playbook if you were
+
+00:09:50.800 --> 00:09:55.800
+starting over in 2026? Yeah, absolutely.
+
+00:09:53.400 --> 00:09:58.360
+So, I'll tell you exactly what we did
+
+00:09:55.800 --> 00:09:59.800
+and the formula that anyone can follow.
+
+00:09:58.360 --> 00:10:01.840
+The first thing we did and the first
+
+00:09:59.800 --> 00:10:03.800
+thing you should always do is to set up
+
+00:10:01.840 --> 00:10:06.000
+attribution and measurement, right? What
+
+00:10:03.800 --> 00:10:08.600
+that means is being able to track the
+
+00:10:06.000 --> 00:10:11.160
+events that take place in your app and
+
+00:10:08.600 --> 00:10:13.480
+send them to Google Ads. What this does
+
+00:10:11.160 --> 00:10:15.320
+effectively is it lets Google Ads know
+
+00:10:13.480 --> 00:10:18.080
+when a user installs the app, most
+
+00:10:15.320 --> 00:10:20.400
+importantly, when they hit, let's say,
+
+00:10:18.080 --> 00:10:22.560
+your paywall and when they take any
+
+00:10:20.400 --> 00:10:24.040
+action, either starting a free trial or
+
+00:10:22.560 --> 00:10:26.040
+purchasing your app. And if they
+
+00:10:24.040 --> 00:10:28.840
+purchase, the value of the transaction
+
+00:10:26.040 --> 00:10:31.800
+as well. So, all of this data is and
+
+00:10:28.840 --> 00:10:33.480
+should be sent to Google Ads. The value
+
+00:10:31.800 --> 00:10:35.400
+of this is that Google Ads can then
+
+00:10:33.480 --> 00:10:37.720
+optimize the campaigns and optimize the
+
+00:10:35.400 --> 00:10:40.120
+delivery of the campaigns based on that
+
+00:10:37.720 --> 00:10:43.200
+data. Second, after attribution and
+
+00:10:40.120 --> 00:10:45.720
+measurement, you need to launch install
+
+00:10:43.200 --> 00:10:48.440
+campaigns. Google Ads needs data, right?
+
+00:10:45.720 --> 00:10:50.160
+It needs data in order to optimize.
+
+00:10:48.440 --> 00:10:51.839
+First, what we need is install
+
+00:10:50.160 --> 00:10:53.920
+campaigns. You need to start feeding the
+
+00:10:51.839 --> 00:10:56.400
+algorithm. It needs to start to have a
+
+00:10:53.920 --> 00:10:58.320
+heartbeat. It knows how much an install
+
+00:10:56.400 --> 00:11:00.320
+costs, it knows what the CPM is in the
+
+00:10:58.320 --> 00:11:02.440
+country, and it can grow from there.
+
+00:11:00.320 --> 00:11:04.200
+It's also good to get baselined and to
+
+00:11:02.440 --> 00:11:06.640
+have a frame of reference for all future
+
+00:11:04.200 --> 00:11:09.120
+campaigns you're going to run in
+
+00:11:06.640 --> 00:11:11.600
+whichever markets you're targeting. Now,
+
+00:11:09.120 --> 00:11:14.120
+Google Ads app campaigns
+
+00:11:11.600 --> 00:11:16.160
+require 10 pieces of copy, so five
+
+00:11:14.120 --> 00:11:18.720
+headlines, five descriptions, and then
+
+00:11:16.160 --> 00:11:20.720
+up to 20 images and 20 videos. For this
+
+00:11:18.720 --> 00:11:22.920
+initial install campaign, ideally you
+
+00:11:20.720 --> 00:11:24.720
+have all of these assets. If you don't
+
+00:11:22.920 --> 00:11:27.400
+have the time or if you just want to run
+
+00:11:24.720 --> 00:11:29.080
+it as a proof of concept, then just use
+
+00:11:27.400 --> 00:11:30.880
+stock images. It's fine. Use stock
+
+00:11:29.080 --> 00:11:32.600
+images and stock videos. Yeah, highly
+
+00:11:30.880 --> 00:11:34.360
+recommended. Just flood the campaign
+
+00:11:32.600 --> 00:11:36.720
+with assets and let Google's algorithm
+
+00:11:34.360 --> 00:11:38.960
+do the do do the heavy lifting. Then,
+
+00:11:36.720 --> 00:11:41.840
+the third one is a function of time,
+
+00:11:38.960 --> 00:11:44.240
+right? And it is the asset optimization
+
+00:11:41.840 --> 00:11:46.000
+phase. Once you have an install campaign
+
+00:11:44.240 --> 00:11:47.080
+running, you need to give it some time.
+
+00:11:46.000 --> 00:11:48.920
+You're going to be learning, the
+
+00:11:47.080 --> 00:11:50.440
+algorithm's going to be learning. What
+
+00:11:48.920 --> 00:11:52.320
+works, what messaging works, what
+
+00:11:50.440 --> 00:11:54.840
+doesn't. Start with some low-cost
+
+00:11:52.320 --> 00:11:56.840
+campaigns, maybe $10 a day, $15 a day,
+
+00:11:54.840 --> 00:11:58.080
+and start ramping up from there. And
+
+00:11:56.840 --> 00:12:00.040
+while you're doing that, you're going to
+
+00:11:58.080 --> 00:12:01.920
+be working on your assets. So, if you
+
+00:12:00.040 --> 00:12:04.160
+started with stock images, start to
+
+00:12:01.920 --> 00:12:06.720
+build your own custom images. Maybe uh
+
+00:12:04.160 --> 00:12:08.360
+try something with some large text with
+
+00:12:06.720 --> 00:12:11.120
+your winning copy. But, make sure to
+
+00:12:08.360 --> 00:12:13.200
+take big swings. Don't optimize little
+
+00:12:11.120 --> 00:12:15.320
+things like the color of one image or
+
+00:12:13.200 --> 00:12:17.320
+the font styles or the font style. Take
+
+00:12:15.320 --> 00:12:19.840
+big swings. Like have incredibly
+
+00:12:17.320 --> 00:12:21.640
+different uh media, incredibly different
+
+00:12:19.840 --> 00:12:23.000
+uh assets, images, videos. And then
+
+00:12:21.640 --> 00:12:24.640
+eventually, you're going to start to see
+
+00:12:23.000 --> 00:12:27.160
+patterns of what works and what doesn't
+
+00:12:24.640 --> 00:12:29.400
+work. And most importantly, update your
+
+00:12:27.160 --> 00:12:31.680
+Play Store assets, right? So, that's
+
+00:12:29.400 --> 00:12:33.920
+where most of the win is. Because Google
+
+00:12:31.680 --> 00:12:35.960
+App campaigns use your Play Store
+
+00:12:33.920 --> 00:12:38.320
+assets, your screenshots, your app
+
+00:12:35.960 --> 00:12:39.960
+title, your subtitle, your description,
+
+00:12:38.320 --> 00:12:41.839
+make sure they're great. Once your
+
+00:12:39.960 --> 00:12:45.080
+assets are in a good place, that's when
+
+00:12:41.839 --> 00:12:48.160
+you know it's time for a TCPA campaign
+
+00:12:45.080 --> 00:12:49.600
+or target CPA, cost per acquisition.
+
+00:12:48.160 --> 00:12:51.120
+Once you've got the confidence in your
+
+00:12:49.600 --> 00:12:53.560
+assets, it's time to launch this
+
+00:12:51.120 --> 00:12:55.160
+campaign. In terms of budget for this
+
+00:12:53.560 --> 00:12:56.960
+campaign or the install campaigns,
+
+00:12:55.160 --> 00:12:59.800
+you're always going to need 10 times
+
+00:12:56.960 --> 00:13:01.520
+your CPI for the budget. So, if you're
+
+00:12:59.800 --> 00:13:03.920
+running a CPI campaign, you need 10
+
+00:13:01.520 --> 00:13:06.480
+times your CPI. What does that mean? If
+
+00:13:03.920 --> 00:13:09.880
+a purchase in your app, or let's say if
+
+00:13:06.480 --> 00:13:13.360
+a free trial in your app costs you $15,
+
+00:13:09.880 --> 00:13:15.600
+you need $150 per day of budget in order
+
+00:13:13.360 --> 00:13:17.320
+to run a successful campaign. The reason
+
+00:13:15.600 --> 00:13:20.440
+for this is that Google's algorithm
+
+00:13:17.320 --> 00:13:23.120
+needs 10 of your target events per day
+
+00:13:20.440 --> 00:13:24.760
+in order to successfully optimize. Once
+
+00:13:23.120 --> 00:13:27.040
+you start getting some good data in them
+
+00:13:24.760 --> 00:13:28.640
+after a month or two, you start to have
+
+00:13:27.040 --> 00:13:30.440
+some purchases in your app. You get
+
+00:13:28.640 --> 00:13:32.240
+baselined, you know your CAC. That's
+
+00:13:30.440 --> 00:13:34.440
+when you start to scale these campaigns.
+
+00:13:32.240 --> 00:13:36.840
+Again, you you might need to raise money
+
+00:13:34.440 --> 00:13:39.360
+to do this from friends, family. Maybe
+
+00:13:36.840 --> 00:13:42.000
+you go the VC backed route, maybe not.
+
+00:13:39.360 --> 00:13:43.800
+Ideally not. Increase your budgets over
+
+00:13:42.000 --> 00:13:45.760
+time. You need to keep scaling your
+
+00:13:43.800 --> 00:13:48.600
+budgets in accordance with Google's best
+
+00:13:45.760 --> 00:13:50.400
+practices and very importantly, optimize
+
+00:13:48.600 --> 00:13:52.520
+your product. Your conversion rate needs
+
+00:13:50.400 --> 00:13:54.320
+to constantly be climbing. By conversion
+
+00:13:52.520 --> 00:13:56.160
+rate, I mean your subscription
+
+00:13:54.320 --> 00:13:58.320
+conversion rate. Maybe you optimize your
+
+00:13:56.160 --> 00:14:00.240
+paywall, maybe optimize your business
+
+00:13:58.320 --> 00:14:02.920
+model, your pricing, you test your
+
+00:14:00.240 --> 00:14:05.160
+prices, optimize every single thing. As
+
+00:14:02.920 --> 00:14:07.560
+your conversion rate increases, increase
+
+00:14:05.160 --> 00:14:09.720
+your budgets of your campaigns and the
+
+00:14:07.560 --> 00:14:11.600
+flywheel continues. And that's the
+
+00:14:09.720 --> 00:14:12.960
+playbook. Okay, cool. I mean, the thing
+
+00:14:11.600 --> 00:14:13.960
+that I notice about when you're talking
+
+00:14:12.960 --> 00:14:15.280
+about everything is it's always about
+
+00:14:13.960 --> 00:14:16.480
+the data, looking at the data. We're
+
+00:14:15.280 --> 00:14:18.400
+talking about campaigns, we're talking
+
+00:14:16.480 --> 00:14:20.480
+about ROAS, we're looking at data. This
+
+00:14:18.400 --> 00:14:22.080
+entire business was built on looking at
+
+00:14:20.480 --> 00:14:23.520
+the data, following the data, making
+
+00:14:22.080 --> 00:14:26.320
+decisions, changing things. And this is
+
+00:14:23.520 --> 00:14:29.480
+how you get to a place where you have an
+
+00:14:26.320 --> 00:14:31.160
+app that has millions of users on an
+
+00:14:29.480 --> 00:14:33.000
+on a platform that you didn't expect
+
+00:14:31.160 --> 00:14:34.040
+would be as big, Android. I think that's
+
+00:14:33.000 --> 00:14:35.560
+super cool. Let's talk about the
+
+00:14:34.040 --> 00:14:36.760
+opportunity in Android. A lot of people
+
+00:14:35.560 --> 00:14:38.839
+are watching this, maybe they're already
+
+00:14:36.760 --> 00:14:40.640
+building an app and they maybe didn't
+
+00:14:38.839 --> 00:14:42.280
+think Android was the way to go. What
+
+00:14:40.640 --> 00:14:43.960
+can you share about that from what
+
+00:14:42.280 --> 00:14:45.360
+you've learned through building this?
+
+00:14:43.960 --> 00:14:48.320
+Something that's happened over the past
+
+00:14:45.360 --> 00:14:51.640
+couple years is with the emergence of AI
+
+00:14:48.320 --> 00:14:54.280
+and the lowering of the barrier to entry
+
+00:14:51.640 --> 00:14:56.040
+for anyone to release apps, we've seen
+
+00:14:54.280 --> 00:14:57.520
+an explosion in the number of apps
+
+00:14:56.040 --> 00:15:00.160
+that's that have been released,
+
+00:14:57.520 --> 00:15:02.400
+especially on iOS. So, in the past
+
+00:15:00.160 --> 00:15:04.800
+couple years, five times as many iOS
+
+00:15:02.400 --> 00:15:06.480
+apps have been released on the App Store
+
+00:15:04.800 --> 00:15:08.880
+compared to only two times as many
+
+00:15:06.480 --> 00:15:10.640
+Android apps. So, on the one hand, the
+
+00:15:08.880 --> 00:15:13.440
+barrier to entry is way lower. On the
+
+00:15:10.640 --> 00:15:15.560
+second hand, most people who are live
+
+00:15:13.440 --> 00:15:18.280
+coding apps and most new apps which are
+
+00:15:15.560 --> 00:15:20.680
+being released are on iOS. So, if there
+
+00:15:18.280 --> 00:15:23.120
+is saturation in the the
+
+00:15:20.680 --> 00:15:25.600
+you know it's definitely on iOS. So, the
+
+00:15:23.120 --> 00:15:27.880
+opportunities on Android really are
+
+00:15:25.600 --> 00:15:30.320
+generally the apps that we know are
+
+00:15:27.880 --> 00:15:32.080
+successful on iOS that don't have an
+
+00:15:30.320 --> 00:15:35.240
+equivalent on Android. That's the
+
+00:15:32.080 --> 00:15:38.960
+opportunity. The second opportunity is
+
+00:15:35.240 --> 00:15:41.400
+the niche problems that individuals have
+
+00:15:38.960 --> 00:15:43.160
+that previously have not been worth
+
+00:15:41.400 --> 00:15:45.240
+someone building an app to solve.
+
+00:15:43.160 --> 00:15:47.240
+Because of the lowering of the barrier
+
+00:15:45.240 --> 00:15:49.360
+to entry, because of the low cost of
+
+00:15:47.240 --> 00:15:51.200
+software development these days, the
+
+00:15:49.360 --> 00:15:53.640
+real opportunities are going to be in
+
+00:15:51.200 --> 00:15:56.680
+the niche overlap of problems or
+
+00:15:53.640 --> 00:15:58.280
+features that no apps currently solve.
+
+00:15:56.680 --> 00:16:00.560
+So, really for anyone who's thinking
+
+00:15:58.280 --> 00:16:02.520
+about building an app, I would highly
+
+00:16:00.560 --> 00:16:05.040
+recommend seeing the problems that you
+
+00:16:02.520 --> 00:16:06.800
+face in your day-to-day with the current
+
+00:16:05.040 --> 00:16:08.760
+state of the apps that you use, with the
+
+00:16:06.800 --> 00:16:10.960
+incumbents, and find a niche, find a
+
+00:16:08.760 --> 00:16:12.920
+very, very small problems that are
+
+00:16:10.960 --> 00:16:15.440
+overlap of problems that no one has
+
+00:16:12.920 --> 00:16:17.520
+solved. Solve it, find the other users,
+
+00:16:15.440 --> 00:16:19.760
+and find the people who face the same
+
+00:16:17.520 --> 00:16:22.000
+sets of problems, and you will find some
+
+00:16:19.760 --> 00:16:23.200
+good revenues in doing that. Yeah, so I
+
+00:16:22.000 --> 00:16:25.320
+mean, I think that's super true. There's
+
+00:16:23.200 --> 00:16:26.760
+a lot of things I noticed about what
+
+00:16:25.320 --> 00:16:28.520
+you've built. It's just about growing
+
+00:16:26.760 --> 00:16:30.240
+markets, Android, and then also there's
+
+00:16:28.520 --> 00:16:31.800
+some interesting stuff you shared around
+
+00:16:30.240 --> 00:16:33.200
+countries. You're building this, you're
+
+00:16:31.800 --> 00:16:35.640
+localizing it to different countries.
+
+00:16:33.200 --> 00:16:37.800
+That's just the emerging massive growing
+
+00:16:35.640 --> 00:16:39.520
+customer base of worldwide customers. We
+
+00:16:37.800 --> 00:16:41.600
+talked to a lot of founders who are
+
+00:16:39.520 --> 00:16:43.200
+shipping apps specifically in France or
+
+00:16:41.600 --> 00:16:45.040
+South America. There's There's a lot of
+
+00:16:43.200 --> 00:16:46.360
+opportunity there, too. One thing that I
+
+00:16:45.040 --> 00:16:47.640
+do want to see is I want to see your
+
+00:16:46.360 --> 00:16:49.360
+app. Can you show me the app that has
+
+00:16:47.640 --> 00:16:51.640
+millions of users and is making over a
+
+00:16:49.360 --> 00:16:53.839
+million dollars a year? It's very
+
+00:16:51.640 --> 00:16:55.960
+simple. For example, you can type in
+
+00:16:53.839 --> 00:16:59.640
+what you ate. If I type something in
+
+00:16:55.960 --> 00:17:02.400
+like yogurt, granola, blueberries, and
+
+00:16:59.640 --> 00:17:05.880
+almonds, it'll take a second and come
+
+00:17:02.400 --> 00:17:08.160
+back with the calorie count, the macros
+
+00:17:05.880 --> 00:17:09.959
+split by ingredients, and then a total
+
+00:17:08.160 --> 00:17:12.000
+of this meal at the bottom. You can also
+
+00:17:09.959 --> 00:17:16.079
+type in your exercise. For example, I
+
+00:17:12.000 --> 00:17:17.600
+did 1 hour of vinyasa yoga, and it also
+
+00:17:16.079 --> 00:17:20.079
+tracks your
+
+00:17:17.600 --> 00:17:21.520
+that you've burned and keeps the totals
+
+00:17:20.079 --> 00:17:23.959
+in the bar at the top. Where the more
+
+00:17:21.520 --> 00:17:25.920
+you can try with pictures. I can select
+
+00:17:23.959 --> 00:17:27.600
+a picture from my gallery and what the
+
+00:17:25.920 --> 00:17:29.920
+app is going to do is it's going to
+
+00:17:27.600 --> 00:17:31.800
+transcribe first what it sees in the
+
+00:17:29.920 --> 00:17:33.640
+picture, identify the ingredients, the
+
+00:17:31.800 --> 00:17:35.960
+portion sizes, and then it's going to
+
+00:17:33.640 --> 00:17:37.960
+come back to us with the calories and
+
+00:17:35.960 --> 00:17:40.360
+macros of each ingredient and then a
+
+00:17:37.960 --> 00:17:42.560
+total of the entire meal. And you can
+
+00:17:40.360 --> 00:17:44.600
+just see at the top you've got your
+
+00:17:42.560 --> 00:17:45.880
+weekly view. You can see which days
+
+00:17:44.600 --> 00:17:47.600
+you've tracked this week. You've got
+
+00:17:45.880 --> 00:17:49.600
+your daily streak. You can track your
+
+00:17:47.600 --> 00:17:51.440
+weight over time. So, yeah, that's
+
+00:17:49.600 --> 00:17:54.400
+basically it. Like I said, very simple,
+
+00:17:51.440 --> 00:17:56.640
+very easy to use. No complexity, no
+
+00:17:54.400 --> 00:17:58.200
+searching in multiple databases. Just
+
+00:17:56.640 --> 00:18:00.280
+type in what you've eaten, take a
+
+00:17:58.200 --> 00:18:02.040
+picture of your plate, and the rest is
+
+00:18:00.280 --> 00:18:04.040
+history. Okay, cool. I mean, super cool,
+
+00:18:02.040 --> 00:18:05.480
+super simple app, as you said. Keep it
+
+00:18:04.040 --> 00:18:07.120
+simple, stupid. Let's talk about tech
+
+00:18:05.480 --> 00:18:09.080
+stack for a second. What's the stack
+
+00:18:07.120 --> 00:18:11.080
+behind this million-dollar app? We are
+
+00:18:09.080 --> 00:18:13.800
+very heavily in the Google ecosystem,
+
+00:18:11.080 --> 00:18:16.440
+right? We use Firebase and GA4 for our
+
+00:18:13.800 --> 00:18:18.760
+back-end. We use BigQuery, GCP, Google
+
+00:18:16.440 --> 00:18:21.160
+Play. Obviously, we advertise on Google
+
+00:18:18.760 --> 00:18:23.800
+Ads. We effectively work for Google at
+
+00:18:21.160 --> 00:18:25.960
+this point. Apart from Google, we use
+
+00:18:23.800 --> 00:18:29.360
+RevenueCat for subscription management.
+
+00:18:25.960 --> 00:18:31.280
+And we use AI for our back-end AI usage
+
+00:18:29.360 --> 00:18:32.960
+for most of it. We have quite a few
+
+00:18:31.280 --> 00:18:35.240
+tools we use for operations. We use
+
+00:18:32.960 --> 00:18:38.400
+Cloud Code and Cloud Co-Work, incredible
+
+00:18:35.240 --> 00:18:41.280
+tool, $100 a month. Open AI premium for
+
+00:18:38.400 --> 00:18:44.240
+general purpose usage, $20 per month. We
+
+00:18:41.280 --> 00:18:46.920
+use GitHub Copilot, $39 a month. We use
+
+00:18:44.240 --> 00:18:49.320
+Code Rabbit, that cost us $30 a month.
+
+00:18:46.920 --> 00:18:52.640
+Fixer for AI email support, incredible
+
+00:18:49.320 --> 00:18:55.880
+tool, $30 a month. And 8N for operations
+
+00:18:52.640 --> 00:18:58.360
+automation, $24 a month. AppFollow for
+
+00:18:55.880 --> 00:19:01.800
+ASO, app store optimization, that cost
+
+00:18:58.360 --> 00:19:04.080
+us $180 a month. And we use Webflow for
+
+00:19:01.800 --> 00:19:06.640
+our website, our landing page, which
+
+00:19:04.080 --> 00:19:08.120
+cost us $18 a month. Uh thanks for
+
+00:19:06.640 --> 00:19:09.760
+sharing all that. Last question that we
+
+00:19:08.120 --> 00:19:11.680
+ask everyone who comes onto the channel,
+
+00:19:09.760 --> 00:19:13.960
+if you could go back in time and stand
+
+00:19:11.680 --> 00:19:15.560
+on young Steve's shoulders and give him
+
+00:19:13.960 --> 00:19:16.680
+some advice or give some advice for
+
+00:19:15.560 --> 00:19:18.320
+anyone on here that wants to build a
+
+00:19:16.680 --> 00:19:20.440
+million-dollar app. What would it be?
+
+00:19:18.320 --> 00:19:22.200
+One thing which I would definitely do
+
+00:19:20.440 --> 00:19:23.560
+differently is that I would start
+
+00:19:22.200 --> 00:19:25.840
+creating content. I would start
+
+00:19:23.560 --> 00:19:28.240
+documenting my journey and get good at
+
+00:19:25.840 --> 00:19:30.880
+making content. After living off of
+
+00:19:28.240 --> 00:19:32.720
+social media for almost a decade, I'm
+
+00:19:30.880 --> 00:19:34.040
+I've kind of fallen behind almost
+
+00:19:32.720 --> 00:19:36.840
+everyone in the world when it comes to
+
+00:19:34.040 --> 00:19:38.960
+this and it is a skill we're missing in
+
+00:19:36.840 --> 00:19:40.440
+the business. So, yeah, the piece of
+
+00:19:38.960 --> 00:19:42.600
+advice would be start to start
+
+00:19:40.440 --> 00:19:44.160
+documenting your journey and get good at
+
+00:19:42.600 --> 00:19:46.240
+making content. Having some
+
+00:19:44.160 --> 00:19:48.200
+documentation of the journey and seeing
+
+00:19:46.240 --> 00:19:49.920
+how much I've grown over time and maybe
+
+00:19:48.200 --> 00:19:52.280
+even publicly sharing some of that is
+
+00:19:49.920 --> 00:19:55.240
+something I wish I'd done earlier and
+
+00:19:52.280 --> 00:19:57.240
+I'm planning on starting now. So, I miss
+
+00:19:55.240 --> 00:20:00.440
+a lot of the skills, I miss a a lot of
+
+00:19:57.240 --> 00:20:03.120
+the gauge and calibration towards social
+
+00:20:00.440 --> 00:20:05.040
+media and content creation which almost
+
+00:20:03.120 --> 00:20:07.160
+all of my peers and almost everyone else
+
+00:20:05.040 --> 00:20:08.920
+in the world has. So, it's a huge
+
+00:20:07.160 --> 00:20:10.880
+weakness of mine and
+
+00:20:08.920 --> 00:20:12.760
+yeah, I would change that. Well, that's
+
+00:20:10.880 --> 00:20:13.960
+great advice. Document the journey.
+
+00:20:12.760 --> 00:20:15.960
+That's what we believe here at Starter
+
+00:20:13.960 --> 00:20:18.480
+Story and this is maybe the beginning or
+
+00:20:15.960 --> 00:20:20.000
+a great milestone in that journey of you
+
+00:20:18.480 --> 00:20:22.240
+documenting. Thanks for coming on and
+
+00:20:20.000 --> 00:20:23.760
+sharing all this amazing million-dollar
+
+00:20:22.240 --> 00:20:25.080
+Android app. I think this video is going
+
+00:20:23.760 --> 00:20:26.240
+to be awesome and the channel's going to
+
+00:20:25.080 --> 00:20:27.920
+love it. Let us know what you think in
+
+00:20:26.240 --> 00:20:29.360
+the comments and thanks for coming on,
+
+00:20:27.920 --> 00:20:32.000
+Steve. Thanks for having me. It was a
+
+00:20:29.360 --> 00:20:33.280
+pleasure. Congrats to you as well. Okay,
+
+00:20:32.000 --> 00:20:35.200
+Gus,
+
+00:20:33.280 --> 00:20:36.480
+uh producer of Starter Story,
+
+00:20:35.200 --> 00:20:37.720
+what did you think?
+
+00:20:36.480 --> 00:20:39.280
+I've said this a few in a few other
+
+00:20:37.720 --> 00:20:41.000
+videos, but
+
+00:20:39.280 --> 00:20:43.120
+the best people that we talk to are the
+
+00:20:41.000 --> 00:20:45.840
+people that are like crushing it.
+
+00:20:43.120 --> 00:20:47.800
+They all have like this system,
+
+00:20:45.840 --> 00:20:49.040
+you know, whether it's creating content
+
+00:20:47.800 --> 00:20:51.680
+or, you know, whatever, the building
+
+00:20:49.040 --> 00:20:55.160
+process. For Steve, it was his all his
+
+00:20:51.680 --> 00:20:56.680
+Google Google Ads, you know, system.
+
+00:20:55.160 --> 00:20:58.480
+So, that's my biggest takeaway is like
+
+00:20:56.680 --> 00:21:00.120
+or my first takeaway, I should say. I
+
+00:20:58.480 --> 00:21:02.720
+was so impressed with like his system
+
+00:21:00.120 --> 00:21:04.400
+and just how methodical and data-driven
+
+00:21:02.720 --> 00:21:06.680
+I feel like you you value that quite a
+
+00:21:04.400 --> 00:21:08.520
+bit, at least in as I've got to know you
+
+00:21:06.680 --> 00:21:10.440
+and that obviously makes Start Story and
+
+00:21:08.520 --> 00:21:11.760
+you successful. So, I don't know, that's
+
+00:21:10.440 --> 00:21:14.880
+kind of standing out to me as like this
+
+00:21:11.760 --> 00:21:17.200
+like data-driven, he's not guessing.
+
+00:21:14.880 --> 00:21:19.240
+Right. Following the numbers, and that's
+
+00:21:17.200 --> 00:21:20.920
+like I we've seen that a few different
+
+00:21:19.240 --> 00:21:21.960
+times. Yeah, this is what I always see
+
+00:21:20.920 --> 00:21:23.120
+with founders who I know who are
+
+00:21:21.960 --> 00:21:25.560
+crushing it. Obviously, he's crushing
+
+00:21:23.120 --> 00:21:27.200
+it. He has a million-dollar app, and you
+
+00:21:25.560 --> 00:21:28.560
+got to get started, but then once you
+
+00:21:27.200 --> 00:21:30.000
+get started, you need to look at the
+
+00:21:28.560 --> 00:21:31.960
+data and make changes based on that
+
+00:21:30.000 --> 00:21:33.680
+data. I think a lot of people will want
+
+00:21:31.960 --> 00:21:36.400
+to watch more videos like that are on
+
+00:21:33.680 --> 00:21:38.200
+our channel to find other, you know,
+
+00:21:36.400 --> 00:21:40.520
+ideas, and that's great to find ideas
+
+00:21:38.200 --> 00:21:42.920
+online, and to see what others are doing
+
+00:21:40.520 --> 00:21:44.440
+and get inspiration, but 80% of the
+
+00:21:42.920 --> 00:21:46.360
+decisions that you make should be based
+
+00:21:44.440 --> 00:21:48.440
+on your own data. If users aren't using
+
+00:21:46.360 --> 00:21:50.480
+your app, that is a piece of data that
+
+00:21:48.440 --> 00:21:52.440
+you need to go change your app. If your
+
+00:21:50.480 --> 00:21:54.880
+app is not converting, you have that
+
+00:21:52.440 --> 00:21:57.080
+data. Look at that, analyze it, maybe
+
+00:21:54.880 --> 00:21:58.560
+put it into AI, get some action items
+
+00:21:57.080 --> 00:22:00.120
+that you can do, and make the changes,
+
+00:21:58.560 --> 00:22:03.120
+and then look at the data. This is
+
+00:22:00.120 --> 00:22:05.120
+constant, day hour over hour, day over
+
+00:22:03.120 --> 00:22:06.840
+day, looking at the data and making
+
+00:22:05.120 --> 00:22:09.000
+decisions. This is what all the very,
+
+00:22:06.840 --> 00:22:10.960
+very successful founders do. You have
+
+00:22:09.000 --> 00:22:12.440
+this data, it it is
+
+00:22:10.960 --> 00:22:13.920
+you have this goldmine right in front of
+
+00:22:12.440 --> 00:22:15.880
+you, whether it's your Google Ads or
+
+00:22:13.920 --> 00:22:18.720
+your TikTok performance or whatever it
+
+00:22:15.880 --> 00:22:20.800
+is. Use that and make changes, and
+
+00:22:18.720 --> 00:22:23.200
+eventually you'll be successful. Second
+
+00:22:20.800 --> 00:22:24.680
+thing was obviously the whole like iOS
+
+00:22:23.200 --> 00:22:26.680
+versus Android thing. I don't want to
+
+00:22:24.680 --> 00:22:28.040
+say versus, but like the difference.
+
+00:22:26.680 --> 00:22:30.480
+I love what he was saying about like
+
+00:22:28.040 --> 00:22:31.960
+what he say like iOS has like whatever
+
+00:22:30.480 --> 00:22:34.160
+quadrupled in the number of apps
+
+00:22:31.960 --> 00:22:36.400
+submitted versus Android is only like
+
+00:22:34.160 --> 00:22:38.040
+it's a lot slower. And if you look on X,
+
+00:22:36.400 --> 00:22:39.640
+which I'm on all the time, everyone's
+
+00:22:38.040 --> 00:22:41.320
+talking about iOS apps. And we we even
+
+00:22:39.640 --> 00:22:42.920
+did a boot camp, you know, iOS boot camp
+
+00:22:41.320 --> 00:22:44.480
+that I led, you know, shameless plug.
+
+00:22:42.920 --> 00:22:46.640
+But that was just like, "Wow, that's
+
+00:22:44.480 --> 00:22:48.720
+crazy." The numbers he rattled off about
+
+00:22:46.640 --> 00:22:50.600
+like how much less is going into
+
+00:22:48.720 --> 00:22:51.960
+Android. That's what you should do.
+
+00:22:50.600 --> 00:22:52.720
+That's anyone watching should go like be
+
+00:22:51.960 --> 00:22:54.160
+like,
+
+00:22:52.720 --> 00:22:55.280
+"Screw iOS, let me go build an Android
+
+00:22:54.160 --> 00:22:57.360
+app." And just follow the numbers.
+
+00:22:55.280 --> 00:22:59.200
+>> Yeah, there's a famous story about the
+
+00:22:57.360 --> 00:23:02.120
+founders of WhatsApp. Everyone was
+
+00:22:59.200 --> 00:23:03.760
+building iOS apps, and but they wanted
+
+00:23:02.120 --> 00:23:05.120
+to build a like a messaging app that
+
+00:23:03.760 --> 00:23:06.600
+everyone would use because if everyone's
+
+00:23:05.120 --> 00:23:08.600
+using the app then it becomes the most
+
+00:23:06.600 --> 00:23:10.160
+popular. So yeah, they built the iOS app
+
+00:23:08.600 --> 00:23:11.560
+but they also made sure this is years
+
+00:23:10.160 --> 00:23:13.360
+ago. It doesn't apply now but it's the
+
+00:23:11.560 --> 00:23:14.760
+similar principles. They decided, oh,
+
+00:23:13.360 --> 00:23:17.680
+we're going to make sure that it works
+
+00:23:14.760 --> 00:23:20.600
+on every device on like Blackberries, on
+
+00:23:17.680 --> 00:23:22.480
+like random like weird OS's. They made
+
+00:23:20.600 --> 00:23:24.680
+it work on every single one even though
+
+00:23:22.480 --> 00:23:26.320
+the conventional wisdom was build an
+
+00:23:24.680 --> 00:23:28.680
+iPhone app at the time because everyone
+
+00:23:26.320 --> 00:23:31.400
+has iPhones. As mentioned, there are
+
+00:23:28.680 --> 00:23:32.960
+billions of Android devices out there.
+
+00:23:31.400 --> 00:23:34.440
+That's all that you need to know about
+
+00:23:32.960 --> 00:23:36.840
+how there's money to be made there.
+
+00:23:34.440 --> 00:23:38.880
+Sure, maybe on average iOS users spend
+
+00:23:36.840 --> 00:23:40.960
+more but the world is so big. It's
+
+00:23:38.880 --> 00:23:43.120
+important to open up your mind into how
+
+00:23:40.960 --> 00:23:44.600
+you don't need to build the best thing
+
+00:23:43.120 --> 00:23:46.160
+or the most optimized thing. You just
+
+00:23:44.600 --> 00:23:47.800
+need to build something that captures
+
+00:23:46.160 --> 00:23:49.520
+value and you can have a million dollar
+
+00:23:47.800 --> 00:23:50.880
+app. So if you guys enjoyed this video,
+
+00:23:49.520 --> 00:23:52.320
+thank you for watching. Let us know what
+
+00:23:50.880 --> 00:23:54.680
+you thought in the comments. Would you
+
+00:23:52.320 --> 00:23:55.920
+like us to bring on more Android devs
+
+00:23:54.680 --> 00:23:57.320
+and talk about this or would you like us
+
+00:23:55.920 --> 00:23:59.600
+to go deeper into anything that he
+
+00:23:57.320 --> 00:24:01.000
+shared? I read every comment and what
+
+00:23:59.600 --> 00:24:02.880
+you put in there will turn into future
+
+00:24:01.000 --> 00:24:04.120
+videos and future playbooks. So thank
+
+00:24:02.880 --> 00:24:07.640
+you guys for watching this one and we'll
+
+00:24:04.120 --> 00:24:07.640
+see you in the next one. Peace.
+

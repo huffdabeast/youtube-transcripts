@@ -1,0 +1,546 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:04.480
+What if your real estate leads were followed up 
+every single time without you having even lift  
+
+00:00:04.480 --> 00:00:08.720
+a finger? Because here's the reality that most 
+agents don't want to admit. They're not losing  
+
+00:00:08.720 --> 00:00:15.360
+deals because of bad leads. They're losing deals 
+because of slow follow-up. And in today's market,  
+
+00:00:15.360 --> 00:00:19.920
+speed is everything. So, in this video, I'm 
+going to show you step by step how you can  
+
+00:00:19.920 --> 00:00:26.240
+build a simple AI agent to follow up with every 
+single one of your leads, qualify these prospects,  
+
+00:00:26.240 --> 00:00:31.120
+and help them move closer to actually closing the 
+deal. And the best part for you is I'm going to  
+
+00:00:31.120 --> 00:00:35.920
+show you how to set this all up in just about 
+10 minutes. And the cool thing is this works  
+
+00:00:35.920 --> 00:00:40.720
+even if you're not technical and even if you've 
+never built anything with AI before. Now look,  
+
+00:00:40.720 --> 00:00:46.720
+there is a lot of hype around AI right now. But 
+what I'm about to show you is beginner friendly.  
+
+00:00:46.720 --> 00:00:51.920
+It's practical and specifically designed 
+for realtors who want to close more deals  
+
+00:00:51.920 --> 00:00:57.040
+without working more hours. So, if you want 
+faster follow-up, better sales conversations,  
+
+00:00:57.040 --> 00:01:01.920
+and more qualified leads, then smash the like 
+button and consider subscribing to the channel.  
+
+00:01:01.920 --> 00:01:06.560
+And once you've done that, let's dive into things. 
+So, what I would do is go to realtor.com. This is  
+
+00:01:06.560 --> 00:01:11.200
+obviously a very popular site. You can probably do 
+the same thing on Zillow or Truly or any of these  
+
+00:01:11.200 --> 00:01:14.800
+different websites. Let me just zoom in so you 
+guys can see this a little bit better. And then  
+
+00:01:14.800 --> 00:01:19.360
+I'm going to come over here to find realtors. So, 
+I'm going to click on this. And then from here,  
+
+00:01:19.360 --> 00:01:24.160
+you're saying, "I'm going to look for an agent." 
+And put in your zip code, your city, and after  
+
+00:01:24.160 --> 00:01:29.600
+working with over 15,000 real estate agents. I 
+know there are a lot of agents in Texas, Florida,  
+
+00:01:29.600 --> 00:01:35.120
+and Southern California. So, for this example, I'm 
+just going to put in Dallas, Texas right here. So,  
+
+00:01:35.120 --> 00:01:38.240
+we're going to pop that in. And you don't even 
+have to put us an agent's name. We're just going  
+
+00:01:38.240 --> 00:01:43.360
+to click search. And you could literally do this 
+for any city across the United States. And then  
+
+00:01:43.360 --> 00:01:48.960
+the cool thing about realtor.com is it gives you 
+data on each one of these realtors. So if you  
+
+00:01:48.960 --> 00:01:53.920
+look right here, it has Marsha Ashlock. It has how 
+many years she's been doing this. It has her phone  
+
+00:01:53.920 --> 00:01:58.720
+number, has the email they can go through and send 
+an email. But what I like to look here is not just  
+
+00:01:58.720 --> 00:02:01.680
+going through and finding all the different 
+real estate agents. We can go through and spam  
+
+00:02:01.680 --> 00:02:06.560
+or anything like that. But the cool thing that it 
+shows is it shows how many homes they currently  
+
+00:02:06.560 --> 00:02:12.320
+have for sale and how many total homes they have 
+sold in the past. Because in my experience, I'd  
+
+00:02:12.320 --> 00:02:16.880
+say 80 plus percent of real estate agents, they're 
+newbies. They just got in the business. They kind  
+
+00:02:16.880 --> 00:02:21.120
+of do it part-time on the side. So, if you're 
+going to go through and sell marketing services to  
+
+00:02:21.120 --> 00:02:26.720
+them to help them generate more leads, they're not 
+all taking it as serious as the next agent. So,  
+
+00:02:26.720 --> 00:02:31.360
+we want to find someone who actually takes their 
+business seriously. They're doing it full-time  
+
+00:02:31.360 --> 00:02:35.520
+and can afford your services. So, they're not 
+just going to start up with you and then cancel  
+
+00:02:35.520 --> 00:02:40.560
+after two or 3 months. Okay? So, for example, like 
+that right here, no problem with this, but he only  
+
+00:02:40.560 --> 00:02:45.920
+has one home for sale and he's only sold three, 
+which means he's probably a brand new agent. So,  
+
+00:02:45.920 --> 00:02:50.400
+we probably don't want to start there because he's 
+going to be way more skeptical than someone that's  
+
+00:02:50.400 --> 00:02:54.320
+a lot more experienced and he might not have 
+the budget to go through and get started. So,  
+
+00:02:54.320 --> 00:02:58.240
+the cool thing is is we can literally scroll 
+through and see all these different potential  
+
+00:02:58.240 --> 00:03:02.880
+clients that we can contact. It literally has 
+their phone number right here. And then if we  
+
+00:03:02.880 --> 00:03:07.760
+come back up here to the top, we can actually 
+sort by it says most recent activity, or you  
+
+00:03:07.760 --> 00:03:14.960
+can say the highest ratings, most recommendations, 
+most for sale listings or most sold listings. So  
+
+00:03:14.960 --> 00:03:19.120
+obviously most for sale listings or most sold 
+listings. That's going to probably put the top  
+
+00:03:19.120 --> 00:03:24.000
+agents at the very top when it's sorting through 
+all these different agents right here. So you can  
+
+00:03:24.000 --> 00:03:29.680
+see Marsha is still the very top. Then we've got 
+Brian. We can connect with. We got Christopher.  
+
+00:03:29.680 --> 00:03:33.920
+We have all these different agents that are 
+lowhanging fruit that we know they make money,  
+
+00:03:33.920 --> 00:03:38.080
+they're high performers, they know what they're 
+doing, and more than likely they can afford a  
+
+00:03:38.080 --> 00:03:43.840
+simple $300 to $500 per month marketing service to 
+help them get more leads for their business. Okay,  
+
+00:03:43.840 --> 00:03:49.440
+so now we have a blueprint to find the most 
+ideal clients, the ones that can actually afford  
+
+00:03:49.440 --> 00:03:54.320
+our services in any market, because now we can do 
+this in Dallas, Texas. We could do this in Denver,  
+
+00:03:54.320 --> 00:03:59.920
+Colorado. We could do this in Tampa, Florida, any 
+city across the country, right? And so now what  
+
+00:03:59.920 --> 00:04:04.480
+we're going to do is we are going to help them 
+out with a little simple service called automiss  
+
+00:04:04.480 --> 00:04:08.720
+call text back. And this is something I haven't 
+seen anybody talking about in the real estate  
+
+00:04:08.720 --> 00:04:12.960
+industry. I've seen a lot of Facebook ads. I've 
+seen SEO in the past building website for real  
+
+00:04:12.960 --> 00:04:18.000
+estate agents. And so this is going to be a total 
+gamecher, something brand new to these real estate  
+
+00:04:18.000 --> 00:04:21.120
+agents where when you offer it to them, they're 
+not going to be like, "Okay, well, what makes  
+
+00:04:21.120 --> 00:04:24.560
+you better than the next person?" They're going to 
+be like, "Wow, this is really cool. I've actually  
+
+00:04:24.560 --> 00:04:29.680
+never heard of this." So what automiss call text 
+back is is you have all of these people with their  
+
+00:04:29.680 --> 00:04:35.440
+phone numbers. And statistics show that 62% of 
+calls incoming to small business owners like a  
+
+00:04:35.440 --> 00:04:41.440
+real estate agent go unanswered. And so if they're 
+missing 62% of their calls because they're busy,  
+
+00:04:41.440 --> 00:04:45.280
+they're with a client, they're with their family, 
+whatever it might be because they're kind of solo  
+
+00:04:45.280 --> 00:04:50.400
+independent business owners, then they're 
+missing out on a lot of potential deals. So,  
+
+00:04:50.400 --> 00:04:55.520
+if I go in and I call Brian and he doesn't pick up 
+the phone, well, I don't want to just go and call  
+
+00:04:55.520 --> 00:05:00.400
+the next realtor if I'm trying to go through and 
+find a house in Dallas, Texas, right? Brian wants  
+
+00:05:00.400 --> 00:05:05.120
+to save the deal. And so, if I call him, I want 
+to set up a simple service for him called automiss  
+
+00:05:05.120 --> 00:05:08.880
+call text back where we'll have software, 
+which I'll show you here in just a second,  
+
+00:05:08.880 --> 00:05:14.000
+automatically text that potential client back and 
+say, "Hey, sorry, I missed your call. How can I  
+
+00:05:14.000 --> 00:05:18.080
+help you?" And then they're going to be able to 
+start a text conversation back and forth instead  
+
+00:05:18.080 --> 00:05:23.600
+of the client going and calling Christopher or 
+Jimmy or William or whoever the next agent is.  
+
+00:05:23.600 --> 00:05:27.840
+And as we're sitting down and selling this to 
+a Brian or Christopher or any of these agents,  
+
+00:05:27.840 --> 00:05:32.960
+what we have is a cool automiss call text back 
+calculator. So this is called the ROI calculator.  
+
+00:05:32.960 --> 00:05:37.520
+Let me just zoom in on this. So what we can say 
+is say, "Okay, Brian, what's your average client  
+
+00:05:37.520 --> 00:05:43.920
+value?" Well, typically real estate agents make 3% 
+commission on the home sale price. Now, obviously,  
+
+00:05:43.920 --> 00:05:48.240
+there were some laws that recently passed, so 
+that's not always 100% accurate. But let's just  
+
+00:05:48.240 --> 00:05:56.640
+say 3% on a $300,000 home. That's $9,000, right? 
+Which $300,000 homes, at least in my area, they're  
+
+00:05:56.640 --> 00:06:01.200
+very hard to come by nowadays. So, we'll just say 
+9,000. And it says miss calls per week. How many  
+
+00:06:01.200 --> 00:06:05.760
+missed calls do you have per week? And let's just 
+say, ah, he misses 20 calls per week. And then,  
+
+00:06:05.760 --> 00:06:11.360
+what's your average average close rate, right? 
+Like, ah, well, I close maybe 20%. Typically,  
+
+00:06:11.360 --> 00:06:15.760
+when I talk to real estate agents, they're 
+like, "Oh, I close 100% of all my deals." Well,  
+
+00:06:15.760 --> 00:06:19.280
+that's because they're mostly referrals, but 
+we'll get in that in another video. And so,  
+
+00:06:19.280 --> 00:06:23.200
+we'll just say 20 missed calls. And you're going 
+to get all this information from Brian. You're not  
+
+00:06:23.200 --> 00:06:26.320
+going to have to like know this information. Just 
+be like, "Hey, what's the average client value?  
+
+00:06:26.320 --> 00:06:30.320
+How much do you typically make? How many calls you 
+usually miss? What's your average close rate?" So,  
+
+00:06:30.320 --> 00:06:34.880
+they're giving you this actual information. And 
+then we're just going to say, "Calculate the ROI."  
+
+00:06:34.880 --> 00:06:40.160
+And so right here, monthly money left on 
+the table from 20 missed calls per week,  
+
+00:06:40.160 --> 00:06:49.280
+$35,000 almost $36,000. And we're just going to 
+be charging them $297 per month for this service.  
+
+00:06:49.280 --> 00:06:54.960
+So they're looking at this, this is like a very 
+logical sale. it makes sense that they're missing  
+
+00:06:54.960 --> 00:07:00.320
+calls and they might be missing out on prospects 
+for only $300 per month to be able to go through  
+
+00:07:00.320 --> 00:07:05.760
+and connect with these potential missed deals 
+and have the potential of making 35,000. Let's  
+
+00:07:05.760 --> 00:07:11.760
+say they're even going to make 10% of that number. 
+That'd still be $3500, which would still be a 10x  
+
+00:07:11.760 --> 00:07:18.720
+ROI on their $300 per month investment. So, the 
+cool thing about this calculator is it makes the  
+
+00:07:18.720 --> 00:07:23.440
+sales so easy because they are giving you these 
+numbers. They're giving you the average client  
+
+00:07:23.440 --> 00:07:26.640
+value. They're telling you how many calls they 
+missed per week. They're telling you the close  
+
+00:07:26.640 --> 00:07:30.320
+rate. So, it's not like you're making anything up. 
+You're just going through and plugging the numbers  
+
+00:07:30.320 --> 00:07:36.240
+in. Hit calculate and it spits it all out for you. 
+Right? So, now what we do is we come over here to  
+
+00:07:36.240 --> 00:07:41.360
+this simple software. And no, if you're wondering, 
+I do not own this software. However, if you guys  
+
+00:07:41.360 --> 00:07:45.280
+go through and sign up with this software, I 
+get what is called an affiliate commission. So,  
+
+00:07:45.280 --> 00:07:48.960
+it's going to cost you nothing more to sign up 
+for the software, but I'll get a little bit of  
+
+00:07:48.960 --> 00:07:52.880
+a kickback for showing you go how to go through 
+and use it, giving you the course templates,  
+
+00:07:52.880 --> 00:07:57.520
+and that's why I can give you everything for free 
+if, like I said, you smash the like button, drop  
+
+00:07:57.520 --> 00:08:01.600
+a comment down below, I'll send you the private 
+link, and on top of that, there's normally a  
+
+00:08:01.600 --> 00:08:07.040
+14-day free trial for this software, but I'll hook 
+you up with a 30-day extended free trial, so you  
+
+00:08:07.040 --> 00:08:11.920
+can have a longer runway to getting this business 
+launched for yourself. Okay, so we're going to  
+
+00:08:11.920 --> 00:08:16.240
+come into this software right here. And the cool 
+thing about this software is you could put your  
+
+00:08:16.240 --> 00:08:21.600
+own logo on it. You can put your own domain and 
+connect your own payment processor. So it's like  
+
+00:08:21.600 --> 00:08:28.000
+you have your own software company. And then when 
+you make a sale for $297 per month, you keep all  
+
+00:08:28.000 --> 00:08:33.200
+$297 per month. You're not doing any splits or 
+anything like that. That is all your money. So if  
+
+00:08:33.200 --> 00:08:39.040
+you sell 10 real estate agents on this at $297 per 
+month, that's almost three grand per month, right?  
+
+00:08:39.040 --> 00:08:44.560
+and you can just do the math of how you scale 
+up to $5,000 a month, then $10,000 per month,  
+
+00:08:44.560 --> 00:08:48.320
+and so on. So, what we're going to do is we're 
+going to set them up with their own profile right  
+
+00:08:48.320 --> 00:08:53.200
+here. And once we have their profile set up, all 
+we're going to do is come over here to settings  
+
+00:08:53.200 --> 00:08:58.320
+and just turn on what is called automis text back. 
+So, we go to business profile settings. We're  
+
+00:08:58.320 --> 00:09:02.000
+going to scroll all the way down. And obviously, 
+this is just a test business as you can see over  
+
+00:09:02.000 --> 00:09:05.520
+here. Scroll all the way down. You can see it's 
+already checked. I'm just going to move my head  
+
+00:09:05.520 --> 00:09:12.160
+here, but enable mis call text back. So, we just 
+toggle that on and it says, "Hi, this is location  
+
+00:09:12.160 --> 00:09:15.520
+name." Or you can put in like Brian or William 
+or whatever the names were that we were talking  
+
+00:09:15.520 --> 00:09:20.480
+about. I saw I just missed your call. How can I 
+help you? And you can see right here, you can text  
+
+00:09:20.480 --> 00:09:27.440
+um customize the text. You can say whatever you 
+want in the text. Then we just do saved mis call  
+
+00:09:27.440 --> 00:09:32.400
+text settings. So by simply toggling on this 
+enable miss call text back once we get their  
+
+00:09:32.400 --> 00:09:39.040
+profile set up we can come back over here to let's 
+say Brian and his automiss call text back can be  
+
+00:09:39.040 --> 00:09:45.520
+set up and working and now we are providing an 
+amazing value to this real estate agent for a  
+
+00:09:45.520 --> 00:09:52.160
+small monthly service fee of $297 per month which 
+like I showed you over here if Brian has sold  
+
+00:09:52.160 --> 00:09:59.280
+over a th000 homes and currently has 275 homes for 
+sale $297 per month is a no-brainer. He's not even  
+
+00:09:59.280 --> 00:10:04.560
+going to sweat or think about paying that every 
+single month because it is saving deals and it's  
+
+00:10:04.560 --> 00:10:10.240
+having the text conversations go back and forth 
+that then this software also has a mobile app. If  
+
+00:10:10.240 --> 00:10:15.120
+we go back over here to this launchpad, you can 
+have them download the mobile app right here,  
+
+00:10:15.120 --> 00:10:20.240
+send link to their phone. So, when that potential 
+client responds to that automiss call text back,  
+
+00:10:20.240 --> 00:10:24.480
+Brian is going to be able to have the mobile app 
+on his phone and he's going to be able to text  
+
+00:10:24.480 --> 00:10:29.280
+back and forth with this client and it's going to 
+be an amazing service that he can go through and  
+
+00:10:29.280 --> 00:10:34.720
+grow his business. So, anyway guys, I hope this 
+was helpful as far as going through and starting  
+
+00:10:34.720 --> 00:10:40.320
+this new side hustle working from the comfort of 
+your home. Takes like five minutes to go through  
+
+00:10:40.320 --> 00:10:44.560
+and set this up. You don't need any marketing 
+experience or crazy tech skills to go through  
+
+00:10:44.560 --> 00:10:50.000
+and make this happen. I showed you how simple it 
+is to set all this up. And so, if you guys want  
+
+00:10:50.000 --> 00:10:55.200
+my free course, shows you how to set the software 
+up step by step. It shows you more free ways of  
+
+00:10:55.200 --> 00:11:00.400
+how to get clients, how to fulfill for clients, 
+and how to go through and set up all the payment  
+
+00:11:00.400 --> 00:11:05.200
+processors and everything from A to Z. Just 
+smash like button, drop a comment down below,  
+
+00:11:05.200 --> 00:11:10.080
+and I'll send you the private link to unlock 
+everything 100% for free. So, with that said, if  
+
+00:11:10.080 --> 00:11:14.560
+you're new here, consider subscribing. Thank you 
+so much for watching and I'll see you in the next
+

@@ -1,0 +1,1418 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.840
+I'm going to show you Claude AI side
+
+00:00:01.400 --> 00:00:05.280
+hustles that pay better than your 9-5,
+
+00:00:03.840 --> 00:00:07.000
+so much better in fact that they'll
+
+00:00:05.280 --> 00:00:08.360
+protect you against layoffs. And this is
+
+00:00:07.000 --> 00:00:10.200
+coming from someone who's made over $10
+
+00:00:08.360 --> 00:00:11.840
+million from something that started as a
+
+00:00:10.200 --> 00:00:13.520
+side hustle while I was doing my
+
+00:00:11.840 --> 00:00:14.520
+full-time pharmacy job. And I've helped
+
+00:00:13.520 --> 00:00:15.760
+people that come from this YouTube
+
+00:00:14.520 --> 00:00:17.880
+channel that I've worked with generate
+
+00:00:15.760 --> 00:00:19.400
+over $100 million doing their own
+
+00:00:17.880 --> 00:00:21.280
+versions. So when I tell you this is
+
+00:00:19.400 --> 00:00:23.160
+realistic for a normal person with a day
+
+00:00:21.280 --> 00:00:25.440
+job, I'm not making this up. And the
+
+00:00:23.160 --> 00:00:27.240
+data is screaming. Over 1.2 million job
+
+00:00:25.440 --> 00:00:29.040
+cuts announced last year, the most since
+
+00:00:27.240 --> 00:00:31.120
+the pandemic. And this year AI has been
+
+00:00:29.040 --> 00:00:32.759
+the number one stated reason for layoffs
+
+00:00:31.120 --> 00:00:35.120
+3 months in a row. So no one's coming to
+
+00:00:32.759 --> 00:00:37.480
+save your job, not loyalty, not tenure,
+
+00:00:35.120 --> 00:00:39.240
+and definitely not HR. But the same AI
+
+00:00:37.480 --> 00:00:41.400
+cutting paychecks can quietly build you
+
+00:00:39.240 --> 00:00:43.680
+an income that nobody can take away. And
+
+00:00:41.400 --> 00:00:45.520
+no, this is not another recycled list of
+
+00:00:43.680 --> 00:00:47.200
+drop shipping and survey apps. Some of
+
+00:00:45.520 --> 00:00:48.960
+these are so under the radar that you'll
+
+00:00:47.200 --> 00:00:50.360
+think I'm making them up until I show
+
+00:00:48.960 --> 00:00:52.000
+you the receipts, which I will. I'm
+
+00:00:50.360 --> 00:00:53.760
+going to be giving you examples of each
+
+00:00:52.000 --> 00:00:55.120
+one and showing you on the screen. And
+
+00:00:53.760 --> 00:00:56.760
+by the end you'll know exactly which one
+
+00:00:55.120 --> 00:00:58.200
+fits your situation, even if you have
+
+00:00:56.760 --> 00:00:59.600
+zero tech skills, and even if you're
+
+00:00:58.200 --> 00:01:01.440
+strapped for time. And even if you've
+
+00:00:59.600 --> 00:01:03.600
+never opened Claude in your life. Now,
+
+00:01:01.440 --> 00:01:05.600
+one warning, most advice on this topic
+
+00:01:03.600 --> 00:01:07.440
+is AI-generated slop from people who've
+
+00:01:05.600 --> 00:01:09.280
+never made a dollar with it. This on the
+
+00:01:07.440 --> 00:01:10.600
+other hand is the real thing. And the
+
+00:01:09.280 --> 00:01:11.720
+great thing about this is you can easily
+
+00:01:10.600 --> 00:01:13.080
+do this with Claude, which I'll show you
+
+00:01:11.720 --> 00:01:14.480
+here in a bit. So if you appreciate me
+
+00:01:13.080 --> 00:01:16.560
+making this type of content, let me know
+
+00:01:14.480 --> 00:01:20.000
+by gently cheers in that like button.
+
+00:01:16.560 --> 00:01:20.000
+Let's jump into it right now.
+
+00:01:21.200 --> 00:01:25.240
+Okay, so the first one on the list is
+
+00:01:23.000 --> 00:01:27.320
+going to be a death doula. And this is
+
+00:01:25.240 --> 00:01:28.520
+basically end-of-life support. Now by
+
+00:01:27.320 --> 00:01:30.560
+the way, I'm going to put a bundle of
+
+00:01:28.520 --> 00:01:32.680
+Claude prompts and Claude skills down
+
+00:01:30.560 --> 00:01:34.520
+below that you can follow along with
+
+00:01:32.680 --> 00:01:35.760
+while you do this video. So click down
+
+00:01:34.520 --> 00:01:37.040
+there to check that out. Now viewers of
+
+00:01:35.760 --> 00:01:38.920
+this channel know that I always like to
+
+00:01:37.040 --> 00:01:40.680
+start with weird or strange
+
+00:01:38.920 --> 00:01:42.080
+opportunities, and this is definitely
+
+00:01:40.680 --> 00:01:43.800
+one of those. And you might think that
+
+00:01:42.080 --> 00:01:45.560
+this is made up. A death doula, also
+
+00:01:43.800 --> 00:01:47.720
+called an end-of-life doula, is a
+
+00:01:45.560 --> 00:01:49.440
+non-medical professional who supports a
+
+00:01:47.720 --> 00:01:51.400
+dying person and their family through
+
+00:01:49.440 --> 00:01:53.560
+the whole process. The emotions, the
+
+00:01:51.400 --> 00:01:55.200
+logistics, the paperwork, the goodbyes
+
+00:01:53.560 --> 00:01:57.080
+that nobody knows how to say. So think
+
+00:01:55.200 --> 00:01:58.400
+about it like this. We hire a wedding
+
+00:01:57.080 --> 00:02:00.280
+planner for the happiest day of the
+
+00:01:58.400 --> 00:02:02.000
+family's life, and then for the hardest
+
+00:02:00.280 --> 00:02:03.960
+week of that same family's life, we hand
+
+00:02:02.000 --> 00:02:05.960
+them a pamphlet and wish them luck. Same
+
+00:02:03.960 --> 00:02:08.039
+logistics, same emotional stakes, but
+
+00:02:05.960 --> 00:02:09.920
+almost nobody offering to help. Now, you
+
+00:02:08.039 --> 00:02:11.840
+might be thinking, who actually pays for
+
+00:02:09.920 --> 00:02:13.720
+this? Well, families in the hardest week
+
+00:02:11.840 --> 00:02:16.600
+of their lives, that's who. Death doulas
+
+00:02:13.720 --> 00:02:18.200
+charge $25 to $150 an hour, and full
+
+00:02:16.600 --> 00:02:20.959
+end-of-life support packages run from
+
+00:02:18.200 --> 00:02:24.560
+$500 to $5,000. So, do the math with me.
+
+00:02:20.959 --> 00:02:26.080
+Two families a month at $2,500 is $5,000
+
+00:02:24.560 --> 00:02:27.640
+a month. And this is, of course, as a
+
+00:02:26.080 --> 00:02:28.840
+side hustle next to your day job. So,
+
+00:02:27.640 --> 00:02:31.120
+the average pay in this field sits
+
+00:02:28.840 --> 00:02:32.959
+around $49,000 a year, and that's the
+
+00:02:31.120 --> 00:02:34.400
+people doing it the old way without
+
+00:02:32.959 --> 00:02:35.680
+leverage. And there's a whole world
+
+00:02:34.400 --> 00:02:37.040
+around this that most people have never
+
+00:02:35.680 --> 00:02:39.040
+seen. For instance, there's a channel
+
+00:02:37.040 --> 00:02:40.920
+called Talk Death that does nothing but
+
+00:02:39.040 --> 00:02:42.800
+explain this space. What a death doula
+
+00:02:40.920 --> 00:02:44.760
+is, how to become one, and it's pulling
+
+00:02:42.800 --> 00:02:46.200
+millions of ranked views. And there's
+
+00:02:44.760 --> 00:02:48.400
+even a talk from a death doula named
+
+00:02:46.200 --> 00:02:50.120
+Alua Arthur, and the title is literally,
+
+00:02:48.400 --> 00:02:52.280
+"I Help People Die," and it's sitting at
+
+00:02:50.120 --> 00:02:54.200
+820,000 views. So, people aren't just
+
+00:02:52.280 --> 00:02:55.880
+paying for this, they're fascinated by
+
+00:02:54.200 --> 00:02:58.000
+it. And keep this back of your pocket.
+
+00:02:55.880 --> 00:02:59.760
+Talk Death isn't a doula, it's a channel
+
+00:02:58.000 --> 00:03:01.360
+about doulas, and it's getting paid for
+
+00:02:59.760 --> 00:03:03.080
+the topic. So, you can do the work, then
+
+00:03:01.360 --> 00:03:04.519
+you can document the work and get paid
+
+00:03:03.080 --> 00:03:05.840
+twice. And if you play your cards right,
+
+00:03:04.519 --> 00:03:07.040
+you can be making far more than just
+
+00:03:05.840 --> 00:03:08.640
+what you make from the side hustle.
+
+00:03:07.040 --> 00:03:10.400
+Plus, you might even get clients from
+
+00:03:08.640 --> 00:03:12.120
+the channel itself. Now, I cover these
+
+00:03:10.400 --> 00:03:14.400
+weird, sometimes strange, sometimes
+
+00:03:12.120 --> 00:03:16.120
+morbid types of side hustles and careers
+
+00:03:14.400 --> 00:03:18.120
+because the truth is, it's a bit icky to
+
+00:03:16.120 --> 00:03:19.840
+talk about, it's a bit taboo. But
+
+00:03:18.120 --> 00:03:21.959
+another truth is that this position
+
+00:03:19.840 --> 00:03:23.239
+gives a lot of value to society. People
+
+00:03:21.959 --> 00:03:24.800
+really don't know what to do in these
+
+00:03:23.239 --> 00:03:25.840
+cases. And if you've ever lost somebody
+
+00:03:24.800 --> 00:03:27.320
+in your family, you probably know
+
+00:03:25.840 --> 00:03:28.800
+exactly what I'm talking about. This
+
+00:03:27.320 --> 00:03:30.160
+happened to me just a few months ago.
+
+00:03:28.800 --> 00:03:31.600
+Everyone's shocked, they don't know what
+
+00:03:30.160 --> 00:03:33.600
+to do, and it can cause a lot of
+
+00:03:31.600 --> 00:03:35.040
+discomfort, distress. People can make
+
+00:03:33.600 --> 00:03:36.760
+really bad decisions when they're in
+
+00:03:35.040 --> 00:03:38.480
+that position. So, this position gives a
+
+00:03:36.760 --> 00:03:40.080
+massive amount of value to people who
+
+00:03:38.480 --> 00:03:41.959
+are going through this. And because of
+
+00:03:40.080 --> 00:03:43.720
+the fact that it's a bit icky or morbid,
+
+00:03:41.959 --> 00:03:44.880
+there's not a lot of competition. All
+
+00:03:43.720 --> 00:03:46.280
+right, you guys know that I like to do a
+
+00:03:44.880 --> 00:03:47.760
+few weird ones usually to start out
+
+00:03:46.280 --> 00:03:49.560
+these lists, then I typically get to the
+
+00:03:47.760 --> 00:03:50.840
+more boring, stable ones later on. And I
+
+00:03:49.560 --> 00:03:52.400
+like to do that just to get the creative
+
+00:03:50.840 --> 00:03:54.040
+juices flowing. Because the truth is,
+
+00:03:52.400 --> 00:03:55.440
+there's so many different ways to make
+
+00:03:54.040 --> 00:03:57.320
+money these days, but some of them
+
+00:03:55.440 --> 00:03:58.680
+require a little bit of creativity.
+
+00:03:57.320 --> 00:04:00.080
+Here's how to get started with this. So,
+
+00:03:58.680 --> 00:04:01.320
+like I said, the Claude prompt is up on
+
+00:04:00.080 --> 00:04:03.000
+the screen. You can just literally
+
+00:04:01.320 --> 00:04:04.160
+screenshot it, put it into Claude. Quick
+
+00:04:03.000 --> 00:04:05.440
+break, I'm going to be doing a live
+
+00:04:04.160 --> 00:04:07.280
+training this week on how to start
+
+00:04:05.440 --> 00:04:08.520
+YouTube step-by-step for beginners. This
+
+00:04:07.280 --> 00:04:09.800
+is going to be for people who want to
+
+00:04:08.520 --> 00:04:11.480
+start a channel, but they don't know
+
+00:04:09.800 --> 00:04:12.920
+what niche to pick, what videos to make,
+
+00:04:11.480 --> 00:04:14.280
+or how to actually get started the right
+
+00:04:12.920 --> 00:04:16.680
+way. And this is a completely free
+
+00:04:14.280 --> 00:04:18.840
+training, no strings attached. In fact,
+
+00:04:16.680 --> 00:04:20.640
+I'm giving away even more bonuses at
+
+00:04:18.840 --> 00:04:21.880
+this training. Just as an example, I'm
+
+00:04:20.640 --> 00:04:24.120
+going to be giving away my niche
+
+00:04:21.880 --> 00:04:26.880
+validator, which works for ChatGPT as
+
+00:04:24.120 --> 00:04:28.320
+well as Claude skills, which is a super
+
+00:04:26.880 --> 00:04:30.080
+valuable piece of software where you can
+
+00:04:28.320 --> 00:04:32.400
+finally figure out what the best niche
+
+00:04:30.080 --> 00:04:34.240
+for you is. So, do not miss out on this
+
+00:04:32.400 --> 00:04:35.320
+training. Make sure you sign up for it
+
+00:04:34.240 --> 00:04:37.480
+down in the description and the pin
+
+00:04:35.320 --> 00:04:39.480
+comment below because you only get it if
+
+00:04:37.480 --> 00:04:41.080
+you join the training. So, if you don't
+
+00:04:39.480 --> 00:04:42.919
+join now, you might miss out on it
+
+00:04:41.080 --> 00:04:44.720
+forever. But that being said, in the
+
+00:04:42.919 --> 00:04:46.200
+workshop, you'll get to meet me, and you
+
+00:04:44.720 --> 00:04:47.680
+get to ask me questions directly. So, I
+
+00:04:46.200 --> 00:04:48.919
+look forward to seeing you. So, click
+
+00:04:47.680 --> 00:04:51.000
+the link in the description and the pin
+
+00:04:48.919 --> 00:04:52.360
+comment below. This week, make sure you
+
+00:04:51.000 --> 00:04:53.800
+put on your calendar. And if for
+
+00:04:52.360 --> 00:04:55.520
+whatever reason you missed out on it, or
+
+00:04:53.800 --> 00:04:56.840
+you weren't able to attend, make sure
+
+00:04:55.520 --> 00:04:58.400
+you still click that link because we
+
+00:04:56.840 --> 00:04:59.840
+might be having workshops in the future
+
+00:04:58.400 --> 00:05:01.360
+as well, and you'll be the first to know
+
+00:04:59.840 --> 00:05:02.919
+about it. So, yeah, hope to see you
+
+00:05:01.360 --> 00:05:04.680
+there. Now, back to our regularly
+
+00:05:02.919 --> 00:05:07.320
+scheduled programming. So, the second
+
+00:05:04.680 --> 00:05:09.240
+one is going to be the name dealer, aka
+
+00:05:07.320 --> 00:05:11.360
+the baby naming consultant. So, this
+
+00:05:09.240 --> 00:05:13.360
+next one is branding consultancy for a
+
+00:05:11.360 --> 00:05:14.800
+human who hasn't even been born yet. So,
+
+00:05:13.360 --> 00:05:17.080
+parents fill out a questionnaire,
+
+00:05:14.800 --> 00:05:18.960
+surname, siblings, heritage, sounds that
+
+00:05:17.080 --> 00:05:21.120
+they hate, initials, meanings, family
+
+00:05:18.960 --> 00:05:23.120
+history, etc., etc. And you hand back a
+
+00:05:21.120 --> 00:05:25.320
+research short list with an explanation
+
+00:05:23.120 --> 00:05:27.480
+for every finalist. Sounds ridiculous?
+
+00:05:25.320 --> 00:05:29.400
+Well, startups pay naming agencies five
+
+00:05:27.480 --> 00:05:31.360
+figures to name an app that'll probably
+
+00:05:29.400 --> 00:05:32.960
+be dead in two years. Parents are naming
+
+00:05:31.360 --> 00:05:34.200
+something that they plan to keep for 90.
+
+00:05:32.960 --> 00:05:35.760
+And the receipts on this are pretty
+
+00:05:34.200 --> 00:05:38.400
+wild. Business Insider reported
+
+00:05:35.760 --> 00:05:41.600
+consultations start around $250. Higher
+
+00:05:38.400 --> 00:05:44.480
+profile consultations charge $1,500
+
+00:05:41.600 --> 00:05:46.680
+and one offers a $30,000 baby name
+
+00:05:44.480 --> 00:05:49.040
+branding service for public figures.
+
+00:05:46.680 --> 00:05:51.040
+Now, a good example of this is SJ Strum.
+
+00:05:49.040 --> 00:05:53.000
+She's a mom in the UK who's been a baby
+
+00:05:51.040 --> 00:05:54.800
+name consultant for years, and she
+
+00:05:53.000 --> 00:05:56.880
+documents the whole thing. Weekly name
+
+00:05:54.800 --> 00:05:58.360
+list, style breakdowns, how she works
+
+00:05:56.880 --> 00:06:00.120
+with parents, etc. etc. And this
+
+00:05:58.360 --> 00:06:02.640
+documentation built her an audience of
+
+00:06:00.120 --> 00:06:04.840
+124,000, and it turned into a published
+
+00:06:02.640 --> 00:06:06.080
+book, which is Baby Name Envy. Now, by
+
+00:06:04.840 --> 00:06:07.640
+the way, you're probably noticing a
+
+00:06:06.080 --> 00:06:09.280
+pattern here. This side hustle can make
+
+00:06:07.640 --> 00:06:11.480
+money directly right away. You can get
+
+00:06:09.280 --> 00:06:13.400
+even more clients, build your brand, and
+
+00:06:11.480 --> 00:06:15.560
+open up almost unlimited streams of
+
+00:06:13.400 --> 00:06:17.360
+income by growing on social media as
+
+00:06:15.560 --> 00:06:19.160
+well. So, the consulting pays her, the
+
+00:06:17.360 --> 00:06:20.800
+audience pays her again, and now she's
+
+00:06:19.160 --> 00:06:22.160
+even launched a book. Here's how to get
+
+00:06:20.800 --> 00:06:23.480
+started with this. So, like I said, the
+
+00:06:22.160 --> 00:06:25.040
+Claude prompt is up on the screen. You
+
+00:06:23.480 --> 00:06:26.720
+can just literally screenshot it, put it
+
+00:06:25.040 --> 00:06:28.520
+into Claude. All right, next is the
+
+00:06:26.720 --> 00:06:30.360
+talking paycheck. And this is teaching
+
+00:06:28.520 --> 00:06:31.880
+people what you already know. Now, this
+
+00:06:30.360 --> 00:06:33.760
+is the weirdest one on the entire list
+
+00:06:31.880 --> 00:06:35.520
+because the product is literally your
+
+00:06:33.760 --> 00:06:37.040
+mouth, right? Teaching people something
+
+00:06:35.520 --> 00:06:39.040
+that you already do on a day-to-day
+
+00:06:37.040 --> 00:06:40.560
+basis, which could be your job, your
+
+00:06:39.040 --> 00:06:42.040
+hobby, something you've done since
+
+00:06:40.560 --> 00:06:43.560
+childhood, or a problem that you solved
+
+00:06:42.040 --> 00:06:44.840
+once that somebody out there is Googling
+
+00:06:43.560 --> 00:06:46.080
+in panic right now.
+
+00:06:44.840 --> 00:06:47.760
+>> Now, you might be thinking, "I'm not an
+
+00:06:46.080 --> 00:06:49.600
+expert. Why would anyone listen to me?"
+
+00:06:47.760 --> 00:06:52.000
+>> Well, you don't need a PhD. You need a
+
+00:06:49.600 --> 00:06:53.440
+few month head start on one person, and
+
+00:06:52.000 --> 00:06:55.480
+there are honestly millions of people
+
+00:06:53.440 --> 00:06:56.960
+that are a few months or 2 years behind
+
+00:06:55.480 --> 00:06:58.800
+you. Cuz if you've done something for 2
+
+00:06:56.960 --> 00:07:00.200
+years, statistically speaking, you're
+
+00:06:58.800 --> 00:07:01.320
+probably an expert at it. So, let me
+
+00:07:00.200 --> 00:07:02.840
+show you what this looks like when
+
+00:07:01.320 --> 00:07:04.720
+regular people actually do it. One of my
+
+00:07:02.840 --> 00:07:06.120
+community members, Nurse Julie, teaches
+
+00:07:04.720 --> 00:07:08.160
+women who are tired of being tired,
+
+00:07:06.120 --> 00:07:10.000
+autoimmune energy, root cause stuff that
+
+00:07:08.160 --> 00:07:11.840
+she already knows from her nursing life.
+
+00:07:10.000 --> 00:07:13.800
+And she is not inventing anything. She
+
+00:07:11.840 --> 00:07:15.680
+is documenting what she already does
+
+00:07:13.800 --> 00:07:17.480
+every single day anyway. So, it helps
+
+00:07:15.680 --> 00:07:19.360
+more people than just the ones in front
+
+00:07:17.480 --> 00:07:21.360
+of her. Or Nathan Rose, he teaches busy
+
+00:07:19.360 --> 00:07:23.280
+adults how to get better at chess. And 4
+
+00:07:21.360 --> 00:07:24.840
+months in, he went from zero to a fully
+
+00:07:23.280 --> 00:07:26.760
+booked one-on-one coaching roster and
+
+00:07:24.840 --> 00:07:28.840
+making a full-time income. And signing
+
+00:07:26.760 --> 00:07:30.480
+his first high-ticket client for $1,000
+
+00:07:28.840 --> 00:07:34.080
+a month, and now he's sitting at roughly
+
+00:07:30.480 --> 00:07:35.560
+$5,000 a month, aka a full-time income
+
+00:07:34.080 --> 00:07:37.360
+from a board game. And then there's my
+
+00:07:35.560 --> 00:07:39.120
+brother Zach, almost 30 years in the
+
+00:07:37.360 --> 00:07:41.600
+trades, never recorded video in his
+
+00:07:39.120 --> 00:07:43.280
+life, and the man is, lovingly speaking,
+
+00:07:41.600 --> 00:07:44.720
+a little bit technologically challenged.
+
+00:07:43.280 --> 00:07:46.600
+And he started teaching people how to
+
+00:07:44.720 --> 00:07:49.280
+get into the trades, and his very first
+
+00:07:46.600 --> 00:07:51.320
+video blew up, got 822,000 views and
+
+00:07:49.280 --> 00:07:54.280
+counting. And 29 days after publishing
+
+00:07:51.320 --> 00:07:57.040
+it, he had a $214 day. That's about a
+
+00:07:54.280 --> 00:07:58.480
+$78,000 year run rate just from talking.
+
+00:07:57.040 --> 00:08:01.080
+And to close out his first year, he had
+
+00:07:58.480 --> 00:08:02.760
+an $18,000 plus dollar month. Meanwhile,
+
+00:08:01.080 --> 00:08:05.760
+the rest of the internet is vibe coding
+
+00:08:02.760 --> 00:08:07.280
+apps that MIT says fail 95% of the time
+
+00:08:05.760 --> 00:08:09.240
+with whole teams behind them. And a
+
+00:08:07.280 --> 00:08:11.280
+50-something-year-old tradesman got paid
+
+00:08:09.240 --> 00:08:13.080
+for talking about what he already knew,
+
+00:08:11.280 --> 00:08:15.600
+which was common sense to him and people
+
+00:08:13.080 --> 00:08:17.000
+like him, but is not common sense to 99%
+
+00:08:15.600 --> 00:08:18.560
+of the population. So, that should piss
+
+00:08:17.000 --> 00:08:19.520
+you off just a little, in a good way.
+
+00:08:18.560 --> 00:08:21.040
+And by the way, if you want to learn
+
+00:08:19.520 --> 00:08:22.200
+exactly how he grew my brother's
+
+00:08:21.040 --> 00:08:23.800
+channel, I'm actually doing a live
+
+00:08:22.200 --> 00:08:24.840
+training explaining that this week.
+
+00:08:23.800 --> 00:08:26.160
+Click the link in the description in the
+
+00:08:24.840 --> 00:08:27.520
+pinned comment below. Now, here's the
+
+00:08:26.160 --> 00:08:29.280
+part I need you to actually hear, cuz
+
+00:08:27.520 --> 00:08:31.520
+every other hustle on this list you row
+
+00:08:29.280 --> 00:08:33.599
+out or you hunt for clients. This one is
+
+00:08:31.520 --> 00:08:35.240
+a lighthouse. You turn the light on, and
+
+00:08:33.599 --> 00:08:36.960
+the clients row to you. Because the most
+
+00:08:35.240 --> 00:08:38.520
+layoff-proof asset on earth isn't a
+
+00:08:36.960 --> 00:08:40.560
+certification, and it sure isn't
+
+00:08:38.520 --> 00:08:42.919
+seniority. It is people knowing who you
+
+00:08:40.560 --> 00:08:45.000
+are and what you know, aka building your
+
+00:08:42.919 --> 00:08:46.960
+personal brand. Nobody can restructure
+
+00:08:45.000 --> 00:08:48.080
+that away from you, because you own it.
+
+00:08:46.960 --> 00:08:49.960
+So, keep this chapter in the back of
+
+00:08:48.080 --> 00:08:51.920
+your pocket, because every single hustle
+
+00:08:49.960 --> 00:08:53.440
+left on this list is about to grow a
+
+00:08:51.920 --> 00:08:54.839
+second engine. Here's how to get started
+
+00:08:53.440 --> 00:08:56.360
+with this. So, like I said, the Claude
+
+00:08:54.839 --> 00:08:57.600
+prompt is up on the screen. You can just
+
+00:08:56.360 --> 00:08:59.000
+literally screenshot it, put it into
+
+00:08:57.600 --> 00:09:01.240
+Claude. All right, next I'm going to
+
+00:08:59.000 --> 00:09:03.120
+call the yes day architect. And this is
+
+00:09:01.240 --> 00:09:05.360
+designing marriage proposals for
+
+00:09:03.120 --> 00:09:06.680
+strangers. Now, this is a type of event
+
+00:09:05.360 --> 00:09:08.120
+planning. I'm not saying you should do
+
+00:09:06.680 --> 00:09:10.000
+this one specifically, but this is a
+
+00:09:08.120 --> 00:09:11.120
+type of event planning. There's lots of
+
+00:09:10.000 --> 00:09:12.400
+other events out there, but you
+
+00:09:11.120 --> 00:09:13.600
+typically want to niche down when you
+
+00:09:12.400 --> 00:09:15.600
+first start and pick something like
+
+00:09:13.600 --> 00:09:17.360
+this. So, somebody out there is about to
+
+00:09:15.600 --> 00:09:19.400
+ask the biggest question of his life,
+
+00:09:17.360 --> 00:09:21.120
+and he has no idea what he's doing. You
+
+00:09:19.400 --> 00:09:22.760
+sell him the plan, the concept, the
+
+00:09:21.120 --> 00:09:24.480
+location short list, the budget, the
+
+00:09:22.760 --> 00:09:25.760
+vendor emails, the speech, the timing,
+
+00:09:24.480 --> 00:09:27.320
+the weather backup, and of course, the
+
+00:09:25.760 --> 00:09:29.800
+secrecy checklist. You don't hang the
+
+00:09:27.320 --> 00:09:31.600
+lights, you hand over the folder. Aka,
+
+00:09:29.800 --> 00:09:33.760
+you make sure that his proposal goes to
+
+00:09:31.600 --> 00:09:35.839
+plan and she says yes. So, good example
+
+00:09:33.760 --> 00:09:38.000
+of this is Lexi Toubin. She filmed her
+
+00:09:35.839 --> 00:09:40.400
+sister's proposal, posted it on a whim,
+
+00:09:38.000 --> 00:09:42.160
+and it got 100,000 views in 30 minutes.
+
+00:09:40.400 --> 00:09:44.840
+Then strangers started paying her to
+
+00:09:42.160 --> 00:09:46.840
+plan theirs. And now it brings in six
+
+00:09:44.840 --> 00:09:49.120
+figures a year, roughly $9,000 in a
+
+00:09:46.840 --> 00:09:50.600
+median month, or over $20,000 in her
+
+00:09:49.120 --> 00:09:52.400
+best month. And this is all with the
+
+00:09:50.600 --> 00:09:54.320
+documents reviewed by CNBC. And the
+
+00:09:52.400 --> 00:09:56.560
+catch is this, part of that revenue is
+
+00:09:54.320 --> 00:09:58.840
+brand deals from posting the proposals
+
+00:09:56.560 --> 00:10:00.600
+to her 330,000 followers. So she gets
+
+00:09:58.840 --> 00:10:02.400
+paid to plan the moment, and then paid
+
+00:10:00.600 --> 00:10:04.040
+again to show it. And this isn't just
+
+00:10:02.400 --> 00:10:05.880
+one lucky planner. The Associated Press
+
+00:10:04.040 --> 00:10:07.720
+has covered the proposal planning boom,
+
+00:10:05.880 --> 00:10:10.160
+and working planners are doing segments
+
+00:10:07.720 --> 00:10:12.280
+on daytime TV explaining the job. And
+
+00:10:10.160 --> 00:10:13.960
+one in four proposers now pays for help
+
+00:10:12.280 --> 00:10:15.440
+popping the question. So the demand is
+
+00:10:13.960 --> 00:10:16.800
+real, but the supply is asleep. There's
+
+00:10:15.440 --> 00:10:18.040
+really just not that many people doing
+
+00:10:16.800 --> 00:10:19.720
+it. And if you do it like her, every
+
+00:10:18.040 --> 00:10:21.440
+proposal that you post with permission
+
+00:10:19.720 --> 00:10:24.160
+is an ad that you got paid to film. So
+
+00:10:21.440 --> 00:10:25.600
+Lexi's 330K followers came from the work
+
+00:10:24.160 --> 00:10:27.200
+itself. Here's how to get started with
+
+00:10:25.600 --> 00:10:28.400
+this. So like I said, the Claude prompt
+
+00:10:27.200 --> 00:10:29.640
+is up on the screen. You can just
+
+00:10:28.400 --> 00:10:32.120
+literally screenshot it, put it into
+
+00:10:29.640 --> 00:10:34.120
+Claude. All right, next is Amazon KDP
+
+00:10:32.120 --> 00:10:36.040
+self-publishing, aka the bookshelf
+
+00:10:34.120 --> 00:10:38.400
+machine. And this is the money anchor of
+
+00:10:36.040 --> 00:10:39.680
+the whole list. So Amazon KDP, if you
+
+00:10:38.400 --> 00:10:41.200
+didn't know what it is, it stands for
+
+00:10:39.680 --> 00:10:42.640
+Kindle Direct Publishing, and it's on
+
+00:10:41.200 --> 00:10:44.520
+Amazon, of course, and you basically
+
+00:10:42.640 --> 00:10:46.200
+just publish a book once, Amazon prints
+
+00:10:44.520 --> 00:10:47.600
+it, ships it, and collects the money.
+
+00:10:46.200 --> 00:10:49.480
+And it pays you royalties forever. So
+
+00:10:47.600 --> 00:10:51.640
+think of every book as a tiny rental
+
+00:10:49.480 --> 00:10:53.120
+property with no mortgage. Each one pays
+
+00:10:51.640 --> 00:10:54.839
+you a little bit of rent every month,
+
+00:10:53.120 --> 00:10:56.320
+and Claude is your construction crew.
+
+00:10:54.839 --> 00:10:58.440
+Now a good example of this is Sarah
+
+00:10:56.320 --> 00:10:59.960
+Tyler. So this was her first book ever,
+
+00:10:58.440 --> 00:11:02.120
+and she threw it together on Canva, and
+
+00:10:59.960 --> 00:11:03.680
+it made her $80,000 in a year. And not
+
+00:11:02.120 --> 00:11:05.320
+even mostly from royalties. The book
+
+00:11:03.680 --> 00:11:06.760
+became the front door to everything
+
+00:11:05.320 --> 00:11:08.080
+behind it. And even inside of our own
+
+00:11:06.760 --> 00:11:09.680
+community, this one has a ceiling that
+
+00:11:08.080 --> 00:11:12.080
+most people won't even believe. Shawn
+
+00:11:09.680 --> 00:11:13.560
+went from 30,000 a month to over 500,000
+
+00:11:12.080 --> 00:11:15.720
+a month at his peak, and he has the
+
+00:11:13.560 --> 00:11:17.280
+number one Amazon KDP channel. He's a
+
+00:11:15.720 --> 00:11:18.440
+category king. And we helped him get
+
+00:11:17.280 --> 00:11:19.600
+there. And we'll teach you how we did it
+
+00:11:18.440 --> 00:11:20.480
+in the live training this week. So
+
+00:11:19.600 --> 00:11:21.720
+again, click that link in the
+
+00:11:20.480 --> 00:11:23.320
+description in the pin comment below to
+
+00:11:21.720 --> 00:11:25.040
+sign up to that. It's completely free.
+
+00:11:23.320 --> 00:11:27.080
+But yeah, half a million a month just
+
+00:11:25.040 --> 00:11:29.560
+talking about Amazon KDP on YouTube. Now
+
+00:11:27.080 --> 00:11:31.520
+KDP is currently flooded with fully AI
+
+00:11:29.560 --> 00:11:32.920
+garbage books that nobody can finish. So
+
+00:11:31.520 --> 00:11:34.200
+if you actually have someone who's good
+
+00:11:32.920 --> 00:11:35.720
+at this teach you how to do it, such as
+
+00:11:34.200 --> 00:11:37.360
+Sean, then you're going to have a much
+
+00:11:35.720 --> 00:11:39.000
+higher chance of having success. So,
+
+00:11:37.360 --> 00:11:41.000
+there's way less competition for anyone
+
+00:11:39.000 --> 00:11:42.960
+who actually gives a So, the play isn't
+
+00:11:41.000 --> 00:11:44.800
+make Claude write a book. The play is
+
+00:11:42.960 --> 00:11:46.760
+Claude does the research, the outline,
+
+00:11:44.800 --> 00:11:49.600
+the keyword work, the draft passes, and
+
+00:11:46.760 --> 00:11:51.640
+then a human being, you, add some actual
+
+00:11:49.600 --> 00:11:53.440
+flavor of life to it, some actual spice
+
+00:11:51.640 --> 00:11:55.480
+to it, makes it worth reading. So, in a
+
+00:11:53.440 --> 00:11:57.160
+sea of slop, the real human is the
+
+00:11:55.480 --> 00:11:59.400
+premium product. And notice what Sean
+
+00:11:57.160 --> 00:12:01.360
+did. He didn't just publish the books.
+
+00:11:59.400 --> 00:12:02.920
+He documented the publishing. And the
+
+00:12:01.360 --> 00:12:04.360
+second layer, actually documenting the
+
+00:12:02.920 --> 00:12:06.160
+publishing, is what turned an income
+
+00:12:04.360 --> 00:12:07.680
+stream that was really nice into an
+
+00:12:06.160 --> 00:12:09.280
+empire. Here's how to get started with
+
+00:12:07.680 --> 00:12:10.480
+this. So, like I said, the Claude prompt
+
+00:12:09.280 --> 00:12:11.720
+is up on the screen. You can just
+
+00:12:10.480 --> 00:12:12.960
+literally screenshot it, put it into
+
+00:12:11.720 --> 00:12:14.800
+Claude. Now, by the way, I'm going to
+
+00:12:12.960 --> 00:12:16.400
+put a bundle of Claude prompts and
+
+00:12:14.800 --> 00:12:18.600
+Claude skills down below that you can
+
+00:12:16.400 --> 00:12:20.040
+follow along with while you do this
+
+00:12:18.600 --> 00:12:22.200
+video. So, click down there to check
+
+00:12:20.040 --> 00:12:23.880
+that out. Now, I know that 99% of you
+
+00:12:22.200 --> 00:12:25.040
+are just going to watch this content.
+
+00:12:23.880 --> 00:12:26.160
+You're going to get a lot of value out
+
+00:12:25.040 --> 00:12:27.440
+of it. You're probably going to attend
+
+00:12:26.160 --> 00:12:29.040
+the live trainings as well. For
+
+00:12:27.440 --> 00:12:30.920
+instance, Isaiah watched my channel,
+
+00:12:29.040 --> 00:12:32.760
+attended the live trainings, and without
+
+00:12:30.920 --> 00:12:34.640
+ever working with us got incredibly good
+
+00:12:32.760 --> 00:12:36.560
+results. And you can see his testimonial
+
+00:12:34.640 --> 00:12:37.680
+on the channel. So, I know 99% of you
+
+00:12:36.560 --> 00:12:40.000
+are going to do that. I'm going to give
+
+00:12:37.680 --> 00:12:41.880
+you way more value, completely free,
+
+00:12:40.000 --> 00:12:43.120
+than even paid courses with my free
+
+00:12:41.880 --> 00:12:44.600
+content, as well as my free live
+
+00:12:43.120 --> 00:12:46.160
+trainings. And we're never going to end
+
+00:12:44.600 --> 00:12:48.920
+up working together one-on-one, and that
+
+00:12:46.160 --> 00:12:51.080
+is completely fine. But, I know that 1%
+
+00:12:48.920 --> 00:12:52.600
+of you, or even 0.1% of you out there,
+
+00:12:51.080 --> 00:12:54.480
+are going to want to work one-on-one
+
+00:12:52.600 --> 00:12:56.120
+with a mentor to help you grow and make
+
+00:12:54.480 --> 00:12:58.240
+money on YouTube as fast as possible.
+
+00:12:56.120 --> 00:12:59.839
+Or, you just want us to do the work for
+
+00:12:58.240 --> 00:13:01.600
+you. And if that sounds like you, we do
+
+00:12:59.839 --> 00:13:03.000
+work with a small amount of people at a
+
+00:13:01.600 --> 00:13:04.680
+time. And we're accepting about five
+
+00:13:03.000 --> 00:13:06.000
+people right now. So, go ahead and click
+
+00:13:04.680 --> 00:13:07.960
+the link in the description and the pin
+
+00:13:06.000 --> 00:13:09.760
+comment below to book a call to apply.
+
+00:13:07.960 --> 00:13:11.360
+We only accept about 18% of people who
+
+00:13:09.760 --> 00:13:12.920
+apply, and we only work with people who
+
+00:13:11.360 --> 00:13:14.560
+we think we can get results for. So,
+
+00:13:12.920 --> 00:13:16.040
+only apply if you're very serious about
+
+00:13:14.560 --> 00:13:17.440
+growing and making money on YouTube. The
+
+00:13:16.040 --> 00:13:19.200
+types of people we typically work with
+
+00:13:17.440 --> 00:13:20.720
+are going to be business owners who want
+
+00:13:19.200 --> 00:13:22.400
+to build their brand and use YouTube to
+
+00:13:20.720 --> 00:13:23.880
+get more leads and sales. People who are
+
+00:13:22.400 --> 00:13:25.800
+already big on other platforms, and they
+
+00:13:23.880 --> 00:13:26.920
+want to move over to YouTube. YouTubers
+
+00:13:25.800 --> 00:13:28.440
+who are getting a lot of views, but
+
+00:13:26.920 --> 00:13:29.680
+they're struggling with monetization,
+
+00:13:28.440 --> 00:13:31.040
+YouTubers who are crushing it but they
+
+00:13:29.680 --> 00:13:32.520
+want to crush it even harder, and then
+
+00:13:31.040 --> 00:13:34.080
+professionals, typically people on the
+
+00:13:32.520 --> 00:13:36.000
+older side, who want to grow their
+
+00:13:34.080 --> 00:13:38.080
+personal brand with YouTube in order to
+
+00:13:36.000 --> 00:13:39.920
+get better jobs, network better, start
+
+00:13:38.080 --> 00:13:41.040
+side hustles, make money online, or
+
+00:13:39.920 --> 00:13:42.800
+launch their business that they've
+
+00:13:41.040 --> 00:13:44.080
+always wanted to do. So, if that sounds
+
+00:13:42.800 --> 00:13:45.360
+like you, go ahead, click that link in
+
+00:13:44.080 --> 00:13:46.640
+the description and pin comment below,
+
+00:13:45.360 --> 00:13:48.360
+and we look forward to talking to you.
+
+00:13:46.640 --> 00:13:49.880
+And check out this video right here of
+
+00:13:48.360 --> 00:13:53.120
+Isaiah and how we helped him grow his
+
+00:13:49.880 --> 00:13:53.120
+singing coaching business.
+

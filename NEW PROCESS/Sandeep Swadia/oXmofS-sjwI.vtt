@@ -1,0 +1,914 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.160
+Everyone's obsessing over chat GPT and
+
+00:00:02.400 --> 00:00:08.080
+almost nobody is using Gemini and
+
+00:00:05.160 --> 00:00:10.960
+notebook LM to build a real edge. That's
+
+00:00:08.080 --> 00:00:12.880
+a huge mistake. After 20 years as a CEO
+
+00:00:10.960 --> 00:00:14.920
+and board member helping build
+
+00:00:12.880 --> 00:00:18.000
+billion-dollar companies, one thing is
+
+00:00:14.920 --> 00:00:20.520
+clear to me. The edge is never the tool.
+
+00:00:18.000 --> 00:00:23.040
+It's the system you build. That's why
+
+00:00:20.520 --> 00:00:25.720
+mastering Google's AI tools like Gemini
+
+00:00:23.040 --> 00:00:27.760
+and notebook LM matters a lot. In this
+
+00:00:25.720 --> 00:00:30.760
+video, I'll show you how to build a
+
+00:00:27.760 --> 00:00:32.560
+four-part human intelligence system so
+
+00:00:30.760 --> 00:00:35.560
+effectively [music] it almost feels
+
+00:00:32.560 --> 00:00:38.040
+unfair. So you can learn faster, think
+
+00:00:35.560 --> 00:00:41.360
+clearer, and build an advantage that
+
+00:00:38.040 --> 00:00:43.360
+puts you ahead of 99% of the people in
+
+00:00:41.360 --> 00:00:45.280
+the room. So let's get started. But
+
+00:00:43.360 --> 00:00:47.960
+before we get to the system, we need to
+
+00:00:45.280 --> 00:00:51.720
+understand a framework that separates
+
+00:00:47.960 --> 00:00:54.200
+the top 1% in how they use AI. An MIT
+
+00:00:51.720 --> 00:00:57.360
+Media Lab study found that people
+
+00:00:54.200 --> 00:01:00.320
+relying on AI for writing showed the
+
+00:00:57.360 --> 00:01:03.360
+weakest brain connectivity and recall.
+
+00:01:00.320 --> 00:01:07.040
+This is machine fog. When it comes to
+
+00:01:03.360 --> 00:01:10.200
+AI, most people are building on sand. No
+
+00:01:07.040 --> 00:01:12.440
+blueprint, no foundation, no floors.
+
+00:01:10.200 --> 00:01:14.760
+What you need instead is a strong
+
+00:01:12.440 --> 00:01:17.840
+intelligence architecture that's built
+
+00:01:14.760 --> 00:01:20.400
+on a bedrock. Four floors, four
+
+00:01:17.840 --> 00:01:24.080
+different jobs. The ground floor is your
+
+00:01:20.400 --> 00:01:26.320
+grounding. AI has a dangerous habit. It
+
+00:01:24.080 --> 00:01:29.320
+can sound convincing without being
+
+00:01:26.320 --> 00:01:32.240
+accurate. It's like a brilliant lawyer
+
+00:01:29.320 --> 00:01:34.760
+who argues beautifully while fabricating
+
+00:01:32.240 --> 00:01:37.800
+the evidence. This is where Google's
+
+00:01:34.760 --> 00:01:40.520
+notebook LM comes handy because it works
+
+00:01:37.800 --> 00:01:44.000
+only from the material you give it. Your
+
+00:01:40.520 --> 00:01:46.600
+documents, your notes, your transcripts,
+
+00:01:44.000 --> 00:01:48.480
+your data. Notebook LM does not give you
+
+00:01:46.600 --> 00:01:51.640
+just a response. It gives you the
+
+00:01:48.480 --> 00:01:54.080
+receipt. You can upload a 500-page
+
+00:01:51.640 --> 00:01:56.880
+textbook, the last 6 months of your
+
+00:01:54.080 --> 00:01:59.640
+meeting transcripts, or that entire pile
+
+00:01:56.880 --> 00:02:01.760
+of PDFs waiting on your desktop. It will
+
+00:01:59.640 --> 00:02:04.360
+take all of it. And then [music] you can
+
+00:02:01.760 --> 00:02:06.720
+investigate, ask questions, find
+
+00:02:04.360 --> 00:02:10.039
+patterns. Instead of artificial
+
+00:02:06.720 --> 00:02:12.800
+incompetence, you are now anchored in
+
+00:02:10.039 --> 00:02:15.200
+reality. The next floor is your frontier
+
+00:02:12.800 --> 00:02:17.360
+model, Gemini in this case. This is
+
+00:02:15.200 --> 00:02:19.840
+where you move from evidence to
+
+00:02:17.360 --> 00:02:22.560
+exploration. You know, Gemini can hold
+
+00:02:19.840 --> 00:02:25.440
+an enormous amount of data and context
+
+00:02:22.560 --> 00:02:28.360
+as well. You can feed in 2 million
+
+00:02:25.440 --> 00:02:31.040
+tokens to its active memory all at once.
+
+00:02:28.360 --> 00:02:34.240
+That's nearly the entire Harry Potter
+
+00:02:31.040 --> 00:02:37.040
+series plus the entire Lord of the Rings
+
+00:02:34.240 --> 00:02:39.200
+trilogy, and there's some space left. So
+
+00:02:37.040 --> 00:02:41.360
+you can feed it a decade of your
+
+00:02:39.200 --> 00:02:43.920
+company's financial history and
+
+00:02:41.360 --> 00:02:46.640
+thousands of customer call transcripts,
+
+00:02:43.920 --> 00:02:49.200
+and it will still identify the hidden
+
+00:02:46.640 --> 00:02:51.280
+patterns a human eye would take months
+
+00:02:49.200 --> 00:02:54.000
+to spot. It doesn't just find that
+
+00:02:51.280 --> 00:02:56.120
+needle in the haystack, it understands
+
+00:02:54.000 --> 00:02:58.640
+the entire harvesting season. Now, the
+
+00:02:56.120 --> 00:03:00.920
+next floor is your specialist. You know,
+
+00:02:58.640 --> 00:03:03.280
+when you start with AI, it always feels
+
+00:03:00.920 --> 00:03:05.560
+like you're talking to a complete random
+
+00:03:03.280 --> 00:03:08.040
+stranger you just met at a train
+
+00:03:05.560 --> 00:03:10.400
+station. She has no context about you,
+
+00:03:08.040 --> 00:03:13.880
+what you want, who you are, and that's
+
+00:03:10.400 --> 00:03:16.502
+why Gemini has gems to fix that. They
+
+00:03:13.880 --> 00:03:18.840
+are your experts who remember who
+
+00:03:16.502 --> 00:03:20.880
+[snorts] they are and who you are. You
+
+00:03:18.840 --> 00:03:23.760
+can build a gem that's your finance
+
+00:03:20.880 --> 00:03:26.840
+advisor, a writing partner, or a health
+
+00:03:23.760 --> 00:03:29.120
+coach. They remember and they're always
+
+00:03:26.840 --> 00:03:32.000
+ready. And now the top floor is [music]
+
+00:03:29.120 --> 00:03:34.120
+tools. This is where your execution
+
+00:03:32.000 --> 00:03:37.000
+lives, your workspace. This is where
+
+00:03:34.120 --> 00:03:39.880
+intelligence escapes the prompt window
+
+00:03:37.000 --> 00:03:42.560
+and enters your actual work. Drafting
+
+00:03:39.880 --> 00:03:45.560
+emails, building decks, summarizing
+
+00:03:42.560 --> 00:03:48.200
+meetings, updating documents, and moving
+
+00:03:45.560 --> 00:03:50.720
+the work forward. So those are the four
+
+00:03:48.200 --> 00:03:52.600
+floors. Notebook LM grounds you in
+
+00:03:50.720 --> 00:03:55.480
+evidence. Gemini [music] helps you
+
+00:03:52.600 --> 00:03:58.760
+explore with clarity and massive
+
+00:03:55.480 --> 00:04:01.360
+context. Gems give you that staff of
+
+00:03:58.760 --> 00:04:04.640
+specialists, and workspace [music] turns
+
+00:04:01.360 --> 00:04:06.960
+insights into tangible work. And just
+
+00:04:04.640 --> 00:04:09.840
+understanding the blueprints of these
+
+00:04:06.960 --> 00:04:12.320
+four floors already puts you ahead of
+
+00:04:09.840 --> 00:04:15.520
+everyone else still digging holes in the
+
+00:04:12.320 --> 00:04:18.200
+sand. Now, let's build it one floor at a
+
+00:04:15.520 --> 00:04:20.160
+time. The biggest learning myth is that
+
+00:04:18.200 --> 00:04:22.880
+mastery comes from consuming more
+
+00:04:20.160 --> 00:04:25.520
+information. More books, more courses,
+
+00:04:22.880 --> 00:04:28.240
+more content, but that's not how our
+
+00:04:25.520 --> 00:04:30.880
+brain learns. Back in high school and
+
+00:04:28.240 --> 00:04:33.400
+college, I constantly struggled with
+
+00:04:30.880 --> 00:04:35.103
+learning and retention.
+
+00:04:33.400 --> 00:04:35.360
+I was not a very good student.
+
+00:04:35.103 --> 00:04:37.280
+>> [music]
+
+00:04:35.360 --> 00:04:40.160
+>> Things changed later when I started
+
+00:04:37.280 --> 00:04:43.600
+understanding how memory works. Working
+
+00:04:40.160 --> 00:04:45.560
+memory is tiny. Try to shove a 500-page
+
+00:04:43.600 --> 00:04:47.800
+textbook through it and you're trying to
+
+00:04:45.560 --> 00:04:50.120
+squeeze an entire mountain through a
+
+00:04:47.800 --> 00:04:52.720
+straw. Real learning happens when the
+
+00:04:50.120 --> 00:04:55.840
+material gets moved into long-term
+
+00:04:52.720 --> 00:04:58.880
+memory. Apps like notebook LM change the
+
+00:04:55.840 --> 00:05:01.480
+speed and [music] shape of that process.
+
+00:04:58.880 --> 00:05:04.120
+Here's how. The brain moves information
+
+00:05:01.480 --> 00:05:07.000
+into long-term memory through two modes,
+
+00:05:04.120 --> 00:05:09.840
+focus mode and diffuse mode. So once you
+
+00:05:07.000 --> 00:05:12.600
+load the material into notebook LM,
+
+00:05:09.840 --> 00:05:15.280
+focus mode is where you actively
+
+00:05:12.600 --> 00:05:18.320
+investigate it. Follow the breadcrumbs,
+
+00:05:15.280 --> 00:05:20.298
+find the patterns. But the real aha
+
+00:05:18.320 --> 00:05:20.920
+moment happens when you leave the desk.
+
+00:05:20.298 --> 00:05:23.960
+[music]
+
+00:05:20.920 --> 00:05:27.000
+Your diffused mode. Notebook LM lets you
+
+00:05:23.960 --> 00:05:30.200
+turn your research and your reports into
+
+00:05:27.000 --> 00:05:32.280
+interactive podcasts or debates. You can
+
+00:05:30.200 --> 00:05:34.720
+listen to it while you are taking a
+
+00:05:32.280 --> 00:05:36.840
+walk, or on your commute, or when you're
+
+00:05:34.720 --> 00:05:39.760
+in the kitchen. And you can even jump in
+
+00:05:36.840 --> 00:05:42.160
+anytime you want and ask questions to
+
+00:05:39.760 --> 00:05:44.520
+steer the podcast hosts, which are just
+
+00:05:42.160 --> 00:05:47.240
+AI agents, in real time. [music] So you
+
+00:05:44.520 --> 00:05:49.160
+can turn your dead zone into a learning
+
+00:05:47.240 --> 00:05:51.083
+zone. What's the action item? When do
+
+00:05:49.160 --> 00:05:51.960
+you use notebook LM? Three situations.
+
+00:05:51.083 --> 00:05:54.120
+[music]
+
+00:05:51.960 --> 00:05:56.480
+When you're drowning in material, when
+
+00:05:54.120 --> 00:05:59.160
+you want precision and close enough is
+
+00:05:56.480 --> 00:06:01.960
+not good enough, and when you want
+
+00:05:59.160 --> 00:06:05.494
+knowledge to move across formats. Audio,
+
+00:06:01.960 --> 00:06:05.680
+video, a deck, flashcards, infographics.
+
+00:06:05.494 --> 00:06:09.320
+>> [music]
+
+00:06:05.680 --> 00:06:11.760
+>> Notebook LM lets you learn in the format
+
+00:06:09.320 --> 00:06:14.240
+your brain prefers. But once you have
+
+00:06:11.760 --> 00:06:16.520
+that foundation, you need an engine
+
+00:06:14.240 --> 00:06:19.400
+powerful enough to do something with it.
+
+00:06:16.520 --> 00:06:22.400
+For that, we have to move up to the next
+
+00:06:19.400 --> 00:06:26.240
+floor. Gemini can hold a huge amount of
+
+00:06:22.400 --> 00:06:30.240
+context in one session. PDFs, videos,
+
+00:06:26.240 --> 00:06:32.520
+audio, images, diagrams, code, and data.
+
+00:06:30.240 --> 00:06:34.200
+All of that gives you three real
+
+00:06:32.520 --> 00:06:37.000
+advantages. First, [music]
+
+00:06:34.200 --> 00:06:39.440
+Gemini learns from your past chats. It
+
+00:06:37.000 --> 00:06:42.200
+starts to understand your preferences,
+
+00:06:39.440 --> 00:06:45.440
+your goals, your tone, the way you
+
+00:06:42.200 --> 00:06:47.920
+think. Second, it can read and generate
+
+00:06:45.440 --> 00:06:51.520
+content in many formats. Interactive
+
+00:06:47.920 --> 00:06:54.120
+docs, audio, charts, images, video, even
+
+00:06:51.520 --> 00:06:56.640
+music nowadays. And third, it can do
+
+00:06:54.120 --> 00:06:58.560
+deep research inside the prompt.
+
+00:06:56.640 --> 00:07:01.360
+Understand the question, plan the
+
+00:06:58.560 --> 00:07:04.280
+research, search the web, evaluate the
+
+00:07:01.360 --> 00:07:07.440
+findings, and return a report with
+
+00:07:04.280 --> 00:07:10.640
+citations. That's a powerful engine. But
+
+00:07:07.440 --> 00:07:13.320
+raw capacity alone is not enough. If you
+
+00:07:10.640 --> 00:07:16.240
+cannot steer it, all that power only
+
+00:07:13.320 --> 00:07:18.520
+gets you lost faster. This is where AIM
+
+00:07:16.240 --> 00:07:21.600
+comes in. This is one micro framework
+
+00:07:18.520 --> 00:07:23.960
+that I've shared before. A is for actor.
+
+00:07:21.600 --> 00:07:26.680
+Don't just ask Gemini for an answer,
+
+00:07:23.960 --> 00:07:28.520
+tell the model who it's acting as. So
+
+00:07:26.680 --> 00:07:31.640
+you could say, Gemini, you're the
+
+00:07:28.520 --> 00:07:34.400
+world's most sought-after resume editor
+
+00:07:31.640 --> 00:07:37.080
+and business writer. I is for input.
+
+00:07:34.400 --> 00:07:40.120
+Give it the context it needs. Don't just
+
+00:07:37.080 --> 00:07:42.435
+say, "Hey, fix my resume." Feed it your
+
+00:07:40.120 --> 00:07:44.640
+resume, the job description, interview
+
+00:07:42.435 --> 00:07:47.560
+[music] notes, other resumes, company
+
+00:07:44.640 --> 00:07:50.000
+research. M is for mission. You can be
+
+00:07:47.560 --> 00:07:53.120
+precise about the outcome you want. Give
+
+00:07:50.000 --> 00:07:56.080
+AI a clear mission. Like, "Give me five
+
+00:07:53.120 --> 00:07:58.720
+specific ways to improve clarity and
+
+00:07:56.080 --> 00:08:01.480
+impact of my resume and make sure I
+
+00:07:58.720 --> 00:08:04.520
+increase my odds of getting an interview
+
+00:08:01.480 --> 00:08:07.440
+at Nvidia for this product marketing
+
+00:08:04.520 --> 00:08:09.880
+role." Now is time to build a team of
+
+00:08:07.440 --> 00:08:12.560
+specialists. For that, let's move to the
+
+00:08:09.880 --> 00:08:15.200
+next floor. Your staff is waiting for
+
+00:08:12.560 --> 00:08:17.520
+you. The problem with AI is that it can
+
+00:08:15.200 --> 00:08:20.400
+be very generic. That's why you need a
+
+00:08:17.520 --> 00:08:24.120
+staff of specialists. And for that, you
+
+00:08:20.400 --> 00:08:26.560
+create a gem. Give it a role, a tone, a
+
+00:08:24.120 --> 00:08:29.040
+clear objective, and a knowledge base.
+
+00:08:26.560 --> 00:08:31.280
+And now it remembers everything. Not
+
+00:08:29.040 --> 00:08:34.400
+just across one chat, but across the
+
+00:08:31.280 --> 00:08:36.840
+entire arc of your work. If Gemini is
+
+00:08:34.400 --> 00:08:39.360
+your general-purpose reasoning engine,
+
+00:08:36.840 --> 00:08:41.840
+gems are your specialists that you can
+
+00:08:39.360 --> 00:08:44.440
+build around your recurring themes. Like
+
+00:08:41.840 --> 00:08:46.920
+a writing coach, a coding partner, a
+
+00:08:44.440 --> 00:08:49.160
+research analyst, a brand consultant, a
+
+00:08:46.920 --> 00:08:53.720
+chief of staff, a devil's advocate. Some
+
+00:08:49.160 --> 00:08:56.000
+even build a BFF or a romantic partner.
+
+00:08:53.720 --> 00:08:59.680
+I haven't built that. You're changing
+
+00:08:56.000 --> 00:09:02.880
+the game. Remember, gems are not folders
+
+00:08:59.680 --> 00:09:06.320
+because folders organize information.
+
+00:09:02.880 --> 00:09:08.880
+Gems organize behavior. It's a much
+
+00:09:06.320 --> 00:09:12.240
+bigger idea. A folder remembers where
+
+00:09:08.880 --> 00:09:15.000
+your files are. A gem remembers who you
+
+00:09:12.240 --> 00:09:18.520
+are, what you care about, and how you
+
+00:09:15.000 --> 00:09:21.080
+think. And yes, you can feed any gem any
+
+00:09:18.520 --> 00:09:23.560
+source material, including the notebooks
+
+00:09:21.080 --> 00:09:25.600
+you built in notebook LM when you were
+
+00:09:23.560 --> 00:09:28.040
+on the ground floor. Remember? And
+
+00:09:25.600 --> 00:09:31.800
+suddenly, instead of organizing
+
+00:09:28.040 --> 00:09:33.920
+documents, you're organizing expertise.
+
+00:09:31.800 --> 00:09:36.680
+Now you're building a staff of expert
+
+00:09:33.920 --> 00:09:39.240
+agents who never start from zero and who
+
+00:09:36.680 --> 00:09:41.800
+never go to sleep. The last problem is
+
+00:09:39.240 --> 00:09:43.960
+fragmentation. Too many tools, too many
+
+00:09:41.800 --> 00:09:46.920
+tabs, too many disconnected islands of
+
+00:09:43.960 --> 00:09:48.880
+work. You need a single workhorse.
+
+00:09:46.920 --> 00:09:51.360
+Research suggests that when you are
+
+00:09:48.880 --> 00:09:54.000
+context switching while working, it can
+
+00:09:51.360 --> 00:09:56.280
+eat up as much as 40% of your
+
+00:09:54.000 --> 00:09:59.160
+productivity time. We've all felt it,
+
+00:09:56.280 --> 00:10:02.320
+right? Our work is scattered across too
+
+00:09:59.160 --> 00:10:05.200
+many places. We write in one place,
+
+00:10:02.320 --> 00:10:07.120
+store it in second, analyze in third,
+
+00:10:05.200 --> 00:10:09.920
+share it in fourth. There's no
+
+00:10:07.120 --> 00:10:12.720
+connecting thread that hold it all
+
+00:10:09.920 --> 00:10:15.360
+together. That's what makes Gemini
+
+00:10:12.720 --> 00:10:18.520
+inside Google Workspace extremely
+
+00:10:15.360 --> 00:10:21.600
+useful. Gemini is no longer a genie
+
+00:10:18.520 --> 00:10:25.520
+trapped in chat window. Your Docs, your
+
+00:10:21.600 --> 00:10:28.080
+Gmail, Drive, Calendar, Sheets, even the
+
+00:10:25.520 --> 00:10:31.000
+meetings, they stop acting like isolated
+
+00:10:28.080 --> 00:10:34.200
+islands and start behaving like one
+
+00:10:31.000 --> 00:10:36.520
+single connected environment. And this
+
+00:10:34.200 --> 00:10:39.240
+helps you relieve three big work
+
+00:10:36.520 --> 00:10:41.640
+pressures: friction, focus, [music] and
+
+00:10:39.240 --> 00:10:43.640
+flavor. First, friction. Imagine you're
+
+00:10:41.640 --> 00:10:46.200
+applying for a job. Your story is
+
+00:10:43.640 --> 00:10:48.240
+scattered everywhere: in your resume, in
+
+00:10:46.200 --> 00:10:51.000
+your job description, old interview
+
+00:10:48.240 --> 00:10:54.000
+notes, contact list, company research,
+
+00:10:51.000 --> 00:10:56.960
+old recruiter emails. But now you can go
+
+00:10:54.000 --> 00:10:59.400
+to Google Drive [music] and just ask AI,
+
+00:10:56.960 --> 00:11:01.839
+"What are the biggest gaps in my fit?
+
+00:10:59.400 --> 00:11:03.880
+What do I do next?" You're no longer
+
+00:11:01.839 --> 00:11:06.920
+stuck in a file cabinet. [music] You can
+
+00:11:03.880 --> 00:11:10.520
+now refine and reconstruct your entire
+
+00:11:06.920 --> 00:11:12.720
+story. Second, focus. Last week, I was
+
+00:11:10.520 --> 00:11:15.000
+running late for a virtual meeting. We
+
+00:11:12.720 --> 00:11:17.320
+were using Google Meet, and I joined it
+
+00:11:15.000 --> 00:11:20.000
+5 minutes late. As soon as I joined,
+
+00:11:17.320 --> 00:11:22.520
+Google Meet AI asked if I wanted to
+
+00:11:20.000 --> 00:11:24.760
+catch up. I clicked yes, and it showed
+
+00:11:22.520 --> 00:11:26.600
+me three bullet points of what I had
+
+00:11:24.760 --> 00:11:29.560
+missed. I did not have to interrupt the
+
+00:11:26.600 --> 00:11:31.440
+room and make everybody rewind.
+
+00:11:29.560 --> 00:11:33.520
+I thought it was brilliant. Everyone
+
+00:11:31.440 --> 00:11:36.920
+stayed focused. [music] And third,
+
+00:11:33.520 --> 00:11:40.080
+flavor. Now, this one matters way more
+
+00:11:36.920 --> 00:11:42.720
+than we realize. Because AI can now
+
+00:11:40.080 --> 00:11:44.720
+learn from the files in your Drive, it
+
+00:11:42.720 --> 00:11:48.000
+can start to understand the entire
+
+00:11:44.720 --> 00:11:50.028
+history of what you've generated. It can
+
+00:11:48.000 --> 00:11:50.640
+see how you write and how you think.
+
+00:11:50.028 --> 00:11:54.320
+[music]
+
+00:11:50.640 --> 00:11:58.000
+It's no longer about AI writing for you,
+
+00:11:54.320 --> 00:12:00.960
+it's about AI writing with you. So that
+
+00:11:58.000 --> 00:12:03.680
+is your human intelligence system, an
+
+00:12:00.960 --> 00:12:06.640
+architecture that you build with four
+
+00:12:03.680 --> 00:12:09.839
+floors, four different jobs. But here's
+
+00:12:06.640 --> 00:12:13.360
+why all of this actually matters at a
+
+00:12:09.839 --> 00:12:15.520
+deeper level. AI will eliminate some
+
+00:12:13.360 --> 00:12:19.080
+jobs, for sure. [music] It will create
+
+00:12:15.520 --> 00:12:21.240
+many new ones, and it'll reshape almost
+
+00:12:19.080 --> 00:12:24.400
+all of them. Now, [music] I don't think
+
+00:12:21.240 --> 00:12:27.680
+AI is replacing us, because every job
+
+00:12:24.400 --> 00:12:29.800
+has two functions: mechanics [music]
+
+00:12:27.680 --> 00:12:32.080
+and meaning. AI may change the
+
+00:12:29.800 --> 00:12:35.320
+mechanics. It does not automatically
+
+00:12:32.080 --> 00:12:38.280
+change or eliminate the meaning. That's
+
+00:12:35.320 --> 00:12:40.600
+what humans are for. So this human
+
+00:12:38.280 --> 00:12:44.240
+intelligence system that we talked about
+
+00:12:40.600 --> 00:12:47.480
+here is not just about building your
+
+00:12:44.240 --> 00:12:50.080
+edge. It's also about building [music]
+
+00:12:47.480 --> 00:12:52.600
+yourself. You can use it to create
+
+00:12:50.080 --> 00:12:55.480
+something real, something beautiful,
+
+00:12:52.600 --> 00:12:58.800
+something constructive. Your worth is
+
+00:12:55.480 --> 00:13:01.320
+not a number that has to keep growing to
+
+00:12:58.800 --> 00:13:04.120
+prove that you matter.
+
+00:13:01.320 --> 00:13:06.009
+You were born with it. To borrow from
+
+00:13:04.120 --> 00:13:06.280
+Maya Angelou,
+
+00:13:06.009 --> 00:13:08.000
+>> [music]
+
+00:13:06.280 --> 00:13:09.960
+>> you alone
+
+00:13:08.000 --> 00:13:12.120
+are enough.
+
+00:13:09.960 --> 00:13:13.214
+If this video helped you, please
+
+00:13:12.120 --> 00:13:13.400
+subscribe.
+
+00:13:13.214 --> 00:13:16.160
+>> [music]
+
+00:13:13.400 --> 00:13:18.920
+>> I'll see you next week. Thank you.
+
+00:13:16.160 --> 00:13:18.920
+And I love you.
+

@@ -1,0 +1,1814 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.640
+Can I show you how in just 3 hours I
+
+00:00:02.360 --> 00:00:06.800
+used AI to write a novel that is
+
+00:00:04.640 --> 00:00:08.920
+actually good and how I also created a
+
+00:00:06.800 --> 00:00:11.360
+cover, set it to be ready to publish on
+
+00:00:08.920 --> 00:00:13.800
+Amazon Kindle, and also show you how I
+
+00:00:11.360 --> 00:00:15.760
+optimized it for free traffic? Well,
+
+00:00:13.800 --> 00:00:17.480
+that's today's challenge. So, thank you
+
+00:00:15.760 --> 00:00:19.440
+Scrivener for sponsoring today's video.
+
+00:00:17.480 --> 00:00:20.880
+More on them later, but for now, let's
+
+00:00:19.440 --> 00:00:22.960
+get started. And I'll tell you
+
+00:00:20.880 --> 00:00:25.480
+something. I was inspired to try this
+
+00:00:22.960 --> 00:00:28.040
+after I read this article about an indie
+
+00:00:25.480 --> 00:00:31.640
+author who in just 1 year published more
+
+00:00:28.040 --> 00:00:35.080
+than 200 novels using Claude AI and sold
+
+00:00:31.640 --> 00:00:36.880
+over 50,000 copies. Crazy, right? And
+
+00:00:35.080 --> 00:00:38.800
+she did so by selling them through
+
+00:00:36.880 --> 00:00:41.760
+Amazon's self-publishing service called
+
+00:00:38.800 --> 00:00:44.120
+KDP. You can upload a book PDF file, and
+
+00:00:41.760 --> 00:00:47.000
+then you can sell it on Amazon as either
+
+00:00:44.120 --> 00:00:49.120
+an ebook, a print book, or both. And for
+
+00:00:47.000 --> 00:00:51.960
+her, she uploaded and sold romance
+
+00:00:49.120 --> 00:00:54.040
+novels. However, in this previous video
+
+00:00:51.960 --> 00:00:56.040
+on this channel, I already wrote an AI
+
+00:00:54.040 --> 00:00:58.440
+romance novel. So, to keep things
+
+00:00:56.040 --> 00:01:00.440
+interesting for this challenge, I'll
+
+00:00:58.440 --> 00:01:02.960
+write a different type of book, a
+
+00:01:00.440 --> 00:01:04.960
+detective novel. And I'll be using a new
+
+00:01:02.960 --> 00:01:07.120
+and improved AI workflow that I have
+
+00:01:04.960 --> 00:01:09.920
+developed to write and publish Kindle
+
+00:01:07.120 --> 00:01:12.200
+ebooks. So, first up, I researched a
+
+00:01:09.920 --> 00:01:14.160
+high-demand, low-competition niche to
+
+00:01:12.200 --> 00:01:16.400
+write my book in. Because you see, as I
+
+00:01:14.160 --> 00:01:18.640
+will discuss later, I like to focus on
+
+00:01:16.400 --> 00:01:20.560
+free traffic methods for my marketing.
+
+00:01:18.640 --> 00:01:22.640
+And on Amazon, the search algorithm can
+
+00:01:20.560 --> 00:01:24.840
+be a great source of free traffic. My
+
+00:01:22.640 --> 00:01:26.800
+goal is to pick a book topic where if
+
+00:01:24.840 --> 00:01:28.440
+somebody searches for it, my book will
+
+00:01:26.800 --> 00:01:31.400
+likely show up near the top of the
+
+00:01:28.440 --> 00:01:33.280
+results. But this won't happen if I pick
+
+00:01:31.400 --> 00:01:35.400
+a niche like this one that has lots of
+
+00:01:33.280 --> 00:01:37.760
+books in it already. So, to find a
+
+00:01:35.400 --> 00:01:40.360
+low-competition niche, I use the first
+
+00:01:37.760 --> 00:01:42.760
+tool in my AI workflow, Claude. As my
+
+00:01:40.360 --> 00:01:45.640
+regular viewers know, Claude is an AI
+
+00:01:42.760 --> 00:01:47.760
+LLM chatbot similar to ChatGPT. It is
+
+00:01:45.640 --> 00:01:49.960
+made by a company called Anthropic. And
+
+00:01:47.760 --> 00:01:52.360
+in writing tests, Claude consistently
+
+00:01:49.960 --> 00:01:54.720
+beats ChatGPT. So, I'll be using it to
+
+00:01:52.360 --> 00:01:56.480
+write my book. Plus, it also has a great
+
+00:01:54.720 --> 00:01:58.920
+research tool. So, I told it that I
+
+00:01:56.480 --> 00:02:01.000
+wanted it to write a mystery novel and
+
+00:01:58.920 --> 00:02:02.880
+that I wanted it to search the internet
+
+00:02:01.000 --> 00:02:04.560
+looking for discussions where people
+
+00:02:02.880 --> 00:02:07.320
+have been talking about mystery novel
+
+00:02:04.560 --> 00:02:09.000
+niches that they want more of. And then
+
+00:02:07.320 --> 00:02:11.360
+in the chat settings, I turned on
+
+00:02:09.000 --> 00:02:13.320
+research mode and I set it to the latest
+
+00:02:11.360 --> 00:02:15.520
+Sonnet model, which is the mid-tier
+
+00:02:13.320 --> 00:02:17.320
+model with thinking turned on. And then
+
+00:02:15.520 --> 00:02:19.200
+that was it. Claude followed up with a
+
+00:02:17.320 --> 00:02:21.480
+few clarifying questions, which I
+
+00:02:19.200 --> 00:02:23.440
+answered, and then I just sat back and
+
+00:02:21.480 --> 00:02:25.080
+let Claude search the internet for me.
+
+00:02:23.440 --> 00:02:27.080
+And it searched through hundreds of
+
+00:02:25.080 --> 00:02:29.520
+websites. And when it was done, it
+
+00:02:27.080 --> 00:02:32.080
+created a research document and it found
+
+00:02:29.520 --> 00:02:34.920
+lots of low competition niches. And out
+
+00:02:32.080 --> 00:02:36.720
+of these ideas, I decided that this one
+
+00:02:34.920 --> 00:02:38.520
+would be fun. I figured I'd write a
+
+00:02:36.720 --> 00:02:41.240
+murder mystery with two middle-aged
+
+00:02:38.520 --> 00:02:44.400
+sisters who accidentally become crime
+
+00:02:41.240 --> 00:02:46.320
+solvers. And I had another idea. So, a
+
+00:02:44.400 --> 00:02:48.440
+popular hobby in this demographic is
+
+00:02:46.320 --> 00:02:51.000
+travel, right? So, what about a murder
+
+00:02:48.440 --> 00:02:53.680
+mystery but on a plane? So, I did a
+
+00:02:51.000 --> 00:02:56.280
+search for it on Amazon and look, you
+
+00:02:53.680 --> 00:02:58.280
+get almost no results. So, if we were to
+
+00:02:56.280 --> 00:03:00.280
+write a book in this niche, our book
+
+00:02:58.280 --> 00:03:02.120
+would most likely immediately jump to
+
+00:03:00.280 --> 00:03:04.040
+the top of the search results. Plus,
+
+00:03:02.120 --> 00:03:06.640
+there is another reason I like this
+
+00:03:04.040 --> 00:03:08.480
+idea. It's a fun, almost cheesy concept,
+
+00:03:06.640 --> 00:03:10.400
+which means it falls into the beach
+
+00:03:08.480 --> 00:03:12.880
+fiction genre, which are basically
+
+00:03:10.400 --> 00:03:15.080
+feel-good books that are simple and easy
+
+00:03:12.880 --> 00:03:17.239
+to read. In other words, they're cozy
+
+00:03:15.080 --> 00:03:19.760
+fiction. And while AI doesn't usually
+
+00:03:17.239 --> 00:03:22.080
+write award-winning books, it can be
+
+00:03:19.760 --> 00:03:24.040
+great at writing cozy fiction. Plus,
+
+00:03:22.080 --> 00:03:26.519
+I've also noticed that on Amazon, indie
+
+00:03:24.040 --> 00:03:28.880
+publishers can do very well financially
+
+00:03:26.519 --> 00:03:30.720
+by creating a book series. So, take this
+
+00:03:28.880 --> 00:03:32.680
+murder mystery series, it's set on a
+
+00:03:30.720 --> 00:03:34.320
+cruise ship. In each book, the cruise
+
+00:03:32.680 --> 00:03:36.560
+ship director dissolves different
+
+00:03:34.320 --> 00:03:38.720
+murders. People love it. So, these
+
+00:03:36.560 --> 00:03:41.120
+traveling sisters I've created could
+
+00:03:38.720 --> 00:03:43.360
+become their own series, too. All right,
+
+00:03:41.120 --> 00:03:45.680
+then. We have our book idea. So, now to
+
+00:03:43.360 --> 00:03:47.560
+move on to the next step. But first,
+
+00:03:45.680 --> 00:03:50.040
+just a quick tip. In this video, I'll be
+
+00:03:47.560 --> 00:03:52.960
+using the pro version of Claude and the
+
+00:03:50.040 --> 00:03:55.080
+deep research tool I used is not in the
+
+00:03:52.960 --> 00:03:56.640
+free version. So, if you want a deep
+
+00:03:55.080 --> 00:03:58.920
+research tool that you can access for
+
+00:03:56.640 --> 00:04:01.240
+free, check out Perplexity. This is the
+
+00:03:58.920 --> 00:04:02.920
+most popular AI-powered search engine.
+
+00:04:01.240 --> 00:04:05.160
+The free version of this has a deep
+
+00:04:02.920 --> 00:04:07.440
+research tool built into it. You get
+
+00:04:05.160 --> 00:04:09.560
+some free searches each month. Out of
+
+00:04:07.440 --> 00:04:11.240
+interest, I ran the same search with it,
+
+00:04:09.560 --> 00:04:14.360
+and it gave me similar results to
+
+00:04:11.240 --> 00:04:16.720
+Claude. But yes, either way, now that
+
+00:04:14.360 --> 00:04:19.239
+I've picked my niche, I then moved on to
+
+00:04:16.720 --> 00:04:21.560
+a crucial phase that most people skip,
+
+00:04:19.239 --> 00:04:24.240
+which is this: plotting. Because you
+
+00:04:21.560 --> 00:04:25.960
+see, AI novels are usually terrible,
+
+00:04:24.240 --> 00:04:28.600
+since most people just come to their
+
+00:04:25.960 --> 00:04:31.919
+favorite AI, like ChatGPT, and say,
+
+00:04:28.600 --> 00:04:34.560
+"Hey, write me chapter one of my book.
+
+00:04:31.919 --> 00:04:36.400
+Go." And that's it. No planning,
+
+00:04:34.560 --> 00:04:38.320
+nothing. And that is a legitimate
+
+00:04:36.400 --> 00:04:40.800
+approach some human authors take, which
+
+00:04:38.320 --> 00:04:42.400
+is called the pantser approach. But AIs
+
+00:04:40.800 --> 00:04:44.880
+work much better at writing when you
+
+00:04:42.400 --> 00:04:47.360
+instead take the plotter approach, which
+
+00:04:44.880 --> 00:04:49.280
+is to plan your book before you write
+
+00:04:47.360 --> 00:04:51.480
+it. And to do that, we'll be using a
+
+00:04:49.280 --> 00:04:53.000
+feature within Claude called projects.
+
+00:04:51.480 --> 00:04:55.480
+This lets you create a dedicated
+
+00:04:53.000 --> 00:04:57.680
+workspace where users can create chats
+
+00:04:55.480 --> 00:04:59.960
+and upload files to it that Claude will
+
+00:04:57.680 --> 00:05:02.280
+essentially remember and be able to
+
+00:04:59.960 --> 00:05:04.880
+access from conversation to conversation
+
+00:05:02.280 --> 00:05:06.880
+within it. It's super handy. So, I set
+
+00:05:04.880 --> 00:05:09.440
+up a project for my book. Then, within
+
+00:05:06.880 --> 00:05:12.040
+this project, I started a new chat where
+
+00:05:09.440 --> 00:05:13.960
+I started working backwards. Plotting is
+
+00:05:12.040 --> 00:05:15.720
+usually easiest if you figure out what
+
+00:05:13.960 --> 00:05:17.640
+your ending will be first and work
+
+00:05:15.720 --> 00:05:19.600
+backwards from there. So, I got Claude
+
+00:05:17.640 --> 00:05:21.520
+to come up with some twist ending ideas
+
+00:05:19.600 --> 00:05:24.120
+for me. And I'll be honest, I didn't
+
+00:05:21.520 --> 00:05:26.520
+like them much. So, I got it to come up
+
+00:05:24.120 --> 00:05:27.720
+with some more, and out of these, I
+
+00:05:26.520 --> 00:05:30.040
+liked the idea of it being some
+
+00:05:27.720 --> 00:05:32.200
+combination of it being the pilot that
+
+00:05:30.040 --> 00:05:34.400
+did it and that he had set the murder
+
+00:05:32.200 --> 00:05:36.360
+plot up in advance, knowing that the
+
+00:05:34.400 --> 00:05:37.919
+passenger would be on the plane. So, I
+
+00:05:36.360 --> 00:05:39.960
+asked Claude to expand more on this
+
+00:05:37.919 --> 00:05:42.080
+idea, and it came up with some ideas
+
+00:05:39.960 --> 00:05:44.120
+behind the pilot's potential motivations
+
+00:05:42.080 --> 00:05:46.360
+and scenarios for how he did it, too.
+
+00:05:44.120 --> 00:05:48.360
+So, I read over these, and I picked the
+
+00:05:46.360 --> 00:05:50.200
+ideas that I liked the most, like the
+
+00:05:48.360 --> 00:05:52.200
+fact that the pilot caused an allergic
+
+00:05:50.200 --> 00:05:54.800
+reaction, and I asked Claude to take
+
+00:05:52.200 --> 00:05:56.880
+this and to expand out on it into a full
+
+00:05:54.800 --> 00:05:58.840
+reference document. And not only did it
+
+00:05:56.880 --> 00:06:00.920
+write this reference document for me,
+
+00:05:58.840 --> 00:06:03.200
+but it coded it together, too. And it
+
+00:06:00.920 --> 00:06:04.720
+had pretty much everything you'd expect,
+
+00:06:03.200 --> 00:06:07.480
+an explanation of the history of the
+
+00:06:04.720 --> 00:06:09.600
+motive, an explanation of how he did it,
+
+00:06:07.480 --> 00:06:12.200
+and even read hearings that distract
+
+00:06:09.600 --> 00:06:14.120
+from him. So, I downloaded this, and
+
+00:06:12.200 --> 00:06:16.920
+then I uploaded it into the project to
+
+00:06:14.120 --> 00:06:19.160
+save it as a reference. Then next up was
+
+00:06:16.920 --> 00:06:21.000
+the characters. So, I started a new chat
+
+00:06:19.160 --> 00:06:22.440
+in the project and asked it to come up
+
+00:06:21.000 --> 00:06:24.240
+with some character profiles for the
+
+00:06:22.440 --> 00:06:26.000
+characters that we would expect in our
+
+00:06:24.240 --> 00:06:27.800
+book. And it came up with some fun
+
+00:06:26.000 --> 00:06:30.160
+characters, perfect for the style of
+
+00:06:27.800 --> 00:06:31.880
+book I was after. So, I then asked it to
+
+00:06:30.160 --> 00:06:34.080
+turn these character profiles into a
+
+00:06:31.880 --> 00:06:36.320
+document, which it coded together for
+
+00:06:34.080 --> 00:06:38.560
+me, no problem. And if you want to make
+
+00:06:36.320 --> 00:06:40.200
+any changes to these, it's really easy.
+
+00:06:38.560 --> 00:06:42.760
+Like, reading back through it, Claude
+
+00:06:40.200 --> 00:06:44.640
+had made Eleanor the organized sister a
+
+00:06:42.760 --> 00:06:46.840
+retired teacher, but I thought it would
+
+00:06:44.640 --> 00:06:48.400
+be better if she'd been a lawyer. So, I
+
+00:06:46.840 --> 00:06:50.760
+asked Claude to make this change and
+
+00:06:48.400 --> 00:06:52.520
+updated the document for me. So then, I
+
+00:06:50.760 --> 00:06:54.440
+downloaded it, and then I uploaded it to
+
+00:06:52.520 --> 00:06:56.360
+the project files, and then we'd one
+
+00:06:54.440 --> 00:06:58.200
+more thing to do, and that was to choose
+
+00:06:56.360 --> 00:06:59.720
+a storyline structure. These are plot
+
+00:06:58.200 --> 00:07:01.760
+structures that have been proven to be
+
+00:06:59.720 --> 00:07:03.560
+popular with readers. The hero's journey
+
+00:07:01.760 --> 00:07:05.360
+is a classic one, although the save the
+
+00:07:03.560 --> 00:07:07.720
+cat structure is probably the most
+
+00:07:05.360 --> 00:07:09.880
+popular for commercial fiction. It works
+
+00:07:07.720 --> 00:07:12.400
+well within a lot of genres, including
+
+00:07:09.880 --> 00:07:15.120
+romance, but since I was writing a
+
+00:07:12.400 --> 00:07:17.560
+detective novel, I chose this structure.
+
+00:07:15.120 --> 00:07:19.600
+The 12-step mystery formula. Then I just
+
+00:07:17.560 --> 00:07:21.680
+came to Claude and I started a new chat
+
+00:07:19.600 --> 00:07:24.120
+within our project asking it to write
+
+00:07:21.680 --> 00:07:26.440
+out a 12-step mystery formula based on
+
+00:07:24.120 --> 00:07:28.720
+the documents we had created so far. And
+
+00:07:26.440 --> 00:07:30.880
+that is what it did. It both wrote it
+
+00:07:28.720 --> 00:07:33.080
+and coded it together into a document
+
+00:07:30.880 --> 00:07:35.360
+for me. And I read over it, and it was
+
+00:07:33.080 --> 00:07:37.320
+pretty good. So, I just downloaded this
+
+00:07:35.360 --> 00:07:40.240
+formula document, and I uploaded it to
+
+00:07:37.320 --> 00:07:42.000
+the project. Awesome. So, now that that
+
+00:07:40.240 --> 00:07:43.760
+finished plotting, I then moved on to
+
+00:07:42.000 --> 00:07:46.200
+the next step, which was to actually
+
+00:07:43.760 --> 00:07:47.640
+write my book. And actually, because of
+
+00:07:46.200 --> 00:07:50.160
+all the plotting that I had already
+
+00:07:47.640 --> 00:07:52.680
+done, this was surprisingly simple. Yep,
+
+00:07:50.160 --> 00:07:54.880
+basically, I just started a new chat and
+
+00:07:52.680 --> 00:07:56.960
+asked it to write chapter one based off
+
+00:07:54.880 --> 00:07:59.040
+of our project plotting documents. And I
+
+00:07:56.960 --> 00:08:01.240
+copied and pasted in part one of my
+
+00:07:59.040 --> 00:08:03.360
+12-step mystery formula for it to use as
+
+00:08:01.240 --> 00:08:05.800
+a reference. And then that was it. I sat
+
+00:08:03.360 --> 00:08:07.360
+back and let AI work its magic, and 3
+
+00:08:05.800 --> 00:08:09.520
+minutes later, Claude had finished
+
+00:08:07.360 --> 00:08:11.880
+coding together a document containing
+
+00:08:09.520 --> 00:08:14.320
+chapter one. Now, this is very
+
+00:08:11.880 --> 00:08:16.160
+important. I didn't just get AI to write
+
+00:08:14.320 --> 00:08:18.520
+the book for me. I treated this as a
+
+00:08:16.160 --> 00:08:20.280
+collaborative process. Basically, I read
+
+00:08:18.520 --> 00:08:22.000
+over it to check for any changes I
+
+00:08:20.280 --> 00:08:23.760
+wanted or mistakes that it might have
+
+00:08:22.000 --> 00:08:25.919
+made. And I noticed that the chapter
+
+00:08:23.760 --> 00:08:27.480
+ended with them in the plane, whereas as
+
+00:08:25.919 --> 00:08:29.640
+part of the plot we'd written in our
+
+00:08:27.480 --> 00:08:32.360
+12-step mystery formula, they shouldn't
+
+00:08:29.640 --> 00:08:34.240
+begin to board until chapter two. So, I
+
+00:08:32.360 --> 00:08:36.919
+asked it to change this, which it did
+
+00:08:34.240 --> 00:08:38.440
+for me, no problem. Then, after that, I
+
+00:08:36.919 --> 00:08:40.320
+just repeated this process for each of
+
+00:08:38.440 --> 00:08:42.479
+my chapters. And I kept it all within
+
+00:08:40.320 --> 00:08:44.640
+the same chat thread. I ended up writing
+
+00:08:42.479 --> 00:08:46.280
+15 chapters this way. And once it had
+
+00:08:44.640 --> 00:08:48.720
+finished them, I downloaded each
+
+00:08:46.280 --> 00:08:50.680
+chapter, and I started a new chat, and I
+
+00:08:48.720 --> 00:08:52.200
+uploaded the chapters into it and asked
+
+00:08:50.680 --> 00:08:54.520
+Claude to turn them into a single
+
+00:08:52.200 --> 00:08:56.240
+manuscript while fixing up any mistakes
+
+00:08:54.520 --> 00:08:58.600
+it noticed along the way. And when I
+
+00:08:56.240 --> 00:09:01.240
+did, I made sure to change the Claude
+
+00:08:58.600 --> 00:09:03.600
+model from Sonnet to Opus. This is
+
+00:09:01.240 --> 00:09:06.000
+Claude's most advanced model. It's very
+
+00:09:03.600 --> 00:09:09.200
+smart and can handle a lots of text and
+
+00:09:06.000 --> 00:09:11.600
+data. But, since it's smart, it uses
+
+00:09:09.200 --> 00:09:14.800
+lots of tokens, so eats into your usage
+
+00:09:11.600 --> 00:09:17.040
+limits faster. So, to save usage, I got
+
+00:09:14.800 --> 00:09:19.360
+the medium model Sonnet to write my
+
+00:09:17.040 --> 00:09:21.120
+first draft chapter by chapter, and then
+
+00:09:19.360 --> 00:09:23.480
+once I started making complex
+
+00:09:21.120 --> 00:09:26.080
+manuscript-wide edits, I switched to
+
+00:09:23.480 --> 00:09:28.240
+Opus. It took all of my chapters and
+
+00:09:26.080 --> 00:09:31.480
+turned them into a full draft book for
+
+00:09:28.240 --> 00:09:33.480
+me. Nice. So, now I was ready for the
+
+00:09:31.480 --> 00:09:35.240
+next step. But first, we have a quick
+
+00:09:33.480 --> 00:09:37.640
+word from today's video sponsor,
+
+00:09:35.240 --> 00:09:39.880
+Subscribe. So, creating tutorials to
+
+00:09:37.640 --> 00:09:42.560
+show how to use tools can be a slow
+
+00:09:39.880 --> 00:09:44.680
+process, right? I mean, I should know.
+
+00:09:42.560 --> 00:09:46.480
+Well, today's video sponsor, Scribe,
+
+00:09:44.680 --> 00:09:48.680
+let's fix that. Scribe captures your
+
+00:09:46.480 --> 00:09:50.720
+workflow in real time and automatically
+
+00:09:48.680 --> 00:09:53.280
+builds a step-by-step guide that anyone
+
+00:09:50.720 --> 00:09:55.000
+can follow. No extra time required. Just
+
+00:09:53.280 --> 00:09:57.000
+install the free Chrome extension or
+
+00:09:55.000 --> 00:09:58.880
+download the desktop app and then click
+
+00:09:57.000 --> 00:10:00.400
+capture. And now you can complete
+
+00:09:58.880 --> 00:10:02.360
+anything on screen that you want to
+
+00:10:00.400 --> 00:10:04.240
+create a tutorial for. So, let's say
+
+00:10:02.360 --> 00:10:05.520
+that I wanted to teach someone how to
+
+00:10:04.240 --> 00:10:08.000
+start
+
+00:10:05.520 --> 00:10:10.640
+with an author. I could just use Scribe
+
+00:10:08.000 --> 00:10:12.800
+to record my browser as I go and then
+
+00:10:10.640 --> 00:10:15.840
+when I'm done, I just click the stop
+
+00:10:12.800 --> 00:10:17.480
+button in the Chrome extension and look,
+
+00:10:15.840 --> 00:10:19.760
+Scribe automatically created a
+
+00:10:17.480 --> 00:10:21.760
+step-by-step guide for me complete with
+
+00:10:19.760 --> 00:10:24.000
+annotated screenshots. And I can edit
+
+00:10:21.760 --> 00:10:25.800
+steps, crop or zoom in on images, blur
+
+00:10:24.000 --> 00:10:27.520
+sensitive info, and then share
+
+00:10:25.800 --> 00:10:29.280
+instantly. And I can send it as a link
+
+00:10:27.520 --> 00:10:32.040
+to my video editor, download it as a
+
+00:10:29.280 --> 00:10:34.160
+PDF, add teammates to it, or embed it.
+
+00:10:32.040 --> 00:10:35.840
+And you can even follow along live. The
+
+00:10:34.160 --> 00:10:37.560
+Guide Me feature pulls Scribe straight
+
+00:10:35.840 --> 00:10:39.480
+into your browser with interactive
+
+00:10:37.560 --> 00:10:41.440
+step-by-step walkthroughs, which lets
+
+00:10:39.480 --> 00:10:43.760
+you see exactly where to click and it
+
+00:10:41.440 --> 00:10:45.240
+moves you through each step as you go.
+
+00:10:43.760 --> 00:10:48.280
+So, take back your time and skip the
+
+00:10:45.240 --> 00:10:50.480
+busy work. Go to scribe.house/holsagted
+
+00:10:48.280 --> 00:10:52.240
+to get started for free. But anyway,
+
+00:10:50.480 --> 00:10:54.720
+back to the video and onto the next
+
+00:10:52.240 --> 00:10:57.280
+step, which is this. I used AI to both
+
+00:10:54.720 --> 00:11:00.120
+edit my draft novel and polish it to
+
+00:10:57.280 --> 00:11:02.520
+turn it into a print-ready novel. Yep.
+
+00:11:00.120 --> 00:11:04.200
+So, first up in my editing process, I
+
+00:11:02.520 --> 00:11:06.280
+actually chose to extend the book and
+
+00:11:04.200 --> 00:11:08.680
+make it bigger because my first draft
+
+00:11:06.280 --> 00:11:10.440
+came out to be just 40,000 words and
+
+00:11:08.680 --> 00:11:13.560
+most mystery books I see sell well on
+
+00:11:10.440 --> 00:11:15.440
+Amazon are about 50,000 words or more.
+
+00:11:13.560 --> 00:11:17.320
+Claude asked me some questions on which
+
+00:11:15.440 --> 00:11:19.360
+parts I wanted to expand on and then
+
+00:11:17.320 --> 00:11:21.400
+that was it. It just worked its magic.
+
+00:11:19.360 --> 00:11:24.200
+It took about 20 minutes to do this as
+
+00:11:21.400 --> 00:11:26.240
+this was quite intense work. It extended
+
+00:11:24.200 --> 00:11:28.560
+the chapters and even added two new
+
+00:11:26.240 --> 00:11:31.920
+chapters as well taking it to just over
+
+00:11:28.560 --> 00:11:33.880
+50,000 words, which was perfect. Now I
+
+00:11:31.920 --> 00:11:36.080
+needed to check for errors. So to do
+
+00:11:33.880 --> 00:11:38.280
+that I use two different AI chatbots,
+
+00:11:36.080 --> 00:11:40.320
+ChatGPT and Google's Gemini, to
+
+00:11:38.280 --> 00:11:42.400
+basically act as third-party neutral
+
+00:11:40.320 --> 00:11:44.600
+editors. I uploaded my manuscript to
+
+00:11:42.400 --> 00:11:46.280
+them and I got each to read over it to
+
+00:11:44.600 --> 00:11:48.440
+see if they could spot any mistakes or
+
+00:11:46.280 --> 00:11:50.760
+continuity errors. And because I wrote
+
+00:11:48.440 --> 00:11:53.400
+this book in tandem with Claude and I
+
+00:11:50.760 --> 00:11:55.240
+read over each chapter as I wrote it and
+
+00:11:53.400 --> 00:11:57.320
+I got it to fix up mistakes along the
+
+00:11:55.240 --> 00:11:59.360
+way, there were actually very few
+
+00:11:57.320 --> 00:12:02.000
+errors. Although they did spot some
+
+00:11:59.360 --> 00:12:04.320
+which frankly, even in a human written
+
+00:12:02.000 --> 00:12:06.400
+novel, you'd expect. Then I came back to
+
+00:12:04.320 --> 00:12:08.080
+Claude and with Opus still turned on, I
+
+00:12:06.400 --> 00:12:10.960
+copied and pasted in the errors that
+
+00:12:08.080 --> 00:12:13.040
+ChatGPT and Gemini found in a fresh chat
+
+00:12:10.960 --> 00:12:15.520
+along with a copy of the manuscript and
+
+00:12:13.040 --> 00:12:17.800
+I let Claude do its AI magic. And in
+
+00:12:15.520 --> 00:12:21.360
+just six minutes, it went through and
+
+00:12:17.800 --> 00:12:23.680
+fixed them all up. Nice. So, after I
+
+00:12:21.360 --> 00:12:26.560
+downloaded this new draft, there was one
+
+00:12:23.680 --> 00:12:29.200
+final big thing I needed to do and that
+
+00:12:26.560 --> 00:12:31.400
+was polishing. So I started a new chat
+
+00:12:29.200 --> 00:12:34.000
+in our book project and I uploaded this
+
+00:12:31.400 --> 00:12:36.400
+final draft and I asked the Opus version
+
+00:12:34.000 --> 00:12:39.280
+of Claude to polish it up and to turn it
+
+00:12:36.400 --> 00:12:41.960
+into a final manuscript that is fun and
+
+00:12:39.280 --> 00:12:44.760
+easy to read. And this definitely took a
+
+00:12:41.960 --> 00:12:47.080
+little while, obviously I sped it up,
+
+00:12:44.760 --> 00:12:49.320
+but in total it took roughly 15 minutes
+
+00:12:47.080 --> 00:12:52.800
+for it to do this. But it was well worth
+
+00:12:49.320 --> 00:12:56.080
+it because at the end, I had my AI
+
+00:12:52.800 --> 00:12:58.920
+mystery novel that was, well, actually
+
+00:12:56.080 --> 00:13:00.280
+good. So then, this is the final copy
+
+00:12:58.920 --> 00:13:02.640
+that you will want to read over to
+
+00:13:00.280 --> 00:13:04.839
+double-check for any You can do what I
+
+00:13:02.640 --> 00:13:06.400
+did and pop it into a Google Doc to turn
+
+00:13:04.839 --> 00:13:09.360
+it into a document that you can edit
+
+00:13:06.400 --> 00:13:11.480
+yourself. But before I could upload it,
+
+00:13:09.360 --> 00:13:14.240
+there was something else I needed to do.
+
+00:13:11.480 --> 00:13:16.880
+I now needed to make a book cover and AI
+
+00:13:14.240 --> 00:13:19.080
+has, surprise, surprise, actually made
+
+00:13:16.880 --> 00:13:21.240
+this pretty easy. So for this, I used
+
+00:13:19.080 --> 00:13:23.200
+two tools. The first was Nana Banana,
+
+00:13:21.240 --> 00:13:25.040
+Google's AI image generator, which I
+
+00:13:23.200 --> 00:13:27.360
+access through Google's all-in-one media
+
+00:13:25.040 --> 00:13:29.200
+generation platform called Flow. And I
+
+00:13:27.360 --> 00:13:31.560
+also used my favorite AI powered
+
+00:13:29.200 --> 00:13:33.160
+graphics editing app, Canva. And
+
+00:13:31.560 --> 00:13:35.480
+seriously, when it comes to making a
+
+00:13:33.160 --> 00:13:37.800
+book cover, I really wouldn't overthink
+
+00:13:35.480 --> 00:13:39.760
+it. Like, this is a top-selling murder
+
+00:13:37.800 --> 00:13:42.080
+mystery book, and as you can see, the
+
+00:13:39.760 --> 00:13:44.400
+cover is pretty simple, isn't it? But,
+
+00:13:42.080 --> 00:13:47.320
+it gives the right vibe, which for this
+
+00:13:44.400 --> 00:13:49.480
+style of book is cute and cozy. So, it's
+
+00:13:47.320 --> 00:13:52.160
+the vibe that's most important here.
+
+00:13:49.480 --> 00:13:53.840
+But, either way, I started out by coming
+
+00:13:52.160 --> 00:13:56.040
+to Google Flow. If you don't have an
+
+00:13:53.840 --> 00:13:57.760
+account yet, that's easy. You can scroll
+
+00:13:56.040 --> 00:13:59.880
+down to pricing and sign up for either
+
+00:13:57.760 --> 00:14:01.800
+the free account or the pro account with
+
+00:13:59.880 --> 00:14:03.480
+their free 30-day trial. Then, once
+
+00:14:01.800 --> 00:14:05.480
+logged in, I clicked to create a new
+
+00:14:03.480 --> 00:14:07.480
+project. And then, in the chat settings,
+
+00:14:05.480 --> 00:14:09.920
+I switched to the image generation. And
+
+00:14:07.480 --> 00:14:11.960
+I selected to create a 3x4 image. And I
+
+00:14:09.920 --> 00:14:13.560
+chose to generate four images. And I
+
+00:14:11.960 --> 00:14:15.680
+also picked my favorite Nana Banana
+
+00:14:13.560 --> 00:14:18.040
+model, which is pro. Then, I just typed
+
+00:14:15.680 --> 00:14:20.160
+in a prompt explaining what I wanted my
+
+00:14:18.040 --> 00:14:22.360
+book cover to contain and what image
+
+00:14:20.160 --> 00:14:24.680
+style I wanted it in. And then, that was
+
+00:14:22.360 --> 00:14:26.760
+it. Nana Banana went ahead and made four
+
+00:14:24.680 --> 00:14:28.640
+images for me. I also went ahead and
+
+00:14:26.760 --> 00:14:31.080
+generated a bunch more just to get
+
+00:14:28.640 --> 00:14:33.320
+myself lots of options to pick from. And
+
+00:14:31.080 --> 00:14:35.480
+out of these, this one was my favorite.
+
+00:14:33.320 --> 00:14:37.600
+But, I needed to make some tweaks. So, I
+
+00:14:35.480 --> 00:14:39.320
+prompted it telling it what to change,
+
+00:14:37.600 --> 00:14:41.040
+and it made the changes for me. And
+
+00:14:39.320 --> 00:14:44.080
+then, once I'd finished tweaking it, I
+
+00:14:41.040 --> 00:14:46.960
+just downloaded it, upscaled to 2K. And
+
+00:14:44.080 --> 00:14:48.720
+yes, before anyone asks, all images made
+
+00:14:46.960 --> 00:14:51.160
+in Flow with the pro account currently,
+
+00:14:48.720 --> 00:14:53.640
+as of me filming, have no watermark,
+
+00:14:51.160 --> 00:14:55.640
+which is super handy. Then, next I came
+
+00:14:53.640 --> 00:14:57.600
+to Canva. You can use the free version
+
+00:14:55.640 --> 00:15:00.000
+of this, but I used the pro version to
+
+00:14:57.600 --> 00:15:02.480
+get access to more fonts and to upscale
+
+00:15:00.000 --> 00:15:04.640
+my book cover into higher resolution.
+
+00:15:02.480 --> 00:15:06.800
+So, if you do want to sign up for a free
+
+00:15:04.640 --> 00:15:08.520
+30-day trial to it, I'll include my
+
+00:15:06.800 --> 00:15:10.760
+affiliate link in the description.
+
+00:15:08.520 --> 00:15:14.360
+Either way, I started a new project and
+
+00:15:10.760 --> 00:15:16.520
+set it to be 1,600 by 2,560
+
+00:15:14.360 --> 00:15:18.760
+pixels, which is the standard Kindle
+
+00:15:16.520 --> 00:15:20.560
+ebook size. And I uploaded the image of
+
+00:15:18.760 --> 00:15:22.400
+my book cover and placed it in the
+
+00:15:20.560 --> 00:15:24.440
+middle. Then, I came to elements and
+
+00:15:22.400 --> 00:15:26.760
+selected shapes from the menu and added
+
+00:15:24.440 --> 00:15:28.760
+a rectangle and I drag and dropped it to
+
+00:15:26.760 --> 00:15:30.840
+fill the empty top section and I
+
+00:15:28.760 --> 00:15:32.960
+selected a matching color from the color
+
+00:15:30.840 --> 00:15:35.800
+picker. Then I came to the text menu and
+
+00:15:32.960 --> 00:15:37.920
+elements and I added in my top tagline
+
+00:15:35.800 --> 00:15:40.280
+and then I switched the tagline font.
+
+00:15:37.920 --> 00:15:43.600
+Now, as you can see, Canva, especially
+
+00:15:40.280 --> 00:15:45.120
+the pro version, has lots of fonts, but
+
+00:15:43.600 --> 00:15:46.960
+if you have a font you want to use in
+
+00:15:45.120 --> 00:15:48.960
+particular, you can just type in the
+
+00:15:46.960 --> 00:15:50.880
+name of it and select it. Then after
+
+00:15:48.960 --> 00:15:53.240
+that, I came to the text effects menu
+
+00:15:50.880 --> 00:15:54.960
+and selected a fun effect and for this I
+
+00:15:53.240 --> 00:15:57.080
+thought the echo effect worked well with
+
+00:15:54.960 --> 00:15:58.800
+it. So, once I had it looking the way
+
+00:15:57.080 --> 00:16:00.720
+that I wanted, I clicked on advanced
+
+00:15:58.800 --> 00:16:02.680
+text settings and then I used the slider
+
+00:16:00.720 --> 00:16:04.640
+to decrease the letter spacing for the
+
+00:16:02.680 --> 00:16:07.000
+tagline. And then, that was pretty much
+
+00:16:04.640 --> 00:16:08.840
+it. I just repeated the process, but I
+
+00:16:07.000 --> 00:16:10.720
+added it at the bottom with the author
+
+00:16:08.840 --> 00:16:12.280
+name. And then, when I had it looking
+
+00:16:10.720 --> 00:16:14.960
+the way that I wanted, I just clicked
+
+00:16:12.280 --> 00:16:17.120
+share, download and I changed it to JPEG
+
+00:16:14.960 --> 00:16:19.240
+and I upscaled the image quality as high
+
+00:16:17.120 --> 00:16:21.240
+as it could go and I just clicked
+
+00:16:19.240 --> 00:16:23.520
+download. And now I have my own Kindle
+
+00:16:21.240 --> 00:16:25.520
+book cover. Yay. And also, just a quick
+
+00:16:23.520 --> 00:16:27.760
+note, I unfortunately only have time in
+
+00:16:25.520 --> 00:16:30.080
+this video to show how to upload novels
+
+00:16:27.760 --> 00:16:32.560
+as ebooks, but if you'd like to use
+
+00:16:30.080 --> 00:16:35.080
+Amazon's KDP program to also sell your
+
+00:16:32.560 --> 00:16:36.960
+novels as print-on-demand books, you can
+
+00:16:35.080 --> 00:16:39.040
+use the book cover template generator to
+
+00:16:36.960 --> 00:16:41.160
+download a template that you can use to
+
+00:16:39.040 --> 00:16:43.800
+create a print-ready book cover to sell
+
+00:16:41.160 --> 00:16:46.040
+as an actual physical book, too. So
+
+00:16:43.800 --> 00:16:48.080
+then, after I had my cover, I then moved
+
+00:16:46.040 --> 00:16:51.480
+on to the next step, turning my story
+
+00:16:48.080 --> 00:16:52.920
+into a Kindle ready file. So, first up,
+
+00:16:51.480 --> 00:16:55.080
+what I did was I came back to my chat
+
+00:16:52.920 --> 00:16:57.160
+thread with Claude Opus and I asked it
+
+00:16:55.080 --> 00:17:00.120
+to format my book manuscript into a
+
+00:16:57.160 --> 00:17:02.480
+nice, easy-to-read Kindle friendly file,
+
+00:17:00.120 --> 00:17:04.480
+which it did. So, I went ahead and I
+
+00:17:02.480 --> 00:17:06.439
+downloaded this. Then I came to Amazon's
+
+00:17:04.480 --> 00:17:08.040
+free software, Kindle Create, and I
+
+00:17:06.439 --> 00:17:09.880
+downloaded it and installed it on my
+
+00:17:08.040 --> 00:17:12.079
+computer and then I opened it up,
+
+00:17:09.880 --> 00:17:14.240
+started a new file and uploaded the
+
+00:17:12.079 --> 00:17:17.160
+newly formatted novel that Claude made
+
+00:17:14.240 --> 00:17:18.800
+for me using the reflowable book format.
+
+00:17:17.160 --> 00:17:20.920
+And when I did, it asked me which
+
+00:17:18.800 --> 00:17:23.000
+chapters or sections to include. And
+
+00:17:20.920 --> 00:17:24.640
+then, honestly, that was pretty much it.
+
+00:17:23.000 --> 00:17:26.760
+Because Claude had already formatted the
+
+00:17:24.640 --> 00:17:29.120
+document for Kindle, it looked great as
+
+00:17:26.760 --> 00:17:31.000
+is. I just made one change. You can add
+
+00:17:29.120 --> 00:17:33.000
+text or change the formatting on any of
+
+00:17:31.000 --> 00:17:34.680
+the pages that you like. So, I just
+
+00:17:33.000 --> 00:17:36.360
+added in an author name to the front
+
+00:17:34.680 --> 00:17:37.840
+page. And then I clicked to preview it
+
+00:17:36.360 --> 00:17:40.400
+to double-check how it would look on a
+
+00:17:37.840 --> 00:17:42.480
+tablet. And as you can see, again, it
+
+00:17:40.400 --> 00:17:44.280
+looks pretty much perfect. So, I just
+
+00:17:42.480 --> 00:17:47.760
+went ahead and clicked export and saved
+
+00:17:44.280 --> 00:17:50.000
+it as a KPF file. Nice. So, then, the
+
+00:17:47.760 --> 00:17:51.960
+moment of truth had come. It was now
+
+00:17:50.000 --> 00:17:54.640
+time to upload and set my ebook to
+
+00:17:51.960 --> 00:17:56.760
+publish on Amazon's Kindle marketplace,
+
+00:17:54.640 --> 00:17:59.080
+while also optimizing it for free
+
+00:17:56.760 --> 00:18:00.800
+traffic. So, first of all, I signed into
+
+00:17:59.080 --> 00:18:03.440
+my account that I already had for
+
+00:18:00.800 --> 00:18:05.800
+Amazon's self-publishing service, KDP,
+
+00:18:03.440 --> 00:18:07.880
+and it's free for anybody to go in there
+
+00:18:05.800 --> 00:18:10.160
+and create an account. Then, once I was
+
+00:18:07.880 --> 00:18:11.680
+logged in, I clicked to add a new book.
+
+00:18:10.160 --> 00:18:13.600
+And then, on the screen, I needed to
+
+00:18:11.680 --> 00:18:15.120
+choose which book type to make. So, if
+
+00:18:13.600 --> 00:18:16.560
+I'd wanted to add in a physical
+
+00:18:15.120 --> 00:18:18.520
+print-on-demand book, I could have
+
+00:18:16.560 --> 00:18:20.640
+chosen either a hardcover or a
+
+00:18:18.520 --> 00:18:23.160
+paperback. But since I'm uploading an
+
+00:18:20.640 --> 00:18:25.600
+ebook, I chose that. Then next, I needed
+
+00:18:23.160 --> 00:18:27.280
+to add a book title and a book subtitle.
+
+00:18:25.600 --> 00:18:29.920
+And this is actually an opportunity to
+
+00:18:27.280 --> 00:18:31.600
+optimize it for free traffic. So, as I
+
+00:18:29.920 --> 00:18:33.440
+mentioned earlier, we can optimize it
+
+00:18:31.600 --> 00:18:35.520
+for search engines, especially if you
+
+00:18:33.440 --> 00:18:37.960
+picked a low-competition niche. This is
+
+00:18:35.520 --> 00:18:40.000
+called SEO. But we can also optimize it
+
+00:18:37.960 --> 00:18:42.640
+for GEO, which is generative engine
+
+00:18:40.000 --> 00:18:45.040
+optimization traffic. Basically, this is
+
+00:18:42.640 --> 00:18:46.760
+the AI recommendation feed. Essentially,
+
+00:18:45.040 --> 00:18:49.280
+if you open up Kindle, and inside of the
+
+00:18:46.760 --> 00:18:51.240
+website and app, Amazon's AI algorithm
+
+00:18:49.280 --> 00:18:53.120
+will choose and recommend books to you.
+
+00:18:51.240 --> 00:18:56.320
+And a well-known quirk is that the new
+
+00:18:53.120 --> 00:18:58.200
+books seem to get a 30-day algorithmic
+
+00:18:56.320 --> 00:19:00.400
+boost. So, this can be a great source of
+
+00:18:58.200 --> 00:19:02.560
+free traffic to get initial sales and
+
+00:19:00.400 --> 00:19:04.560
+reviews. So, what I did was I asked
+
+00:19:02.560 --> 00:19:07.160
+Claude to help me write this, while also
+
+00:19:04.560 --> 00:19:09.440
+noting who my target audience is. And it
+
+00:19:07.160 --> 00:19:11.240
+came back with three options for me. And
+
+00:19:09.440 --> 00:19:13.640
+out of these, I liked option two the
+
+00:19:11.240 --> 00:19:16.280
+most. So, I copied it and then I pasted
+
+00:19:13.640 --> 00:19:18.920
+it back in on the KDP submission form.
+
+00:19:16.280 --> 00:19:21.040
+Then next up, I decided to not create a
+
+00:19:18.920 --> 00:19:23.280
+series yet because it's probably not
+
+00:19:21.040 --> 00:19:25.560
+worth it until you have a second book,
+
+00:19:23.280 --> 00:19:27.600
+you know? Then in the author section,
+
+00:19:25.560 --> 00:19:30.080
+you can enter in your name or if you
+
+00:19:27.600 --> 00:19:32.320
+want, you can use a pen name. Amazon
+
+00:19:30.080 --> 00:19:34.040
+doesn't mind either way. Then after
+
+00:19:32.320 --> 00:19:36.680
+that, I scrolled down to the description
+
+00:19:34.040 --> 00:19:38.600
+box and of course, at this point I
+
+00:19:36.680 --> 00:19:40.600
+switched back to Claude and I asked it
+
+00:19:38.600 --> 00:19:43.560
+to not only create a description
+
+00:19:40.600 --> 00:19:45.840
+optimized for SEO and GEO traffic, but
+
+00:19:43.560 --> 00:19:48.440
+to write a description designed to hook
+
+00:19:45.840 --> 00:19:50.240
+readers in from the very first sentence.
+
+00:19:48.440 --> 00:19:52.400
+And then I copied the optimized
+
+00:19:50.240 --> 00:19:55.240
+description it gave me and I pasted it
+
+00:19:52.400 --> 00:19:57.520
+into Amazon's KDP and then after ticking
+
+00:19:55.240 --> 00:19:59.720
+I own the rights and that it didn't have
+
+00:19:57.520 --> 00:20:02.480
+any explicit content, I came to
+
+00:19:59.720 --> 00:20:04.640
+categories. And here you can categorize
+
+00:20:02.480 --> 00:20:07.280
+your book into three categories. Your
+
+00:20:04.640 --> 00:20:09.480
+first category is your primary category,
+
+00:20:07.280 --> 00:20:11.200
+so I chose the one that best fits it.
+
+00:20:09.480 --> 00:20:13.160
+Then after that, I came to the book
+
+00:20:11.200 --> 00:20:15.560
+keywords section and I asked Claude to
+
+00:20:13.160 --> 00:20:17.760
+come up with seven keywords for me. And
+
+00:20:15.560 --> 00:20:19.440
+while I liked six of them, I noticed
+
+00:20:17.760 --> 00:20:22.360
+that one of the sets of keywords it came
+
+00:20:19.440 --> 00:20:24.320
+up with involved author names. Anything
+
+00:20:22.360 --> 00:20:27.280
+involving names, trademarks, or
+
+00:20:24.320 --> 00:20:29.680
+copyrights is something I stay clear of.
+
+00:20:27.280 --> 00:20:32.080
+So I asked Claude to redo this avoiding
+
+00:20:29.680 --> 00:20:34.800
+these and it made that change for me, no
+
+00:20:32.080 --> 00:20:37.080
+problem. So I copied these keywords and
+
+00:20:34.800 --> 00:20:38.960
+I pasted them back into my book listing.
+
+00:20:37.080 --> 00:20:41.280
+And then while you can choose to set the
+
+00:20:38.960 --> 00:20:43.640
+book as a pre-order, I set it to release
+
+00:20:41.280 --> 00:20:45.200
+now. Then on the next page, I just
+
+00:20:43.640 --> 00:20:47.400
+scrolled down and uploaded my book
+
+00:20:45.200 --> 00:20:49.040
+manuscript I made with Kindle Create.
+
+00:20:47.400 --> 00:20:51.120
+And then I scrolled down and uploaded my
+
+00:20:49.040 --> 00:20:52.960
+book cover that I made with Canva. And
+
+00:20:51.120 --> 00:20:55.480
+then I scrolled down again and gave a
+
+00:20:52.960 --> 00:20:58.360
+full disclosure of the AI content in my
+
+00:20:55.480 --> 00:21:00.600
+book. Amazon has publicly said that this
+
+00:20:58.360 --> 00:21:02.480
+is just for their own internal data.
+
+00:21:00.600 --> 00:21:04.520
+They don't release this publicly and
+
+00:21:02.480 --> 00:21:07.240
+they don't penalize books that are AI
+
+00:21:04.520 --> 00:21:09.920
+written. So I think it would be wise to
+
+00:21:07.240 --> 00:21:12.040
+disclose honestly here. Then I scrolled
+
+00:21:09.920 --> 00:21:13.960
+down to accessibility, disclosed I
+
+00:21:12.040 --> 00:21:16.400
+wasn't quite sure on how accessible my
+
+00:21:13.960 --> 00:21:18.280
+book was, which was fine. Then I went
+
+00:21:16.400 --> 00:21:20.200
+over to the next page, pricing. I
+
+00:21:18.280 --> 00:21:22.280
+enrolled in the Kindle Select program,
+
+00:21:20.200 --> 00:21:25.000
+and I chose to have a higher 70%
+
+00:21:22.280 --> 00:21:26.800
+royalty, which is what most authors do.
+
+00:21:25.000 --> 00:21:29.800
+For that, your book needs to be priced
+
+00:21:26.800 --> 00:21:32.240
+at at least $3. Most ebooks I see in
+
+00:21:29.800 --> 00:21:34.360
+this niche priced at around $5, so
+
+00:21:32.240 --> 00:21:35.960
+that's what I did, too. And then, that
+
+00:21:34.360 --> 00:21:38.400
+was it. The book was ready to either be
+
+00:21:35.960 --> 00:21:40.760
+published or, as I did, to save it as a
+
+00:21:38.400 --> 00:21:42.360
+draft ready to be published later. And
+
+00:21:40.760 --> 00:21:44.200
+check it out. While I did choose to
+
+00:21:42.360 --> 00:21:46.440
+break up the steps into little micro
+
+00:21:44.200 --> 00:21:49.320
+tasks spread out over multiple days,
+
+00:21:46.440 --> 00:21:52.040
+when I timed how long each task took,
+
+00:21:49.320 --> 00:21:54.640
+and ended it up, combined, it came out
+
+00:21:52.040 --> 00:21:58.040
+to just under 3 hours from start to
+
+00:21:54.640 --> 00:21:59.760
+finish. Very cool. So then, if you'd
+
+00:21:58.040 --> 00:22:02.040
+like to learn about other business ideas
+
+00:21:59.760 --> 00:22:03.600
+that people are starting with AI tools,
+
+00:22:02.040 --> 00:22:05.560
+be sure to watch my next video here on
+
+00:22:03.600 --> 00:22:08.080
+screen, and I will see you in the next
+
+00:22:05.560 --> 00:22:08.080
+video.
+

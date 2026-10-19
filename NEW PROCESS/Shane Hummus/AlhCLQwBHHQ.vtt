@@ -1,0 +1,1979 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.240
+Today, I'm going to be walking you
+
+00:00:01.240 --> 00:00:05.360
+through the 20 businesses with the
+
+00:00:03.240 --> 00:00:07.280
+highest first-year survival rates,
+
+00:00:05.360 --> 00:00:08.880
+counting it down from 20 all the way to
+
+00:00:07.280 --> 00:00:10.600
+number one. And I'm going to show you
+
+00:00:08.880 --> 00:00:12.200
+how to do this with Claude, because most
+
+00:00:10.600 --> 00:00:14.240
+people start businesses based on what
+
+00:00:12.200 --> 00:00:15.720
+sounds cool, and that is exactly why
+
+00:00:14.240 --> 00:00:16.840
+most people fail. Now, here's a stat
+
+00:00:15.720 --> 00:00:19.040
+that's going to mess with you, because
+
+00:00:16.840 --> 00:00:20.960
+about one in five new businesses fail in
+
+00:00:19.040 --> 00:00:23.600
+their first year. By year five, half are
+
+00:00:20.960 --> 00:00:25.280
+gone, and by year 10, only about 30% are
+
+00:00:23.600 --> 00:00:27.040
+left. But that number isn't the same
+
+00:00:25.280 --> 00:00:30.120
+across every business, because some
+
+00:00:27.040 --> 00:00:32.880
+businesses survive at 95%, while others
+
+00:00:30.120 --> 00:00:34.800
+fail at 70%. Same economy, same year,
+
+00:00:32.880 --> 00:00:36.400
+but a completely different outcome. And
+
+00:00:34.800 --> 00:00:38.840
+the difference isn't talent, it isn't
+
+00:00:36.400 --> 00:00:40.080
+luck, it's the type of business itself.
+
+00:00:38.840 --> 00:00:41.600
+And today, I'm going to count down the
+
+00:00:40.080 --> 00:00:43.680
+20 businesses with the highest
+
+00:00:41.600 --> 00:00:45.280
+first-year survival rates, from 20 all
+
+00:00:43.680 --> 00:00:47.560
+the way down to number one, with real
+
+00:00:45.280 --> 00:00:49.440
+data, real sources, and some facts about
+
+00:00:47.560 --> 00:00:50.520
+each one that'll genuinely surprise you.
+
+00:00:49.440 --> 00:00:52.320
+So, if you appreciate me making this
+
+00:00:50.520 --> 00:00:53.920
+type of content, let me know by gently
+
+00:00:52.320 --> 00:00:55.440
+tapping that like button, and let's jump
+
+00:00:53.920 --> 00:00:56.720
+into it right now. And by the way, all
+
+00:00:55.440 --> 00:00:57.760
+the free resources are going to be down
+
+00:00:56.720 --> 00:00:59.080
+the description in the pin comment
+
+00:00:57.760 --> 00:01:00.400
+below, so you can follow along. It
+
+00:00:59.080 --> 00:01:01.520
+should be the third link that you see in
+
+00:01:00.400 --> 00:01:02.920
+the description and the pin comment
+
+00:01:01.520 --> 00:01:03.960
+below. And before we count down, here's
+
+00:01:02.920 --> 00:01:06.240
+something that's going to make this
+
+00:01:03.960 --> 00:01:07.840
+whole video way more useful, because by
+
+00:01:06.240 --> 00:01:09.400
+the end, I'm going to show you a Claude
+
+00:01:07.840 --> 00:01:11.000
+skill that I built called the niche
+
+00:01:09.400 --> 00:01:12.720
+validator. You give it any business
+
+00:01:11.000 --> 00:01:14.680
+idea, whether it's one from this list or
+
+00:01:12.720 --> 00:01:16.400
+your own, and first it validates whether
+
+00:01:14.680 --> 00:01:18.000
+the idea is actually any good, and then
+
+00:01:16.400 --> 00:01:19.280
+it tells you exactly how to start it.
+
+00:01:18.000 --> 00:01:20.400
+And I'm giving away the light version of
+
+00:01:19.280 --> 00:01:21.800
+this skill in the third link in the
+
+00:01:20.400 --> 00:01:23.520
+description and the pin comment below.
+
+00:01:21.800 --> 00:01:25.320
+And let me explain this business first
+
+00:01:23.520 --> 00:01:27.760
+before getting into how to utilize
+
+00:01:25.320 --> 00:01:30.040
+Claude for it. All right, number 20 is
+
+00:01:27.760 --> 00:01:32.280
+near and dear to my heart, because my
+
+00:01:30.040 --> 00:01:34.880
+own brother has this business, and that
+
+00:01:32.280 --> 00:01:37.840
+is an HVAC and plumbing services
+
+00:01:34.880 --> 00:01:40.000
+business. Now, this one has a 79%
+
+00:01:37.840 --> 00:01:42.200
+first-year survival rate, and the reason
+
+00:01:40.000 --> 00:01:44.280
+why they make money is pretty clear.
+
+00:01:42.200 --> 00:01:46.280
+When your AC dies in July, or your
+
+00:01:44.280 --> 00:01:47.800
+toilet floods at 2:00 a.m., or your
+
+00:01:46.280 --> 00:01:49.920
+heater goes out the night before
+
+00:01:47.800 --> 00:01:52.080
+Christmas, nobody is shopping around for
+
+00:01:49.920 --> 00:01:54.080
+the cheapest option. They're calling
+
+00:01:52.080 --> 00:01:55.920
+whoever can show up the fastest. And the
+
+00:01:54.080 --> 00:01:58.080
+average HVAC business owner clears
+
+00:01:55.920 --> 00:02:00.000
+$100,000
+
+00:01:58.080 --> 00:02:01.800
+a year. And plumbing companies often hit
+
+00:02:00.000 --> 00:02:03.240
+two hundred and fifty thousand dollars a
+
+00:02:01.800 --> 00:02:04.960
+year for owners. And the trades in
+
+00:02:03.240 --> 00:02:06.840
+general are facing a massive labor
+
+00:02:04.960 --> 00:02:08.800
+shortage. There will be over five
+
+00:02:06.840 --> 00:02:11.520
+hundred thousand unfilled trades jobs in
+
+00:02:08.800 --> 00:02:13.560
+the US by 2027. But the catch is you
+
+00:02:11.520 --> 00:02:15.480
+need licensing. Once you have it, the
+
+00:02:13.560 --> 00:02:17.200
+demand is essentially infinite. And
+
+00:02:15.480 --> 00:02:18.920
+yeah, this is what my brother Zach does.
+
+00:02:17.200 --> 00:02:21.400
+He opened up an HVAC business and he's
+
+00:02:18.920 --> 00:02:23.680
+had a lot of success with it. But it is
+
+00:02:21.400 --> 00:02:26.040
+hard work and many of the ones on this
+
+00:02:23.680 --> 00:02:28.720
+list are actually hard work. So although
+
+00:02:26.040 --> 00:02:30.640
+they may be simple to do, they are not
+
+00:02:28.720 --> 00:02:32.720
+easy to do. And by the way, my brother
+
+00:02:30.640 --> 00:02:34.240
+actually started a YouTube channel and
+
+00:02:32.720 --> 00:02:35.680
+he likes it a lot more than his HVAC
+
+00:02:34.240 --> 00:02:37.760
+business because of the fact that it
+
+00:02:35.680 --> 00:02:39.320
+gives him a lot of flexibility. See, if
+
+00:02:37.760 --> 00:02:41.120
+you have traffic, especially high
+
+00:02:39.320 --> 00:02:42.920
+quality traffic that comes from YouTube,
+
+00:02:41.120 --> 00:02:44.400
+you can make just about any business
+
+00:02:42.920 --> 00:02:45.840
+work and you can sell just about
+
+00:02:44.400 --> 00:02:47.920
+anything you want. All of these business
+
+00:02:45.840 --> 00:02:49.120
+models work, they just need traffic. And
+
+00:02:47.920 --> 00:02:50.920
+if you want to learn how to get traffic
+
+00:02:49.120 --> 00:02:52.400
+from YouTube, I have a completely free
+
+00:02:50.920 --> 00:02:54.520
+training that I'm going to be doing this
+
+00:02:52.400 --> 00:02:55.640
+week and it's all live as well. And you
+
+00:02:54.520 --> 00:02:56.920
+can check that out by clicking the link
+
+00:02:55.640 --> 00:03:00.000
+in the description and the pin comment
+
+00:02:56.920 --> 00:03:02.720
+below. All right, YouTube just got ten
+
+00:03:00.000 --> 00:03:05.400
+times easier and nobody is talking about
+
+00:03:02.720 --> 00:03:07.280
+it. You used to need an entire film crew
+
+00:03:05.400 --> 00:03:09.160
+and it used to be a full-time job for
+
+00:03:07.280 --> 00:03:11.160
+you to just do any work at all on
+
+00:03:09.160 --> 00:03:13.360
+YouTube. But now, you can get work done
+
+00:03:11.160 --> 00:03:15.160
+in as little as 15 to 30 minutes a day
+
+00:03:13.360 --> 00:03:17.160
+and you can actually grow a full-time
+
+00:03:15.160 --> 00:03:18.720
+YouTube channel. That's exactly what
+
+00:03:17.160 --> 00:03:20.840
+I'll be talking about at the live
+
+00:03:18.720 --> 00:03:22.440
+training that we're doing this week.
+
+00:03:20.840 --> 00:03:24.800
+Exactly how to start YouTube
+
+00:03:22.440 --> 00:03:25.720
+step-by-step for beginners. So click the
+
+00:03:24.800 --> 00:03:27.360
+link in the description and the pin
+
+00:03:25.720 --> 00:03:28.959
+comment below to check that out guys. I
+
+00:03:27.360 --> 00:03:30.600
+will be answering questions before,
+
+00:03:28.959 --> 00:03:32.959
+during and after the live training. It's
+
+00:03:30.600 --> 00:03:35.360
+completely free. Plus, I'll be giving
+
+00:03:32.959 --> 00:03:36.560
+away an AI that is designed to help you
+
+00:03:35.360 --> 00:03:38.000
+pick your niche if you don't have one in
+
+00:03:36.560 --> 00:03:39.640
+the first place or if you already have a
+
+00:03:38.000 --> 00:03:42.200
+niche, it's going to help you make it
+
+00:03:39.640 --> 00:03:43.400
+ten times better. So really looking
+
+00:03:42.200 --> 00:03:44.840
+forward to talking with you guys. This
+
+00:03:43.400 --> 00:03:46.000
+is stuff that we've never talked about
+
+00:03:44.840 --> 00:03:47.840
+before. So click that link in the
+
+00:03:46.000 --> 00:03:49.239
+description and comment below. I look
+
+00:03:47.840 --> 00:03:51.920
+forward to seeing you there. With that
+
+00:03:49.239 --> 00:03:54.120
+being said, number 19 is going to be
+
+00:03:51.920 --> 00:03:56.440
+cleaning services. And this one has an
+
+00:03:54.120 --> 00:03:57.760
+80% first-year survival rate. So,
+
+00:03:56.440 --> 00:04:00.560
+commercial and residential cleaning
+
+00:03:57.760 --> 00:04:02.200
+businesses survive year one at an 80%
+
+00:04:00.560 --> 00:04:03.680
+rate. And the startup cost is almost
+
+00:04:02.200 --> 00:04:05.600
+nothing. A few hundred bucks for
+
+00:04:03.680 --> 00:04:07.520
+supplies and you're operational. And the
+
+00:04:05.600 --> 00:04:10.959
+wild part is the average commercial
+
+00:04:07.520 --> 00:04:13.760
+cleaning contract pays 15 to $5,000 a
+
+00:04:10.959 --> 00:04:15.400
+month per client. So, land 10 clients
+
+00:04:13.760 --> 00:04:17.079
+and you're at half a million in annual
+
+00:04:15.400 --> 00:04:18.959
+revenue. Now, the big secret that nobody
+
+00:04:17.079 --> 00:04:21.200
+talks about is commercial cleaning is
+
+00:04:18.959 --> 00:04:22.840
+mostly night time work. Most owners
+
+00:04:21.200 --> 00:04:24.200
+build their business while keeping their
+
+00:04:22.840 --> 00:04:26.120
+day job. Then they transition to
+
+00:04:24.200 --> 00:04:27.360
+full-time once they hit six figures.
+
+00:04:26.120 --> 00:04:30.040
+Now, the cleaning industry is worth
+
+00:04:27.360 --> 00:04:31.840
+about $90 billion in the US alone. So,
+
+00:04:30.040 --> 00:04:33.919
+even a tiny slice of that can be
+
+00:04:31.840 --> 00:04:36.440
+life-changing. All right, next is lawn
+
+00:04:33.919 --> 00:04:39.120
+care and landscaping. And this one has
+
+00:04:36.440 --> 00:04:41.280
+an 80% first-year survival rate and it's
+
+00:04:39.120 --> 00:04:42.640
+one of the most underrated businesses in
+
+00:04:41.280 --> 00:04:44.240
+America. Now, here's a fact that
+
+00:04:42.640 --> 00:04:46.440
+surprised me. The average lawn care
+
+00:04:44.240 --> 00:04:49.720
+business with just one truck and one or
+
+00:04:46.440 --> 00:04:52.320
+two employees clears 5,000 to 15,000 a
+
+00:04:49.720 --> 00:04:53.919
+month in profit during the season. And
+
+00:04:52.320 --> 00:04:55.760
+the recurring revenue model is
+
+00:04:53.919 --> 00:04:57.640
+beautiful. Once you sign a customer for
+
+00:04:55.760 --> 00:04:59.600
+weekly mowing, they stay an average of
+
+00:04:57.640 --> 00:05:02.360
+four to seven years. That's $3 to
+
+00:04:59.600 --> 00:05:04.040
+$10,000 in lifetime value per customer.
+
+00:05:02.360 --> 00:05:06.040
+And the whole industry is worth over 130
+
+00:05:04.040 --> 00:05:07.320
+billion and it's growing at 4 to 5% a
+
+00:05:06.040 --> 00:05:09.040
+year. And there's also a massive
+
+00:05:07.320 --> 00:05:11.760
+opportunity in commercial contracts,
+
+00:05:09.040 --> 00:05:13.720
+HOAs, office parks, apartment complexes,
+
+00:05:11.760 --> 00:05:15.400
+etc. which typically pay three times
+
+00:05:13.720 --> 00:05:17.520
+more than what residential pays. So,
+
+00:05:15.400 --> 00:05:19.400
+it's boring, it's profitable, and it's
+
+00:05:17.520 --> 00:05:21.919
+almost impossible to offshore. Plus, it
+
+00:05:19.400 --> 00:05:25.160
+has a very high survival rate. number 17
+
+00:05:21.919 --> 00:05:26.880
+is restaurants. This one has an 80.9%
+
+00:05:25.160 --> 00:05:27.840
+first-year survival rate. Now, hold on.
+
+00:05:26.880 --> 00:05:30.240
+I know what you're thinking.
+
+00:05:27.840 --> 00:05:32.640
+Restaurants? Don't 90% of restaurants
+
+00:05:30.240 --> 00:05:34.960
+fail in year one? Well, that's a myth.
+
+00:05:32.640 --> 00:05:38.200
+The actual first-year survival rate is
+
+00:05:34.960 --> 00:05:40.800
+80.9%. The 90% failure stat came from a
+
+00:05:38.200 --> 00:05:42.120
+TV commercial in the 2000s. But real
+
+00:05:40.800 --> 00:05:45.640
+research from the Bureau of Labor
+
+00:05:42.120 --> 00:05:47.400
+Statistic and UC Berkeley found only 17%
+
+00:05:45.640 --> 00:05:48.840
+of restaurants fail in their first year,
+
+00:05:47.400 --> 00:05:50.880
+which is better than the average for
+
+00:05:48.840 --> 00:05:53.320
+even service businesses. Now, the US has
+
+00:05:50.880 --> 00:05:55.120
+over 1 million restaurants and Americans
+
+00:05:53.320 --> 00:05:57.320
+now spend more eating out than on
+
+00:05:55.120 --> 00:06:00.040
+groceries. And fast casual is where the
+
+00:05:57.320 --> 00:06:02.280
+action is. Chipotle, Cava, Sweetgreen
+
+00:06:00.040 --> 00:06:03.960
+are growing three times faster than
+
+00:06:02.280 --> 00:06:05.720
+traditional restaurants. It's a lower
+
+00:06:03.960 --> 00:06:07.440
+overhead than fine dining, and it's
+
+00:06:05.720 --> 00:06:09.120
+higher margins than fast food. It's
+
+00:06:07.440 --> 00:06:10.600
+basically that middle ground sweet spot.
+
+00:06:09.120 --> 00:06:12.320
+And restaurants don't fail because
+
+00:06:10.600 --> 00:06:15.040
+they're restaurants, they fail because
+
+00:06:12.320 --> 00:06:16.680
+of bad location, bad concept, or under
+
+00:06:15.040 --> 00:06:19.320
+capitalization. All right, next one is
+
+00:06:16.680 --> 00:06:21.680
+going to be senior care or in-home care.
+
+00:06:19.320 --> 00:06:23.160
+And this one has an 81% first-year
+
+00:06:21.680 --> 00:06:24.640
+survival rate. And it's one of the
+
+00:06:23.160 --> 00:06:26.680
+biggest opportunities over the next
+
+00:06:24.640 --> 00:06:30.320
+decade. Now, every single day in the US,
+
+00:06:26.680 --> 00:06:32.680
+10,000 people turn 65. And by 2030, one
+
+00:06:30.320 --> 00:06:35.040
+in five Americans will be over 65. And
+
+00:06:32.680 --> 00:06:37.360
+90% of seniors say that they want to age
+
+00:06:35.040 --> 00:06:38.960
+in their own home, not in a facility.
+
+00:06:37.360 --> 00:06:40.760
+And that's why in-home care is
+
+00:06:38.960 --> 00:06:44.080
+exploding. And the average in-home care
+
+00:06:40.760 --> 00:06:45.680
+agency makes about 75 to $130,000 a
+
+00:06:44.080 --> 00:06:48.480
+year. And the industry is projected to
+
+00:06:45.680 --> 00:06:50.200
+grow 924%
+
+00:06:48.480 --> 00:06:52.400
+over the next decade, making it the
+
+00:06:50.200 --> 00:06:53.680
+fastest-growing sector in the entire US
+
+00:06:52.400 --> 00:06:55.400
+economy. So, you're not selling a
+
+00:06:53.680 --> 00:06:57.240
+product, you're solving a problem that
+
+00:06:55.400 --> 00:06:58.600
+gets bigger every single day. All right,
+
+00:06:57.240 --> 00:07:01.080
+next is insurance agencies, and they
+
+00:06:58.600 --> 00:07:02.440
+have an 82% first-year survival rate.
+
+00:07:01.080 --> 00:07:04.120
+So, they're one of the most profitable
+
+00:07:02.440 --> 00:07:06.880
+small businesses in America. And here's
+
+00:07:04.120 --> 00:07:09.320
+why: recurring revenue forever. When you
+
+00:07:06.880 --> 00:07:11.200
+sell an insurance policy, you don't just
+
+00:07:09.320 --> 00:07:13.240
+get paid once, you get a commission
+
+00:07:11.200 --> 00:07:15.200
+every single time that customer renews.
+
+00:07:13.240 --> 00:07:17.840
+And the average insurance agency has an
+
+00:07:15.200 --> 00:07:19.440
+88% retention rate, which means once you
+
+00:07:17.840 --> 00:07:21.440
+write a policy, you're collecting
+
+00:07:19.440 --> 00:07:23.040
+commissions on it for years. And the
+
+00:07:21.440 --> 00:07:26.040
+average independent insurance agency
+
+00:07:23.040 --> 00:07:28.919
+owner makes 90 to $150,000 a year. And
+
+00:07:26.040 --> 00:07:31.160
+the top 10% clear 400,000. And the best
+
+00:07:28.919 --> 00:07:33.240
+part is there's almost no inventory, no
+
+00:07:31.160 --> 00:07:35.280
+physical products, and low overhead. You
+
+00:07:33.240 --> 00:07:37.480
+can run an agency from a small office or
+
+00:07:35.280 --> 00:07:40.240
+even from home. Okay, last-mile delivery
+
+00:07:37.480 --> 00:07:42.240
+services have an 82% first-year survival
+
+00:07:40.240 --> 00:07:43.960
+rate. Amazon alone delivers over 5
+
+00:07:42.240 --> 00:07:45.640
+billion packages a year through its
+
+00:07:43.960 --> 00:07:47.000
+delivery service partner program and
+
+00:07:45.640 --> 00:07:48.400
+they literally help you start a delivery
+
+00:07:47.000 --> 00:07:51.000
+business. They give you the routes, the
+
+00:07:48.400 --> 00:07:52.800
+volume, even up to $10,000 to help you
+
+00:07:51.000 --> 00:07:55.360
+start. Why are they so eager? E-commerce
+
+00:07:52.800 --> 00:07:57.600
+is now over 16% of all US retail sales
+
+00:07:55.360 --> 00:07:59.400
+up from less than 5% a decade ago. Now,
+
+00:07:57.600 --> 00:08:01.040
+the catch is this is a labor-heavy
+
+00:07:59.400 --> 00:08:02.640
+business. You're managing humans and
+
+00:08:01.040 --> 00:08:04.120
+vans and that's where most owners
+
+00:08:02.640 --> 00:08:05.880
+struggle. But, if you can manage people,
+
+00:08:04.120 --> 00:08:08.200
+the demand is essentially infinite. All
+
+00:08:05.880 --> 00:08:09.800
+right, pest control has an 82%
+
+00:08:08.200 --> 00:08:11.880
+first-year survival rate and it's one of
+
+00:08:09.800 --> 00:08:13.600
+the most recession-proof businesses on
+
+00:08:11.880 --> 00:08:16.440
+this list. And here's the magic,
+
+00:08:13.600 --> 00:08:18.360
+recurring service contracts. Customers
+
+00:08:16.440 --> 00:08:20.400
+don't just get pest control once, they
+
+00:08:18.360 --> 00:08:22.919
+get it every quarter forever. And the
+
+00:08:20.400 --> 00:08:24.560
+average customer pays $50 to $100 a
+
+00:08:22.919 --> 00:08:26.680
+month and once they sign up, they
+
+00:08:24.560 --> 00:08:28.880
+typically stay for 5-plus years on
+
+00:08:26.680 --> 00:08:30.360
+average. So, you sign 200 customers at
+
+00:08:28.880 --> 00:08:32.159
+$80 a month and you're looking at
+
+00:08:30.360 --> 00:08:33.760
+$192,000
+
+00:08:32.159 --> 00:08:36.039
+a year in recurring revenue. And the
+
+00:08:33.760 --> 00:08:38.479
+industry is worth 25 billion and growing
+
+00:08:36.039 --> 00:08:40.560
+at 5% per year. And climate change is
+
+00:08:38.479 --> 00:08:43.039
+making things worse. Termite damage
+
+00:08:40.560 --> 00:08:45.360
+costs Americans $5 billion a year. Now,
+
+00:08:43.039 --> 00:08:47.080
+is it boring? Absolutely. But, it's the
+
+00:08:45.360 --> 00:08:49.520
+kind of boring that builds wealth. Auto
+
+00:08:47.080 --> 00:08:51.720
+repair shops have an 83% first-year
+
+00:08:49.520 --> 00:08:54.400
+survival rate and here's why. Americans
+
+00:08:51.720 --> 00:08:56.280
+drive 3.2 trillion miles a year and the
+
+00:08:54.400 --> 00:08:58.240
+average car on the road is now over 12
+
+00:08:56.280 --> 00:09:00.080
+years old. That is the highest it's ever
+
+00:08:58.240 --> 00:09:01.839
+been. Older cars need more repairs and
+
+00:09:00.080 --> 00:09:03.560
+more repairs means more revenue. And the
+
+00:09:01.839 --> 00:09:06.320
+average independent auto repair shop
+
+00:09:03.560 --> 00:09:08.920
+generates $500,000 to a million dollars
+
+00:09:06.320 --> 00:09:10.839
+in annual revenue with 15 to 30% net
+
+00:09:08.920 --> 00:09:13.720
+margins. So, owners typically take home
+
+00:09:10.839 --> 00:09:15.400
+between 80 to $200,000 a year in profit.
+
+00:09:13.720 --> 00:09:17.240
+And even with EVs growing, traditional
+
+00:09:15.400 --> 00:09:19.880
+auto repair is not going anywhere. There
+
+00:09:17.240 --> 00:09:21.640
+are still 280 million gas-powered cars
+
+00:09:19.880 --> 00:09:23.440
+on US roads and they all need
+
+00:09:21.640 --> 00:09:25.800
+maintenance for the next 20 years. And
+
+00:09:23.440 --> 00:09:27.280
+even if EVs do take over, well, guess
+
+00:09:25.800 --> 00:09:28.839
+what? Someone's going to need to repair
+
+00:09:27.280 --> 00:09:31.480
+those as well. Okay, real estate
+
+00:09:28.839 --> 00:09:33.040
+brokerages have an 83.9%
+
+00:09:31.480 --> 00:09:36.040
+first-year survival rate. The average
+
+00:09:33.040 --> 00:09:39.080
+real estate agent makes $54,000 a year,
+
+00:09:36.040 --> 00:09:41.760
+but the top 10% make over 200,000 and
+
+00:09:39.080 --> 00:09:43.920
+the top 1% make seven figures. Why is
+
+00:09:41.760 --> 00:09:46.040
+this? Well, it's commission-based, no
+
+00:09:43.920 --> 00:09:47.280
+inventory, no real overhead, and all you
+
+00:09:46.040 --> 00:09:49.160
+need is a laptop, a phone, and a
+
+00:09:47.280 --> 00:09:52.440
+license. Now, here's a surprising fact.
+
+00:09:49.160 --> 00:09:53.800
+The average American moves 11.7 times in
+
+00:09:52.440 --> 00:09:55.840
+their lifetime. Every move is a
+
+00:09:53.800 --> 00:09:57.560
+transaction, and every transaction is a
+
+00:09:55.840 --> 00:09:59.400
+commission, and that means they make
+
+00:09:57.560 --> 00:10:01.600
+significantly more than the agents
+
+00:09:59.400 --> 00:10:04.360
+themselves. That's the play. Everyone
+
+00:10:01.600 --> 00:10:08.080
+says that retail is dying. The data says
+
+00:10:04.360 --> 00:10:10.000
+otherwise. Specialty retail has an 84.2%
+
+00:10:08.080 --> 00:10:12.040
+first-year survival rate. Big-box retail
+
+00:10:10.000 --> 00:10:13.320
+is dying, and specialty retail is
+
+00:10:12.040 --> 00:10:16.600
+thriving. For instance, independent
+
+00:10:13.320 --> 00:10:19.040
+bookstores have grown 49% since 2009.
+
+00:10:16.600 --> 00:10:21.480
+Yes, even with Amazon, specialty pet
+
+00:10:19.040 --> 00:10:23.440
+stores, hobby shops, and craft stores
+
+00:10:21.480 --> 00:10:25.280
+are all up. And typically, the types of
+
+00:10:23.440 --> 00:10:26.800
+stores that do really well here are ones
+
+00:10:25.280 --> 00:10:28.920
+where you have a good time when you can
+
+00:10:26.800 --> 00:10:30.440
+actually go in person and shop. Now,
+
+00:10:28.920 --> 00:10:33.120
+here's a fact that surprises everyone.
+
+00:10:30.440 --> 00:10:35.640
+Americans still do 84% of their shopping
+
+00:10:33.120 --> 00:10:37.520
+in physical stores. Online is still only
+
+00:10:35.640 --> 00:10:39.200
+16% of total retail, and
+
+00:10:37.520 --> 00:10:40.880
+brick-and-mortar is five times bigger
+
+00:10:39.200 --> 00:10:42.680
+than online. So, the play isn't
+
+00:10:40.880 --> 00:10:44.520
+competing with Amazon, it's being the
+
+00:10:42.680 --> 00:10:46.280
+place that Amazon can't be. Because
+
+00:10:44.520 --> 00:10:47.880
+let's be honest, you probably want to
+
+00:10:46.280 --> 00:10:49.520
+check certain things out before you
+
+00:10:47.880 --> 00:10:51.000
+actually buy them. And when you go in
+
+00:10:49.520 --> 00:10:52.600
+person, you can hold it in your hands,
+
+00:10:51.000 --> 00:10:54.480
+you can see it in real life, and you can
+
+00:10:52.600 --> 00:10:55.800
+make a more informed buying decision.
+
+00:10:54.480 --> 00:10:57.520
+All right, coming in at number nine,
+
+00:10:55.800 --> 00:10:59.160
+accounting firms have one of the highest
+
+00:10:57.520 --> 00:11:02.240
+survival rates of any business, which is
+
+00:10:59.160 --> 00:11:04.760
+85%. And here's why they win. Taxes
+
+00:11:02.240 --> 00:11:06.760
+don't go away. Ever. Every business and
+
+00:11:04.760 --> 00:11:08.800
+most individuals need accounting and
+
+00:11:06.760 --> 00:11:10.480
+bookkeeping every single year. And
+
+00:11:08.800 --> 00:11:12.080
+that's recurring revenue that is backed
+
+00:11:10.480 --> 00:11:15.080
+by federal law. And the average
+
+00:11:12.080 --> 00:11:16.600
+accounting firm has an 18.3% net profit
+
+00:11:15.080 --> 00:11:18.480
+margin, the highest of any small
+
+00:11:16.600 --> 00:11:21.240
+business category. And solo bookkeepers
+
+00:11:18.480 --> 00:11:23.600
+can make 60 to 100,000 dollars a year.
+
+00:11:21.240 --> 00:11:26.080
+CPAs running their own firms regularly
+
+00:11:23.600 --> 00:11:28.160
+clear 200 to 500,000. And the best part
+
+00:11:26.080 --> 00:11:30.120
+is it's location independent, and most
+
+00:11:28.160 --> 00:11:31.720
+modern bookkeeping is done remotely. So,
+
+00:11:30.120 --> 00:11:33.360
+you can run a six-figure firm from
+
+00:11:31.720 --> 00:11:35.400
+anywhere with Wi-Fi. And the barrier to
+
+00:11:33.360 --> 00:11:37.040
+entry is just credentials. But, once you
+
+00:11:35.400 --> 00:11:38.280
+have them, you have the license to print
+
+00:11:37.040 --> 00:11:40.520
+money. All right, this one is going to
+
+00:11:38.280 --> 00:11:43.440
+feel uncomfortable, but the data is
+
+00:11:40.520 --> 00:11:45.360
+data. Funeral homes have an 85%
+
+00:11:43.440 --> 00:11:47.480
+first-year survival rate and are one of
+
+00:11:45.360 --> 00:11:49.080
+the most stable businesses in America.
+
+00:11:47.480 --> 00:11:50.920
+Why? Well, it's the same reason as
+
+00:11:49.080 --> 00:11:52.360
+accounting being so good as well. The
+
+00:11:50.920 --> 00:11:54.400
+only two things you can depend on in
+
+00:11:52.360 --> 00:11:56.160
+life are death and taxes. And the
+
+00:11:54.400 --> 00:11:59.000
+average American funeral costs $7 to
+
+00:11:56.160 --> 00:12:00.640
+$12,000. And the industry is worth $20
+
+00:11:59.000 --> 00:12:02.640
+billion a year. And here's the wild
+
+00:12:00.640 --> 00:12:04.560
+part. Funeral homes are typically
+
+00:12:02.640 --> 00:12:06.880
+family-owned and passed down for
+
+00:12:04.560 --> 00:12:09.640
+generations. And many funeral homes are
+
+00:12:06.880 --> 00:12:11.240
+50, 75, even 100-plus years old. And
+
+00:12:09.640 --> 00:12:12.800
+they're some of the longest-surviving
+
+00:12:11.240 --> 00:12:14.080
+businesses in America. And it's not a
+
+00:12:12.800 --> 00:12:15.520
+business that everyone can do
+
+00:12:14.080 --> 00:12:17.720
+emotionally. But, for the people who
+
+00:12:15.520 --> 00:12:19.480
+can, it's about as recession-proof as it
+
+00:12:17.720 --> 00:12:21.800
+gets. All right, coming in at number
+
+00:12:19.480 --> 00:12:23.720
+seven, healthcare and social assistance
+
+00:12:21.800 --> 00:12:27.760
+has the highest first-year survival
+
+00:12:23.720 --> 00:12:29.440
+rates of any major BLS industry at 85%.
+
+00:12:27.760 --> 00:12:31.120
+And that includes dental practices,
+
+00:12:29.440 --> 00:12:33.120
+veterinary clinics, physical therapy
+
+00:12:31.120 --> 00:12:35.440
+offices, chiropractic clinics, and
+
+00:12:33.120 --> 00:12:37.600
+optometry practices. Now, why is it so
+
+00:12:35.440 --> 00:12:39.839
+high? Well, heavy regulation creates
+
+00:12:37.600 --> 00:12:41.880
+massive barriers to entry. So, to open a
+
+00:12:39.839 --> 00:12:45.000
+dental practice, you need a doctorate,
+
+00:12:41.880 --> 00:12:46.400
+state licensing, and roughly $500,000 in
+
+00:12:45.000 --> 00:12:48.040
+startup capital. And that keeps
+
+00:12:46.400 --> 00:12:49.560
+competitors out. Now, some specific
+
+00:12:48.040 --> 00:12:52.040
+numbers. The average dental practice
+
+00:12:49.560 --> 00:12:53.680
+owner clears about $237,000
+
+00:12:52.040 --> 00:12:56.080
+a year. Veterinarians who own their own
+
+00:12:53.680 --> 00:12:57.760
+clinics average around 150,000. And
+
+00:12:56.080 --> 00:12:59.440
+physical therapy clinic owners can hit
+
+00:12:57.760 --> 00:13:01.200
+250,000-plus.
+
+00:12:59.440 --> 00:13:03.600
+Oh, and pet ownership has absolutely
+
+00:13:01.200 --> 00:13:05.800
+exploded. 70% of US households own a
+
+00:13:03.600 --> 00:13:08.520
+pet, and veterinary services are growing
+
+00:13:05.800 --> 00:13:09.960
+7% a year. People will skip a vacation,
+
+00:13:08.520 --> 00:13:12.120
+but they will not skip their kids'
+
+00:13:09.960 --> 00:13:13.839
+surgery or their dogs' checkup. Okay,
+
+00:13:12.120 --> 00:13:16.960
+this one's going to surprise everyone.
+
+00:13:13.839 --> 00:13:20.440
+Agriculture has an 87.5%
+
+00:13:16.960 --> 00:13:22.040
+first-year survival rate and a 50.5%
+
+00:13:20.440 --> 00:13:24.960
+10-year survival rate, which is the
+
+00:13:22.040 --> 00:13:26.560
+highest in the entire BLS data set. But,
+
+00:13:24.960 --> 00:13:29.000
+we're not talking about giant commodity
+
+00:13:26.560 --> 00:13:31.720
+farms. The big growth is in specialty
+
+00:13:29.000 --> 00:13:33.760
+agriculture like mushrooms, microgreens,
+
+00:13:31.720 --> 00:13:35.880
+honey, specialty livestock, and
+
+00:13:33.760 --> 00:13:37.720
+hydroponics. Microgreens can sell for up
+
+00:13:35.880 --> 00:13:40.040
+to $50 per pound, and you can grow them
+
+00:13:37.720 --> 00:13:42.800
+in a 200 square foot space. Some indoor
+
+00:13:40.040 --> 00:13:44.240
+microgreen farms net $100,000 a year,
+
+00:13:42.800 --> 00:13:46.080
+and they're operating out of a basement.
+
+00:13:44.240 --> 00:13:48.560
+Beekeeping is another sleeper. A single
+
+00:13:46.080 --> 00:13:50.600
+beehive produces 60 lb of honey a year,
+
+00:13:48.560 --> 00:13:53.240
+and premium raw honey can sell for $15
+
+00:13:50.600 --> 00:13:56.000
+to $25 a pound. So, why does agriculture
+
+00:13:53.240 --> 00:13:58.200
+win long-term? Well, land appreciates,
+
+00:13:56.000 --> 00:14:00.280
+equipment lasts decades, and demand for
+
+00:13:58.200 --> 00:14:01.760
+food never goes to zero. Plus, many of
+
+00:14:00.280 --> 00:14:03.320
+these types of businesses are often
+
+00:14:01.760 --> 00:14:05.160
+subsidized by the government, which
+
+00:14:03.320 --> 00:14:06.560
+means even if you're not profitable, the
+
+00:14:05.160 --> 00:14:08.880
+government will help you out. All right,
+
+00:14:06.560 --> 00:14:11.680
+coming in at number five, we are now
+
+00:14:08.880 --> 00:14:14.880
+entering the elite tier, and ATM route
+
+00:14:11.680 --> 00:14:16.800
+businesses have an 88% success rate. So,
+
+00:14:14.880 --> 00:14:18.560
+here's how it works. You buy ATM
+
+00:14:16.800 --> 00:14:21.000
+machines, place them in high-traffic
+
+00:14:18.560 --> 00:14:23.160
+locations, and you earn a fee every time
+
+00:14:21.000 --> 00:14:25.160
+someone withdraws cash. So, roughly $2
+
+00:14:23.160 --> 00:14:27.120
+to $3 per transaction. And a single
+
+00:14:25.160 --> 00:14:29.120
+well-placed ATM does 200 to 600
+
+00:14:27.120 --> 00:14:31.760
+transactions a month. That's $400 to
+
+00:14:29.120 --> 00:14:33.760
+$1,800 per machine per month in pure
+
+00:14:31.760 --> 00:14:36.600
+profit. And a used ATM costs around
+
+00:14:33.760 --> 00:14:39.320
+$2,000 to $3,000. New ones run $4,000 to
+
+00:14:36.600 --> 00:14:42.240
+$8,000. So, the math works fast. On 20
+
+00:14:39.320 --> 00:14:44.040
+ATMs averaging $700 each, and you're at
+
+00:14:42.240 --> 00:14:46.160
+$168,000
+
+00:14:44.040 --> 00:14:48.240
+a year in mostly passive income. And the
+
+00:14:46.160 --> 00:14:50.440
+wildest fact is despite everyone talking
+
+00:14:48.240 --> 00:14:52.040
+about having a cashless society, ATM
+
+00:14:50.440 --> 00:14:54.320
+withdrawals are actually still growing
+
+00:14:52.040 --> 00:14:56.560
+in convenience stores, bars, and tourist
+
+00:14:54.320 --> 00:14:58.839
+areas. So, cash is definitely not dying.
+
+00:14:56.560 --> 00:15:01.320
+Okay, so modern automated car washes
+
+00:14:58.839 --> 00:15:03.120
+have a 90% success rate, and they're one
+
+00:15:01.320 --> 00:15:04.680
+of the hottest investments in America
+
+00:15:03.120 --> 00:15:06.960
+right now. Private equity, for instance,
+
+00:15:04.680 --> 00:15:08.960
+have been buying up car washes at insane
+
+00:15:06.960 --> 00:15:11.440
+valuations, billions of dollars in just
+
+00:15:08.960 --> 00:15:13.800
+the last few years. Why? The unit
+
+00:15:11.440 --> 00:15:16.680
+economics are unreal. A single tunnel
+
+00:15:13.800 --> 00:15:19.600
+car wash generates $700,000 to $1.5
+
+00:15:16.680 --> 00:15:21.360
+million in annual revenue with 50 to 60%
+
+00:15:19.600 --> 00:15:23.880
+profit margins. That means owners are
+
+00:15:21.360 --> 00:15:25.520
+clearing 300 to 700,000 dollars per
+
+00:15:23.880 --> 00:15:27.200
+location. And the membership model
+
+00:15:25.520 --> 00:15:29.760
+changed everything. Most modern car
+
+00:15:27.200 --> 00:15:31.840
+washes sell unlimited monthly washes for
+
+00:15:29.760 --> 00:15:33.880
+20 to 40 dollars. So, once a customer
+
+00:15:31.840 --> 00:15:36.000
+subscribes, they stay an average of 7
+
+00:15:33.880 --> 00:15:37.520
+months. That's predictable recurring
+
+00:15:36.000 --> 00:15:39.760
+revenue. And the startup cost is the
+
+00:15:37.520 --> 00:15:41.640
+main barrier. A tunnel car wash costs 3
+
+00:15:39.760 --> 00:15:43.520
+to 7 million dollars to build, but the
+
+00:15:41.640 --> 00:15:45.080
+cash flow is unmatched. And there's a
+
+00:15:43.520 --> 00:15:47.160
+reason that every billionaire is
+
+00:15:45.080 --> 00:15:49.000
+suddenly buying car washes. All right,
+
+00:15:47.160 --> 00:15:51.000
+number three is going to be vending
+
+00:15:49.000 --> 00:15:52.960
+machine businesses. And these businesses
+
+00:15:51.000 --> 00:15:54.360
+have a 91%
+
+00:15:52.960 --> 00:15:56.000
+success rate. The vending machine
+
+00:15:54.360 --> 00:15:57.680
+industry is worth 60 billion dollars
+
+00:15:56.000 --> 00:16:00.360
+already, and they're projected to hit
+
+00:15:57.680 --> 00:16:03.200
+143 billion by the end of the decade.
+
+00:16:00.360 --> 00:16:05.080
+Now, why so successful? Well, almost no
+
+00:16:03.200 --> 00:16:07.240
+labor is required. A single vending
+
+00:16:05.080 --> 00:16:09.760
+route owner can manage 20 to 50 machines
+
+00:16:07.240 --> 00:16:12.200
+part-time. And each machine generates 75
+
+00:16:09.760 --> 00:16:14.440
+to 700 dollars a month in profit. And 20
+
+00:16:12.200 --> 00:16:16.800
+machines averaging 200 dollars each is
+
+00:16:14.440 --> 00:16:18.280
+48,000 dollars a year in passive-ish
+
+00:16:16.800 --> 00:16:20.320
+income. And the startup cost is
+
+00:16:18.280 --> 00:16:22.960
+shockingly low. A used vending machine
+
+00:16:20.320 --> 00:16:24.240
+can cost 1,500 to 3,000 dollars. A new
+
+00:16:22.960 --> 00:16:26.560
+one with card readers is going to be
+
+00:16:24.240 --> 00:16:28.560
+about 5 to 8,000. And the wildest fact
+
+00:16:26.560 --> 00:16:30.880
+is that Japan has more vending machines
+
+00:16:28.560 --> 00:16:32.720
+per capita than any country on Earth,
+
+00:16:30.880 --> 00:16:34.680
+with one machine for every 23 people.
+
+00:16:32.720 --> 00:16:36.560
+And they sell everything. Fresh eggs,
+
+00:16:34.680 --> 00:16:38.280
+hot ramen, designer clothes, even
+
+00:16:36.560 --> 00:16:40.080
+umbrellas. And when I saw some of these
+
+00:16:38.280 --> 00:16:41.440
+vending machines in Japan, I was really
+
+00:16:40.080 --> 00:16:42.920
+impressed. And I'm telling you right
+
+00:16:41.440 --> 00:16:45.400
+now, that is going to be the future.
+
+00:16:42.920 --> 00:16:47.800
+However, the US has only one machine per
+
+00:16:45.400 --> 00:16:49.839
+40 people, so it has massive room to
+
+00:16:47.800 --> 00:16:52.200
+grow. All right, self-storage is one of
+
+00:16:49.839 --> 00:16:54.720
+the best-kept secrets in business. It
+
+00:16:52.200 --> 00:16:57.839
+has a 92% success rate, and it has a
+
+00:16:54.720 --> 00:17:00.520
+national average occupancy of 92%. And
+
+00:16:57.839 --> 00:17:02.400
+the industry is worth 39.5 billion and
+
+00:17:00.520 --> 00:17:04.600
+growing. Now, here's what blew my mind.
+
+00:17:02.400 --> 00:17:07.439
+More than one in 10 American households
+
+00:17:04.600 --> 00:17:09.160
+rent a self-storage unit. That's over 13
+
+00:17:07.439 --> 00:17:11.439
+million households paying an average of
+
+00:17:09.160 --> 00:17:14.199
+110 dollars a month for space they
+
+00:17:11.439 --> 00:17:16.000
+barely use. Now, why does it work? Well,
+
+00:17:14.199 --> 00:17:18.079
+once a customer rents a unit, they
+
+00:17:16.000 --> 00:17:20.640
+almost never leave. And the average
+
+00:17:18.079 --> 00:17:22.360
+tenant stays for 14 months. People hate
+
+00:17:20.640 --> 00:17:24.520
+moving their stuff. So, the startup cost
+
+00:17:22.360 --> 00:17:26.280
+here is $200,000
+
+00:17:24.520 --> 00:17:28.360
+to $500,000 for a small to mid facility.
+
+00:17:26.280 --> 00:17:30.200
+But, banks love self-storage. They
+
+00:17:28.360 --> 00:17:31.960
+consider it the lowest risk commercial
+
+00:17:30.200 --> 00:17:34.080
+real estate loan you can get. So, you
+
+00:17:31.960 --> 00:17:36.000
+can earn monthly cash flow and build
+
+00:17:34.080 --> 00:17:37.600
+equity in appreciating real estate at
+
+00:17:36.000 --> 00:17:39.600
+the same time. And self-storage
+
+00:17:37.600 --> 00:17:41.480
+millionaires are quietly everywhere.
+
+00:17:39.600 --> 00:17:42.960
+Storage just isn't sexy enough to make
+
+00:17:41.480 --> 00:17:44.240
+the headlines. All right, so before I
+
+00:17:42.960 --> 00:17:46.720
+reveal the single most successful
+
+00:17:44.240 --> 00:17:48.960
+business, want to say again that posting
+
+00:17:46.720 --> 00:17:50.560
+on social media is a free way to get
+
+00:17:48.960 --> 00:17:52.000
+traffic. And if you want to learn how to
+
+00:17:50.560 --> 00:17:53.600
+actually get traffic with YouTube so
+
+00:17:52.000 --> 00:17:55.400
+that you can make these businesses or
+
+00:17:53.600 --> 00:17:56.920
+any other business out there work, then
+
+00:17:55.400 --> 00:17:58.400
+go ahead and attend my live training by
+
+00:17:56.920 --> 00:18:00.400
+clicking the link in the description and
+
+00:17:58.400 --> 00:18:01.520
+the pin comment below this week. And on
+
+00:18:00.400 --> 00:18:03.560
+this live training, I'll actually be
+
+00:18:01.520 --> 00:18:04.880
+giving away an AI that helps you to pick
+
+00:18:03.560 --> 00:18:06.200
+your niche. So, if that's something
+
+00:18:04.880 --> 00:18:07.640
+you've been wondering about, like what
+
+00:18:06.200 --> 00:18:09.120
+niche should you pick or what way should
+
+00:18:07.640 --> 00:18:10.800
+you monetize your channel, then
+
+00:18:09.120 --> 00:18:11.800
+definitely attend it. Do not miss out.
+
+00:18:10.800 --> 00:18:13.080
+Click that link in the description and
+
+00:18:11.800 --> 00:18:14.520
+the pin comment below, and I look
+
+00:18:13.080 --> 00:18:16.040
+forward to seeing you there. And also,
+
+00:18:14.520 --> 00:18:17.960
+I'll answer any question that you have.
+
+00:18:16.040 --> 00:18:20.040
+With that being said, the number one
+
+00:18:17.960 --> 00:18:23.000
+most successful business in America by
+
+00:18:20.040 --> 00:18:26.000
+survival rate is the laundromat. It has
+
+00:18:23.000 --> 00:18:28.320
+a 95% success rate, which is the highest
+
+00:18:26.000 --> 00:18:31.120
+of any small business type tracked. And
+
+00:18:28.320 --> 00:18:33.720
+the reason is brutally simple. People
+
+00:18:31.120 --> 00:18:36.040
+always need clean clothes. Recession,
+
+00:18:33.720 --> 00:18:38.600
+pandemic, AI revolution, doesn't really
+
+00:18:36.040 --> 00:18:39.960
+matter. Laundry has to get done either
+
+00:18:38.600 --> 00:18:41.680
+way. And here's the part that'll
+
+00:18:39.960 --> 00:18:44.680
+surprise you. Laundromats generate
+
+00:18:41.680 --> 00:18:47.680
+$200,000 to $1 million in annual revenue
+
+00:18:44.680 --> 00:18:49.800
+with 20% to 35% profit margins. So, a
+
+00:18:47.680 --> 00:18:51.480
+single well-located laundromat can clear
+
+00:18:49.800 --> 00:18:53.400
+$100,000
+
+00:18:51.480 --> 00:18:55.840
+a year. And the labor requirement is
+
+00:18:53.400 --> 00:18:57.560
+almost zero. Many laundromats are
+
+00:18:55.840 --> 00:18:59.240
+unmanned, with just a maintenance person
+
+00:18:57.560 --> 00:19:01.280
+stopping by a few times a week. And
+
+00:18:59.240 --> 00:19:03.480
+modern laundromats are evolving. Wash
+
+00:19:01.280 --> 00:19:06.040
+and fold services, app payments, pick up
+
+00:19:03.480 --> 00:19:08.960
+and delivery, even cafes inside. And
+
+00:19:06.040 --> 00:19:12.000
+hybrid laundromats are clearing $400,000
+
+00:19:08.960 --> 00:19:14.800
+a year. And a wild fact is 35% of US
+
+00:19:12.000 --> 00:19:17.040
+households still don't own a washer or a
+
+00:19:14.800 --> 00:19:19.880
+dryer. So, the startup cost here is 200
+
+00:19:17.040 --> 00:19:21.720
+to 500,000 a year, but banks love them.
+
+00:19:19.880 --> 00:19:23.600
+Easy financing, predictable cash flow,
+
+00:19:21.720 --> 00:19:25.360
+and recession-proof demand. It's one of
+
+00:19:23.600 --> 00:19:27.480
+the boring businesses that quietly make
+
+00:19:25.360 --> 00:19:30.000
+the most millionaires. So, like I said
+
+00:19:27.480 --> 00:19:31.840
+before, my own brother owns an HVAC
+
+00:19:30.000 --> 00:19:33.360
+business. He had a lot of success with
+
+00:19:31.840 --> 00:19:34.920
+it, but when he started his YouTube
+
+00:19:33.360 --> 00:19:38.400
+channel, he actually was able to make it
+
+00:19:34.920 --> 00:19:40.680
+to $214 a day in a single month. It only
+
+00:19:38.400 --> 00:19:42.600
+took him 29 days to get there. Yet, the
+
+00:19:40.680 --> 00:19:45.000
+vast majority of people who try to have
+
+00:19:42.600 --> 00:19:46.880
+success on YouTube fail. Why? Because
+
+00:19:45.000 --> 00:19:47.960
+they don't have the right system. And
+
+00:19:46.880 --> 00:19:49.280
+that is why you should definitely be
+
+00:19:47.960 --> 00:19:50.680
+attending my live training cuz I'm going
+
+00:19:49.280 --> 00:19:51.800
+to be telling you what the right system
+
+00:19:50.680 --> 00:19:52.760
+is, and you can check that out by
+
+00:19:51.800 --> 00:19:54.200
+clicking the link in the description in
+
+00:19:52.760 --> 00:19:55.640
+the pin comment below. Okay, so I
+
+00:19:54.200 --> 00:19:57.480
+promised you the niche validated at the
+
+00:19:55.640 --> 00:19:58.920
+start, so let me show you how it works
+
+00:19:57.480 --> 00:20:00.560
+right now. And the best part is you can
+
+00:19:58.920 --> 00:20:02.240
+use it in any of the 20 businesses that
+
+00:20:00.560 --> 00:20:03.840
+we just covered or on a completely
+
+00:20:02.240 --> 00:20:05.000
+different business idea of your own. So,
+
+00:20:03.840 --> 00:20:06.880
+let's take one of the businesses from
+
+00:20:05.000 --> 00:20:08.320
+this list, say a vending machine
+
+00:20:06.880 --> 00:20:10.000
+business for instance. With this prompt
+
+00:20:08.320 --> 00:20:12.000
+right here, you simply give the niche
+
+00:20:10.000 --> 00:20:13.480
+validator the idea, and it does two
+
+00:20:12.000 --> 00:20:14.800
+things for you. First, it's going to
+
+00:20:13.480 --> 00:20:16.440
+validate whether it's actually a good
+
+00:20:14.800 --> 00:20:18.280
+idea. So, here's what it came up with,
+
+00:20:16.440 --> 00:20:19.760
+and so far, that's solid. Then, on top
+
+00:20:18.280 --> 00:20:21.640
+of that, it tells you exactly how to
+
+00:20:19.760 --> 00:20:23.440
+start it step-by-step. So, here's what
+
+00:20:21.640 --> 00:20:25.040
+it gave me for that. And so far, that's
+
+00:20:23.440 --> 00:20:26.280
+solid. So, instead of guessing whether a
+
+00:20:25.040 --> 00:20:28.000
+business is worth your time and then
+
+00:20:26.280 --> 00:20:29.640
+having no idea where to begin, Claude
+
+00:20:28.000 --> 00:20:31.160
+validates it and hands you the starting
+
+00:20:29.640 --> 00:20:33.120
+steps in about a minute. And like I
+
+00:20:31.160 --> 00:20:34.320
+said, I'm giving away this skill free in
+
+00:20:33.120 --> 00:20:35.600
+the third link in the description in the
+
+00:20:34.320 --> 00:20:37.160
+pin comment below, so click down there
+
+00:20:35.600 --> 00:20:38.480
+to check that out. So, there's a secret
+
+00:20:37.160 --> 00:20:40.840
+side of my business that most of you
+
+00:20:38.480 --> 00:20:42.800
+have no idea exists. And I actually have
+
+00:20:40.840 --> 00:20:44.560
+a coaching program on personal branding
+
+00:20:42.800 --> 00:20:45.840
+and growing on YouTube and making money
+
+00:20:44.560 --> 00:20:47.400
+on YouTube. This is good for complete
+
+00:20:45.840 --> 00:20:48.960
+beginners, maybe even people who just
+
+00:20:47.400 --> 00:20:50.560
+want to get a job by growing their
+
+00:20:48.960 --> 00:20:52.240
+personal brand, as well as business
+
+00:20:50.560 --> 00:20:54.160
+owners, all the way up to people who are
+
+00:20:52.240 --> 00:20:55.880
+very advanced on YouTube. And they get
+
+00:20:54.160 --> 00:20:57.880
+to work directly with myself and my team
+
+00:20:55.880 --> 00:20:59.600
+to help them reach their goals. Now, we
+
+00:20:57.880 --> 00:21:01.040
+are opening up three to five spots, and
+
+00:20:59.600 --> 00:21:02.760
+this is pretty rare. We usually don't
+
+00:21:01.040 --> 00:21:04.160
+have these open. We usually only limit
+
+00:21:02.760 --> 00:21:05.600
+them to a select amount of people as
+
+00:21:04.160 --> 00:21:07.240
+well, but we're opening up three to five
+
+00:21:05.600 --> 00:21:08.520
+spots, and you can check those down the
+
+00:21:07.240 --> 00:21:10.120
+description and the pinned comment
+
+00:21:08.520 --> 00:21:11.760
+below. And in this program, you will get
+
+00:21:10.120 --> 00:21:14.080
+to work directly with myself and other
+
+00:21:11.760 --> 00:21:15.440
+people who are highly successful on
+
+00:21:14.080 --> 00:21:17.600
+YouTube. Everyone in our program has
+
+00:21:15.440 --> 00:21:19.560
+100k plus subscriber plaques. Just as an
+
+00:21:17.600 --> 00:21:21.200
+example, Sean was able to go all the way
+
+00:21:19.560 --> 00:21:22.560
+from being stuck, not making very much
+
+00:21:21.200 --> 00:21:25.000
+money on his channel, to making over
+
+00:21:22.560 --> 00:21:26.240
+$500,000 in a single month. Now, that's
+
+00:21:25.000 --> 00:21:28.000
+an example of one of my more advanced
+
+00:21:26.240 --> 00:21:29.480
+students, but there are lots of examples
+
+00:21:28.000 --> 00:21:31.400
+of people starting off from scratch, and
+
+00:21:29.480 --> 00:21:32.920
+they got to 5k a month or 10k a month,
+
+00:21:31.400 --> 00:21:34.160
+etc. So, check that out down the
+
+00:21:32.920 --> 00:21:35.640
+description and the pinned comment
+
+00:21:34.160 --> 00:21:36.920
+below, and I look forward to working
+
+00:21:35.640 --> 00:21:38.200
+with you and see if you're a good fit to
+
+00:21:36.920 --> 00:21:39.640
+work together. And also, if you want to
+
+00:21:38.200 --> 00:21:40.920
+hear exactly how my brother grew his
+
+00:21:39.640 --> 00:21:43.960
+channel, you can check that out by
+
+00:21:40.920 --> 00:21:43.960
+clicking right here.
+

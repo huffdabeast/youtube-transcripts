@@ -1,0 +1,905 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.680
+220,000 views, $40,000 in sales from one
+
+00:00:03.120 --> 00:00:06.960
+single YouTube video, and all I had to
+
+00:00:04.680 --> 00:00:08.240
+do was record. But, how? In this video,
+
+00:00:06.960 --> 00:00:10.840
+I'm going to show you the exact Claude
+
+00:00:08.240 --> 00:00:12.760
+power process I used to ideate and
+
+00:00:10.840 --> 00:00:14.480
+script my video, my entire recording
+
+00:00:12.760 --> 00:00:16.520
+process, and the exact back-end [music]
+
+00:00:14.480 --> 00:00:18.760
+funnel that led me to convert my viewers
+
+00:00:16.520 --> 00:00:20.440
+into $40,000 in sales. As someone who
+
+00:00:18.760 --> 00:00:22.040
+has been creating content for the past 6
+
+00:00:20.440 --> 00:00:23.760
+years, there's nothing like [music] this
+
+00:00:22.040 --> 00:00:25.960
+on the internet cuz everyone likes to
+
+00:00:23.760 --> 00:00:27.480
+gatekeep. And I like to show everything.
+
+00:00:25.960 --> 00:00:29.240
+Before we go into the first part, which
+
+00:00:27.480 --> 00:00:31.680
+is ideation and scripting, there's a
+
+00:00:29.240 --> 00:00:33.840
+very important concept that you must
+
+00:00:31.680 --> 00:00:36.520
+understand as a business owner or
+
+00:00:33.840 --> 00:00:38.000
+founder, the game of YouTube. See, many
+
+00:00:36.520 --> 00:00:39.880
+people look at YouTube as a place of
+
+00:00:38.000 --> 00:00:41.320
+entertainment, funny videos, information
+
+00:00:39.880 --> 00:00:43.120
+videos as well, to be fair, and
+
+00:00:41.320 --> 00:00:44.720
+tutorials. But, what most people do not
+
+00:00:43.120 --> 00:00:46.880
+realize is that YouTube is one of the
+
+00:00:44.720 --> 00:00:48.880
+best sales funnels that exist. It is an
+
+00:00:46.880 --> 00:00:50.720
+evergreen marketing engine where every
+
+00:00:48.880 --> 00:00:53.120
+single video you post online has a
+
+00:00:50.720 --> 00:00:55.080
+potential to go viral and bring in tons
+
+00:00:53.120 --> 00:00:57.120
+of sales for your business. In fact, my
+
+00:00:55.080 --> 00:00:58.950
+viral video brought in over $40,000 in
+
+00:00:57.120 --> 00:01:00.640
+sales across three different businesses
+
+00:00:58.950 --> 00:01:02.360
+[music] of mine. Not just one, but
+
+00:01:00.640 --> 00:01:04.160
+three. Now, of course, there are people
+
+00:01:02.360 --> 00:01:05.760
+who do understand the marketing power of
+
+00:01:04.160 --> 00:01:07.080
+YouTube, but they just don't know how to
+
+00:01:05.760 --> 00:01:08.800
+create YouTube videos that actually
+
+00:01:07.080 --> 00:01:10.600
+convert their viewers into sales. Well,
+
+00:01:08.800 --> 00:01:12.680
+guess what? You no longer need to know.
+
+00:01:10.600 --> 00:01:14.080
+I'm going to show you now how to use AI
+
+00:01:12.680 --> 00:01:15.880
+to create your first evergreen,
+
+00:01:14.080 --> 00:01:17.360
+high-converting video for your business,
+
+00:01:15.880 --> 00:01:19.560
+even if you never created a YouTube
+
+00:01:17.360 --> 00:01:21.240
+video in your entire life. Now, here's
+
+00:01:19.560 --> 00:01:22.640
+the truth nobody wants to hear. The
+
+00:01:21.240 --> 00:01:24.080
+reason your videos flop isn't your
+
+00:01:22.640 --> 00:01:25.920
+editing, it isn't your camera, it's
+
+00:01:24.080 --> 00:01:28.160
+actually picking a bad idea before you
+
+00:01:25.920 --> 00:01:30.320
+ever hit record. And for those who have
+
+00:01:28.160 --> 00:01:32.080
+not even uploaded their first video, you
+
+00:01:30.320 --> 00:01:34.480
+most likely just don't know what to
+
+00:01:32.080 --> 00:01:36.286
+post. And that issue fixed, otherwise
+
+00:01:34.480 --> 00:01:38.600
+your business will suffer because you
+
+00:01:36.286 --> 00:01:40.560
+[music] can't out-edit a bad idea. I
+
+00:01:38.600 --> 00:01:42.320
+mean, a great idea with mediocre editing
+
+00:01:40.560 --> 00:01:44.840
+beats a mediocre idea with a great
+
+00:01:42.320 --> 00:01:47.680
+editing every single time. The idea is
+
+00:01:44.840 --> 00:01:49.680
+80% of the game. So, me being lazy, like
+
+00:01:47.680 --> 00:01:51.920
+you probably are too, I built a Claude
+
+00:01:49.680 --> 00:01:53.680
+skill called ideate, and here's exactly
+
+00:01:51.920 --> 00:01:55.800
+what it does. It analyzes the recent
+
+00:01:53.680 --> 00:01:57.840
+videos on my channel and on competitor
+
+00:01:55.800 --> 00:01:59.840
+channels in my exact niche. Then it
+
+00:01:57.840 --> 00:02:02.040
+calculates something called a view
+
+00:01:59.840 --> 00:02:03.960
+multiplier. Basically, how each video
+
+00:02:02.040 --> 00:02:06.160
+performs against that channel's average.
+
+00:02:03.960 --> 00:02:08.000
+A video with 5x a channel's normal views
+
+00:02:06.160 --> 00:02:09.920
+is in luck. It's a format that's working
+
+00:02:08.000 --> 00:02:12.000
+right now. Then Claude takes those
+
+00:02:09.920 --> 00:02:14.320
+winning formats and spits out a video
+
+00:02:12.000 --> 00:02:16.160
+ideas for me, already labeled by funnel
+
+00:02:14.320 --> 00:02:17.440
+stage. Top of the funnel for reach,
+
+00:02:16.160 --> 00:02:19.000
+middle of the funnel for trust, and
+
+00:02:17.440 --> 00:02:20.240
+bottom of the funnel for sales. So
+
+00:02:19.000 --> 00:02:22.280
+instead of guessing, I'm reverse
+
+00:02:20.240 --> 00:02:24.280
+engineering what's already proven to pop
+
+00:02:22.280 --> 00:02:26.200
+and bend it to my own angle. And that's
+
+00:02:24.280 --> 00:02:28.440
+the whole secret. Studying outliers,
+
+00:02:26.200 --> 00:02:30.240
+stealing the format, keeping your story.
+
+00:02:28.440 --> 00:02:32.200
+The $40,000 video came straight out of
+
+00:02:30.240 --> 00:02:33.926
+this process. The format was proven
+
+00:02:32.200 --> 00:02:35.959
+before I wrote a single word. And again,
+
+00:02:33.926 --> 00:02:37.480
+[music] the idea is everything. So stop
+
+00:02:35.959 --> 00:02:39.180
+obsessing over your camera, start
+
+00:02:37.480 --> 00:02:41.200
+studying outliers, videos that did
+
+00:02:39.180 --> 00:02:42.800
+[music] 5x a channel's average. That's
+
+00:02:41.200 --> 00:02:44.040
+not luck, that's a format that's working
+
+00:02:42.800 --> 00:02:45.200
+right now, which is why you want to
+
+00:02:44.040 --> 00:02:46.440
+steal it. I mean, you can literally
+
+00:02:45.200 --> 00:02:48.400
+record on your iPhone if you need to.
+
+00:02:46.440 --> 00:02:50.160
+You don't need a $1,000 camera. Now that
+
+00:02:48.400 --> 00:02:51.959
+you have the idea, please don't stop,
+
+00:02:50.160 --> 00:02:53.520
+cuz this is where 90% of people stop.
+
+00:02:51.959 --> 00:02:55.600
+Yes, you have your idea, which is great,
+
+00:02:53.520 --> 00:02:57.120
+but a lot of people don't want to write
+
+00:02:55.600 --> 00:02:59.320
+So instead, what they do is they use
+
+00:02:57.120 --> 00:03:01.840
+ChatGPT to write the script, and it
+
+00:02:59.320 --> 00:03:03.000
+sounds like pure garbage, because not
+
+00:03:01.840 --> 00:03:04.519
+trained on your voice. It doesn't know
+
+00:03:03.000 --> 00:03:06.280
+your numbers, your clients, or your
+
+00:03:04.519 --> 00:03:07.959
+story. So instead, what you have to do
+
+00:03:06.280 --> 00:03:10.400
+is you work with Claude and develop a
+
+00:03:07.959 --> 00:03:12.560
+second brain. This is a project stuffed
+
+00:03:10.400 --> 00:03:14.160
+with everything that makes me, me. Your
+
+00:03:12.560 --> 00:03:15.480
+second brain is literally your brain,
+
+00:03:14.160 --> 00:03:17.080
+the way you talk, your branding,
+
+00:03:15.480 --> 00:03:18.400
+everything, put into [music] Claude.
+
+00:03:17.080 --> 00:03:19.560
+Literally your second brain. And it's
+
+00:03:18.400 --> 00:03:20.640
+called your second for a reason, cuz
+
+00:03:19.560 --> 00:03:22.480
+it's your first brain, it's your second
+
+00:03:20.640 --> 00:03:24.760
+brain. My second brain has all my client
+
+00:03:22.480 --> 00:03:27.239
+wins, my mentee results, products I
+
+00:03:24.760 --> 00:03:28.920
+built, my my stock trading platform, my
+
+00:03:27.239 --> 00:03:30.560
+second brain for the roofing company I'm
+
+00:03:28.920 --> 00:03:31.680
+working with, all the solutions, all the
+
+00:03:30.560 --> 00:03:32.840
+voice AI solutions I've built, the
+
+00:03:31.680 --> 00:03:34.680
+automation I've built. It holds
+
+00:03:32.840 --> 00:03:37.120
+everything about me, my sales call
+
+00:03:34.680 --> 00:03:38.880
+transcripts, my call recordings, my
+
+00:03:37.120 --> 00:03:40.600
+meetings with my internal team,
+
+00:03:38.880 --> 00:03:42.120
+absolutely everything. And this is a
+
+00:03:40.600 --> 00:03:43.760
+difference between AI that sounds like
+
+00:03:42.120 --> 00:03:45.680
+AI and AI that sounds like you wrote it
+
+00:03:43.760 --> 00:03:48.000
+at 2:00 a.m. hyped up about your own
+
+00:03:45.680 --> 00:03:49.959
+idea. The second brain is what makes
+
+00:03:48.000 --> 00:03:53.000
+your voice you. It's what makes your
+
+00:03:49.959 --> 00:03:54.720
+content sound like you, be like you, and
+
+00:03:53.000 --> 00:03:56.520
+allows you to talk naturally on the
+
+00:03:54.720 --> 00:03:58.640
+camera. And second brain is so important
+
+00:03:56.520 --> 00:03:59.960
+because this next skill entirely relies
+
+00:03:58.640 --> 00:04:01.880
+on it. See, the next skill you're going
+
+00:03:59.960 --> 00:04:03.680
+to develop is a script write skill. This
+
+00:04:01.880 --> 00:04:05.440
+skill is exactly what it sounds like. It
+
+00:04:03.680 --> 00:04:07.160
+writes YouTube Instagram scripts for
+
+00:04:05.440 --> 00:04:09.400
+you. And this is how the process works.
+
+00:04:07.160 --> 00:04:11.320
+I feed Claude idea from part one, and
+
+00:04:09.400 --> 00:04:13.200
+reads my second brain from part two, and
+
+00:04:11.320 --> 00:04:14.880
+writes a full ready to film script in my
+
+00:04:13.200 --> 00:04:16.560
+exact voice. But, it's not just words on
+
+00:04:14.880 --> 00:04:18.440
+a page. The skill is trained on a
+
+00:04:16.560 --> 00:04:20.720
+specific structure, a hook in the first
+
+00:04:18.440 --> 00:04:22.000
+15 seconds, curiosity loops that open
+
+00:04:20.720 --> 00:04:23.400
+early and close late so you keep
+
+00:04:22.000 --> 00:04:24.760
+watching. Kind of like the one I opened
+
+00:04:23.400 --> 00:04:26.400
+at the start of this video that still
+
+00:04:24.760 --> 00:04:28.360
+haven't fully closed yet. And of course,
+
+00:04:26.400 --> 00:04:30.120
+real markers, so every script [music]
+
+00:04:28.360 --> 00:04:32.560
+that I record for YouTube can also be
+
+00:04:30.120 --> 00:04:34.600
+taken out in 30-second chunks, clipped,
+
+00:04:32.560 --> 00:04:36.240
+and put as Instagram Reels. This way I
+
+00:04:34.600 --> 00:04:37.960
+don't have to re-film for Instagram for
+
+00:04:36.240 --> 00:04:39.440
+short form. So, [music] this changes
+
+00:04:37.960 --> 00:04:40.400
+your entire mind because first you
+
+00:04:39.440 --> 00:04:41.800
+thought, "Oh, I got to record for
+
+00:04:40.400 --> 00:04:44.280
+YouTube and Instagram." No, you just
+
+00:04:41.800 --> 00:04:46.640
+record one long-form video, clip it up,
+
+00:04:44.280 --> 00:04:48.800
+and then post it on LinkedIn, Instagram,
+
+00:04:46.640 --> 00:04:50.600
+TikTok, YouTube Shorts, everywhere. Now,
+
+00:04:48.800 --> 00:04:52.240
+to be transparent, I always edit the
+
+00:04:50.600 --> 00:04:54.120
+scripts that my Claude skill produces
+
+00:04:52.240 --> 00:04:55.640
+and add my own finishing touches. This
+
+00:04:54.120 --> 00:04:57.080
+is mainly for just the hook and intro of
+
+00:04:55.640 --> 00:04:59.240
+the video because someone who's been
+
+00:04:57.080 --> 00:05:01.160
+creating content for 6+ years, I know
+
+00:04:59.240 --> 00:05:03.440
+how important the hook and intro is. And
+
+00:05:01.160 --> 00:05:05.080
+I always, always, always, always look at
+
+00:05:03.440 --> 00:05:06.960
+it before pushing the script to the
+
+00:05:05.080 --> 00:05:08.120
+record process. [music] So, now you've
+
+00:05:06.960 --> 00:05:09.720
+done three things. You developed the
+
+00:05:08.120 --> 00:05:11.600
+ideate skill, you have your second brain
+
+00:05:09.720 --> 00:05:13.480
+built out on Obsidian or Notion, you
+
+00:05:11.600 --> 00:05:15.200
+have your script write skill, but now
+
+00:05:13.480 --> 00:05:17.919
+you need an operating system that runs
+
+00:05:15.200 --> 00:05:19.640
+all three in one flow. And that's what I
+
+00:05:17.919 --> 00:05:21.640
+call my content OS. [music]
+
+00:05:19.640 --> 00:05:23.240
+My content OS is a suite of AI employees
+
+00:05:21.640 --> 00:05:24.840
+that are trained on my second brain to
+
+00:05:23.240 --> 00:05:26.840
+handle script writing, ideating,
+
+00:05:24.840 --> 00:05:28.280
+strategizing, everything [music] for me.
+
+00:05:26.840 --> 00:05:29.919
+It runs literally my entire content
+
+00:05:28.280 --> 00:05:31.080
+pipeline. It researches my other niche,
+
+00:05:29.919 --> 00:05:32.960
+it pulls winning formats, [music] it
+
+00:05:31.080 --> 00:05:34.840
+generates ideas, and then writes full
+
+00:05:32.960 --> 00:05:37.080
+scripts for every single idea that I
+
+00:05:34.840 --> 00:05:38.880
+approve. It even has a content calendar
+
+00:05:37.080 --> 00:05:40.880
+telling me what to post and when. It
+
+00:05:38.880 --> 00:05:42.240
+also organizes which videos are earning
+
+00:05:40.880 --> 00:05:43.640
+the most in sales, which is pretty
+
+00:05:42.240 --> 00:05:45.120
+insane now that I think about it because
+
+00:05:43.640 --> 00:05:47.080
+I used to have to have someone who I
+
+00:05:45.120 --> 00:05:48.600
+paid $4,000 a month to to handle all
+
+00:05:47.080 --> 00:05:50.360
+this. But now I don't have to. Now, this
+
+00:05:48.600 --> 00:05:52.240
+Content OS that you see on the screen
+
+00:05:50.360 --> 00:05:53.280
+right here, if you want access to it,
+
+00:05:52.240 --> 00:05:55.720
+click the first link in the description
+
+00:05:53.280 --> 00:05:57.560
+below because it is only available for
+
+00:05:55.720 --> 00:05:58.480
+people that I work with one-on-one. Not
+
+00:05:57.560 --> 00:06:00.280
+only will you be able to use this
+
+00:05:58.480 --> 00:06:02.000
+Content OS, but you can also rebrand it,
+
+00:06:00.280 --> 00:06:03.040
+white-label it, and resell it to clients
+
+00:06:02.000 --> 00:06:04.240
+of your [music] own. But, let's not get
+
+00:06:03.040 --> 00:06:05.760
+ahead of ourselves because writing a
+
+00:06:04.240 --> 00:06:07.480
+script doesn't mean you record a video.
+
+00:06:05.760 --> 00:06:08.880
+See, now the hard part is actually
+
+00:06:07.480 --> 00:06:10.760
+sitting down in front of the camera or
+
+00:06:08.880 --> 00:06:12.240
+your iPhone and hitting record. But, it
+
+00:06:10.760 --> 00:06:13.920
+doesn't have to be hard. I don't
+
+00:06:12.240 --> 00:06:15.800
+memorize a script word [music] for word.
+
+00:06:13.920 --> 00:06:17.960
+I have a teleprompter on my laptop with
+
+00:06:15.800 --> 00:06:19.840
+notes that I look at and use as a
+
+00:06:17.960 --> 00:06:20.960
+reference to guide me through the video.
+
+00:06:19.840 --> 00:06:24.080
+Cuz if you just start rambling in your
+
+00:06:20.960 --> 00:06:25.840
+video with no with no structure and no
+
+00:06:24.080 --> 00:06:27.400
+like clarity, viewers can see [music]
+
+00:06:25.840 --> 00:06:28.560
+that, and then they get bored and they
+
+00:06:27.400 --> 00:06:30.640
+think that this guy is all over the
+
+00:06:28.560 --> 00:06:32.040
+place. Now, my videos are 9 to 11
+
+00:06:30.640 --> 00:06:34.280
+minutes, and like I said, only the first
+
+00:06:32.040 --> 00:06:36.080
+30 seconds are hard script because I
+
+00:06:34.280 --> 00:06:38.400
+like to script my intro and hooks
+
+00:06:36.080 --> 00:06:39.720
+manually and not allow AI to do it, even
+
+00:06:38.400 --> 00:06:41.440
+though it's trained on my voice. But,
+
+00:06:39.720 --> 00:06:43.240
+after that, I just use what Claude
+
+00:06:41.440 --> 00:06:45.040
+wrote, and I put on a teleprompter, put
+
+00:06:43.240 --> 00:06:46.919
+it on my laptop, and I kind of either
+
+00:06:45.040 --> 00:06:48.640
+read off of it or glance at it just to
+
+00:06:46.919 --> 00:06:50.640
+make sure I have direction of the video
+
+00:06:48.640 --> 00:06:52.080
+in mind. Because sometimes I do have to
+
+00:06:50.640 --> 00:06:53.400
+ramble. So, remember in the beginning of
+
+00:06:52.080 --> 00:06:54.880
+this video I talked about curiosity
+
+00:06:53.400 --> 00:06:56.880
+loops and how I opened one at the very
+
+00:06:54.880 --> 00:06:58.840
+start? The curiosity loop I opened that
+
+00:06:56.880 --> 00:07:00.919
+is keeping you watching this video is I
+
+00:06:58.840 --> 00:07:02.480
+said I got 220,000 views because of my
+
+00:07:00.919 --> 00:07:04.560
+Claude [music] Content Pipeline, but I
+
+00:07:02.480 --> 00:07:06.040
+didn't describe how I got $40,000 in
+
+00:07:04.560 --> 00:07:07.160
+sales. That's end of the day, that's
+
+00:07:06.040 --> 00:07:08.720
+probably what you really care about.
+
+00:07:07.160 --> 00:07:10.960
+Views, you know, sure, it's a vanity
+
+00:07:08.720 --> 00:07:12.480
+metric. It looks cool. But, sales is
+
+00:07:10.960 --> 00:07:14.120
+what actually grows your business. And
+
+00:07:12.480 --> 00:07:15.800
+this is where a lot of business owners
+
+00:07:14.120 --> 00:07:16.889
+fail. So, now I'm going to reveal my
+
+00:07:15.800 --> 00:07:17.040
+exact backend.
+
+00:07:16.889 --> 00:07:18.760
+>> [music]
+
+00:07:17.040 --> 00:07:20.760
+>> You have each video. It creates a
+
+00:07:18.760 --> 00:07:22.040
+desire. Someone watches it, they see the
+
+00:07:20.760 --> 00:07:23.760
+result or they see what you're talking
+
+00:07:22.040 --> 00:07:25.640
+about, and they [music] think, I want
+
+00:07:23.760 --> 00:07:27.800
+that. That's step one, the top of the
+
+00:07:25.640 --> 00:07:29.120
+funnel. Then, inside the video, in the
+
+00:07:27.800 --> 00:07:31.640
+description, [music] there's a single
+
+00:07:29.120 --> 00:07:33.520
+next step. No 10 links, no 20 affiliate
+
+00:07:31.640 --> 00:07:35.760
+links, just one or two. Usually a free
+
+00:07:33.520 --> 00:07:37.640
+resource or some sort of lead magnet to
+
+00:07:35.760 --> 00:07:40.400
+get someone on your email list or a
+
+00:07:37.640 --> 00:07:42.280
+direct link to your agency, SaaS, or for
+
+00:07:40.400 --> 00:07:44.320
+business. Now, the reason you want to be
+
+00:07:42.280 --> 00:07:46.080
+able to get someone's email regardless
+
+00:07:44.320 --> 00:07:47.520
+of whichever link they click [music] is
+
+00:07:46.080 --> 00:07:49.000
+because if YouTube were to go away
+
+00:07:47.520 --> 00:07:50.720
+tomorrow, you want to make sure you can
+
+00:07:49.000 --> 00:07:52.520
+still contact your customers. [music]
+
+00:07:50.720 --> 00:07:54.160
+And your viewers are just viewers. They
+
+00:07:52.520 --> 00:07:55.600
+can disappear tomorrow. They might not
+
+00:07:54.160 --> 00:07:57.240
+watch another video of yours. So, by
+
+00:07:55.600 --> 00:07:58.480
+capturing their email, you have direct
+
+00:07:57.240 --> 00:07:59.520
+access [music] to them. And once you
+
+00:07:58.480 --> 00:08:00.960
+have their email, you can send them
+
+00:07:59.520 --> 00:08:02.680
+warm-up emails and eventually get them
+
+00:08:00.960 --> 00:08:04.200
+to book a call with you for your agency,
+
+00:08:02.680 --> 00:08:05.680
+your SaaS, your coaching, whichever
+
+00:08:04.200 --> 00:08:07.120
+business you're running. If you use at
+
+00:08:05.680 --> 00:08:09.160
+scale, this is where you can literally
+
+00:08:07.120 --> 00:08:10.760
+earn $40,000 from a single video like I
+
+00:08:09.160 --> 00:08:12.840
+did. [music] Now, fortunately, many
+
+00:08:10.760 --> 00:08:14.640
+creators and business owners who create
+
+00:08:12.840 --> 00:08:16.600
+on YouTube don't know how to build this
+
+00:08:14.640 --> 00:08:17.800
+proper funnel. And a very bearable
+
+00:08:16.600 --> 00:08:19.240
+funnel is this. You have your link
+
+00:08:17.800 --> 00:08:21.320
+description, someone [music] clicks it,
+
+00:08:19.240 --> 00:08:22.880
+they see a headline, see a video where
+
+00:08:21.320 --> 00:08:24.640
+you have recorded and you're talking
+
+00:08:22.880 --> 00:08:25.919
+about your business, [music] your SaaS,
+
+00:08:24.640 --> 00:08:27.240
+your coaching, whatever service that
+
+00:08:25.919 --> 00:08:28.919
+you're offering. And then you have
+
+00:08:27.240 --> 00:08:30.680
+testimonies, you have real results, you
+
+00:08:28.919 --> 00:08:32.039
+have [music] uh feature explanations,
+
+00:08:30.680 --> 00:08:33.400
+case studies, and then you have your
+
+00:08:32.039 --> 00:08:34.880
+book a call at the end. And so, they
+
+00:08:33.400 --> 00:08:36.000
+book a call with you. And once they book
+
+00:08:34.880 --> 00:08:37.960
+a call with you, they should be getting
+
+00:08:36.000 --> 00:08:39.240
+follow texts from you directly saying,
+
+00:08:37.960 --> 00:08:40.760
+"Hey, just confirming that you'll show
+
+00:08:39.240 --> 00:08:42.360
+up on this call." Once they show up on
+
+00:08:40.760 --> 00:08:43.760
+the call, then you close them on the
+
+00:08:42.360 --> 00:08:45.320
+call. Now, if you don't know how to
+
+00:08:43.760 --> 00:08:46.839
+close someone on the call, I recommend
+
+00:08:45.320 --> 00:08:49.080
+watching this video next. If you want
+
+00:08:46.839 --> 00:08:50.560
+direct access to my Content OS and want
+
+00:08:49.080 --> 00:08:52.040
+to work with me one-on-one, check the
+
+00:08:50.560 --> 00:08:54.600
+first link in the description and enter
+
+00:08:52.040 --> 00:08:54.600
+my funnel.
+

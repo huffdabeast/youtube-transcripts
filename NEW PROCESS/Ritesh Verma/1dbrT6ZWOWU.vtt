@@ -1,0 +1,3341 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.080
+This is Arvin. He runs an AI agency
+
+00:00:02.000 --> 00:00:05.840
+where he installs OpenClaw into client
+
+00:00:04.080 --> 00:00:07.520
+systems. Unfortunately, he's having
+
+00:00:05.840 --> 00:00:09.280
+trouble getting clients due to marketing
+
+00:00:07.520 --> 00:00:11.480
+issues and he's not sure if his website
+
+00:00:09.280 --> 00:00:12.760
+is high converting. So, let's fix that.
+
+00:00:11.480 --> 00:00:14.040
+My name is Ritesh Ramlall, founder of
+
+00:00:12.760 --> 00:00:16.080
+Agent Rise and I've helped build,
+
+00:00:14.040 --> 00:00:18.200
+launch, and scale over 150 plus AI
+
+00:00:16.080 --> 00:00:19.560
+businesses. So, let's go ahead and scale
+
+00:00:18.200 --> 00:00:22.120
+this one, too.
+
+00:00:19.560 --> 00:00:24.640
+>> So, hi everyone. I'm Arvin. I'm a
+
+00:00:22.120 --> 00:00:25.880
+software engineer based out of India.
+
+00:00:24.640 --> 00:00:27.720
+I've been
+
+00:00:25.880 --> 00:00:30.840
+working as a software engineer for 13
+
+00:00:27.720 --> 00:00:31.680
+years. Um coming to my offer, um I'm
+
+00:00:30.840 --> 00:00:34.160
+helping
+
+00:00:31.680 --> 00:00:36.160
+helping founders set up OpenClaw and
+
+00:00:34.160 --> 00:00:38.600
+automate parts of their businesses so
+
+00:00:36.160 --> 00:00:41.560
+they can save more time, save more
+
+00:00:38.600 --> 00:00:43.960
+money, and focus um everything on their
+
+00:00:41.560 --> 00:00:46.160
+business while AI can do all the trivial
+
+00:00:43.960 --> 00:00:49.240
+things that they usually spend a lot of
+
+00:00:46.160 --> 00:00:52.440
+time doing. So, this is my offer and
+
+00:00:49.240 --> 00:00:55.040
+recently I helped um a client
+
+00:00:52.440 --> 00:00:56.680
+uh like automate their email uh
+
+00:00:55.040 --> 00:01:00.080
+inquiries. Um
+
+00:00:56.680 --> 00:01:02.720
+let me quickly show you that thing.
+
+00:01:00.080 --> 00:01:04.480
+Here. Um this is obviously fake uh
+
+00:01:02.720 --> 00:01:06.440
+because I signed an NDA.
+
+00:01:04.480 --> 00:01:09.840
+So, I cannot show that. So, this one is
+
+00:01:06.440 --> 00:01:11.680
+like uh this is the These metrics are
+
+00:01:09.840 --> 00:01:14.480
+real so they don't have any on board
+
+00:01:11.680 --> 00:01:17.040
+like ongoing SaaS costs. It's just a VPS
+
+00:01:14.480 --> 00:01:18.120
+that uh we are running OpenClaw on. So,
+
+00:01:17.040 --> 00:01:19.560
+there's no like birth
+
+00:01:18.120 --> 00:01:21.440
+>> Who's AI cost, though, right? Like the
+
+00:01:19.560 --> 00:01:24.280
+the client is bearing the AI cost.
+
+00:01:21.440 --> 00:01:26.520
+>> Yeah. Yeah. So, this uh is everything
+
+00:01:24.280 --> 00:01:28.360
+else. So, for example, if they are um
+
+00:01:26.520 --> 00:01:30.120
+using a thousand other platforms, right,
+
+00:01:28.360 --> 00:01:32.120
+for bookkeeping and everything, all like
+
+00:01:30.120 --> 00:01:35.360
+maybe email scheduling and everything.
+
+00:01:32.120 --> 00:01:37.680
+So, these they don't have any costs um
+
+00:01:35.360 --> 00:01:40.200
+except the AI credits that they'll spend
+
+00:01:37.680 --> 00:01:42.640
+on OpenClaw. This is pretty much it. Um
+
+00:01:40.200 --> 00:01:45.080
+using OpenClaw we can um I'm helping
+
+00:01:42.640 --> 00:01:46.320
+founders automate a lot of things like
+
+00:01:45.080 --> 00:01:48.760
+um
+
+00:01:46.320 --> 00:01:51.240
+invoice manage invoice chasing, email
+
+00:01:48.760 --> 00:01:53.760
+inquiries, like email assistance. Um I'm
+
+00:01:51.240 --> 00:01:55.360
+still exploring a lot, but um these are
+
+00:01:53.760 --> 00:01:59.240
+the things I've like primarily worked on
+
+00:01:55.360 --> 00:02:01.080
+so far and I'll let you critique my
+
+00:01:59.240 --> 00:02:02.960
+landing page and audit it.
+
+00:02:01.080 --> 00:02:04.479
+>> Yeah, sure. I got you.
+
+00:02:02.960 --> 00:02:05.320
+Can you see my screen? This is your
+
+00:02:04.479 --> 00:02:06.080
+website.
+
+00:02:05.320 --> 00:02:07.880
+>> Yeah, like
+
+00:02:06.080 --> 00:02:09.600
+>> Cool. So, first things first, stop doing
+
+00:02:07.880 --> 00:02:10.640
+work your AI should do for you. All
+
+00:02:09.600 --> 00:02:13.080
+right, that's a pretty good headline,
+
+00:02:10.640 --> 00:02:14.560
+actually. I feel it's not used much. I
+
+00:02:13.080 --> 00:02:16.240
+stopped was configure open cloud with
+
+00:02:14.560 --> 00:02:18.440
+custom automations that handle your
+
+00:02:16.240 --> 00:02:21.400
+repetitive business tasks business tasks
+
+00:02:18.440 --> 00:02:23.640
+forever. Book a free call.
+
+00:02:21.400 --> 00:02:25.840
+As you book a free call
+
+00:02:23.640 --> 00:02:27.440
+scal.com. Okay.
+
+00:02:25.840 --> 00:02:28.800
+Oh, so I have to go and make an account.
+
+00:02:27.440 --> 00:02:31.200
+scal.com?
+
+00:02:28.800 --> 00:02:32.600
+>> Mhm. So, the the links uh it's like a
+
+00:02:31.200 --> 00:02:33.480
+work in progress, so the links are not
+
+00:02:32.600 --> 00:02:34.680
+set up yet.
+
+00:02:33.480 --> 00:02:36.240
+>> Sure, no worries.
+
+00:02:34.680 --> 00:02:37.640
+Uh so, let's
+
+00:02:36.240 --> 00:02:39.760
+I will start from the top. So, your
+
+00:02:37.640 --> 00:02:41.840
+banner is fine. One thing that I think
+
+00:02:39.760 --> 00:02:44.120
+you're missing that a lot of successful
+
+00:02:41.840 --> 00:02:45.600
+AI agents are currently doing is having
+
+00:02:44.120 --> 00:02:47.560
+some sort of demo. You have a mission
+
+00:02:45.600 --> 00:02:48.920
+control dashboard of all your open cloud
+
+00:02:47.560 --> 00:02:50.640
+agents. If you don't have it set up
+
+00:02:48.920 --> 00:02:52.080
+right now, what you can do is you can
+
+00:02:50.640 --> 00:02:54.280
+set up this a couple open cloud
+
+00:02:52.080 --> 00:02:56.320
+instances and use cloud code to make a
+
+00:02:54.280 --> 00:02:57.640
+quick dashboard that shows those open
+
+00:02:56.320 --> 00:02:59.200
+cloud instances. Honestly, you don't
+
+00:02:57.640 --> 00:03:01.160
+even have to set up the open cloud
+
+00:02:59.200 --> 00:03:02.800
+instances. Just make the dashboard make
+
+00:03:01.160 --> 00:03:04.600
+it look like you had them, you know,
+
+00:03:02.800 --> 00:03:07.680
+running, right? So, that way you can
+
+00:03:04.600 --> 00:03:09.239
+just show what exactly you can do. So,
+
+00:03:07.680 --> 00:03:10.680
+in the future, if a company is like,
+
+00:03:09.239 --> 00:03:11.920
+"Oh, wait, I want that exact dashboard."
+
+00:03:10.680 --> 00:03:12.959
+you could actually make it functional,
+
+00:03:11.920 --> 00:03:15.239
+cuz it's not hard to set up, right?
+
+00:03:12.959 --> 00:03:18.120
+Cloud code open cloud. And it's not
+
+00:03:15.239 --> 00:03:20.200
+easier it's a easier hook, right?
+
+00:03:18.120 --> 00:03:21.920
+So, put that up right here. Book a free
+
+00:03:20.200 --> 00:03:23.880
+call, see pricing. You're too busy doing
+
+00:03:21.920 --> 00:03:24.760
+work that shouldn't need
+
+00:03:23.880 --> 00:03:26.640
+You're too busy doing work that
+
+00:03:24.760 --> 00:03:28.519
+shouldn't need you. That That can
+
+00:03:26.640 --> 00:03:29.680
+probably be worded a little better.
+
+00:03:28.519 --> 00:03:32.120
+You're too busy doing work that
+
+00:03:29.680 --> 00:03:33.560
+shouldn't need you. Um
+
+00:03:32.120 --> 00:03:34.480
+Let's try to word that a different way.
+
+00:03:33.560 --> 00:03:35.880
+And what we're going to do is we're
+
+00:03:34.480 --> 00:03:38.239
+going to drop a cloud code prompt. So,
+
+00:03:35.880 --> 00:03:40.160
+like everything that we we write right
+
+00:03:38.239 --> 00:03:41.880
+now, just write it inside of like a word
+
+00:03:40.160 --> 00:03:44.519
+doc, and we'll pass that into cloud code
+
+00:03:41.880 --> 00:03:46.280
+plan mode. Um I will drop a plan, and we
+
+00:03:44.519 --> 00:03:48.440
+will make it edit everything at the end
+
+00:03:46.280 --> 00:03:51.280
+of this. So, change your too busy doing
+
+00:03:48.440 --> 00:03:52.000
+work that shouldn't need you to
+
+00:03:51.280 --> 00:03:54.200
+um
+
+00:03:52.000 --> 00:03:55.640
+you make decisions that AI do the work.
+
+00:03:54.200 --> 00:03:57.440
+You get or no?
+
+00:03:55.640 --> 00:03:59.360
+>> Come again for me once.
+
+00:03:57.440 --> 00:04:01.000
+>> You make decisions.
+
+00:03:59.360 --> 00:04:02.920
+Let AI do the work.
+
+00:04:01.000 --> 00:04:04.440
+>> Yeah, that's actually fired.
+
+00:04:02.920 --> 00:04:07.560
+>> Yeah, I think that's what most
+
+00:04:04.440 --> 00:04:09.480
+executives want to hear, right? AI agent
+
+00:04:07.560 --> 00:04:10.720
+that works while you sleep. Open close
+
+00:04:09.480 --> 00:04:12.400
+open to the edge of framework thing as
+
+00:04:10.720 --> 00:04:13.760
+personal AI employee. This is good
+
+00:04:12.400 --> 00:04:15.000
+because not only people really know open
+
+00:04:13.760 --> 00:04:16.359
+cloud is right now. I feel like it's
+
+00:04:15.000 --> 00:04:17.680
+it's so new a lot of business owners
+
+00:04:16.359 --> 00:04:19.440
+that are looking at this and watching
+
+00:04:17.680 --> 00:04:20.880
+this video probably or like what is
+
+00:04:19.440 --> 00:04:22.720
+that? Or they've heard about it they
+
+00:04:20.880 --> 00:04:23.880
+don't know enough about it, you know?
+
+00:04:22.720 --> 00:04:25.200
+Think of a personal AI employee that
+
+00:04:23.880 --> 00:04:26.760
+reads emails, makes decisions, takes
+
+00:04:25.200 --> 00:04:27.960
+action, and reports back. I feel you
+
+00:04:26.760 --> 00:04:29.960
+don't need to say reads emails very
+
+00:04:27.960 --> 00:04:31.960
+specific. All this stuff is like very
+
+00:04:29.960 --> 00:04:34.360
+general. They also know emails are very
+
+00:04:31.960 --> 00:04:37.120
+specific example. It's like specific,
+
+00:04:34.360 --> 00:04:38.760
+general, general, general, general,
+
+00:04:37.120 --> 00:04:40.680
+right? So maybe instead of read you
+
+00:04:38.760 --> 00:04:42.280
+obviously just take out read emails, say
+
+00:04:40.680 --> 00:04:44.680
+makes decisions, takes actions, and
+
+00:04:42.280 --> 00:04:47.880
+reports back or reports back. And you
+
+00:04:44.680 --> 00:04:50.600
+say finds problems. Yeah. Finds finds
+
+00:04:47.880 --> 00:04:52.960
+pain points. Makes decisions or finds
+
+00:04:50.600 --> 00:04:54.760
+bottlenecks, makes decisions, takes
+
+00:04:52.960 --> 00:04:56.280
+actions, and reports back. That way it's
+
+00:04:54.760 --> 00:04:57.720
+all general, general, general, general,
+
+00:04:56.280 --> 00:04:58.880
+general, right? Not specific as it is
+
+00:04:57.720 --> 00:05:00.960
+right now.
+
+00:04:58.880 --> 00:05:02.640
+I install it, connect to your business.
+
+00:05:00.960 --> 00:05:04.520
+This part right here
+
+00:05:02.640 --> 00:05:06.160
+this is your this is your actual value
+
+00:05:04.520 --> 00:05:07.760
+prop, right? This is what you're
+
+00:05:06.160 --> 00:05:09.840
+genuinely giving to the business. I
+
+00:05:07.760 --> 00:05:11.560
+think you Wait, let's see what we have
+
+00:05:09.840 --> 00:05:14.040
+over here. First call, discovery call,
+
+00:05:11.560 --> 00:05:17.360
+seven action. So this this is this
+
+00:05:14.040 --> 00:05:19.280
+covers what you said right here. I
+
+00:05:17.360 --> 00:05:21.720
+honestly this should be moved above
+
+00:05:19.280 --> 00:05:23.520
+pricing. How it works. Cuz people are
+
+00:05:21.720 --> 00:05:25.360
+going to get confused but I was waiting
+
+00:05:23.520 --> 00:05:26.600
+for this part actually. I was I thought
+
+00:05:25.360 --> 00:05:27.800
+they maybe forgot about this. I was
+
+00:05:26.600 --> 00:05:29.200
+going to say that but I really like it
+
+00:05:27.800 --> 00:05:30.720
+put at the real bottom.
+
+00:05:29.200 --> 00:05:32.200
+Pricing should be the last thing.
+
+00:05:30.720 --> 00:05:34.200
+>> Just stay on that. I'll move you there
+
+00:05:32.200 --> 00:05:36.400
+quickly. So you wanted me to move that
+
+00:05:34.200 --> 00:05:36.800
+how it works section above the pricing,
+
+00:05:36.400 --> 00:05:39.080
+right?
+
+00:05:36.800 --> 00:05:41.280
+>> Above the pricing, yeah.
+
+00:05:39.080 --> 00:05:42.720
+>> Maybe even above case study.
+
+00:05:41.280 --> 00:05:44.600
+>> Possibly. Like it could even be above
+
+00:05:42.720 --> 00:05:47.600
+the solution. Oh no, actually after the
+
+00:05:44.600 --> 00:05:49.120
+solution cuz that's the problem. Oh, you
+
+00:05:47.600 --> 00:05:51.120
+just changed it right now? Okay. The
+
+00:05:49.120 --> 00:05:53.320
+pricing, are you set on this price
+
+00:05:51.120 --> 00:05:55.200
+for So, for pricing right now, because
+
+00:05:53.320 --> 00:05:57.800
+you can be selling yourself short by
+
+00:05:55.200 --> 00:06:00.560
+doing this. So, in in your Cloud Code,
+
+00:05:57.800 --> 00:06:03.360
+just say remove remove all pricing cards
+
+00:06:00.560 --> 00:06:05.240
+and have it be a custom pricing card.
+
+00:06:03.360 --> 00:06:06.920
+Say book book a call, right? Just a book
+
+00:06:05.240 --> 00:06:09.680
+a call CTA. Just put that into your
+
+00:06:06.920 --> 00:06:11.040
+Cloud Code. And the reason is because
+
+00:06:09.680 --> 00:06:13.480
+you don't know if this client has
+
+00:06:11.040 --> 00:06:15.920
+$50,000 to spend, $100,000 to spend.
+
+00:06:13.480 --> 00:06:17.960
+They If a client is expecting $60,000 to
+
+00:06:15.920 --> 00:06:20.520
+spend, they see a $2,000, man, they just
+
+00:06:17.960 --> 00:06:21.680
+got a great steal of life, you know? So,
+
+00:06:20.520 --> 00:06:24.640
+you got to be careful with stuff like
+
+00:06:21.680 --> 00:06:26.320
+that. I I I told you you saw in um when
+
+00:06:24.640 --> 00:06:28.720
+I shared with you before that one of my
+
+00:06:26.320 --> 00:06:31.960
+friends got paid like almost 100k for
+
+00:06:28.720 --> 00:06:34.040
+like Open Cloud installs. So, in this
+
+00:06:31.960 --> 00:06:37.520
+you're giving them near 8% discount,
+
+00:06:34.040 --> 00:06:38.440
+like 98% discount. So, that's crazy.
+
+00:06:37.520 --> 00:06:40.760
+Uh
+
+00:06:38.440 --> 00:06:43.400
+So, aside from the Open Cloud install,
+
+00:06:40.760 --> 00:06:46.160
+could that's usually just the step one
+
+00:06:43.400 --> 00:06:47.880
+of re-attacking a business's needs? What
+
+00:06:46.160 --> 00:06:49.400
+else do you think you can provide to a
+
+00:06:47.880 --> 00:06:50.560
+business?
+
+00:06:49.400 --> 00:06:52.160
+After the Open Cloud install, what's
+
+00:06:50.560 --> 00:06:55.120
+your what's the plan after?
+
+00:06:52.160 --> 00:06:57.640
+>> So, you know how a lot of um people are
+
+00:06:55.120 --> 00:06:59.480
+um letting Open Cloud run wild and um
+
+00:06:57.640 --> 00:07:00.360
+like losing everything, their progress,
+
+00:06:59.480 --> 00:07:02.360
+their
+
+00:07:00.360 --> 00:07:04.680
+um memory files, and everything. So, one
+
+00:07:02.360 --> 00:07:07.560
+of the things that I also want to uh
+
+00:07:04.680 --> 00:07:10.520
+provide is that um automated backups, so
+
+00:07:07.560 --> 00:07:12.280
+that um even if like um a catastrophic
+
+00:07:10.520 --> 00:07:14.400
+failure, it's
+
+00:07:12.280 --> 00:07:16.320
+um this caused by Open Cloud, right?
+
+00:07:14.400 --> 00:07:18.120
+You'd still be able to restore to a
+
+00:07:16.320 --> 00:07:20.840
+point in time where it was functioning
+
+00:07:18.120 --> 00:07:23.200
+okay. Like, for example, if you like um
+
+00:07:20.840 --> 00:07:26.000
+let Cloud I mean, our Open Cloud do
+
+00:07:23.200 --> 00:07:27.400
+something dangerous, right? Um you can
+
+00:07:26.000 --> 00:07:30.919
+just say um
+
+00:07:27.400 --> 00:07:32.960
+restore back uh restore uh to the state
+
+00:07:30.919 --> 00:07:35.240
+uh 1 hour ago, right? And then you'll
+
+00:07:32.960 --> 00:07:37.400
+you'll get um the entire state back from
+
+00:07:35.240 --> 00:07:39.080
+1 hour ago. So, that is one other thing,
+
+00:07:37.400 --> 00:07:40.640
+because um I think it's critical for
+
+00:07:39.080 --> 00:07:41.400
+businesses not to lose any valuable
+
+00:07:40.640 --> 00:07:44.880
+data,
+
+00:07:41.400 --> 00:07:47.560
+>> Yeah. that would work for deletions.
+
+00:07:44.880 --> 00:07:49.880
+Right, so this is a solution for like if
+
+00:07:47.560 --> 00:07:52.480
+if Open Claw deleted something.
+
+00:07:49.880 --> 00:07:54.760
+Because if it's an action, let's say
+
+00:07:52.480 --> 00:07:56.960
+it's a sent this email, it can't unsend
+
+00:07:54.760 --> 00:07:59.200
+that email. It is done. So the damage is
+
+00:07:56.960 --> 00:08:01.920
+done. Right, so this is only for
+
+00:07:59.200 --> 00:08:03.680
+deletions. So that's it's and that's I
+
+00:08:01.920 --> 00:08:06.040
+feel like that you don't need to create
+
+00:08:03.680 --> 00:08:07.760
+an application for that. You use GitHub.
+
+00:08:06.040 --> 00:08:08.800
+Sync Open Claw with GitHub if that's the
+
+00:08:07.760 --> 00:08:10.360
+case.
+
+00:08:08.800 --> 00:08:11.920
+Or maybe hook it to some sort of
+
+00:08:10.360 --> 00:08:13.680
+database where it's doing a version
+
+00:08:11.920 --> 00:08:14.800
+control. I feel like that is I mean do
+
+00:08:13.680 --> 00:08:16.040
+you want to really package as a whole
+
+00:08:14.800 --> 00:08:18.720
+separate solution?
+
+00:08:16.040 --> 00:08:20.760
+>> Uh no, it's just um part of
+
+00:08:18.720 --> 00:08:22.080
+um the the whole thing, right? Uh if you
+
+00:08:20.760 --> 00:08:24.080
+want to get set up with Open Claw, I'm
+
+00:08:22.080 --> 00:08:25.800
+not like charging it uh separately or
+
+00:08:24.080 --> 00:08:26.880
+it's not like anything. It's just a part
+
+00:08:25.800 --> 00:08:28.560
+of the package.
+
+00:08:26.880 --> 00:08:30.800
+>> Okay, so it's part of the package. Got
+
+00:08:28.560 --> 00:08:32.280
+you. Right, so then that's not so that's
+
+00:08:30.800 --> 00:08:33.680
+that's this is just your general
+
+00:08:32.280 --> 00:08:35.200
+solution then, right? So this is still
+
+00:08:33.680 --> 00:08:36.520
+the solution number one, which is
+
+00:08:35.200 --> 00:08:39.560
+setting up Open Claw. You just make sure
+
+00:08:36.520 --> 00:08:42.200
+your Open Claw has version control in
+
+00:08:39.560 --> 00:08:44.960
+it. I I I think there's something that
+
+00:08:42.200 --> 00:08:48.680
+is just uh you you can get more specific
+
+00:08:44.960 --> 00:08:49.520
+with this say with version control with
+
+00:08:48.680 --> 00:08:52.360
+um
+
+00:08:49.520 --> 00:08:55.080
+guardrails like some trigger words that
+
+00:08:52.360 --> 00:08:57.640
+can uh helps an enterprise feel safer.
+
+00:08:55.080 --> 00:08:58.560
+Version control, guardrails, sensitive
+
+00:08:57.640 --> 00:08:59.520
+data.
+
+00:08:58.560 --> 00:09:00.360
+>> Telemetry.
+
+00:08:59.520 --> 00:09:01.680
+>> What's the last part?
+
+00:09:00.360 --> 00:09:04.720
+>> Telemetry, so that they could have
+
+00:09:01.680 --> 00:09:06.040
+visibility into what the AI is doing.
+
+00:09:04.720 --> 00:09:07.320
+Some call it telemetry, some call it
+
+00:09:06.040 --> 00:09:09.560
+observability.
+
+00:09:07.320 --> 00:09:11.240
+>> Yeah, I just want observability. So so
+
+00:09:09.560 --> 00:09:12.600
+for I think most people who are watching
+
+00:09:11.240 --> 00:09:14.040
+this probably your observability or
+
+00:09:12.600 --> 00:09:18.680
+telemetry. All right, so this is your
+
+00:09:14.040 --> 00:09:20.680
+Open Claw solution. So this right here
+
+00:09:18.680 --> 00:09:22.920
+is going to work for what? The next
+
+00:09:20.680 --> 00:09:24.960
+what? 2 months? I probably 1 to 1 and
+
+00:09:22.920 --> 00:09:27.160
+1/2 2 months until people get tired of
+
+00:09:24.960 --> 00:09:28.760
+Open Claw, realize that Cloud Code has
+
+00:09:27.160 --> 00:09:30.839
+probably debunked it or the Google the
+
+00:09:28.760 --> 00:09:32.600
+new Google tool has debunked it. So this
+
+00:09:30.839 --> 00:09:33.839
+that is really has like a 2-month time
+
+00:09:32.600 --> 00:09:34.400
+frame, right?
+
+00:09:33.839 --> 00:09:36.520
+>> Yep.
+
+00:09:34.400 --> 00:09:38.120
+>> 2-month time frame. I do want you to put
+
+00:09:36.520 --> 00:09:38.600
+this into Cloud real quick.
+
+00:09:38.120 --> 00:09:41.280
+>> Uh-huh.
+
+00:09:38.600 --> 00:09:43.440
+>> Uh like your solution and your and and
+
+00:09:41.280 --> 00:09:45.280
+say that this project most likely or
+
+00:09:43.440 --> 00:09:47.280
+this business will probably last a
+
+00:09:45.280 --> 00:09:50.240
+2-year cycle because soon Open Cloud
+
+00:09:47.280 --> 00:09:52.800
+won't be as needed compared to other
+
+00:09:50.240 --> 00:09:54.080
+alternatives. What's a What's the What's
+
+00:09:52.800 --> 00:09:55.720
+the next step? I want you to put that
+
+00:09:54.080 --> 00:09:57.400
+into Cloud Cloud like plan mode or you
+
+00:09:55.720 --> 00:09:58.680
+put it into regular Cloud AI?
+
+00:09:57.400 --> 00:09:59.440
+>> Uh okay. You want me to do it right
+
+00:09:58.680 --> 00:10:00.720
+away?
+
+00:09:59.440 --> 00:10:02.320
+>> Yes, put it in Cloud Cloud plan mode
+
+00:10:00.720 --> 00:10:03.840
+actually. And say what what kind of
+
+00:10:02.320 --> 00:10:06.080
+develop instead or what kind of develop
+
+00:10:03.840 --> 00:10:08.400
+after immediately after this that that
+
+00:10:06.080 --> 00:10:09.680
+builds on this current solution. Can you
+
+00:10:08.400 --> 00:10:11.520
+share your screen as you're doing this?
+
+00:10:09.680 --> 00:10:11.920
+>> I am not seeing the screen yet.
+
+00:10:11.520 --> 00:10:12.440
+All right.
+
+00:10:11.920 --> 00:10:15.000
+>> No, no, I see it.
+
+00:10:12.440 --> 00:10:16.520
+>> Wait, stuff. Okay, okay. My bad. So, I'm
+
+00:10:15.000 --> 00:10:17.880
+sharing my screen now.
+
+00:10:16.520 --> 00:10:18.640
+You should see my Cloud code instance,
+
+00:10:17.880 --> 00:10:18.960
+right?
+
+00:10:18.640 --> 00:10:20.960
+>> Excellent.
+
+00:10:18.960 --> 00:10:24.920
+>> Take a look at
+
+00:10:20.960 --> 00:10:26.640
+this landing page and tell
+
+00:10:24.920 --> 00:10:28.920
+>> Don't press enter while you're writing
+
+00:10:26.640 --> 00:10:30.120
+this. Uh just write it out and then I'll
+
+00:10:28.920 --> 00:10:30.840
+look at the prompt.
+
+00:10:30.120 --> 00:10:33.400
+>> Mhm.
+
+00:10:30.840 --> 00:10:34.120
+>> And then one when I say yes, then send
+
+00:10:33.400 --> 00:10:35.160
+it.
+
+00:10:34.120 --> 00:10:36.360
+>> Yeah.
+
+00:10:35.160 --> 00:10:38.120
+Uh take a look at this landing page and
+
+00:10:36.360 --> 00:10:40.880
+tell me if this service is going to be
+
+00:10:38.120 --> 00:10:42.320
+relevant in a few months
+
+00:10:40.880 --> 00:10:45.560
+especially
+
+00:10:42.320 --> 00:10:48.160
+considering the rapid
+
+00:10:45.560 --> 00:10:49.360
+features and improvements
+
+00:10:48.160 --> 00:10:52.600
+of
+
+00:10:49.360 --> 00:10:52.600
+Cloud code.
+
+00:10:52.640 --> 00:10:57.320
+Is this fine?
+
+00:10:53.800 --> 00:10:59.520
+>> Um now I'd say press double enter. Like
+
+00:10:57.320 --> 00:11:02.240
+don't don't send it. Like just return.
+
+00:10:59.520 --> 00:11:04.400
+Um say this These are the main value
+
+00:11:02.240 --> 00:11:06.560
+props of my current solution and then
+
+00:11:04.400 --> 00:11:07.839
+write version control or say custom Open
+
+00:11:06.560 --> 00:11:10.320
+Cloud setup with version control
+
+00:11:07.839 --> 00:11:12.440
+guardrails, sensitive data detection,
+
+00:11:10.320 --> 00:11:14.960
+and tell observability.
+
+00:11:12.440 --> 00:11:16.120
+>> Yeah. Uh just Can you repeat again?
+
+00:11:14.960 --> 00:11:18.080
+Uh custom
+
+00:11:16.120 --> 00:11:20.400
+>> Custom Open Cloud setup and you can say
+
+00:11:18.080 --> 00:11:23.160
+in parentheses in person or through VPS.
+
+00:11:20.400 --> 00:11:25.720
+Maybe you flown out to Miami, who knows.
+
+00:11:23.160 --> 00:11:27.400
+>> Mhm. Right. I wish.
+
+00:11:25.720 --> 00:11:30.280
+Later. So, what's next?
+
+00:11:27.400 --> 00:11:31.560
+>> Uh version control, guardrails, like
+
+00:11:30.280 --> 00:11:34.120
+general guardrails, I guess you could
+
+00:11:31.560 --> 00:11:35.680
+say. Uh sensor data detection,
+
+00:11:34.120 --> 00:11:37.960
+uh then observability. Uh then double
+
+00:11:35.680 --> 00:11:40.120
+enter and say please refine the offer as
+
+00:11:37.960 --> 00:11:41.920
+well based on
+
+00:11:40.120 --> 00:11:44.800
+when you think this
+
+00:11:41.920 --> 00:11:45.560
+um solution will go obsolete.
+
+00:11:44.800 --> 00:11:47.760
+>> Yeah, that's good.
+
+00:11:45.560 --> 00:11:48.600
+>> Absolute. Yeah.
+
+00:11:47.760 --> 00:11:50.480
+Enter.
+
+00:11:48.600 --> 00:11:51.920
+>> Yep. All right. Um
+
+00:11:50.480 --> 00:11:53.720
+now that's cooking, let's go let me
+
+00:11:51.920 --> 00:11:55.520
+share my screen again. Just make sure if
+
+00:11:53.720 --> 00:11:57.400
+it does ask you like, you know how
+
+00:11:55.520 --> 00:12:00.200
+sometimes it will ask for permissions in
+
+00:11:57.400 --> 00:12:01.680
+plan mode, just make sure you're staying
+
+00:12:00.200 --> 00:12:04.000
+conscious of that and just accept it so
+
+00:12:01.680 --> 00:12:06.400
+it doesn't take too long. But, okay. So,
+
+00:12:04.000 --> 00:12:08.280
+your custom open class setup, uh 2-month
+
+00:12:06.400 --> 00:12:09.800
+time frame, but these 2 months, man,
+
+00:12:08.280 --> 00:12:12.120
+like these 2 months are big 2 months.
+
+00:12:09.800 --> 00:12:14.480
+Like you can earn a lot, you know, with
+
+00:12:12.120 --> 00:12:16.560
+this with this huge boomerang. It's like
+
+00:12:14.480 --> 00:12:19.280
+when GPT first came out. Now, the
+
+00:12:16.560 --> 00:12:21.520
+question is, what is your plan to get in
+
+00:12:19.280 --> 00:12:23.040
+front of clients? Is open class, what's
+
+00:12:21.520 --> 00:12:26.320
+the plan for this part?
+
+00:12:23.040 --> 00:12:27.320
+>> So, my plan is twofold actually. Um
+
+00:12:26.320 --> 00:12:28.840
+one,
+
+00:12:27.320 --> 00:12:30.480
+um since I don't have any audience right
+
+00:12:28.840 --> 00:12:32.480
+now, I I plan to
+
+00:12:30.480 --> 00:12:35.120
+do do outbound first, right?
+
+00:12:32.480 --> 00:12:37.800
+Uh I plan I'm planning on uh using the
+
+00:12:35.120 --> 00:12:41.200
+Sales Navigator uh free trial for 1
+
+00:12:37.800 --> 00:12:42.360
+month. And I'm going to reach out to the
+
+00:12:41.200 --> 00:12:44.240
+ICP,
+
+00:12:42.360 --> 00:12:46.080
+uh who'd like uh get the most for out of
+
+00:12:44.240 --> 00:12:47.800
+this service, like founders, um
+
+00:12:46.080 --> 00:12:50.880
+non-technical founders, everybody,
+
+00:12:47.800 --> 00:12:53.160
+right? And then the idea is to get a few
+
+00:12:50.880 --> 00:12:55.680
+clients, and while I have those clients,
+
+00:12:53.160 --> 00:12:57.880
+um like maybe a retainer or something,
+
+00:12:55.680 --> 00:12:59.480
+uh I'll slowly start doing inbound with
+
+00:12:57.880 --> 00:13:02.400
+content marketing.
+
+00:12:59.480 --> 00:13:04.280
+Um I'm not really good uh with
+
+00:13:02.400 --> 00:13:07.120
+uh videos, so I was just thinking maybe
+
+00:13:04.280 --> 00:13:08.520
+I'll do LinkedIn and X. Just um you
+
+00:13:07.120 --> 00:13:10.360
+know, um
+
+00:13:08.520 --> 00:13:12.880
+post a lot and build in public uh just
+
+00:13:10.360 --> 00:13:15.200
+to gain some traction first. And then
+
+00:13:12.880 --> 00:13:17.640
+eventually build an audience, and once
+
+00:13:15.200 --> 00:13:19.960
+um I built an audience, then it's like
+
+00:13:17.640 --> 00:13:21.600
+um I can stop doing outbound very
+
+00:13:19.960 --> 00:13:22.240
+actively, and then focus more on
+
+00:13:21.600 --> 00:13:24.120
+inbound.
+
+00:13:22.240 --> 00:13:25.320
+>> Okay. So, you're kind of building a loop
+
+00:13:24.120 --> 00:13:29.520
+almost. Let me go ahead and put it in
+
+00:13:25.320 --> 00:13:31.880
+like a diagram. So, start outbound,
+
+00:13:29.520 --> 00:13:32.360
+uh because you don't have a brand right
+
+00:13:31.880 --> 00:13:33.400
+now.
+
+00:13:32.360 --> 00:13:34.560
+>> Mhm. Mhm.
+
+00:13:33.400 --> 00:13:36.160
+>> This is why it's so important, right? To
+
+00:13:34.560 --> 00:13:37.960
+have a It's It's not You don't need a
+
+00:13:36.160 --> 00:13:39.240
+brand, but it always helps. It always It
+
+00:13:37.960 --> 00:13:40.480
+just adds a lot of credibility in a
+
+00:13:39.240 --> 00:13:41.440
+space where there's a lot of like people
+
+00:13:40.480 --> 00:13:42.680
+who act like they know what they're
+
+00:13:41.440 --> 00:13:44.040
+talking about, they really don't. So,
+
+00:13:42.680 --> 00:13:46.080
+start outbound because you don't have a
+
+00:13:44.040 --> 00:13:47.240
+brand. And then when do you want to
+
+00:13:46.080 --> 00:13:48.880
+start inbound? When you start getting
+
+00:13:47.240 --> 00:13:49.560
+clients for outbound or if it's not
+
+00:13:48.880 --> 00:13:51.520
+working?
+
+00:13:49.560 --> 00:13:54.120
+>> When I have like two to three clients so
+
+00:13:51.520 --> 00:13:56.040
+that I don't have to constantly worry
+
+00:13:54.120 --> 00:13:58.200
+about paying the bills.
+
+00:13:56.040 --> 00:14:02.440
+>> Okay, yeah. Peace of mind. So, once two
+
+00:13:58.200 --> 00:14:05.560
+or three clients are secured, then doing
+
+00:14:02.440 --> 00:14:07.800
+inbound. And honestly, use client like
+
+00:14:05.560 --> 00:14:09.120
+success story client projects as the
+
+00:14:07.800 --> 00:14:10.520
+basis of the content.
+
+00:14:09.120 --> 00:14:12.640
+>> So, I wanted to get your input on one
+
+00:14:10.520 --> 00:14:15.800
+more thing. So, the the prices that you
+
+00:14:12.640 --> 00:14:16.800
+told me, right? That I'm charging very
+
+00:14:15.800 --> 00:14:19.720
+less
+
+00:14:16.800 --> 00:14:21.880
+for this service. The idea was to get a
+
+00:14:19.720 --> 00:14:23.920
+few clients, maybe even video
+
+00:14:21.880 --> 00:14:26.040
+testimonials so that I can just showcase
+
+00:14:23.920 --> 00:14:27.960
+them all in my landing page, which
+
+00:14:26.040 --> 00:14:29.960
+intention, but
+
+00:14:27.960 --> 00:14:30.880
+I wasn't sure if that's the right way to
+
+00:14:29.960 --> 00:14:33.040
+go about it.
+
+00:14:30.880 --> 00:14:35.200
+>> So, if you're looking to just say
+
+00:14:33.040 --> 00:14:36.920
+clients and you want Sorry, looking at
+
+00:14:35.200 --> 00:14:38.720
+testimonies, then yeah, I mean,
+
+00:14:36.920 --> 00:14:40.120
+undercharging severely is great. You
+
+00:14:38.720 --> 00:14:42.000
+know, cuz you're charging under market
+
+00:14:40.120 --> 00:14:44.440
+value and as a result, you're going to
+
+00:14:42.000 --> 00:14:46.600
+get more yeses to your project and that
+
+00:14:44.440 --> 00:14:47.960
+will result in just more clients for
+
+00:14:46.600 --> 00:14:50.160
+your for your business and obviously
+
+00:14:47.960 --> 00:14:52.120
+more testimonies, which is your goal,
+
+00:14:50.160 --> 00:14:53.600
+right? And then then you maybe jack
+
+00:14:52.120 --> 00:14:54.960
+prices up right after that. Or you can
+
+00:14:53.600 --> 00:14:56.920
+upsell the client that you're currently
+
+00:14:54.960 --> 00:14:58.120
+working with. This is like a a plan that
+
+00:14:56.920 --> 00:15:00.360
+develops as you go through some a little
+
+00:14:58.120 --> 00:15:03.080
+bit. But keep answering your question.
+
+00:15:00.360 --> 00:15:04.520
+Yeah, like I would if you're work trying
+
+00:15:03.080 --> 00:15:06.360
+to get your first client or two through
+
+00:15:04.520 --> 00:15:07.720
+the door, yeah, sure. You know, charge
+
+00:15:06.360 --> 00:15:09.800
+severely under.
+
+00:15:07.720 --> 00:15:11.080
+And you get testimonies. And I think
+
+00:15:09.800 --> 00:15:13.040
+with a space like this because there's
+
+00:15:11.080 --> 00:15:15.080
+such low credibility for a lot of these
+
+00:15:13.040 --> 00:15:16.960
+new these open claw set up like agencies
+
+00:15:15.080 --> 00:15:18.520
+that are popping up out of nowhere. Even
+
+00:15:16.960 --> 00:15:20.200
+even have one video testimonial or two
+
+00:15:18.520 --> 00:15:23.560
+video testimonials on your page, you're
+
+00:15:20.200 --> 00:15:25.560
+already like a top 1% of other open call
+
+00:15:23.560 --> 00:15:27.840
+agencies Of open call installation
+
+00:15:25.560 --> 00:15:28.400
+agencies. So that will help.
+
+00:15:27.840 --> 00:15:29.840
+Um
+
+00:15:28.400 --> 00:15:31.240
+Yeah, so I'm not going to I'm not going
+
+00:15:29.840 --> 00:15:33.280
+to ding it, right? Especially since
+
+00:15:31.240 --> 00:15:35.800
+they're starting out. However,
+
+00:15:33.280 --> 00:15:37.360
+just be aware that these clients are
+
+00:15:35.800 --> 00:15:38.960
+getting a great deal and if you're okay
+
+00:15:37.360 --> 00:15:40.200
+with that, yeah, by all means do it.
+
+00:15:38.960 --> 00:15:41.680
+It's a win-win for them as well, right?
+
+00:15:40.200 --> 00:15:43.120
+Cuz they're they're getting paid a lot
+
+00:15:41.680 --> 00:15:44.800
+less and you're able to get the money as
+
+00:15:43.120 --> 00:15:46.440
+well. I would I would I would I wouldn't
+
+00:15:44.800 --> 00:15:48.320
+I wouldn't I wouldn't advocate against
+
+00:15:46.440 --> 00:15:49.400
+it. It's fine. Okay, so but yeah, this
+
+00:15:48.320 --> 00:15:50.720
+is what you're looking at. So if you're
+
+00:15:49.400 --> 00:15:52.640
+starting no brand first or you don't
+
+00:15:50.720 --> 00:15:53.960
+have a brand, you do outbound sales,
+
+00:15:52.640 --> 00:15:55.160
+cold outreach, direct messaging, network
+
+00:15:53.960 --> 00:15:56.880
+referrals.
+
+00:15:55.160 --> 00:15:59.160
+LinkedIn Sales Navigator, correct? For
+
+00:15:56.880 --> 00:16:00.760
+all this stuff.
+
+00:15:59.160 --> 00:16:03.760
+Secure two, three clients, phase two
+
+00:16:00.760 --> 00:16:06.000
+begin inbound content. What Where do you
+
+00:16:03.760 --> 00:16:08.520
+So you said X and
+
+00:16:06.000 --> 00:16:10.320
+uh LinkedIn, right? X and then LinkedIn.
+
+00:16:08.520 --> 00:16:11.840
+Okay. This is all LinkedIn Sales
+
+00:16:10.320 --> 00:16:14.000
+Navigator and you're what use a free
+
+00:16:11.840 --> 00:16:16.360
+trial the 50 emails. I use client
+
+00:16:14.000 --> 00:16:18.040
+projects as content basis. So this is
+
+00:16:16.360 --> 00:16:20.880
+the content photos you can do, case
+
+00:16:18.040 --> 00:16:22.800
+studies, lessons learned, uh results and
+
+00:16:20.880 --> 00:16:24.800
+outcome behind the scenes work. This
+
+00:16:22.800 --> 00:16:26.720
+right here is the biggest one.
+
+00:16:24.800 --> 00:16:28.000
+The behind the scenes work, this is
+
+00:16:26.720 --> 00:16:29.839
+what's going to bring in the most views
+
+00:16:28.000 --> 00:16:31.160
+right here. Because everyone loves
+
+00:16:29.839 --> 00:16:33.240
+seeing the behind the scenes and this
+
+00:16:31.160 --> 00:16:36.080
+establishes credibility,
+
+00:16:33.240 --> 00:16:37.280
+Let me write this. Um the reason is the
+
+00:16:36.080 --> 00:16:39.520
+This is what I would do if I were you
+
+00:16:37.280 --> 00:16:41.560
+cuz it establishes credibility,
+
+00:16:39.520 --> 00:16:44.520
+relatability, and then finally
+
+00:16:41.560 --> 00:16:47.000
+authenticity. Credibility is for the
+
+00:16:44.520 --> 00:16:48.080
+clients that that will see your your
+
+00:16:47.000 --> 00:16:49.080
+behind the scenes. Like, "Man, this guy
+
+00:16:48.080 --> 00:16:50.360
+knows what he's doing, right? He's
+
+00:16:49.080 --> 00:16:52.040
+putting that work. I want him to work
+
+00:16:50.360 --> 00:16:53.839
+for me or build something for me."
+
+00:16:52.040 --> 00:16:55.080
+Relatability is for the audience. This
+
+00:16:53.839 --> 00:16:56.480
+is going to help build your audience.
+
+00:16:55.080 --> 00:16:59.000
+Other people who are building, you know,
+
+00:16:56.480 --> 00:17:00.440
+AI tools or just building software apps
+
+00:16:59.000 --> 00:17:01.720
+are going to be looking at you like,
+
+00:17:00.440 --> 00:17:02.720
+"Hey, this guy is like me, you know,
+
+00:17:01.720 --> 00:17:03.600
+we're we're on the same journey
+
+00:17:02.720 --> 00:17:05.560
+together." This will build your
+
+00:17:03.600 --> 00:17:07.240
+following. And then authenticity, you're
+
+00:17:05.560 --> 00:17:08.640
+showing behind the scenes. You know,
+
+00:17:07.240 --> 00:17:10.160
+everyone loves seeing behind the scenes,
+
+00:17:08.640 --> 00:17:12.000
+right? So you're automatically showing a
+
+00:17:10.160 --> 00:17:13.800
+lot of authenticity and now everyone's
+
+00:17:12.000 --> 00:17:14.920
+going to be like, "Oh, this guy is like
+
+00:17:13.800 --> 00:17:16.720
+real. You know, he's not he's not a
+
+00:17:14.920 --> 00:17:18.800
+faker." So that also establishes more
+
+00:17:16.720 --> 00:17:19.920
+credibility. But this is like the This
+
+00:17:18.800 --> 00:17:22.839
+is why behind scenes probably the best
+
+00:17:19.920 --> 00:17:26.680
+one. It's also the lowest difficulty to
+
+00:17:22.839 --> 00:17:28.280
+do. You can literally set up a camera
+
+00:17:26.680 --> 00:17:30.920
+and just be working on your laptop and
+
+00:17:28.280 --> 00:17:32.440
+record yourself and have be a time lapse
+
+00:17:30.920 --> 00:17:34.240
+of your of you working and just post
+
+00:17:32.440 --> 00:17:37.080
+that with like header text saying
+
+00:17:34.240 --> 00:17:38.360
+building the next I don't know open claw
+
+00:17:37.080 --> 00:17:41.320
+startup building the next one million
+
+00:17:38.360 --> 00:17:43.520
+dollar AI startup like crazy like
+
+00:17:41.320 --> 00:17:44.960
+eye-catching hook text like that. And
+
+00:17:43.520 --> 00:17:45.960
+then you get spammed this every day.
+
+00:17:44.960 --> 00:17:47.040
+It's very easy to do because you're
+
+00:17:45.960 --> 00:17:48.600
+already building anyways and just
+
+00:17:47.040 --> 00:17:49.920
+recording yourself building. This stuff
+
+00:17:48.600 --> 00:17:51.480
+you kind of have to like speak and write
+
+00:17:49.920 --> 00:17:53.480
+a script about, you know, talk to the
+
+00:17:51.480 --> 00:17:55.480
+camera like lessons learned you have to
+
+00:17:53.480 --> 00:17:57.160
+talk to the camera stuff like that. So I
+
+00:17:55.480 --> 00:17:59.320
+don't I don't do that. But yeah, these
+
+00:17:57.160 --> 00:18:00.760
+all build build your brand credibility
+
+00:17:59.320 --> 00:18:02.880
+which is great. And then you want to
+
+00:18:00.760 --> 00:18:04.400
+scale your inbound. Um
+
+00:18:02.880 --> 00:18:07.040
+so more content creation again you're
+
+00:18:04.400 --> 00:18:09.280
+doing X and LinkedIn. So just more
+
+00:18:07.040 --> 00:18:11.440
+posts. This right here you should have
+
+00:18:09.280 --> 00:18:13.720
+an AI employee help you out. This is
+
+00:18:11.440 --> 00:18:15.080
+where we can fit an AI employee that on
+
+00:18:13.720 --> 00:18:16.240
+the schedule. So use Cloud Scheduler,
+
+00:18:15.080 --> 00:18:19.400
+right? So we use Cloud Scheduler after
+
+00:18:16.240 --> 00:18:21.720
+this. Creates a X post or let's say
+
+00:18:19.400 --> 00:18:24.760
+drafts multiple X posts for the week.
+
+00:18:21.720 --> 00:18:27.120
+Drafts multiple X posts.
+
+00:18:24.760 --> 00:18:28.720
+Uh it also drafts multiple LinkedIn
+
+00:18:27.120 --> 00:18:30.040
+posts. And what you're going to do here
+
+00:18:28.720 --> 00:18:31.720
+with AI employee you're going to approve
+
+00:18:30.040 --> 00:18:34.440
+some of them, deny some of them. And the
+
+00:18:31.720 --> 00:18:37.880
+ones that worked the best have it save
+
+00:18:34.440 --> 00:18:39.880
+those those those posts you approve for
+
+00:18:37.880 --> 00:18:41.680
+in its base knowledge base. So that way
+
+00:18:39.880 --> 00:18:43.520
+it's constantly getting better at your
+
+00:18:41.680 --> 00:18:45.200
+at your voice, your brand, your your the
+
+00:18:43.520 --> 00:18:47.080
+way you write. Otherwise it's going to
+
+00:18:45.200 --> 00:18:48.560
+say some AI slop stuff that anyone can
+
+00:18:47.080 --> 00:18:50.960
+write. Make sure you have that feedback
+
+00:18:48.560 --> 00:18:53.560
+loop. So you pick the best ones, put in
+
+00:18:50.960 --> 00:18:55.080
+the knowledge base, and then go right
+
+00:18:53.560 --> 00:18:57.200
+back.
+
+00:18:55.080 --> 00:18:59.400
+There's one feedback loop. So that's FL
+
+00:18:57.200 --> 00:19:00.080
+number one. We stand for feedback loop
+
+00:18:59.400 --> 00:19:00.560
+by the way.
+
+00:19:00.080 --> 00:19:04.200
+>> Mhm.
+
+00:19:00.560 --> 00:19:05.680
+>> Okay. Um SEO organic growth. I mean,
+
+00:19:04.200 --> 00:19:06.960
+yeah, I guess you were SEOing website,
+
+00:19:05.680 --> 00:19:08.840
+but I feel like ranking when it comes to
+
+00:19:06.960 --> 00:19:11.480
+AI stuff is kind of hard. You can do
+
+00:19:08.840 --> 00:19:13.040
+AEO. So you know in the AIs recommend
+
+00:19:11.480 --> 00:19:15.080
+your agency. The the to do that just
+
+00:19:13.040 --> 00:19:16.880
+have multiple brand presences. So So
+
+00:19:15.080 --> 00:19:18.440
+basically be on X, be on LinkedIn, be on
+
+00:19:16.880 --> 00:19:20.560
+Instagram. Be on these all these
+
+00:19:18.440 --> 00:19:21.760
+different platforms on internet. So if
+
+00:19:20.560 --> 00:19:23.920
+people search up like open claw
+
+00:19:21.760 --> 00:19:25.840
+installation, then your your website
+
+00:19:23.920 --> 00:19:27.560
+will come up. Social media presence, I
+
+00:19:25.840 --> 00:19:29.720
+mean that's kind of the same. This will
+
+00:19:27.560 --> 00:19:32.080
+automatically like if if this goes up
+
+00:19:29.720 --> 00:19:33.800
+and then audience grows, yeah.
+
+00:19:32.080 --> 00:19:36.080
+Inbound leads start flowing, face bars
+
+00:19:33.800 --> 00:19:37.800
+scale outbound. Yeah, so this is
+
+00:19:36.080 --> 00:19:40.000
+Once you have a bunch of inbound leads,
+
+00:19:37.800 --> 00:19:42.240
+um you have credibility. You at this
+
+00:19:40.000 --> 00:19:42.680
+point you have so many success stories.
+
+00:19:42.240 --> 00:19:44.680
+>> Uh-huh.
+
+00:19:42.680 --> 00:19:46.280
+>> Success stories are going to be like
+
+00:19:44.680 --> 00:19:48.360
+amazing success granted you know you're
+
+00:19:46.280 --> 00:19:50.720
+actually fulfilling your offer. You have
+
+00:19:48.360 --> 00:19:52.600
+hopefully like five to 10 No, not five,
+
+00:19:50.720 --> 00:19:53.960
+like 15 to like Actually you don't need
+
+00:19:52.600 --> 00:19:55.840
+15. That's kind of overkill if you're
+
+00:19:53.960 --> 00:19:56.880
+like you need 15, right? Not like this
+
+00:19:55.840 --> 00:19:58.120
+fast.
+
+00:19:56.880 --> 00:20:01.400
+But if you get 15 and that's amazing,
+
+00:19:58.120 --> 00:20:03.160
+right? Um but even 10 We got to 10
+
+00:20:01.400 --> 00:20:04.920
+phase, you have so much proof at this
+
+00:20:03.160 --> 00:20:06.560
+point. You can just go after scaling
+
+00:20:04.920 --> 00:20:09.680
+outbound. And because this is a very new
+
+00:20:06.560 --> 00:20:12.360
+market, open claw installs, even five is
+
+00:20:09.680 --> 00:20:14.920
+all you need to really like
+
+00:20:12.360 --> 00:20:17.640
+start shining in front of everyone else
+
+00:20:14.920 --> 00:20:19.320
+cuz I barely like I see a bunch of these
+
+00:20:17.640 --> 00:20:21.000
+new open claw agencies coming up. I
+
+00:20:19.320 --> 00:20:22.480
+barely see testimonials on the website.
+
+00:20:21.000 --> 00:20:24.360
+Like I'll see written testimonials, but
+
+00:20:22.480 --> 00:20:26.320
+written ones anyone can fake. So video
+
+00:20:24.360 --> 00:20:28.000
+testimonials are always the best ones. I
+
+00:20:26.320 --> 00:20:30.240
+I have some rare. I don't see it much. I
+
+00:20:28.000 --> 00:20:31.480
+see way more ads than I do see after
+
+00:20:30.240 --> 00:20:32.040
+testimonials.
+
+00:20:31.480 --> 00:20:33.160
+>> Yeah.
+
+00:20:32.040 --> 00:20:34.520
+>> Yeah, once you have testimonials you can
+
+00:20:33.160 --> 00:20:36.160
+do outreach to proof your brand, way
+
+00:20:34.520 --> 00:20:38.320
+higher conversion rate, compounding
+
+00:20:36.160 --> 00:20:41.320
+growth loop. Yeah, and then yeah, growth
+
+00:20:38.320 --> 00:20:43.280
+loop. A larger target audience. Good.
+
+00:20:41.320 --> 00:20:45.560
+Now you can branch out. So once open
+
+00:20:43.280 --> 00:20:47.480
+claw dies and nobody are using it
+
+00:20:45.560 --> 00:20:49.280
+anymore in the next like two months,
+
+00:20:47.480 --> 00:20:50.720
+all your your entire your client base,
+
+00:20:49.280 --> 00:20:53.680
+your CB,
+
+00:20:50.720 --> 00:20:56.160
+you can then uh retarget for your new
+
+00:20:53.680 --> 00:20:58.080
+offer. Like you you already you already
+
+00:20:56.160 --> 00:20:59.200
+helped them and they already trust you.
+
+00:20:58.080 --> 00:21:00.400
+And when someone pays you once they're
+
+00:20:59.200 --> 00:21:03.160
+willing to pay you again. That's just a
+
+00:21:00.400 --> 00:21:04.800
+law of business. So now all your more
+
+00:21:03.160 --> 00:21:06.160
+your more clients and you use you use
+
+00:21:04.800 --> 00:21:08.400
+those clients as
+
+00:21:06.160 --> 00:21:10.480
+content basis and this is this right
+
+00:21:08.400 --> 00:21:12.600
+here is like your main oh that's way too
+
+00:21:10.480 --> 00:21:15.240
+zoomed out. This part right here is your
+
+00:21:12.600 --> 00:21:17.760
+main like winning piece. This is like
+
+00:21:15.240 --> 00:21:20.200
+how you build a real like six seven
+
+00:21:17.760 --> 00:21:21.400
+figure business in the AI space.
+
+00:21:20.200 --> 00:21:23.640
+If you can get this if you can get this
+
+00:21:21.400 --> 00:21:26.760
+like ecosystem working, right? This is
+
+00:21:23.640 --> 00:21:27.560
+what what builds the financial capital.
+
+00:21:26.760 --> 00:21:28.760
+>> Mhm.
+
+00:21:27.560 --> 00:21:30.040
+>> Do you have any questions about this?
+
+00:21:28.760 --> 00:21:31.600
+>> Sorry, I had something I did not want to
+
+00:21:30.040 --> 00:21:33.560
+stop you in between.
+
+00:21:31.600 --> 00:21:35.120
+Um but as you were going I lost the
+
+00:21:33.560 --> 00:21:36.280
+chain of thought just scroll down
+
+00:21:35.120 --> 00:21:39.200
+somewhere.
+
+00:21:36.280 --> 00:21:40.680
+So somewhere between So when you were
+
+00:21:39.200 --> 00:21:43.320
+when you were saying that
+
+00:21:40.680 --> 00:21:45.760
+open claw is going to die anyway, right?
+
+00:21:43.320 --> 00:21:49.120
+I mean it's it's granted given how fast
+
+00:21:45.760 --> 00:21:50.320
+technology grows. So I'm guessing I
+
+00:21:49.120 --> 00:21:52.400
+don't even have to worry about it
+
+00:21:50.320 --> 00:21:54.440
+because like all I have to do is do a
+
+00:21:52.400 --> 00:21:55.880
+find and replace of open claw with the
+
+00:21:54.440 --> 00:21:56.840
+next big thing, right? Cloud code or
+
+00:21:55.880 --> 00:21:57.280
+whatever comes up.
+
+00:21:56.840 --> 00:21:58.720
+>> Yeah.
+
+00:21:57.280 --> 00:21:59.360
+>> And then I'd still keep doing what I'm
+
+00:21:58.720 --> 00:21:59.960
+doing.
+
+00:21:59.360 --> 00:22:02.960
+>> Exactly.
+
+00:21:59.960 --> 00:22:04.880
+>> Uh literally All my content will say the
+
+00:22:02.960 --> 00:22:06.640
+new technology instead of open claw and
+
+00:22:04.880 --> 00:22:07.840
+I think I'm still in business.
+
+00:22:06.640 --> 00:22:08.800
+>> Yeah, exactly. That's literally it,
+
+00:22:07.840 --> 00:22:10.880
+right? And that's why we have this
+
+00:22:08.800 --> 00:22:12.360
+client base. You just go from your your
+
+00:22:10.880 --> 00:22:14.720
+client base you take it to the new
+
+00:22:12.360 --> 00:22:15.800
+offer. That's it. Like hey, yeah, you
+
+00:22:14.720 --> 00:22:17.600
+guys use open claw guess what there's
+
+00:22:15.800 --> 00:22:19.520
+something better now. If you want me to
+
+00:22:17.600 --> 00:22:20.720
+upgrade your technology here's an extra
+
+00:22:19.520 --> 00:22:21.960
+obviously don't pay the same amount but
+
+00:22:20.720 --> 00:22:23.600
+here's an extra thousand dollar fee you
+
+00:22:21.960 --> 00:22:25.360
+have to pay an extra two thousand dollar
+
+00:22:23.600 --> 00:22:27.680
+fee depending on how big the initial
+
+00:22:25.360 --> 00:22:29.360
+project was. And now the new technology
+
+00:22:27.680 --> 00:22:30.360
+all most AI agencies have been surviving
+
+00:22:29.360 --> 00:22:32.880
+for the past two years have been doing
+
+00:22:30.360 --> 00:22:35.320
+this all the time. From entity end to
+
+00:22:32.880 --> 00:22:37.680
+quad code now, right? Open claw
+
+00:22:35.320 --> 00:22:39.480
+anti-gravity you know from cursor to
+
+00:22:37.680 --> 00:22:41.440
+quad code or from cursor to anti-gravity
+
+00:22:39.480 --> 00:22:43.440
+quad code. You you see this entire
+
+00:22:41.440 --> 00:22:44.720
+development happening so those are the
+
+00:22:43.440 --> 00:22:46.160
+new biggest thing and now you just ride
+
+00:22:44.720 --> 00:22:47.960
+that wave. But it's all really all the
+
+00:22:46.160 --> 00:22:49.600
+same you're just automating it. Granted
+
+00:22:47.960 --> 00:22:53.000
+open claw is very powerful and it's like
+
+00:22:49.600 --> 00:22:55.400
+a it's a genuine like leap in terms of
+
+00:22:53.000 --> 00:22:58.160
+AI development like AGI development
+
+00:22:55.400 --> 00:22:59.680
+almost. So yeah, other than that it is
+
+00:22:58.160 --> 00:23:00.200
+like the newest hot tech on the market.
+
+00:22:59.680 --> 00:23:01.560
+Every everything
+
+00:23:00.200 --> 00:23:03.520
+>> Yeah, people
+
+00:23:01.560 --> 00:23:06.680
+already started playing with a new toy
+
+00:23:03.520 --> 00:23:08.560
+called Hermes from Nous Research. I'm
+
+00:23:06.680 --> 00:23:09.680
+not sure if you heard about it. It's
+
+00:23:08.560 --> 00:23:11.480
+like
+
+00:23:09.680 --> 00:23:13.960
+built in Python and it's supposed to be
+
+00:23:11.480 --> 00:23:17.520
+better than Open Claw.
+
+00:23:13.960 --> 00:23:19.160
+And it's called Hermes Agent and people
+
+00:23:17.520 --> 00:23:20.240
+are going crazy about it on Tech
+
+00:23:19.160 --> 00:23:22.920
+Twitter.
+
+00:23:20.240 --> 00:23:24.760
+>> Oh, wow. No, I've not tried that yet.
+
+00:23:22.920 --> 00:23:26.080
+Yeah, this is like any then see thing
+
+00:23:24.760 --> 00:23:28.560
+with any then was it didn't have many
+
+00:23:26.080 --> 00:23:31.040
+competitors to be honest. It actually
+
+00:23:28.560 --> 00:23:32.280
+dominated the market. I mean Zapier is
+
+00:23:31.040 --> 00:23:35.200
+the closest one but it was even better
+
+00:23:32.280 --> 00:23:37.400
+than Zapier to a certain point. Open
+
+00:23:35.200 --> 00:23:38.920
+Claw doesn't have that type of pull. I
+
+00:23:37.400 --> 00:23:39.600
+just the first one that's all.
+
+00:23:38.920 --> 00:23:41.400
+>> Yep.
+
+00:23:39.600 --> 00:23:43.240
+>> Let's go to your Claude code llama.
+
+00:23:41.400 --> 00:23:46.640
+Let's see if they come with a plan now.
+
+00:23:43.240 --> 00:23:48.040
+>> Oh, it it bought I it bought gifts.
+
+00:23:46.640 --> 00:23:51.000
+>> Okay, let me ask.
+
+00:23:48.040 --> 00:23:52.440
+>> Claude code latest station. Yeah, go
+
+00:23:51.000 --> 00:23:52.960
+ahead.
+
+00:23:52.440 --> 00:23:55.480
+Go ahead.
+
+00:23:52.960 --> 00:23:56.760
+>> I'm searching up see what else I can
+
+00:23:55.480 --> 00:23:59.960
+check out.
+
+00:23:56.760 --> 00:24:01.960
+So, plan or find a plaid the deployed
+
+00:23:59.960 --> 00:24:03.040
+offer for durability.
+
+00:24:01.960 --> 00:24:05.120
+Um
+
+00:24:03.040 --> 00:24:06.440
+but Open Claw agent 15 minutes tutorial
+
+00:24:05.120 --> 00:24:08.080
+the setup slash installation stuff is
+
+00:24:06.440 --> 00:24:09.400
+becoming commodity skill. So, they're
+
+00:24:08.080 --> 00:24:10.880
+just saying like it this this how to
+
+00:24:09.400 --> 00:24:13.080
+install Open Claw people making free
+
+00:24:10.880 --> 00:24:14.560
+videos on it. Um
+
+00:24:13.080 --> 00:24:16.760
+I'm actually founders going to realize
+
+00:24:14.560 --> 00:24:18.200
+that they're just being super lazy. The
+
+00:24:16.760 --> 00:24:19.400
+so the main thing that they're paying
+
+00:24:18.200 --> 00:24:20.520
+for it though with these Open Claw
+
+00:24:19.400 --> 00:24:22.840
+installs
+
+00:24:20.520 --> 00:24:24.920
+is the fact that you're installing Open
+
+00:24:22.840 --> 00:24:26.960
+Claw like 15 Macs at the same time like
+
+00:24:24.920 --> 00:24:29.320
+10 Macs at the same time and no one
+
+00:24:26.960 --> 00:24:30.920
+really wants to do that manually for
+
+00:24:29.320 --> 00:24:32.120
+their specific business. So, you're not
+
+00:24:30.920 --> 00:24:33.920
+only installing Open Claw on their their
+
+00:24:32.120 --> 00:24:35.480
+Mac Mini but you're setting up for their
+
+00:24:33.920 --> 00:24:36.720
+business, right? So, it's not like
+
+00:24:35.480 --> 00:24:38.080
+you're setting it up and saying hey it's
+
+00:24:36.720 --> 00:24:40.240
+done and you're going away. It's for
+
+00:24:38.080 --> 00:24:41.600
+their business. It's customized to them.
+
+00:24:40.240 --> 00:24:43.640
+That's really why companies are spending
+
+00:24:41.600 --> 00:24:45.760
+like 60 80K for it. And I mean it is
+
+00:24:43.640 --> 00:24:47.680
+beneficial like if set up properly is
+
+00:24:45.760 --> 00:24:49.360
+very beneficial. Yes, a founder could do
+
+00:24:47.680 --> 00:24:50.480
+themselves but again when you're talking
+
+00:24:49.360 --> 00:24:51.960
+about businesses are making hundred
+
+00:24:50.480 --> 00:24:53.480
+thousand dollars a month, million
+
+00:24:51.960 --> 00:24:55.320
+dollars a month they don't that's that's
+
+00:24:53.480 --> 00:24:56.240
+low leverage task for these CEOs, right?
+
+00:24:55.320 --> 00:24:57.920
+They don't care about that. They just
+
+00:24:56.240 --> 00:24:59.040
+want the job done. And then they have
+
+00:24:57.920 --> 00:25:01.320
+someone like me come in or something
+
+00:24:59.040 --> 00:25:02.720
+like you come in or so any AI expert at
+
+00:25:01.320 --> 00:25:04.400
+that point who can come in, know the
+
+00:25:02.720 --> 00:25:05.760
+skill, and just set up for them within
+
+00:25:04.400 --> 00:25:08.280
+like 1 to 2 days.
+
+00:25:05.760 --> 00:25:09.720
+>> Mhm. So, I can figure it runway.
+
+00:25:08.280 --> 00:25:11.600
+>> So, okay. So, it looks like the the
+
+00:25:09.720 --> 00:25:14.120
+runway's Oh, the runway. Okay, that
+
+00:25:11.600 --> 00:25:15.600
+means how long it it it thinks that
+
+00:25:14.120 --> 00:25:17.400
+>> We can last with this service, yeah.
+
+00:25:15.600 --> 00:25:19.080
+>> Yeah. So, install and configure OpenClaw
+
+00:25:17.400 --> 00:25:21.480
+is saying 3 to 6 months. So, it's it's
+
+00:25:19.080 --> 00:25:22.520
+predicting a higher runway.
+
+00:25:21.480 --> 00:25:24.440
+Um self
+
+00:25:22.520 --> 00:25:25.960
+>> I'm guessing this is because OpenClaw is
+
+00:25:24.440 --> 00:25:28.280
+not even like generally available. It's
+
+00:25:25.960 --> 00:25:30.600
+still in beta, I'm I'm guessing because
+
+00:25:28.280 --> 00:25:32.120
+um it's not stable.
+
+00:25:30.600 --> 00:25:33.480
+Um the last time I checked, it was still
+
+00:25:32.120 --> 00:25:35.280
+in beta.
+
+00:25:33.480 --> 00:25:37.800
+I have to go and check again if it's
+
+00:25:35.280 --> 00:25:38.680
+still in beta or it's out of beta.
+
+00:25:37.800 --> 00:25:41.760
+>> Yeah.
+
+00:25:38.680 --> 00:25:44.080
+Um everything that says above 8 12
+
+00:25:41.760 --> 00:25:46.160
+months, I don't believe. 18 to 24
+
+00:25:44.080 --> 00:25:48.120
+months, that's 2 years way AI is moving,
+
+00:25:46.160 --> 00:25:49.720
+there's no way. You're right that
+
+00:25:48.120 --> 00:25:53.720
+OpenClaw in 2 years still going to be
+
+00:25:49.720 --> 00:25:55.800
+relevant. There's no way. Um okay. So,
+
+00:25:53.720 --> 00:25:57.160
+I'd say based off of this
+
+00:25:55.800 --> 00:25:59.680
+Okay, let's just go scroll down before
+
+00:25:57.160 --> 00:26:01.880
+we make a final judgment. I like that.
+
+00:25:59.680 --> 00:26:04.200
+Stop believing with AI save you time,
+
+00:26:01.880 --> 00:26:05.800
+lead with AI that's safe, audible,
+
+00:26:04.200 --> 00:26:08.560
+actually under control. So, that's
+
+00:26:05.800 --> 00:26:10.440
+targeting exact pain points that AI
+
+00:26:08.560 --> 00:26:12.720
+founder would be looking at.
+
+00:26:10.440 --> 00:26:15.440
+>> So, this I I wasn't able to find the
+
+00:26:12.720 --> 00:26:17.720
+right word. Auditable, it's like for big
+
+00:26:15.440 --> 00:26:19.440
+businesses, right? I don't For SMBs,
+
+00:26:17.720 --> 00:26:22.280
+they don't really care about audits and
+
+00:26:19.440 --> 00:26:24.600
+everything. But for like enterprises,
+
+00:26:22.280 --> 00:26:26.600
+right? It's like this is like a
+
+00:26:24.600 --> 00:26:28.240
+no-brainer. They need to have like any
+
+00:26:26.600 --> 00:26:30.600
+service that you're providing needs to
+
+00:26:28.240 --> 00:26:32.280
+be auditable and compliant. So, this was
+
+00:26:30.600 --> 00:26:33.920
+something that I missed
+
+00:26:32.280 --> 00:26:34.840
+in the website copy. I should maybe add
+
+00:26:33.920 --> 00:26:36.960
+this one.
+
+00:26:34.840 --> 00:26:38.440
+>> Yeah, and that's why we can we can we
+
+00:26:36.960 --> 00:26:40.440
+can just copy that. Yeah, save it to go
+
+00:26:38.440 --> 00:26:42.160
+in like a prompt that we can have it in
+
+00:26:40.440 --> 00:26:43.920
+the edit mode. So, we should edit mode
+
+00:26:42.160 --> 00:26:45.880
+with all the edits you want. So, let's
+
+00:26:43.920 --> 00:26:47.920
+have that. Just say
+
+00:26:45.880 --> 00:26:50.000
+who add that somewhere, yeah, I guess.
+
+00:26:47.920 --> 00:26:51.360
+Change by component.
+
+00:26:50.000 --> 00:26:52.840
+So, it's going to say
+
+00:26:51.360 --> 00:26:54.400
+doing your work you actually do for you
+
+00:26:52.840 --> 00:26:56.280
+new headline deploy out of work that the
+
+00:26:54.400 --> 00:26:57.920
+part where it goes off the rails.
+
+00:26:56.280 --> 00:26:59.440
+New subheading I install open clock
+
+00:26:57.920 --> 00:27:01.240
+version control guard and full audit
+
+00:26:59.440 --> 00:27:03.720
+trail. Okay, so it's already planning
+
+00:27:01.240 --> 00:27:05.200
+this USB change for you anyways. The
+
+00:27:03.720 --> 00:27:06.440
+hero section was good in terms of
+
+00:27:05.200 --> 00:27:08.960
+change.
+
+00:27:06.440 --> 00:27:11.240
+Problem section. AI is a wrong thing. Is
+
+00:27:08.960 --> 00:27:12.960
+this saying to replace that last part
+
+00:27:11.240 --> 00:27:14.120
+with AI is a wrong thing?
+
+00:27:12.960 --> 00:27:15.880
+Um
+
+00:27:14.120 --> 00:27:17.360
+Oh, okay. So, it's saying like it it's
+
+00:27:15.880 --> 00:27:20.240
+giving an example.
+
+00:27:17.360 --> 00:27:22.360
+I would say have one card about like
+
+00:27:20.240 --> 00:27:24.760
+it's right. Have one card about founders
+
+00:27:22.360 --> 00:27:26.600
+not being able to trust AI. And saying
+
+00:27:24.760 --> 00:27:27.400
+we built AI that's trustworthy.
+
+00:27:26.600 --> 00:27:29.360
+Mhm.
+
+00:27:27.400 --> 00:27:31.000
+The four features self-hosted connection
+
+00:27:29.360 --> 00:27:32.200
+to the learns and not no touch doesn't
+
+00:27:31.000 --> 00:27:34.680
+mention version control guard or
+
+00:27:32.200 --> 00:27:36.640
+stability adaptation use actual durable
+
+00:27:34.680 --> 00:27:38.680
+value props. So, I guess back to
+
+00:27:36.640 --> 00:27:40.280
+auditability, observability, those
+
+00:27:38.680 --> 00:27:42.720
+things you mentioned in the beginning. I
+
+00:27:40.280 --> 00:27:44.840
+was like that as part of it. Although,
+
+00:27:42.720 --> 00:27:46.120
+you did technically
+
+00:27:44.840 --> 00:27:47.120
+Oh, you know you'd be putting in plan
+
+00:27:46.120 --> 00:27:48.200
+mode. Yeah, that's what I was going to
+
+00:27:47.120 --> 00:27:49.920
+say. Didn't you say that to do on the
+
+00:27:48.200 --> 00:27:51.560
+website? Well, no. Now, we just did it
+
+00:27:49.920 --> 00:27:54.520
+right now. Yes. That's going to be
+
+00:27:51.560 --> 00:27:56.160
+added. It's great. Every change to your
+
+00:27:54.520 --> 00:27:58.160
+automation is tracked I can reverse
+
+00:27:56.160 --> 00:28:00.080
+within something breaks you roll back in
+
+00:27:58.160 --> 00:28:00.800
+seconds not rebuild from scratch. I
+
+00:28:00.080 --> 00:28:02.200
+don't even know if you need it when
+
+00:28:00.800 --> 00:28:03.520
+something breaks.
+
+00:28:02.200 --> 00:28:05.080
+>> So, this is what I just mentioned,
+
+00:28:03.520 --> 00:28:07.480
+right? About that
+
+00:28:05.080 --> 00:28:09.320
+the restoring to a point in time.
+
+00:28:07.480 --> 00:28:11.480
+With snapshots. It can be source
+
+00:28:09.320 --> 00:28:14.280
+controlled as well with Git. But, I was
+
+00:28:11.480 --> 00:28:16.040
+thinking snapshots and backups.
+
+00:28:14.280 --> 00:28:18.480
+>> Yeah, that that's fine. We'll do that.
+
+00:28:16.040 --> 00:28:20.520
+With AWS snapshots?
+
+00:28:18.480 --> 00:28:21.880
+>> Yeah, kind of like that.
+
+00:28:20.520 --> 00:28:23.200
+>> I I think observability is one of the
+
+00:28:21.880 --> 00:28:24.760
+best things for founders cuz they want
+
+00:28:23.200 --> 00:28:25.720
+to see like the paper trail. Basically,
+
+00:28:24.760 --> 00:28:27.040
+everything we we talked about in the
+
+00:28:25.720 --> 00:28:30.080
+beginning, right? Of the video of of
+
+00:28:27.040 --> 00:28:31.440
+this of this call that we've been doing.
+
+00:28:30.080 --> 00:28:33.080
+I guess we just forgot to mention that
+
+00:28:31.440 --> 00:28:35.240
+on the website, but we did put it in the
+
+00:28:33.080 --> 00:28:37.200
+plan mode, so it's great. Yeah, and FAQs
+
+00:28:35.240 --> 00:28:39.800
+phenomenal for this type of stuff cuz
+
+00:28:37.200 --> 00:28:41.760
+these are the exact pain points.
+
+00:28:39.800 --> 00:28:43.160
+Pricing
+
+00:28:41.760 --> 00:28:46.680
+tier one.
+
+00:28:43.160 --> 00:28:47.960
+Mhm. I clicked on that's where you Okay.
+
+00:28:46.680 --> 00:28:49.560
+That was funny.
+
+00:28:47.960 --> 00:28:53.080
+Uh let's keep going down or to leave
+
+00:28:49.560 --> 00:28:54.680
+alone? Okay, I don't have anything to go
+
+00:28:53.080 --> 00:28:55.720
+against this plan. It kind of lines up
+
+00:28:54.680 --> 00:28:57.120
+exactly what you know what we've what
+
+00:28:55.720 --> 00:29:00.120
+we've been what we've been talking about
+
+00:28:57.120 --> 00:29:02.160
+for like for the past um 30 40 minutes.
+
+00:29:00.120 --> 00:29:03.640
+So, do you have any changes you you
+
+00:29:02.160 --> 00:29:06.120
+think should be needed for this?
+
+00:29:03.640 --> 00:29:08.000
+>> So, after reading this, right? Um
+
+00:29:06.120 --> 00:29:09.960
+I was wondering if we should even
+
+00:29:08.000 --> 00:29:12.640
+mention OpenClaw anywhere. Right?
+
+00:29:09.960 --> 00:29:15.040
+Because with it getting obsolete in 3 to
+
+00:29:12.640 --> 00:29:17.440
+6 months, um but you guessing it will go
+
+00:29:15.040 --> 00:29:18.280
+out of uh business even sooner.
+
+00:29:17.440 --> 00:29:19.720
+Right?
+
+00:29:18.280 --> 00:29:21.960
+I'm thinking if I should even mention
+
+00:29:19.720 --> 00:29:24.640
+OpenClaw anywhere, but instead like just
+
+00:29:21.960 --> 00:29:26.320
+keep it generic like AI agent so that uh
+
+00:29:24.640 --> 00:29:27.920
+>> No, no, no. You want to mention
+
+00:29:26.320 --> 00:29:29.760
+OpenClaw. It's not obsolete right now.
+
+00:29:27.920 --> 00:29:31.120
+It's the hottest thing right now. So,
+
+00:29:29.760 --> 00:29:32.640
+you want to mention right now. And then
+
+00:29:31.120 --> 00:29:34.240
+when it does go obsolete, you just take
+
+00:29:32.640 --> 00:29:37.000
+it out, whatever new technology is, put
+
+00:29:34.240 --> 00:29:38.280
+that in. Simple, right? Plug and play.
+
+00:29:37.000 --> 00:29:39.360
+But right now, yes, for sure you want to
+
+00:29:38.280 --> 00:29:40.520
+use OpenClaw cuz that's also going to
+
+00:29:39.360 --> 00:29:41.760
+help with SEO. It's going to help people
+
+00:29:40.520 --> 00:29:43.360
+search your people search your OpenClaw
+
+00:29:41.760 --> 00:29:44.480
+installs in your area. You would
+
+00:29:43.360 --> 00:29:46.480
+definitely want OpenClaw in there. It
+
+00:29:44.480 --> 00:29:48.600
+should In fact, there should be multiple
+
+00:29:46.480 --> 00:29:50.320
+spots. Yeah, let's go to prove it. Let's
+
+00:29:48.600 --> 00:29:52.160
+see Let's see what the final final
+
+00:29:50.320 --> 00:29:53.600
+website looks like after.
+
+00:29:52.160 --> 00:29:54.960
+>> So, it's still in plan mode, I think,
+
+00:29:53.600 --> 00:29:57.200
+right? Uh we'd have to
+
+00:29:54.960 --> 00:29:58.360
+>> You got to say yes and also
+
+00:29:57.200 --> 00:29:59.840
+>> Select.
+
+00:29:58.360 --> 00:30:01.480
+Yeah.
+
+00:29:59.840 --> 00:30:03.440
+>> Now I should make the changes. And then
+
+00:30:01.480 --> 00:30:05.920
+the next step, and we can do this off
+
+00:30:03.440 --> 00:30:07.760
+call in our next one-on-one call, uh we
+
+00:30:05.920 --> 00:30:09.400
+can set up a AI employee for this or
+
+00:30:07.760 --> 00:30:11.400
+some sort of AI employee that we can
+
+00:30:09.400 --> 00:30:13.240
+have as a value add cuz OpenClaw
+
+00:30:11.400 --> 00:30:14.760
+installs one part and you're going to be
+
+00:30:13.240 --> 00:30:15.880
+automating one part of their business,
+
+00:30:14.760 --> 00:30:17.200
+but then you can sell them on like
+
+00:30:15.880 --> 00:30:18.400
+another part of their business as an AI
+
+00:30:17.200 --> 00:30:19.840
+employee, like Adam.
+
+00:30:18.400 --> 00:30:20.320
+>> Yeah.
+
+00:30:19.840 --> 00:30:22.480
+>> That'd be good.
+
+00:30:20.320 --> 00:30:23.960
+>> So, I think um you mentioned this in the
+
+00:30:22.480 --> 00:30:26.040
+group as well, right? Having multiple
+
+00:30:23.960 --> 00:30:27.440
+employees and having a What do you What
+
+00:30:26.040 --> 00:30:28.080
+did you call it? Mission control, was
+
+00:30:27.440 --> 00:30:28.120
+it?
+
+00:30:28.080 --> 00:30:29.960
+>> Yeah.
+
+00:30:28.120 --> 00:30:32.120
+>> So, having a mission control where uh
+
+00:30:29.960 --> 00:30:35.200
+these agents can collaborate with each
+
+00:30:32.120 --> 00:30:36.840
+other autonomously without even having
+
+00:30:35.200 --> 00:30:38.840
+um your inputs, right? Waiting on your
+
+00:30:36.840 --> 00:30:41.480
+inputs. But then if you have this audit
+
+00:30:38.840 --> 00:30:43.440
+trail thing, you can exactly uh see
+
+00:30:41.480 --> 00:30:44.520
+whatever is going on. And then you can
+
+00:30:43.440 --> 00:30:45.720
+sell it for
+
+00:30:44.520 --> 00:30:47.760
+a lot of businesses.
+
+00:30:45.720 --> 00:30:49.200
+>> The dashboard will be very helpful.
+
+00:30:47.760 --> 00:30:50.360
+Is that way it's a it's a client's way
+
+00:30:49.200 --> 00:30:52.280
+of knowing
+
+00:30:50.360 --> 00:30:53.880
+what the employees are doing, you know,
+
+00:30:52.280 --> 00:30:55.040
+what their AI employees are operating
+
+00:30:53.880 --> 00:30:56.960
+on, what's been done, what's not been
+
+00:30:55.040 --> 00:30:58.160
+done, where is any errors coming out.
+
+00:30:56.960 --> 00:30:59.400
+Otherwise, you have no idea what's going
+
+00:30:58.160 --> 00:31:00.800
+on. Like what's working, who's working
+
+00:30:59.400 --> 00:31:01.720
+on what. So they they need
+
+00:31:00.800 --> 00:31:04.960
+observability.
+
+00:31:01.720 --> 00:31:07.280
+>> Imagine it's just Slack, right? But AI
+
+00:31:04.960 --> 00:31:08.040
+bots talking to each other.
+
+00:31:07.280 --> 00:31:10.320
+>> Literally.
+
+00:31:08.040 --> 00:31:11.480
+>> In in Slack channels. All of it's called
+
+00:31:10.320 --> 00:31:13.520
+channels.
+
+00:31:11.480 --> 00:31:15.600
+>> Exactly. And then as you have a manager
+
+00:31:13.520 --> 00:31:17.200
+in place, that's you know, managing them
+
+00:31:15.600 --> 00:31:18.760
+all, the AI manager, and then you're
+
+00:31:17.200 --> 00:31:20.600
+managing the AI manager. That's all your
+
+00:31:18.760 --> 00:31:21.880
+job is. Yeah, that's what companies are
+
+00:31:20.600 --> 00:31:23.880
+paying for. I'm literally working with
+
+00:31:21.880 --> 00:31:26.280
+the Oh, you know the company I'm working
+
+00:31:23.880 --> 00:31:28.240
+with, right? So
+
+00:31:26.280 --> 00:31:29.240
+we're working with at this point. So you
+
+00:31:28.240 --> 00:31:31.280
+know what's going to be happening with
+
+00:31:29.240 --> 00:31:32.760
+them. So yeah, that's the that's
+
+00:31:31.280 --> 00:31:34.520
+opportunity. There's so many other
+
+00:31:32.760 --> 00:31:35.920
+companies that are are now starting to
+
+00:31:34.520 --> 00:31:38.640
+hit me up asking for this type of stuff
+
+00:31:35.920 --> 00:31:40.120
+as well cuz it is a big thing and you
+
+00:31:38.640 --> 00:31:41.360
+know, we're here to provide it. So it's
+
+00:31:40.120 --> 00:31:43.000
+all in his ways. I'm about to cut the
+
+00:31:41.360 --> 00:31:43.880
+cut to like the fi- finish version of
+
+00:31:43.000 --> 00:31:45.600
+the website. I'm going to read the
+
+00:31:43.880 --> 00:31:46.840
+website real quick now and say, "Yeah,
+
+00:31:45.600 --> 00:31:47.920
+it looks good." And I'll probably end
+
+00:31:46.840 --> 00:31:48.840
+the video there.
+
+00:31:47.920 --> 00:31:50.080
+>> Yeah.
+
+00:31:48.840 --> 00:31:51.840
+>> 2 minutes.
+
+00:31:50.080 --> 00:31:53.200
+>> Yeah, I think it's done.
+
+00:31:51.840 --> 00:31:53.920
+So should I
+
+00:31:53.200 --> 00:31:55.440
+>> Oh, yeah.
+
+00:31:53.920 --> 00:31:55.800
+>> to the site?
+
+00:31:55.440 --> 00:31:57.600
+>> Reload it.
+
+00:31:55.800 --> 00:31:59.320
+>> Hold on a second. Let me
+
+00:31:57.600 --> 00:32:00.440
+see if the site is running. Yeah, it's
+
+00:31:59.320 --> 00:32:03.120
+still running.
+
+00:32:00.440 --> 00:32:04.760
+I'm just going to go back to this site.
+
+00:32:03.120 --> 00:32:06.160
+All right, here we are.
+
+00:32:04.760 --> 00:32:08.400
+>> Before you add the words without the
+
+00:32:06.160 --> 00:32:10.120
+power goes off the rails. So a little
+
+00:32:08.400 --> 00:32:10.840
+longer of a of a headline.
+
+00:32:10.120 --> 00:32:12.280
+>> Yeah.
+
+00:32:10.840 --> 00:32:14.720
+>> You know, maybe we can definitely change
+
+00:32:12.280 --> 00:32:17.080
+that up, but let's let's go let's go on.
+
+00:32:14.720 --> 00:32:18.560
+>> 100% audit trail of every action, less
+
+00:32:17.080 --> 00:32:19.280
+than 24 hours setup time.
+
+00:32:18.560 --> 00:32:20.920
+>> That's good.
+
+00:32:19.280 --> 00:32:22.520
+>> These are fine.
+
+00:32:20.920 --> 00:32:24.120
+Too busy doing work that shouldn't need
+
+00:32:22.520 --> 00:32:25.200
+you. You want Oh, we forgot to ask you
+
+00:32:24.120 --> 00:32:26.800
+to change this headline.
+
+00:32:25.200 --> 00:32:27.720
+>> Okay, just make a note of that. We can
+
+00:32:26.800 --> 00:32:31.280
+change that.
+
+00:32:27.720 --> 00:32:33.440
+>> I think these are the same, almost.
+
+00:32:31.280 --> 00:32:34.760
+Yeah, AI agent. I think this is also
+
+00:32:33.440 --> 00:32:35.600
+pretty much the same.
+
+00:32:34.760 --> 00:32:37.000
+>> Yeah, as I recall.
+
+00:32:35.600 --> 00:32:39.520
+>> I learned something here. Full
+
+00:32:37.000 --> 00:32:41.040
+observability, guardrails.
+
+00:32:39.520 --> 00:32:42.920
+I changed things up here.
+
+00:32:41.040 --> 00:32:44.160
+>> First call on this from Ivan days.
+
+00:32:42.920 --> 00:32:46.160
+That's kind of the same.
+
+00:32:44.160 --> 00:32:47.520
+>> I think it specifically wanted to keep
+
+00:32:46.160 --> 00:32:49.160
+this as is.
+
+00:32:47.520 --> 00:32:50.200
+Testing one new part.
+
+00:32:49.160 --> 00:32:51.000
+>> Oh, you also got to change the pricing
+
+00:32:50.200 --> 00:32:52.760
+cards.
+
+00:32:51.000 --> 00:32:54.200
+>> Oh, yeah. We we forgot to change it.
+
+00:32:52.760 --> 00:32:55.600
+>> Oh, no. But you know what? You said that
+
+00:32:54.200 --> 00:32:57.520
+you want to keep it for now because that
+
+00:32:55.600 --> 00:32:59.720
+way you can get some easy clients.
+
+00:32:57.520 --> 00:33:01.280
+>> Great. Great. Great. Yeah. Yeah.
+
+00:32:59.720 --> 00:33:02.680
+I I forgot what I mentioned in the
+
+00:33:01.280 --> 00:33:04.160
+>> Even then I still say custom pricing
+
+00:33:02.680 --> 00:33:06.480
+though. I would still add custom
+
+00:33:04.160 --> 00:33:08.040
+pricing. Instead of custom pricing.
+
+00:33:06.480 --> 00:33:10.240
+>> And it's all So, this one
+
+00:33:08.040 --> 00:33:12.400
+Um for this one, right? I wanted to
+
+00:33:10.240 --> 00:33:14.680
+wanted it to say like 2,000 onwards
+
+00:33:12.400 --> 00:33:16.760
+because automation site, some can be
+
+00:33:14.680 --> 00:33:19.600
+complex, some can be simple, right? I
+
+00:33:16.760 --> 00:33:21.040
+wanted to say it onwards, but then I I
+
+00:33:19.600 --> 00:33:22.560
+didn't I I like the
+
+00:33:21.040 --> 00:33:24.560
+>> The better way The better way is this.
+
+00:33:22.560 --> 00:33:27.280
+You say custom pricing, and then on the
+
+00:33:24.560 --> 00:33:28.880
+on the book a call link, you ask them
+
+00:33:27.280 --> 00:33:31.280
+what's their budget. And you give them a
+
+00:33:28.880 --> 00:33:33.280
+range. Zero to 3,000, 3,000 to 10,000,
+
+00:33:31.280 --> 00:33:35.640
+10,000 to 50,000, 50,000 to 100,000,
+
+00:33:33.280 --> 00:33:37.480
+100,000 or plus. And let them pick. That
+
+00:33:35.640 --> 00:33:39.000
+way you're not asking them. In a way,
+
+00:33:37.480 --> 00:33:40.320
+they're kind of just telling you. That
+
+00:33:39.000 --> 00:33:42.160
+way you have an idea even before the
+
+00:33:40.320 --> 00:33:44.400
+sales call happens how much person how
+
+00:33:42.160 --> 00:33:45.200
+much funds this this business has.
+
+00:33:44.400 --> 00:33:45.920
+I mean, I thought that's the way. That's
+
+00:33:45.200 --> 00:33:48.040
+the smart way to do it.
+
+00:33:45.920 --> 00:33:49.080
+>> That way we can also pre-filter people
+
+00:33:48.040 --> 00:33:50.920
+we don't want to work with, right?
+
+00:33:49.080 --> 00:33:52.640
+People who have lower budget.
+
+00:33:50.920 --> 00:33:54.840
+>> Exactly. Versus turning them off
+
+00:33:52.640 --> 00:33:56.840
+directly from the website. And FAQs,
+
+00:33:54.840 --> 00:33:58.800
+they they changed FAQs, I believe.
+
+00:33:56.840 --> 00:34:00.520
+>> Yeah, it reordered a few.
+
+00:33:58.800 --> 00:34:03.080
+>> And I mean, yeah, that's good. So, you
+
+00:34:00.520 --> 00:34:05.680
+can make the the notes that the to-do's
+
+00:34:03.080 --> 00:34:07.400
+for you are one for the pricing card,
+
+00:34:05.680 --> 00:34:09.040
+make it one with custom pricing. And in
+
+00:34:07.400 --> 00:34:11.120
+the pre
+
+00:34:09.040 --> 00:34:13.040
+call like form, the one they fill out
+
+00:34:11.120 --> 00:34:14.560
+like on Calendly.com or Calendly, make
+
+00:34:13.040 --> 00:34:15.159
+sure you ask their budget. Uh
+
+00:34:14.560 --> 00:34:16.520
+>> Yeah.
+
+00:34:15.159 --> 00:34:18.560
+>> Second, make the headline a little
+
+00:34:16.520 --> 00:34:20.120
+shorter, the hero headline.
+
+00:34:18.560 --> 00:34:21.399
+And
+
+00:34:20.120 --> 00:34:22.800
+uh I think that was it.
+
+00:34:21.399 --> 00:34:24.080
+>> Awesome, then.
+
+00:34:22.800 --> 00:34:25.879
+>> Cool. All right, I mean, so you should
+
+00:34:24.080 --> 00:34:26.960
+be good to go, all right? And yeah,
+
+00:34:25.879 --> 00:34:28.679
+after you make these changes, we can
+
+00:34:26.960 --> 00:34:30.399
+reconvene next week and go from there.
+
+00:34:28.679 --> 00:34:31.600
+>> Perfect. All right. Thank you so much.
+
+00:34:30.399 --> 00:34:35.120
+Thank you for your time.
+
+00:34:31.600 --> 00:34:35.120
+>> I'm in. Um peace.
+

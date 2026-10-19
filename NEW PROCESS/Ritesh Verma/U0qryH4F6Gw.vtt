@@ -1,0 +1,1124 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.040
+I cloned a $2 billion app in 1 hour with
+
+00:00:02.080 --> 00:00:06.720
+reverse engineer anything. This viral
+
+00:00:04.040 --> 00:00:09.160
+GitHub repo has over 195,000 GitHub
+
+00:00:06.720 --> 00:00:11.240
+stars and is able to deconstruct any app
+
+00:00:09.160 --> 00:00:13.040
+down to the assembly level, turn it into
+
+00:00:11.240 --> 00:00:15.440
+instructions that you can then feed your
+
+00:00:13.040 --> 00:00:17.000
+AI agent to have it rebuild the app from
+
+00:00:15.440 --> 00:00:18.240
+scratch. As an ex-software engineer
+
+00:00:17.000 --> 00:00:20.640
+who's worked in big tech, I can
+
+00:00:18.240 --> 00:00:21.840
+confidently say now anyone can build. In
+
+00:00:20.640 --> 00:00:25.760
+this video, I'm going to show you how to
+
+00:00:21.840 --> 00:00:27.760
+use REA to clone a $2 billion AI startup
+
+00:00:25.760 --> 00:00:29.200
+and use it for yourself. I honestly
+
+00:00:27.760 --> 00:00:31.360
+don't know how this is legal. So, I have
+
+00:00:29.200 --> 00:00:32.240
+Claude terminal opened up right here,
+
+00:00:31.360 --> 00:00:33.760
+and what we're going to do is we're
+
+00:00:32.240 --> 00:00:35.840
+going to open up the GitHub. So, this is
+
+00:00:33.760 --> 00:00:36.760
+a link, and all we have to do is copy
+
+00:00:35.840 --> 00:00:39.040
+it.
+
+00:00:36.760 --> 00:00:42.120
+Let's go to Claude.
+
+00:00:39.040 --> 00:00:48.200
+I want you to set up
+
+00:00:42.120 --> 00:00:49.480
+reverse engineer anything GitHub repo.
+
+00:00:48.200 --> 00:00:52.000
+This is really all you have to tell
+
+00:00:49.480 --> 00:00:54.040
+Claude to do.
+
+00:00:52.000 --> 00:00:56.160
+And it'll go ahead and go through the
+
+00:00:54.040 --> 00:00:57.960
+repo and just set everything up for us
+
+00:00:56.160 --> 00:01:00.360
+by running one shell command. Let's go
+
+00:00:57.960 --> 00:01:01.680
+ahead and let it do its work. Okay, so
+
+00:01:00.360 --> 00:01:03.920
+it looks like there's an issue with our
+
+00:01:01.680 --> 00:01:05.960
+node version. See, REA requires the
+
+00:01:03.920 --> 00:01:07.680
+latest version node,
+
+00:01:05.960 --> 00:01:09.720
+and I do not have the latest version of
+
+00:01:07.680 --> 00:01:11.800
+node. Luckily, Claude will just go ahead
+
+00:01:09.720 --> 00:01:13.880
+and update our node packages for us, and
+
+00:01:11.800 --> 00:01:16.040
+if it doesn't, you can explicitly tell
+
+00:01:13.880 --> 00:01:18.360
+it, "Update our node package to like the
+
+00:01:16.040 --> 00:01:20.080
+latest version." So, like update node to
+
+00:01:18.360 --> 00:01:23.000
+latest version.
+
+00:01:20.080 --> 00:01:25.160
+And it'll go ahead and do that for us.
+
+00:01:23.000 --> 00:01:27.320
+You can also just conversely search up
+
+00:01:25.160 --> 00:01:29.360
+node.
+
+00:01:27.320 --> 00:01:30.680
+And if you go to
+
+00:01:29.360 --> 00:01:31.760
+the download,
+
+00:01:30.680 --> 00:01:33.800
+you can just download the latest version
+
+00:01:31.760 --> 00:01:36.160
+right here. So, REA is now installed on
+
+00:01:33.800 --> 00:01:38.640
+our computer, and you can see Claude
+
+00:01:36.160 --> 00:01:40.720
+told us that we need either Hopper,
+
+00:01:38.640 --> 00:01:42.800
+Ghidra, or IDA. So, we're going to be
+
+00:01:40.720 --> 00:01:44.920
+using Hopper. Hopper is a fast native
+
+00:01:42.800 --> 00:01:46.760
+macOS disassembler, so any app that we
+
+00:01:44.920 --> 00:01:48.800
+have installed on our computer, Hopper
+
+00:01:46.760 --> 00:01:52.440
+can go ahead and inspect it and break it
+
+00:01:48.800 --> 00:01:54.960
+down into its assembly form, which REA
+
+00:01:52.440 --> 00:01:58.520
+can then use to find and make
+
+00:01:54.960 --> 00:01:59.560
+instructions on rebuilding the app with
+
+00:01:58.520 --> 00:02:01.240
+Claude.
+
+00:01:59.560 --> 00:02:03.400
+So, this is essentially breaking apart
+
+00:02:01.240 --> 00:02:04.640
+the app with Hopper and REA, and then
+
+00:02:03.400 --> 00:02:06.400
+we're also reassembling it, but with
+
+00:02:04.640 --> 00:02:07.479
+Claude.
+
+00:02:06.400 --> 00:02:09.560
+Okay, so we're going to go ahead and
+
+00:02:07.479 --> 00:02:11.280
+tell it install
+
+00:02:09.560 --> 00:02:13.240
+Hopper.
+
+00:02:11.280 --> 00:02:15.840
+Hopper is the one that most people I
+
+00:02:13.240 --> 00:02:18.440
+have talked to and I myself have worked
+
+00:02:15.840 --> 00:02:19.800
+with that use. Uh it's it's trusted.
+
+00:02:18.440 --> 00:02:21.920
+It's it's actually been around for a
+
+00:02:19.800 --> 00:02:24.000
+long time. But, a lot of people didn't
+
+00:02:21.920 --> 00:02:26.240
+know about it until now because of REA's
+
+00:02:24.000 --> 00:02:28.360
+popularity. And as Claude downloads
+
+00:02:26.240 --> 00:02:30.280
+Hopper for us, we are actually entering
+
+00:02:28.360 --> 00:02:32.840
+a time where the software engineering
+
+00:02:30.280 --> 00:02:35.680
+industry might just
+
+00:02:32.840 --> 00:02:38.560
+fall out within the next year. Because
+
+00:02:35.680 --> 00:02:40.080
+software apps that people and companies
+
+00:02:38.560 --> 00:02:41.400
+have spent tens of thousands, or
+
+00:02:40.080 --> 00:02:44.440
+hundreds of thousands of dollars to
+
+00:02:41.400 --> 00:02:47.040
+build, right? That YC and A16Z, these
+
+00:02:44.440 --> 00:02:48.920
+these big incubators have have funded to
+
+00:02:47.040 --> 00:02:52.560
+get these apps built, are now being
+
+00:02:48.920 --> 00:02:55.280
+destroyed one by one by repos such as
+
+00:02:52.560 --> 00:02:57.040
+REA that can literally rebuild an entire
+
+00:02:55.280 --> 00:02:58.240
+app from scratch. This is what you're
+
+00:02:57.040 --> 00:02:59.640
+going to be seeing right here. If you
+
+00:02:58.240 --> 00:03:01.239
+have a license file, which you probably
+
+00:02:59.640 --> 00:03:02.680
+don't. I don't have one either. We're
+
+00:03:01.239 --> 00:03:04.160
+going to go ahead and should try the
+
+00:03:02.680 --> 00:03:06.400
+demo.
+
+00:03:04.160 --> 00:03:07.920
+Okay. So, we now have Hopper installed.
+
+00:03:06.400 --> 00:03:09.800
+So, let's go ahead and just leave that
+
+00:03:07.920 --> 00:03:11.720
+there. Okay, so Hopper is now installed
+
+00:03:09.800 --> 00:03:14.160
+and we can use it. Claude is ready for
+
+00:03:11.720 --> 00:03:15.480
+the next step. Now comes the fun part
+
+00:03:14.160 --> 00:03:18.320
+where we actually turn the software
+
+00:03:15.480 --> 00:03:20.600
+industry on its head and we rebuild a $2
+
+00:03:18.320 --> 00:03:22.800
+billion app, WhisperFlow.
+
+00:03:20.600 --> 00:03:27.560
+So, we're going to go ahead and tell it
+
+00:03:22.800 --> 00:03:30.840
+I want you to use REA
+
+00:03:27.560 --> 00:03:32.800
+to rebuild
+
+00:03:30.840 --> 00:03:35.360
+Whisper
+
+00:03:32.800 --> 00:03:35.360
+Flow
+
+00:03:36.200 --> 00:03:43.720
+on the desktop.
+
+00:03:39.160 --> 00:03:46.560
+And we'll say rebrand it to the name
+
+00:03:43.720 --> 00:03:48.560
+We'll give our clone version WhisperFlow
+
+00:03:46.560 --> 00:03:50.320
+the name Murmur. It's actually inspired
+
+00:03:48.560 --> 00:03:52.959
+by a client of mine who built an app
+
+00:03:50.320 --> 00:03:52.959
+called Murmur.
+
+00:03:53.239 --> 00:03:57.080
+Okay. now this is like the big task that
+
+00:03:55.520 --> 00:03:59.280
+Claude's going to be working on and it
+
+00:03:57.080 --> 00:04:00.960
+is going to take some time, so feel free
+
+00:03:59.280 --> 00:04:03.920
+just maybe give it a pause and I'll
+
+00:04:00.960 --> 00:04:06.200
+return back to when Claude has finished
+
+00:04:03.920 --> 00:04:08.280
+the first version at least of Murmur. I
+
+00:04:06.200 --> 00:04:09.840
+promise you I did not break this, but it
+
+00:04:08.280 --> 00:04:12.080
+looks like
+
+00:04:09.840 --> 00:04:13.840
+we have to bypass system private window
+
+00:04:12.080 --> 00:04:15.920
+picker and directly access screen audio.
+
+00:04:13.840 --> 00:04:17.840
+Whisper Flow is a great way
+
+00:04:15.920 --> 00:04:19.320
+of transcribing your speech to text, so
+
+00:04:17.840 --> 00:04:20.720
+we have to allow this.
+
+00:04:19.320 --> 00:04:25.880
+Let's click allow.
+
+00:04:20.720 --> 00:04:27.600
+And I believe, yep, the app is here.
+
+00:04:25.880 --> 00:04:30.320
+Screw that. Accessibility features open
+
+00:04:27.600 --> 00:04:34.520
+system settings.
+
+00:04:30.320 --> 00:04:34.520
+We're going to have to allow this.
+
+00:04:35.680 --> 00:04:40.880
+Terminal, okay.
+
+00:04:38.040 --> 00:04:43.200
+So, that is done.
+
+00:04:40.880 --> 00:04:45.200
+This is Murmur. Enable for Murmur as
+
+00:04:43.200 --> 00:04:46.240
+well.
+
+00:04:45.200 --> 00:04:49.160
+Okay.
+
+00:04:46.240 --> 00:04:51.160
+So, now it says you have to allow our
+
+00:04:49.160 --> 00:04:52.320
+microphone. This is our remade version
+
+00:04:51.160 --> 00:04:54.800
+of Whisper Flow, so let's go ahead and
+
+00:04:52.320 --> 00:04:57.400
+play around with it a bit more.
+
+00:04:54.800 --> 00:05:00.040
+Allow.
+
+00:04:57.400 --> 00:05:04.240
+Cursor and press key to do nothing or
+
+00:05:00.040 --> 00:05:04.240
+F11 also open the emoji picker.
+
+00:05:05.919 --> 00:05:09.360
+Okay, so it's actually saying to quit
+
+00:05:07.480 --> 00:05:12.560
+Whisper Flow cuz it's looking the same
+
+00:05:09.360 --> 00:05:14.600
+shortcut. So, let me go ahead and
+
+00:05:12.560 --> 00:05:16.520
+take one last look at Whisper Flow. Wow,
+
+00:05:14.600 --> 00:05:18.840
+how beautiful. I'm glad we could remake
+
+00:05:16.520 --> 00:05:18.840
+it.
+
+00:05:20.400 --> 00:05:24.440
+All right, so no more Whisper Flow. I
+
+00:05:22.080 --> 00:05:26.400
+believe since that's gone, if you press
+
+00:05:24.440 --> 00:05:28.360
+F11 it will work.
+
+00:05:26.400 --> 00:05:31.160
+Test, test, test. This is a test
+
+00:05:28.360 --> 00:05:34.240
+sentence. We have successfully cloned a
+
+00:05:31.160 --> 00:05:34.240
+$2 app.
+
+00:05:35.960 --> 00:05:41.760
+A $2
+
+00:05:38.360 --> 00:05:43.080
+app. So, pretty much one-to-one in terms
+
+00:05:41.760 --> 00:05:44.600
+of exactly what I said. Let's do some
+
+00:05:43.080 --> 00:05:46.560
+more.
+
+00:05:44.600 --> 00:05:49.040
+This is another test sentence. I'm
+
+00:05:46.560 --> 00:05:52.600
+speaking more clearer so you can
+
+00:05:49.040 --> 00:05:52.600
+transcribe successfully.
+
+00:05:53.000 --> 00:05:56.440
+There you go. Perfect.
+
+00:05:55.040 --> 00:05:58.160
+Wow.
+
+00:05:56.440 --> 00:06:00.320
+I I might just be able to cancel my
+
+00:05:58.160 --> 00:06:03.000
+subscription to these voice dictation
+
+00:06:00.320 --> 00:06:05.120
+apps now. Start using Murmur.
+
+00:06:03.000 --> 00:06:06.800
+This is how it looks like. Streak
+
+00:06:05.120 --> 00:06:09.440
+dictate as speaking pace, save versus
+
+00:06:06.800 --> 00:06:10.800
+typing, hold dictate. Now, transparently
+
+00:06:09.440 --> 00:06:13.280
+doesn't look as good as Wester Flow's
+
+00:06:10.800 --> 00:06:15.800
+UI, but it works the exact same. We have
+
+00:06:13.280 --> 00:06:17.200
+a dictionary, we have snippet, bits,
+
+00:06:15.800 --> 00:06:20.840
+style,
+
+00:06:17.200 --> 00:06:23.000
+formal, casual, very casual, email,
+
+00:06:20.840 --> 00:06:25.160
+and our own notes part. So, if we were
+
+00:06:23.000 --> 00:06:27.400
+to compare, let's open up Wester Flow
+
+00:06:25.160 --> 00:06:29.080
+again.
+
+00:06:27.400 --> 00:06:32.240
+Again, like the Wester Flow's UI is
+
+00:06:29.080 --> 00:06:33.640
+definitely way better than this one.
+
+00:06:32.240 --> 00:06:35.680
+Let's see if we can just I guess we
+
+00:06:33.640 --> 00:06:38.480
+can't. Let's do a side-by-side
+
+00:06:35.680 --> 00:06:38.480
+comparison.
+
+00:06:38.919 --> 00:06:43.560
+So, this is Wester Flow. It has a lot
+
+00:06:40.240 --> 00:06:45.720
+more statistics compared to ours. Ours
+
+00:06:43.560 --> 00:06:50.080
+is definitely more plain.
+
+00:06:45.720 --> 00:06:53.080
+Wester Flow also has more features.
+
+00:06:50.080 --> 00:06:53.080
+Um
+
+00:06:54.200 --> 00:06:57.560
+Okay, but this works and that's what's
+
+00:06:56.160 --> 00:07:00.720
+really important. Now, we have to make
+
+00:06:57.560 --> 00:07:03.040
+sure if we close Wester Flow that we can
+
+00:07:00.720 --> 00:07:04.760
+use
+
+00:07:03.040 --> 00:07:07.720
+this application
+
+00:07:04.760 --> 00:07:09.760
+on regular Google search. So, if I hold
+
+00:07:07.720 --> 00:07:11.880
+FN, let's say I
+
+00:07:09.760 --> 00:07:15.040
+open up a new
+
+00:07:11.880 --> 00:07:17.000
+browser. If I press FN and do a search,
+
+00:07:15.040 --> 00:07:19.640
+will it transcribe what I say?
+
+00:07:17.000 --> 00:07:21.600
+Transcribe what I say.
+
+00:07:19.640 --> 00:07:24.280
+Oh, there you go. It worked.
+
+00:07:21.600 --> 00:07:26.320
+Perfect. So, we have successfully cloned
+
+00:07:24.280 --> 00:07:28.520
+the app itself,
+
+00:07:26.320 --> 00:07:30.520
+which is amazing.
+
+00:07:28.520 --> 00:07:32.480
+Uh but saying that there's some features
+
+00:07:30.520 --> 00:07:34.360
+not built,
+
+00:07:32.480 --> 00:07:35.840
+meaning note-taker accounts, pausing
+
+00:07:34.360 --> 00:07:37.840
+media while dictating, our learned
+
+00:07:35.840 --> 00:07:41.800
+dictionary words.
+
+00:07:37.840 --> 00:07:43.440
+So, now it's up to us to change the app
+
+00:07:41.800 --> 00:07:45.240
+a little a bit and maybe add more
+
+00:07:43.440 --> 00:07:46.680
+features that Westerflow doesn't have,
+
+00:07:45.240 --> 00:07:47.960
+copy some of the features that have been
+
+00:07:46.680 --> 00:07:48.960
+already added like the meeting note
+
+00:07:47.960 --> 00:07:51.120
+taker,
+
+00:07:48.960 --> 00:07:53.200
+and just do what we want to do and be
+
+00:07:51.120 --> 00:07:55.920
+extremely creative because we cloned our
+
+00:07:53.200 --> 00:08:00.120
+successfully. The app is good. However,
+
+00:07:55.920 --> 00:08:02.520
+I want to make it have a light and dark
+
+00:08:00.120 --> 00:08:06.360
+theme. I want the colors to be more
+
+00:08:02.520 --> 00:08:07.440
+black, white, and light blue, like a sky
+
+00:08:06.360 --> 00:08:09.600
+blue.
+
+00:08:07.440 --> 00:08:11.480
+I want you to create the meeting note
+
+00:08:09.600 --> 00:08:14.800
+taker feature.
+
+00:08:11.480 --> 00:08:17.200
+And I also want you to
+
+00:08:14.800 --> 00:08:19.960
+add some more analytics that Westerflow
+
+00:08:17.200 --> 00:08:19.960
+does not have.
+
+00:08:21.560 --> 00:08:25.960
+We can just say analytics.
+
+00:08:23.960 --> 00:08:26.919
+It's funny how I'm using our cloned app
+
+00:08:25.960 --> 00:08:29.960
+to
+
+00:08:26.919 --> 00:08:32.560
+make Claude update it. So, Claude has
+
+00:08:29.960 --> 00:08:35.320
+just finished rebuilding our app and
+
+00:08:32.560 --> 00:08:36.800
+adding analytics, testing it, even a
+
+00:08:35.320 --> 00:08:38.800
+meeting note taker, which is I mean
+
+00:08:36.800 --> 00:08:40.120
+that's freaking amazing.
+
+00:08:38.800 --> 00:08:41.800
+So, if you look at the new version, the
+
+00:08:40.120 --> 00:08:43.440
+color scheme is entirely different just
+
+00:08:41.800 --> 00:08:46.240
+like we asked for.
+
+00:08:43.440 --> 00:08:47.520
+You see meetings, I start meeting notes.
+
+00:08:46.240 --> 00:08:48.880
+So, if I click start meeting notes.
+
+00:08:47.520 --> 00:08:52.520
+Okay, so it's going to ask for my system
+
+00:08:48.880 --> 00:08:53.680
+audio, allow. Um so, it's recording. Um
+
+00:08:52.520 --> 00:08:56.200
+obviously, we don't really need this
+
+00:08:53.680 --> 00:08:56.200
+right now.
+
+00:08:57.240 --> 00:09:02.280
+Cool. Transcript. There you go, there's
+
+00:08:59.440 --> 00:09:04.960
+a transcript as well. Wow. So, now I I
+
+00:09:02.280 --> 00:09:07.080
+might even be able to not use other
+
+00:09:04.960 --> 00:09:10.280
+applications like Granola
+
+00:09:07.080 --> 00:09:12.240
+for recording my meetings now. Insights.
+
+00:09:10.280 --> 00:09:14.440
+So, this is more in-depth analytics. We
+
+00:09:12.240 --> 00:09:17.640
+have activity, when I dictate, where I
+
+00:09:14.440 --> 00:09:19.480
+dictate, words per day.
+
+00:09:17.640 --> 00:09:21.680
+This is unlimited, right? There's no I
+
+00:09:19.480 --> 00:09:24.040
+don't have to pay a higher subscription
+
+00:09:21.680 --> 00:09:25.640
+to get more words dictated.
+
+00:09:24.040 --> 00:09:27.920
+And everything else is the same. I have
+
+00:09:25.640 --> 00:09:28.839
+a light theme as well, okay.
+
+00:09:27.920 --> 00:09:31.000
+And now I can definitely make this look
+
+00:09:28.839 --> 00:09:33.880
+a lot prettier and keep prompting Claude
+
+00:09:31.000 --> 00:09:35.839
+and make this just a whole lot better.
+
+00:09:33.880 --> 00:09:38.040
+But, we're going to move on to actually
+
+00:09:35.839 --> 00:09:39.120
+once you've cloned an app
+
+00:09:38.040 --> 00:09:41.200
+and you've added maybe some more
+
+00:09:39.120 --> 00:09:43.360
+features, right? Changed the look of it.
+
+00:09:41.200 --> 00:09:44.920
+How can you take it to market and
+
+00:09:43.360 --> 00:09:46.480
+actually make money from this? So, to
+
+00:09:44.920 --> 00:09:48.120
+show you how it's done, we're going to
+
+00:09:46.480 --> 00:09:50.320
+go over the marketing plan that we'll be
+
+00:09:48.120 --> 00:09:52.280
+following. Before that, I want you to
+
+00:09:50.320 --> 00:09:54.840
+understand what we just did. We cloned a
+
+00:09:52.280 --> 00:09:57.800
+$2 billion valuation app in just two
+
+00:09:54.840 --> 00:09:59.160
+prompts. WhisperFlow to Murmur. So,
+
+00:09:57.800 --> 00:10:02.440
+WhisperFlow, again, $2 billion
+
+00:09:59.160 --> 00:10:05.280
+valuation, has raised $361 million
+
+00:10:02.440 --> 00:10:07.240
+and through just two prompts in Claude,
+
+00:10:05.280 --> 00:10:09.160
+the first one being install REA and the
+
+00:10:07.240 --> 00:10:11.680
+second one being clone WhisperFlow, we
+
+00:10:09.160 --> 00:10:14.320
+were able to not only replicate it, but
+
+00:10:11.680 --> 00:10:15.880
+make our own version and add our own
+
+00:10:14.320 --> 00:10:17.440
+features with a third prompt. And of
+
+00:10:15.880 --> 00:10:18.720
+course, we can make it even better. But,
+
+00:10:17.440 --> 00:10:21.080
+this is what's possible when you use a
+
+00:10:18.720 --> 00:10:22.920
+new GitHub repo, REA. Like, you should
+
+00:10:21.080 --> 00:10:24.840
+be using it right now, even if you're
+
+00:10:22.920 --> 00:10:26.080
+not a technical person, cuz it's
+
+00:10:24.840 --> 00:10:27.040
+literally showing that you don't have to
+
+00:10:26.080 --> 00:10:28.240
+have a computer science degree. You
+
+00:10:27.040 --> 00:10:30.520
+don't have to be an ex-software engineer
+
+00:10:28.240 --> 00:10:32.960
+like me to be able to create apps that
+
+00:10:30.520 --> 00:10:34.160
+are, you know, worth so much. So, it's
+
+00:10:32.960 --> 00:10:35.800
+insane.
+
+00:10:34.160 --> 00:10:37.920
+Now, if you look at the marketing plan,
+
+00:10:35.800 --> 00:10:40.640
+the cool part about all this is we have
+
+00:10:37.920 --> 00:10:42.960
+a cloned app, meaning we can copy the
+
+00:10:40.640 --> 00:10:44.160
+marketing plan of the app we cloned. Of
+
+00:10:42.960 --> 00:10:46.040
+course, make some changes and not make
+
+00:10:44.160 --> 00:10:48.839
+the mistakes they did. So, right now
+
+00:10:46.040 --> 00:10:50.680
+we're at $0 MRR. So, here's how our week
+
+00:10:48.839 --> 00:10:53.880
+one could could look like. We have a
+
+00:10:50.680 --> 00:10:55.760
+free plan with a usage cap, 7-day trial
+
+00:10:53.880 --> 00:10:58.720
+of pro, it's the same thing our cloned
+
+00:10:55.760 --> 00:11:00.200
+app our clone uses or our original uses.
+
+00:10:58.720 --> 00:11:02.760
+Then we could personally onboard our
+
+00:11:00.200 --> 00:11:04.120
+first 20-50 users on 15-minute calls.
+
+00:11:02.760 --> 00:11:05.760
+So, essentially, this is called founder
+
+00:11:04.120 --> 00:11:07.520
+onboarding where they you have them book
+
+00:11:05.760 --> 00:11:09.400
+a call with you and you manually show
+
+00:11:07.520 --> 00:11:11.040
+them the product. It is a lot of work,
+
+00:11:09.400 --> 00:11:13.920
+but in the beginning it's a great way to
+
+00:11:11.040 --> 00:11:16.240
+grandfather users in.
+
+00:11:13.920 --> 00:11:17.920
+Then post one honest bill / demo video a
+
+00:11:16.240 --> 00:11:20.520
+day, so we can start posting on
+
+00:11:17.920 --> 00:11:22.640
+Instagram, YouTube, and getting people
+
+00:11:20.520 --> 00:11:24.520
+to learn more about our product. Launch
+
+00:11:22.640 --> 00:11:26.880
+on Product Hunt, which is a great place
+
+00:11:24.520 --> 00:11:28.440
+to show off your products and get some
+
+00:11:26.880 --> 00:11:31.360
+more users.
+
+00:11:28.440 --> 00:11:34.200
+Then, at this point we could hit 1K MRR.
+
+00:11:31.360 --> 00:11:35.600
+Next step is to get to the 5K MRR point,
+
+00:11:34.200 --> 00:11:37.280
+right? So, what does that look like?
+
+00:11:35.600 --> 00:11:40.320
+Month 1 to 3,
+
+00:11:37.280 --> 00:11:42.440
+you can make posts in subreddits that
+
+00:11:40.320 --> 00:11:45.560
+will not only boost our Google ranking,
+
+00:11:42.440 --> 00:11:47.480
+but also get us traffic from Reddit.
+
+00:11:45.560 --> 00:11:50.240
+We can DM people post about the problem,
+
+00:11:47.480 --> 00:11:52.120
+so we can DM other creators who are also
+
+00:11:50.240 --> 00:11:53.920
+in the software niche or productivity
+
+00:11:52.120 --> 00:11:55.200
+niche and tell them, "Hey, talk about
+
+00:11:53.920 --> 00:11:57.720
+our product."
+
+00:11:55.200 --> 00:11:59.880
+And all the users who are happy with our
+
+00:11:57.720 --> 00:12:02.280
+product, we make a testimonials and use
+
+00:11:59.880 --> 00:12:04.400
+their testimonials as content pieces.
+
+00:12:02.280 --> 00:12:06.920
+And we can also try getting B2B deals,
+
+00:12:04.400 --> 00:12:09.480
+like having a free pro for a month for
+
+00:12:06.920 --> 00:12:11.760
+students. Whisper did this as well and
+
+00:12:09.480 --> 00:12:13.880
+it brought in a lot of new users.
+
+00:12:11.760 --> 00:12:15.440
+And then to scale to 10K MRR, this is
+
+00:12:13.880 --> 00:12:17.440
+where we start giving more affiliate
+
+00:12:15.440 --> 00:12:20.240
+links for small creators, so they are
+
+00:12:17.440 --> 00:12:22.240
+able to get commission off of every sell
+
+00:12:20.240 --> 00:12:23.440
+that they every sell that they bring to
+
+00:12:22.240 --> 00:12:24.080
+Murmur.
+
+00:12:23.440 --> 00:12:25.800
+We
+
+00:12:24.080 --> 00:12:27.360
+also ask happy users to tell a friend or
+
+00:12:25.800 --> 00:12:28.600
+post quick reviews, so word-of-mouth
+
+00:12:27.360 --> 00:12:30.680
+referrals.
+
+00:12:28.600 --> 00:12:32.680
+Keep posting daily, right? And you talk
+
+00:12:30.680 --> 00:12:34.920
+turn the top user questions to videos.
+
+00:12:32.680 --> 00:12:36.640
+This way we can pre-objection handle
+
+00:12:34.920 --> 00:12:38.200
+anyone who might be thinking, "Oh, do I
+
+00:12:36.640 --> 00:12:39.680
+really need this product?" We'll make
+
+00:12:38.200 --> 00:12:40.720
+content and convincing them that yes,
+
+00:12:39.680 --> 00:12:42.080
+they do.
+
+00:12:40.720 --> 00:12:44.880
+And of course, we'll keep iterating our
+
+00:12:42.080 --> 00:12:47.320
+app, make it better using Claude and
+
+00:12:44.880 --> 00:12:49.160
+anything that we see our competitors do,
+
+00:12:47.320 --> 00:12:50.760
+we can quickly add into our own working
+
+00:12:49.160 --> 00:12:53.160
+version cuz and we already have a
+
+00:12:50.760 --> 00:12:55.320
+version that competes at 80% of the
+
+00:12:53.160 --> 00:12:57.200
+original. If you copy this marketing
+
+00:12:55.320 --> 00:13:00.240
+plan successfully, you should be able to
+
+00:12:57.200 --> 00:13:01.920
+hit some sort of MRR. It might not be at
+
+00:13:00.240 --> 00:13:03.960
+this level, it could be less or more,
+
+00:13:01.920 --> 00:13:05.320
+but the idea is your app will be growing
+
+00:13:03.960 --> 00:13:07.200
+and you'll be able to start getting
+
+00:13:05.320 --> 00:13:10.200
+revenue off an app that you clone that
+
+00:13:07.200 --> 00:13:12.280
+has been proven to work. Right? So,
+
+00:13:10.200 --> 00:13:14.000
+again, to recap the steps,
+
+00:13:12.280 --> 00:13:15.839
+find the app that you want to clone,
+
+00:13:14.000 --> 00:13:17.839
+have REA do it, connect it with Claude
+
+00:13:15.839 --> 00:13:20.120
+so it can rebuild it, and then follow
+
+00:13:17.839 --> 00:13:22.640
+the marketing plan that your original
+
+00:13:20.120 --> 00:13:23.800
+competitor used and just do it better
+
+00:13:22.640 --> 00:13:25.400
+than them. Don't make the mistakes they
+
+00:13:23.800 --> 00:13:27.360
+did and you can have an app that's
+
+00:13:25.400 --> 00:13:28.760
+hitting numbers like this or shoot,
+
+00:13:27.360 --> 00:13:30.240
+maybe even like this down the road, who
+
+00:13:28.760 --> 00:13:32.840
+knows. Now, if you want to learn how to
+
+00:13:30.240 --> 00:13:35.120
+use REA and Claude to build a successful
+
+00:13:32.840 --> 00:13:37.640
+one-person AI business, watch this video
+
+00:13:35.120 --> 00:13:37.640
+next.
+

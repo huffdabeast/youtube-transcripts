@@ -1,0 +1,668 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.480
+So, Claude Fable was just suspended
+
+00:00:03.160 --> 00:00:08.120
+apparently by the US government. So, if
+
+00:00:06.480 --> 00:00:09.560
+you look right here, this is this is
+
+00:00:08.120 --> 00:00:10.680
+pretty nuts by the way. This literally
+
+00:00:09.560 --> 00:00:12.400
+just happened in the last few minutes.
+
+00:00:10.680 --> 00:00:13.840
+So, if you look right here,
+
+00:00:12.400 --> 00:00:16.240
+it says, "Make me a trillionaire. Make
+
+00:00:13.840 --> 00:00:17.920
+no mistakes." And I press enter, you
+
+00:00:16.240 --> 00:00:19.920
+know, I have Claude Fable suggested, and
+
+00:00:17.920 --> 00:00:22.080
+you can see that that pops up and it's
+
+00:00:19.920 --> 00:00:23.400
+like it's not letting me do it. And it
+
+00:00:22.080 --> 00:00:25.280
+won't even tell me why. I'll do it
+
+00:00:23.400 --> 00:00:26.680
+again. It's like, "Oh, pops up. Oh, this
+
+00:00:25.280 --> 00:00:28.640
+model isn't available right now. Da da
+
+00:00:26.680 --> 00:00:30.320
+da da da da." Won't even tell me why.
+
+00:00:28.640 --> 00:00:32.920
+But then when you go here and you select
+
+00:00:30.320 --> 00:00:34.320
+4.8, somehow it comes up. You click
+
+00:00:32.920 --> 00:00:38.240
+learn more,
+
+00:00:34.320 --> 00:00:40.400
+and this article is going to pop up.
+
+00:00:38.240 --> 00:00:42.680
+Statement on the US government directive
+
+00:00:40.400 --> 00:00:45.240
+to suspend access to Fable 5 and Mythos
+
+00:00:42.680 --> 00:00:46.960
+5. So, the US government citing national
+
+00:00:45.240 --> 00:00:50.120
+security authorities has issued an
+
+00:00:46.960 --> 00:00:52.480
+export control directive to suspend all
+
+00:00:50.120 --> 00:00:54.800
+access to Fable 5 and Mythos 5 by any
+
+00:00:52.480 --> 00:00:56.600
+foreign national, whether inside or
+
+00:00:54.800 --> 00:00:59.120
+outside of the United States, including
+
+00:00:56.600 --> 00:01:00.880
+foreign national Anthropic employees.
+
+00:00:59.120 --> 00:01:03.840
+The net effective this order is that we
+
+00:01:00.880 --> 00:01:06.360
+must abruptly disable Fable 5 and Mythos
+
+00:01:03.840 --> 00:01:08.840
+5 for all of our customers to ensure
+
+00:01:06.360 --> 00:01:11.040
+compliance. Access to all Anthropic
+
+00:01:08.840 --> 00:01:12.360
+models will not be affected.
+
+00:01:11.040 --> 00:01:15.520
+And we received the directive from the
+
+00:01:12.360 --> 00:01:17.280
+government today at 5:21 p.m. Eastern
+
+00:01:15.520 --> 00:01:18.760
+Time. The letter did not provide
+
+00:01:17.280 --> 00:01:20.920
+specific details of its national
+
+00:01:18.760 --> 00:01:22.520
+security concern. Our understanding is
+
+00:01:20.920 --> 00:01:24.680
+that the government believes that it has
+
+00:01:22.520 --> 00:01:27.400
+become aware of a method of bypassing or
+
+00:01:24.680 --> 00:01:29.120
+jailbreaking Fable 5. We reviewed a
+
+00:01:27.400 --> 00:01:30.920
+demonstration of this specific technique
+
+00:01:29.120 --> 00:01:33.440
+being used to identify a small number of
+
+00:01:30.920 --> 00:01:35.520
+previously known minor vulnerabilities.
+
+00:01:33.440 --> 00:01:37.680
+These vulnerabilities all appear
+
+00:01:35.520 --> 00:01:39.880
+relatively simple, and we have found
+
+00:01:37.680 --> 00:01:41.320
+that other publicly available models are
+
+00:01:39.880 --> 00:01:43.320
+able to discover them as well without
+
+00:01:41.320 --> 00:01:44.920
+requiring a bypass.
+
+00:01:43.320 --> 00:01:46.880
+Anthropic's posture with respect to
+
+00:01:44.920 --> 00:01:49.640
+Fable safeguards as laid out in our
+
+00:01:46.880 --> 00:01:51.760
+launch blog post is the following. We
+
+00:01:49.640 --> 00:01:53.360
+have instituted strong safeguards, etc.
+
+00:01:51.760 --> 00:01:54.400
+etc.
+
+00:01:53.360 --> 00:01:55.600
+Yeah, I mean there's there's other
+
+00:01:54.400 --> 00:01:57.040
+information they put on here. We'll
+
+00:01:55.600 --> 00:01:59.320
+we'll go over it here in a moment, but
+
+00:01:57.040 --> 00:02:02.920
+basically there's a few things with this
+
+00:01:59.320 --> 00:02:05.960
+one. So, you know, it could be 100% true
+
+00:02:02.920 --> 00:02:06.920
+and it also could be partially true
+
+00:02:05.960 --> 00:02:08.440
+where they're being partially
+
+00:02:06.920 --> 00:02:09.720
+transparent with people, but it's also
+
+00:02:08.440 --> 00:02:11.400
+kind of marketing. And then it could
+
+00:02:09.720 --> 00:02:13.600
+just be kind of like a marketing stunt.
+
+00:02:11.400 --> 00:02:16.920
+Now, why is this? Well, it's because
+
+00:02:13.600 --> 00:02:18.959
+Anthropic is about to go public, right?
+
+00:02:16.920 --> 00:02:21.240
+So, they are trying to go public. They
+
+00:02:18.959 --> 00:02:23.680
+want the stock price to be as high as
+
+00:02:21.240 --> 00:02:26.320
+possible. They want a a very very good
+
+00:02:23.680 --> 00:02:27.640
+public launch. Not only for the company,
+
+00:02:26.320 --> 00:02:29.720
+but also for the employees. You know, a
+
+00:02:27.640 --> 00:02:32.360
+lot of the employees have stock options.
+
+00:02:29.720 --> 00:02:34.160
+They have equity in the company and when
+
+00:02:32.360 --> 00:02:36.000
+they go public, they a lot of them
+
+00:02:34.160 --> 00:02:38.000
+probably are going to liquidate that and
+
+00:02:36.000 --> 00:02:40.000
+and, you know, make a bunch of money,
+
+00:02:38.000 --> 00:02:42.120
+right? So,
+
+00:02:40.000 --> 00:02:44.040
+this is what's really happening here. A
+
+00:02:42.120 --> 00:02:46.000
+lot of this Mythos stuff, in my opinion,
+
+00:02:44.040 --> 00:02:48.280
+right? So, this is just my opinion. I
+
+00:02:46.000 --> 00:02:50.520
+think what's really happening here is a
+
+00:02:48.280 --> 00:02:52.240
+lot of this Mythos stuff and Fable 5
+
+00:02:50.520 --> 00:02:53.800
+stuff, I think it's it's partially
+
+00:02:52.240 --> 00:02:55.959
+marketing. Of course,
+
+00:02:53.800 --> 00:02:57.200
+the best marketing has some truth to it.
+
+00:02:55.959 --> 00:02:58.280
+It always has to have some truth to it.
+
+00:02:57.200 --> 00:03:00.920
+So, there's definitely some truth to
+
+00:02:58.280 --> 00:03:02.800
+this, but they are without a doubt using
+
+00:03:00.920 --> 00:03:04.640
+a lot of this publicity for marketing
+
+00:03:02.800 --> 00:03:06.200
+reasons, which is smart. It's a smart
+
+00:03:04.640 --> 00:03:07.840
+thing to do. You know, everyone's
+
+00:03:06.200 --> 00:03:09.360
+talking about Mythos 5. Everyone's
+
+00:03:07.840 --> 00:03:12.280
+talking about Fable 5. I'm sure this is
+
+00:03:09.360 --> 00:03:15.600
+going to cause a lot of people to pick
+
+00:03:12.280 --> 00:03:17.640
+up the story as well. Additionally,
+
+00:03:15.600 --> 00:03:20.280
+if you just look back at the last time
+
+00:03:17.640 --> 00:03:23.000
+that Claude sort of interacted with the
+
+00:03:20.280 --> 00:03:25.360
+government, they were able to
+
+00:03:23.000 --> 00:03:27.360
+essentially get a lot of press and
+
+00:03:25.360 --> 00:03:29.120
+coverage from that because they, you
+
+00:03:27.360 --> 00:03:31.640
+know, they made ChatGPT look like the
+
+00:03:29.120 --> 00:03:33.680
+bad guy.
+
+00:03:31.640 --> 00:03:35.000
+And Claude and or Anthropic looked like
+
+00:03:33.680 --> 00:03:36.400
+the good guy, right? And the government
+
+00:03:35.000 --> 00:03:37.680
+kind of looked like the the bad guy as
+
+00:03:36.400 --> 00:03:39.360
+well, right? So, they were able to get a
+
+00:03:37.680 --> 00:03:42.959
+massive amount of press. With that being
+
+00:03:39.360 --> 00:03:44.840
+said, it is without a doubt factual that
+
+00:03:42.959 --> 00:03:47.280
+they benefited from that entire
+
+00:03:44.840 --> 00:03:48.840
+situation tremendously. They got a lot
+
+00:03:47.280 --> 00:03:51.720
+of attention from it and they benefited
+
+00:03:48.840 --> 00:03:53.560
+from it tremendously, right? So, I think
+
+00:03:51.720 --> 00:03:56.120
+that in my opinion, this is a little bit
+
+00:03:53.560 --> 00:03:57.440
+of them trying to There's obviously some
+
+00:03:56.120 --> 00:03:59.200
+truth to this. Obviously, the US
+
+00:03:57.440 --> 00:04:01.360
+government is probably doing this. I
+
+00:03:59.200 --> 00:04:03.360
+would be willing to bet that they
+
+00:04:01.360 --> 00:04:06.760
+probably reinstate it within the next
+
+00:04:03.360 --> 00:04:08.520
+couple days, but without a doubt, this
+
+00:04:06.760 --> 00:04:11.560
+is
+
+00:04:08.520 --> 00:04:12.959
+almost certainly a very very intelligent
+
+00:04:11.560 --> 00:04:15.480
+marketing stunt. That's one thing that
+
+00:04:12.959 --> 00:04:17.760
+I've kind of seen over and over again
+
+00:04:15.480 --> 00:04:19.519
+from Claude is they are just
+
+00:04:17.760 --> 00:04:20.880
+significantly
+
+00:04:19.519 --> 00:04:23.560
+better at marketing. They're just
+
+00:04:20.880 --> 00:04:25.040
+running circles around ChatGPT when it
+
+00:04:23.560 --> 00:04:26.840
+comes to marketing. I think the average
+
+00:04:25.040 --> 00:04:30.840
+consumer, for instance, doesn't even
+
+00:04:26.840 --> 00:04:32.360
+know that Codex Codex and ChatGPT are
+
+00:04:30.840 --> 00:04:33.919
+the same thing. Right? The average
+
+00:04:32.360 --> 00:04:35.240
+consumer has no idea. They think, "Oh,
+
+00:04:33.919 --> 00:04:36.880
+Codex. Oh, that's a different company,
+
+00:04:35.240 --> 00:04:39.080
+right?" When in reality, you know,
+
+00:04:36.880 --> 00:04:41.320
+ChatGPT is like that that is Codex,
+
+00:04:39.080 --> 00:04:42.480
+right? Like they own Codex, you know.
+
+00:04:41.320 --> 00:04:44.360
+They came out with Codex, but the
+
+00:04:42.480 --> 00:04:46.200
+average person definitely knows that
+
+00:04:44.360 --> 00:04:47.440
+Claude and Claude Code are related,
+
+00:04:46.200 --> 00:04:49.520
+right? It's just stuff as simple as
+
+00:04:47.440 --> 00:04:51.480
+that. They're just so much better at
+
+00:04:49.520 --> 00:04:53.919
+marketing than ChatGPT, and they've just
+
+00:04:51.480 --> 00:04:55.320
+been absolutely crushing it. So, in my
+
+00:04:53.919 --> 00:04:57.120
+opinion, that's what's happening here.
+
+00:04:55.320 --> 00:04:59.360
+Now, obviously, there's you know,
+
+00:04:57.120 --> 00:05:00.880
+there's something to like there's
+
+00:04:59.360 --> 00:05:03.000
+definitely some truth in all of this as
+
+00:05:00.880 --> 00:05:05.680
+well, obviously, but in my opinion, that
+
+00:05:03.000 --> 00:05:08.440
+is what is happening. I believe that
+
+00:05:05.680 --> 00:05:10.520
+that Claude is using this as a
+
+00:05:08.440 --> 00:05:11.680
+bit of a marketing stunt. So,
+
+00:05:10.520 --> 00:05:13.520
+there's truth to it, but they're using
+
+00:05:11.680 --> 00:05:15.360
+it as a marketing stunt. Fable is not
+
+00:05:13.520 --> 00:05:18.520
+available right now. That's too bad. I
+
+00:05:15.360 --> 00:05:20.480
+was spending like the last few days just
+
+00:05:18.520 --> 00:05:22.800
+like using it all the time, and it is
+
+00:05:20.480 --> 00:05:25.200
+great. Fable's really good. It has
+
+00:05:22.800 --> 00:05:26.919
+up-leveled content creation. It does
+
+00:05:25.200 --> 00:05:29.480
+take a lot of tokens. It is quite slow,
+
+00:05:26.919 --> 00:05:31.680
+but it is without a doubt a very very
+
+00:05:29.480 --> 00:05:34.680
+good tool, and it is an upgrade when it
+
+00:05:31.680 --> 00:05:36.240
+comes to content creation over Opus 4.8
+
+00:05:34.680 --> 00:05:37.160
+Max, right?
+
+00:05:36.240 --> 00:05:39.120
+Don't know how long this is going to
+
+00:05:37.160 --> 00:05:40.600
+last. Maybe it just lasts a few hours.
+
+00:05:39.120 --> 00:05:42.320
+Maybe it lasts a few days. Maybe it
+
+00:05:40.600 --> 00:05:44.080
+lasts a few weeks. Who knows?
+
+00:05:42.320 --> 00:05:47.280
+Potentially, this is the government
+
+00:05:44.080 --> 00:05:48.760
+striking back at Claude for kind of
+
+00:05:47.280 --> 00:05:50.840
+throwing them under the bus and making
+
+00:05:48.760 --> 00:05:52.840
+them look bad and that kind of little
+
+00:05:50.840 --> 00:05:55.640
+drama that they had earlier. That's that
+
+00:05:52.840 --> 00:05:57.640
+is you could say that that might be
+
+00:05:55.640 --> 00:05:59.440
+something that that happened there. But
+
+00:05:57.640 --> 00:06:01.440
+yeah, so basically that that's kind of
+
+00:05:59.440 --> 00:06:03.480
+what they are implying here. They're
+
+00:06:01.440 --> 00:06:06.160
+implying that they disagree with the
+
+00:06:03.480 --> 00:06:09.120
+government's ruling on it. And they're
+
+00:06:06.160 --> 00:06:12.640
+saying that other models for instance
+
+00:06:09.120 --> 00:06:15.400
+are, you know, just as likely to have
+
+00:06:12.640 --> 00:06:16.240
+the same vulnerabilities and there's
+
+00:06:15.400 --> 00:06:17.600
+only
+
+00:06:16.240 --> 00:06:18.800
+you know, only verbal evidence that the
+
+00:06:17.600 --> 00:06:20.919
+government has given them. They haven't
+
+00:06:18.800 --> 00:06:23.160
+given them any direct examples or any
+
+00:06:20.919 --> 00:06:24.600
+direct evidence or anything like that.
+
+00:06:23.160 --> 00:06:26.400
+And yeah, they're complying with the
+
+00:06:24.600 --> 00:06:28.000
+government's legal directive and they're
+
+00:06:26.400 --> 00:06:30.320
+removing access to Fable 5 and
+
+00:06:28.000 --> 00:06:31.840
+Midjourney for all users. However, we
+
+00:06:30.320 --> 00:06:34.200
+disagree that the finding of the narrow
+
+00:06:31.840 --> 00:06:36.360
+potential jailbreak could cause for
+
+00:06:34.200 --> 00:06:38.200
+recalling a commercial model deployed to
+
+00:06:36.360 --> 00:06:39.240
+hundreds of millions of people. If this
+
+00:06:38.200 --> 00:06:40.640
+standard was applied across the
+
+00:06:39.240 --> 00:06:42.400
+industry, we would believe it would
+
+00:06:40.640 --> 00:06:44.160
+essentially halt all new model
+
+00:06:42.400 --> 00:06:45.440
+deployments for all frontier model
+
+00:06:44.160 --> 00:06:46.919
+providers.
+
+00:06:45.440 --> 00:06:48.120
+As we have stated publicly, we believe
+
+00:06:46.919 --> 00:06:50.080
+the government should have the ability
+
+00:06:48.120 --> 00:06:51.880
+to block unsafe deployment as part of
+
+00:06:50.080 --> 00:06:53.760
+the statutory process that is
+
+00:06:51.880 --> 00:06:55.880
+transparent, fair, clear, and grounded
+
+00:06:53.760 --> 00:06:58.480
+in technical facts. This action does not
+
+00:06:55.880 --> 00:07:00.520
+adhere to those principles, right? So,
+
+00:06:58.480 --> 00:07:02.240
+yeah, that is interesting interesting
+
+00:07:00.520 --> 00:07:04.160
+development here and we'll see what's
+
+00:07:02.240 --> 00:07:05.640
+happening. This live training will be on
+
+00:07:04.160 --> 00:07:07.120
+how to use Claude to create content,
+
+00:07:05.640 --> 00:07:09.080
+specifically grow your personal brand on
+
+00:07:07.120 --> 00:07:10.800
+YouTube. You can also use it to
+
+00:07:09.080 --> 00:07:12.120
+literally do the business itself. So, if
+
+00:07:10.800 --> 00:07:14.280
+you're launching like a service business
+
+00:07:12.120 --> 00:07:16.520
+for instance or you already do a service
+
+00:07:14.280 --> 00:07:18.760
+business, you can use Claude to carry
+
+00:07:16.520 --> 00:07:20.720
+out a lot of the tasks that you would
+
+00:07:18.760 --> 00:07:21.640
+need to do in the service business as
+
+00:07:20.720 --> 00:07:22.960
+well. We're going to talk about how to
+
+00:07:21.640 --> 00:07:23.919
+do that in the live training. So, click
+
+00:07:22.960 --> 00:07:27.360
+that link in the description and the pin
+
+00:07:23.919 --> 00:07:27.360
+comment below and
+

@@ -1,0 +1,1292 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.560
+Here's what entrepreneurs get wrong the
+
+00:00:02.320 --> 00:00:06.960
+most. They assume that just because
+
+00:00:04.560 --> 00:00:09.599
+these huge companies right here exist
+
+00:00:06.960 --> 00:00:12.400
+that there's no opportunity for them to
+
+00:00:09.599 --> 00:00:14.400
+create individualized software for the
+
+00:00:12.400 --> 00:00:17.279
+tens of thousands of industries that
+
+00:00:14.400 --> 00:00:19.680
+exist. Specifically, software to manage
+
+00:00:17.279 --> 00:00:21.760
+your customers, CRM, customer
+
+00:00:19.680 --> 00:00:24.960
+relationship management software. Today,
+
+00:00:21.760 --> 00:00:27.199
+I'm going to use AI to build a niche CRM
+
+00:00:24.960 --> 00:00:28.880
+software with AI because I don't know
+
+00:00:27.199 --> 00:00:30.720
+how to code. And I'm going to stress
+
+00:00:28.880 --> 00:00:32.800
+test three different AI tools against
+
+00:00:30.720 --> 00:00:34.480
+each other to see which one is best. And
+
+00:00:32.800 --> 00:00:36.640
+then I'm going to show you how to find
+
+00:00:34.480 --> 00:00:38.800
+paying customers so you can get that
+
+00:00:36.640 --> 00:00:43.000
+sweet, sweet recurring subscription
+
+00:00:38.800 --> 00:00:43.000
+revenue. So, let's dive in.
+
+00:00:43.680 --> 00:00:48.000
+But first, how to know which industry to
+
+00:00:46.000 --> 00:00:49.920
+build software for? Well, I'm going to
+
+00:00:48.000 --> 00:00:52.399
+use Claude to answer that question for
+
+00:00:49.920 --> 00:00:55.600
+me. Here's my prompt. I want to build a
+
+00:00:52.399 --> 00:00:57.840
+CRM for a very niche local or home
+
+00:00:55.600 --> 00:00:59.760
+service business industry. What are 10
+
+00:00:57.840 --> 00:01:02.239
+niches in this category that are growing
+
+00:00:59.760 --> 00:01:04.320
+like crazy backed by hard data? And I'm
+
+00:01:02.239 --> 00:01:06.000
+going to use their 4.5 model because it
+
+00:01:04.320 --> 00:01:07.760
+is incredible. Now, why am I asking
+
+00:01:06.000 --> 00:01:09.680
+this? Why not just build a CRM for
+
+00:01:07.760 --> 00:01:11.760
+pressure washers or landscapers? Because
+
+00:01:09.680 --> 00:01:13.439
+I want to ride a tidal wave. I want my
+
+00:01:11.760 --> 00:01:15.040
+life to be easier and you do too, which
+
+00:01:13.439 --> 00:01:17.520
+is why you're watching this video. So,
+
+00:01:15.040 --> 00:01:20.080
+if I launch this CRM in a shrinking home
+
+00:01:17.520 --> 00:01:21.759
+service category, like epoxy flooring, I
+
+00:01:20.080 --> 00:01:23.200
+can still be successful. It's just going
+
+00:01:21.759 --> 00:01:24.640
+to be harder. Now, it looks like it's
+
+00:01:23.200 --> 00:01:26.320
+doing research on the pool service
+
+00:01:24.640 --> 00:01:27.920
+industry, which would make sense to me
+
+00:01:26.320 --> 00:01:29.920
+because everyone and their brother got a
+
+00:01:27.920 --> 00:01:31.680
+pool during and right after COVID. So,
+
+00:01:29.920 --> 00:01:33.600
+now those pools need to be serviced.
+
+00:01:31.680 --> 00:01:35.280
+Okay, the top four industries. EV
+
+00:01:33.600 --> 00:01:36.640
+charger installation. I don't really
+
+00:01:35.280 --> 00:01:38.560
+like that one because I think it's going
+
+00:01:36.640 --> 00:01:40.240
+to be highly concentrated. There's going
+
+00:01:38.560 --> 00:01:42.159
+to be a handful of businesses that do
+
+00:01:40.240 --> 00:01:44.000
+the bulk of this work. And I want an
+
+00:01:42.159 --> 00:01:46.720
+industry that's highly fragmented with a
+
+00:01:44.000 --> 00:01:48.240
+lot of solo operators. Number two is
+
+00:01:46.720 --> 00:01:50.560
+pool service and maintenance. Really
+
+00:01:48.240 --> 00:01:52.640
+like that. It's growing at 12% a year.
+
+00:01:50.560 --> 00:01:54.560
+Three, solar panel cleaning. Also love
+
+00:01:52.640 --> 00:01:56.799
+that industry. And number four, water
+
+00:01:54.560 --> 00:01:58.159
+damage restoration. My gut tells me pool
+
+00:01:56.799 --> 00:01:59.840
+service. I don't know why. I'm going to
+
+00:01:58.159 --> 00:02:01.520
+go with that. Okay. Now that we have an
+
+00:01:59.840 --> 00:02:03.759
+industry, I'm going to prompt Claude
+
+00:02:01.520 --> 00:02:05.759
+again in a new window and say this.
+
+00:02:03.759 --> 00:02:08.000
+Here's my prompt. I want to build a dead
+
+00:02:05.759 --> 00:02:09.759
+simple but super niche CRM for
+
+00:02:08.000 --> 00:02:12.000
+independent pool service business
+
+00:02:09.759 --> 00:02:13.520
+operators. Now remember CRM customer
+
+00:02:12.000 --> 00:02:15.280
+relationship management. It shouldn't
+
+00:02:13.520 --> 00:02:17.280
+have too many fields for customer data,
+
+00:02:15.280 --> 00:02:19.280
+but it should have enough and it should
+
+00:02:17.280 --> 00:02:21.680
+be clear to an operator in this industry
+
+00:02:19.280 --> 00:02:24.080
+that this software is for their industry
+
+00:02:21.680 --> 00:02:25.920
+and not something generic like HubSpot.
+
+00:02:24.080 --> 00:02:28.640
+Sorry, HubSpot, but they are so freaking
+
+00:02:25.920 --> 00:02:30.160
+expensive and way too complex for 98% of
+
+00:02:28.640 --> 00:02:32.000
+business owners. And then I added, I
+
+00:02:30.160 --> 00:02:35.280
+have no coding experience. Please code
+
+00:02:32.000 --> 00:02:37.840
+this web app and show me the UI ASAP
+
+00:02:35.280 --> 00:02:40.160
+user interface what it looks like and
+
+00:02:37.840 --> 00:02:42.400
+go. All right. Now, let's copy and paste
+
+00:02:40.160 --> 00:02:45.360
+this prompt across both Replet and
+
+00:02:42.400 --> 00:02:48.400
+ChatgPT and see how they compare. Okay.
+
+00:02:45.360 --> 00:02:50.080
+Same prompt at ChatGpt, same prompt at
+
+00:02:48.400 --> 00:02:51.519
+Replet. All right. Let's go ahead and
+
+00:02:50.080 --> 00:02:53.760
+start a timer and see which one of them
+
+00:02:51.519 --> 00:02:55.680
+is fastest because we're judging the
+
+00:02:53.760 --> 00:02:57.519
+quality and the speed here. All right,
+
+00:02:55.680 --> 00:03:00.640
+Claude did not disappoint. That took
+
+00:02:57.519 --> 00:03:03.760
+about 117 seconds, which is less than 2
+
+00:03:00.640 --> 00:03:05.680
+minutes. It made Pool Pro CRM built for
+
+00:03:03.760 --> 00:03:07.280
+pool service professionals. I've got
+
+00:03:05.680 --> 00:03:09.280
+kind of like a fake dashboard showing
+
+00:03:07.280 --> 00:03:11.920
+how many active pools, aka customers I
+
+00:03:09.280 --> 00:03:14.080
+have, weekly revenue, monthly projected,
+
+00:03:11.920 --> 00:03:16.000
+and today's stops. I can search by name
+
+00:03:14.080 --> 00:03:17.920
+or address. I like that it filled in
+
+00:03:16.000 --> 00:03:20.319
+some dummy data for me. I search for
+
+00:03:17.920 --> 00:03:23.280
+John, and I get Johnson family. You've
+
+00:03:20.319 --> 00:03:25.519
+got tags here. Monday, weekly. So, it
+
+00:03:23.280 --> 00:03:27.360
+looks like this first tag shows me what
+
+00:03:25.519 --> 00:03:29.360
+day I'm supposed to service them. That's
+
+00:03:27.360 --> 00:03:31.599
+cool. Didn't tell it to do that. The
+
+00:03:29.360 --> 00:03:34.080
+second tag shows me how often I service
+
+00:03:31.599 --> 00:03:36.480
+them. Weekly, bi-weekly, three times
+
+00:03:34.080 --> 00:03:38.000
+weekly. And the third tag shows me how
+
+00:03:36.480 --> 00:03:39.519
+much I charge per visit. And then over
+
+00:03:38.000 --> 00:03:42.959
+here on the right, you've got different
+
+00:03:39.519 --> 00:03:44.640
+colors. Red, yellow, green, active,
+
+00:03:42.959 --> 00:03:46.720
+paused, and I assume red would be
+
+00:03:44.640 --> 00:03:48.319
+churned or canceled. I can filter up
+
+00:03:46.720 --> 00:03:50.720
+here just by clicking the day of the
+
+00:03:48.319 --> 00:03:53.519
+week. So basically every day I can wake
+
+00:03:50.720 --> 00:03:55.280
+up, open my app or my web app, click on
+
+00:03:53.519 --> 00:03:57.120
+the day of the week I'm on, or it I can
+
+00:03:55.280 --> 00:03:58.480
+just code it to show me the day of the
+
+00:03:57.120 --> 00:04:00.400
+week that it's on because of course the
+
+00:03:58.480 --> 00:04:02.560
+app can know what day it is. And I can
+
+00:04:00.400 --> 00:04:04.640
+just see what's my to-do list today. And
+
+00:04:02.560 --> 00:04:07.920
+then up here on the top right, I click
+
+00:04:04.640 --> 00:04:09.840
+add pool. Let's do kerner family at 1
+
+00:04:07.920 --> 00:04:12.560
+123 maple. Looks like none of these
+
+00:04:09.840 --> 00:04:14.400
+fields are required, which I appreciate.
+
+00:04:12.560 --> 00:04:16.000
+Oo, it has different types of pools. Six
+
+00:04:14.400 --> 00:04:18.320
+different types. gunnite fiberglass
+
+00:04:16.000 --> 00:04:20.079
+vinyl above ground commercial spa/hot
+
+00:04:18.320 --> 00:04:22.639
+tub because maybe I'm only servicing a
+
+00:04:20.079 --> 00:04:24.400
+hot tub pool size in gallons service day
+
+00:04:22.639 --> 00:04:27.040
+frequency. So, I love that Claude Code
+
+00:04:24.400 --> 00:04:28.880
+just knew what I would need to put in
+
+00:04:27.040 --> 00:04:31.280
+here, right? I didn't have to say, "All
+
+00:04:28.880 --> 00:04:33.120
+right, make a field for pool size, for
+
+00:04:31.280 --> 00:04:35.040
+pool type, service day, frequency. Yeah,
+
+00:04:33.120 --> 00:04:38.800
+it just knew gate code even. That's
+
+00:04:35.040 --> 00:04:40.400
+awesome. Rate per visit. Cool. Let's do
+
+00:04:38.800 --> 00:04:43.840
+$94
+
+00:04:40.400 --> 00:04:46.000
+per visit. Let's do on call. See what
+
+00:04:43.840 --> 00:04:48.479
+that happens there. We service them on
+
+00:04:46.000 --> 00:04:50.080
+Thursdays. It's an above ground pool
+
+00:04:48.479 --> 00:04:52.080
+because I did go to school in Alabama.
+
+00:04:50.080 --> 00:04:55.440
+So, that works. equipment. We'll put
+
+00:04:52.080 --> 00:04:57.120
+heater service notes. Mean dog. So,
+
+00:04:55.440 --> 00:05:00.639
+let's see if my revenue automatically
+
+00:04:57.120 --> 00:05:02.800
+updates. It's $94 per visit and add pool
+
+00:05:00.639 --> 00:05:04.800
+to roster. Cool. Went from four to five
+
+00:05:02.800 --> 00:05:06.479
+active pools. Monthly projected. That
+
+00:05:04.800 --> 00:05:09.199
+didn't change because I set it for on
+
+00:05:06.479 --> 00:05:12.240
+call, not recurring. If I go in here,
+
+00:05:09.199 --> 00:05:14.400
+click on the kerner family log service.
+
+00:05:12.240 --> 00:05:18.240
+Now, one thing that it doesn't have yet
+
+00:05:14.400 --> 00:05:19.840
+is these records are not editable once I
+
+00:05:18.240 --> 00:05:21.840
+add them. So, I'm just going to ask
+
+00:05:19.840 --> 00:05:24.560
+Claude to fix that. Make these records
+
+00:05:21.840 --> 00:05:26.400
+editable after I add a new customer.
+
+00:05:24.560 --> 00:05:28.320
+Let's hit the timer. All right, Claude
+
+00:05:26.400 --> 00:05:30.720
+finished super fast. Let's check on
+
+00:05:28.320 --> 00:05:33.120
+Replet. Okay, Replet, what have you been
+
+00:05:30.720 --> 00:05:35.520
+doing? It made a plan for me. Now, I'm
+
+00:05:33.120 --> 00:05:38.560
+not a big fan of planning. I just want
+
+00:05:35.520 --> 00:05:41.120
+to do stuff. So, here's a seven bullet
+
+00:05:38.560 --> 00:05:43.280
+point. Yeah, build the entire app. It's
+
+00:05:41.120 --> 00:05:45.280
+quoting 20 minutes. Cloud was done in
+
+00:05:43.280 --> 00:05:47.680
+under two, but maybe this is going to be
+
+00:05:45.280 --> 00:05:49.680
+a better app. Start building. And we'll
+
+00:05:47.680 --> 00:05:52.000
+check on chat GPT. What do we got?
+
+00:05:49.680 --> 00:05:54.720
+Thought for 49 seconds. Here's a first
+
+00:05:52.000 --> 00:05:56.560
+pass. Okay, it gave me the code for the
+
+00:05:54.720 --> 00:05:59.039
+app, but I don't know what any of that
+
+00:05:56.560 --> 00:06:01.199
+means. I'm going to say, show me what it
+
+00:05:59.039 --> 00:06:02.720
+looks like like cla code does. You
+
+00:06:01.199 --> 00:06:04.160
+always want to make the apps jealous of
+
+00:06:02.720 --> 00:06:06.560
+each other or competitive with each
+
+00:06:04.160 --> 00:06:08.160
+other. I promise you it works. Okay, it
+
+00:06:06.560 --> 00:06:11.840
+looks like Jet GPT is working on my
+
+00:06:08.160 --> 00:06:13.919
+request. Replet is still building. Okay,
+
+00:06:11.840 --> 00:06:16.639
+that took about another 2 minutes and
+
+00:06:13.919 --> 00:06:18.800
+now this should be editable. Let's see
+
+00:06:16.639 --> 00:06:20.479
+if it actually works. So, how to edit.
+
+00:06:18.800 --> 00:06:22.639
+Click on any pool. Click the edit button
+
+00:06:20.479 --> 00:06:24.400
+in the detailed panel header. So, I'm
+
+00:06:22.639 --> 00:06:26.400
+going to click on one. There it is right
+
+00:06:24.400 --> 00:06:28.400
+there. Edit. Awesome. And I'm going to
+
+00:06:26.400 --> 00:06:30.720
+say instead of rate per visit, I'm going
+
+00:06:28.400 --> 00:06:32.479
+to add a zero and say 1,500. And then
+
+00:06:30.720 --> 00:06:34.000
+let's see if my monthly projected
+
+00:06:32.479 --> 00:06:36.560
+changes. It should change by a lot cuz
+
+00:06:34.000 --> 00:06:38.720
+right now it's $3,300 total per month
+
+00:06:36.560 --> 00:06:42.560
+across all customers. So, save changes.
+
+00:06:38.720 --> 00:06:45.039
+Boom. $9,100 a month is my MR after
+
+00:06:42.560 --> 00:06:47.039
+editing that field. So, very cool. I
+
+00:06:45.039 --> 00:06:49.199
+love how you can filter by day or just
+
+00:06:47.039 --> 00:06:51.360
+look at all the days at once. Like this.
+
+00:06:49.199 --> 00:06:52.720
+I don't know what I would like I
+
+00:06:51.360 --> 00:06:54.400
+admittedly don't know enough about the
+
+00:06:52.720 --> 00:06:56.880
+pool service industry to really know
+
+00:06:54.400 --> 00:06:58.560
+what I don't know, right? But this seems
+
+00:06:56.880 --> 00:07:00.240
+awesome. Now I just need to add a stripe
+
+00:06:58.560 --> 00:07:02.080
+integration which Claude Code can do. I
+
+00:07:00.240 --> 00:07:03.680
+did it with another app and I just need
+
+00:07:02.080 --> 00:07:05.759
+to start selling this thing. Okay,
+
+00:07:03.680 --> 00:07:08.560
+checking in on Replet. It's been 4 and
+
+00:07:05.759 --> 00:07:11.520
+1/2 minutes still building. Checking in
+
+00:07:08.560 --> 00:07:13.280
+on chat GPT. We can click preview here.
+
+00:07:11.520 --> 00:07:15.440
+Okay, there it is. There it is. All
+
+00:07:13.280 --> 00:07:17.199
+right. I like the gradient, the color
+
+00:07:15.440 --> 00:07:19.199
+from, you know, blue to green. That's
+
+00:07:17.199 --> 00:07:21.440
+cool. The tagging mechanism looks
+
+00:07:19.199 --> 00:07:24.000
+similar. You got a drop down from like
+
+00:07:21.440 --> 00:07:25.919
+2008. I don't know. This looks ugly. It
+
+00:07:24.000 --> 00:07:27.759
+didn't show me the preview right off the
+
+00:07:25.919 --> 00:07:29.360
+bat. I had to ask for it. And I had to
+
+00:07:27.759 --> 00:07:30.639
+scroll up here to see, well, maybe I'm
+
+00:07:29.360 --> 00:07:31.919
+just an idiot. There'd be a preview
+
+00:07:30.639 --> 00:07:33.280
+button the first time and I just didn't
+
+00:07:31.919 --> 00:07:35.520
+see it. But nope, I scrolled all the way
+
+00:07:33.280 --> 00:07:38.319
+to top. It's not there. So, like clearly
+
+00:07:35.520 --> 00:07:40.400
+chat GPT is not catering to the
+
+00:07:38.319 --> 00:07:42.080
+non-technical founder, the non-coder
+
+00:07:40.400 --> 00:07:43.360
+like myself, right? I don't know what to
+
+00:07:42.080 --> 00:07:44.800
+do with this. I don't know what this
+
+00:07:43.360 --> 00:07:47.120
+code means. I just want to see the
+
+00:07:44.800 --> 00:07:49.440
+preview. So, including the second
+
+00:07:47.120 --> 00:07:51.360
+prompt, chat GPT was pretty fast. It
+
+00:07:49.440 --> 00:07:53.039
+took about 4 minutes in total, whereas
+
+00:07:51.360 --> 00:07:55.440
+Replet's at 4 minutes and it's still
+
+00:07:53.039 --> 00:07:57.680
+going. But Claud was almost perfect
+
+00:07:55.440 --> 00:07:59.599
+within 2 minutes. And the user interface
+
+00:07:57.680 --> 00:08:01.360
+of Claude code was much better, whereas
+
+00:07:59.599 --> 00:08:03.440
+JGBT, it's just kind of ugly. Checking
+
+00:08:01.360 --> 00:08:05.840
+in on Replet. It's now been 6 1/2
+
+00:08:03.440 --> 00:08:06.879
+minutes. It said 20 in its defense. So,
+
+00:08:05.840 --> 00:08:08.800
+what I'm going to need to see from
+
+00:08:06.879 --> 00:08:10.560
+Replet is something a lot better than
+
+00:08:08.800 --> 00:08:11.919
+what Claude code spit out. While I wait
+
+00:08:10.560 --> 00:08:13.759
+for this, I'm going to ask Google how
+
+00:08:11.919 --> 00:08:17.039
+many pool service operators are in the
+
+00:08:13.759 --> 00:08:18.720
+US. 79,000 pool service businesses. It
+
+00:08:17.039 --> 00:08:20.400
+is a growing and highly fragmented
+
+00:08:18.720 --> 00:08:21.759
+market with no dominant player. Now,
+
+00:08:20.400 --> 00:08:23.680
+could you charge 100 bucks a month for
+
+00:08:21.759 --> 00:08:25.520
+this software? Yeah, but let's be extra
+
+00:08:23.680 --> 00:08:27.840
+conservative and say 20 bucks a month.
+
+00:08:25.520 --> 00:08:30.560
+Now, can I find a way to get 1,000 of
+
+00:08:27.840 --> 00:08:33.279
+these 79,000 businesses to pay me 20
+
+00:08:30.560 --> 00:08:36.240
+bucks a month? If so, then I have like
+
+00:08:33.279 --> 00:08:38.880
+1.5% of the market and I'm making
+
+00:08:36.240 --> 00:08:40.959
+$20,000 a month. Not freaking bad. Hey,
+
+00:08:38.880 --> 00:08:42.640
+let's make it $100 software and it's
+
+00:08:40.959 --> 00:08:43.919
+$100,000 a month. Our conversion rate
+
+00:08:42.640 --> 00:08:46.000
+goes down because it's more expensive,
+
+00:08:43.919 --> 00:08:48.320
+but our profit goes way, way up. Easy?
+
+00:08:46.000 --> 00:08:50.000
+No. Simple? Yes. Is there a path to find
+
+00:08:48.320 --> 00:08:51.600
+those customers? Absolutely. I'm about
+
+00:08:50.000 --> 00:08:54.240
+to show you. All right. So, Replet has
+
+00:08:51.600 --> 00:08:56.160
+been going for 16 minutes. Didn't quite
+
+00:08:54.240 --> 00:08:58.000
+get to 20, but eight times longer than
+
+00:08:56.160 --> 00:08:59.760
+Cloud Code and about four times longer
+
+00:08:58.000 --> 00:09:02.000
+than ChatGpt. And this is what it came
+
+00:08:59.760 --> 00:09:03.600
+up with. Not bad. It looks very similar
+
+00:09:02.000 --> 00:09:05.600
+to Claude Code, but it took a lot longer
+
+00:09:03.600 --> 00:09:07.519
+to get there. New service visit. I don't
+
+00:09:05.600 --> 00:09:09.519
+like that it doesn't have the tagging. I
+
+00:09:07.519 --> 00:09:10.959
+guess it's got some tagging here, but a
+
+00:09:09.519 --> 00:09:13.200
+different type of tagging. Like I have
+
+00:09:10.959 --> 00:09:14.880
+to think that the type of vacuuming or
+
+00:09:13.200 --> 00:09:17.200
+the type of service that you're doing is
+
+00:09:14.880 --> 00:09:19.120
+not as important or as relevant to show
+
+00:09:17.200 --> 00:09:20.640
+before clicking into the lead. This just
+
+00:09:19.120 --> 00:09:23.279
+looks a little more outdated with your
+
+00:09:20.640 --> 00:09:25.360
+sidebar along the left, black and white,
+
+00:09:23.279 --> 00:09:26.959
+but it definitely solidly comes in
+
+00:09:25.360 --> 00:09:28.880
+second place when it comes to the user
+
+00:09:26.959 --> 00:09:30.800
+interface. And it's still building. You
+
+00:09:28.880 --> 00:09:32.480
+can see here on the left, it's done
+
+00:09:30.800 --> 00:09:34.480
+enough to show me what it looks like,
+
+00:09:32.480 --> 00:09:36.720
+but it's not done done. So all in all,
+
+00:09:34.480 --> 00:09:38.800
+how I would rank them is Chad GBT third
+
+00:09:36.720 --> 00:09:40.720
+dead last. I think Chad GBT is like a
+
+00:09:38.800 --> 00:09:42.720
+consumer app first. It's not meant for
+
+00:09:40.720 --> 00:09:44.080
+coding. It's meant for being like a
+
+00:09:42.720 --> 00:09:45.519
+thought partner, which is great for
+
+00:09:44.080 --> 00:09:47.760
+that. I use it for that all the time.
+
+00:09:45.519 --> 00:09:49.519
+Replet is in second place cuz at the end
+
+00:09:47.760 --> 00:09:50.720
+of the day, if the product works, it
+
+00:09:49.519 --> 00:09:52.720
+doesn't really matter if it takes 2
+
+00:09:50.720 --> 00:09:54.320
+minutes or 16. But I didn't like how it
+
+00:09:52.720 --> 00:09:55.680
+looked either. So it took a lot longer
+
+00:09:54.320 --> 00:09:57.920
+and it didn't look as good. It didn't
+
+00:09:55.680 --> 00:10:00.480
+seem to be as functional. And number one
+
+00:09:57.920 --> 00:10:02.160
+clearly was Claw Code. It took under 2
+
+00:10:00.480 --> 00:10:03.760
+minutes. It looked great. I needed one
+
+00:10:02.160 --> 00:10:05.600
+follow-up prompt to make the fields
+
+00:10:03.760 --> 00:10:07.440
+editable, but that's a win for me. All
+
+00:10:05.600 --> 00:10:08.959
+right, now the magic question. How can
+
+00:10:07.440 --> 00:10:10.399
+we actually find paying customers,
+
+00:10:08.959 --> 00:10:12.480
+especially if we don't know how to build
+
+00:10:10.399 --> 00:10:14.320
+Facebook or Google ads? We just know how
+
+00:10:12.480 --> 00:10:15.519
+to Google stuff. Well, all right. We're
+
+00:10:14.320 --> 00:10:17.279
+going to go over to Facebook, the old
+
+00:10:15.519 --> 00:10:18.880
+standby. We're going to go to groups.
+
+00:10:17.279 --> 00:10:20.720
+We're going to type in pool service. And
+
+00:10:18.880 --> 00:10:22.160
+I know, don't just think like, oh,
+
+00:10:20.720 --> 00:10:23.680
+you're showing us Facebook groups. I
+
+00:10:22.160 --> 00:10:24.720
+already know about that. No, no. I'm
+
+00:10:23.680 --> 00:10:26.640
+going to walk you through how I look at
+
+00:10:24.720 --> 00:10:27.920
+it and what my strategy would be. All I
+
+00:10:26.640 --> 00:10:30.640
+did was type in pool service. I'm going
+
+00:10:27.920 --> 00:10:32.079
+to filter by groups near me. It helps
+
+00:10:30.640 --> 00:10:33.600
+because if you're able to honestly say
+
+00:10:32.079 --> 00:10:34.880
+like, "Hey, I'm here in the area." Then
+
+00:10:33.600 --> 00:10:36.880
+you'll have more credibility and
+
+00:10:34.880 --> 00:10:38.880
+legitimacy, but there won't be as many
+
+00:10:36.880 --> 00:10:41.440
+groups to pick from. So, I'm usually
+
+00:10:38.880 --> 00:10:42.880
+going to look for the private groups
+
+00:10:41.440 --> 00:10:45.200
+because those are usually more
+
+00:10:42.880 --> 00:10:47.279
+moderated. They have less spam. Swimming
+
+00:10:45.200 --> 00:10:49.760
+pool repair and services, 17,000
+
+00:10:47.279 --> 00:10:51.519
+members. And don't be like immediately
+
+00:10:49.760 --> 00:10:53.120
+turned on by big numbers because there's
+
+00:10:51.519 --> 00:10:56.000
+often a correlation between a big
+
+00:10:53.120 --> 00:10:58.320
+Facebook group and a lowquality Facebook
+
+00:10:56.000 --> 00:11:00.160
+group. oftentimes smaller is better
+
+00:10:58.320 --> 00:11:01.839
+because it's easier for the managers to
+
+00:11:00.160 --> 00:11:03.680
+wrap their arms around it. We're going
+
+00:11:01.839 --> 00:11:05.680
+to look at Texas pool pros because I'm
+
+00:11:03.680 --> 00:11:07.839
+in Texas. Then let's look at some public
+
+00:11:05.680 --> 00:11:09.600
+groups just so we can see if they are
+
+00:11:07.839 --> 00:11:11.360
+high quality. Okay, so we're going to
+
+00:11:09.600 --> 00:11:13.440
+look around. This guy posted an hour
+
+00:11:11.360 --> 00:11:15.279
+ago. He already has two comments. This
+
+00:11:13.440 --> 00:11:18.160
+guy posted yesterday, they have eight
+
+00:11:15.279 --> 00:11:19.839
+comments. This looks pretty solid even
+
+00:11:18.160 --> 00:11:21.760
+though it's a public group. I think the
+
+00:11:19.839 --> 00:11:24.320
+downside to this group is it's mostly
+
+00:11:21.760 --> 00:11:26.720
+homeowners and not operators. Texas Pool
+
+00:11:24.320 --> 00:11:28.560
+Pros. Looks like a company called Elite
+
+00:11:26.720 --> 00:11:30.480
+Chlorine is the admin, which makes
+
+00:11:28.560 --> 00:11:32.399
+sense. You must be a pool service
+
+00:11:30.480 --> 00:11:34.000
+industry professional. Awesome. So, what
+
+00:11:32.399 --> 00:11:35.839
+I would do is I would join one of these
+
+00:11:34.000 --> 00:11:38.240
+and I would just start asking around for
+
+00:11:35.839 --> 00:11:40.320
+feedback. Hey, I built this uh software.
+
+00:11:38.240 --> 00:11:41.600
+If you guys had the perfect CRM for your
+
+00:11:40.320 --> 00:11:43.040
+business, like what would it have? What
+
+00:11:41.600 --> 00:11:44.320
+would it do? And you're just like you
+
+00:11:43.040 --> 00:11:45.600
+you're getting real feedback. You're
+
+00:11:44.320 --> 00:11:46.720
+actually implementing the feedback. And
+
+00:11:45.600 --> 00:11:48.800
+then when it comes time for you to
+
+00:11:46.720 --> 00:11:50.160
+launch, which hopefully is very soon,
+
+00:11:48.800 --> 00:11:52.000
+you can go back to all the people that
+
+00:11:50.160 --> 00:11:53.600
+commented or liked or helped you out and
+
+00:11:52.000 --> 00:11:54.959
+DM them and say, "Hey, thank you for
+
+00:11:53.600 --> 00:11:56.959
+helping me. Would you like to use this
+
+00:11:54.959 --> 00:11:58.480
+for free? I just want good feedback. I
+
+00:11:56.959 --> 00:12:00.160
+want referrals. I want case studies. I
+
+00:11:58.480 --> 00:12:01.920
+want reviews." And that's your ticket
+
+00:12:00.160 --> 00:12:03.680
+right there. Then after a while, A, see
+
+00:12:01.920 --> 00:12:05.680
+if they'll pay for it. B, see if you can
+
+00:12:03.680 --> 00:12:07.360
+get a review. C, see if you can get a
+
+00:12:05.680 --> 00:12:09.120
+referral because they probably know
+
+00:12:07.360 --> 00:12:11.839
+other pool service business owners as
+
+00:12:09.120 --> 00:12:13.920
+well. Okay, this group over here, 12,000
+
+00:12:11.839 --> 00:12:15.760
+people, very spammy, no engagement on
+
+00:12:13.920 --> 00:12:18.000
+any of these posts. So, I would skip
+
+00:12:15.760 --> 00:12:19.920
+that. This group over here, no new posts
+
+00:12:18.000 --> 00:12:21.760
+today, 14 in the last month. So, it
+
+00:12:19.920 --> 00:12:23.680
+might be well moderated, but it's not
+
+00:12:21.760 --> 00:12:25.440
+very active. If it's not active, it
+
+00:12:23.680 --> 00:12:27.760
+means your post is going to stand out
+
+00:12:25.440 --> 00:12:29.839
+like a sore thumb. Often in a bad way.
+
+00:12:27.760 --> 00:12:31.360
+To me, it looks like Texas Pool Pros is
+
+00:12:29.839 --> 00:12:33.360
+the winner. It is private, so I can't
+
+00:12:31.360 --> 00:12:35.680
+see it just yet, but they have three new
+
+00:12:33.360 --> 00:12:37.760
+posts a day. It's created six years ago.
+
+00:12:35.680 --> 00:12:39.920
+It looks to be pretty well moderated.
+
+00:12:37.760 --> 00:12:42.160
+Another thing you can do is go to Gummy
+
+00:12:39.920 --> 00:12:44.320
+Search and Gummy Search will pull data
+
+00:12:42.160 --> 00:12:45.920
+from Reddit to tell you what features a
+
+00:12:44.320 --> 00:12:47.920
+piece of software should have or what
+
+00:12:45.920 --> 00:12:49.839
+features pool service business owners
+
+00:12:47.920 --> 00:12:52.320
+are craving. Gummy search is basically
+
+00:12:49.839 --> 00:12:54.079
+like an AI for Reddit. It aggregates and
+
+00:12:52.320 --> 00:12:55.760
+organizes all of their data so you can
+
+00:12:54.079 --> 00:12:57.279
+find the pain points. Reddit can be a
+
+00:12:55.760 --> 00:12:59.680
+gold mine, I'm telling you. Another
+
+00:12:57.279 --> 00:13:02.160
+thing I would do is I would use Claude's
+
+00:12:59.680 --> 00:13:03.839
+deep research. You just go here, you
+
+00:13:02.160 --> 00:13:06.000
+click the filter button, then you click
+
+00:13:03.839 --> 00:13:08.240
+the research toggle and prompt it
+
+00:13:06.000 --> 00:13:10.320
+something like, hey, I need to know what
+
+00:13:08.240 --> 00:13:12.000
+pain points that pool service businesses
+
+00:13:10.320 --> 00:13:13.519
+have with their software. What do they
+
+00:13:12.000 --> 00:13:14.880
+hate? What do they love? What are they
+
+00:13:13.519 --> 00:13:16.800
+can't live withouts? What are the big
+
+00:13:14.880 --> 00:13:19.120
+players in the industry? And you can use
+
+00:13:16.800 --> 00:13:21.200
+that data to build a better product. And
+
+00:13:19.120 --> 00:13:23.360
+you can also use that data to address
+
+00:13:21.200 --> 00:13:25.920
+those pain points in your ads to make
+
+00:13:23.360 --> 00:13:27.680
+your cost of acquiring a new customer
+
+00:13:25.920 --> 00:13:29.279
+much less because the more effective
+
+00:13:27.680 --> 00:13:30.959
+your ads, the easier it will be to
+
+00:13:29.279 --> 00:13:32.720
+acquire customers with them. You don't
+
+00:13:30.959 --> 00:13:34.639
+know how to do Facebook ads? I made a
+
+00:13:32.720 --> 00:13:36.160
+video all about that. Facebook ads for
+
+00:13:34.639 --> 00:13:38.079
+beginners. Look what happens when I go
+
+00:13:36.160 --> 00:13:40.320
+to Google Trends and type in pool
+
+00:13:38.079 --> 00:13:43.360
+service software. Look what's happened.
+
+00:13:40.320 --> 00:13:45.200
+That's crazy. Just this year in 2025,
+
+00:13:43.360 --> 00:13:46.959
+we're at the end of 2025 here. It
+
+00:13:45.200 --> 00:13:48.880
+started spiking. It's going up like
+
+00:13:46.959 --> 00:13:50.720
+crazy. So, this industry clearly is
+
+00:13:48.880 --> 00:13:52.560
+booming. Another way to find customers
+
+00:13:50.720 --> 00:13:54.480
+here is to cold email them. Use
+
+00:13:52.560 --> 00:13:56.160
+something like outscraper to scrape
+
+00:13:54.480 --> 00:13:57.680
+every single pool service business in
+
+00:13:56.160 --> 00:13:59.440
+your area. You don't need any coding
+
+00:13:57.680 --> 00:14:01.360
+experience. You just need a few clicks.
+
+00:13:59.440 --> 00:14:03.120
+You can text them. You can call them.
+
+00:14:01.360 --> 00:14:04.639
+You can email them and say, "Hey, I
+
+00:14:03.120 --> 00:14:06.160
+built a free software just for pool
+
+00:14:04.639 --> 00:14:08.800
+service operators. Do you want to use it
+
+00:14:06.160 --> 00:14:11.040
+90 days free or 100% free and then get
+
+00:14:08.800 --> 00:14:12.880
+them to pay later or 100% free until you
+
+00:14:11.040 --> 00:14:14.399
+get your first five customers. All of
+
+00:14:12.880 --> 00:14:16.240
+your customers are on the internet.
+
+00:14:14.399 --> 00:14:19.199
+Scrape them and do outreach to them.
+
+00:14:16.240 --> 00:14:21.199
+Scrape all 79,000, upload them to your
+
+00:14:19.199 --> 00:14:23.199
+Facebook ad campaign as a custom
+
+00:14:21.199 --> 00:14:26.079
+audience, and then Facebook will show
+
+00:14:23.199 --> 00:14:28.079
+ads, your ad for your software only to
+
+00:14:26.079 --> 00:14:29.519
+those pool service owners. It's magical.
+
+00:14:28.079 --> 00:14:31.360
+I hope this helped. Please check out
+
+00:14:29.519 --> 00:14:32.720
+Claude Code at the link in the
+
+00:14:31.360 --> 00:14:35.440
+description and we'll see you next time
+
+00:14:32.720 --> 00:14:35.440
+on the Kerner
+

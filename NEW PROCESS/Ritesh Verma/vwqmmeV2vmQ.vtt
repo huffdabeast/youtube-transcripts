@@ -1,0 +1,1892 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.440
+OpenAI just released GPT 5.6 so and it
+
+00:00:02.840 --> 00:00:07.600
+is a Claude Fable 5 killer. In fact, on
+
+00:00:05.440 --> 00:00:09.960
+the terminal bench 2.1 exam, which is
+
+00:00:07.600 --> 00:00:12.280
+just a benchmark of how effective AI
+
+00:00:09.960 --> 00:00:15.600
+models are able to complete certain
+
+00:00:12.280 --> 00:00:17.800
+tasks in a sandbox environment, GPT 5.6
+
+00:00:15.600 --> 00:00:19.920
+so got a 91.9%
+
+00:00:17.800 --> 00:00:22.640
+score, whereas Claude Fable 5 is at
+
+00:00:19.920 --> 00:00:24.960
+84.3% score. Furthermore, on the
+
+00:00:22.640 --> 00:00:28.000
+artificial analysis coding engine index,
+
+00:00:24.960 --> 00:00:30.600
+you can see so is absolutely crushing
+
+00:00:28.000 --> 00:00:33.200
+Opus 4.8 and Fable 5, which is right
+
+00:00:30.600 --> 00:00:35.760
+here. You see so is right there. So, it
+
+00:00:33.200 --> 00:00:38.120
+is at like a 75
+
+00:00:35.760 --> 00:00:39.680
+80 index score, whereas Fable 5 is at a
+
+00:00:38.120 --> 00:00:41.680
+77.2.
+
+00:00:39.680 --> 00:00:44.040
+And then again, the 2.1
+
+00:00:41.680 --> 00:00:47.640
+uh task and the deep sweep test, again,
+
+00:00:44.040 --> 00:00:50.840
+so is beating Where is Fable 5? Fable 5
+
+00:00:47.640 --> 00:00:52.840
+is right here. You have so at a higher
+
+00:00:50.840 --> 00:00:56.280
+higher score.
+
+00:00:52.840 --> 00:00:58.160
+So, across all the exams and benchmarks,
+
+00:00:56.280 --> 00:01:00.240
+apparently, we can say that so is
+
+00:00:58.160 --> 00:01:03.640
+supposed to be the winner. But, the real
+
+00:01:00.240 --> 00:01:06.720
+way to test that is by giving both GPT
+
+00:01:03.640 --> 00:01:08.560
+5.6 so and Claude Fable 5 prompts for
+
+00:01:06.720 --> 00:01:11.120
+various tasks that we're going to be
+
+00:01:08.560 --> 00:01:12.680
+doing in this video to see which model
+
+00:01:11.120 --> 00:01:14.160
+comes up with the better outputs. The
+
+00:01:12.680 --> 00:01:16.200
+first task we're going to do is create a
+
+00:01:14.160 --> 00:01:18.000
+3D endless runner game with both Fable 5
+
+00:01:16.200 --> 00:01:19.960
+and GPT 5.6 so. We're going to be
+
+00:01:18.000 --> 00:01:21.040
+recreating Temple Run, which I don't
+
+00:01:19.960 --> 00:01:23.720
+know how old you are if you're watching
+
+00:01:21.040 --> 00:01:25.600
+this, but it is an iconic game from like
+
+00:01:23.720 --> 00:01:26.960
+10 years ago. This is a prompt that
+
+00:01:25.600 --> 00:01:28.320
+we're going to be using. Feel free to
+
+00:01:26.960 --> 00:01:29.880
+pause the video at any point just to
+
+00:01:28.320 --> 00:01:32.160
+copy this prompt. So, this is what
+
+00:01:29.880 --> 00:01:34.320
+Claude generated called Relic Rush
+
+00:01:32.160 --> 00:01:35.920
+Endless Temple Sprint. So,
+
+00:01:34.320 --> 00:01:39.480
+let's go ahead and play it.
+
+00:01:35.920 --> 00:01:41.320
+The animations are pretty sweet.
+
+00:01:39.480 --> 00:01:43.520
+It follows the custom controls of up
+
+00:01:41.320 --> 00:01:45.120
+arrow, space to jump, all the controls
+
+00:01:43.520 --> 00:01:47.200
+you'd expect.
+
+00:01:45.120 --> 00:01:50.840
+Pretty intuitive.
+
+00:01:47.200 --> 00:01:53.960
+Um very smooth animation.
+
+00:01:50.840 --> 00:01:56.680
+Okay, keep moving. If I play this for
+
+00:01:53.960 --> 00:01:59.320
+a little longer,
+
+00:01:56.680 --> 00:02:01.160
+yes, you go down here. Oh.
+
+00:01:59.320 --> 00:02:03.240
+Oh, okay, got hit.
+
+00:02:01.160 --> 00:02:06.360
+The guardian got you. Score, distance,
+
+00:02:03.240 --> 00:02:08.360
+coins. If I click menu,
+
+00:02:06.360 --> 00:02:10.399
+uh okay, it shows my best score. Start
+
+00:02:08.360 --> 00:02:12.520
+run again. So, this is a Temple Run dupe
+
+00:02:10.399 --> 00:02:14.600
+that Fable 5 has come up with on ultra
+
+00:02:12.520 --> 00:02:16.280
+code setting.
+
+00:02:14.600 --> 00:02:17.400
+And overall, it's pretty good. I mean,
+
+00:02:16.280 --> 00:02:18.880
+it's I mean, the graphics could be a
+
+00:02:17.400 --> 00:02:23.080
+little bit better, but this is all from
+
+00:02:18.880 --> 00:02:25.520
+one prompt alone. This is GPT 5.6 Souls
+
+00:02:23.080 --> 00:02:27.040
+run. It called Vexera has a pretty cool
+
+00:02:25.520 --> 00:02:29.480
+landing page. I'd say it's better than
+
+00:02:27.040 --> 00:02:33.080
+the landing page of
+
+00:02:29.480 --> 00:02:35.440
+Fable 5's. If you click begin the run,
+
+00:02:33.080 --> 00:02:38.480
+okay, so
+
+00:02:35.440 --> 00:02:41.800
+here, I mean, it the animation still
+
+00:02:38.480 --> 00:02:44.160
+overall solid. I think it matches
+
+00:02:41.800 --> 00:02:47.440
+Temple Run's vibe a bit more.
+
+00:02:44.160 --> 00:02:48.760
+Okay, it's kind of it's weird because
+
+00:02:47.440 --> 00:02:50.280
+hold up.
+
+00:02:48.760 --> 00:02:52.040
+I noticed
+
+00:02:50.280 --> 00:02:54.560
+here, I go up. Oh, the wraith found you.
+
+00:02:52.040 --> 00:02:56.320
+You run again.
+
+00:02:54.560 --> 00:02:57.959
+It's kind of moving outside It just
+
+00:02:56.320 --> 00:02:59.560
+moved to the right without me even
+
+00:02:57.959 --> 00:03:01.680
+moving my key. So, there is like a
+
+00:02:59.560 --> 00:03:03.239
+little glitch going on right now.
+
+00:03:01.680 --> 00:03:06.280
+Um so, I will say Fable 5 didn't have
+
+00:03:03.239 --> 00:03:07.920
+any glitches, but Soul did.
+
+00:03:06.280 --> 00:03:09.959
+Overall,
+
+00:03:07.920 --> 00:03:11.519
+I do like the color scheme of Fable 5
+
+00:03:09.959 --> 00:03:15.160
+more, but that's just a nitpick. I think
+
+00:03:11.519 --> 00:03:16.800
+both are doing a good job of
+
+00:03:15.160 --> 00:03:19.880
+building a game that's very similar to
+
+00:03:16.800 --> 00:03:21.880
+Temple Run. Technically, Soul has built
+
+00:03:19.880 --> 00:03:24.040
+a game that's more similar to Temple Run
+
+00:03:21.880 --> 00:03:29.640
+based off just the idea of the trees and
+
+00:03:24.040 --> 00:03:29.640
+like these little boards and whatnot. Um
+
+00:03:30.160 --> 00:03:35.600
+page 17. What is this What does that
+
+00:03:32.800 --> 00:03:35.600
+mean? Okay.
+
+00:03:35.640 --> 00:03:39.720
+Not bad. Not bad. Uh in fact, I also
+
+00:03:38.040 --> 00:03:40.959
+like how the metrics are all popping up
+
+00:03:39.720 --> 00:03:43.920
+here.
+
+00:03:40.959 --> 00:03:46.200
+It makes it for easy for me to track.
+
+00:03:43.920 --> 00:03:49.040
+Um directions are right here. Swipe or
+
+00:03:46.200 --> 00:03:50.120
+use arrow keys.
+
+00:03:49.040 --> 00:03:52.200
+Cool.
+
+00:03:50.120 --> 00:03:54.880
+Overall, I think both
+
+00:03:52.200 --> 00:03:56.720
+Soul and Fiber Five did a pretty good
+
+00:03:54.880 --> 00:03:59.040
+job at this. The next test will be
+
+00:03:56.720 --> 00:04:01.200
+creating a stunning website with 3.js.
+
+00:03:59.040 --> 00:04:03.080
+This will allow both Fiber Five and Soul
+
+00:04:01.200 --> 00:04:05.240
+to create interactive 3D websites. We
+
+00:04:03.080 --> 00:04:06.959
+want to see which model comes up with a
+
+00:04:05.240 --> 00:04:09.120
+better-looking website. This is the
+
+00:04:06.959 --> 00:04:10.800
+prompt. Again, feel free to pause video
+
+00:04:09.120 --> 00:04:12.920
+and just copy this prompt right here.
+
+00:04:10.800 --> 00:04:15.320
+Now, this is very important because if
+
+00:04:12.920 --> 00:04:17.760
+you can build a high-quality website,
+
+00:04:15.320 --> 00:04:20.680
+you essentially have a business in a box
+
+00:04:17.760 --> 00:04:23.800
+ready to go. People are spending $2,000,
+
+00:04:20.680 --> 00:04:26.520
+$3,000, $4,000 on websites. So, this is
+
+00:04:23.800 --> 00:04:30.320
+pretty cool. Like, this website used to
+
+00:04:26.520 --> 00:04:32.040
+cost $3,000, $4,000 to create, but now
+
+00:04:30.320 --> 00:04:33.919
+just from one prompt, we have this nice
+
+00:04:32.040 --> 00:04:35.600
+3D animation. We're selling an
+
+00:04:33.919 --> 00:04:37.120
+intelligence layer, it seems like, from
+
+00:04:35.600 --> 00:04:39.000
+this prompt.
+
+00:04:37.120 --> 00:04:41.680
+You see this cool animation, one engine
+
+00:04:39.000 --> 00:04:44.240
+every surface. The text and the the
+
+00:04:41.680 --> 00:04:46.160
+typography is very bold and in your
+
+00:04:44.240 --> 00:04:48.320
+face, which we like cuz that's like the
+
+00:04:46.160 --> 00:04:51.600
+how the modern companies really run with
+
+00:04:48.320 --> 00:04:54.800
+this type of text style. That's bold,
+
+00:04:51.600 --> 00:04:57.680
+in your face, making big claims, and
+
+00:04:54.800 --> 00:05:00.320
+easy to read. This This look, this dark
+
+00:04:57.680 --> 00:05:02.240
+background, white big bold text, and
+
+00:05:00.320 --> 00:05:04.360
+this like Saturn-looking Oh, the
+
+00:05:02.240 --> 00:05:07.440
+Saturn-looking animation like It's like
+
+00:05:04.360 --> 00:05:09.440
+swirling. So cool.
+
+00:05:07.440 --> 00:05:11.360
+Teams I stopped weighing on inference,
+
+00:05:09.440 --> 00:05:14.880
+star free scale when it works. Honestly,
+
+00:05:11.360 --> 00:05:17.040
+this is a solid website. Like, if I were
+
+00:05:14.880 --> 00:05:19.080
+a service-based business owner and I was
+
+00:05:17.040 --> 00:05:21.720
+hiring agency and I saw this, I would be
+
+00:05:19.080 --> 00:05:23.840
+impressed. And if I ran a HVAC company
+
+00:05:21.720 --> 00:05:26.040
+or a dental clinic and I'm looking for
+
+00:05:23.840 --> 00:05:27.680
+someone to build me AI system and I see
+
+00:05:26.040 --> 00:05:30.040
+that this is their website, I'm going to
+
+00:05:27.680 --> 00:05:33.200
+think that they are pretty capable. See
+
+00:05:30.040 --> 00:05:34.320
+the core. Nice. Okay, solid. So, let's
+
+00:05:33.200 --> 00:05:36.560
+let's look at
+
+00:05:34.320 --> 00:05:39.040
+what Soul came up with. All right, this
+
+00:05:36.560 --> 00:05:41.240
+is what Soul came up with for its
+
+00:05:39.040 --> 00:05:42.919
+website. Now, both of them had the
+
+00:05:41.240 --> 00:05:46.120
+intelligence approach based off my
+
+00:05:42.919 --> 00:05:48.160
+prompt. I will say I like This might
+
+00:05:46.120 --> 00:05:50.880
+just be a nitpick. I like the animation
+
+00:05:48.160 --> 00:05:53.720
+right here a lot more. It kind of like
+
+00:05:50.880 --> 00:05:55.640
+goes down with the hero banner. And the
+
+00:05:53.720 --> 00:05:58.120
+theme of black and yellow this just
+
+00:05:55.640 --> 00:05:59.720
+stands out more than what Fable 5 came
+
+00:05:58.120 --> 00:06:01.560
+up with.
+
+00:05:59.720 --> 00:06:04.400
+Experience the core.
+
+00:06:01.560 --> 00:06:06.080
+Okay, scroll down. One system zero drag,
+
+00:06:04.400 --> 00:06:07.880
+adaptive reasoning, infinite context,
+
+00:06:06.080 --> 00:06:10.720
+solid by design.
+
+00:06:07.880 --> 00:06:13.600
+This looks extremely modern. From signal
+
+00:06:10.720 --> 00:06:13.600
+to clarity.
+
+00:06:13.640 --> 00:06:17.720
+Last synapse map, explore the
+
+00:06:15.120 --> 00:06:20.080
+architecture.
+
+00:06:17.720 --> 00:06:22.360
+Next says testimonies and then companies
+
+00:06:20.080 --> 00:06:24.520
+we work with.
+
+00:06:22.360 --> 00:06:26.840
+I I would say the 3D animations that
+
+00:06:24.520 --> 00:06:30.080
+Soul has implemented
+
+00:06:26.840 --> 00:06:34.520
+looks a lot better than Fable 5. I think
+
+00:06:30.080 --> 00:06:36.520
+it's more complex animations.
+
+00:06:34.520 --> 00:06:39.040
+Yeah.
+
+00:06:36.520 --> 00:06:42.080
+Choose your velocity. Make the possible
+
+00:06:39.040 --> 00:06:43.760
+obvious. Man, this is Soul's really
+
+00:06:42.080 --> 00:06:46.160
+giving Fable 5 a run for its money. I
+
+00:06:43.760 --> 00:06:47.800
+mean, Fable 5 used to be the the model
+
+00:06:46.160 --> 00:06:50.080
+that everyone would use without
+
+00:06:47.800 --> 00:06:52.600
+question, but you can't say this isn't
+
+00:06:50.080 --> 00:06:55.160
+an absolutely amazing looking.
+
+00:06:52.600 --> 00:06:56.240
+Like if I saw an agency's website looks
+
+00:06:55.160 --> 00:06:58.000
+like this, maybe a little more
+
+00:06:56.240 --> 00:07:00.160
+testimonies and like real video
+
+00:06:58.000 --> 00:07:02.280
+testimonies because nowadays anyone can
+
+00:07:00.160 --> 00:07:04.240
+fake these written testimonies, I would
+
+00:07:02.280 --> 00:07:06.600
+probably sign them as a business owner
+
+00:07:04.240 --> 00:07:09.760
+myself. So this is goes to show that you
+
+00:07:06.600 --> 00:07:11.880
+can literally one shot $2,000, $3,000
+
+00:07:09.760 --> 00:07:13.640
+websites with Soul. The next test is a
+
+00:07:11.880 --> 00:07:16.960
+big one. We're going to have Fable 5 and
+
+00:07:13.640 --> 00:07:18.480
+GPT-5.6 clone a successful mobile app.
+
+00:07:16.960 --> 00:07:20.480
+The app we're going to have it clone is
+
+00:07:18.480 --> 00:07:22.720
+Oasis Health. This is an app that makes
+
+00:07:20.480 --> 00:07:25.400
+over $100,000 a month. We're going to be
+
+00:07:22.720 --> 00:07:27.600
+giving it the link right here and
+
+00:07:25.400 --> 00:07:29.760
+relying on both models to accurately
+
+00:07:27.600 --> 00:07:31.480
+clone the app in terms of onboarding,
+
+00:07:29.760 --> 00:07:33.360
+the actual screens, and even the
+
+00:07:31.480 --> 00:07:34.919
+paywall.
+
+00:07:33.360 --> 00:07:36.919
+So this is again is a prompt. Feel free
+
+00:07:34.919 --> 00:07:39.680
+to pause at any point. All right, now
+
+00:07:36.919 --> 00:07:40.840
+it's the Peer Check app. Lab stock
+
+00:07:39.680 --> 00:07:42.400
+purity rating for the water you drink,
+
+00:07:40.840 --> 00:07:44.080
+the products using in you eat. All
+
+00:07:42.400 --> 00:07:45.560
+right, let's go and get started.
+
+00:07:44.080 --> 00:07:48.160
+What brings you here?
+
+00:07:45.560 --> 00:07:49.600
+I want to avoid hidden toxins.
+
+00:07:48.160 --> 00:07:51.960
+Anything you're actively avoiding? This
+
+00:07:49.600 --> 00:07:54.120
+is very similar to Oasis's onboarding,
+
+00:07:51.960 --> 00:07:55.920
+so I I I like that.
+
+00:07:54.120 --> 00:07:57.240
+If you do this right, start exploring.
+
+00:07:55.920 --> 00:07:59.280
+Okay, so
+
+00:07:57.240 --> 00:08:00.880
+browse categories. The alignment is
+
+00:07:59.280 --> 00:08:02.840
+good. I I feel like this there should be
+
+00:08:00.880 --> 00:08:04.280
+some margin right here, though.
+
+00:08:02.840 --> 00:08:06.040
+It's kind of sticking to the screen,
+
+00:08:04.280 --> 00:08:07.920
+which is not good practice.
+
+00:08:06.040 --> 00:08:09.960
+These margins are good. Top rated
+
+00:08:07.920 --> 00:08:12.640
+overall. Go and click one of these.
+
+00:08:09.960 --> 00:08:15.760
+What's inside? Active carbon block,
+
+00:08:12.640 --> 00:08:19.240
+calcium lab report.
+
+00:08:15.760 --> 00:08:21.320
+It very good dummy data, I will say.
+
+00:08:19.240 --> 00:08:22.400
+The app looks pretty sweet. I can save
+
+00:08:21.320 --> 00:08:23.919
+this.
+
+00:08:22.400 --> 00:08:25.880
+All right, that's pretty cool. Hell,
+
+00:08:23.919 --> 00:08:28.560
+look at this. This is blocked with the
+
+00:08:25.880 --> 00:08:32.680
+Pure Check Pro and it it has its own
+
+00:08:28.560 --> 00:08:32.680
+paywall free trial system.
+
+00:08:34.560 --> 00:08:39.680
+Yeah, this is very very solid, I will
+
+00:08:37.760 --> 00:08:43.560
+say. It did a pretty good job of copying
+
+00:08:39.680 --> 00:08:46.120
+Oasis. The whole science-backed look.
+
+00:08:43.560 --> 00:08:47.920
+Example, drinks.
+
+00:08:46.120 --> 00:08:50.720
+And these are all just logos. Maybe if
+
+00:08:47.920 --> 00:08:52.080
+it had put HD pictures of 4K
+
+00:08:50.720 --> 00:08:53.760
+AI-generated images, it'd look a lot
+
+00:08:52.080 --> 00:08:55.280
+better. But again, this is off of one
+
+00:08:53.760 --> 00:08:56.920
+prompt. I can't complain. Let me go
+
+00:08:55.280 --> 00:09:00.240
+ahead and search.
+
+00:08:56.920 --> 00:09:03.000
+Um search spring water. Okay.
+
+00:09:00.240 --> 00:09:04.400
+Creatine, nice. Click saved. You can see
+
+00:09:03.000 --> 00:09:05.839
+the drink that I saved recently. Then we
+
+00:09:04.400 --> 00:09:08.120
+go to profile.
+
+00:09:05.839 --> 00:09:10.920
+Product scan, product saved.
+
+00:09:08.120 --> 00:09:12.800
+If I were to click the scan button,
+
+00:09:10.920 --> 00:09:14.040
+um
+
+00:09:12.800 --> 00:09:17.040
+I mean, there's not really a photo we
+
+00:09:14.040 --> 00:09:18.720
+can scan. Let's see what happens.
+
+00:09:17.040 --> 00:09:21.520
+So, it looks like it has some dummy data
+
+00:09:18.720 --> 00:09:24.320
+right here. So, view full report.
+
+00:09:21.520 --> 00:09:27.080
+And it is able to accurately
+
+00:09:24.320 --> 00:09:28.560
+check the drink. This is insane how
+
+00:09:27.080 --> 00:09:31.600
+we've been able to clone an app that
+
+00:09:28.560 --> 00:09:34.520
+hits over $100,000 a month in revenue
+
+00:09:31.600 --> 00:09:36.320
+from one prompt. Now, imagine you add
+
+00:09:34.520 --> 00:09:38.440
+some more prompts and you change the
+
+00:09:36.320 --> 00:09:40.000
+look of it and you refine this. Through
+
+00:09:38.440 --> 00:09:41.760
+three prompts, you almost have a fully
+
+00:09:40.000 --> 00:09:43.680
+production production app that you can
+
+00:09:41.760 --> 00:09:46.240
+put on the App Store. Like that that
+
+00:09:43.680 --> 00:09:48.160
+idea of that is crazy and I'm
+
+00:09:46.240 --> 00:09:50.320
+ex-software engineer, so this used to
+
+00:09:48.160 --> 00:09:52.920
+take like 2 months to create. And now
+
+00:09:50.320 --> 00:09:56.360
+look at it. Now we have
+
+00:09:52.920 --> 00:09:58.880
+Pure Check but Souls version.
+
+00:09:56.360 --> 00:10:01.080
+The landing page is a bit more involved,
+
+00:09:58.880 --> 00:10:02.520
+which is cool. Start with the clarity.
+
+00:10:01.080 --> 00:10:05.280
+What would you like help choosing? I'll
+
+00:10:02.520 --> 00:10:07.040
+say cleaner water, I'm sure. One score,
+
+00:10:05.280 --> 00:10:09.040
+the full story underneath, so kind of
+
+00:10:07.040 --> 00:10:10.320
+gives the breakdown right here. I would
+
+00:10:09.040 --> 00:10:13.560
+say the score is kind of messed up. It
+
+00:10:10.320 --> 00:10:14.760
+should be centered. So that's a UI
+
+00:10:13.560 --> 00:10:16.120
+nitpick.
+
+00:10:14.760 --> 00:10:19.080
+Your cleaner routine starts here. All
+
+00:10:16.120 --> 00:10:20.560
+right, explore Pure Check.
+
+00:10:19.080 --> 00:10:22.440
+It looks very similar, honestly, to what
+
+00:10:20.560 --> 00:10:24.160
+Fable 5 had. I will say the alignment's
+
+00:10:22.440 --> 00:10:26.000
+off right here. So like another like UI
+
+00:10:24.160 --> 00:10:29.080
+mishap.
+
+00:10:26.000 --> 00:10:33.000
+Here, your water score is 96.
+
+00:10:29.080 --> 00:10:35.000
+Um I would say Fable 5 has a better look
+
+00:10:33.000 --> 00:10:37.200
+in terms of just
+
+00:10:35.000 --> 00:10:39.120
+the UI right here. It just looked a lot
+
+00:10:37.200 --> 00:10:42.960
+more cleaner.
+
+00:10:39.120 --> 00:10:44.640
+Um let's keep going. Trending, this is
+
+00:10:42.960 --> 00:10:47.560
+very similar.
+
+00:10:44.640 --> 00:10:49.040
+Unlock rankings. Okay, as the
+
+00:10:47.560 --> 00:10:51.120
+paywall.
+
+00:10:49.040 --> 00:10:52.520
+Top rated this week.
+
+00:10:51.120 --> 00:10:53.720
+Sure.
+
+00:10:52.520 --> 00:10:55.680
+Go back.
+
+00:10:53.720 --> 00:10:58.920
+Save. So can you How do you save? Let's
+
+00:10:55.680 --> 00:11:01.360
+say this water. Save.
+
+00:10:58.920 --> 00:11:04.280
+Nice. So that's the same.
+
+00:11:01.360 --> 00:11:07.160
+Profile, health preferences. Looks like
+
+00:11:04.280 --> 00:11:09.000
+that doesn't really work right now.
+
+00:11:07.160 --> 00:11:11.600
+Okay, let's go to scan.
+
+00:11:09.000 --> 00:11:13.720
+Uh try the demo product in frame.
+
+00:11:11.600 --> 00:11:16.520
+Hold steady, focusing.
+
+00:11:13.720 --> 00:11:18.120
+Purified water, view full analysis.
+
+00:11:16.520 --> 00:11:19.839
+This looks very similar to what Fable 5
+
+00:11:18.120 --> 00:11:24.080
+came in with came up with. So I would
+
+00:11:19.839 --> 00:11:25.600
+say both look pretty solid.
+
+00:11:24.080 --> 00:11:27.880
+Then you can search. Let's say mineral
+
+00:11:25.600 --> 00:11:29.600
+water. All right, that's nice. The
+
+00:11:27.880 --> 00:11:32.600
+search I I I like how it's
+
+00:11:29.600 --> 00:11:34.160
+the search looks here over Fable 5. They
+
+00:11:32.600 --> 00:11:36.000
+I mean they look both look very similar.
+
+00:11:34.160 --> 00:11:39.120
+So, it is a nitpick again.
+
+00:11:36.000 --> 00:11:41.440
+So, overall, I would go with the Fable 5
+
+00:11:39.120 --> 00:11:43.840
+version of this just because although
+
+00:11:41.440 --> 00:11:46.520
+both versions look very similar,
+
+00:11:43.840 --> 00:11:49.120
+I've noticed Soul version has some like
+
+00:11:46.520 --> 00:11:51.880
+UI errors like I just missed alignment
+
+00:11:49.120 --> 00:11:53.960
+right here and then I believe the 91
+
+00:11:51.880 --> 00:11:55.880
+excellent score. So, it's here centered
+
+00:11:53.960 --> 00:11:57.320
+right here, which is good. I believe it
+
+00:11:55.880 --> 00:11:58.880
+was
+
+00:11:57.320 --> 00:12:01.680
+somewhere we saw it which just wasn't
+
+00:11:58.880 --> 00:12:04.160
+looking as clean. I don't know where it
+
+00:12:01.680 --> 00:12:04.160
+went.
+
+00:12:04.840 --> 00:12:10.040
+Mhm.
+
+00:12:05.720 --> 00:12:10.040
+I swore I saw it look a little bit off.
+
+00:12:10.120 --> 00:12:13.960
+Um
+
+00:12:12.520 --> 00:12:15.080
+Okay, maybe it fixed itself. I don't I
+
+00:12:13.960 --> 00:12:16.080
+don't know. I don't know what happened,
+
+00:12:15.080 --> 00:12:17.840
+but
+
+00:12:16.080 --> 00:12:19.600
+I would say I like the Fable 5 version a
+
+00:12:17.840 --> 00:12:21.000
+bit more than this one. The next test
+
+00:12:19.600 --> 00:12:21.920
+will be to create our own Jarvis. If
+
+00:12:21.000 --> 00:12:23.960
+you've been on social media, you
+
+00:12:21.920 --> 00:12:25.760
+probably seen a ton of creators talking
+
+00:12:23.960 --> 00:12:27.320
+about how they created their own Jarvis
+
+00:12:25.760 --> 00:12:29.040
+with Claude. Well, we're going to put
+
+00:12:27.320 --> 00:12:32.440
+that to the test and we're going to see
+
+00:12:29.040 --> 00:12:35.520
+whether GPT- 5.6 Soul or Fable 5 will
+
+00:12:32.440 --> 00:12:37.160
+turn us into Tony Stark. Okay? So, this
+
+00:12:35.520 --> 00:12:38.880
+is a prompt. Again, feel free to pause
+
+00:12:37.160 --> 00:12:40.800
+any point just to copy this prompt. All
+
+00:12:38.880 --> 00:12:42.720
+right, now we have a Jarvis opened up
+
+00:12:40.800 --> 00:12:44.240
+and this is a system that's been going
+
+00:12:42.720 --> 00:12:46.520
+viral on social media. Everyone wants to
+
+00:12:44.240 --> 00:12:48.680
+be the next Iron Man Tony Stark and I've
+
+00:12:46.520 --> 00:12:51.040
+seen a lot of founders creating their
+
+00:12:48.680 --> 00:12:53.960
+own personal Jarvises and trying to sell
+
+00:12:51.040 --> 00:12:56.760
+a Jarvis to other enterprises. So, how
+
+00:12:53.960 --> 00:12:58.640
+well can Fable 5 one-shot Jarvis? Now,
+
+00:12:56.760 --> 00:13:00.680
+this is what it came up with.
+
+00:12:58.640 --> 00:13:03.240
+Now, I'm going to just ask today written
+
+00:13:00.680 --> 00:13:06.640
+command, "What is
+
+00:13:03.240 --> 00:13:07.360
+the weather like in New York City?" See
+
+00:13:06.640 --> 00:13:09.000
+what it says.
+
+00:13:07.360 --> 00:13:11.120
+>> I couldn't find a place called as
+
+00:13:09.000 --> 00:13:12.120
+weather like in New York City, I'm
+
+00:13:11.120 --> 00:13:14.600
+afraid.
+
+00:13:12.120 --> 00:13:16.320
+>> Okay, well, then due to all on that. Uh
+
+00:13:14.600 --> 00:13:19.640
+let's ask simple question.
+
+00:13:16.320 --> 00:13:19.640
+Hey Jarvis, how are you doing?
+
+00:13:20.520 --> 00:13:24.760
+>> Quite well, thank you, sir. How may I be
+
+00:13:23.720 --> 00:13:27.080
+of service?
+
+00:13:24.760 --> 00:13:29.760
+>> That's pretty cool. That's pretty cool.
+
+00:13:27.080 --> 00:13:31.120
+Uh speech rate, pitch. So, if I make a
+
+00:13:29.760 --> 00:13:33.800
+lower pitch
+
+00:13:31.120 --> 00:13:35.000
+>> Voice calibration complete. All systems
+
+00:13:33.800 --> 00:13:37.440
+operational.
+
+00:13:35.000 --> 00:13:40.440
+>> And then, okay, so it has inbuilt voices
+
+00:13:37.440 --> 00:13:42.280
+as well. Let's try Samantha.
+
+00:13:40.440 --> 00:13:46.080
+>> Voice calibration complete.
+
+00:13:42.280 --> 00:13:48.120
+>> Samantha sounds a lot better than that
+
+00:13:46.080 --> 00:13:49.720
+man that I was talking to. Let's keep
+
+00:13:48.120 --> 00:13:53.280
+Samantha's voice.
+
+00:13:49.720 --> 00:13:57.200
+Uh, tap the mic and hold space to speak.
+
+00:13:53.280 --> 00:13:57.200
+I am feeling very happy today.
+
+00:13:58.200 --> 00:14:03.000
+>> Splendid to hear, sir. Shall we put that
+
+00:14:00.720 --> 00:14:05.480
+good mood to productive use or simply
+
+00:14:03.000 --> 00:14:07.280
+enjoy it?
+
+00:14:05.480 --> 00:14:09.840
+>> I want to build a one-person AI
+
+00:14:07.280 --> 00:14:09.840
+business.
+
+00:14:13.920 --> 00:14:17.440
+Okay, it looks like we may have
+
+00:14:15.040 --> 00:14:19.360
+>> ambition, sir. What's your area of
+
+00:14:17.440 --> 00:14:21.720
+expertise? And are you thinking a
+
+00:14:19.360 --> 00:14:22.120
+service, a product, or something in
+
+00:14:21.720 --> 00:14:24.480
+between?
+
+00:14:22.120 --> 00:14:26.120
+>> Nice. So, it's been able to talk very
+
+00:14:24.480 --> 00:14:27.800
+well. I can I can speed up the way how
+
+00:14:26.120 --> 00:14:30.280
+fast it talks.
+
+00:14:27.800 --> 00:14:34.480
+This is ask it another question.
+
+00:14:30.280 --> 00:14:34.480
+I'm thinking of starting a new SaaS.
+
+00:14:38.560 --> 00:14:45.360
+Okay, I don't think it heard me.
+
+00:14:41.160 --> 00:14:45.360
+I am thinking of starting a new SaaS.
+
+00:14:46.640 --> 00:14:49.760
+>> A SaaS venture, very good. What problem
+
+00:14:48.320 --> 00:14:50.920
+are you hoping to solve and for whom,
+
+00:14:49.760 --> 00:14:52.160
+sir? That will shape everything from
+
+00:14:50.920 --> 00:14:53.880
+pricing to the product itself.
+
+00:14:52.160 --> 00:14:55.200
+>> All right, so overall Jarvis is pretty
+
+00:14:53.880 --> 00:14:57.160
+sick. Um, this looks like there's no
+
+00:14:55.200 --> 00:14:59.680
+other integrations that it came up with,
+
+00:14:57.160 --> 00:15:02.000
+although I didn't ask it to. Um, but for
+
+00:14:59.680 --> 00:15:03.760
+what I asked it, it's it it gave me
+
+00:15:02.000 --> 00:15:05.240
+exactly what I'm looking for. So, I
+
+00:15:03.760 --> 00:15:08.360
+can't complain. Fable 5 pulled its
+
+00:15:05.240 --> 00:15:11.120
+weight. Okay, now we have the Jarvis of
+
+00:15:08.360 --> 00:15:13.520
+Soul. And this already looks a lot
+
+00:15:11.120 --> 00:15:15.280
+better than what Fable 5 came up with.
+
+00:15:13.520 --> 00:15:16.400
+Same color scheme, but I mean that's
+
+00:15:15.280 --> 00:15:17.920
+what you expect with the same prompt,
+
+00:15:16.400 --> 00:15:20.480
+right? But look at these command
+
+00:15:17.920 --> 00:15:22.840
+modules. So, Chronos, time and timer and
+
+00:15:20.480 --> 00:15:24.920
+date. Set a timer for 5 minutes, at
+
+00:15:22.840 --> 00:15:27.880
+most. What's the weather in New York?
+
+00:15:24.920 --> 00:15:30.200
+>> In New York, New York, it's 82°
+
+00:15:27.880 --> 00:15:33.880
+Fahrenheit with clear skies. It feels
+
+00:15:30.200 --> 00:15:35.600
+like 85 with winds near 9 mph.
+
+00:15:33.880 --> 00:15:38.080
+>> And you also have the multiple voices
+
+00:15:35.600 --> 00:15:39.360
+right here. There's speed which they
+
+00:15:38.080 --> 00:15:40.920
+talk.
+
+00:15:39.360 --> 00:15:41.720
+You can say convert 10 miles to
+
+00:15:40.920 --> 00:15:44.560
+kilometers.
+
+00:15:41.720 --> 00:15:46.960
+>> 10 miles is 16.09 kilometers.
+
+00:15:44.560 --> 00:15:47.520
+>> Okay, Gateway open websites, open
+
+00:15:46.960 --> 00:15:49.680
+YouTube.
+
+00:15:47.520 --> 00:15:52.600
+>> Opening YouTube.
+
+00:15:49.680 --> 00:15:55.640
+>> Oh, that's pretty cool. That's pretty
+
+00:15:52.600 --> 00:15:57.560
+cool. Um it literally opened YouTube on
+
+00:15:55.640 --> 00:15:58.680
+my other screen.
+
+00:15:57.560 --> 00:16:00.680
+Nice.
+
+00:15:58.680 --> 00:16:02.520
+But let's so you see how how well it can
+
+00:16:00.680 --> 00:16:03.840
+work. So let's just first type a regular
+
+00:16:02.520 --> 00:16:04.600
+command.
+
+00:16:03.840 --> 00:16:10.600
+Um
+
+00:16:04.600 --> 00:16:10.600
+what should I do to start a business?
+
+00:16:11.000 --> 00:16:13.120
+>> To start
+
+00:16:11.640 --> 00:16:15.560
+>> Oh, I like the animation it did.
+
+00:16:13.120 --> 00:16:17.840
+>> identify a viable idea or market need.
+
+00:16:15.560 --> 00:16:20.360
+Then, create a detailed business plan
+
+00:16:17.840 --> 00:16:23.040
+outlining your goals, target audience,
+
+00:16:20.360 --> 00:16:25.040
+and finances. Next, register your
+
+00:16:23.040 --> 00:16:27.560
+business legally and obtain necessary
+
+00:16:25.040 --> 00:16:28.960
+licenses or permits. Secure funding
+
+00:16:27.560 --> 00:16:31.560
+through safe
+
+00:16:28.960 --> 00:16:34.160
+>> Okay. Okay, to really test Jarvis now,
+
+00:16:31.560 --> 00:16:37.440
+let's go ahead and talk to it.
+
+00:16:34.160 --> 00:16:39.839
+Hi Jarvis, I am struggling with figuring
+
+00:16:37.440 --> 00:16:42.360
+out my next business idea. Help me,
+
+00:16:39.839 --> 00:16:42.360
+please.
+
+00:16:42.480 --> 00:16:45.839
+Processing. Look at updating the state
+
+00:16:44.040 --> 00:16:48.240
+right now. And now it's transmitting.
+
+00:16:45.839 --> 00:16:50.360
+>> your interests, skills, and market
+
+00:16:48.240 --> 00:16:53.360
+trends. What are you passionate about or
+
+00:16:50.360 --> 00:16:55.400
+experienced in? Also, consider problems
+
+00:16:53.360 --> 00:16:57.640
+you've noticed that need solutions. I
+
+00:16:55.400 --> 00:16:59.720
+can help brainstorm ideas based on that
+
+00:16:57.640 --> 00:17:01.440
+or share trending business opportunities
+
+00:16:59.720 --> 00:17:03.400
+if you want. Would you like me to
+
+00:17:01.440 --> 00:17:05.160
+suggest some ideas?
+
+00:17:03.400 --> 00:17:07.680
+>> That's pretty cool.
+
+00:17:05.160 --> 00:17:10.680
+Um and I can just keep talking to it.
+
+00:17:07.680 --> 00:17:12.280
+But that's I would say the so definitely
+
+00:17:10.680 --> 00:17:14.640
+wipes out people file when it comes to
+
+00:17:12.280 --> 00:17:17.120
+building this Jarvis layer. Um it's just
+
+00:17:14.640 --> 00:17:18.920
+a lot more involved, cooler things that
+
+00:17:17.120 --> 00:17:19.680
+are added on. I like the
+
+00:17:18.920 --> 00:17:21.640
+um
+
+00:17:19.680 --> 00:17:22.640
+history conversation log. Not saying the
+
+00:17:21.640 --> 00:17:24.920
+other one didn't have there or anything.
+
+00:17:22.640 --> 00:17:26.800
+I'm just saying that this is just looks
+
+00:17:24.920 --> 00:17:29.200
+a lot better.
+
+00:17:26.800 --> 00:17:31.600
+I like how the the simple UI fixes where
+
+00:17:29.200 --> 00:17:34.760
+is I standing by transmitting,
+
+00:17:31.600 --> 00:17:36.920
+processing. I like that a lot about I
+
+00:17:34.760 --> 00:17:38.520
+think Soul just thought about this a bit
+
+00:17:36.920 --> 00:17:40.520
+a bit more.
+
+00:17:38.520 --> 00:17:42.480
+Like the the nitty-gritty details which
+
+00:17:40.520 --> 00:17:44.480
+which is cool to see. The final task
+
+00:17:42.480 --> 00:17:47.320
+will be to add API integrations with
+
+00:17:44.480 --> 00:17:49.480
+Google OAuth and YouTube Data API V3. We
+
+00:17:47.320 --> 00:17:51.680
+want to make sure that both Fable 5 and
+
+00:17:49.480 --> 00:17:53.760
+Soul are able to interact with APIs we
+
+00:17:51.680 --> 00:17:56.400
+give it. So, whenever we build AI
+
+00:17:53.760 --> 00:17:58.640
+systems, we don't have to worry about
+
+00:17:56.400 --> 00:18:01.960
+the API integrations not working because
+
+00:17:58.640 --> 00:18:04.040
+the model is weak. How effectively APIs
+
+00:18:01.960 --> 00:18:05.720
+can be integrated into your system
+
+00:18:04.040 --> 00:18:07.760
+depending on the model is extremely
+
+00:18:05.720 --> 00:18:08.880
+important because the more APIs you can
+
+00:18:07.760 --> 00:18:11.360
+integrate in your systems, the more
+
+00:18:08.880 --> 00:18:13.360
+valuable it is. So, if your model,
+
+00:18:11.360 --> 00:18:15.560
+whether it be Soul or Fable 5, is having
+
+00:18:13.360 --> 00:18:18.120
+trouble integrating APIs, it's going to
+
+00:18:15.560 --> 00:18:20.040
+make your days very, very long and full
+
+00:18:18.120 --> 00:18:21.600
+of a lot of debugging and constant
+
+00:18:20.040 --> 00:18:23.240
+prompting. This is the prompt. It this
+
+00:18:21.600 --> 00:18:26.120
+one's a bit more involved. So, again,
+
+00:18:23.240 --> 00:18:27.760
+pause the video, copy it, and you want
+
+00:18:26.120 --> 00:18:29.800
+your model to be able to integrate
+
+00:18:27.760 --> 00:18:32.880
+Google OAuth and YouTube Data API V3
+
+00:18:29.800 --> 00:18:35.600
+very easily because these are two common
+
+00:18:32.880 --> 00:18:37.720
+one common OAuth and one common API that
+
+00:18:35.600 --> 00:18:40.080
+is used is heavily across various
+
+00:18:37.720 --> 00:18:42.480
+different AI systems, especially in the
+
+00:18:40.080 --> 00:18:44.000
+content space. All right. So, now we're
+
+00:18:42.480 --> 00:18:45.720
+going to test how well Fable 5 can
+
+00:18:44.000 --> 00:18:48.680
+interact with APIs. So, we are going to
+
+00:18:45.720 --> 00:18:50.520
+use the YouTube Data API V3 to read in
+
+00:18:48.680 --> 00:18:51.920
+our YouTube channel's analytics. We're
+
+00:18:50.520 --> 00:18:53.880
+also going to have to give our client ID
+
+00:18:51.920 --> 00:18:57.520
+and client secret right here. So, let me
+
+00:18:53.880 --> 00:18:57.520
+just paste that in right now.
+
+00:18:58.920 --> 00:19:04.000
+I like how it automatically hid the
+
+00:19:01.200 --> 00:19:05.760
+secret and there's ID.
+
+00:19:04.000 --> 00:19:07.960
+Authorize redirect URI, going to have to
+
+00:19:05.760 --> 00:19:10.920
+add this into our
+
+00:19:07.960 --> 00:19:13.680
+Google Cloud, which I I did actually.
+
+00:19:10.920 --> 00:19:15.000
+So, save credentials. So, continue sign
+
+00:19:13.680 --> 00:19:17.120
+in.
+
+00:19:15.000 --> 00:19:21.520
+Sign in with Google. Okay, so it Google
+
+00:19:17.120 --> 00:19:21.520
+hasn't verified this app. Continue.
+
+00:19:22.240 --> 00:19:25.160
+Continue.
+
+00:19:25.280 --> 00:19:30.240
+And you can see that it's able to view
+
+00:19:27.960 --> 00:19:32.800
+my YouTube account cuz I already gave it
+
+00:19:30.240 --> 00:19:34.920
+access.
+
+00:19:32.800 --> 00:19:37.160
+And look at that. Subscribers, total
+
+00:19:34.920 --> 00:19:39.760
+views, videos published. It's been able
+
+00:19:37.160 --> 00:19:42.000
+to read
+
+00:19:39.760 --> 00:19:43.600
+my YouTube channel videos, pull them
+
+00:19:42.000 --> 00:19:46.600
+very nicely.
+
+00:19:43.600 --> 00:19:49.320
+Recent uploads, last 10.
+
+00:19:46.600 --> 00:19:51.040
+Um if I click one, okay. Takes you to
+
+00:19:49.320 --> 00:19:53.360
+the Takes you to direct video. That's
+
+00:19:51.040 --> 00:19:55.440
+pretty sick, I will say.
+
+00:19:53.360 --> 00:19:57.240
+Wow. So, it Fable File was able to
+
+00:19:55.440 --> 00:19:59.520
+integrate Google OAuth very easily.
+
+00:19:57.240 --> 00:20:01.720
+There was really no error that was that
+
+00:19:59.520 --> 00:20:05.880
+happened. Um
+
+00:20:01.720 --> 00:20:08.840
+search YouTube. Let's say AI one-person
+
+00:20:05.880 --> 00:20:11.800
+business. What happens here?
+
+00:20:08.840 --> 00:20:15.840
+And we can look for other videos in this
+
+00:20:11.800 --> 00:20:18.240
+niche. That's That's sick. I like that.
+
+00:20:15.840 --> 00:20:20.280
+Cool. So, this was very easy to
+
+00:20:18.240 --> 00:20:23.160
+integrate with Fable File. I wonder how
+
+00:20:20.280 --> 00:20:25.000
+easy it will be with Soul. Okay, now we
+
+00:20:23.160 --> 00:20:26.880
+are going to check out Soul's
+
+00:20:25.000 --> 00:20:29.960
+integration with Google OAuth and
+
+00:20:26.880 --> 00:20:32.520
+YouTube Data API V3. How well is it able
+
+00:20:29.960 --> 00:20:35.040
+to connect with both without much
+
+00:20:32.520 --> 00:20:35.920
+direction and just with one prompt. So,
+
+00:20:35.040 --> 00:20:39.440
+we're going to go ahead and give it our
+
+00:20:35.920 --> 00:20:39.440
+Google client ID and secret again.
+
+00:20:40.800 --> 00:20:44.920
+This is the secret.
+
+00:20:43.160 --> 00:20:47.440
+Updated credentials. Looks like it's
+
+00:20:44.920 --> 00:20:49.120
+saved. We'll open our dashboard. I see
+
+00:20:47.440 --> 00:20:51.000
+how it has a light theme and a dark
+
+00:20:49.120 --> 00:20:53.000
+theme, which nice little touch. That has
+
+00:20:51.000 --> 00:20:55.160
+a nice cool animation right here that I
+
+00:20:53.000 --> 00:20:57.120
+never asked for, to be honest, but the
+
+00:20:55.160 --> 00:20:59.560
+fact that it's there again shows Soul is
+
+00:20:57.120 --> 00:21:01.240
+kind of thinking a bit beyond what I've
+
+00:20:59.560 --> 00:21:02.680
+asked, which I I've noticed a lot with
+
+00:21:01.240 --> 00:21:04.120
+it, which is pretty cool. We'll press
+
+00:21:02.680 --> 00:21:05.560
+continue.
+
+00:21:04.120 --> 00:21:07.560
+Um
+
+00:21:05.560 --> 00:21:11.000
+and there you Yep, see it for services.
+
+00:21:07.560 --> 00:21:11.720
+Okay, we ran all this stuff.
+
+00:21:11.000 --> 00:21:13.560
+Okay,
+
+00:21:11.720 --> 00:21:15.800
+unhandled script error, hydration. We
+
+00:21:13.560 --> 00:21:17.360
+can ignore that.
+
+00:21:15.800 --> 00:21:20.280
+It looks like wow, it was able to
+
+00:21:17.360 --> 00:21:21.360
+interact with the data API V3 very
+
+00:21:20.280 --> 00:21:23.760
+easily.
+
+00:21:21.360 --> 00:21:25.520
+See the videos, the view count. I'm
+
+00:21:23.760 --> 00:21:27.120
+guessing if I click them, it takes me
+
+00:21:25.520 --> 00:21:29.080
+directly to the video.
+
+00:21:27.120 --> 00:21:30.360
+Lifetime views, published videos. Wow, I
+
+00:21:29.080 --> 00:21:31.880
+have a lot of published videos. I did
+
+00:21:30.360 --> 00:21:36.320
+not realize that.
+
+00:21:31.880 --> 00:21:38.920
+View channel, nice. I can refresh.
+
+00:21:36.320 --> 00:21:42.320
+Again, light theme, dark theme.
+
+00:21:38.920 --> 00:21:45.560
+Uh let's search up anything, one person,
+
+00:21:42.320 --> 00:21:45.560
+AI business.
+
+00:21:47.520 --> 00:21:51.480
+And yep, and this almost the same exact
+
+00:21:49.440 --> 00:21:53.200
+videos come up again.
+
+00:21:51.480 --> 00:21:55.800
+I don't see that dot Dan Martell video,
+
+00:21:53.200 --> 00:21:58.320
+so looks like not the exact same.
+
+00:21:55.800 --> 00:22:00.520
+Uploads, discover.
+
+00:21:58.320 --> 00:22:02.600
+I guess I'd go straight here.
+
+00:22:00.520 --> 00:22:03.400
+Configuration. Okay, that's back to
+
+00:22:02.600 --> 00:22:05.600
+there.
+
+00:22:03.400 --> 00:22:08.840
+So, both Fable 5 and Soul were able to
+
+00:22:05.600 --> 00:22:10.720
+interact with the data API V3 very
+
+00:22:08.840 --> 00:22:12.320
+successfully, and again, through just
+
+00:22:10.720 --> 00:22:15.480
+one prompt, which is pretty sick. Now,
+
+00:22:12.320 --> 00:22:17.720
+my honest verdict is Fable 5 is better
+
+00:22:15.480 --> 00:22:19.480
+at 3D games based off what we saw. It
+
+00:22:17.720 --> 00:22:21.480
+produces smoother functionality within
+
+00:22:19.480 --> 00:22:23.800
+the games apps, and it's better at
+
+00:22:21.480 --> 00:22:25.360
+cloning UIs and products. Meanwhile, GPT
+
+00:22:23.800 --> 00:22:27.240
+5.6 Soul,
+
+00:22:25.360 --> 00:22:28.920
+I've noticed that's able to pay
+
+00:22:27.240 --> 00:22:30.840
+attention to those fine details that
+
+00:22:28.920 --> 00:22:32.920
+aren't even asked for
+
+00:22:30.840 --> 00:22:34.640
+at a way better rate than Fable 5 is.
+
+00:22:32.920 --> 00:22:36.440
+Like, it does things that are nice to
+
+00:22:34.640 --> 00:22:39.000
+have for your app that you just don't
+
+00:22:36.440 --> 00:22:40.160
+think about. Fable 5 does exactly what
+
+00:22:39.000 --> 00:22:42.720
+it's told to do. It doesn't really go
+
+00:22:40.160 --> 00:22:45.360
+above and beyond like GPT 5.6 Soul has
+
+00:22:42.720 --> 00:22:47.640
+been doing based off our test. On top of
+
+00:22:45.360 --> 00:22:50.440
+that, I did like the website that GPT
+
+00:22:47.640 --> 00:22:52.360
+5.6 Soul created, so I would say it's
+
+00:22:50.440 --> 00:22:53.920
+minimally or marginally better at
+
+00:22:52.360 --> 00:22:56.000
+website design. And this is a general
+
+00:22:53.920 --> 00:22:58.320
+consensus I've seen across a lot of
+
+00:22:56.000 --> 00:23:00.800
+different entrepreneurs. And of course,
+
+00:22:58.320 --> 00:23:03.040
+5.6 Soul is more cost-effective. So, I
+
+00:23:00.800 --> 00:23:04.720
+would say as an entrepreneur yourself,
+
+00:23:03.040 --> 00:23:07.360
+you should be using Fable 5 for big
+
+00:23:04.720 --> 00:23:09.200
+heavy tasks, whereas the small detailed
+
+00:23:07.360 --> 00:23:11.680
+tasks, the minute tasks, you should be
+
+00:23:09.200 --> 00:23:13.720
+using GPT 5.6 so. This is the ideal AI
+
+00:23:11.680 --> 00:23:15.880
+workflow if you want to optimize your
+
+00:23:13.720 --> 00:23:17.200
+cost while increasing your performance
+
+00:23:15.880 --> 00:23:18.920
+to the max. Now, if you learned anything
+
+00:23:17.200 --> 00:23:20.240
+from this video or thought it was cool,
+
+00:23:18.920 --> 00:23:21.520
+I would really appreciate if you leave a
+
+00:23:20.240 --> 00:23:24.120
+like cuz it really helps out the
+
+00:23:21.520 --> 00:23:26.720
+channel. And this video just proves that
+
+00:23:24.120 --> 00:23:28.800
+Fable 5, GPT 5.6 so, whatever new AI
+
+00:23:26.720 --> 00:23:30.800
+models are coming out, we are the
+
+00:23:28.800 --> 00:23:32.040
+winners. As these big companies face
+
+00:23:30.800 --> 00:23:34.120
+each other, we're the ones are going to
+
+00:23:32.040 --> 00:23:35.960
+benefit from better AI models, better
+
+00:23:34.120 --> 00:23:39.880
+businesses, and better outputs. And
+
+00:23:35.960 --> 00:23:39.880
+that's what's amazing about all this.
+

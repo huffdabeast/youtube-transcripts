@@ -1,0 +1,755 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.600
+Claude Mythos just got released and it's
+
+00:00:01.680 --> 00:00:05.240
+already setting the AI world on fire.
+
+00:00:03.600 --> 00:00:07.520
+It's outperforming Claude's top models
+
+00:00:05.240 --> 00:00:08.720
+including Sonnet and Opus 4.6. In this
+
+00:00:07.520 --> 00:00:10.640
+video we are going to go over Claude
+
+00:00:08.720 --> 00:00:12.320
+Mythos, Anthropic's secret project, and
+
+00:00:10.640 --> 00:00:13.960
+how you can use Claude Mythos to scale
+
+00:00:12.320 --> 00:00:15.760
+your one-person AI business. Because
+
+00:00:13.960 --> 00:00:17.320
+remember, with all these new AI models
+
+00:00:15.760 --> 00:00:19.240
+dropping, it's the ones with a proper
+
+00:00:17.320 --> 00:00:20.800
+execution plan that can turn these new
+
+00:00:19.240 --> 00:00:22.640
+AI models into real profits. So
+
+00:00:20.800 --> 00:00:23.880
+Anthropic's secret project is Project
+
+00:00:22.640 --> 00:00:25.480
+Glasswing, which they announced just a
+
+00:00:23.880 --> 00:00:26.880
+couple of days ago, and now Claude
+
+00:00:25.480 --> 00:00:28.440
+Mythos is being paired with it.
+
+00:00:26.880 --> 00:00:30.920
+Essentially, Project Glasswing is an
+
+00:00:28.440 --> 00:00:33.360
+effort of Anthropic to combine a bunch
+
+00:00:30.920 --> 00:00:35.480
+of platforms into one critical software
+
+00:00:33.360 --> 00:00:38.320
+using AI. So I'm talking about Google,
+
+00:00:35.480 --> 00:00:40.320
+Apple, uh Amazon Web Services, all under
+
+00:00:38.320 --> 00:00:42.200
+the same hood. And you see $100 million
+
+00:00:40.320 --> 00:00:44.160
+in use of credits committed. So it is a
+
+00:00:42.200 --> 00:00:46.520
+pretty big project, one of the most
+
+00:00:44.160 --> 00:00:48.160
+life-changing AI-changing projects that
+
+00:00:46.520 --> 00:00:49.840
+have currently existed.
+
+00:00:48.160 --> 00:00:52.240
+And with that, there's Claude Mythos
+
+00:00:49.840 --> 00:00:54.320
+preview. This is going This is Claude's
+
+00:00:52.240 --> 00:00:56.040
+best model yet. Uh they announced it
+
+00:00:54.320 --> 00:00:57.560
+prematurely, it apparently got leaked,
+
+00:00:56.040 --> 00:00:59.240
+but now they're officially announcing
+
+00:00:57.560 --> 00:01:00.800
+it. Uh I see found critical
+
+00:00:59.240 --> 00:01:03.080
+vulnerabilities in every major OS and
+
+00:01:00.800 --> 00:01:04.920
+browser, thousands in just zero days,
+
+00:01:03.080 --> 00:01:06.600
+right? Atomic discovery, and it's not
+
+00:01:04.920 --> 00:01:08.280
+generally available right now, but
+
+00:01:06.600 --> 00:01:11.000
+eventually it will be. And it is a
+
+00:01:08.280 --> 00:01:13.000
+little more expensive. Huh. $25 per
+
+00:01:11.000 --> 00:01:15.360
+million input compared to Claude Opus
+
+00:01:13.000 --> 00:01:17.520
+and Sonnet. But obviously, these these
+
+00:01:15.360 --> 00:01:19.120
+models always get cheaper over time.
+
+00:01:17.520 --> 00:01:21.080
+So if you look at some of the real-world
+
+00:01:19.120 --> 00:01:22.600
+vulnerabilities, um it's detecting some
+
+00:01:21.080 --> 00:01:24.200
+cool things, but this doesn't really
+
+00:01:22.600 --> 00:01:26.240
+matter to you, honestly. So we can go
+
+00:01:24.200 --> 00:01:29.520
+ahead and skip this, right? But this is
+
+00:01:26.240 --> 00:01:30.760
+a part that actually shows how much more
+
+00:01:29.520 --> 00:01:33.280
+powerful
+
+00:01:30.760 --> 00:01:35.880
+um Opus uh Mythos is compared to Opus.
+
+00:01:33.280 --> 00:01:39.200
+So if you look at these charts, Mythos
+
+00:01:35.880 --> 00:01:41.880
+beats Opus in CyberGym, SweetBench
+
+00:01:39.200 --> 00:01:44.360
+Verify exam, SweetBench Pro, TurnBench,
+
+00:01:41.880 --> 00:01:48.040
+GBQA Diamond, and every major critical
+
+00:01:44.360 --> 00:01:50.360
+exam, Mythos is beating Opus. So Mythos
+
+00:01:48.040 --> 00:01:52.160
+can code better for you. It can reason
+
+00:01:50.360 --> 00:01:54.160
+better for you. Everything that uh you
+
+00:01:52.160 --> 00:01:55.520
+thought Opus was the best at, Mythos
+
+00:01:54.160 --> 00:01:58.880
+absolutely crushed it. I mean, some of
+
+00:01:55.520 --> 00:02:01.240
+these margins are nearly 15 to 20%
+
+00:01:58.880 --> 00:02:03.480
+difference. This is almost Yeah, this is
+
+00:02:01.240 --> 00:02:04.880
+over 20% difference. You see the
+
+00:02:03.480 --> 00:02:06.880
+reasoning and genetic benchmark,
+
+00:02:04.880 --> 00:02:09.759
+Humanity's Last Exam, which every AI
+
+00:02:06.880 --> 00:02:11.320
+tool is uh used. Uh Opus was leading it,
+
+00:02:09.759 --> 00:02:13.080
+it was one of the best ones, and now you
+
+00:02:11.320 --> 00:02:15.680
+have Mythos absolutely crushing it with
+
+00:02:13.080 --> 00:02:18.160
+the 64.7. Browser comp OS world
+
+00:02:15.680 --> 00:02:20.640
+verified, more SweetBench models. Uh
+
+00:02:18.160 --> 00:02:23.040
+sorry, exam right, benchmark exams.
+
+00:02:20.640 --> 00:02:26.920
+Again, like stuff like this, the
+
+00:02:23.040 --> 00:02:30.120
+difference between Mythos and Opus is
+
+00:02:26.920 --> 00:02:31.640
+absurd, right? And with this being said,
+
+00:02:30.120 --> 00:02:34.320
+like a lot of times Opus would
+
+00:02:31.640 --> 00:02:35.840
+hallucinate depending on more complex
+
+00:02:34.320 --> 00:02:37.720
+tasks. Like if you've ever tried using
+
+00:02:35.840 --> 00:02:39.760
+Opus to create an AI system for an
+
+00:02:37.720 --> 00:02:41.560
+enterprise like I have, you have to
+
+00:02:39.760 --> 00:02:43.320
+prompt it multiple times, right? The
+
+00:02:41.560 --> 00:02:45.160
+reasoning isn't as good as maybe you
+
+00:02:43.320 --> 00:02:47.440
+might hope. Uh but that's just the
+
+00:02:45.160 --> 00:02:50.000
+limitation of most AIs. But now with
+
+00:02:47.440 --> 00:02:52.720
+Mythos, it's expected where you can
+
+00:02:50.000 --> 00:02:54.800
+genuinely one-shot or two-shot
+
+00:02:52.720 --> 00:02:56.560
+enterprise-grade systems. Yes, the
+
+00:02:54.800 --> 00:02:58.240
+security aspect you have to deep dive a
+
+00:02:56.560 --> 00:03:01.400
+little bit more into, but in terms of
+
+00:02:58.240 --> 00:03:03.160
+UI, back-end, database setup, uh payment
+
+00:03:01.400 --> 00:03:04.280
+processing, all that can be one-to-two
+
+00:03:03.160 --> 00:03:06.840
+shotted.
+
+00:03:04.280 --> 00:03:08.360
+So looking at the big picture, AI should
+
+00:03:06.840 --> 00:03:10.080
+pass most humans at vulnerable
+
+00:03:08.360 --> 00:03:12.720
+discovery. So if you look at security
+
+00:03:10.080 --> 00:03:14.880
+tests, uh Mythos class model, one of the
+
+00:03:12.720 --> 00:03:17.160
+biggest uh down points of AI was the
+
+00:03:14.880 --> 00:03:19.040
+fact that security-wise it sucked. When
+
+00:03:17.160 --> 00:03:21.760
+you vibe code a solution, it's very easy
+
+00:03:19.040 --> 00:03:23.680
+to hack. Mythos is Anthropic's attempt
+
+00:03:21.760 --> 00:03:25.400
+to make sure that software is being
+
+00:03:23.680 --> 00:03:27.760
+written securely as well as in a
+
+00:03:25.400 --> 00:03:29.280
+scalable way. Offense and defense same
+
+00:03:27.760 --> 00:03:31.320
+capability, so
+
+00:03:29.280 --> 00:03:32.640
+uh coding tools to unlock. This is one
+
+00:03:31.320 --> 00:03:35.560
+of the biggest uh
+
+00:03:32.640 --> 00:03:38.160
+main benefits of Mythos is how much
+
+00:03:35.560 --> 00:03:40.320
+better of a software engineer it is than
+
+00:03:38.160 --> 00:03:42.360
+Opus. And this will lead to more
+
+00:03:40.320 --> 00:03:44.480
+layoffs. As new Claude models are
+
+00:03:42.360 --> 00:03:45.840
+released such as Mythos, you can expect
+
+00:03:44.480 --> 00:03:47.680
+more and more companies laying off
+
+00:03:45.840 --> 00:03:49.560
+employees. Like Oracle just did 30,000
+
+00:03:47.680 --> 00:03:51.600
+layoffs like two or three days ago. So
+
+00:03:49.560 --> 00:03:54.520
+Mythos is huge for the cybersecurity
+
+00:03:51.600 --> 00:03:56.440
+landscape because with cybercrime and
+
+00:03:54.520 --> 00:03:59.200
+just software being hacked on a daily
+
+00:03:56.440 --> 00:04:01.120
+basis, how can you build enterprise
+
+00:03:59.200 --> 00:04:02.560
+systems that are secure? Again, this is
+
+00:04:01.120 --> 00:04:04.960
+where Mythos comes in. Now while all of
+
+00:04:02.560 --> 00:04:07.040
+this is just jargon at the end of the
+
+00:04:04.960 --> 00:04:09.280
+day, how can you use Claude Mythos for
+
+00:04:07.040 --> 00:04:10.720
+your own one-person AI business? Because
+
+00:04:09.280 --> 00:04:13.120
+you really don't care as much about the
+
+00:04:10.720 --> 00:04:15.480
+models as you do the execution of
+
+00:04:13.120 --> 00:04:17.320
+turning these models into real profits.
+
+00:04:15.480 --> 00:04:18.640
+So your AI employees that you've been
+
+00:04:17.320 --> 00:04:19.400
+building, or you've hopefully been
+
+00:04:18.640 --> 00:04:21.680
+building if you've been watching my
+
+00:04:19.400 --> 00:04:23.480
+videos, will now get smarter and faster,
+
+00:04:21.680 --> 00:04:25.040
+so you can genuinely replace real
+
+00:04:23.480 --> 00:04:26.520
+humans. And you already see companies
+
+00:04:25.040 --> 00:04:28.560
+like Oracle doing so many layoffs and
+
+00:04:26.520 --> 00:04:30.880
+Amazon doing so many layoffs. And with
+
+00:04:28.560 --> 00:04:32.640
+AI employees getting smarter and faster,
+
+00:04:30.880 --> 00:04:34.560
+Mythos is going to result in more
+
+00:04:32.640 --> 00:04:36.000
+layoffs in the tech industry, and that
+
+00:04:34.560 --> 00:04:38.320
+is pretty sad, but that's just how it's
+
+00:04:36.000 --> 00:04:39.800
+going to work. So your your AI employees
+
+00:04:38.320 --> 00:04:42.200
+write better code, right? Have fewer
+
+00:04:39.800 --> 00:04:42.920
+bugs, less less QA testing.
+
+00:04:42.200 --> 00:04:44.960
+Um
+
+00:04:42.920 --> 00:04:46.840
+you will be able to implement AI
+
+00:04:44.960 --> 00:04:50.120
+security, not just AI features. A lot of
+
+00:04:46.840 --> 00:04:51.400
+vibe coded software today is horrible
+
+00:04:50.120 --> 00:04:52.800
+because so many bugs. I used to be a
+
+00:04:51.400 --> 00:04:54.880
+software engineer for a year and a half,
+
+00:04:52.800 --> 00:04:57.480
+and we had to build the most robust
+
+00:04:54.880 --> 00:05:00.680
+software with minimal security risk, if
+
+00:04:57.480 --> 00:05:02.680
+if not zero. And when you vibe code,
+
+00:05:00.680 --> 00:05:04.840
+these security risks are like 10, 20,
+
+00:05:02.680 --> 00:05:06.360
+30. You might not even see it, but
+
+00:05:04.840 --> 00:05:08.880
+security is one of the the biggest
+
+00:05:06.360 --> 00:05:10.920
+downfalls of AI, but with Mythos, that
+
+00:05:08.880 --> 00:05:12.360
+huge downfall, the number one reason
+
+00:05:10.920 --> 00:05:14.760
+companies did not like vibe coded
+
+00:05:12.360 --> 00:05:17.800
+software, the security risk, is taken
+
+00:05:14.760 --> 00:05:19.840
+out. So this means that Mythos
+
+00:05:17.800 --> 00:05:21.800
+opens up a new door where you can not
+
+00:05:19.840 --> 00:05:23.680
+only be a business that builds AI
+
+00:05:21.800 --> 00:05:25.880
+solutions and sells it to clients, you
+
+00:05:23.680 --> 00:05:27.800
+can be a business that does AI security
+
+00:05:25.880 --> 00:05:29.680
+audits. So you can go to these
+
+00:05:27.800 --> 00:05:31.520
+enterprises and say, "Hey, your software
+
+00:05:29.680 --> 00:05:33.000
+might not be secure. We can do a free
+
+00:05:31.520 --> 00:05:35.880
+audit, and if we find vulnerabilities,
+
+00:05:33.000 --> 00:05:38.000
+we can fix it." You offer the audit for
+
+00:05:35.880 --> 00:05:39.440
+free, and you offer the fixing for a
+
+00:05:38.000 --> 00:05:42.040
+paid cost.
+
+00:05:39.440 --> 00:05:42.920
+And this is a new door that's opened.
+
+00:05:42.040 --> 00:05:44.680
+And all the all the software that people
+
+00:05:42.920 --> 00:05:46.680
+have vibe coded that companies are
+
+00:05:44.680 --> 00:05:48.160
+using, you can go to all these companies
+
+00:05:46.680 --> 00:05:51.680
+that are using all these softwares and
+
+00:05:48.160 --> 00:05:53.480
+propose this AI security audit, right?
+
+00:05:51.680 --> 00:05:55.120
+Um And yeah, cybersecurity is a new
+
+00:05:53.480 --> 00:05:57.000
+service vertical. So this is opens this
+
+00:05:55.120 --> 00:05:58.520
+a huge whole new door. And when you are
+
+00:05:57.000 --> 00:05:59.960
+working with enterprises, maybe some
+
+00:05:58.520 --> 00:06:01.080
+enterprises shut the door on you because
+
+00:05:59.960 --> 00:06:02.760
+they're like, "Man, your software
+
+00:06:01.080 --> 00:06:03.920
+probably won't be secure." Now you can
+
+00:06:02.760 --> 00:06:06.720
+show them this and say, "Well, with
+
+00:06:03.920 --> 00:06:08.480
+Mythos, it's pretty secure."
+
+00:06:06.720 --> 00:06:10.360
+And that's one of the the benefits. So
+
+00:06:08.480 --> 00:06:11.800
+how exactly you can take advantage is
+
+00:06:10.360 --> 00:06:14.000
+first, position yourself as an AI
+
+00:06:11.800 --> 00:06:15.400
+security expert, because most businesses
+
+00:06:14.000 --> 00:06:17.920
+don't know this exists. A lot of
+
+00:06:15.400 --> 00:06:19.000
+businesses know AI, but they're scared
+
+00:06:17.920 --> 00:06:21.080
+of just using it, implementing it
+
+00:06:19.000 --> 00:06:22.480
+because of security risk. So now if you
+
+00:06:21.080 --> 00:06:24.840
+talk about yourself as an AI security
+
+00:06:22.480 --> 00:06:26.280
+expert, businesses will be more willing
+
+00:06:24.840 --> 00:06:27.800
+to adopt you into their into their
+
+00:06:26.280 --> 00:06:29.640
+architecture, into their operations. So
+
+00:06:27.800 --> 00:06:31.040
+then you can also build security-aware
+
+00:06:29.640 --> 00:06:32.560
+AI systems. That'll be the next, you
+
+00:06:31.040 --> 00:06:34.360
+know, SAS step. So as you do these AI
+
+00:06:32.560 --> 00:06:35.920
+audits and you find bugs, you can say,
+
+00:06:34.360 --> 00:06:38.480
+"Hey, I can revamp the software, make it
+
+00:06:35.920 --> 00:06:40.400
+security uh high secure highly secure."
+
+00:06:38.480 --> 00:06:42.400
+And this will just motivate more
+
+00:06:40.400 --> 00:06:45.200
+businesses to spend money on your AI
+
+00:06:42.400 --> 00:06:47.680
+security uh consulting agency.
+
+00:06:45.200 --> 00:06:50.520
+And to grow your agency, creating
+
+00:06:47.680 --> 00:06:52.440
+content around Claude Mythos is huge
+
+00:06:50.520 --> 00:06:54.000
+because if you are able to be one of the
+
+00:06:52.440 --> 00:06:55.720
+first people creating content on Claude
+
+00:06:54.000 --> 00:06:57.880
+Mythos and position yourself as an AI
+
+00:06:55.720 --> 00:06:59.560
+expert AI security expert, a lot of
+
+00:06:57.880 --> 00:07:01.160
+these businesses that again have been on
+
+00:06:59.560 --> 00:07:02.680
+the fence because of AI security will
+
+00:07:01.160 --> 00:07:04.680
+now come to you. The next thing you
+
+00:07:02.680 --> 00:07:06.840
+could do is sell AI security audits as a
+
+00:07:04.680 --> 00:07:08.200
+service. Uh this is like software as a
+
+00:07:06.840 --> 00:07:09.720
+service, but now it's AI security audits
+
+00:07:08.200 --> 00:07:12.080
+as a service. Again, we talked about
+
+00:07:09.720 --> 00:07:13.880
+this, and you can upsell them on the
+
+00:07:12.080 --> 00:07:16.360
+actual implementation of these AI secure
+
+00:07:13.880 --> 00:07:17.400
+solutions. And of course, with Mythos,
+
+00:07:16.360 --> 00:07:19.120
+you know, class models becoming
+
+00:07:17.400 --> 00:07:20.560
+available and your agents getting way
+
+00:07:19.120 --> 00:07:22.280
+better at coding, reasoning, autonomy,
+
+00:07:20.560 --> 00:07:24.360
+you need to upgrade your tech stack. You
+
+00:07:22.280 --> 00:07:26.640
+If you're still using Opus or Sonnet, um
+
+00:07:24.360 --> 00:07:29.520
+you are behind. You need to be using
+
+00:07:26.640 --> 00:07:30.800
+Mythos because it is what is the future.
+
+00:07:29.520 --> 00:07:33.560
+It is what's going to be changing the
+
+00:07:30.800 --> 00:07:35.200
+entire AI landscape. Um Now for certain
+
+00:07:33.560 --> 00:07:37.160
+use cases, you know, to be to be
+
+00:07:35.200 --> 00:07:39.520
+realistic, you might only need Sonnet,
+
+00:07:37.160 --> 00:07:41.160
+right? Or or Opus or even Haiku because
+
+00:07:39.520 --> 00:07:42.560
+they it just requires less reasoning,
+
+00:07:41.160 --> 00:07:44.960
+less effort, and you don't want to be
+
+00:07:42.560 --> 00:07:46.240
+burning tokens and spending like $25 per
+
+00:07:44.960 --> 00:07:48.560
+million input cuz that is kind of
+
+00:07:46.240 --> 00:07:51.280
+expensive. Um
+
+00:07:48.560 --> 00:07:52.920
+But the bottom line is AI just crossed a
+
+00:07:51.280 --> 00:07:54.240
+threshold in cybersecurity. The same
+
+00:07:52.920 --> 00:07:56.120
+leap in coding and reasoning that powers
+
+00:07:54.240 --> 00:07:58.840
+Mythos is the same leap that makes your
+
+00:07:56.120 --> 00:08:00.600
+AI agents unstoppable. So start building
+
+00:07:58.840 --> 00:08:03.160
+with it, selling it around with it, and
+
+00:08:00.600 --> 00:08:04.800
+use it as your company's main mission
+
+00:08:03.160 --> 00:08:07.120
+statement. Talking about AI secure
+
+00:08:04.800 --> 00:08:09.640
+software, and you can show Claude Mythos
+
+00:08:07.120 --> 00:08:11.920
+for Google ranking, and you can start a
+
+00:08:09.640 --> 00:08:13.760
+new whole business today if you wanted
+
+00:08:11.920 --> 00:08:15.440
+to. And we have another video coming out
+
+00:08:13.760 --> 00:08:16.600
+that will show you the exact steps of
+
+00:08:15.440 --> 00:08:18.240
+using Claude Mythos to build a
+
+00:08:16.600 --> 00:08:20.840
+one-person AI business. So be sure to
+
+00:08:18.240 --> 00:08:20.840
+subscribe.
+

@@ -1,0 +1,1097 @@
+WEBVTT
+
+00:00:00.160 --> 00:00:04.799
+Most people still think building
+
+00:00:02.240 --> 00:00:08.000
+software is too hard. That was true
+
+00:00:04.799 --> 00:00:11.519
+until last year. I am not a programmer
+
+00:00:08.000 --> 00:00:14.639
+and I wanted a claw code tutorial that
+
+00:00:11.519 --> 00:00:17.039
+normal people could actually use. So I
+
+00:00:14.639 --> 00:00:19.359
+made this. If you've never written a
+
+00:00:17.039 --> 00:00:21.615
+single line of code, you will still go
+
+00:00:19.359 --> 00:00:24.080
+from a blank screen to something real
+
+00:00:21.615 --> 00:00:26.480
+[music] in one afternoon in plain
+
+00:00:24.080 --> 00:00:29.039
+English. Whatever role or industry
+
+00:00:26.480 --> 00:00:31.760
+you're in, you can now build the exact
+
+00:00:29.039 --> 00:00:34.000
+tool your work was missing. Once you
+
+00:00:31.760 --> 00:00:35.680
+understand this simple four-step system
+
+00:00:34.000 --> 00:00:38.800
+in this video, [music] you can build
+
+00:00:35.680 --> 00:00:41.680
+almost anything. So, let's get started.
+
+00:00:38.800 --> 00:00:43.840
+If you look at claude code, it will feel
+
+00:00:41.680 --> 00:00:46.480
+intimidating at first. Everyone thinks
+
+00:00:43.840 --> 00:00:49.520
+you have to be a techie to build cool
+
+00:00:46.480 --> 00:00:52.239
+apps. They're wrong. Imagine tomorrow
+
+00:00:49.520 --> 00:00:55.680
+you have to negotiate an important deal
+
+00:00:52.239 --> 00:00:58.079
+in Beijing, but you don't speak a word
+
+00:00:55.680 --> 00:01:00.879
+of Mandarin, but you have a worldclass
+
+00:00:58.079 --> 00:01:03.760
+translator [music] who converts it into
+
+00:01:00.879 --> 00:01:05.760
+Mandarin to your partners in Beijing.
+
+00:01:03.760 --> 00:01:07.680
+Now you can sit there, have a
+
+00:01:05.760 --> 00:01:10.640
+conversation, you can negotiate and
+
+00:01:07.680 --> 00:01:13.280
+close the deal without ever touching a
+
+00:01:10.640 --> 00:01:16.960
+single word of that language. software
+
+00:01:13.280 --> 00:01:19.360
+programming and building apps in Python
+
+00:01:16.960 --> 00:01:22.240
+or JavaScript. You know, they all feel
+
+00:01:19.360 --> 00:01:25.439
+like Mandarin if you've never seen them
+
+00:01:22.240 --> 00:01:27.840
+before. You can start building products,
+
+00:01:25.439 --> 00:01:30.960
+projects, [music] and internal software
+
+00:01:27.840 --> 00:01:34.000
+tools without any coding today because
+
+00:01:30.960 --> 00:01:36.400
+Claude Code is your translator. If you
+
+00:01:34.000 --> 00:01:39.439
+can speak in English, you can get the
+
+00:01:36.400 --> 00:01:41.526
+deal done without knowing a single word
+
+00:01:39.439 --> 00:01:43.600
+of any programming language. Claude
+
+00:01:41.526 --> 00:01:47.119
+[music] chat helps you think. Claude
+
+00:01:43.600 --> 00:01:50.560
+code work helps you do and claude code
+
+00:01:47.119 --> 00:01:54.240
+helps you build. So if you think that ah
+
+00:01:50.560 --> 00:01:56.479
+man coding is not for people like me, I
+
+00:01:54.240 --> 00:01:58.560
+want you to test that assumption in the
+
+00:01:56.479 --> 00:02:00.960
+next few minutes. What would you need to
+
+00:01:58.560 --> 00:02:03.759
+build your first simple app? Not a
+
+00:02:00.960 --> 00:02:06.560
+single line of code. Now this is the
+
+00:02:03.759 --> 00:02:10.000
+desktop version of clawed app. At the
+
+00:02:06.560 --> 00:02:12.080
+top you can see claude chat and code.
+
+00:02:10.000 --> 00:02:14.879
+Select code. By the way, this is the
+
+00:02:12.080 --> 00:02:17.760
+universal icon for code everywhere. Down
+
+00:02:14.879 --> 00:02:20.480
+here is where I tell Claude what I want.
+
+00:02:17.760 --> 00:02:24.080
+You'll see words like repositories
+
+00:02:20.480 --> 00:02:26.959
+sometimes or GitHub. Ignore them for
+
+00:02:24.080 --> 00:02:30.080
+now. For this first build, let's use
+
+00:02:26.959 --> 00:02:32.640
+clot code locally. Pick a folder where
+
+00:02:30.080 --> 00:02:38.560
+you want the project to live and then
+
+00:02:32.640 --> 00:02:43.680
+type build me a beautiful 25inut focus
+
+00:02:38.560 --> 00:02:47.200
+timer with start, pause, reset, and a
+
+00:02:43.680 --> 00:02:50.239
+progress ring. That's it. And watch what
+
+00:02:47.200 --> 00:02:53.120
+happens. Cloud code starts figuring out
+
+00:02:50.239 --> 00:02:55.599
+what it needs. Creating the files,
+
+00:02:53.120 --> 00:02:58.959
+writing the code, putting the pieces
+
+00:02:55.599 --> 00:03:01.840
+together. And just in a few minutes,
+
+00:02:58.959 --> 00:03:06.000
+there will be an actual application
+
+00:03:01.840 --> 00:03:09.599
+built for you. Let's open it. Here's the
+
+00:03:06.000 --> 00:03:11.840
+timer. Looks good. Start, pause, reset.
+
+00:03:09.599 --> 00:03:14.159
+Okay, all the buttons are there. So,
+
+00:03:11.840 --> 00:03:18.400
+that's the first moment when you start
+
+00:03:14.159 --> 00:03:20.879
+feeling, wait a minute, I built that. I
+
+00:03:18.400 --> 00:03:23.360
+can build this thing. You don't need to
+
+00:03:20.879 --> 00:03:26.640
+know what programming language Claude
+
+00:03:23.360 --> 00:03:29.599
+used or what all those strange messages
+
+00:03:26.640 --> 00:03:32.319
+that scrolled on the screen meant. Now
+
+00:03:29.599 --> 00:03:35.120
+look at the final product. Do you like
+
+00:03:32.319 --> 00:03:37.920
+the way it looks? If not, you can change
+
+00:03:35.120 --> 00:03:41.440
+it by just prompting. It's really that
+
+00:03:37.920 --> 00:03:44.159
+simple. That's the first big shift of
+
+00:03:41.440 --> 00:03:47.120
+how you use clawed code. You don't have
+
+00:03:44.159 --> 00:03:49.920
+to manage the code. You can manage the
+
+00:03:47.120 --> 00:03:53.920
+outcome. Now, we cheated a little bit
+
+00:03:49.920 --> 00:03:56.319
+here. A timer is deliberately a simple
+
+00:03:53.920 --> 00:03:57.760
+app. What happens when the thing you
+
+00:03:56.319 --> 00:04:00.159
+want to build is slightly more
+
+00:03:57.760 --> 00:04:03.200
+complicated? Well, let's go there next.
+
+00:04:00.159 --> 00:04:05.840
+We'll take our first bite. The best way
+
+00:04:03.200 --> 00:04:08.560
+to build software tools and apps is to
+
+00:04:05.840 --> 00:04:12.720
+stop thinking about software. Imagine
+
+00:04:08.560 --> 00:04:15.680
+you're the director of a $200 million
+
+00:04:12.720 --> 00:04:18.959
+Hollywood blockbuster. You show up on
+
+00:04:15.680 --> 00:04:21.600
+the set and while the entire crew is
+
+00:04:18.959 --> 00:04:24.800
+waiting outside, you tear up the script
+
+00:04:21.600 --> 00:04:28.080
+and spend 3 hours rewriting the entire
+
+00:04:24.800 --> 00:04:31.040
+scene on a paper napkin. That would be
+
+00:04:28.080 --> 00:04:33.919
+so chaotic. But that's exactly what
+
+00:04:31.040 --> 00:04:36.880
+happened during a movie called Joker 2.
+
+00:04:33.919 --> 00:04:39.600
+And the movie was a mess according to
+
+00:04:36.880 --> 00:04:43.680
+many people. Now contrast that with Mad
+
+00:04:39.600 --> 00:04:46.479
+Max Fury Road. The entire movie is like
+
+00:04:43.680 --> 00:04:49.520
+one big car chase through the desert.
+
+00:04:46.479 --> 00:04:53.199
+So, the director, George Miller, and his
+
+00:04:49.520 --> 00:04:56.560
+team map the entire movie through
+
+00:04:53.199 --> 00:04:59.520
+roughly about 3,500
+
+00:04:56.560 --> 00:05:02.720
+storyboard panels. Each scene, each
+
+00:04:59.520 --> 00:05:04.720
+stunt was meticulously planned. And the
+
+00:05:02.720 --> 00:05:07.120
+funny part is, it's one of the most
+
+00:05:04.720 --> 00:05:09.520
+chaotic action movies [music] ever made,
+
+00:05:07.120 --> 00:05:12.000
+and ironically, one of the best planned
+
+00:05:09.520 --> 00:05:15.360
+ones. So before you start building on
+
+00:05:12.000 --> 00:05:18.400
+any of these vibe coding tools, plan
+
+00:05:15.360 --> 00:05:22.400
+something, build something small, test
+
+00:05:18.400 --> 00:05:26.240
+it, and improve it. I like a simpler
+
+00:05:22.400 --> 00:05:29.199
+version that I made. I call it bite. You
+
+00:05:26.240 --> 00:05:31.680
+don't eat the entire watermelon at once,
+
+00:05:29.199 --> 00:05:34.880
+right? [music] You take one small bite
+
+00:05:31.680 --> 00:05:36.673
+at a time. Bite is your map. B is
+
+00:05:34.880 --> 00:05:39.360
+briefing. What are you trying to build?
+
+00:05:36.673 --> 00:05:42.400
+[music] For whom and why. I is
+
+00:05:39.360 --> 00:05:45.759
+implement. Build the smallest useful
+
+00:05:42.400 --> 00:05:47.680
+version. T is [music] test. Use it and
+
+00:05:45.759 --> 00:05:50.320
+see where it breaks. How do you improve
+
+00:05:47.680 --> 00:05:53.199
+it? And E is [music] evolve. Good
+
+00:05:50.320 --> 00:05:54.960
+products evolve over time. And so do
+
+00:05:53.199 --> 00:05:56.979
+good builders. And by the way, if you
+
+00:05:54.960 --> 00:05:59.440
+like to get such tools and frameworks
+
+00:05:56.979 --> 00:06:02.240
+[music] delivered to your inbox, please
+
+00:05:59.440 --> 00:06:04.880
+subscribe to my email. The link is below
+
+00:06:02.240 --> 00:06:06.960
+and it's totally free. I love writing
+
+00:06:04.880 --> 00:06:09.520
+it. All right, let's use this framework
+
+00:06:06.960 --> 00:06:12.000
+to build something slightly more useful.
+
+00:06:09.520 --> 00:06:14.664
+Let's build a simple relationship
+
+00:06:12.000 --> 00:06:17.120
+manager for people who matter the
+
+00:06:14.664 --> 00:06:19.919
+[music] most to me professionally,
+
+00:06:17.120 --> 00:06:22.560
+personally, former colleagues, my
+
+00:06:19.919 --> 00:06:25.919
+mentors, my partners, people I want to
+
+00:06:22.560 --> 00:06:28.160
+stay close to, but I can't because I'm
+
+00:06:25.919 --> 00:06:30.160
+running around. So, why not build
+
+00:06:28.160 --> 00:06:33.600
+something that's your own that's focused
+
+00:06:30.160 --> 00:06:36.080
+on just one question? Who matters to me?
+
+00:06:33.600 --> 00:06:38.080
+and how am I staying in touch with them?
+
+00:06:36.080 --> 00:06:41.520
+So, let's get started. We'll start with
+
+00:06:38.080 --> 00:06:44.479
+B for briefing. AI can build faster than
+
+00:06:41.520 --> 00:06:46.479
+any human team, but at that speed, it
+
+00:06:44.479 --> 00:06:50.000
+needs a lot of direction. In your
+
+00:06:46.479 --> 00:06:52.659
+briefing, answer four questions. Who is
+
+00:06:50.000 --> 00:06:54.880
+this for? What problem are
+
+00:06:52.659 --> 00:06:57.759
+[clears throat] we solving? What does
+
+00:06:54.880 --> 00:07:00.960
+the first version need to do? And just
+
+00:06:57.759 --> 00:07:04.800
+as importantly, what are we not building
+
+00:07:00.960 --> 00:07:07.919
+in this product? Let's do it for real. I
+
+00:07:04.800 --> 00:07:12.000
+open clot code and give it a simple
+
+00:07:07.919 --> 00:07:15.360
+prompt. I want to build a personal
+
+00:07:12.000 --> 00:07:17.280
+relationship manager called Orbit. I
+
+00:07:15.360 --> 00:07:19.440
+just named it Orbit. Here's the problem
+
+00:07:17.280 --> 00:07:21.919
+I want to solve. I want to track how I
+
+00:07:19.440 --> 00:07:26.080
+stay in touch with people who matter to
+
+00:07:21.919 --> 00:07:29.120
+me. For version one, use the sample data
+
+00:07:26.080 --> 00:07:32.960
+I provided. Show each person's name,
+
+00:07:29.120 --> 00:07:36.479
+company, when we spoke last, and notes.
+
+00:07:32.960 --> 00:07:38.080
+Make it look professional, sparse, and
+
+00:07:36.479 --> 00:07:41.280
+Applelike.
+
+00:07:38.080 --> 00:07:44.639
+Use a muted color palette.
+
+00:07:41.280 --> 00:07:47.840
+Don't build any email or LinkedIn
+
+00:07:44.639 --> 00:07:50.319
+integrations yet. Before writing code,
+
+00:07:47.840 --> 00:07:52.960
+make a plan and ask me anything
+
+00:07:50.319 --> 00:07:54.240
+important that I have missed. And this
+
+00:07:52.960 --> 00:07:57.599
+is the most important part of the
+
+00:07:54.240 --> 00:08:00.720
+prompt. I am not a techie or a software
+
+00:07:57.599 --> 00:08:04.319
+engineer. Don't ask me to approve or
+
+00:08:00.720 --> 00:08:07.039
+review any technical commands. Make all
+
+00:08:04.319 --> 00:08:09.919
+the technical decisions yourself and
+
+00:08:07.039 --> 00:08:13.599
+only ask me questions about what the app
+
+00:08:09.919 --> 00:08:16.080
+should do in plain language. That's your
+
+00:08:13.599 --> 00:08:18.000
+example prompt. But you get my point,
+
+00:08:16.080 --> 00:08:20.000
+right? You can write your own prompt
+
+00:08:18.000 --> 00:08:22.080
+that is better than the one you just
+
+00:08:20.000 --> 00:08:24.960
+saw. First, it'll ask you a bunch of
+
+00:08:22.080 --> 00:08:27.520
+questions about what you want to build.
+
+00:08:24.960 --> 00:08:29.520
+It'll clarify if there are any tradeoffs
+
+00:08:27.520 --> 00:08:31.039
+you need to make. And depending on what
+
+00:08:29.520 --> 00:08:33.039
+you were building, it'll ask you
+
+00:08:31.039 --> 00:08:35.760
+different questions. But it won't ask
+
+00:08:33.039 --> 00:08:38.000
+you questions about what kind of
+
+00:08:35.760 --> 00:08:40.080
+programming language it should write in
+
+00:08:38.000 --> 00:08:43.919
+or what kind of database you want to
+
+00:08:40.080 --> 00:08:46.560
+design. You can decide what you want and
+
+00:08:43.919 --> 00:08:48.480
+it decides how to build it. If you don't
+
+00:08:46.560 --> 00:08:51.200
+understand a bunch of things in the
+
+00:08:48.480 --> 00:08:53.360
+plan, you can ask questions. You can
+
+00:08:51.200 --> 00:08:56.080
+make suggestions to change things in the
+
+00:08:53.360 --> 00:08:59.120
+plan. Claude can update the plan anytime
+
+00:08:56.080 --> 00:09:02.720
+you give it feedback. In my case, after
+
+00:08:59.120 --> 00:09:06.000
+I read the plan, I realized I had left
+
+00:09:02.720 --> 00:09:09.519
+out one very important detail in the
+
+00:09:06.000 --> 00:09:13.200
+original prompt. The actual user
+
+00:09:09.519 --> 00:09:15.600
+experience. My prompt said nothing about
+
+00:09:13.200 --> 00:09:18.880
+what the layout would look like and what
+
+00:09:15.600 --> 00:09:21.120
+to show where. So I type in plain
+
+00:09:18.880 --> 00:09:24.560
+English. It should look professional and
+
+00:09:21.120 --> 00:09:28.959
+slick as if it's designed by Apple. Make
+
+00:09:24.560 --> 00:09:32.160
+it a threepane layout. Left sidebar with
+
+00:09:28.959 --> 00:09:35.519
+my categories. Middle column with list
+
+00:09:32.160 --> 00:09:38.000
+of names. When I click on someone, their
+
+00:09:35.519 --> 00:09:41.120
+profile opens on the right side. And
+
+00:09:38.000 --> 00:09:45.279
+after adding a little bit of that, I
+
+00:09:41.120 --> 00:09:47.279
+approve the plan. And now cloud code
+
+00:09:45.279 --> 00:09:51.680
+starts building. To see what happens
+
+00:09:47.279 --> 00:09:53.760
+next, we move to I for implement. The
+
+00:09:51.680 --> 00:09:55.920
+biggest mistake trying to build
+
+00:09:53.760 --> 00:09:58.480
+everything at once. We'll dig into that
+
+00:09:55.920 --> 00:10:00.399
+important concept once Claude finishes
+
+00:09:58.480 --> 00:10:02.880
+building the first version. But you'll
+
+00:10:00.399 --> 00:10:06.800
+see that right now it starts creating
+
+00:10:02.880 --> 00:10:09.839
+and editing files, running commands,
+
+00:10:06.800 --> 00:10:13.600
+installing whatever it needs. If none of
+
+00:10:09.839 --> 00:10:16.079
+that means anything to you, great. It
+
+00:10:13.600 --> 00:10:18.959
+doesn't have to. Now look at the bottom
+
+00:10:16.079 --> 00:10:21.519
+and see if auto mode is available on
+
+00:10:18.959 --> 00:10:23.920
+your account. And if it is, you can turn
+
+00:10:21.519 --> 00:10:26.399
+it on and it will keep working without
+
+00:10:23.920 --> 00:10:28.000
+stopping for every permission that it
+
+00:10:26.399 --> 00:10:31.440
+needs to ask from you. For anything
+
+00:10:28.000 --> 00:10:34.560
+sensitive, you can slow down and review
+
+00:10:31.440 --> 00:10:36.959
+what it's doing, but usually you can sit
+
+00:10:34.560 --> 00:10:40.240
+back and enjoy your coffee. In my case,
+
+00:10:36.959 --> 00:10:42.000
+it ran for about 10 to 15 minutes. It
+
+00:10:40.240 --> 00:10:44.399
+wrote the entire code. It was a
+
+00:10:42.000 --> 00:10:47.200
+JavaScript code. It checked its own
+
+00:10:44.399 --> 00:10:50.560
+work. It made its own database and then
+
+00:10:47.200 --> 00:10:54.480
+came back with its first version. Now,
+
+00:10:50.560 --> 00:10:57.920
+here's what it looks like. The search
+
+00:10:54.480 --> 00:11:01.040
+works. I can type and see the people.
+
+00:10:57.920 --> 00:11:03.680
+That's good. Three PES just like uh we
+
+00:11:01.040 --> 00:11:06.720
+asked. All good. Let's see. The
+
+00:11:03.680 --> 00:11:09.519
+categories on the left are all accurate.
+
+00:11:06.720 --> 00:11:12.560
+It's good. It's genuinely usable. That's
+
+00:11:09.519 --> 00:11:14.880
+version one of Orbit. And this is what
+
+00:11:12.560 --> 00:11:18.160
+you should notice about our version one.
+
+00:11:14.880 --> 00:11:20.720
+It is the simplest thing that is still
+
+00:11:18.160 --> 00:11:23.440
+useful in tech. There is a concept
+
+00:11:20.720 --> 00:11:26.800
+called MVP.
+
+00:11:23.440 --> 00:11:30.079
+not most valuable player but minimum
+
+00:11:26.800 --> 00:11:31.920
+viable product and I love this concept
+
+00:11:30.079 --> 00:11:35.680
+because it can be applied to any
+
+00:11:31.920 --> 00:11:38.560
+business any career any output all
+
+00:11:35.680 --> 00:11:41.040
+technology startups are obsessed with
+
+00:11:38.560 --> 00:11:43.600
+this one question what is the smallest
+
+00:11:41.040 --> 00:11:45.680
+version you can put in someone's hands
+
+00:11:43.600 --> 00:11:47.760
+that actually solves their problem
+
+00:11:45.680 --> 00:11:50.959
+because then you can observe how they
+
+00:11:47.760 --> 00:11:54.640
+use it what works what breaks what parts
+
+00:11:50.959 --> 00:11:57.279
+they like what parts they actually use
+
+00:11:54.640 --> 00:12:00.880
+that feedback tells you what to build
+
+00:11:57.279 --> 00:12:04.240
+next. And one sidebar, but a useful
+
+00:12:00.880 --> 00:12:07.519
+trick, I like using the strongest
+
+00:12:04.240 --> 00:12:09.760
+reasoning model for the planning and a
+
+00:12:07.519 --> 00:12:11.760
+cheaper, faster model for the
+
+00:12:09.760 --> 00:12:15.760
+implementation. It's like having a
+
+00:12:11.760 --> 00:12:18.880
+senior person help you strategize and a
+
+00:12:15.760 --> 00:12:22.800
+junior person handling the leg work.
+
+00:12:18.880 --> 00:12:25.760
+Let's go to T for test. We have our
+
+00:12:22.800 --> 00:12:27.920
+minimum viable product. Now, let's test
+
+00:12:25.760 --> 00:12:31.760
+it and make it even more useful. Your
+
+00:12:27.920 --> 00:12:33.839
+first version works. Congrats. Great.
+
+00:12:31.760 --> 00:12:36.480
+Once you start using it, though, you'll
+
+00:12:33.839 --> 00:12:39.600
+see what's missing. For instance, in
+
+00:12:36.480 --> 00:12:42.320
+this app that we just built live, you
+
+00:12:39.600 --> 00:12:44.160
+realize the the names are there, the
+
+00:12:42.320 --> 00:12:46.639
+data is all there, the dates are all
+
+00:12:44.160 --> 00:12:49.839
+there, but there are no real insights
+
+00:12:46.639 --> 00:12:52.639
+that are obvious or actionable. So,
+
+00:12:49.839 --> 00:12:55.519
+let's go back to the prompt. Put three
+
+00:12:52.639 --> 00:12:58.639
+cards at the top. How many of my
+
+00:12:55.519 --> 00:13:02.160
+connections need attention?
+
+00:12:58.639 --> 00:13:05.440
+How many of them have gone cold? And how
+
+00:13:02.160 --> 00:13:08.639
+many follow up this week? That's a nice
+
+00:13:05.440 --> 00:13:13.760
+prompt. A few minutes later, there they
+
+00:13:08.639 --> 00:13:16.000
+are. Now, I open the same app and I have
+
+00:13:13.760 --> 00:13:18.959
+some kind of a dashboard at the top, not
+
+00:13:16.000 --> 00:13:23.519
+just data. When you're using clot code
+
+00:13:18.959 --> 00:13:27.120
+or any vibe coding tools, your goal is
+
+00:13:23.519 --> 00:13:29.920
+to get to the answer and make whatever
+
+00:13:27.120 --> 00:13:33.600
+you're building more insightful and more
+
+00:13:29.920 --> 00:13:36.079
+useful to you or the actual user. Then
+
+00:13:33.600 --> 00:13:39.120
+after a little more testing, you might
+
+00:13:36.079 --> 00:13:41.519
+find other gaps. For instance, when I
+
+00:13:39.120 --> 00:13:44.480
+reach out to someone, there's no way to
+
+00:13:41.519 --> 00:13:47.120
+tell, at least in the app, how I did it
+
+00:13:44.480 --> 00:13:50.560
+and when I did it. So you can go back to
+
+00:13:47.120 --> 00:13:53.760
+the prompt and add this add a button
+
+00:13:50.560 --> 00:13:57.040
+called log contact to each person's
+
+00:13:53.760 --> 00:14:01.040
+profile. When I click it, let me pick
+
+00:13:57.040 --> 00:14:05.199
+how we talked. Email, call, text,
+
+00:14:01.040 --> 00:14:07.519
+coffee. Then let me pick the date and
+
+00:14:05.199 --> 00:14:10.079
+let me add a quick note. And now Claude
+
+00:14:07.519 --> 00:14:12.399
+Code will go back and change the code.
+
+00:14:10.079 --> 00:14:14.720
+It'll rebuild some of the parts. When
+
+00:14:12.399 --> 00:14:17.760
+it's ready, I click on it. I check it
+
+00:14:14.720 --> 00:14:21.279
+out. Nice. It's working. Now you have
+
+00:14:17.760 --> 00:14:24.320
+started inching toward your own
+
+00:14:21.279 --> 00:14:26.800
+relationship management system. It's not
+
+00:14:24.320 --> 00:14:29.680
+a spreadsheet anymore. It's how you keep
+
+00:14:26.800 --> 00:14:33.120
+in touch with those who are close to
+
+00:14:29.680 --> 00:14:35.760
+you, those in your closest orbit. And
+
+00:14:33.120 --> 00:14:38.720
+now we go to the final step. E for
+
+00:14:35.760 --> 00:14:41.279
+evolve. The final step is not just to
+
+00:14:38.720 --> 00:14:44.240
+evolve what you build, but to make sure
+
+00:14:41.279 --> 00:14:48.160
+you evolve with it. Anthropic did a
+
+00:14:44.240 --> 00:14:50.880
+study that looked at roughly 400,000
+
+00:14:48.160 --> 00:14:53.600
+real sessions of people building
+
+00:14:50.880 --> 00:14:56.800
+software apps with AI. And the results
+
+00:14:53.600 --> 00:14:59.360
+were surprising. They found that people
+
+00:14:56.800 --> 00:15:03.040
+who had never programmed before
+
+00:14:59.360 --> 00:15:06.320
+succeeded almost as often as trained
+
+00:15:03.040 --> 00:15:08.240
+engineers and managers actually scored
+
+00:15:06.320 --> 00:15:11.199
+slightly higher than even software
+
+00:15:08.240 --> 00:15:15.120
+engineers. Now, it was just a survey and
+
+00:15:11.199 --> 00:15:17.839
+not a super rigorous study, but it does
+
+00:15:15.120 --> 00:15:20.800
+point to an interesting fact. The whole
+
+00:15:17.839 --> 00:15:24.079
+skill of vibe coding boils down to
+
+00:15:20.800 --> 00:15:28.079
+knowing what you want and describing it
+
+00:15:24.079 --> 00:15:31.440
+clearly to your staff, which is your AI
+
+00:15:28.079 --> 00:15:36.160
+coder in this case. So, the best people
+
+00:15:31.440 --> 00:15:39.120
+managers become the best AI managers. So
+
+00:15:36.160 --> 00:15:42.399
+from here you can evolve in three
+
+00:15:39.120 --> 00:15:45.920
+different directions. First, the app you
+
+00:15:42.399 --> 00:15:49.600
+build can evolve into a a system. You
+
+00:15:45.920 --> 00:15:52.320
+can reuse the code to make a CRM for
+
+00:15:49.600 --> 00:15:55.759
+your side hustle, a tracker for your
+
+00:15:52.320 --> 00:15:59.360
+kids soccer team, a dashboard for your
+
+00:15:55.759 --> 00:16:02.079
+goals, whatever comes to mind. Second,
+
+00:15:59.360 --> 00:16:05.759
+if you feel like it, you can go a bit
+
+00:16:02.079 --> 00:16:08.560
+deeper. You can learn about APIs and how
+
+00:16:05.759 --> 00:16:12.240
+to connect with other apps, how to use
+
+00:16:08.560 --> 00:16:14.399
+GitHub, and what those Python libraries
+
+00:16:12.240 --> 00:16:17.440
+actually do. And every time you get
+
+00:16:14.399 --> 00:16:20.639
+stuck, don't be afraid to ask clarifying
+
+00:16:17.440 --> 00:16:23.199
+questions. Open Claw Chat or any chat
+
+00:16:20.639 --> 00:16:26.000
+and ask it to explain it like you are a
+
+00:16:23.199 --> 00:16:29.199
+10year-old. And the third direction is
+
+00:16:26.000 --> 00:16:33.279
+try to learn something about coding.
+
+00:16:29.199 --> 00:16:36.079
+Even if your career right now has almost
+
+00:16:33.279 --> 00:16:39.199
+nothing to do with software because of
+
+00:16:36.079 --> 00:16:41.839
+all the things AI will change, software
+
+00:16:39.199 --> 00:16:44.480
+building is one of the areas where AI
+
+00:16:41.839 --> 00:16:46.320
+will improve incredibly quickly in the
+
+00:16:44.480 --> 00:16:49.519
+coming years. And there are reasons for
+
+00:16:46.320 --> 00:16:52.639
+that. But that also means that anyone
+
+00:16:49.519 --> 00:16:55.759
+with the right tools can create absolute
+
+00:16:52.639 --> 00:16:57.920
+magic. The world is still going to need
+
+00:16:55.759 --> 00:17:00.959
+great software engineers to understand
+
+00:16:57.920 --> 00:17:05.039
+complex systems and architectures and
+
+00:17:00.959 --> 00:17:07.360
+security and much more. But this new way
+
+00:17:05.039 --> 00:17:10.720
+of working and building your digital
+
+00:17:07.360 --> 00:17:14.079
+life is coming at you at 100 miles an
+
+00:17:10.720 --> 00:17:18.240
+hour. So spend a weekend tinkering with
+
+00:17:14.079 --> 00:17:21.039
+claude code or lovable or replet or
+
+00:17:18.240 --> 00:17:24.559
+maybe take an online course because the
+
+00:17:21.039 --> 00:17:27.919
+real goal is to become comfortable
+
+00:17:24.559 --> 00:17:31.520
+building, breaking and rebuilding
+
+00:17:27.919 --> 00:17:35.840
+things. What you build today will tell
+
+00:17:31.520 --> 00:17:39.039
+you what to build next. So go ahead and
+
+00:17:35.840 --> 00:17:41.600
+make a bad version.
+
+00:17:39.039 --> 00:17:43.760
+That's the only way you'll know how to
+
+00:17:41.600 --> 00:17:48.240
+make the best one.
+
+00:17:43.760 --> 00:17:48.240
+Thank you and I love you.
+

@@ -1,0 +1,695 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Claude code now works with iMessage and
+
+00:00:02.040 --> 00:00:06.120
+is changing the AI space forever. No
+
+00:00:04.000 --> 00:00:08.520
+laptop, no VS code, no terminal. All I
+
+00:00:06.120 --> 00:00:10.320
+need is a single iPhone that I use to
+
+00:00:08.520 --> 00:00:11.600
+tell Claude code to do whatever I want
+
+00:00:10.320 --> 00:00:13.080
+it to do. In this video, I'm going to
+
+00:00:11.600 --> 00:00:15.040
+show you exactly how to set up Claude
+
+00:00:13.080 --> 00:00:17.080
+code's new iMessage channel, how I use
+
+00:00:15.040 --> 00:00:18.760
+it to run my AI agency while I'm away
+
+00:00:17.080 --> 00:00:21.080
+from my desk, [music] and how you can
+
+00:00:18.760 --> 00:00:23.120
+use it to build and scale a powerful
+
+00:00:21.080 --> 00:00:24.640
+one-person AI business. So, here's the
+
+00:00:23.120 --> 00:00:26.160
+thing. If you're running any kind of AI
+
+00:00:24.640 --> 00:00:27.960
+business, whether it's an agency,
+
+00:00:26.160 --> 00:00:29.680
+building apps, freelancing, whatever it
+
+00:00:27.960 --> 00:00:31.280
+is, you know the pain of being tied to
+
+00:00:29.680 --> 00:00:33.160
+your laptop. A client sends you a
+
+00:00:31.280 --> 00:00:34.760
+message at 9:00 p.m. asking for a status
+
+00:00:33.160 --> 00:00:36.080
+update, or you're out at dinner. You
+
+00:00:34.760 --> 00:00:37.400
+can't just pull out your MacBook at a
+
+00:00:36.080 --> 00:00:39.000
+restaurant, otherwise everyone's going
+
+00:00:37.400 --> 00:00:40.560
+to look at you like you have no life,
+
+00:00:39.000 --> 00:00:42.040
+which you still might not. Or maybe
+
+00:00:40.560 --> 00:00:43.480
+you're traveling. You're on a flight,
+
+00:00:42.040 --> 00:00:45.240
+you're at a conference, you're literally
+
+00:00:43.480 --> 00:00:46.560
+anywhere that isn't sitting in front of
+
+00:00:45.240 --> 00:00:48.160
+your computer. Or you might be in a
+
+00:00:46.560 --> 00:00:49.960
+place where there's barely any
+
+00:00:48.160 --> 00:00:51.360
+connection or Wi-Fi. With all this being
+
+00:00:49.960 --> 00:00:53.200
+said, Claude code is sitting on your
+
+00:00:51.360 --> 00:00:55.240
+machine doing nothing. All your AI
+
+00:00:53.200 --> 00:00:56.840
+agents are ready to be used aren't being
+
+00:00:55.240 --> 00:00:58.760
+used at all. And God forbid an
+
+00:00:56.840 --> 00:01:00.440
+enterprise AI system goes down, and you
+
+00:00:58.760 --> 00:01:01.840
+can't update it with Claude code. This
+
+00:01:00.440 --> 00:01:03.960
+was a problem I've been having for years
+
+00:01:01.840 --> 00:01:05.720
+now, by the way. I've got five active AI
+
+00:01:03.960 --> 00:01:07.600
+apps, an agency with multiple clients,
+
+00:01:05.720 --> 00:01:09.360
+and a coaching program with over 190
+
+00:01:07.600 --> 00:01:11.640
+entrepreneurs. Things don't just stop
+
+00:01:09.360 --> 00:01:13.360
+because I left my 3.5k month studio in
+
+00:01:11.640 --> 00:01:15.600
+New York City. But now everything has
+
+00:01:13.360 --> 00:01:17.040
+changed. Anthropic just dropped channels
+
+00:01:15.600 --> 00:01:18.200
+for Claude code. And if you haven't
+
+00:01:17.040 --> 00:01:20.080
+heard about this yet, let me break it
+
+00:01:18.200 --> 00:01:21.880
+down real quick. A channel is basically
+
+00:01:20.080 --> 00:01:23.240
+like giving Claude code a phone number.
+
+00:01:21.880 --> 00:01:25.000
+It lets you talk to your Claude code
+
+00:01:23.240 --> 00:01:26.840
+session through a third-party app. Right
+
+00:01:25.000 --> 00:01:29.040
+now, it's been mainly just Telegram and
+
+00:01:26.840 --> 00:01:31.080
+Discord, but they just added iMessage,
+
+00:01:29.040 --> 00:01:33.080
+which for anyone on a Mac, this is a
+
+00:01:31.080 --> 00:01:35.680
+game-changer. Think about it. You text
+
+00:01:33.080 --> 00:01:37.840
+your own number from iMessage, and that
+
+00:01:35.680 --> 00:01:40.120
+message gets funneled directly into your
+
+00:01:37.840 --> 00:01:41.520
+running Claude code session. So, if you
+
+00:01:40.120 --> 00:01:42.920
+leave your computer on, no matter where
+
+00:01:41.520 --> 00:01:44.520
+you are, your Claude code can
+
+00:01:42.920 --> 00:01:46.680
+continuously be working. This way you're
+
+00:01:44.520 --> 00:01:48.200
+not wasting your $100 a month, $200 a
+
+00:01:46.680 --> 00:01:49.760
+month subscription. Claude will even
+
+00:01:48.200 --> 00:01:51.240
+text you back the results so you're up
+
+00:01:49.760 --> 00:01:52.840
+to date with exactly what's going on
+
+00:01:51.240 --> 00:01:54.360
+inside your Claude session. It's like
+
+00:01:52.840 --> 00:01:55.960
+having a full-blown AI developer in your
+
+00:01:54.360 --> 00:01:58.240
+pocket that has access to your entire
+
+00:01:55.960 --> 00:02:00.840
+machine without you having to be there
+
+00:01:58.240 --> 00:02:02.360
+to handhold it. That's crazy. Now, let
+
+00:02:00.840 --> 00:02:03.880
+me walk you through how to actually set
+
+00:02:02.360 --> 00:02:05.400
+this up because it's way simpler than
+
+00:02:03.880 --> 00:02:07.320
+you think. The first step, you need to
+
+00:02:05.400 --> 00:02:08.360
+grant full disk access on your Mac. So,
+
+00:02:07.320 --> 00:02:10.039
+you're going to open up your system
+
+00:02:08.360 --> 00:02:11.680
+settings, go to privacy and security,
+
+00:02:10.039 --> 00:02:13.200
+then full [music] disk access. And
+
+00:02:11.680 --> 00:02:15.120
+you're going to add whatever app you run
+
+00:02:13.200 --> 00:02:16.440
+Claude code in. For me, that's VS code.
+
+00:02:15.120 --> 00:02:17.600
+If you use the actual terminal app, then
+
+00:02:16.440 --> 00:02:19.480
+you can add that instead. This is
+
+00:02:17.600 --> 00:02:21.520
+required because iMessage stores its
+
+00:02:19.480 --> 00:02:22.920
+database locally on your Mac, and Claude
+
+00:02:21.520 --> 00:02:24.640
+code needs permission to read those
+
+00:02:22.920 --> 00:02:26.240
+messages. Without this step, nothing
+
+00:02:24.640 --> 00:02:27.680
+works. Then, you want to install the
+
+00:02:26.240 --> 00:02:29.480
+iMessage plugin, and this is literally
+
+00:02:27.680 --> 00:02:31.200
+one command. You copy from the docs,
+
+00:02:29.480 --> 00:02:32.640
+paste it into Claude code, and ask you
+
+00:02:31.200 --> 00:02:33.960
+to confirm the install. And [music]
+
+00:02:32.640 --> 00:02:35.720
+that's it. It takes it literally about
+
+00:02:33.960 --> 00:02:37.800
+like 10 seconds. And by the way, if you
+
+00:02:35.720 --> 00:02:39.800
+also want Telegram or Discord, those are
+
+00:02:37.800 --> 00:02:42.080
+separate plugins, but the process is the
+
+00:02:39.800 --> 00:02:44.160
+exact same. One command each. The next
+
+00:02:42.080 --> 00:02:45.640
+step is to launch Claude code in channel
+
+00:02:44.160 --> 00:02:47.026
+mode. So, instead of just running Claude
+
+00:02:45.640 --> 00:02:48.720
+code normally like you've done probably
+
+00:02:47.026 --> 00:02:50.160
+[music] for every single day since 3:00
+
+00:02:48.720 --> 00:02:51.600
+a.m., you paste it in a slightly
+
+00:02:50.160 --> 00:02:53.480
+different launch command that tells it
+
+00:02:51.600 --> 00:02:55.120
+to listen for iMessage. The second you
+
+00:02:53.480 --> 00:02:56.760
+run it, you see a message that says
+
+00:02:55.120 --> 00:02:58.560
+listening for channel messages from
+
+00:02:56.760 --> 00:03:00.127
+iMessage. And now you're live, because
+
+00:02:58.560 --> 00:03:01.680
+that means it's listening for iMessage.
+
+00:03:00.127 --> 00:03:03.440
+[music] So, to test it, you pull out
+
+00:03:01.680 --> 00:03:05.240
+your phone, you open up iMessage, and
+
+00:03:03.440 --> 00:03:06.600
+you text yourself something like, "Hey,
+
+00:03:05.240 --> 00:03:08.400
+can you hear me?" And within a few
+
+00:03:06.600 --> 00:03:10.360
+seconds, it pops up right there in your
+
+00:03:08.400 --> 00:03:12.160
+Claude code terminal. Claude responds,
+
+00:03:10.360 --> 00:03:13.480
+and you get to reply back on your phone.
+
+00:03:12.160 --> 00:03:15.000
+So, if you were timing this setup from
+
+00:03:13.480 --> 00:03:16.920
+when you first started to now, this
+
+00:03:15.000 --> 00:03:18.840
+whole setup probably took you about 5
+
+00:03:16.920 --> 00:03:20.680
+minutes max. And that includes me
+
+00:03:18.840 --> 00:03:22.000
+Googling what bun was because you do
+
+00:03:20.680 --> 00:03:23.560
+need to install that first, which is a
+
+00:03:22.000 --> 00:03:26.240
+JavaScript [music] bun. If you got any
+
+00:03:23.560 --> 00:03:27.920
+issues revolving around bun, bun is a
+
+00:03:26.240 --> 00:03:29.920
+JavaScript runtime that you need to
+
+00:03:27.920 --> 00:03:31.640
+install first, but don't overthink it,
+
+00:03:29.920 --> 00:03:33.400
+just install it. Now with your iMessage
+
+00:03:31.640 --> 00:03:35.320
+and Claude code connected, let's
+
+00:03:33.400 --> 00:03:36.760
+actually put it to use because there's
+
+00:03:35.320 --> 00:03:37.960
+no point of having this if you're not
+
+00:03:36.760 --> 00:03:39.800
+actually going to be using this for your
+
+00:03:37.960 --> 00:03:41.320
+personal one-person AI business, right?
+
+00:03:39.800 --> 00:03:42.880
+So, imagine you're at the gym, and you
+
+00:03:41.320 --> 00:03:44.400
+want to check how your app's doing. Text
+
+00:03:42.880 --> 00:03:46.480
+Claude code, "Give me a summary of
+
+00:03:44.400 --> 00:03:48.120
+today's analytics for my app Deeper."
+
+00:03:46.480 --> 00:03:49.320
+Boom, you get a full breakdown on your
+
+00:03:48.120 --> 00:03:50.960
+phone. Or you're going to be grabbing
+
+00:03:49.320 --> 00:03:52.527
+coffee, and a coaching student has a
+
+00:03:50.960 --> 00:03:54.200
+question about their app architecture.
+
+00:03:52.527 --> 00:03:55.840
+[music] You text Claude code, "Review
+
+00:03:54.200 --> 00:03:58.080
+this student's repo and give me the top
+
+00:03:55.840 --> 00:04:00.080
+three issues." It pulls it up, analyzes
+
+00:03:58.080 --> 00:04:01.880
+it, and texts you back. Or you're on a
+
+00:04:00.080 --> 00:04:04.000
+flight, and you want to prep for
+
+00:04:01.880 --> 00:04:06.360
+tomorrow's client call. You can text
+
+00:04:04.000 --> 00:04:08.880
+Claude code to summarize the last 10
+
+00:04:06.360 --> 00:04:10.480
+commits on the client project and flag
+
+00:04:08.880 --> 00:04:11.600
+anything I should know about or bring up
+
+00:04:10.480 --> 00:04:13.320
+on the call. [music] And you'll get a
+
+00:04:11.600 --> 00:04:15.120
+full briefing message back into your
+
+00:04:13.320 --> 00:04:16.840
+iMessage. This is something you should
+
+00:04:15.120 --> 00:04:18.560
+do when [music] you're having repeated
+
+00:04:16.840 --> 00:04:20.120
+client calls to the same person, so that
+
+00:04:18.560 --> 00:04:22.360
+way you can get a proper update on what
+
+00:04:20.120 --> 00:04:23.960
+you added into the AI system that you're
+
+00:04:22.360 --> 00:04:25.440
+being paid to build for them. But the
+
+00:04:23.960 --> 00:04:26.920
+real benefit of all this is you're no
+
+00:04:25.440 --> 00:04:28.560
+longer chained to your desk. Your Claude
+
+00:04:26.920 --> 00:04:30.960
+code session has all your skills, your
+
+00:04:28.560 --> 00:04:32.600
+custom agents, your analyzers, your code
+
+00:04:30.960 --> 00:04:34.800
+reviews, your tools, everything. So, you
+
+00:04:32.600 --> 00:04:35.800
+can access all this from your phone. And
+
+00:04:34.800 --> 00:04:37.360
+for most of you, you probably have an
+
+00:04:35.800 --> 00:04:38.800
+iPhone. But as good as this sounds,
+
+00:04:37.360 --> 00:04:40.760
+there are some limitations you have to
+
+00:04:38.800 --> 00:04:42.360
+be aware of. The biggest one, and I'm
+
+00:04:40.760 --> 00:04:44.040
+sure this is intuitive, is that if your
+
+00:04:42.360 --> 00:04:45.880
+Claude code session closes, like your
+
+00:04:44.040 --> 00:04:47.920
+laptop dies, the channel dies. So, if
+
+00:04:45.880 --> 00:04:49.600
+your laptop restarts, there's an update,
+
+00:04:47.920 --> 00:04:51.440
+if you accidentally hit control C, it's
+
+00:04:49.600 --> 00:04:52.320
+over. It's all gone. You have to go back
+
+00:04:51.440 --> 00:04:53.800
+to your computer and start a new
+
+00:04:52.320 --> 00:04:55.400
+session, which can be annoying, you
+
+00:04:53.800 --> 00:04:56.320
+know, if you're gone for a few days and
+
+00:04:55.400 --> 00:04:57.760
+you don't have your laptop on you
+
+00:04:56.320 --> 00:04:58.960
+because once it's closed, no one's going
+
+00:04:57.760 --> 00:05:00.880
+to pick it back up. But here's a
+
+00:04:58.960 --> 00:05:03.520
+workaround. You can run Claude code on a
+
+00:05:00.880 --> 00:05:05.240
+Mac mini or a Mac OS VPS and keep it
+
+00:05:03.520 --> 00:05:07.080
+alive with something like tmux, and now
+
+00:05:05.240 --> 00:05:08.960
+it's running 24/7, and you can text it
+
+00:05:07.080 --> 00:05:10.160
+whenever you want from wherever you are.
+
+00:05:08.960 --> 00:05:11.480
+I'm actually in the process of setting
+
+00:05:10.160 --> 00:05:13.240
+this up right now with the Mac mini that
+
+00:05:11.480 --> 00:05:14.480
+just sits in my studio. So, please pray
+
+00:05:13.240 --> 00:05:16.360
+for me because the last time I tried to
+
+00:05:14.480 --> 00:05:17.880
+set up a server, I spent a good amount
+
+00:05:16.360 --> 00:05:19.360
+of time debugging network settings.
+
+00:05:17.880 --> 00:05:21.400
+Luckily, one of my mentees helped me set
+
+00:05:19.360 --> 00:05:23.240
+up a very good VPS, so I'm just going to
+
+00:05:21.400 --> 00:05:24.600
+have him help me again. Also, you have
+
+00:05:23.240 --> 00:05:26.160
+to be using Mac OS if you want to
+
+00:05:24.600 --> 00:05:27.160
+connect Claude code and iMessage. I
+
+00:05:26.160 --> 00:05:29.040
+mean, you can't be using Windows or
+
+00:05:27.160 --> 00:05:30.600
+Linux, right? It's iMessage is an Apple
+
+00:05:29.040 --> 00:05:32.160
+thing, so if you want to use this, you
+
+00:05:30.600 --> 00:05:34.600
+have to have a Mac. Another big
+
+00:05:32.160 --> 00:05:35.720
+misconception is this whole dispatch
+
+00:05:34.600 --> 00:05:37.400
+versus [music] channels versus remote
+
+00:05:35.720 --> 00:05:38.520
+control. I want to clear something up
+
+00:05:37.400 --> 00:05:39.880
+because, you know, there's three
+
+00:05:38.520 --> 00:05:41.560
+different ways that you can control
+
+00:05:39.880 --> 00:05:43.320
+Claude code remotely, and you might get
+
+00:05:41.560 --> 00:05:45.120
+confused about which one to use. There's
+
+00:05:43.320 --> 00:05:46.480
+dispatch, which is where you send a task
+
+00:05:45.120 --> 00:05:48.320
+from Anthropic's mobile app, which
+
+00:05:46.480 --> 00:05:49.920
+Claude runs on your machine. Uh, it's
+
+00:05:48.320 --> 00:05:50.800
+best for delegating just a chunk of work
+
+00:05:49.920 --> 00:05:52.680
+while you're away. Then there's
+
+00:05:50.800 --> 00:05:54.160
+channels, which is what we just set up.
+
+00:05:52.680 --> 00:05:56.040
+We set up the iMessage channel. There's
+
+00:05:54.160 --> 00:05:57.480
+also Telegram and Discord. Then you have
+
+00:05:56.040 --> 00:05:59.000
+remote control, which is best where you
+
+00:05:57.480 --> 00:06:00.040
+need to actually steer what Claude is
+
+00:05:59.000 --> 00:06:01.520
+doing. It's like you're pair
+
+00:06:00.040 --> 00:06:02.640
+programming, but from your phone. They
+
+00:06:01.520 --> 00:06:04.320
+all sound similar, but the key
+
+00:06:02.640 --> 00:06:06.440
+difference is the trigger. Dispatch is a
+
+00:06:04.320 --> 00:06:08.280
+one-off task, channels are ongoing event
+
+00:06:06.440 --> 00:06:09.720
+listeners, and remote control is direct
+
+00:06:08.280 --> 00:06:11.640
+steering. And honestly, for running a
+
+00:06:09.720 --> 00:06:13.400
+one-person AI business, channels is the
+
+00:06:11.640 --> 00:06:15.560
+one I use the most because it fits how I
+
+00:06:13.400 --> 00:06:17.440
+already work. I'm texting all day anyway
+
+00:06:15.560 --> 00:06:19.000
+via my iPhone, so now some of those
+
+00:06:17.440 --> 00:06:21.200
+texts just happen to go to my AI
+
+00:06:19.000 --> 00:06:22.640
+developer instead of my homeboy. If
+
+00:06:21.200 --> 00:06:23.680
+you're running an agency, building apps,
+
+00:06:22.640 --> 00:06:25.200
+doing anything [music] where you need
+
+00:06:23.680 --> 00:06:27.720
+access to your dev environment on the
+
+00:06:25.200 --> 00:06:29.400
+go, this is a must-have. If you want to
+
+00:06:27.720 --> 00:06:31.000
+see how I built the AI apps that I'm
+
+00:06:29.400 --> 00:06:34.240
+managing with this setup, [music] watch
+
+00:06:31.000 --> 00:06:34.240
+this video next.
+

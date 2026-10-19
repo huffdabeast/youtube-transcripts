@@ -1,0 +1,797 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.800
+Imagine landing on a website and instead of 
+filling out a form or waiting for a call back,  
+
+00:00:04.800 --> 00:00:10.800
+the website actually talks to you. It answers 
+questions. It responds instantly. It helps you  
+
+00:00:10.800 --> 00:00:16.880
+book appointments right there on the spot. That's 
+what I call a talking website. And right now,  
+
+00:00:16.880 --> 00:00:22.000
+a lot of these local businesses have never heard 
+of it and they don't have this set up on their  
+
+00:00:22.000 --> 00:00:26.560
+website. Which the good news for you is that 
+means that there's a huge opportunity to reach  
+
+00:00:26.560 --> 00:00:31.840
+out to these business owners to help them get 
+this set up so they're able to capture more of  
+
+00:00:31.840 --> 00:00:37.840
+the website visitors and turn them into real leads 
+and booked appointments for their business. Now,  
+
+00:00:37.840 --> 00:00:42.000
+obviously, I want to be clear and this is not 
+about hype or unrealistic expectations and all  
+
+00:00:42.000 --> 00:00:48.720
+results will vary, but I want to show you a 
+very simple a very real business model. I want  
+
+00:00:48.720 --> 00:00:54.720
+to show you how to set up these simple talking 
+websites without writing any line of code and  
+
+00:00:54.720 --> 00:00:59.760
+how to offer it to these small local businesses. 
+So, in this video, I'm going to walk you through  
+
+00:00:59.760 --> 00:01:05.360
+exactly how it works, how to set all this up, 
+and then how you can package it and sell it to  
+
+00:01:05.360 --> 00:01:10.960
+these small local business owners and get paid 
+on a monthly ongoing basis. But like I said,  
+
+00:01:10.960 --> 00:01:16.160
+everyone's results will vary. I'm not guaranteeing 
+any type of income here. But if you like what I'm  
+
+00:01:16.160 --> 00:01:20.480
+sharing in this video and you want a deeper 
+dive on exactly how this whole strategy works,  
+
+00:01:20.480 --> 00:01:24.880
+just smash the like button, drop a comment down 
+below, consider sharing this video with a friend  
+
+00:01:24.880 --> 00:01:29.680
+who might also want to do this business model or 
+maybe want to join up and work on it together and  
+
+00:01:29.680 --> 00:01:35.920
+I'll hook you up with a private link to unlock 
+my full step-by-step course, all of my templates,  
+
+00:01:35.920 --> 00:01:42.640
+scripts, everything 100% for free. I give away my 
+courses for free. I give away my templates and my  
+
+00:01:42.640 --> 00:01:48.560
+scripts because that is not how I make my money. 
+I'm not like all those other online gurus who just  
+
+00:01:48.560 --> 00:01:53.280
+make all their money by selling courses. So, now 
+that you smash the like button, dropped a comment  
+
+00:01:53.280 --> 00:01:58.320
+down below so you can unlock all of my freebies 
+100% for free, let me jump on my computer so I can  
+
+00:01:58.320 --> 00:02:04.000
+show you step by step exactly how this business 
+works and how you can set it up for yourself as  
+
+00:02:04.000 --> 00:02:09.280
+well. So, this is an AI automation software that 
+I use to run my entire business. And you can see  
+
+00:02:09.280 --> 00:02:14.160
+over here on the side, we've got the AI agents. So 
+that's the first thing that we're going to do is  
+
+00:02:14.160 --> 00:02:19.200
+click on right here. And the cool thing about this 
+is we're going to create an AI voice agent from  
+
+00:02:19.200 --> 00:02:24.800
+scratch step by step in this video. You'll have a 
+working AI voice agent by the end of this video,  
+
+00:02:24.800 --> 00:02:31.120
+but you can also create conversational AI chat 
+bots. So be able to go back and forth on a web  
+
+00:02:31.120 --> 00:02:35.760
+chat widget on somebody's website. And you can 
+even create AI conversational bots for your  
+
+00:02:35.760 --> 00:02:40.800
+Instagram DMs and your Facebook messages, which 
+is super cool. But we'll cover that in another  
+
+00:02:40.800 --> 00:02:44.960
+video. But if you like this software and you want 
+to go play around and try it out, I actually have  
+
+00:02:44.960 --> 00:02:50.800
+an extended 30-day free trial down below in the 
+description, um, which normally it's a 14-day  
+
+00:02:50.800 --> 00:02:54.640
+free trial, so you get a couple extra weeks to go 
+through and play with this. So, what we're going  
+
+00:02:54.640 --> 00:02:59.280
+to do here is we're going to go through and create 
+our first Voice AI agent. And I'm going to just  
+
+00:02:59.280 --> 00:03:04.080
+zoom in here a little bit so that you guys can 
+see this. And there are pre-built ones that you  
+
+00:03:04.080 --> 00:03:07.760
+can go through and build, but we're going to do in 
+this video, I want to show you just how easy this  
+
+00:03:07.760 --> 00:03:12.960
+is to go through and set up. I'm just going to go 
+and I'm going to create a custom agent right here,  
+
+00:03:12.960 --> 00:03:16.880
+completely from scratch. Okay. Now, I might just 
+move my head right here just so you guys can see  
+
+00:03:16.880 --> 00:03:20.960
+this a little bit better. Uh, but we're just going 
+to give the agent a name. So, we're just going to  
+
+00:03:20.960 --> 00:03:26.640
+say demo agent. And then the business name, we're 
+just going to say Acme Inc.. All right. Obviously,  
+
+00:03:26.640 --> 00:03:31.360
+you're going to change that to whatever your agent 
+name is because you could have one be like the the  
+
+00:03:31.360 --> 00:03:36.640
+Well, actually, we just might put this right 
+here, demo AI voice agent, because you could  
+
+00:03:36.640 --> 00:03:41.600
+have a voice agent, you could have a chat agent. 
+I honestly like to have different agents for  
+
+00:03:41.600 --> 00:03:46.240
+different things in my business. So, if it's going 
+to be like an Instagram DM agent, or if it's going  
+
+00:03:46.240 --> 00:03:51.440
+to be, hey, this is the live website chat agent, 
+support agent, Facebook messaging agent. So,  
+
+00:03:51.440 --> 00:03:55.360
+I like to go through and have different ones 
+because they're all trained for different reasons.  
+
+00:03:55.360 --> 00:04:00.880
+Some people, some of these agents, they're working 
+with current customers and some of them are trying  
+
+00:04:00.880 --> 00:04:05.680
+to go through and get more customers in the door. 
+All right. So, now we got here, we can choose the  
+
+00:04:05.680 --> 00:04:09.520
+language. And then you could choose, there's a 
+bunch of different voices we can go through and  
+
+00:04:09.520 --> 00:04:14.880
+select. Okay. And for this video, I'm just going 
+to leave it as Jessica. You can listen to the demo  
+
+00:04:14.880 --> 00:04:19.680
+right here. You can set the time zone so it's all 
+set up with um where where you're located. Uh you  
+
+00:04:19.680 --> 00:04:24.000
+can also choose the LLM model. So, this one is the 
+one that's recommended, but you can see you can  
+
+00:04:24.000 --> 00:04:28.640
+even go through chatgpt version 5. And they're 
+always updating this. So, if you're like, "Oh,  
+
+00:04:28.640 --> 00:04:32.720
+it doesn't have the latest version." It does, and 
+they're always going through and making updates  
+
+00:04:32.720 --> 00:04:37.920
+with this. Okay. And then right here, you just 
+have what the agent's initial message is. So, if  
+
+00:04:37.920 --> 00:04:42.640
+somebody calls in, and this is the AI voice agent, 
+you can say like, "Hey, you've reached, you know,  
+
+00:04:42.640 --> 00:04:50.800
+whatever your business is." So, this one we were 
+saying it was Acme Inc., right? how can I help  
+
+00:04:50.800 --> 00:04:55.920
+you? And you can obviously go through customize 
+that. And this is something also very cool is you  
+
+00:04:55.920 --> 00:05:00.480
+can come in here and you can have these pre-built 
+things. So like contact if you want to have the  
+
+00:05:00.480 --> 00:05:05.680
+contacts first name. So you could say, "Hey, 
+contact first name." And this is obviously only  
+
+00:05:05.680 --> 00:05:10.240
+works if they've already gone through a form, 
+right? But this is kind of something that you  
+
+00:05:10.240 --> 00:05:14.320
+could do. So hey, you know, Jason, my name's 
+Jason. Hey Jason, you've received um you've  
+
+00:05:14.320 --> 00:05:20.080
+reached Acme Inc. How can I help you today? 
+Right? Now guys, as you I hope you're seeing how  
+
+00:05:20.080 --> 00:05:24.480
+simple this is because this is just a very simple 
+step-by-step wizard. So we're just going to click  
+
+00:05:24.480 --> 00:05:30.080
+on next right here. And then we're going to say, 
+hey, what are the agents goals? What do we want  
+
+00:05:30.080 --> 00:05:36.320
+it to actually accomplish? Okay, so we could say, 
+hey, we want them to grab their name, their email,  
+
+00:05:36.320 --> 00:05:40.960
+and their address. You might be thinking, well, 
+why don't have their the phone number here? Well,  
+
+00:05:40.960 --> 00:05:46.320
+these AI voice agents, they're already pulling in 
+the phone number that they're calling in from. So,  
+
+00:05:46.320 --> 00:05:51.280
+they're automatically able to go through and 
+update that, which makes things super easy. Now,  
+
+00:05:51.280 --> 00:05:56.960
+you can switch to advanced mode and you can say, 
+"Hey, I'm going to give this a specific prompt."  
+
+00:05:56.960 --> 00:06:00.400
+And what I typically do, because you might 
+be thinking, "Well, Jason, that's like really  
+
+00:06:00.400 --> 00:06:04.000
+technical. I don't know how to do that. I don't 
+know how to train it with prompts." You can just  
+
+00:06:04.000 --> 00:06:10.720
+go to chat GPT and just say, "Hey, I am making an 
+AI voice agent for my dental practice or whatever  
+
+00:06:10.720 --> 00:06:16.400
+type of business it is." or if you're running 
+a software agency and you're trying to resell  
+
+00:06:16.400 --> 00:06:21.280
+this service, which that is the ideal thing for 
+this software is basically be able to go through  
+
+00:06:21.280 --> 00:06:27.040
+and sell these AI voice agents, conversational 
+agents, all these different AI agents to these  
+
+00:06:27.040 --> 00:06:32.560
+small businesses. And so you just go into chat GPT 
+and say, "Hey, I'm working with a chiropractor,  
+
+00:06:32.560 --> 00:06:38.160
+a plumber, a dentist, whatever it is, and we need 
+to be able to feel these calls of people calling  
+
+00:06:38.160 --> 00:06:46.480
+in to schedule an appointment." And so then just 
+say I write a prompt to train my AI voice agent on  
+
+00:06:46.480 --> 00:06:50.800
+how it should behave and how it should handle. The 
+end goal is to go through and book appointments.  
+
+00:06:50.800 --> 00:06:54.720
+And then chat GPT is just going to go through 
+and write everything out for you. And then you  
+
+00:06:54.720 --> 00:07:00.160
+literally just copy it and paste it right in here. 
+Okay. And so this is obviously the advanced mode.  
+
+00:07:00.160 --> 00:07:04.240
+Um we're just going to switch back to the basic 
+mode for this video. And I'm just going to remove  
+
+00:07:04.240 --> 00:07:09.280
+my face real quick for a second. And so you have 
+all these different options where um obviously you  
+
+00:07:09.280 --> 00:07:14.240
+can go through and get some more custom AI voice 
+setups and all that stuff where you transition it  
+
+00:07:14.240 --> 00:07:18.560
+to a live human, but we're not going to get all 
+that advanced stuff here in this video. You can  
+
+00:07:18.560 --> 00:07:23.360
+find all that stuff in my free course and all 
+the details um if you just smash like button,  
+
+00:07:23.360 --> 00:07:27.360
+drop a comment down below. All right, so now 
+we're just going to go through and hit next.  
+
+00:07:27.360 --> 00:07:32.960
+And then from here we can just go and test 
+this out. So let's test this out really quick  
+
+00:07:32.960 --> 00:07:40.160
+to see how this works. All right, I've got the 
+call coming in right here. I'm put on speaker.
+
+00:07:40.160 --> 00:07:45.200
+Hey, Jason, you have reached ACME, Inc. 
+How can I help you today, Jason? Yeah,  
+
+00:07:45.200 --> 00:07:51.520
+I'm looking to get some help with my toilet 
+that's leaking. Got it, Jason. I'll make sure  
+
+00:07:51.520 --> 00:07:56.240
+a team member reaches out to assist you with the 
+leaking toilet. Let me first grab some details  
+
+00:07:56.240 --> 00:08:02.960
+to ensure we can follow up properly. Can I start 
+with your full name, please? Yes, Jason Wardrop.  
+
+00:08:04.240 --> 00:08:14.240
+Thanks, Jason. That's Jason Wardrop. J A S O N 
+W A R D R O P, right? Yes, it is. Perfect. Now,  
+
+00:08:14.240 --> 00:08:23.120
+could you share your email address so we can 
+contact you? Yeah, it's JW A1088Gmail.com.
+
+00:08:23.120 --> 00:08:28.880
+Got it. So, that's JW1088.com.
+
+00:08:28.880 --> 00:08:35.840
+Correct. Correct. Great. Thanks. Lastly, could 
+you provide your address so we know where to  
+
+00:08:35.840 --> 00:08:44.320
+assist with the issue? Yeah, it's 123 Main Street 
+in Dallas, Texas. Thanks, Jason. Just to confirm,  
+
+00:08:44.320 --> 00:08:51.200
+that's 123 Main Street, Dallas, Texas. Right. 
+Correct. Perfect. A team member will reach out  
+
+00:08:51.200 --> 00:08:56.240
+to you shortly to assist with your leaking toilet. 
+Thanks for reaching out, Jason, and have a great  
+
+00:08:56.240 --> 00:09:02.880
+day. Awesome. Thank you. Okay, how cool was 
+that? Now guys, that was a simple setup and  
+
+00:09:02.880 --> 00:09:06.880
+obviously we could go through and get a little bit 
+more customized. But now let's jump back on the  
+
+00:09:06.880 --> 00:09:12.080
+computer because we are not done yet. I want to 
+show you guys how you guys can actually set this  
+
+00:09:12.080 --> 00:09:18.960
+up on a website for a client where this AI voice 
+agent if somebody's visiting their website. So  
+
+00:09:18.960 --> 00:09:22.880
+this was this example I used was a plumber. I was 
+looking to go through and get my toilet fixed, but  
+
+00:09:22.880 --> 00:09:28.400
+it could be like I'm looking for a teeth cleaning 
+or I'm looking for a personal trainer. whatever it  
+
+00:09:28.400 --> 00:09:33.920
+might be. We can actually put this AI voice agent 
+on their website. So, you guys have probably seen  
+
+00:09:33.920 --> 00:09:38.880
+the little website chat widgets on websites 
+where you can go through type in a message and  
+
+00:09:38.880 --> 00:09:44.640
+it responds and all that stuff. Well, what if you 
+could actually call into the website right from or  
+
+00:09:44.640 --> 00:09:50.400
+call into the business right from the website and 
+it's the AI voice agent that we just created that  
+
+00:09:50.400 --> 00:09:54.080
+you're able to have a conversation with and learn 
+more about the business, book an appointment or  
+
+00:09:54.080 --> 00:09:59.280
+anything like that. Guys, check this out. So, what 
+we're going to do now, we've gone through, let me  
+
+00:09:59.280 --> 00:10:05.520
+just make sure that I have finished up. I'm just 
+going to save right there. We're all good to go.  
+
+00:10:05.520 --> 00:10:12.320
+We have created our demo AI voice agent. Right. 
+So, now what we're going to do is we're going  
+
+00:10:12.320 --> 00:10:19.440
+to come over here to sites and we are going to go 
+up here to chat widget and we are going to create  
+
+00:10:19.440 --> 00:10:25.120
+a new chat widget. And I hope as you're going 
+through this and seeing how I'm setting this up,  
+
+00:10:25.120 --> 00:10:31.520
+you're thinking, "Man, that actually is so easy. 
+I totally could do this and I could totally sell  
+
+00:10:31.520 --> 00:10:38.720
+this to small local business owners for a 100red, 
+$200, $300 per month. I know a lot of people that  
+
+00:10:38.720 --> 00:10:45.680
+are selling this exact service just like this for 
+$299 per month." So, if you think about that, you  
+
+00:10:45.680 --> 00:10:51.760
+get 10 clients, that's $3,000 per month. And the 
+thing about this software is not only does it make  
+
+00:10:51.760 --> 00:10:57.920
+it so easy to set up, but you see right here, this 
+is my own logo. You can go and white label this  
+
+00:10:57.920 --> 00:11:04.240
+software. So, connect your own logo, connect your 
+own domain, and then also connect your own payment  
+
+00:11:04.240 --> 00:11:09.760
+processor so that you could keep and collect 
+100% of the payments that are coming into the  
+
+00:11:09.760 --> 00:11:16.160
+business. So, if you're charging $299 per month, 
+you get to keep $299 per month. You're not doing  
+
+00:11:16.160 --> 00:11:20.880
+any commission splits with this software. And 
+the software, it's already pre-built, pre-coded  
+
+00:11:20.880 --> 00:11:27.120
+for you. It's very simple to white label. Just 
+throw in your own logo, attach your own domain,  
+
+00:11:27.120 --> 00:11:33.200
+connect your own payment processor, and you can 
+literally have your own AI software business set  
+
+00:11:33.200 --> 00:11:39.120
+up and running in less than 24 hours. So, that 
+is the cool thing about that. And like I said,  
+
+00:11:39.120 --> 00:11:43.360
+I've got an extended 30-day free trial to 
+the software down below in the description.  
+
+00:11:43.360 --> 00:11:49.360
+or if you want my full step-by-step course plus a 
+30-day extended trial, just smash the like button,  
+
+00:11:49.360 --> 00:11:53.680
+drop a comment down below, and I'll hook you up 
+with all of those freebies and bonuses. Okay,  
+
+00:11:53.680 --> 00:11:58.880
+so now let's get into this. We're going to create 
+this AI voice chat widget for a website. So, I'm  
+
+00:11:58.880 --> 00:12:04.560
+just going to click on new and I'm going to come 
+down here and click on this voice AI and we can  
+
+00:12:04.560 --> 00:12:10.080
+you can see all the different web chat widgets. We 
+can create one for an all-in-one chat, SMS, email,  
+
+00:12:10.080 --> 00:12:15.360
+Facebook, live chat, Instagram chat, WhatsApp. So, 
+you have all these different solutions which we'll  
+
+00:12:15.360 --> 00:12:20.960
+cover in different videos, but this one we're 
+going for specifically voice AI. All right. So,  
+
+00:12:20.960 --> 00:12:25.840
+now we come over here and we let me just 
+move my head so you guys can see this. So,  
+
+00:12:25.840 --> 00:12:32.000
+you can see this little chat bubble. Now, a lot 
+of times the um website site chat widget of like  
+
+00:12:32.000 --> 00:12:37.200
+typing is down in the bottom righthand corner. 
+So maybe I want to go through and I want to say,  
+
+00:12:37.200 --> 00:12:45.040
+"Hey, let's keep this, but I want to go and change 
+the position of this message." So I or this little  
+
+00:12:45.040 --> 00:12:49.520
+widget. So I'm going to put it up in the top right 
+hand corner. So see, we're going to put up right  
+
+00:12:49.520 --> 00:12:53.360
+here. Then we have the little chat widget. If 
+someone doesn't want to like call in, they have  
+
+00:12:53.360 --> 00:12:58.480
+both options already available for them. So we can 
+go through and customize this. You can change what  
+
+00:12:58.480 --> 00:13:06.240
+your avatar looks like. You can customize what the 
+actual like message right here says. And then you  
+
+00:13:06.240 --> 00:13:11.680
+can see all these different options of what you 
+can go through and tweak and customize for this  
+
+00:13:11.680 --> 00:13:17.280
+AI chat widget voice agent. All right. So now what 
+I'm going to do is I'm just going to click on save  
+
+00:13:17.280 --> 00:13:22.960
+right here. Okay. So chat widget is saved. Let's 
+go like this. And then I'm just going to click on  
+
+00:13:22.960 --> 00:13:27.600
+get code. Okay. Now for those of you guys looking 
+at this and like well Jason I thought you said we  
+
+00:13:27.600 --> 00:13:31.360
+don't know have to know know how to code. You 
+don't have to know how to code. If you can copy  
+
+00:13:31.360 --> 00:13:35.520
+and paste, you can make this happen. And I'll also 
+show you another way where you don't even have to  
+
+00:13:35.520 --> 00:13:39.600
+copy and paste this code. So, what I'm just going 
+to do is I'm going to go and I'm going to copy  
+
+00:13:39.600 --> 00:13:45.120
+this code. And this is what we would put on their 
+website. And you might be thinking, well, Jason,  
+
+00:13:45.120 --> 00:13:49.040
+what if I don't have access to their website or 
+what if the business doesn't have a website? Well,  
+
+00:13:49.040 --> 00:13:55.680
+let me show you how to solve that problem right 
+now. right here. What we'll do is we're going to  
+
+00:13:55.680 --> 00:14:03.840
+come over here to websites. And you can actually 
+just create a brand new website from thousands of  
+
+00:14:03.840 --> 00:14:08.800
+different templates. And I'm also working with the 
+team here. They wanted me to help them with their  
+
+00:14:08.800 --> 00:14:13.600
+AI website builder where you can literally just 
+copy and paste a URL of another website and say,  
+
+00:14:13.600 --> 00:14:17.680
+"Hey, I like the design of this website. I 
+want you to build me one just like that."  
+
+00:14:17.680 --> 00:14:22.480
+Which once again, I'll cover in another video 
+and I cover that inside of my free course. So,  
+
+00:14:22.480 --> 00:14:26.640
+let's just say obviously you can see there's all 
+these different templates you can go through and  
+
+00:14:26.640 --> 00:14:30.720
+choose from. Doesn't really matter which one we 
+choose. So, let's just choose this top one right  
+
+00:14:30.720 --> 00:14:35.360
+here. We're going to say choose template. It's 
+going to go through create the template and we're  
+
+00:14:35.360 --> 00:14:42.400
+going to put this little AI voice chat widget on 
+the website by simply copying and pasting it into  
+
+00:14:42.400 --> 00:14:48.560
+the website. Okay. So, now what we do, you can see 
+this already pre-built, professionally designed,  
+
+00:14:48.560 --> 00:14:53.600
+looks really nice. This looks like it's for 
+like a um little kids care or maybe a preschool  
+
+00:14:53.600 --> 00:14:57.600
+or something like that. Like I said, there's all 
+these different templates for all these different  
+
+00:14:57.600 --> 00:15:03.840
+styles of websites. Now, in order to get this onto 
+the website, all we have to do is come up here  
+
+00:15:03.840 --> 00:15:11.680
+and we want to click on I always forget which one 
+it is up here. The tracking code right here. So,  
+
+00:15:11.680 --> 00:15:15.920
+we're just going to paste this right here 
+in this header tracking code. We're going  
+
+00:15:15.920 --> 00:15:21.200
+to click save and then we're going to hit publish 
+and we're going to be able to see this. Actually,  
+
+00:15:21.200 --> 00:15:24.880
+we're just going to hit preview because I 
+don't want a connected domain right now. Uh  
+
+00:15:24.880 --> 00:15:28.560
+we're going to hit preview. All right. So, 
+this pulled up and you can see right here,  
+
+00:15:28.560 --> 00:15:32.160
+this is the little chat wedges. So, if we hover 
+over this, it kind of like lights up a little  
+
+00:15:32.160 --> 00:15:38.160
+bit and we go click on this. We can call the 
+business right there. And that is it. That was  
+
+00:15:38.160 --> 00:15:42.320
+how easy it is to go through and add this. And 
+if you don't want to go through and add code,  
+
+00:15:42.320 --> 00:15:48.320
+you can also go in this website we just created 
+and you can click on what is the settings right  
+
+00:15:48.320 --> 00:15:53.200
+here and you scroll down and you have the chat 
+widget and you have all these different options  
+
+00:15:53.200 --> 00:15:57.200
+of what you can add. So this is like one I've 
+added before. This is another demo and this  
+
+00:15:57.200 --> 00:16:05.200
+one is the one we just did the chat widget number 
+three. Move my head again. We just click save. And  
+
+00:16:05.200 --> 00:16:09.600
+then that is the another way if you don't want 
+to do the copy and paste, if like code just is  
+
+00:16:09.600 --> 00:16:14.400
+like really confusing and scares you, you can also 
+do that method as well. Anyway guys, I hope this  
+
+00:16:14.400 --> 00:16:19.840
+was helpful for you to see how easy it is now to 
+build these AI voice agents. How you don't need  
+
+00:16:19.840 --> 00:16:26.080
+any prior technical skills, no previous experience 
+with this, and you can go set these up for these  
+
+00:16:26.080 --> 00:16:33.440
+small local businesses where you can charge 200, 
+$300, $400 per month for these businesses. Now,  
+
+00:16:33.440 --> 00:16:36.800
+I kind of like to bundle it with some other 
+services so that I could charge a little bit more,  
+
+00:16:36.800 --> 00:16:41.680
+the three, four, $500 range. And that's what I 
+cover inside of my free course. And like I said,  
+
+00:16:41.680 --> 00:16:46.960
+guys, there's no hidden payw wall. There's no 
+upsells or anything like that. And I also have an  
+
+00:16:46.960 --> 00:16:52.480
+extended 30-day free trial to the software that I 
+just showed you that you can white label for your  
+
+00:16:52.480 --> 00:16:57.360
+own business, connect your own logo, connect 
+your own domain, your own payment processor,  
+
+00:16:57.360 --> 00:17:02.000
+so that all of those payments that you're 
+collecting are just going straight into your bank  
+
+00:17:02.000 --> 00:17:07.840
+account. And for just $297 per month, you can have 
+unlimited clients that you bring on. So literally,  
+
+00:17:07.840 --> 00:17:12.320
+if you think about that, if you were charging 
+$299 per month, you brought on 10 clients,  
+
+00:17:12.320 --> 00:17:17.280
+you're making three grand. Your expenses for the 
+whole software, all the automations is just $297  
+
+00:17:17.280 --> 00:17:23.520
+a month. If you had a 100 clients or even a,000 
+clients, you're still just $297 per month because  
+
+00:17:23.520 --> 00:17:28.880
+that is unlimited accounts. And so that is why I 
+love this software. So, if you like this video, go  
+
+00:17:28.880 --> 00:17:32.960
+ahead, smash the like button, drop a comment down 
+below, consider sharing it with a friend who might  
+
+00:17:32.960 --> 00:17:37.760
+also be interested in this video or who might want 
+to go through and do this business with you. And  
+
+00:17:37.760 --> 00:17:41.760
+with that said, I'll see you in the free course 
+in the members area and I'll see you in the next
+

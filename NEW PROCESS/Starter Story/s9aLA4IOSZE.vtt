@@ -1,0 +1,1586 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:04.080
+The other day I got a DM from this guy
+
+00:00:01.920 --> 00:00:05.920
+named Frank. He said, "Hey, I built this
+
+00:00:04.080 --> 00:00:07.759
+app. It took me a few hours. I'm making
+
+00:00:05.920 --> 00:00:09.920
+real money. Want to chat?" I was
+
+00:00:07.759 --> 00:00:11.519
+intrigued. So, I said, "Sure." It's a
+
+00:00:09.920 --> 00:00:12.880
+very simple game in nature, and I think
+
+00:00:11.519 --> 00:00:13.679
+that's one of the reasons it's been
+
+00:00:12.880 --> 00:00:15.280
+successful.
+
+00:00:13.679 --> 00:00:16.880
+>> When he showed me his website, I thought
+
+00:00:15.280 --> 00:00:19.119
+it was pretty awesome. But then when he
+
+00:00:16.880 --> 00:00:20.800
+told me how much money it was making, I
+
+00:00:19.119 --> 00:00:22.270
+knew we had to bring him on to the
+
+00:00:20.800 --> 00:00:23.760
+channel. I built this game in just
+
+00:00:22.270 --> 00:00:26.880
+[music] a weekend, and we make about
+
+00:00:23.760 --> 00:00:28.880
+$40,000 monthly. So, in this episode,
+
+00:00:26.880 --> 00:00:30.960
+we're going to dive into the dead simple
+
+00:00:28.880 --> 00:00:32.880
+website he built that now makes over
+
+00:00:30.960 --> 00:00:34.640
+$40,000 a month, how he built [music]
+
+00:00:32.880 --> 00:00:36.719
+the entire thing in just a few hours of
+
+00:00:34.640 --> 00:00:39.440
+the quad, and his advice for building
+
+00:00:36.719 --> 00:00:41.040
+apps here [music] in 2026. Trust me,
+
+00:00:39.440 --> 00:00:43.280
+this is one you do not want to miss.
+
+00:00:41.040 --> 00:00:45.680
+Let's dive in. I'm Gus and this is
+
+00:00:43.280 --> 00:00:47.360
+Starter Story.
+
+00:00:45.680 --> 00:00:49.920
+All right, Frank, welcome to Starter
+
+00:00:47.360 --> 00:00:51.920
+Story. Excited to have you here. Tell us
+
+00:00:49.920 --> 00:00:53.600
+who you are, what you built, and what's
+
+00:00:51.920 --> 00:00:55.680
+your story. It's great to be on. My name
+
+00:00:53.600 --> 00:00:57.440
+is Frank Smith. I built the Geosports
+
+00:00:55.680 --> 00:00:59.440
+web game. Right now, it's making about
+
+00:00:57.440 --> 00:01:00.960
+$40,000 per month, but three months ago,
+
+00:00:59.440 --> 00:01:02.960
+I built this game in just a [music]
+
+00:01:00.960 --> 00:01:04.400
+weekend. Since then, we've created
+
+00:01:02.960 --> 00:01:06.560
+several spin-off games. We've been
+
+00:01:04.400 --> 00:01:08.159
+featured on national TV twice. Today,
+
+00:01:06.560 --> 00:01:10.240
+I'm excited to be on Starter Story and
+
+00:01:08.159 --> 00:01:12.400
+share more. Awesome, Frank. Yeah, I'm so
+
+00:01:10.240 --> 00:01:13.920
+excited. Um, when when we first talked,
+
+00:01:12.400 --> 00:01:15.360
+I played I played the game and I kept
+
+00:01:13.920 --> 00:01:17.040
+playing it a couple days after then. So,
+
+00:01:15.360 --> 00:01:19.040
+it's so fun. And when we first talked,
+
+00:01:17.040 --> 00:01:21.360
+you were making only a couple thousand
+
+00:01:19.040 --> 00:01:23.200
+and now you're up to $40,000 a month so
+
+00:01:21.360 --> 00:01:25.360
+fast. So, I'm really excited to dive
+
+00:01:23.200 --> 00:01:27.520
+into all of this. So, let's get into Geo
+
+00:01:25.360 --> 00:01:29.439
+Sports or Geo Games. Just explain what
+
+00:01:27.520 --> 00:01:31.600
+it is in a few sentences and who your
+
+00:01:29.439 --> 00:01:33.520
+like users are. Geo Games is the name of
+
+00:01:31.600 --> 00:01:35.600
+the app. It hosts all the spin-offs, but
+
+00:01:33.520 --> 00:01:37.920
+right now we have several. We have uh
+
+00:01:35.600 --> 00:01:39.439
+Geo Sports, Geo History, Geo Footy.
+
+00:01:37.920 --> 00:01:41.840
+They're all the same game just for
+
+00:01:39.439 --> 00:01:43.920
+different niches. We have about 700,000
+
+00:01:41.840 --> 00:01:46.479
+monthly active users, and we make about
+
+00:01:43.920 --> 00:01:48.079
+$40,000 monthly. A smaller percentage of
+
+00:01:46.479 --> 00:01:50.240
+this is the pro subs, which I just
+
+00:01:48.079 --> 00:01:52.159
+showed you. That's about 1,800 pro subs
+
+00:01:50.240 --> 00:01:53.759
+right now. The much larger number uh
+
+00:01:52.159 --> 00:01:56.720
+comes in through the ads, which is
+
+00:01:53.759 --> 00:01:58.560
+closer to 30 $35,000 in programmatic
+
+00:01:56.720 --> 00:02:00.399
+right now. And what what keeps this game
+
+00:01:58.560 --> 00:02:02.320
+running is how sticky and sharable it
+
+00:02:00.399 --> 00:02:05.280
+is. This is my favorite stat. We have a
+
+00:02:02.320 --> 00:02:07.360
+53% organic share rate, which means if
+
+00:02:05.280 --> 00:02:08.879
+we have, you know, 100,000 people who
+
+00:02:07.360 --> 00:02:11.200
+play around in a given day, which we've
+
+00:02:08.879 --> 00:02:12.480
+done before, 53,000 of those people are
+
+00:02:11.200 --> 00:02:14.560
+going to share their score. All right,
+
+00:02:12.480 --> 00:02:16.000
+so here we have our programmatic ads. As
+
+00:02:14.560 --> 00:02:17.360
+you can see, they're they're very young
+
+00:02:16.000 --> 00:02:20.080
+here. We actually don't even have a full
+
+00:02:17.360 --> 00:02:22.640
+30 days yet. So, we hover around um
+
+00:02:20.080 --> 00:02:24.720
+$1,200 a day. So, here we go. Here is
+
+00:02:22.640 --> 00:02:26.160
+our Stripe. This is last 4 weeks, but
+
+00:02:24.720 --> 00:02:27.599
+we've had Stripe on here for much
+
+00:02:26.160 --> 00:02:29.760
+longer. All right, here's our landing
+
+00:02:27.599 --> 00:02:31.360
+page. As I mentioned, very simple on
+
+00:02:29.760 --> 00:02:32.720
+purpose. Geosports daily sports
+
+00:02:31.360 --> 00:02:34.400
+geography game. Tap where it happened.
+
+00:02:32.720 --> 00:02:36.160
+Five questions. This is part of the
+
+00:02:34.400 --> 00:02:37.856
+magic here is that we never had to teach
+
+00:02:36.160 --> 00:02:39.680
+people how to play this game. So,
+
+00:02:37.856 --> 00:02:41.280
+[music] play today's round. You get a a
+
+00:02:39.680 --> 00:02:43.440
+clue right here at the top. Tailgating
+
+00:02:41.280 --> 00:02:45.840
+super fans themselves through tables in
+
+00:02:43.440 --> 00:02:46.879
+this NFL town. Tap right there and it's
+
+00:02:45.840 --> 00:02:48.480
+going to score you. Oh, I didn't even
+
+00:02:46.879 --> 00:02:50.319
+get a 100. I didn't get close enough.
+
+00:02:48.480 --> 00:02:52.080
+Now you see if I if I click very far
+
+00:02:50.319 --> 00:02:54.560
+away, the score is going to be much
+
+00:02:52.080 --> 00:02:56.560
+different. This one's going to be 72 and
+
+00:02:54.560 --> 00:02:58.080
+it's a yellow dot instead of a green.
+
+00:02:56.560 --> 00:03:00.000
+You'll go for all five and you get your
+
+00:02:58.080 --> 00:03:01.519
+result. Hey, real quick. I hope you're
+
+00:03:00.000 --> 00:03:03.200
+enjoying Frank's story about how he
+
+00:03:01.519 --> 00:03:04.800
+built this awesome website. We're going
+
+00:03:03.200 --> 00:03:05.840
+to get back to it in a second, but I
+
+00:03:04.800 --> 00:03:07.519
+wanted to share something really
+
+00:03:05.840 --> 00:03:09.200
+exciting. If you're a big fan of Starter
+
+00:03:07.519 --> 00:03:10.800
+Story, which I hope you are, then you've
+
+00:03:09.200 --> 00:03:12.560
+watched a ton of our videos and are
+
+00:03:10.800 --> 00:03:14.239
+probably wondering, "How can I start my
+
+00:03:12.560 --> 00:03:15.860
+own side project or my own business?"
+
+00:03:14.239 --> 00:03:17.599
+Well, that's exactly why Starter Story
+
+00:03:15.860 --> 00:03:19.440
+[music] exists. to figure out ideas that
+
+00:03:17.599 --> 00:03:20.800
+are working right now, how to grow them,
+
+00:03:19.440 --> 00:03:22.319
+and ultimately how to build [music] a
+
+00:03:20.800 --> 00:03:23.440
+successful business. If you check out
+
+00:03:22.319 --> 00:03:25.200
+the link in the description, you're
+
+00:03:23.440 --> 00:03:26.879
+going to see a brand new starter story
+
+00:03:25.200 --> 00:03:28.800
+website. You can really think of it like
+
+00:03:26.879 --> 00:03:30.080
+a research platform. [music] Now, inside
+
+00:03:28.800 --> 00:03:32.319
+you're going to find literally thousands
+
+00:03:30.080 --> 00:03:34.187
+of business ideas, all with the actual
+
+00:03:32.319 --> 00:03:34.799
+data behind them. Stuff like revenue,
+
+00:03:34.187 --> 00:03:37.040
+[music]
+
+00:03:34.799 --> 00:03:38.480
+how they grew, cost to start, and
+
+00:03:37.040 --> 00:03:40.319
+everything else that you might need to
+
+00:03:38.480 --> 00:03:41.519
+validate your idea and start building.
+
+00:03:40.319 --> 00:03:44.000
+Every month, we're going to be rolling
+
+00:03:41.519 --> 00:03:46.159
+out a ton of new and free resources. And
+
+00:03:44.000 --> 00:03:48.080
+the latest one is a database of over a
+
+00:03:46.159 --> 00:03:50.000
+100 business ideas that you can start
+
+00:03:48.080 --> 00:03:52.159
+for less than 500 bucks. [music] We want
+
+00:03:50.000 --> 00:03:53.280
+to show you that capital and money
+
+00:03:52.159 --> 00:03:54.640
+doesn't have to be the biggest
+
+00:03:53.280 --> 00:03:56.239
+constraint when it comes to starting
+
+00:03:54.640 --> 00:03:58.480
+your business. So, if you're interested
+
+00:03:56.239 --> 00:04:00.159
+in this or any of the other thousands of
+
+00:03:58.480 --> 00:04:01.840
+business ideas we have inside Starter
+
+00:04:00.159 --> 00:04:03.920
+Story, just head to the link in the
+
+00:04:01.840 --> 00:04:05.519
+description and check it out 100% for
+
+00:04:03.920 --> 00:04:07.360
+free. All right, let's get back to the
+
+00:04:05.519 --> 00:04:09.200
+story. Well, Frank, that is that is
+
+00:04:07.360 --> 00:04:11.040
+awesome. Yeah, it's a it's a cool game.
+
+00:04:09.200 --> 00:04:13.200
+It's fun. and it's easy to use and like
+
+00:04:11.040 --> 00:04:14.799
+you like you said it's really sharable
+
+00:04:13.200 --> 00:04:16.160
+which I imagine is going to be something
+
+00:04:14.799 --> 00:04:17.519
+we talk a little bit about later when it
+
+00:04:16.160 --> 00:04:18.799
+comes to growth. But let's take a few
+
+00:04:17.519 --> 00:04:20.639
+steps back and just talk about your
+
+00:04:18.799 --> 00:04:22.079
+background. What were you doing before
+
+00:04:20.639 --> 00:04:24.000
+this? What were you doing before you
+
+00:04:22.079 --> 00:04:27.120
+launched uh this website or this game
+
+00:04:24.000 --> 00:04:28.320
+that now makes roughly $40,000 a month?
+
+00:04:27.120 --> 00:04:30.240
+Sure. So, I've been working as an
+
+00:04:28.320 --> 00:04:32.080
+independent sports creator since 2020.
+
+00:04:30.240 --> 00:04:33.759
+Right during co is when I got my start.
+
+00:04:32.080 --> 00:04:35.680
+I've grown the audience now to over 4
+
+00:04:33.759 --> 00:04:37.120
+million followers across social media.
+
+00:04:35.680 --> 00:04:38.479
+I'm very well known for that. Most
+
+00:04:37.120 --> 00:04:40.160
+people don't know me as someone who
+
+00:04:38.479 --> 00:04:41.680
+created a game. although it's becoming
+
+00:04:40.160 --> 00:04:43.759
+more popular, they know me as someone
+
+00:04:41.680 --> 00:04:45.759
+who creates very high-quality short form
+
+00:04:43.759 --> 00:04:47.440
+sports videos, mostly commentary. Um,
+
+00:04:45.759 --> 00:04:49.919
+but I have always had a passion for
+
+00:04:47.440 --> 00:04:51.919
+games. You know, very very shortly after
+
+00:04:49.919 --> 00:04:53.440
+I became an independent sports creator,
+
+00:04:51.919 --> 00:04:55.680
+I launched my first game. It was called
+
+00:04:53.440 --> 00:04:57.440
+Five Card Draw. We probably had 110,000
+
+00:04:55.680 --> 00:04:59.280
+people play it. It was not a small game,
+
+00:04:57.440 --> 00:05:00.960
+but it was very, very niche. But I had
+
+00:04:59.280 --> 00:05:02.479
+been doing this for a while. I I
+
+00:05:00.960 --> 00:05:04.080
+launched several games after that. You
+
+00:05:02.479 --> 00:05:05.680
+know, it's funny that that Geos Sports
+
+00:05:04.080 --> 00:05:07.680
+even happened because we were very set
+
+00:05:05.680 --> 00:05:09.199
+on on on launching a different game and
+
+00:05:07.680 --> 00:05:10.880
+and this kind of just [music] exploded
+
+00:05:09.199 --> 00:05:12.720
+out of nowhere after a weekend of work.
+
+00:05:10.880 --> 00:05:14.240
+You know, on this point, I want to just
+
+00:05:12.720 --> 00:05:16.880
+kind of talk a little bit about
+
+00:05:14.240 --> 00:05:19.039
+something I know cuz I know Star
+
+00:05:16.880 --> 00:05:20.880
+audience, they're probably thinking, you
+
+00:05:19.039 --> 00:05:23.360
+know, you're only successful, Frank,
+
+00:05:20.880 --> 00:05:25.280
+because you have this huge audience. You
+
+00:05:23.360 --> 00:05:26.880
+mentioned 4 million followers early on
+
+00:05:25.280 --> 00:05:28.080
+social media. We talked to a lot of
+
+00:05:26.880 --> 00:05:30.000
+founders who have an audience, and
+
+00:05:28.080 --> 00:05:31.600
+that's that's a common thing that we
+
+00:05:30.000 --> 00:05:32.800
+that we see on the channel. But I just
+
+00:05:31.600 --> 00:05:34.479
+want to give you an opportunity to share
+
+00:05:32.800 --> 00:05:36.960
+like for anyone who is watching and
+
+00:05:34.479 --> 00:05:38.800
+thinking, well, I can't do this because
+
+00:05:36.960 --> 00:05:40.720
+I don't have an audience or, you know, I
+
+00:05:38.800 --> 00:05:42.320
+have 200 followers on X or whatever the
+
+00:05:40.720 --> 00:05:44.080
+case may be. Uh, what would you say to
+
+00:05:42.320 --> 00:05:46.160
+someone watching who kind of has that
+
+00:05:44.080 --> 00:05:48.160
+objection in their head or objection
+
+00:05:46.160 --> 00:05:50.160
+about, you know, your story? Number one,
+
+00:05:48.160 --> 00:05:51.840
+I'd say it's always smart to build an
+
+00:05:50.160 --> 00:05:53.600
+audience. Even if that's a small
+
+00:05:51.840 --> 00:05:56.000
+audience and you're building in public,
+
+00:05:53.600 --> 00:05:57.440
+it is a good strategy today. Yes, it
+
+00:05:56.000 --> 00:05:58.960
+helps that I have 4 million followers.
+
+00:05:57.440 --> 00:06:01.120
+I've worked very hard to do that.
+
+00:05:58.960 --> 00:06:02.800
+However, geosports relies very very
+
+00:06:01.120 --> 00:06:04.800
+little on my audience and I I have the
+
+00:06:02.800 --> 00:06:06.880
+stats to back it up here. I've made one
+
+00:06:04.800 --> 00:06:09.360
+video about geosports. What I do every
+
+00:06:06.880 --> 00:06:10.479
+day is I post geosports, [music] you
+
+00:06:09.360 --> 00:06:12.800
+know, one of the question, one of the
+
+00:06:10.479 --> 00:06:14.639
+five questions um on X and I post it on
+
+00:06:12.800 --> 00:06:17.680
+my Instagram story. We drive roughly
+
+00:06:14.639 --> 00:06:19.280
+about 2,000 clicks from those two posts
+
+00:06:17.680 --> 00:06:21.039
+I do every day. So, in other words,
+
+00:06:19.280 --> 00:06:24.160
+that's about 2% of our daily traffic.
+
+00:06:21.039 --> 00:06:25.440
+The other 98% is daily players that
+
+00:06:24.160 --> 00:06:27.039
+probably don't even know that I'm the
+
+00:06:25.440 --> 00:06:28.560
+founder of this game. Now, this game is
+
+00:06:27.039 --> 00:06:30.800
+about word of mouth. Most of these
+
+00:06:28.560 --> 00:06:32.160
+people are people who are in group
+
+00:06:30.800 --> 00:06:34.080
+chats. One of their buddies sent them
+
+00:06:32.160 --> 00:06:35.919
+the game and they just decided to play.
+
+00:06:34.080 --> 00:06:37.759
+They had no idea who the founder was.
+
+00:06:35.919 --> 00:06:39.360
+Look, it's always helpful to have a
+
+00:06:37.759 --> 00:06:41.280
+following. I recommend building a
+
+00:06:39.360 --> 00:06:43.120
+following, but that is definitely not
+
+00:06:41.280 --> 00:06:44.800
+why this game has succeeded. Cool. Yeah.
+
+00:06:43.120 --> 00:06:46.160
+So, let's get into that then. So, you
+
+00:06:44.800 --> 00:06:47.840
+you kind of said it came a little bit
+
+00:06:46.160 --> 00:06:48.960
+out of nowhere. So, I can imagine the
+
+00:06:47.840 --> 00:06:50.479
+answer because you've been working in
+
+00:06:48.960 --> 00:06:51.919
+sports for a long time, but how did you
+
+00:06:50.479 --> 00:06:52.720
+come up with the idea for this
+
+00:06:51.919 --> 00:06:53.520
+particular [music]
+
+00:06:52.720 --> 00:06:55.280
+website?
+
+00:06:53.520 --> 00:06:56.479
+>> Yeah. So, I I have to give credit to my
+
+00:06:55.280 --> 00:06:58.319
+brother here. He showed me this game
+
+00:06:56.479 --> 00:07:00.960
+called MapTap and I loved it. I was
+
+00:06:58.319 --> 00:07:03.199
+always someone who loved maps and globes
+
+00:07:00.960 --> 00:07:04.720
+and Google maps in particular. I loved
+
+00:07:03.199 --> 00:07:07.039
+it and I was uh you know I was at a
+
+00:07:04.720 --> 00:07:08.880
+buddy's wedding and I was driving home
+
+00:07:07.039 --> 00:07:10.400
+that Sunday. I just had this thought
+
+00:07:08.880 --> 00:07:12.080
+running through my mind on the way home
+
+00:07:10.400 --> 00:07:13.599
+where it's like you know I I really am
+
+00:07:12.080 --> 00:07:15.280
+I'm excited to play MapTap when I get
+
+00:07:13.599 --> 00:07:16.960
+home. What if I had a sports version
+
+00:07:15.280 --> 00:07:18.720
+because MapTap doesn't do any sort of
+
+00:07:16.960 --> 00:07:20.400
+trivia. It doesn't have a sports twist
+
+00:07:18.720 --> 00:07:22.639
+on it. I thought I could do my own thing
+
+00:07:20.400 --> 00:07:24.720
+and and and make a remix of sorts and I
+
+00:07:22.639 --> 00:07:26.479
+did and I I I just got to work right
+
+00:07:24.720 --> 00:07:27.919
+away and it slowly blossomed.
+
+00:07:26.479 --> 00:07:29.440
+>> So you mentioned earlier kind of like
+
+00:07:27.919 --> 00:07:30.720
+you you coming home from this wedding,
+
+00:07:29.440 --> 00:07:31.759
+you started working on it. It's my
+
+00:07:30.720 --> 00:07:33.199
+understanding that you built this kind
+
+00:07:31.759 --> 00:07:34.479
+of really quickly, but tell us a little
+
+00:07:33.199 --> 00:07:35.759
+bit about the build story. How'd you
+
+00:07:34.479 --> 00:07:36.319
+build it? How long did it take you?
+
+00:07:35.759 --> 00:07:37.919
+Stuff like that.
+
+00:07:36.319 --> 00:07:39.360
+>> You know, I went to regular cloud first
+
+00:07:37.919 --> 00:07:40.880
+and I just gave it a bunch of detail.
+
+00:07:39.360 --> 00:07:42.560
+Here's all this information I have for a
+
+00:07:40.880 --> 00:07:44.560
+game. You know, do some research on map
+
+00:07:42.560 --> 00:07:46.160
+tab and I had to build a spec. I'm not
+
+00:07:44.560 --> 00:07:47.440
+technical. I don't know how to code. you
+
+00:07:46.160 --> 00:07:49.440
+know, every step of the way when I would
+
+00:07:47.440 --> 00:07:51.280
+get stuck, I would just ask Claude and
+
+00:07:49.440 --> 00:07:52.880
+we'd refer back to the spec and, you
+
+00:07:51.280 --> 00:07:54.960
+know, when we needed to install other
+
+00:07:52.880 --> 00:07:57.120
+tools, it recommended a lot of these
+
+00:07:54.960 --> 00:07:58.560
+things for me. You know, it it's really
+
+00:07:57.120 --> 00:08:00.879
+beautiful how much you can accomplish
+
+00:07:58.560 --> 00:08:03.039
+now having my background and and not
+
+00:08:00.879 --> 00:08:04.960
+being technical. So, on that Sunday, I
+
+00:08:03.039 --> 00:08:06.800
+worked for about 8 hours. I I kind of
+
+00:08:04.960 --> 00:08:08.800
+just canceled my schedule on that Monday
+
+00:08:06.800 --> 00:08:10.080
+and and kept working on this and it got
+
+00:08:08.800 --> 00:08:10.400
+to a point where I was able to send it
+
+00:08:10.080 --> 00:08:11.680
+out.
+
+00:08:10.400 --> 00:08:14.080
+>> So, you know, you you say you're
+
+00:08:11.680 --> 00:08:16.400
+non-technical. Uh what what is the tech
+
+00:08:14.080 --> 00:08:18.800
+stack that you use to build this?
+
+00:08:16.400 --> 00:08:20.879
+>> Okay, we have cloud max the 20x version.
+
+00:08:18.800 --> 00:08:22.319
+Uh we have Verscell Pro for hosting. Uh
+
+00:08:20.879 --> 00:08:24.240
+custom domain which I bought from
+
+00:08:22.319 --> 00:08:26.319
+Verscell. We use map libre for the
+
+00:08:24.240 --> 00:08:28.000
+globe. Up stash reddish for leaderboards
+
+00:08:26.319 --> 00:08:29.599
+and stats. Google sheets for the
+
+00:08:28.000 --> 00:08:31.919
+questions and stripe for the pro
+
+00:08:29.599 --> 00:08:33.200
+subscriptions. Pretty lean tech. I think
+
+00:08:31.919 --> 00:08:34.959
+that's awesome. Let's get into a little
+
+00:08:33.200 --> 00:08:36.640
+bit of advice. I think people who are
+
+00:08:34.959 --> 00:08:38.880
+watching this might be thinking to
+
+00:08:36.640 --> 00:08:40.800
+themselves, oh, I have like a niche or a
+
+00:08:38.880 --> 00:08:42.399
+strong interest in a particular space
+
+00:08:40.800 --> 00:08:43.919
+kind of like you had for sports and you
+
+00:08:42.399 --> 00:08:45.440
+ended up building this game. What would
+
+00:08:43.919 --> 00:08:47.120
+be your, you know, a couple pieces of
+
+00:08:45.440 --> 00:08:48.320
+advice that you would give to people
+
+00:08:47.120 --> 00:08:50.160
+who, you know, are interested in
+
+00:08:48.320 --> 00:08:52.160
+building maybe their first app or their
+
+00:08:50.160 --> 00:08:53.920
+first project? Yeah. What kind of advice
+
+00:08:52.160 --> 00:08:56.000
+would you give to them? Don't be afraid
+
+00:08:53.920 --> 00:08:57.680
+to build for web first. [music] I've had
+
+00:08:56.000 --> 00:08:59.680
+success here. One of the main reasons
+
+00:08:57.680 --> 00:09:01.760
+that geosports was able to become so
+
+00:08:59.680 --> 00:09:03.440
+viral was that there is near zero
+
+00:09:01.760 --> 00:09:05.279
+friction. People could play this, you
+
+00:09:03.440 --> 00:09:07.200
+know, the game blew up on social media,
+
+00:09:05.279 --> 00:09:09.440
+specifically on X. So people could play
+
+00:09:07.200 --> 00:09:11.120
+without ever leaving X. They found it,
+
+00:09:09.440 --> 00:09:12.399
+they played it, they shared it all
+
+00:09:11.120 --> 00:09:14.560
+there. It was a very seamless
+
+00:09:12.399 --> 00:09:16.000
+experience. So that's number one for me.
+
+00:09:14.560 --> 00:09:17.200
+I think that's very important and
+
+00:09:16.000 --> 00:09:18.959
+something that, you know, people
+
+00:09:17.200 --> 00:09:20.560
+shouldn't just skip over. Sure. Number
+
+00:09:18.959 --> 00:09:22.720
+two would be make your product sharable.
+
+00:09:20.560 --> 00:09:24.640
+This sounds obvious, but it's not. So
+
+00:09:22.720 --> 00:09:26.399
+Geosports is only a success because of
+
+00:09:24.640 --> 00:09:27.760
+word of mouth. That is true still to
+
+00:09:26.399 --> 00:09:29.440
+this day. You know, most people might
+
+00:09:27.760 --> 00:09:31.166
+think that I'm a content creator and I'm
+
+00:09:29.440 --> 00:09:31.760
+pushing it. It's really not. like 99%
+
+00:09:31.166 --> 00:09:33.920
+[music]
+
+00:09:31.760 --> 00:09:35.519
+of the traffic, 98% of the traffic is
+
+00:09:33.920 --> 00:09:37.360
+from word of mouth because the product
+
+00:09:35.519 --> 00:09:38.880
+is sharable. We reached over 1 million
+
+00:09:37.360 --> 00:09:41.279
+unique players in less than one month
+
+00:09:38.880 --> 00:09:43.440
+without a fancy email campaign. Uh so
+
+00:09:41.279 --> 00:09:45.120
+make your product sharable. Lastly is do
+
+00:09:43.440 --> 00:09:47.120
+not wait to get started. Try to block
+
+00:09:45.120 --> 00:09:48.399
+off 8 hours of uninterrupted work to
+
+00:09:47.120 --> 00:09:50.000
+give yourself a chance to build [music]
+
+00:09:48.399 --> 00:09:52.000
+something. You know, again, it sounds
+
+00:09:50.000 --> 00:09:54.000
+obvious, but you but getting started is
+
+00:09:52.000 --> 00:09:55.680
+so difficult and that's not lost on me.
+
+00:09:54.000 --> 00:09:58.080
+And if you do get stuck in those eight
+
+00:09:55.680 --> 00:09:59.839
+hours, just ask your LLM and keep
+
+00:09:58.080 --> 00:10:01.839
+building. This is what I did to build
+
+00:09:59.839 --> 00:10:03.360
+geosports. I, you know, I was, I was
+
+00:10:01.839 --> 00:10:05.120
+taking a ridiculous amount of
+
+00:10:03.360 --> 00:10:06.560
+screenshots when I was using Verscell
+
+00:10:05.120 --> 00:10:08.000
+and having to pinpoint, [music]
+
+00:10:06.560 --> 00:10:10.240
+you know, the different platforms and
+
+00:10:08.000 --> 00:10:12.160
+the domain and all of this stuff. I
+
+00:10:10.240 --> 00:10:13.742
+don't know how to do this stuff. So, I
+
+00:10:12.160 --> 00:10:15.200
+relied on screenshots and tons of
+
+00:10:13.742 --> 00:10:16.880
+[music] questions and recommend everyone
+
+00:10:15.200 --> 00:10:18.399
+else do the same. I remember doing that
+
+00:10:16.880 --> 00:10:20.079
+for the first time that I built stuff. I
+
+00:10:18.399 --> 00:10:22.000
+would literally just like take an entire
+
+00:10:20.079 --> 00:10:23.839
+screenshot of my screen and say, "Can
+
+00:10:22.000 --> 00:10:24.640
+you explain what the heck I'm even
+
+00:10:23.839 --> 00:10:25.519
+looking at?"
+
+00:10:24.640 --> 00:10:27.120
+>> Yeah. And it would
+
+00:10:25.519 --> 00:10:28.800
+>> And then when I'm doing it, I say, "Is
+
+00:10:27.120 --> 00:10:30.399
+this right? is what I'm putting in here
+
+00:10:28.800 --> 00:10:31.440
+right. Make sure it's right. Yeah. Okay.
+
+00:10:30.399 --> 00:10:33.040
+It's right. Let's go.
+
+00:10:31.440 --> 00:10:34.399
+>> Exactly. And sort of the fud didn't
+
+00:10:33.040 --> 00:10:36.560
+always get it right, but I got it right
+
+00:10:34.399 --> 00:10:39.920
+most of the time. So, let's switch gears
+
+00:10:36.560 --> 00:10:42.720
+here and talk about the growth of this
+
+00:10:39.920 --> 00:10:45.920
+game because, you know, you grew really
+
+00:10:42.720 --> 00:10:47.440
+fast. Zero to 40k per month in 3 months.
+
+00:10:45.920 --> 00:10:50.480
+Give us an overview of that growth
+
+00:10:47.440 --> 00:10:52.560
+timeline and maybe at a high level or
+
+00:10:50.480 --> 00:10:54.720
+like how it grew so fast. Like I said,
+
+00:10:52.560 --> 00:10:56.800
+we had a stealth launch. I sent it to a
+
+00:10:54.720 --> 00:10:58.480
+couple family members, friends, and I
+
+00:10:56.800 --> 00:11:00.320
+noticed that they were sharing it. So, I
+
+00:10:58.480 --> 00:11:02.480
+felt comfortable putting it on some of
+
+00:11:00.320 --> 00:11:04.320
+my social media stories. So, I I, you
+
+00:11:02.480 --> 00:11:06.480
+know, I made a couple posts about it on
+
+00:11:04.320 --> 00:11:08.880
+X, you know. Interestingly, the post I
+
+00:11:06.480 --> 00:11:10.720
+made about it on X wasn't even a post
+
+00:11:08.880 --> 00:11:12.720
+about geosports. It was, you know, a
+
+00:11:10.720 --> 00:11:15.279
+post about the NBA or something. And I
+
+00:11:12.720 --> 00:11:17.040
+replied to my own tweet saying, "Hey, by
+
+00:11:15.279 --> 00:11:18.399
+the way, I made this game. I'd really
+
+00:11:17.040 --> 00:11:20.880
+appreciate if you guys all checked it
+
+00:11:18.399 --> 00:11:23.172
+out." And that reply went completely
+
+00:11:20.880 --> 00:11:24.399
+viral. I had about 40,000 players. And
+
+00:11:23.172 --> 00:11:27.600
+[music] then that following day, that
+
+00:11:24.399 --> 00:11:29.440
+Saturday, we did 150,000 players in one
+
+00:11:27.600 --> 00:11:31.600
+day. Uh it's the it's the type of launch
+
+00:11:29.440 --> 00:11:33.279
+that every founder dreams of, but we
+
+00:11:31.600 --> 00:11:35.519
+were also very unprepared on the
+
+00:11:33.279 --> 00:11:38.079
+retention side. You know, this game was
+
+00:11:35.519 --> 00:11:39.760
+only 5 days old. [music] So I I was not
+
+00:11:38.079 --> 00:11:41.360
+expecting this type of growth, so we got
+
+00:11:39.760 --> 00:11:42.800
+to work very quickly. So yeah, thanks
+
+00:11:41.360 --> 00:11:44.240
+for giving that overview. Let's just go
+
+00:11:42.800 --> 00:11:45.760
+a little bit deeper on growth. Like give
+
+00:11:44.240 --> 00:11:46.880
+us some of the tactics you use. I know
+
+00:11:45.760 --> 00:11:48.320
+you already kind of mentioned a few of
+
+00:11:46.880 --> 00:11:49.839
+them, but just give give us a little bit
+
+00:11:48.320 --> 00:11:51.760
+more around like what you did to take
+
+00:11:49.839 --> 00:11:54.160
+this from zero [music] to where it is
+
+00:11:51.760 --> 00:11:56.079
+today. $40,000 per month and growing.
+
+00:11:54.160 --> 00:11:57.600
+>> What we rely on is a large group of
+
+00:11:56.079 --> 00:11:59.760
+players coming back and playing every
+
+00:11:57.600 --> 00:12:01.760
+day. It's a very habitual game. So I
+
+00:11:59.760 --> 00:12:03.839
+realized very early on that geosports
+
+00:12:01.760 --> 00:12:05.519
+was extremely viable and sharable and X.
+
+00:12:03.839 --> 00:12:07.839
+So I created this new role called a
+
+00:12:05.519 --> 00:12:09.760
+hosting role specifically designed for
+
+00:12:07.839 --> 00:12:11.600
+sports media personalities and athletes
+
+00:12:09.760 --> 00:12:13.360
+on the platform. And basically what I
+
+00:12:11.600 --> 00:12:15.440
+did is I realized some of these people
+
+00:12:13.360 --> 00:12:16.880
+were playing. So I DM' people with large
+
+00:12:15.440 --> 00:12:18.320
+followings who had been liking the post
+
+00:12:16.880 --> 00:12:20.240
+about the game and asked if they wanted
+
+00:12:18.320 --> 00:12:21.839
+to host. And naturally they asked what
+
+00:12:20.240 --> 00:12:23.440
+does that mean? All it means is they
+
+00:12:21.839 --> 00:12:25.040
+would write the five daily questions
+
+00:12:23.440 --> 00:12:26.720
+which often times they're very excited
+
+00:12:25.040 --> 00:12:29.120
+to do. You know, when the game with
+
+00:12:26.720 --> 00:12:30.480
+their questions goes live, I make a post
+
+00:12:29.120 --> 00:12:32.639
+saying, "Hey, you know, we have this
+
+00:12:30.480 --> 00:12:34.399
+person as host today." And almost always
+
+00:12:32.639 --> 00:12:36.160
+they retweet it and the game reaches a
+
+00:12:34.399 --> 00:12:37.920
+new audience. This still feels like a
+
+00:12:36.160 --> 00:12:39.600
+cheat code that people are willing to do
+
+00:12:37.920 --> 00:12:41.360
+this, but it's also an amazing
+
+00:12:39.600 --> 00:12:43.120
+networking tool. I I get to connect with
+
+00:12:41.360 --> 00:12:43.839
+all these people and we both grow
+
+00:12:43.120 --> 00:12:46.880
+together.
+
+00:12:43.839 --> 00:12:48.720
+>> Final question for you, Frank. Um, if a
+
+00:12:46.880 --> 00:12:50.399
+question we ask all founders who come on
+
+00:12:48.720 --> 00:12:52.399
+the channel, if you were standing on
+
+00:12:50.399 --> 00:12:54.240
+your shoulders 3 months ago, a couple
+
+00:12:52.399 --> 00:12:56.079
+years ago, or for people watching who
+
+00:12:54.240 --> 00:12:58.399
+are just getting started, what would be
+
+00:12:56.079 --> 00:12:59.920
+your final piece of advice to them? If I
+
+00:12:58.399 --> 00:13:01.760
+could go back, I would say stay in the
+
+00:12:59.920 --> 00:13:03.519
+game. I learned this lesson from my
+
+00:13:01.760 --> 00:13:05.040
+career in video production. I started
+
+00:13:03.519 --> 00:13:07.040
+producing YouTube videos when I was in
+
+00:13:05.040 --> 00:13:08.720
+middle school. This was about 2007.
+
+00:13:07.040 --> 00:13:11.360
+YouTube [music] was very new. My videos
+
+00:13:08.720 --> 00:13:13.200
+didn't really become popular until 2020.
+
+00:13:11.360 --> 00:13:15.600
+I had a few that took off, but I didn't
+
+00:13:13.200 --> 00:13:17.519
+make a name for myself really until 2020
+
+00:13:15.600 --> 00:13:19.120
+when I became an independent short form
+
+00:13:17.519 --> 00:13:20.639
+creator. You know, for those who are bad
+
+00:13:19.120 --> 00:13:22.240
+at math, that's about [music] 13 14
+
+00:13:20.639 --> 00:13:24.399
+years. When I started making digital
+
+00:13:22.240 --> 00:13:26.240
+games later that same year in 2020, I
+
+00:13:24.399 --> 00:13:27.680
+had this lesson in my back pocket. I
+
+00:13:26.240 --> 00:13:29.040
+knew [music] that you had to be patient.
+
+00:13:27.680 --> 00:13:31.279
+You have to keep your feet in the water.
+
+00:13:29.040 --> 00:13:34.000
+And ultimately, that paid off. The games
+
+00:13:31.279 --> 00:13:35.360
+exploded in 2026. But again, that's 6
+
+00:13:34.000 --> 00:13:37.279
+years later. This did not happen
+
+00:13:35.360 --> 00:13:39.279
+overnight. So, um, none of this happens
+
+00:13:37.279 --> 00:13:40.880
+if I don't stay in the game, if I don't
+
+00:13:39.279 --> 00:13:42.000
+practice patience and suffer through
+
+00:13:40.880 --> 00:13:42.480
+some of the hard times that come with
+
+00:13:42.000 --> 00:13:44.000
+that.
+
+00:13:42.480 --> 00:13:46.160
+>> Frank, that's great advice. Thanks so
+
+00:13:44.000 --> 00:13:47.600
+much for coming on Starter Story. For
+
+00:13:46.160 --> 00:13:49.040
+whoever's watching, leave a comment for
+
+00:13:47.600 --> 00:13:50.639
+Frank. Any other questions you might
+
+00:13:49.040 --> 00:13:52.320
+have or what your thoughts are on this
+
+00:13:50.639 --> 00:13:54.000
+episode. Thanks for coming on Starter
+
+00:13:52.320 --> 00:13:55.920
+Story. U, maybe we'll talk to you again
+
+00:13:54.000 --> 00:13:58.160
+when you're at 100K per month or more.
+
+00:13:55.920 --> 00:14:00.160
+>> I look forward to it. Thank you, Gus.
+
+00:13:58.160 --> 00:14:02.320
+>> Okay, I just wrapped up with Frank. That
+
+00:14:00.160 --> 00:14:04.240
+was a really fun interview, but I it's
+
+00:14:02.320 --> 00:14:05.920
+really coming down to like two main
+
+00:14:04.240 --> 00:14:07.279
+takeaways for me, which we mentioned
+
+00:14:05.920 --> 00:14:08.959
+kind of throughout the interview. The
+
+00:14:07.279 --> 00:14:10.959
+first one, and this is like the obvious
+
+00:14:08.959 --> 00:14:12.880
+one we talked a lot about, was whatever
+
+00:14:10.959 --> 00:14:15.279
+you're building, think about the
+
+00:14:12.880 --> 00:14:17.040
+sharability of it. I've created a few
+
+00:14:15.279 --> 00:14:18.320
+different apps myself, and I'm just
+
+00:14:17.040 --> 00:14:20.639
+starting to think about for some of them
+
+00:14:18.320 --> 00:14:23.519
+that are like mo slightly very slightly
+
+00:14:20.639 --> 00:14:25.279
+successful. How do I get more users to
+
+00:14:23.519 --> 00:14:27.600
+this? There's lots of, you know, lots of
+
+00:14:25.279 --> 00:14:30.079
+ways to grow something, but something
+
+00:14:27.600 --> 00:14:32.959
+that he made really obvious to me was
+
+00:14:30.079 --> 00:14:34.880
+try to build some sharability into it.
+
+00:14:32.959 --> 00:14:36.320
+Whether that's sharing a screenshot or
+
+00:14:34.880 --> 00:14:38.639
+sharing some stats [music] or something
+
+00:14:36.320 --> 00:14:40.399
+that someone can use your app for and
+
+00:14:38.639 --> 00:14:42.959
+tell someone else about it is a really
+
+00:14:40.399 --> 00:14:44.639
+obviously smart way to grow. The second
+
+00:14:42.959 --> 00:14:46.000
+thing, and this is one of the main
+
+00:14:44.639 --> 00:14:47.760
+reasons I wanted to bring them on the
+
+00:14:46.000 --> 00:14:50.155
+channel in general, was sort of this
+
+00:14:47.760 --> 00:14:52.320
+theme of like tools like Claude and
+
+00:14:50.155 --> 00:14:54.000
+[music] Chad GBT codeex have really
+
+00:14:52.320 --> 00:14:55.760
+changed the game on who can be a
+
+00:14:54.000 --> 00:14:57.600
+builder. A small example is someone like
+
+00:14:55.760 --> 00:14:59.279
+me. I have zero technical experience and
+
+00:14:57.600 --> 00:15:00.480
+I'm I'm not successful by any means like
+
+00:14:59.279 --> 00:15:02.399
+these guys that we feature on the
+
+00:15:00.480 --> 00:15:05.440
+channel, but it's allowed a regular old
+
+00:15:02.399 --> 00:15:06.880
+Joemo like me to have an idea and
+
+00:15:05.440 --> 00:15:08.320
+actually bring it to life and make, you
+
+00:15:06.880 --> 00:15:09.680
+know, a couple hundred, which is what
+
+00:15:08.320 --> 00:15:11.199
+I've made so far. And for someone like
+
+00:15:09.680 --> 00:15:12.880
+Frank and other people we featured on
+
+00:15:11.199 --> 00:15:15.680
+the channel who already have this sort
+
+00:15:12.880 --> 00:15:18.079
+of like content creator mindset, those
+
+00:15:15.680 --> 00:15:20.720
+kind of people are the folks that are
+
+00:15:18.079 --> 00:15:22.399
+most successful in the coming wave of
+
+00:15:20.720 --> 00:15:24.240
+apps that are built or products that are
+
+00:15:22.399 --> 00:15:26.720
+built because they have the distribution
+
+00:15:24.240 --> 00:15:28.880
+in mind and now the technical aspect of
+
+00:15:26.720 --> 00:15:30.160
+building that blocker is completely
+
+00:15:28.880 --> 00:15:32.000
+gone. And I think it's really fun that
+
+00:15:30.160 --> 00:15:33.600
+he just started this as a fun project
+
+00:15:32.000 --> 00:15:35.680
+for himself and now it's become this
+
+00:15:33.600 --> 00:15:37.680
+$40,000 per month business that is
+
+00:15:35.680 --> 00:15:39.600
+probably changing his life. So, one of
+
+00:15:37.680 --> 00:15:42.000
+the things we always say here at Sertory
+
+00:15:39.600 --> 00:15:43.839
+is you just have to go build something
+
+00:15:42.000 --> 00:15:45.120
+and you can and will figure out the rest
+
+00:15:43.839 --> 00:15:47.199
+later. That's why at the link in the
+
+00:15:45.120 --> 00:15:48.959
+description, you can find over 100 side
+
+00:15:47.199 --> 00:15:50.320
+projects that people have started. So,
+
+00:15:48.959 --> 00:15:52.079
+if you yourself are looking to build
+
+00:15:50.320 --> 00:15:53.519
+your first side project, but are still
+
+00:15:52.079 --> 00:15:54.800
+trying to find the right idea that might
+
+00:15:53.519 --> 00:15:56.800
+work, go ahead and check that out.
+
+00:15:54.800 --> 00:15:58.320
+Download it 100% for free. All right,
+
+00:15:56.800 --> 00:16:02.040
+thanks for watching. We'll see you in
+
+00:15:58.320 --> 00:16:02.040
+the next one. Peace.
+

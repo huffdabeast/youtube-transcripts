@@ -1,0 +1,786 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.120
+Imagine calling a business and instead of it 
+ringing forever or going to voicemail or having  
+
+00:00:05.120 --> 00:00:09.520
+some receptionist frantically answer the phone 
+because they're doing 10 other things at the  
+
+00:00:09.520 --> 00:00:15.440
+same time, an AI assistant instantly answers 
+the phone, greets the customer, and is able  
+
+00:00:15.440 --> 00:00:21.600
+to either answer their question or automatically 
+book an appointment on the business's calendar.  
+
+00:00:21.600 --> 00:00:28.240
+And the craziest part, these AI voice agents are 
+getting so good that most people calling in don't  
+
+00:00:28.240 --> 00:00:33.600
+even realize they're speaking with AI anymore. 
+Now, this technology used to require developers,  
+
+00:00:33.600 --> 00:00:41.520
+complex coding, and expensive software to build. 
+But now, in 2026, everything has completely  
+
+00:00:41.520 --> 00:00:46.640
+changed. Today, you could build AI voice 
+agents that automatically answer phone calls,  
+
+00:00:46.640 --> 00:00:52.400
+respond to customer questions, automatically book 
+appointments for the business without even having  
+
+00:00:52.400 --> 00:00:58.000
+to write a single line of code. And right now, 
+businesses are actively looking for solutions  
+
+00:00:58.000 --> 00:01:03.200
+just like this to help them never miss a call, to 
+help them automatically book appointments on their  
+
+00:01:03.200 --> 00:01:10.000
+calendar, and also to help save hours of time from 
+their front desk receptionist. So, in this video,  
+
+00:01:10.000 --> 00:01:14.320
+I want to show you, even if you're a total 
+beginner with no marketing experience or even  
+
+00:01:14.320 --> 00:01:21.520
+any tech skills, how to build an AI voice agent 
+completely from scratch. I'll show you everything  
+
+00:01:21.520 --> 00:01:27.280
+step by step. I'll show you what tools you need, 
+how the AI actually understands these callers,  
+
+00:01:27.280 --> 00:01:32.320
+how to have it automatically set up appointments 
+for the business, and how businesses are  
+
+00:01:32.320 --> 00:01:36.960
+leveraging this to handle real customer calls. 
+Now, real quick before we jump on my computer  
+
+00:01:36.960 --> 00:01:41.920
+and I show you everything step by step, if you 
+like videos like this about AI, AI automation,  
+
+00:01:41.920 --> 00:01:47.440
+be sure to smash a like button, drop a comment 
+down below, and I'll hook you up with a free  
+
+00:01:47.440 --> 00:01:54.400
+step-by-step course showing you how to start your 
+own AI agency business leveraging these simple  
+
+00:01:54.400 --> 00:01:59.760
+services. And I have no hidden upsells or payw 
+walls or anything like that. So, if you want that,  
+
+00:01:59.760 --> 00:02:04.320
+drop a comment down below and I'll hook you up 
+with the private link. Now, let's dive onto my  
+
+00:02:04.320 --> 00:02:08.160
+computer so I can show you everything step by 
+step. What we're going to be doing here is we're  
+
+00:02:08.160 --> 00:02:12.640
+going to be working with small local businesses. 
+And honestly, this could be any business in any  
+
+00:02:12.640 --> 00:02:17.280
+location across the world. Think a plumber, an 
+electrician, a real estate agent, a dentist,  
+
+00:02:17.280 --> 00:02:22.000
+an orthodontist, massage therapist, any type of 
+small business. And then we're going to hook them  
+
+00:02:22.000 --> 00:02:27.600
+up with a simple AI automation service, which I'm 
+going to show you guys here in just a second. And  
+
+00:02:27.600 --> 00:02:32.560
+you can see right here, I've got copy and paste. 
+If you can click your mouse a few times and copy  
+
+00:02:32.560 --> 00:02:36.960
+and paste, you can make this happen. And I'll show 
+you guys and I'll prove that how easy it is to  
+
+00:02:36.960 --> 00:02:42.960
+you right here in this video. And then for this 
+simple service, you can easily charge anywhere  
+
+00:02:42.960 --> 00:02:50.400
+from $300 to $500 per month per client. And the 
+best part for you is you get to keep 100% of the  
+
+00:02:50.400 --> 00:02:56.240
+profits. No commission splits. That money all goes 
+directly to you. So, let me first show you how  
+
+00:02:56.240 --> 00:03:04.080
+to find these ideal small local businesses to set 
+them up with this simple AI service for free. So,  
+
+00:03:04.080 --> 00:03:08.480
+what we're going to do is we're going to come 
+over to the trustworthy Google to find these small  
+
+00:03:08.480 --> 00:03:14.960
+local businesses. And for this example, let's just 
+say we want to look for a dentist in Portland,  
+
+00:03:14.960 --> 00:03:20.560
+Oregon. And like I said, this works for any 
+industry in any city across the world that we can  
+
+00:03:20.560 --> 00:03:25.280
+go through and set this up. And so what's going to 
+happen first is we're going to have these listings  
+
+00:03:25.280 --> 00:03:31.760
+of these dental practices that are paying to be at 
+the top of the search result for Dennis Portland,  
+
+00:03:31.760 --> 00:03:35.840
+Oregon or dentist wherever. Okay? And then we're 
+just going to scroll down and we're going to  
+
+00:03:35.840 --> 00:03:40.560
+see some of the organic rankings. And typically 
+organic that means that they didn't pay anything  
+
+00:03:40.560 --> 00:03:45.520
+to be up there. Google is just showing them at the 
+top because typically they have more reviews, more  
+
+00:03:45.520 --> 00:03:50.640
+fivestar reviews, and their Google My Business 
+profile, their Google My Business listing is more  
+
+00:03:50.640 --> 00:03:54.960
+complete than some of these other businesses. And 
+so, honestly, if we come on down here and click  
+
+00:03:54.960 --> 00:04:02.480
+on more places, we have a long list of all these 
+businesses that we can go through and contact.  
+
+00:04:02.480 --> 00:04:06.880
+And the best part about this simple service, 
+because it is so cutting edge and nobody else  
+
+00:04:06.880 --> 00:04:11.840
+is going through and offering this, I've literally 
+not seen anyone do this. This is actually so new  
+
+00:04:11.840 --> 00:04:17.920
+that I just barely got beta access to roll this 
+out and show to you guys how powerful this simple  
+
+00:04:17.920 --> 00:04:22.400
+service is. Okay, so we could literally call any 
+one of these businesses and it's not going to be  
+
+00:04:22.400 --> 00:04:27.280
+like selling Facebook ads or SEO to any of these 
+clients because they have never heard of this and  
+
+00:04:27.280 --> 00:04:32.320
+they're going to be blown away how powerful 
+this is. So, literally, we can call any one  
+
+00:04:32.320 --> 00:04:37.440
+of these businesses and inside that free course, 
+I have sales scripts knowing how to reach out,  
+
+00:04:37.440 --> 00:04:42.800
+what to say on the phone to get them as a client. 
+And then once we get a client saying yes, all  
+
+00:04:42.800 --> 00:04:48.080
+we're going to do is come over here to this simple 
+AI automation software and we are going to set  
+
+00:04:48.080 --> 00:04:54.640
+up what I like to call an AI employee. Okay? So, 
+think about this. Think about a dentist's office.  
+
+00:04:54.640 --> 00:05:00.240
+Typically, they have an assistant or a secretary 
+that is taking incoming calls. They're texting  
+
+00:05:00.240 --> 00:05:04.000
+back and forth with clients. They're calling 
+those clients to make sure that they remember to  
+
+00:05:04.000 --> 00:05:09.120
+go through and show up for their appointments. 
+Well, what if we could have AI do all of that  
+
+00:05:09.120 --> 00:05:15.360
+work for that front office assistant or secretary? 
+Realistically, this assistant or secretary is not  
+
+00:05:15.360 --> 00:05:20.400
+wanting to make all these phone calls to remind 
+patients of their upcoming appointment or they're  
+
+00:05:20.400 --> 00:05:24.960
+probably not wanting to field all these calls to 
+go through and set an appointment. And honestly,  
+
+00:05:24.960 --> 00:05:29.520
+even if you have an assistant, because most dental 
+offices have an assistant, they're not able to  
+
+00:05:29.520 --> 00:05:33.200
+take every single phone call because sometimes 
+they're working with the patients that are right  
+
+00:05:33.200 --> 00:05:39.040
+there in the office. So, what we're going to do 
+is set up this AI employee that's able to take all  
+
+00:05:39.040 --> 00:05:45.920
+the incoming calls, ask why they are calling in, 
+jot down the information, and the reason of why  
+
+00:05:45.920 --> 00:05:51.360
+they're calling in, and help book an appointment 
+for that person on the small business's calendar.  
+
+00:05:51.360 --> 00:05:57.280
+And if you think about the power of this for maybe 
+a massage therapist who doesn't have the budget to  
+
+00:05:57.280 --> 00:06:03.840
+afford an assistant or a secretary, this is going 
+to be gamecher for them or a real estate agent or  
+
+00:06:03.840 --> 00:06:08.000
+any other small local business owner. So, let me 
+just show you how easy this is set up and then I'm  
+
+00:06:08.000 --> 00:06:12.560
+going to actually give you a live demo of how cool 
+this is. So, all we have to do is come over here  
+
+00:06:12.560 --> 00:06:17.440
+to settings and then we're going to click on this 
+little AI agent. And you can see I've set up a few  
+
+00:06:17.440 --> 00:06:22.160
+demo ones right here. But all we have to do to set 
+this up completely from scratch. It's literally  
+
+00:06:22.160 --> 00:06:26.960
+like three simple clicks of our mouse. We come 
+over here and click on create an agent. Okay.  
+
+00:06:26.960 --> 00:06:30.480
+And I'm just going to move my head so you can see 
+everything right here. And then we're going to  
+
+00:06:30.480 --> 00:06:35.360
+um give this agent a name. So for this one, we'll 
+say her name is Tina. Okay. And the business name  
+
+00:06:35.360 --> 00:06:42.080
+is let's just say um Jason's Dental Practice. 
+Obviously I'm not an MD. I'm not a dentist,  
+
+00:06:42.080 --> 00:06:46.720
+but just for this example, just for fun. Okay. And 
+so I'm just going to copy this right there. And  
+
+00:06:46.720 --> 00:06:51.520
+this is going to be for any inbound call. So if 
+somebody's calling in to schedule an appointment  
+
+00:06:51.520 --> 00:06:56.880
+or reach out for one reason or another, but 
+as you can see right here, coming very soon,  
+
+00:06:56.880 --> 00:07:01.760
+outbound calls are going to work as well. 
+So patient reminders or reaching out to go  
+
+00:07:01.760 --> 00:07:06.160
+through and booking appointments with leads that 
+are coming into a business. That is going to be  
+
+00:07:06.160 --> 00:07:14.080
+extremely powerful as well. And then this is what 
+the AI agent is going to say on the phone. So,  
+
+00:07:14.080 --> 00:07:18.640
+like, hey, you've reached out to, and then 
+you put in the business's name, right? Um,  
+
+00:07:18.640 --> 00:07:23.360
+we'll just paste in right there. Make sure that 
+is taken out. How can I help you today? And you  
+
+00:07:23.360 --> 00:07:27.520
+can customize that. You can have it say whatever 
+you want. And then from here, all we do is click  
+
+00:07:27.520 --> 00:07:32.960
+next. And then we say, okay, what is the agent's 
+goal when they call? When this AI agent calls,  
+
+00:07:32.960 --> 00:07:37.760
+what do we want them to actually collect? And 
+so the kind of this basic mode we can say we  
+
+00:07:37.760 --> 00:07:43.040
+want them collect the person's name, their email 
+address, maybe even their physical address and  
+
+00:07:43.040 --> 00:07:47.920
+the contacts issue. So maybe they're like, "Ah 
+man, like I've got a toothache or I need a teeth  
+
+00:07:47.920 --> 00:07:54.160
+cleaning or whatever it might be for this dental 
+situation." Or we can switch to advanced mode and  
+
+00:07:54.160 --> 00:08:01.040
+you can literally give a prompt to this AI bot 
+and say like, "Look, you are an assistant for a  
+
+00:08:01.040 --> 00:08:07.520
+dental office in this area. I want you to be fun 
+and playful this and that. And you have objection  
+
+00:08:07.520 --> 00:08:12.240
+handlings. So, the script instructions. You have 
+all this different information you can go through  
+
+00:08:12.240 --> 00:08:18.880
+and input into this AI prompt to customize this. 
+Right now, to keep things simple, and honestly,  
+
+00:08:18.880 --> 00:08:23.440
+this is the better use case in my personal 
+opinion is to keep things simple. We're just  
+
+00:08:23.440 --> 00:08:27.440
+going to switch back to the basic mode. And you 
+might be looking at this and be thinking, well,  
+
+00:08:27.440 --> 00:08:32.160
+why don't they collect the phone number? Well, the 
+cool thing is is when the person is calling into  
+
+00:08:32.160 --> 00:08:37.680
+the dental practice, it automatically pulls in 
+the phone number and then as it's grabbing all of  
+
+00:08:37.680 --> 00:08:44.720
+this information right here, it autoupdates this 
+contact information plus the contact issue in the  
+
+00:08:44.720 --> 00:08:50.400
+notes section in the database of this simple 
+AI software. Okay, so now that's super easy  
+
+00:08:50.400 --> 00:08:54.960
+to go through and do. We're just going to click 
+on next. And then from here, we're just going to  
+
+00:08:54.960 --> 00:08:58.880
+choose a phone number that's associated with this 
+account. So, this is obviously a demo account,  
+
+00:08:58.880 --> 00:09:02.880
+but we've got this 800 number associated with 
+this account, which we can go through and create  
+
+00:09:02.880 --> 00:09:07.680
+any local phone number to have this all set up and 
+happen. And if you're thinking like, oh, well, we  
+
+00:09:07.680 --> 00:09:11.520
+have to get a new phone number for the business. 
+They might not like that. Well, the cool thing  
+
+00:09:11.520 --> 00:09:17.680
+is is if you create a new local phone number, 
+what you can do is also forward that number in  
+
+00:09:17.680 --> 00:09:22.960
+to an existing business line. So, honestly, I 
+haven't had any push back or any problems with  
+
+00:09:22.960 --> 00:09:28.000
+that by simply saying, "Well, look, we can also 
+forward all the calls to you or any text coming  
+
+00:09:28.000 --> 00:09:31.600
+in. We can all we can figure all that out." And 
+then all we would do is come down here and click  
+
+00:09:31.600 --> 00:09:37.040
+save. And now, really quick, what I want to do is 
+I'm just going to pull this back down real quick  
+
+00:09:37.040 --> 00:09:42.880
+right here. And I want to demo it for you so you 
+guys can see a live example of how this works. So,  
+
+00:09:42.880 --> 00:09:47.120
+I want to actually call in and show you guys 
+how this works. And as you guys saw, I didn't go  
+
+00:09:47.120 --> 00:09:52.480
+through and fully set that up, but this is another 
+demo, a business account that I have set up for an  
+
+00:09:52.480 --> 00:09:56.400
+electrician. But honestly, it works the same way. 
+So, all we're going to do, I'm just going to put  
+
+00:09:56.400 --> 00:10:06.320
+this on speaker so you guys can listen in here. 
+This call will be recorded for quality purposes.
+
+00:10:06.320 --> 00:10:10.800
+Hey, you have reached instant electrician 
+service. How can I help you today? Yeah,  
+
+00:10:10.800 --> 00:10:16.480
+my power is out in my basement. I don't know 
+why. Got it. Let's get you some help with  
+
+00:10:16.480 --> 00:10:24.080
+that. Can I start by getting your name, please? 
+Jason Wardrop. Thanks, Jason. Just to make sure  
+
+00:10:24.080 --> 00:10:33.120
+I've got it right. Your name is J A S O N W A 
+R D R O P. Is that correct? Yes. Great. Could  
+
+00:10:33.120 --> 00:10:42.480
+you please provide your email address so we can 
+follow up with you? Yeah, it's jw1088gmail.com.
+
+00:10:43.840 --> 00:10:52.880
+Just to make sure I've got it right, your email 
+address is jw1088 g a l.com. Is that correct?  
+
+00:10:52.880 --> 00:10:59.280
+Yes. Perfect. Now, you mentioned your power is out 
+in the basement. Is there anything else you'd like  
+
+00:10:59.280 --> 00:11:06.160
+to add about the issue? No, just if you guys can 
+make it out as soon as possible, that'd be great.  
+
+00:11:06.160 --> 00:11:10.320
+All right, Jason. Our team will reach out to you 
+shortly to help resolve the power issue in your  
+
+00:11:10.320 --> 00:11:18.880
+basement. Thanks for calling and have a great day. 
+Now, how cool was that? Not only did it not have  
+
+00:11:18.880 --> 00:11:25.760
+really a lot of lag time, but she understood the 
+exact issue. She repeated the issue. And honestly,  
+
+00:11:25.760 --> 00:11:31.360
+my last name is not very easy to spell. So, when I 
+gave her my first name and my last name, typically  
+
+00:11:31.360 --> 00:11:38.080
+with a real human, I'm like, "Where she picked 
+it up right out of the gate, which is crazy."  
+
+00:11:38.080 --> 00:11:42.480
+Amazing. I'm not saying that's going to happen 
+every time, but that was super powerful. So,  
+
+00:11:42.480 --> 00:11:49.440
+this simple service alone, you could easily 
+charge $300 to $500 per month per small local  
+
+00:11:49.440 --> 00:11:54.480
+business. And I guarantee you, you have not seen 
+this online because I have not seen anyone else  
+
+00:11:54.480 --> 00:11:59.040
+talking about this. And if I'm wrong, you can 
+just shred me apart in the comments down below,  
+
+00:11:59.040 --> 00:12:03.920
+but I have not seen anyone else. Okay? Now, let 
+me show you guys one other additional service  
+
+00:12:03.920 --> 00:12:07.840
+that let's say somebody's texting out to the 
+business because you might be thinking, "Well,  
+
+00:12:07.840 --> 00:12:12.480
+Jason, not a lot of people call into businesses 
+anymore. A lot of people text businesses." Well,  
+
+00:12:12.480 --> 00:12:19.120
+we can take care of that, too. So, all we're going 
+to do is pop up that same exact software and we're  
+
+00:12:19.120 --> 00:12:24.720
+going to come over here to this conversation AI 
+bot. Okay. So, let me just grab this right here.  
+
+00:12:24.720 --> 00:12:30.800
+Pull on conversation AI. And now what it's going 
+to do is it's going to be able to create an AI bot  
+
+00:12:30.800 --> 00:12:38.320
+that's going to be able to respond to any incoming 
+text message or any Instagram DM, Facebook DM, or  
+
+00:12:38.320 --> 00:12:42.640
+if the small local business has a chat widget, one 
+of those little bubbles in the bottom righthand  
+
+00:12:42.640 --> 00:12:47.760
+corner of their website, be able to respond to 
+all of those messages. And you might be thinking,  
+
+00:12:47.760 --> 00:12:54.160
+well, how is this AI bot going to know enough 
+about the business to be able to respond? Is this  
+
+00:12:54.160 --> 00:12:59.680
+going to take hours and hours of training this 
+AI bot? And the answer is no. If we can copy and  
+
+00:12:59.680 --> 00:13:03.360
+paste, we can make this happen right here. So, 
+what we're going to do is we're just going to  
+
+00:13:03.360 --> 00:13:07.280
+come over. Let's just grab one of these websites 
+right here. So, this Portland Dental right here,  
+
+00:13:07.280 --> 00:13:12.960
+we'll click on this. We'll pop up the website just 
+so I can show you exactly how this works. We're  
+
+00:13:12.960 --> 00:13:20.640
+going to grab this website URL. Come back over 
+here. Go into the bot training. We paste the URL  
+
+00:13:20.640 --> 00:13:26.000
+in here. And then we're going to click get data. 
+And it takes about 20 seconds to scan the entire  
+
+00:13:26.000 --> 00:13:29.360
+website. And I'm not going to do this because 
+this is actually a live account that I like to  
+
+00:13:29.360 --> 00:13:34.000
+use for my own business. So I don't want it to 
+pull in kind of like varying information. But  
+
+00:13:34.000 --> 00:13:38.000
+it's going to scan the entire website. It's 
+going to understand what the services are,  
+
+00:13:38.000 --> 00:13:42.880
+what the price points are, the hours of operation, 
+literally everything about the business. And then  
+
+00:13:42.880 --> 00:13:48.080
+on top of that, most small businesses usually 
+only have like five to six questions that they're  
+
+00:13:48.080 --> 00:13:53.280
+getting all the time. And so if those questions 
+are not answered on the website, you can add them  
+
+00:13:53.280 --> 00:13:58.000
+in this frequently asked question right here. 
+Put in the question, put in the right answer.  
+
+00:13:58.000 --> 00:14:04.800
+And it takes about 10 minutes to train this bot 
+literally one time. And then this is going to add  
+
+00:14:04.800 --> 00:14:09.840
+massive value to these small business owners on 
+a monthly ongoing basis. So they're going to want  
+
+00:14:09.840 --> 00:14:14.400
+to keep paying you for these simple services. And 
+if you're looking at this and be thinking like,  
+
+00:14:14.400 --> 00:14:20.800
+"Well, Jason, if this is so simple for these small 
+business owners to set up, why would they need me?  
+
+00:14:20.800 --> 00:14:25.680
+Why would why wouldn't they just go and set this 
+up for themselves?" Well, one, I guarantee you  
+
+00:14:25.680 --> 00:14:30.560
+they're not watching videos like this on YouTube 
+because this is not how they make their money,  
+
+00:14:30.560 --> 00:14:37.440
+right? And then two, they don't have time to learn 
+about these things and set them up. So, they would  
+
+00:14:37.440 --> 00:14:43.440
+much rather pay somebody else who's willing to 
+one, learn it, and then two, do it so they can  
+
+00:14:43.440 --> 00:14:49.760
+take a lot of these to-do items off of their plate 
+because they're a small business owner. They have  
+
+00:14:49.760 --> 00:14:55.440
+so many things that they're already doing in their 
+business. They don't have time to do this, even as  
+
+00:14:55.440 --> 00:14:58.880
+simple as it might be. And for those of you guys 
+who are questioning whether this is true or not,  
+
+00:14:58.880 --> 00:15:05.520
+I have now worked with over 15,000 small local 
+business owners. And this is true nearly 100%  
+
+00:15:05.520 --> 00:15:10.960
+of the time. All right. So now from here, once we 
+have it trained, we can come over here to this bot  
+
+00:15:10.960 --> 00:15:17.360
+trial and we'll just go through click reset the 
+conversation and we can ask like what services do  
+
+00:15:17.360 --> 00:15:22.720
+you offer? Something like that. And then this is 
+obviously trained on my business. But the AI bot  
+
+00:15:22.720 --> 00:15:26.800
+is going to give a response. And this is just kind 
+of training and give a little trial. But if we  
+
+00:15:26.800 --> 00:15:31.360
+like the response, we click the thumbs up. If we 
+don't like the response, we click thumbs down. And  
+
+00:15:31.360 --> 00:15:36.960
+it pops up a little modal that we can put in the 
+right answer to train the bot. And honestly, you  
+
+00:15:36.960 --> 00:15:43.280
+only have to do this a few times to make sure that 
+the bot is 100% dialed in and responding to every  
+
+00:15:43.280 --> 00:15:49.920
+incoming text, Facebook message, Instagram DM, or 
+even chat widget response. So, I hope you can see  
+
+00:15:49.920 --> 00:15:56.000
+how valuable and cutting edge selling AI to these 
+small local business owners can be. And that for  
+
+00:15:56.000 --> 00:16:02.880
+$300, $500 per month, that is a total no-brainer 
+because typically an assistant, a front desk  
+
+00:16:02.880 --> 00:16:08.080
+secretary, these small businesses are probably 
+going to be paying them like $3,000 per month.  
+
+00:16:08.080 --> 00:16:13.520
+And no, I'm not trying to replace assistants or 
+secretaries. I think there is a need for them. But  
+
+00:16:13.520 --> 00:16:18.400
+if we could take off a lot of the load off their 
+plate so they could focus on helping the small  
+
+00:16:18.400 --> 00:16:22.560
+business owner in other areas of the business 
+because there's always so many things that need  
+
+00:16:22.560 --> 00:16:28.320
+to be done in the business. It would be a massive 
+value ad to these businesses. And then on top of  
+
+00:16:28.320 --> 00:16:34.560
+that, you get to keep the $300 to $500 per month, 
+100% of the profits, and set it up just like I  
+
+00:16:34.560 --> 00:16:40.000
+showed you guys in a simple five to 10 minute 
+setup, one-time setup, but because it continues  
+
+00:16:40.000 --> 00:16:45.040
+to bring the value every single month, they'll 
+continue to pay you every single month. So, this  
+
+00:16:45.040 --> 00:16:50.640
+is monthly recurring revenue, so you don't have 
+to start over from zero at the beginning of every  
+
+00:16:50.640 --> 00:16:56.560
+single month, which honestly is the holy grail 
+to any type of business. So anyway guys, I hope  
+
+00:16:56.560 --> 00:17:01.040
+you like this. If you did, don't forget, smash 
+the like button, subscribe to the channel, drop  
+
+00:17:01.040 --> 00:17:05.840
+a comment down below, and I will share with you 
+the private link to unlock my free step-by-step  
+
+00:17:05.840 --> 00:17:09.920
+course on how to get this all set up, how to 
+get your first clients for free. I have a lot  
+
+00:17:09.920 --> 00:17:14.000
+of different ways to go through and get your first 
+clients, then how to set up everything to fulfill  
+
+00:17:14.000 --> 00:17:19.120
+for those clients, get paid on a monthly basis, 
+plus my website template that you can get set up  
+
+00:17:19.120 --> 00:17:24.720
+in a matter of minutes for your own business, 
+plus the sales scripts. And tomorrow morning,  
+
+00:17:24.720 --> 00:17:31.040
+we're actually holding a free live boot camp on 
+Zoom. We're going to help you get this entire  
+
+00:17:31.040 --> 00:17:36.880
+business setup 100% for free. So, make sure you 
+drop a comment down below so I can get you that  
+
+00:17:36.880 --> 00:17:42.000
+private link so you can jump on that boot camp 
+and get all the other freebies and bonuses for  
+
+00:17:42.000 --> 00:17:46.880
+free. So anyway guys, with that said, thank you so 
+much for watching and I will see you in the next
+

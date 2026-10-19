@@ -1,0 +1,1151 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.260
+Most people are making selling software way harder
+
+00:00:03.260 --> 00:00:04.480
+than it ever needs to be.
+
+00:00:04.480 --> 00:00:07.920
+They're trying to build custom maps, learn how to code,
+
+00:00:07.920 --> 00:00:09.720
+build complicated funnels,
+
+00:00:09.720 --> 00:00:11.880
+or piece together several different apps
+
+00:00:11.880 --> 00:00:13.820
+just to get their first sale.
+
+00:00:13.820 --> 00:00:16.840
+Meanwhile, there is a much simpler model
+
+00:00:16.840 --> 00:00:21.080
+that local business owners are already paying for right now.
+
+00:00:21.080 --> 00:00:22.160
+And in this video, I'm gonna show you
+
+00:00:22.160 --> 00:00:24.000
+the new Go High Level SaaS setup
+
+00:00:24.000 --> 00:00:26.760
+that's helping beginners land clients
+
+00:00:26.760 --> 00:00:30.560
+that are paying $300, even $500 per month,
+
+00:00:30.560 --> 00:00:34.440
+cloning a pre-built existing system
+
+00:00:34.440 --> 00:00:36.680
+that is right here at your fingertips.
+
+00:00:36.680 --> 00:00:38.720
+And the thing I like most about this system
+
+00:00:38.720 --> 00:00:40.920
+is you don't need to have any prior marketing experience.
+
+00:00:40.920 --> 00:00:42.480
+You don't need any crazy tech skills
+
+00:00:42.480 --> 00:00:45.040
+or to be some AI expert to set it up
+
+00:00:45.040 --> 00:00:47.320
+and get it working for your business.
+
+00:00:47.320 --> 00:00:48.880
+Now, before we jump on my computer,
+
+00:00:48.880 --> 00:00:50.480
+and I show you everything step by step,
+
+00:00:50.480 --> 00:00:52.360
+I wanna be fully transparent
+
+00:00:52.360 --> 00:00:54.080
+and let you know that I don't have some
+
+00:00:54.080 --> 00:00:56.080
+high ticket coaching program
+
+00:00:56.080 --> 00:00:57.480
+that I'm just making this video
+
+00:00:57.480 --> 00:00:59.400
+to try to go through and sell you.
+
+00:00:59.400 --> 00:01:01.280
+In fact, if you want all of my courses,
+
+00:01:01.280 --> 00:01:04.200
+template scripts, everything 100% for free,
+
+00:01:04.200 --> 00:01:05.720
+just smash the like button,
+
+00:01:05.720 --> 00:01:07.360
+drop a comment down below,
+
+00:01:07.360 --> 00:01:09.320
+consider sharing this video with a friend
+
+00:01:09.320 --> 00:01:11.000
+who might also find this valuable,
+
+00:01:11.000 --> 00:01:13.000
+and I'll hook you up with a private link to unlock
+
+00:01:13.000 --> 00:01:15.200
+everything 100% for free,
+
+00:01:15.200 --> 00:01:18.320
+plus an extended 30 day free trial
+
+00:01:18.320 --> 00:01:19.520
+to the high level software
+
+00:01:19.520 --> 00:01:21.960
+where you'll also get a 101 kickoff call,
+
+00:01:21.960 --> 00:01:25.480
+completely for free to help you get your business setup
+
+00:01:25.480 --> 00:01:28.480
+and access to my private community
+
+00:01:28.480 --> 00:01:30.000
+where I hold weekly live calls
+
+00:01:30.000 --> 00:01:31.800
+to help you grow your business, right?
+
+00:01:31.800 --> 00:01:33.240
+So now that you've done that,
+
+00:01:33.240 --> 00:01:34.080
+smash the like button,
+
+00:01:34.080 --> 00:01:37.080
+drop the comment down below to get all that 100% for free.
+
+00:01:37.080 --> 00:01:38.640
+Let me jump onto my computer
+
+00:01:38.640 --> 00:01:41.120
+so I can show you everything step by step.
+
+00:01:41.120 --> 00:01:45.680
+So this business model is called SAS or software as a service.
+
+00:01:45.680 --> 00:01:48.120
+So now we're selling software as a service
+
+00:01:48.120 --> 00:01:50.720
+as opposed to your time as a service.
+
+00:01:50.720 --> 00:01:52.240
+So think about Netflix,
+
+00:01:52.240 --> 00:01:55.720
+your pain for software or access to content
+
+00:01:55.720 --> 00:01:57.480
+that you pay every single month,
+
+00:01:57.480 --> 00:02:00.040
+so they're able to generate monthly recurring revenue,
+
+00:02:00.040 --> 00:02:02.520
+but the nice thing for Netflix is even if they bring on
+
+00:02:02.520 --> 00:02:05.960
+100 people, 1000 or even a million people,
+
+00:02:05.960 --> 00:02:08.040
+the amount of work for fulfillment
+
+00:02:08.040 --> 00:02:10.120
+doesn't really increase.
+
+00:02:10.120 --> 00:02:12.200
+So the cool thing about this whole software
+
+00:02:12.200 --> 00:02:13.400
+is a service model.
+
+00:02:13.400 --> 00:02:15.760
+As you're able to create monthly recurring income,
+
+00:02:15.760 --> 00:02:17.240
+it's leverage fulfillment
+
+00:02:17.240 --> 00:02:19.600
+just like I explained with the Netflix model.
+
+00:02:19.600 --> 00:02:21.240
+It has high profit margins
+
+00:02:21.240 --> 00:02:25.080
+because they get one person or 100 or thousands of people,
+
+00:02:25.080 --> 00:02:28.000
+it literally is going to cost you the same amount.
+
+00:02:28.000 --> 00:02:29.480
+And there are no revenue splits.
+
+00:02:29.480 --> 00:02:31.440
+So this is not some type of affiliate model
+
+00:02:31.440 --> 00:02:34.160
+or Amazon FBA or a large part of your profit margin
+
+00:02:34.160 --> 00:02:36.120
+is actually going towards Amazon.
+
+00:02:36.120 --> 00:02:38.160
+It's an easier sales process
+
+00:02:38.160 --> 00:02:40.240
+and there's no shipping warehouse
+
+00:02:40.240 --> 00:02:42.120
+and you're getting that mess that you have to deal with.
+
+00:02:42.120 --> 00:02:43.440
+There's no product creation
+
+00:02:43.440 --> 00:02:45.120
+because the product is already prebuilt,
+
+00:02:45.120 --> 00:02:46.480
+pre-created for you.
+
+00:02:46.480 --> 00:02:48.600
+And I'm going to show you guys that here in just a second.
+
+00:02:48.600 --> 00:02:50.760
+So even if you have no text skills,
+
+00:02:50.760 --> 00:02:51.840
+you don't know how to code.
+
+00:02:51.840 --> 00:02:53.240
+I don't know how to code.
+
+00:02:53.240 --> 00:02:54.680
+But I'm going to show you how to get this set up
+
+00:02:54.680 --> 00:02:56.080
+in a matter of a few minutes,
+
+00:02:56.080 --> 00:02:58.400
+even if you are a total beginner.
+
+00:02:58.400 --> 00:03:00.920
+And on top of that, there is no trial and error
+
+00:03:00.920 --> 00:03:03.680
+because this software has already been proven
+
+00:03:03.680 --> 00:03:05.640
+and the exact features have been proven
+
+00:03:05.640 --> 00:03:07.120
+at the exact price points
+
+00:03:07.120 --> 00:03:09.480
+that I'm going to share with you on today's video.
+
+00:03:09.480 --> 00:03:11.640
+So now that you can see this massive upside,
+
+00:03:11.640 --> 00:03:14.120
+let me jump in and show you guys exactly
+
+00:03:14.120 --> 00:03:16.120
+how we're going to go through and make this happen.
+
+00:03:16.120 --> 00:03:18.080
+What we're going to do here is we're going to take a software
+
+00:03:18.080 --> 00:03:19.960
+that's already pre-built, pre-coded
+
+00:03:19.960 --> 00:03:21.360
+and we're just going to white label it,
+
+00:03:21.360 --> 00:03:23.200
+meaning that we put our own logo,
+
+00:03:23.200 --> 00:03:24.920
+connect our own domain up here
+
+00:03:24.920 --> 00:03:27.200
+and connect our own payment processor
+
+00:03:27.200 --> 00:03:30.360
+so that you can keep 100% of your payments
+
+00:03:30.360 --> 00:03:32.640
+and you can set whatever price points
+
+00:03:32.640 --> 00:03:34.040
+that you want right here.
+
+00:03:34.040 --> 00:03:37.480
+Now, this software in particular is perfect for selling
+
+00:03:37.480 --> 00:03:40.400
+to small local business owners.
+
+00:03:40.400 --> 00:03:42.240
+So what we're going to do is we're going to help them
+
+00:03:42.240 --> 00:03:44.800
+with their marketing and getting more clients.
+
+00:03:44.800 --> 00:03:46.120
+And if you're looking at this and thinking,
+
+00:03:46.120 --> 00:03:48.240
+well, Jason, I don't know how to market.
+
+00:03:48.240 --> 00:03:49.560
+I don't know how to get more clients.
+
+00:03:49.560 --> 00:03:52.680
+Well, that is what my free step-by-step course is for
+
+00:03:52.680 --> 00:03:55.840
+with the templates, the scripts, everything from A to Z
+
+00:03:55.840 --> 00:03:58.040
+to knowing what to say on the sales call,
+
+00:03:58.040 --> 00:04:01.440
+plus how to actually set up a client to get them results
+
+00:04:01.440 --> 00:04:04.520
+so they'll continue to pay you on a monthly ongoing basis.
+
+00:04:04.520 --> 00:04:06.840
+And on top of that, inside of that free course,
+
+00:04:06.840 --> 00:04:10.120
+I'll also hook you up with this professionally designed,
+
+00:04:10.120 --> 00:04:13.000
+pre-built website that you can just come in here,
+
+00:04:13.000 --> 00:04:16.720
+clone it, put in your own logo, connect your own domain.
+
+00:04:16.720 --> 00:04:19.240
+And if you're wondering like, what price points should I charge,
+
+00:04:19.240 --> 00:04:21.840
+what should I offer for those different price points?
+
+00:04:21.840 --> 00:04:23.840
+I've already got all that set up for you as well.
+
+00:04:23.840 --> 00:04:26.240
+If we just click on pricing right here,
+
+00:04:26.240 --> 00:04:28.440
+we have all the different pricing plans.
+
+00:04:28.440 --> 00:04:31.400
+Plus, what services you would want to offer
+
+00:04:31.400 --> 00:04:33.280
+to these small local business owners?
+
+00:04:33.280 --> 00:04:34.960
+And when I say small local business owners,
+
+00:04:34.960 --> 00:04:37.800
+we're talking any type of small local business,
+
+00:04:37.800 --> 00:04:41.080
+a plumber, an electrician, a dentist, orthodontist,
+
+00:04:41.080 --> 00:04:44.200
+massage therapist, a restaurant owner, a gym owner,
+
+00:04:44.200 --> 00:04:47.880
+it doesn't really matter because all of these simple services
+
+00:04:47.880 --> 00:04:50.920
+will benefit these business owners greatly.
+
+00:04:50.920 --> 00:04:54.360
+So now that we've gone through and cloned this exact website,
+
+00:04:54.360 --> 00:04:58.680
+and we've gone over here and we've cloned this exact software
+
+00:04:58.680 --> 00:05:00.680
+and set all of our different price points,
+
+00:05:00.680 --> 00:05:03.640
+I just want to give you a sneak peek at some of the different things
+
+00:05:03.640 --> 00:05:06.960
+that this software can do because this software can literally do
+
+00:05:06.960 --> 00:05:10.080
+everything that a small business owner might need.
+
+00:05:10.080 --> 00:05:12.040
+So if we come up here and click on this,
+
+00:05:12.040 --> 00:05:13.520
+this is going to be able to kick us into
+
+00:05:13.520 --> 00:05:15.680
+what would be one of the client accounts.
+
+00:05:15.680 --> 00:05:17.520
+So like for example, this would be an account
+
+00:05:17.520 --> 00:05:19.680
+where you would manage your entire business,
+
+00:05:19.680 --> 00:05:23.120
+your website, your emails, your contacts, everything.
+
+00:05:23.120 --> 00:05:26.480
+And then let's just say for this example, this is a client.
+
+00:05:26.480 --> 00:05:27.800
+This is obviously a demo account,
+
+00:05:27.800 --> 00:05:29.840
+but let's say this is a massage therapist.
+
+00:05:29.840 --> 00:05:31.960
+So we come over here, we click on this,
+
+00:05:31.960 --> 00:05:34.440
+and it's going to kick us into their account
+
+00:05:34.440 --> 00:05:36.440
+where we can give them access,
+
+00:05:36.440 --> 00:05:38.880
+but then we also can have access to go through
+
+00:05:38.880 --> 00:05:41.360
+and help them and manage anything if they need help.
+
+00:05:41.360 --> 00:05:45.960
+And remember, we are selling software as a service.
+
+00:05:45.960 --> 00:05:49.480
+So we are setting them up with simple marketing systems
+
+00:05:49.480 --> 00:05:51.800
+and solutions that we set up once.
+
+00:05:51.800 --> 00:05:54.920
+They take about 10 to 15 minutes to go through and set up,
+
+00:05:54.920 --> 00:05:56.960
+but they're going to continually add value
+
+00:05:56.960 --> 00:05:59.040
+on a monthly ongoing basis.
+
+00:05:59.040 --> 00:06:00.400
+Think about Netflix.
+
+00:06:00.400 --> 00:06:03.920
+You sign up once, you go through and select what your interests are,
+
+00:06:03.920 --> 00:06:05.360
+get your accounts set up the right way.
+
+00:06:05.360 --> 00:06:08.160
+But then from there on out, Netflix will just suggest
+
+00:06:08.160 --> 00:06:11.800
+different TV shows and movies based on your past viewing
+
+00:06:11.800 --> 00:06:13.240
+and based on your past interests.
+
+00:06:13.240 --> 00:06:14.960
+So that's some of the simple things that we're going to do
+
+00:06:14.960 --> 00:06:16.280
+for our clients as well.
+
+00:06:16.280 --> 00:06:18.400
+And we have this cool launch pad over here,
+
+00:06:18.400 --> 00:06:20.440
+where it's going to take us step by step
+
+00:06:20.440 --> 00:06:23.640
+to help us get everything set up for this business.
+
+00:06:23.640 --> 00:06:25.800
+Now, one thing that every business owner needs,
+
+00:06:25.800 --> 00:06:29.120
+no matter what type of business they're in, is a website.
+
+00:06:29.120 --> 00:06:31.240
+So if we come over here and click on websites
+
+00:06:31.240 --> 00:06:32.840
+and click up here on websites,
+
+00:06:32.840 --> 00:06:36.200
+what we can do is we can create a new website
+
+00:06:36.200 --> 00:06:40.600
+and select from thousands of pre-built templates
+
+00:06:40.600 --> 00:06:42.800
+that are already done and all we have to do
+
+00:06:42.800 --> 00:06:44.840
+is customize a bit of personal information
+
+00:06:44.880 --> 00:06:46.480
+like the phone number, the email address,
+
+00:06:46.480 --> 00:06:49.240
+maybe the physical address, what hours are open.
+
+00:06:49.240 --> 00:06:52.760
+And other than that, the website template is 100%
+
+00:06:52.760 --> 00:06:54.800
+done for the business owner.
+
+00:06:54.800 --> 00:06:57.760
+So if you have a business that doesn't have a website,
+
+00:06:57.760 --> 00:07:00.280
+you can go through and create a free website for them.
+
+00:07:00.280 --> 00:07:01.800
+And then they will continue to pay you
+
+00:07:01.800 --> 00:07:05.600
+on a monthly ongoing basis for access to that website.
+
+00:07:05.600 --> 00:07:07.720
+Or if they already have a website,
+
+00:07:07.720 --> 00:07:09.840
+a lot of business owners don't have that great
+
+00:07:09.840 --> 00:07:11.040
+of looking websites.
+
+00:07:11.040 --> 00:07:14.080
+So you can go through and create from these templates,
+
+00:07:14.080 --> 00:07:16.840
+a beautifully designed, professionally designed
+
+00:07:16.840 --> 00:07:18.760
+new website for the business.
+
+00:07:18.760 --> 00:07:20.560
+So for this example, let's come down here
+
+00:07:20.560 --> 00:07:23.200
+and let's maybe choose the health and wellness space.
+
+00:07:23.200 --> 00:07:25.480
+And it's gonna pop up all these different websites
+
+00:07:25.480 --> 00:07:27.760
+who've got a few yoga ones, more like a gym.
+
+00:07:27.760 --> 00:07:30.000
+So let's just choose this very first one right here.
+
+00:07:30.000 --> 00:07:31.160
+We select that.
+
+00:07:31.160 --> 00:07:32.800
+It gives us a little bit of a preview
+
+00:07:32.800 --> 00:07:34.080
+of what this looks like.
+
+00:07:34.080 --> 00:07:35.040
+This looks great.
+
+00:07:35.040 --> 00:07:36.920
+So I'm just gonna click on continue.
+
+00:07:36.920 --> 00:07:38.560
+And what it's doing now is just automatically
+
+00:07:38.560 --> 00:07:39.640
+creating the website template.
+
+00:07:39.640 --> 00:07:41.680
+It's important to the count so we can go through
+
+00:07:41.680 --> 00:07:44.800
+and customize everything for the small business owner.
+
+00:07:44.800 --> 00:07:47.640
+So what this did was it kicked us right into the website builder.
+
+00:07:47.640 --> 00:07:48.520
+So if we come up here,
+
+00:07:48.520 --> 00:07:50.480
+if we wanted to switch out any of the information,
+
+00:07:50.480 --> 00:07:54.440
+we could just say 888-555-1234.
+
+00:07:54.440 --> 00:07:56.360
+If we don't like the color, we want to change it out.
+
+00:07:56.360 --> 00:07:58.440
+I'm just gonna move my header really quick right here.
+
+00:07:58.440 --> 00:08:01.000
+We'll come over to this little section
+
+00:08:01.000 --> 00:08:03.600
+and we'll say we want the color to be white.
+
+00:08:03.600 --> 00:08:05.600
+And it's super easy to go through
+
+00:08:05.600 --> 00:08:10.400
+and customize this entire website to the business owner.
+
+00:08:10.400 --> 00:08:13.120
+However, you can see a lot of this is already done
+
+00:08:13.120 --> 00:08:15.800
+with the pictures, with everything that you'll need
+
+00:08:15.800 --> 00:08:18.080
+for a really nice looking website.
+
+00:08:18.080 --> 00:08:20.480
+And then from here, all we're gonna do is click on save.
+
+00:08:20.480 --> 00:08:21.760
+And then once we're ready, we can go through
+
+00:08:21.760 --> 00:08:22.600
+and click publish.
+
+00:08:22.600 --> 00:08:24.560
+So it's ready to go for the business owner.
+
+00:08:24.560 --> 00:08:26.960
+And then one thing that I like to do
+
+00:08:26.960 --> 00:08:29.200
+is if you pull up this website,
+
+00:08:29.200 --> 00:08:32.360
+typical websites will convert less than 1%
+
+00:08:32.360 --> 00:08:36.560
+of people visiting the website into actual leads.
+
+00:08:36.560 --> 00:08:38.680
+And most businesses, they want leads.
+
+00:08:38.680 --> 00:08:39.680
+They want prospects.
+
+00:08:39.760 --> 00:08:41.000
+They want people interested
+
+00:08:41.000 --> 00:08:42.640
+and they want their contact information
+
+00:08:42.640 --> 00:08:44.240
+so they can follow up with them.
+
+00:08:44.240 --> 00:08:46.160
+So one simple thing that I like to do
+
+00:08:46.160 --> 00:08:47.960
+for all these small businesses,
+
+00:08:47.960 --> 00:08:51.080
+which this pre-built software makes it so easy
+
+00:08:51.080 --> 00:08:52.640
+to go through and make this happen,
+
+00:08:52.640 --> 00:08:55.240
+is we're just gonna click over here on settings
+
+00:08:55.240 --> 00:08:57.080
+and we're gonna scroll down
+
+00:08:57.080 --> 00:08:59.840
+and we're just gonna toggle on this chat widget.
+
+00:08:59.840 --> 00:09:01.640
+And I'm gonna show you exactly what that is here
+
+00:09:01.640 --> 00:09:02.760
+in just a second.
+
+00:09:02.760 --> 00:09:04.840
+So if we toggle that on and click save,
+
+00:09:04.840 --> 00:09:07.360
+we're now gonna pull this website back up
+
+00:09:07.520 --> 00:09:09.600
+and it's gonna add a little chat widget
+
+00:09:09.600 --> 00:09:11.800
+down in the bottom right hand corner.
+
+00:09:11.800 --> 00:09:13.880
+When someone's coming to this website,
+
+00:09:13.880 --> 00:09:15.120
+they're gonna be able to go through
+
+00:09:15.120 --> 00:09:17.000
+and chat with the business owner
+
+00:09:17.000 --> 00:09:19.880
+and ask any questions right here.
+
+00:09:19.880 --> 00:09:22.240
+Which this increases the conversion rate
+
+00:09:22.240 --> 00:09:24.240
+of a website dramatically.
+
+00:09:24.240 --> 00:09:26.480
+So the business owner is able to get more leads
+
+00:09:26.480 --> 00:09:28.960
+and actually communicate with them via text.
+
+00:09:28.960 --> 00:09:31.520
+And then one other simple thing that I like to do
+
+00:09:31.520 --> 00:09:35.320
+that is so cool, leveraging AI to communicate
+
+00:09:35.320 --> 00:09:37.280
+and connect with anyone that is reaching out
+
+00:09:37.280 --> 00:09:41.440
+to the small business owner is turn on a simple service.
+
+00:09:41.440 --> 00:09:42.680
+We'll just come over here and I'm gonna show you
+
+00:09:42.680 --> 00:09:46.920
+exactly how to do that called Conversation AI.
+
+00:09:46.920 --> 00:09:48.440
+And so what we're gonna do is we're gonna have this
+
+00:09:48.440 --> 00:09:51.400
+on autopilot and this is gonna be the supported channels.
+
+00:09:51.400 --> 00:09:55.400
+We've got SMS, Instagram, Facebook, chat widget, live chat.
+
+00:09:55.400 --> 00:09:57.600
+So let me explain to you what this is.
+
+00:09:57.600 --> 00:10:01.600
+So what this is is if somebody texts into the business owner
+
+00:10:01.600 --> 00:10:04.360
+or they send an Instagram DM of Facebook DM
+
+00:10:04.360 --> 00:10:06.320
+or reaches out on that chat widget
+
+00:10:06.320 --> 00:10:08.400
+or even a live chat, we're able to go through
+
+00:10:08.400 --> 00:10:12.960
+and have an AI chat bot respond to every single one
+
+00:10:12.960 --> 00:10:16.640
+of the questions that the person is asking.
+
+00:10:16.640 --> 00:10:18.880
+And you might be thinking, well, how does the AI bot
+
+00:10:18.880 --> 00:10:21.280
+know exactly how to respond
+
+00:10:21.280 --> 00:10:24.000
+and how do they know what the right answers are?
+
+00:10:24.000 --> 00:10:25.960
+Well, the cool thing about this is we come over here
+
+00:10:25.960 --> 00:10:30.640
+to this bot training and all we do is we just take this URL.
+
+00:10:30.640 --> 00:10:33.400
+And obviously this is just a demo URL for this video.
+
+00:10:33.400 --> 00:10:37.160
+But we would just copy that and we would pace it right in here
+
+00:10:37.160 --> 00:10:39.560
+and we would click on Git Data.
+
+00:10:39.560 --> 00:10:41.720
+And now what it's doing is fetching all the pages
+
+00:10:41.720 --> 00:10:44.320
+and scanning every page in the entire website
+
+00:10:44.320 --> 00:10:46.160
+is seeing what services they offer.
+
+00:10:46.160 --> 00:10:48.440
+It shows what hours are open and all the other
+
+00:10:48.440 --> 00:10:50.720
+different information about the business.
+
+00:10:50.720 --> 00:10:53.320
+So now the AI bot can be fully trained
+
+00:10:53.320 --> 00:10:55.240
+on how the businesses run.
+
+00:10:55.240 --> 00:10:58.760
+And in my experience, typically most small local business owners
+
+00:10:58.760 --> 00:11:00.640
+only have about five to six questions
+
+00:11:00.640 --> 00:11:04.240
+that they get asked all the time over and over again.
+
+00:11:04.240 --> 00:11:05.920
+So we can go through and we can add these
+
+00:11:05.920 --> 00:11:07.920
+frequently asked questions right here
+
+00:11:07.920 --> 00:11:10.720
+and type in the question and then type in the answer
+
+00:11:10.720 --> 00:11:11.880
+for the business owner.
+
+00:11:11.880 --> 00:11:13.280
+And then once that's all done,
+
+00:11:13.280 --> 00:11:15.160
+we come over here to the bot trial
+
+00:11:15.160 --> 00:11:18.320
+and we ask, we'll just hit reset conversation right here.
+
+00:11:18.320 --> 00:11:19.920
+We just ask a question.
+
+00:11:19.920 --> 00:11:23.200
+So we'd say what services do you offer?
+
+00:11:23.200 --> 00:11:25.280
+Now, I didn't let it scan the entire website
+
+00:11:25.280 --> 00:11:26.640
+because it normally takes about a minute or two,
+
+00:11:26.640 --> 00:11:27.880
+but this is a demo account.
+
+00:11:27.960 --> 00:11:30.720
+So this is from another website that we went in and scan.
+
+00:11:30.720 --> 00:11:32.800
+And so this was a plumbing website.
+
+00:11:32.800 --> 00:11:36.480
+And so if we like the answer, we just give it a thumbs up,
+
+00:11:36.480 --> 00:11:38.040
+but if it's not the right answer,
+
+00:11:38.040 --> 00:11:39.600
+we just give it a thumbs down
+
+00:11:39.600 --> 00:11:42.400
+and we can correct the answer and say train bot.
+
+00:11:42.400 --> 00:11:44.640
+And so we can go through and once we've scanned
+
+00:11:44.640 --> 00:11:47.960
+the entire website, added the frequently asked questions,
+
+00:11:47.960 --> 00:11:50.600
+we can go and train this or test it out
+
+00:11:50.600 --> 00:11:53.160
+and see if it's giving the right answers that we want.
+
+00:11:53.160 --> 00:11:56.320
+And then on top of that, a lot of business owners
+
+00:11:56.320 --> 00:11:58.960
+like people just be directed to book an appointment
+
+00:11:58.960 --> 00:12:02.000
+on their calendar so they can set up an appointment
+
+00:12:02.000 --> 00:12:05.080
+and talk with that person and let them know about their services.
+
+00:12:05.080 --> 00:12:08.200
+So what we can do here is add an appointment booking app.
+
+00:12:08.200 --> 00:12:11.080
+We just click enable and we select a calendar right there
+
+00:12:11.080 --> 00:12:14.280
+and say, hey, when someone reaches out to this AI bot,
+
+00:12:14.280 --> 00:12:16.680
+via text, face message, or Instagram DMs
+
+00:12:16.680 --> 00:12:19.920
+or the live chat widget, I just want AI
+
+00:12:19.920 --> 00:12:23.160
+to ask a few questions, understand the situation,
+
+00:12:23.160 --> 00:12:24.920
+but then send them to book an appointment
+
+00:12:24.920 --> 00:12:26.840
+on the calendar right here.
+
+00:12:26.840 --> 00:12:29.080
+And the cool thing about this software guys
+
+00:12:29.080 --> 00:12:33.280
+is there are so many other features that this offers.
+
+00:12:33.280 --> 00:12:35.560
+Literally anything that would help you with marketing
+
+00:12:35.560 --> 00:12:39.680
+and sales for a small business, this software can do.
+
+00:12:39.680 --> 00:12:42.360
+But I usually like to just focus on like one or two
+
+00:12:42.360 --> 00:12:44.720
+very simple things that are really gonna move
+
+00:12:44.720 --> 00:12:47.840
+the needle for a business owner, like a website,
+
+00:12:47.840 --> 00:12:51.560
+like a little chat widget and this conversation AI bot
+
+00:12:51.560 --> 00:12:54.360
+to help them book more appointments on their calendar.
+
+00:12:54.360 --> 00:12:55.600
+And I like those things as well
+
+00:12:55.600 --> 00:12:57.120
+because there are one time setup,
+
+00:12:57.120 --> 00:13:00.120
+takes about 10 to 15 minutes to set up once,
+
+00:13:00.120 --> 00:13:02.400
+but they're gonna continually add value
+
+00:13:02.400 --> 00:13:05.160
+to the small business owner, month in and month out.
+
+00:13:05.160 --> 00:13:07.160
+So they're gonna continue to want to pay you.
+
+00:13:07.160 --> 00:13:09.360
+And then from there, if you wanna go and add
+
+00:13:09.360 --> 00:13:11.640
+other additional services on top of that,
+
+00:13:11.640 --> 00:13:14.920
+you can charge a higher price point and upsell
+
+00:13:14.920 --> 00:13:17.360
+that one customer so that you can ultimately
+
+00:13:17.360 --> 00:13:20.240
+make more money from that one client.
+
+00:13:20.240 --> 00:13:22.840
+So I hope you can see how this business model right here
+
+00:13:22.840 --> 00:13:26.320
+is completely taking over the internet right now.
+
+00:13:26.320 --> 00:13:28.400
+It's because it allows you to create monthly recurring
+
+00:13:28.400 --> 00:13:31.200
+revenue plus some internal upsells
+
+00:13:31.200 --> 00:13:33.640
+without needing to know how to create a product,
+
+00:13:33.640 --> 00:13:36.080
+any marketing experience, no crazy text skills,
+
+00:13:36.080 --> 00:13:37.840
+and it's actually free to get started.
+
+00:13:37.840 --> 00:13:40.560
+Cause like I said, I'm not trying to sell you a course.
+
+00:13:40.560 --> 00:13:43.320
+I'm not trying to sell you some high ticket coaching program.
+
+00:13:43.320 --> 00:13:46.480
+I actually give you all of my courses, templates,
+
+00:13:46.480 --> 00:13:49.840
+scripts, everything 100% for free.
+
+00:13:49.840 --> 00:13:52.800
+And then on top of that, inside my free course,
+
+00:13:52.800 --> 00:13:55.200
+this software that you can go through in white label,
+
+00:13:55.200 --> 00:13:58.120
+there's normally a 14 day free trial to white label it.
+
+00:13:58.120 --> 00:14:01.480
+However, I am friends with the co-founders of this company.
+
+00:14:01.480 --> 00:14:05.480
+So I was able to negotiate a 30 day extended free trial
+
+00:14:05.480 --> 00:14:07.760
+for you when you go in and get started
+
+00:14:07.760 --> 00:14:10.920
+with the link to the software inside of the free course.
+
+00:14:10.920 --> 00:14:12.760
+And not only did I hook you guys up
+
+00:14:12.760 --> 00:14:15.200
+with a 30 day extended free trial,
+
+00:14:15.200 --> 00:14:19.440
+but I also got them to agree to have a member of other team
+
+00:14:19.440 --> 00:14:22.840
+jump on a live boot camp with you
+
+00:14:22.840 --> 00:14:25.720
+to be able to help you get your business set up entirely
+
+00:14:25.720 --> 00:14:28.960
+from A to Z in about 45 minutes.
+
+00:14:28.960 --> 00:14:30.520
+Then after the business is set up,
+
+00:14:30.520 --> 00:14:33.480
+you can even jump on a one on one kickoff call
+
+00:14:33.480 --> 00:14:36.960
+to make sure that the business is set up the right way.
+
+00:14:36.960 --> 00:14:39.280
+So you literally have all the tools that you need
+
+00:14:39.280 --> 00:14:41.520
+to get started right in front of you.
+
+00:14:41.520 --> 00:14:43.080
+And it's 100% for free.
+
+00:14:43.080 --> 00:14:45.400
+And even if you are a total beginner,
+
+00:14:45.400 --> 00:14:48.000
+this is the perfect business model to jump in
+
+00:14:48.000 --> 00:14:48.960
+and get started.
+
+00:14:48.960 --> 00:14:50.960
+So you can make monthly recurring revenue
+
+00:14:50.960 --> 00:14:53.840
+and don't have to start over at zero
+
+00:14:53.840 --> 00:14:55.680
+at the beginning of every single month.
+
+00:14:55.680 --> 00:14:57.200
+So anyway, I hope this video was helpful.
+
+00:14:57.200 --> 00:14:58.760
+If it was, go ahead, smash like button,
+
+00:14:58.760 --> 00:15:00.400
+consider subscribing to the channel
+
+00:15:00.400 --> 00:15:01.760
+and drop a comment down below.
+
+00:15:01.760 --> 00:15:03.600
+And I'll hook you up with that private link
+
+00:15:03.600 --> 00:15:06.000
+with the free course, the templates, the scripts
+
+00:15:06.000 --> 00:15:08.760
+and the extended 30 day free trial to the software,
+
+00:15:08.760 --> 00:15:12.080
+everything that you need to get a massive jump start
+
+00:15:12.080 --> 00:15:13.240
+with this new business.
+
+00:15:13.240 --> 00:15:15.360
+So with that said, thanks so much for watching
+
+00:15:15.360 --> 00:15:17.160
+and I'll see you in the next video.
+

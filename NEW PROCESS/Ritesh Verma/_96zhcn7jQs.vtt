@@ -1,0 +1,1793 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:03.840
+If you're using Claude but not using
+
+00:00:01.520 --> 00:00:05.759
+Grockbot, you're operating at only 30%
+
+00:00:03.840 --> 00:00:07.759
+of your potential. I have been using
+
+00:00:05.759 --> 00:00:09.519
+strictly Claw since February of this
+
+00:00:07.759 --> 00:00:12.080
+year, but that has changed over the last
+
+00:00:09.519 --> 00:00:13.920
+45 days and it has made my business
+
+00:00:12.080 --> 00:00:16.560
+explode in income. In fact, [music] I
+
+00:00:13.920 --> 00:00:18.560
+made $61,000 in the last 30 days while
+
+00:00:16.560 --> 00:00:20.080
+working less, traveling across four
+
+00:00:18.560 --> 00:00:21.680
+different countries, all while my
+
+00:00:20.080 --> 00:00:23.680
+business is being run by my Claude and
+
+00:00:21.680 --> 00:00:25.199
+Grockbot system. So to make your life
+
+00:00:23.680 --> 00:00:26.855
+easier, I'm going to show you how to use
+
+00:00:25.199 --> 00:00:28.160
+Claude and Grockbot to manage your
+
+00:00:26.855 --> 00:00:30.320
+[music] employees and task, create
+
+00:00:28.160 --> 00:00:32.239
+content, acquire clients, and scale
+
+00:00:30.320 --> 00:00:34.399
+endlessly. This is going to blow your
+
+00:00:32.239 --> 00:00:36.239
+mind entirely. Now, before we start with
+
+00:00:34.399 --> 00:00:37.920
+using Cloud and Grockbot to manage your
+
+00:00:36.239 --> 00:00:39.600
+employees and task, you have to
+
+00:00:37.920 --> 00:00:41.760
+understand the architecture behind why
+
+00:00:39.600 --> 00:00:43.840
+these two AI tools even work together.
+
+00:00:41.760 --> 00:00:45.520
+Well, Claude has insane processing
+
+00:00:43.840 --> 00:00:47.120
+power. It can think through complex
+
+00:00:45.520 --> 00:00:49.200
+strategy, break down messy business
+
+00:00:47.120 --> 00:00:50.960
+problems, write clear systems, and map
+
+00:00:49.200 --> 00:00:52.960
+out the highest leverage moves for your
+
+00:00:50.960 --> 00:00:55.039
+business. [music] But Grockbot has its
+
+00:00:52.960 --> 00:00:56.719
+own personal computer and a team of AI
+
+00:00:55.039 --> 00:00:58.960
+employees that work right outside the
+
+00:00:56.719 --> 00:01:00.480
+box with a minimal setup. That means it
+
+00:00:58.960 --> 00:01:02.480
+can actually operate inside your
+
+00:01:00.480 --> 00:01:04.640
+business, manage tasks, organize
+
+00:01:02.480 --> 00:01:06.560
+workflows, check information, and act
+
+00:01:04.640 --> 00:01:09.119
+more like a digital employee instead of
+
+00:01:06.560 --> 00:01:10.640
+a chatbot that relies on APIs. So, Claw
+
+00:01:09.119 --> 00:01:12.479
+becomes the brain that designs the
+
+00:01:10.640 --> 00:01:14.240
+system, and Grockbot becomes an operator
+
+00:01:12.479 --> 00:01:16.400
+that runs it entirely. So, let me show
+
+00:01:14.240 --> 00:01:18.080
+you the magic live. So the first part of
+
+00:01:16.400 --> 00:01:21.520
+managing employees and tasks will
+
+00:01:18.080 --> 00:01:24.000
+require us to write a prompt in claude
+
+00:01:21.520 --> 00:01:26.000
+for understanding which employees we
+
+00:01:24.000 --> 00:01:28.080
+need to create the key task for each
+
+00:01:26.000 --> 00:01:30.400
+employee and the ideal number of heads
+
+00:01:28.080 --> 00:01:32.560
+for management because inside of gro we
+
+00:01:30.400 --> 00:01:34.880
+create multiple AI employees we want to
+
+00:01:32.560 --> 00:01:37.040
+make sure that we have managers and
+
+00:01:34.880 --> 00:01:39.360
+actual employees. Now with that being
+
+00:01:37.040 --> 00:01:41.920
+said whatever the answer is we're going
+
+00:01:39.360 --> 00:01:43.840
+to feed that answer to a grobbot COO.
+
+00:01:41.920 --> 00:01:46.799
+We'll be creating the COO first. that
+
+00:01:43.840 --> 00:01:48.560
+COO we ought to create sub employees and
+
+00:01:46.799 --> 00:01:52.000
+all the task management will have the
+
+00:01:48.560 --> 00:01:53.600
+COO do unless he decides by itself to
+
+00:01:52.000 --> 00:01:56.320
+delegate these tasks to a manager and
+
+00:01:53.600 --> 00:01:57.520
+your CEO can be a girl. I just gave it a
+
+00:01:56.320 --> 00:02:01.280
+male [music] pronoun. So here we are
+
+00:01:57.520 --> 00:02:04.960
+into clause what I will say is based on
+
+00:02:01.280 --> 00:02:07.200
+what you know about my business agent
+
+00:02:04.960 --> 00:02:09.759
+rise which my AI consulting company here
+
+00:02:07.200 --> 00:02:11.680
+is the prompt. So this is my consulting
+
+00:02:09.759 --> 00:02:14.000
+company agent rise and I told it to
+
+00:02:11.680 --> 00:02:16.319
+write a prompt that will essentially
+
+00:02:14.000 --> 00:02:17.920
+have my Grockbot COO create managers
+
+00:02:16.319 --> 00:02:20.000
+employees responsibilities for each
+
+00:02:17.920 --> 00:02:21.760
+employee. Key tasks need to be done and
+
+00:02:20.000 --> 00:02:23.360
+you want to give a purpose. So the
+
+00:02:21.760 --> 00:02:24.959
+purpose of this is to have my own team
+
+00:02:23.360 --> 00:02:28.160
+of employees and managers that will help
+
+00:02:24.959 --> 00:02:30.319
+me run, grow and scale my company. Make
+
+00:02:28.160 --> 00:02:32.080
+sure you include all three right here.
+
+00:02:30.319 --> 00:02:34.080
+And I listed the departments we will be
+
+00:02:32.080 --> 00:02:35.840
+showing in this video. So sales, client
+
+00:02:34.080 --> 00:02:37.760
+acquisition, content marketing and just
+
+00:02:35.840 --> 00:02:39.599
+general scaling. Go ahead and fire that
+
+00:02:37.760 --> 00:02:42.080
+out. I'm using Fable 5.1 medium for
+
+00:02:39.599 --> 00:02:43.920
+this. And whatever prompt we get, we'll
+
+00:02:42.080 --> 00:02:45.200
+then feed into our Grock by COO. So
+
+00:02:43.920 --> 00:02:47.680
+here's a prompt Claude has come back
+
+00:02:45.200 --> 00:02:50.239
+with. You can see agent COO or builder
+
+00:02:47.680 --> 00:02:52.879
+prompt is giving the exact row to the
+
+00:02:50.239 --> 00:02:55.840
+COO and saying, you know, who I am, what
+
+00:02:52.879 --> 00:02:58.080
+agent is giving just a deep brief of my
+
+00:02:55.840 --> 00:02:59.840
+program. I like how it's listing out all
+
+00:02:58.080 --> 00:03:01.680
+the different departments about my
+
+00:02:59.840 --> 00:03:03.200
+business and it's essentially saying,
+
+00:03:01.680 --> 00:03:04.720
+look, these are the key parts of the
+
+00:03:03.200 --> 00:03:07.200
+infrastructure. We need employees to
+
+00:03:04.720 --> 00:03:08.879
+handle all this. See current numbers.
+
+00:03:07.200 --> 00:03:11.360
+Now this stuff that I can fill in myself
+
+00:03:08.879 --> 00:03:13.280
+or we just leave this to be open for
+
+00:03:11.360 --> 00:03:15.599
+now. But I need you to build. So we have
+
+00:03:13.280 --> 00:03:17.040
+a department charter, a manager,
+
+00:03:15.599 --> 00:03:19.280
+employees, two to four apartment
+
+00:03:17.040 --> 00:03:21.680
+playbook as well. So like SOPs, which is
+
+00:03:19.280 --> 00:03:24.560
+pretty crazy. Sales, client acquisition.
+
+00:03:21.680 --> 00:03:26.400
+This is insane. And now I'm I can't wait
+
+00:03:24.560 --> 00:03:27.519
+to see the prompt [music] out. So now
+
+00:03:26.400 --> 00:03:29.760
+that we have this prompt, we're going to
+
+00:03:27.519 --> 00:03:31.920
+open up Grockbot and get to building our
+
+00:03:29.760 --> 00:03:33.440
+own team of AI employees. All right. So
+
+00:03:31.920 --> 00:03:35.599
+we're going to go ahead and copy this
+
+00:03:33.440 --> 00:03:37.920
+prompt. We have Grockbot. This is a
+
+00:03:35.599 --> 00:03:40.400
+fresh session up and loaded. We're just
+
+00:03:37.920 --> 00:03:44.560
+going to go up here and create a new bot
+
+00:03:40.400 --> 00:03:47.360
+and you can name it let's say um sung
+
+00:03:44.560 --> 00:03:48.720
+and then we'll just say co and you go
+
+00:03:47.360 --> 00:03:52.560
+right here and we're going to paste this
+
+00:03:48.720 --> 00:03:54.720
+prompt say type answer right there and
+
+00:03:52.560 --> 00:03:57.280
+now we're going to click enter and we're
+
+00:03:54.720 --> 00:03:59.439
+going to let sun handle everything cuz
+
+00:03:57.280 --> 00:04:01.439
+this is our COO now. That's what COO
+
+00:03:59.439 --> 00:04:04.000
+does. So this is what my COO came back
+
+00:04:01.439 --> 00:04:06.879
+with. We're looking at four mananders,
+
+00:04:04.000 --> 00:04:10.000
+11 IC, so 16 humans total. Delivery
+
+00:04:06.879 --> 00:04:12.560
+stays lean. Most IC seats are human. I I
+
+00:04:10.000 --> 00:04:16.639
+believe IC means individual contributor.
+
+00:04:12.560 --> 00:04:21.120
+Standup order. Okay. So we'll say Ember
+
+00:04:16.639 --> 00:04:22.720
+is no longer a think light only for AI
+
+00:04:21.120 --> 00:04:25.520
+agency. So just answering some questions
+
+00:04:22.720 --> 00:04:29.040
+about my business. Accessories 4 months
+
+00:04:25.520 --> 00:04:30.479
+versus ascent is 6 months. CRM payment
+
+00:04:29.040 --> 00:04:33.840
+stack system record what's already
+
+00:04:30.479 --> 00:04:35.600
+automated CRM is Google sheets and
+
+00:04:33.840 --> 00:04:37.600
+custom CRM but we'll focus on just
+
+00:04:35.600 --> 00:04:39.199
+Google sheets for now uh non-negotiable
+
+00:04:37.600 --> 00:04:44.320
+floor on your close involvement after
+
+00:04:39.199 --> 00:04:47.120
+day 90 or send only for full duration of
+
+00:04:44.320 --> 00:04:48.720
+the agreement four or 6 months [music]
+
+00:04:47.120 --> 00:04:51.919
+okay so this should give some more
+
+00:04:48.720 --> 00:04:54.720
+context okay so we have an answer so V2
+
+00:04:51.919 --> 00:04:56.720
+the age design or is ready open this up
+
+00:04:54.720 --> 00:04:58.479
+okay this is what's trained V2 executive
+
+00:04:56.720 --> 00:05:00.080
+summary sales manager manager, an
+
+00:04:58.479 --> 00:05:02.320
+appointment setter, sales operation
+
+00:05:00.080 --> 00:05:04.400
+coordinator, a closer. This has to be a
+
+00:05:02.320 --> 00:05:06.320
+real human. You can't really have like a
+
+00:05:04.400 --> 00:05:07.600
+a AI employee for a closer. So, we'll
+
+00:05:06.320 --> 00:05:09.520
+probably take that out. Outbound
+
+00:05:07.600 --> 00:05:10.720
+specialist, paid ad specialist, partial
+
+00:05:09.520 --> 00:05:12.720
+community lead, content marketing
+
+00:05:10.720 --> 00:05:14.479
+manager, a hero, content producer,
+
+00:05:12.720 --> 00:05:18.320
+repurposing insurance, social proof, and
+
+00:05:14.479 --> 00:05:20.479
+nurture lead. Um, scaling manager, sell
+
+00:05:18.320 --> 00:05:23.919
+sheets, CRM hygiene, slight referral
+
+00:05:20.479 --> 00:05:25.919
+log. Okay, so one thing I am looking at
+
+00:05:23.919 --> 00:05:27.280
+and you should always review this org
+
+00:05:25.919 --> 00:05:28.960
+chart to make sure everything looks
+
+00:05:27.280 --> 00:05:31.280
+good. I want to see what the closer
+
+00:05:28.960 --> 00:05:34.080
+responsibility is. Okay. So, yeah, we'll
+
+00:05:31.280 --> 00:05:37.840
+take out the we'll take out the closer.
+
+00:05:34.080 --> 00:05:42.160
+No need for a closer employee. And then
+
+00:05:37.840 --> 00:05:45.840
+one thing I do want is add [music]
+
+00:05:42.160 --> 00:05:48.800
+a script writer employee for short form
+
+00:05:45.840 --> 00:05:51.120
+content. That's sole purpose is just
+
+00:05:48.800 --> 00:05:54.160
+write scripts. Then we're going to tell
+
+00:05:51.120 --> 00:05:56.960
+our co to make the employees. Now, wow,
+
+00:05:54.160 --> 00:05:58.560
+look at that. Look at our entire teams
+
+00:05:56.960 --> 00:05:59.919
+being created in front of us. Okay, so
+
+00:05:58.560 --> 00:06:01.440
+we have partnerships lead short form
+
+00:05:59.919 --> 00:06:03.840
+script writer. This is what I especially
+
+00:06:01.440 --> 00:06:05.600
+asked for which is great and he message
+
+00:06:03.840 --> 00:06:06.880
+distribution editor. So now all these
+
+00:06:05.600 --> 00:06:08.400
+people are talking to each other in some
+
+00:06:06.880 --> 00:06:09.919
+sort of way. All right, so we have our
+
+00:06:08.400 --> 00:06:11.199
+team some will keep talking to them.
+
+00:06:09.919 --> 00:06:13.120
+They'll talk to each other. They'll get
+
+00:06:11.199 --> 00:06:15.120
+to know each other. Cool. Let's move on
+
+00:06:13.120 --> 00:06:17.280
+to actually making them handle some
+
+00:06:15.120 --> 00:06:18.880
+tasks. So what I did in Claude was I
+
+00:06:17.280 --> 00:06:21.120
+asked Cloud to give me a downloadable
+
+00:06:18.880 --> 00:06:23.199
+version of all my content related Claude
+
+00:06:21.120 --> 00:06:25.759
+skills because we have these AI
+
+00:06:23.199 --> 00:06:27.520
+employees in Grock that you know can
+
+00:06:25.759 --> 00:06:28.800
+write short form scripts whatever but
+
+00:06:27.520 --> 00:06:31.120
+they're not trained on our voice. They
+
+00:06:28.800 --> 00:06:33.520
+have no idea of how we talk. Now there's
+
+00:06:31.120 --> 00:06:36.720
+two things that we can do. one, we can
+
+00:06:33.520 --> 00:06:38.880
+go to marketplace and if you go to
+
+00:06:36.720 --> 00:06:42.479
+Google Drive, we can just add our Google
+
+00:06:38.880 --> 00:06:46.240
+Drive and add this as part of our um a
+
+00:06:42.479 --> 00:06:48.319
+database and I have authenticated it. So
+
+00:06:46.240 --> 00:06:50.240
+now I see it's connected and then I can
+
+00:06:48.319 --> 00:06:54.319
+just pull let's say short from script
+
+00:06:50.240 --> 00:06:58.160
+writer I can say pull from Google Drive
+
+00:06:54.319 --> 00:07:00.720
+my highest converting YouTube scripts
+
+00:06:58.160 --> 00:07:02.160
+and learn from the voice. That's option
+
+00:07:00.720 --> 00:07:04.960
+one and that's something that you should
+
+00:07:02.160 --> 00:07:07.199
+be doing regardless. So I can So if I
+
+00:07:04.960 --> 00:07:09.520
+authenticate my Google Drive, it's going
+
+00:07:07.199 --> 00:07:12.304
+to open up my second screen. So right
+
+00:07:09.520 --> 00:07:14.160
+here, select all. Continue. Connected.
+
+00:07:12.304 --> 00:07:18.319
+[music] See, now we authenticated. So
+
+00:07:14.160 --> 00:07:19.759
+now what I can do is say I want you to
+
+00:07:18.319 --> 00:07:21.520
+go through my Google Drive and look at
+
+00:07:19.759 --> 00:07:24.720
+the highest converting YouTube scripts
+
+00:07:21.520 --> 00:07:28.560
+folder and learn the way I talk through
+
+00:07:24.720 --> 00:07:33.680
+that folder. I say clone my voice
+
+00:07:28.560 --> 00:07:36.240
+profile. Make sure to sound like me as
+
+00:07:33.680 --> 00:07:39.599
+much as possible when writing my
+
+00:07:36.240 --> 00:07:41.199
+scripts. Also account for bad habits and
+
+00:07:39.599 --> 00:07:43.599
+fix them. So we're going to go ahead and
+
+00:07:41.199 --> 00:07:46.319
+have our script writer learn on based on
+
+00:07:43.599 --> 00:07:48.479
+our voice. And once it's learned, what
+
+00:07:46.319 --> 00:07:50.160
+we're going to be doing is go we have
+
+00:07:48.479 --> 00:07:52.240
+our zip right here. So these are all of
+
+00:07:50.160 --> 00:07:54.080
+our consolated cloud skills. And we're
+
+00:07:52.240 --> 00:07:57.360
+going to have our script writer follow
+
+00:07:54.080 --> 00:07:59.039
+the format that we have our clause goes
+
+00:07:57.360 --> 00:08:00.319
+that are for script writing that if you
+
+00:07:59.039 --> 00:08:01.599
+don't have them already, they're my free
+
+00:08:00.319 --> 00:08:03.280
+community. So, be sure to, you know,
+
+00:08:01.599 --> 00:08:04.800
+download them. And then we're just going
+
+00:08:03.280 --> 00:08:06.800
+to teach a script writer how to write
+
+00:08:04.800 --> 00:08:08.400
+scripts in the direction we taught
+
+00:08:06.800 --> 00:08:09.360
+Claude to [music] because we're kind of
+
+00:08:08.400 --> 00:08:11.680
+transferring some of the knowledge that
+
+00:08:09.360 --> 00:08:13.759
+Claude already has into our Grockbot.
+
+00:08:11.680 --> 00:08:15.759
+So, if I just download this, I just put
+
+00:08:13.759 --> 00:08:17.759
+right there and then Grockbot found the
+
+00:08:15.759 --> 00:08:19.120
+folder YouTube top performer script and
+
+00:08:17.759 --> 00:08:20.639
+it's going to read the entire set and
+
+00:08:19.120 --> 00:08:23.039
+it's building the voice clone habit
+
+00:08:20.639 --> 00:08:24.319
+fixes. So this is uh it's pretty cool to
+
+00:08:23.039 --> 00:08:26.400
+see how this is all working coming
+
+00:08:24.319 --> 00:08:28.800
+together. So our voice profile is now
+
+00:08:26.400 --> 00:08:30.160
+locked and you can see that this script
+
+00:08:28.800 --> 00:08:32.320
+writer should be able to write scripts
+
+00:08:30.160 --> 00:08:34.479
+in the way we wanted to. But one thing
+
+00:08:32.320 --> 00:08:37.279
+we have not done yet that we have to do
+
+00:08:34.479 --> 00:08:39.839
+is make sure that we input all the cla
+
+00:08:37.279 --> 00:08:41.519
+skills that are based around content
+
+00:08:39.839 --> 00:08:44.240
+I've created over the past many [music]
+
+00:08:41.519 --> 00:08:46.640
+months. I want to implement them into my
+
+00:08:44.240 --> 00:08:48.959
+Grockbot and train my employees on these
+
+00:08:46.640 --> 00:08:50.800
+cloud skills. So you just download a zip
+
+00:08:48.959 --> 00:08:54.080
+file and what you do from here I'll make
+
+00:08:50.800 --> 00:08:55.200
+a new employee and I'll call this head
+
+00:08:54.080 --> 00:09:00.080
+of content. [music]
+
+00:08:55.200 --> 00:09:02.160
+So let's say um head of content
+
+00:09:00.080 --> 00:09:03.920
+manage [music] entire content team. So
+
+00:09:02.160 --> 00:09:08.080
+I'm going to do is go to hero content
+
+00:09:03.920 --> 00:09:10.000
+producer and we can just say don't do
+
+00:09:08.080 --> 00:09:11.600
+anything [music] right now. And now
+
+00:09:10.000 --> 00:09:14.399
+we're going to be doing is we are going
+
+00:09:11.600 --> 00:09:16.800
+to attach the zip file. Let me go ahead
+
+00:09:14.399 --> 00:09:18.480
+and actually just unzip it first. These
+
+00:09:16.800 --> 00:09:21.440
+are all the content skills, all the
+
+00:09:18.480 --> 00:09:23.040
+cloud skills. You have director, idiate,
+
+00:09:21.440 --> 00:09:25.200
+LinkedIn, we can keep that off for now.
+
+00:09:23.040 --> 00:09:28.640
+Script, write, we definitely need. So,
+
+00:09:25.200 --> 00:09:31.600
+let's go ahead and we'll just copy the
+
+00:09:28.640 --> 00:09:34.480
+script, write, we'll do repackage,
+
+00:09:31.600 --> 00:09:37.680
+script, write, repurpose, director, and
+
+00:09:34.480 --> 00:09:40.240
+ID8. So, now if you go to Grockbot and
+
+00:09:37.680 --> 00:09:43.200
+we're going to attach these files. So
+
+00:09:40.240 --> 00:09:49.440
+content skills open and then [music] we
+
+00:09:43.200 --> 00:09:52.126
+can do director add that one go back id8
+
+00:09:49.440 --> 00:09:54.480
+and then we'll also do script write
+
+00:09:52.126 --> 00:09:57.440
+[music] and then we'll do a repurpose
+
+00:09:54.480 --> 00:10:00.880
+vin repackage out I have given [music]
+
+00:09:57.440 --> 00:10:02.800
+four claude skill.md files and I want
+
+00:10:00.880 --> 00:10:06.160
+you to go through these skill.md files
+
+00:10:02.800 --> 00:10:08.560
+and train the correct employee on these
+
+00:10:06.160 --> 00:10:10.720
+claude skills. So for example, for the
+
+00:10:08.560 --> 00:10:13.360
+script writer employee in Gro should
+
+00:10:10.720 --> 00:10:15.839
+look at the script writer skill.md file
+
+00:10:13.360 --> 00:10:18.720
+so it understands how to write proper
+
+00:10:15.839 --> 00:10:21.360
+scripts in my voice. Let's go ahead and
+
+00:10:18.720 --> 00:10:23.440
+send that over and we will let it work
+
+00:10:21.360 --> 00:10:26.399
+its magic and train all these employees
+
+00:10:23.440 --> 00:10:28.079
+that fit on all the content skills we've
+
+00:10:26.399 --> 00:10:29.920
+developed in Claude for these past
+
+00:10:28.079 --> 00:10:31.920
+couple of months. Okay, so it is now
+
+00:10:29.920 --> 00:10:35.760
+done. You can see the skills have been
+
+00:10:31.920 --> 00:10:37.519
+mapped. So ID8 was trained on the hero
+
+00:10:35.760 --> 00:10:39.440
+content producer. Script write was
+
+00:10:37.519 --> 00:10:40.880
+assigned to the hero content producer
+
+00:10:39.440 --> 00:10:43.279
+and our short form script writer
+
+00:10:40.880 --> 00:10:44.800
+employee director. The repurposed
+
+00:10:43.279 --> 00:10:46.800
+content was assigned to distribution
+
+00:10:44.800 --> 00:10:48.399
+editor right here. So skills are all
+
+00:10:46.800 --> 00:10:50.880
+vested in the shared library. And you
+
+00:10:48.399 --> 00:10:52.959
+can see uh here's who owns what. These
+
+00:10:50.880 --> 00:10:54.959
+are all the individual skills. And now
+
+00:10:52.959 --> 00:10:57.120
+Grocka has his own computer and it has
+
+00:10:54.959 --> 00:10:59.120
+its own like cloudsklls folder which is
+
+00:10:57.120 --> 00:11:00.800
+pretty cool. And you can see expects
+
+00:10:59.120 --> 00:11:03.279
+references voice guide MD and structure
+
+00:11:00.800 --> 00:11:05.200
+templates MD. Those were in the upload.
+
+00:11:03.279 --> 00:11:06.880
+Um, shortphone already has your dry
+
+00:11:05.200 --> 00:11:09.120
+voice pack. Drop those two references
+
+00:11:06.880 --> 00:11:11.600
+when you have and I'll wire them in. So,
+
+00:11:09.120 --> 00:11:14.240
+basically the claw skills that we have a
+
+00:11:11.600 --> 00:11:16.720
+voice guide and structure templates.md
+
+00:11:14.240 --> 00:11:20.800
+that we didn't add. So, what I can do it
+
+00:11:16.720 --> 00:11:23.200
+just go to let's say script write
+
+00:11:20.800 --> 00:11:25.360
+expected voice guide, right? So,
+
+00:11:23.200 --> 00:11:28.320
+reference these are what it's asking for
+
+00:11:25.360 --> 00:11:30.560
+just drop the script right [music]
+
+00:11:28.320 --> 00:11:32.240
+files in. And now one while it's working
+
+00:11:30.560 --> 00:11:33.920
+on that one cool thing you see right
+
+00:11:32.240 --> 00:11:36.640
+here messages two bots. If I click it
+
+00:11:33.920 --> 00:11:38.720
+you see it talked to the hero content
+
+00:11:36.640 --> 00:11:40.240
+producer you know uh and they were
+
+00:11:38.720 --> 00:11:42.079
+basically talking to each other. So our
+
+00:11:40.240 --> 00:11:43.600
+employees are communicating with each
+
+00:11:42.079 --> 00:11:45.440
+other. Same thing with distribution
+
+00:11:43.600 --> 00:11:47.279
+editor. See message hero content
+
+00:11:45.440 --> 00:11:48.640
+producer message short form script
+
+00:11:47.279 --> 00:11:49.760
+writer. So they're all talking to each
+
+00:11:48.640 --> 00:11:52.000
+other. We don't have to worry about
+
+00:11:49.760 --> 00:11:53.600
+that. And we have the files added. So
+
+00:11:52.000 --> 00:11:55.839
+now everything is good. Let's go ahead
+
+00:11:53.600 --> 00:11:58.000
+and test it to make sure that whatever
+
+00:11:55.839 --> 00:12:00.480
+script that we want the script writer to
+
+00:11:58.000 --> 00:12:05.440
+now write, it's actually pretty good.
+
+00:12:00.480 --> 00:12:09.200
+So, let's create a script um for write a
+
+00:12:05.440 --> 00:12:12.298
+let's say 45 second script of the top 10
+
+00:12:09.200 --> 00:12:15.519
+AI businesses to start as a beginner.
+
+00:12:12.298 --> 00:12:19.040
+[music] Have a ranking system from let's
+
+00:12:15.519 --> 00:12:22.240
+say D tier to S tier with S being the
+
+00:12:19.040 --> 00:12:24.240
+best. Let's say 45 60cond. Maybe 45 is
+
+00:12:22.240 --> 00:12:26.480
+too short. I'm very curious to see how
+
+00:12:24.240 --> 00:12:28.320
+good the script right, you know, uh
+
+00:12:26.480 --> 00:12:30.720
+employees going to write these scripts.
+
+00:12:28.320 --> 00:12:33.519
+One I saw was like habits I'll fix not
+
+00:12:30.720 --> 00:12:35.279
+copy narrative ship Asian rise cloud
+
+00:12:33.519 --> 00:12:37.519
+code or rich sherma. It may have miss
+
+00:12:35.279 --> 00:12:39.920
+some spelling errors that I had in some
+
+00:12:37.519 --> 00:12:42.560
+of my files. That's so funny. Asian
+
+00:12:39.920 --> 00:12:44.079
+rise. What? All right, here we are. I'm
+
+00:12:42.560 --> 00:12:47.040
+ranking the top 10 AI business for
+
+00:12:44.079 --> 00:12:49.200
+beginners. D tier to S. D. Prom packs
+
+00:12:47.040 --> 00:12:50.959
+crowded no clients cuz this is an entire
+
+00:12:49.200 --> 00:12:52.399
+script. See, beginners don't fill out
+
+00:12:50.959 --> 00:12:54.320
+building. They fill out the offer in the
+
+00:12:52.399 --> 00:12:55.920
+client system. Want the Sierra playbook?
+
+00:12:54.320 --> 00:12:58.399
+Comment system and I'll send it. It even
+
+00:12:55.920 --> 00:13:00.880
+has the whole call to action and keyword
+
+00:12:58.399 --> 00:13:03.200
+Instagram DM method that a lot of top
+
+00:13:00.880 --> 00:13:05.360
+creators are now ripping. [music] Um,
+
+00:13:03.200 --> 00:13:07.200
+rank the top business for beginners DT
+
+00:13:05.360 --> 00:13:11.519
+to S. Make [music]
+
+00:13:07.200 --> 00:13:14.079
+the hook better and stop the user from
+
+00:13:11.519 --> 00:13:15.680
+scrolling. Something to get their
+
+00:13:14.079 --> 00:13:17.760
+attention. I I think the hook is just
+
+00:13:15.680 --> 00:13:19.680
+too a little too weak. Let's have it fix
+
+00:13:17.760 --> 00:13:21.920
+hook a bit. Okay, so the new open is
+
+00:13:19.680 --> 00:13:23.839
+most beginner ad businesses are Dtier.
+
+00:13:21.920 --> 00:13:25.920
+I'm ranking the top 10 from D to S so
+
+00:13:23.839 --> 00:13:29.040
+you don't waste a year. This is
+
+00:13:25.920 --> 00:13:33.440
+definitely way better than the original.
+
+00:13:29.040 --> 00:13:36.480
+Um I would say don't start a failing AI
+
+00:13:33.440 --> 00:13:40.720
+business. And then we can say [music]
+
+00:13:36.480 --> 00:13:44.959
+here's the top. So change the hook.
+
+00:13:40.720 --> 00:13:48.480
+We'll say don't start a failing AI
+
+00:13:44.959 --> 00:13:50.079
+business. Here are the top 10 [music]
+
+00:13:48.480 --> 00:13:54.560
+to
+
+00:13:50.079 --> 00:13:58.720
+start the year. This is the hook. Update
+
+00:13:54.560 --> 00:14:01.519
+your memory. So you see that next time
+
+00:13:58.720 --> 00:14:03.440
+you make hook like this. So always teach
+
+00:14:01.519 --> 00:14:05.519
+your employees and have this feedback
+
+00:14:03.440 --> 00:14:06.880
+loop where you want to train them. Hey
+
+00:14:05.519 --> 00:14:09.440
+look, this can be made better. Now this
+
+00:14:06.880 --> 00:14:11.120
+is a live preview of my actual Grockbot
+
+00:14:09.440 --> 00:14:13.120
+system that I use to run my entire
+
+00:14:11.120 --> 00:14:15.199
+sevenfigure company. [music] Now, one
+
+00:14:13.120 --> 00:14:17.600
+agent that you have to create is a
+
+00:14:15.199 --> 00:14:20.079
+speedtole agent that literally acts as
+
+00:14:17.600 --> 00:14:22.399
+your own personal sales rep. So, this is
+
+00:14:20.079 --> 00:14:24.399
+Speedy, who's my sales rep. And you can
+
+00:14:22.399 --> 00:14:26.480
+see it actually will message leads via
+
+00:14:24.399 --> 00:14:28.320
+WhatsApp for me. And because Grockbot
+
+00:14:26.480 --> 00:14:30.720
+has computer use, it literally has
+
+00:14:28.320 --> 00:14:32.639
+WhatsApp up up right here. And this is
+
+00:14:30.720 --> 00:14:34.480
+all my chats loaded inside. If I
+
+00:14:32.639 --> 00:14:36.240
+opening, see all my different chats and
+
+00:14:34.480 --> 00:14:38.000
+it'll go ahead and message leads for me.
+
+00:14:36.240 --> 00:14:40.399
+And I don't have to do that. To get your
+
+00:14:38.000 --> 00:14:41.920
+own SDR and then full guide on how to do
+
+00:14:40.399 --> 00:14:44.240
+this is in my free community. So now
+
+00:14:41.920 --> 00:14:46.320
+what Speedy does is I've connected it to
+
+00:14:44.240 --> 00:14:47.360
+my Google Drive. So we go to Google
+
+00:14:46.320 --> 00:14:49.040
+Drive if you want to learn how to
+
+00:14:47.360 --> 00:14:50.399
+connect it right now. Simply go to
+
+00:14:49.040 --> 00:14:52.480
+Google Drive. I already have it
+
+00:14:50.399 --> 00:14:54.740
+installed. You can do this for any
+
+00:14:52.480 --> 00:14:56.399
+connector like we did earlier um in
+
+00:14:54.740 --> 00:14:58.399
+[music] this video. You connect your
+
+00:14:56.399 --> 00:15:00.480
+Google Drive and that will automatically
+
+00:14:58.399 --> 00:15:01.920
+give all your employees access to your
+
+00:15:00.480 --> 00:15:04.320
+Google Sheets, your Google Docs, etc.
+
+00:15:01.920 --> 00:15:06.720
+And what I have it do is every anytime I
+
+00:15:04.320 --> 00:15:09.360
+get a new lead that comes into my raw
+
+00:15:06.720 --> 00:15:12.800
+lead data sheet, I have Speedy cross
+
+00:15:09.360 --> 00:15:15.440
+reference from the raw lead data to the
+
+00:15:12.800 --> 00:15:17.199
+lead tracker. And if there's a lead who
+
+00:15:15.440 --> 00:15:19.760
+is in the raw lead data, which means
+
+00:15:17.199 --> 00:15:21.680
+they filled out my online form, but
+
+00:15:19.760 --> 00:15:23.120
+they're not in lead tracker, that means
+
+00:15:21.680 --> 00:15:24.639
+they have not booked a call with me,
+
+00:15:23.120 --> 00:15:26.639
+which is a [music] problem. So what I
+
+00:15:24.639 --> 00:15:29.519
+have Speedy do is message these people
+
+00:15:26.639 --> 00:15:32.240
+who have not booked a call with me but
+
+00:15:29.519 --> 00:15:34.320
+are in my form submissions. And the way
+
+00:15:32.240 --> 00:15:36.639
+you do that is you have this routine. So
+
+00:15:34.320 --> 00:15:38.560
+you see right here, if a raw lead
+
+00:15:36.639 --> 00:15:40.959
+appears on lead tracker and they have
+
+00:15:38.560 --> 00:15:43.120
+booked a call, do not WhatsApp them. If
+
+00:15:40.959 --> 00:15:45.199
+they're only in raw lead data and not on
+
+00:15:43.120 --> 00:15:47.600
+lead tracker, they have not booked a
+
+00:15:45.199 --> 00:15:50.000
+call. Those are the only people to
+
+00:15:47.600 --> 00:15:52.240
+message. This is a huge timesaver for
+
+00:15:50.000 --> 00:15:55.600
+absolutely any business and essentially
+
+00:15:52.240 --> 00:15:58.000
+saves you and hire of a SDR or any type
+
+00:15:55.600 --> 00:15:59.600
+of sales rep. And with sales reps comes
+
+00:15:58.000 --> 00:16:02.320
+a lot of headaches and obviously extra
+
+00:15:59.600 --> 00:16:04.480
+expense. Speed does it all for me. I use
+
+00:16:02.320 --> 00:16:06.000
+my own AI employee ads manager. You can
+
+00:16:04.480 --> 00:16:08.639
+see it's been giving me a huge debrief
+
+00:16:06.000 --> 00:16:11.440
+on my ads. [music] I'm looking like $30
+
+00:16:08.639 --> 00:16:13.839
+cost per acquisition. My broad campaign
+
+00:16:11.440 --> 00:16:16.639
+1550
+
+00:16:13.839 --> 00:16:18.880
+uh per cost for acquisition. And here's
+
+00:16:16.639 --> 00:16:21.040
+a practical path. I go someone building
+
+00:16:18.880 --> 00:16:23.199
+ads manager like this. So this what you
+
+00:16:21.040 --> 00:16:25.279
+want to do is you essentially will have
+
+00:16:23.199 --> 00:16:28.320
+your ads manager Grockbot and you want
+
+00:16:25.279 --> 00:16:30.240
+to connect meta ads to it. This is much
+
+00:16:28.320 --> 00:16:31.920
+easier than you think and let me show
+
+00:16:30.240 --> 00:16:34.240
+you how to do it right now. Okay. Now
+
+00:16:31.920 --> 00:16:36.320
+we're going to set up Grockbot with our
+
+00:16:34.240 --> 00:16:38.320
+meta ads. So let's go ahead and give it
+
+00:16:36.320 --> 00:16:39.920
+meta ads manager access. [music] So
+
+00:16:38.320 --> 00:16:42.000
+right here the paid ad specialist is
+
+00:16:39.920 --> 00:16:43.839
+asking us to sign in to meta ads on his
+
+00:16:42.000 --> 00:16:45.040
+computer. So this is a screen right
+
+00:16:43.839 --> 00:16:47.279
+here. Let's go ahead and just open it
+
+00:16:45.040 --> 00:16:49.680
+right here. Let it connect. [music] Now,
+
+00:16:47.279 --> 00:16:51.759
+we can log directly into our Facebook
+
+00:16:49.680 --> 00:16:54.720
+ads manager, but there is a better way
+
+00:16:51.759 --> 00:16:58.000
+to do this, and that's by connecting the
+
+00:16:54.720 --> 00:16:59.920
+meta ads MCP [music] directly into our
+
+00:16:58.000 --> 00:17:02.480
+Rockbot. So, let me show you how to do
+
+00:16:59.920 --> 00:17:03.440
+that. So, what you do is you go to all
+
+00:17:02.480 --> 00:17:05.600
+apps. So, [music] this
+
+00:17:03.440 --> 00:17:07.520
+developers.fas.com/apps.
+
+00:17:05.600 --> 00:17:10.959
+You click create an app and you can put
+
+00:17:07.520 --> 00:17:13.199
+the app name. So, test app. Click next.
+
+00:17:10.959 --> 00:17:15.280
+Use cases. You want to create and manage
+
+00:17:13.199 --> 00:17:17.280
+ads and marketing API. create and manage
+
+00:17:15.280 --> 00:17:20.319
+apps with Meta Ads Manager. You can do
+
+00:17:17.280 --> 00:17:22.000
+both. I recommend doing both. Um, you
+
+00:17:20.319 --> 00:17:23.439
+don't need to do this part right here.
+
+00:17:22.000 --> 00:17:25.600
+We can do that for other agents in the
+
+00:17:23.439 --> 00:17:27.600
+future. Uh, click next. And then you
+
+00:17:25.600 --> 00:17:29.760
+want to assign the private business
+
+00:17:27.600 --> 00:17:32.240
+portfolio. So, I can do this one right
+
+00:17:29.760 --> 00:17:34.160
+here. No requirements and the overview.
+
+00:17:32.240 --> 00:17:37.120
+And you create the app and then
+
+00:17:34.160 --> 00:17:38.400
+password. Okay. And now in your app,
+
+00:17:37.120 --> 00:17:41.112
+you're going to have to customize to
+
+00:17:38.400 --> 00:17:44.880
+create and manage apps. This one. Um,
+
+00:17:41.112 --> 00:17:46.880
+[music] so you enter the ad account ID
+
+00:17:44.880 --> 00:17:48.160
+that you want to add under your app. So
+
+00:17:46.880 --> 00:17:49.280
+now let me go ahead and show you like a
+
+00:17:48.160 --> 00:17:50.799
+finished version. So if I go to
+
+00:17:49.280 --> 00:17:53.280
+Grockbot, which is the one I'm currently
+
+00:17:50.799 --> 00:17:54.720
+using. If I go to required actions, you
+
+00:17:53.280 --> 00:17:57.120
+can see everything should be done under
+
+00:17:54.720 --> 00:17:59.280
+here. If I go to app settings, basic, I
+
+00:17:57.120 --> 00:18:01.840
+have the display name, email, I have my
+
+00:17:59.280 --> 00:18:03.600
+app secret, I have some this information
+
+00:18:01.840 --> 00:18:06.000
+that you don't need to see, social
+
+00:18:03.600 --> 00:18:07.840
+discovery, some security, advertising
+
+00:18:06.000 --> 00:18:09.520
+accounts. Okay. Now once you have your
+
+00:18:07.840 --> 00:18:11.280
+app created, you simply go to Meta
+
+00:18:09.520 --> 00:18:12.640
+Business Suite. You go to system users
+
+00:18:11.280 --> 00:18:14.640
+right here. Then you want to click
+
+00:18:12.640 --> 00:18:16.640
+generate token. You want to select your
+
+00:18:14.640 --> 00:18:18.240
+app. So for example, the Grothbot app
+
+00:18:16.640 --> 00:18:20.080
+that I already created or a test app
+
+00:18:18.240 --> 00:18:22.000
+that you might be creating just to test
+
+00:18:20.080 --> 00:18:24.080
+things out. You click next. Token
+
+00:18:22.000 --> 00:18:25.600
+expiration. I do never. And then
+
+00:18:24.080 --> 00:18:27.039
+permissions. Now I already have the
+
+00:18:25.600 --> 00:18:28.960
+permissions selected. So select these
+
+00:18:27.039 --> 00:18:30.892
+exact ones. Catalog management, business
+
+00:18:28.960 --> 00:18:32.559
+management, ads read, ads management.
+
+00:18:30.892 --> 00:18:34.400
+[music] These two are the main ones you
+
+00:18:32.559 --> 00:18:36.400
+need by the way. Everything else is kind
+
+00:18:34.400 --> 00:18:37.760
+of just extraordinary. And you have
+
+00:18:36.400 --> 00:18:38.880
+extra stuff right here. And then you can
+
+00:18:37.760 --> 00:18:39.840
+generate the token. Now, I already have
+
+00:18:38.880 --> 00:18:41.120
+a token generated, so I'm not going to
+
+00:18:39.840 --> 00:18:43.120
+go ahead and do it. But once you have
+
+00:18:41.120 --> 00:18:45.600
+your token generated, you can go back to
+
+00:18:43.120 --> 00:18:47.360
+your Grobot and let it know that, hey,
+
+00:18:45.600 --> 00:18:49.440
+I'll give you my app token. And then you
+
+00:18:47.360 --> 00:18:51.280
+can just paste your meta app token here.
+
+00:18:49.440 --> 00:18:54.000
+Save securely and it'll be able to run
+
+00:18:51.280 --> 00:18:56.960
+your ads. Now, let me show you my
+
+00:18:54.000 --> 00:18:59.360
+legitimate system that I use to run my
+
+00:18:56.960 --> 00:19:01.039
+entire sevenfigure business via
+
+00:18:59.360 --> 00:19:03.039
+Grockbot. And I'll show you my ad
+
+00:19:01.039 --> 00:19:04.640
+specialist. So, this is my ad manager
+
+00:19:03.039 --> 00:19:06.480
+right here. You can see I'm running a
+
+00:19:04.640 --> 00:19:09.200
+couple different ad campaigns already.
+
+00:19:06.480 --> 00:19:10.960
+Uh I'm getting a $30 cost per
+
+00:19:09.200 --> 00:19:14.160
+acquisition for something that costs
+
+00:19:10.960 --> 00:19:16.400
+thousands of dollars. Okay, so my RA is
+
+00:19:14.160 --> 00:19:18.400
+extremely high right now. And you can
+
+00:19:16.400 --> 00:19:20.480
+see it's been it's been working for a
+
+00:19:18.400 --> 00:19:22.880
+while now, you know, and it's been
+
+00:19:20.480 --> 00:19:24.720
+pretty cool just to to go through all
+
+00:19:22.880 --> 00:19:28.160
+this and whatnot. I want to make sure I
+
+00:19:24.720 --> 00:19:30.480
+don't expose my my pixel, my token. But
+
+00:19:28.160 --> 00:19:33.039
+yeah, so your ad manager will constantly
+
+00:19:30.480 --> 00:19:33.679
+update you on your ads every single day.
+
+00:19:33.039 --> 00:19:35.600
+Um, [music]
+
+00:19:33.679 --> 00:19:37.280
+I have a routine as well where every
+
+00:19:35.600 --> 00:19:39.679
+single day I would check to see if a
+
+00:19:37.280 --> 00:19:41.039
+campaign is performing very poorly. If
+
+00:19:39.679 --> 00:19:42.720
+so, it will kill it. This is how you
+
+00:19:41.039 --> 00:19:44.240
+connect your If you have any questions
+
+00:19:42.720 --> 00:19:46.240
+about this process, just go ahead and
+
+00:19:44.240 --> 00:19:48.000
+ask Claude for more direction or ask
+
+00:19:46.240 --> 00:19:49.679
+Rockbot directly in case you run into
+
+00:19:48.000 --> 00:19:51.280
+any issues with meta ads. Now, to scale
+
+00:19:49.679 --> 00:19:53.360
+endlessly and absolutely [music]
+
+00:19:51.280 --> 00:19:55.039
+exponentially grow our business, you
+
+00:19:53.360 --> 00:19:57.360
+have to understand a couple of things.
+
+00:19:55.039 --> 00:19:59.840
+This is what all you need to do as the
+
+00:19:57.360 --> 00:20:02.799
+founder is your business growth strategy
+
+00:19:59.840 --> 00:20:05.039
+is going to fall under two real domains
+
+00:20:02.799 --> 00:20:08.160
+if not both. Increase content production
+
+00:20:05.039 --> 00:20:10.960
+step one, right? More content means just
+
+00:20:08.160 --> 00:20:12.799
+more eyeballs seeing your business slash
+
+00:20:10.960 --> 00:20:14.720
+increase ad spend. This is organic
+
+00:20:12.799 --> 00:20:16.640
+content. This is paid content. You're
+
+00:20:14.720 --> 00:20:18.000
+forcing people to see like your content
+
+00:20:16.640 --> 00:20:19.440
+right here. Now, to increase your
+
+00:20:18.000 --> 00:20:21.919
+content production, you're going to need
+
+00:20:19.440 --> 00:20:24.400
+an editor. [music] Yes, AI, especially
+
+00:20:21.919 --> 00:20:27.039
+as UT6 Astra is getting much better at
+
+00:20:24.400 --> 00:20:28.799
+editing videos. So, there is potential
+
+00:20:27.039 --> 00:20:31.200
+where this can be replaced, but right
+
+00:20:28.799 --> 00:20:34.640
+now this is probably going to be a human
+
+00:20:31.200 --> 00:20:37.120
+higher, right? So, you need one human
+
+00:20:34.640 --> 00:20:38.480
+right here. Now, to increase your ad
+
+00:20:37.120 --> 00:20:40.159
+spend, right, you want to make sure
+
+00:20:38.480 --> 00:20:42.320
+you're also creating more videos and
+
+00:20:40.159 --> 00:20:44.640
+creatives. Otherwise, your if you add
+
+00:20:42.320 --> 00:20:46.799
+too much money under the same exact
+
+00:20:44.640 --> 00:20:48.480
+piece of content over and over again,
+
+00:20:46.799 --> 00:20:50.720
+it's just going to get exhausted and
+
+00:20:48.480 --> 00:20:52.880
+your RA is going to go down. So, more
+
+00:20:50.720 --> 00:20:54.880
+videos and creatives means you probably
+
+00:20:52.880 --> 00:20:57.280
+need a designer of some sort, especially
+
+00:20:54.880 --> 00:20:59.840
+if you're doing static videos. Designer,
+
+00:20:57.280 --> 00:21:01.760
+again, a a human hire would help. Now,
+
+00:20:59.840 --> 00:21:04.559
+one question you want to ask yourself
+
+00:21:01.760 --> 00:21:05.919
+is, can this hire, and it's for any part
+
+00:21:04.559 --> 00:21:08.799
+of your business, not just the content
+
+00:21:05.919 --> 00:21:12.080
+side, [music] be a Grockbot employee? If
+
+00:21:08.799 --> 00:21:13.440
+so, then you know you have a Grockbond
+
+00:21:12.080 --> 00:21:15.360
+employee that will just handle that
+
+00:21:13.440 --> 00:21:16.960
+role. If [music] not, you need a human
+
+00:21:15.360 --> 00:21:18.960
+employee. Like I said, an editor and
+
+00:21:16.960 --> 00:21:20.720
+designer right now, you probably need a
+
+00:21:18.960 --> 00:21:22.240
+human for that. Especially if you want
+
+00:21:20.720 --> 00:21:24.720
+the work to be good. Of course, you want
+
+00:21:22.240 --> 00:21:26.240
+shitty design, then just ask why chatt
+
+00:21:24.720 --> 00:21:27.440
+to make an image for you. But this is a
+
+00:21:26.240 --> 00:21:29.919
+process you're going to have to follow
+
+00:21:27.440 --> 00:21:31.919
+if you want to scale endlessly. So, just
+
+00:21:29.919 --> 00:21:34.000
+ask yourself at every single point, can
+
+00:21:31.919 --> 00:21:35.760
+this hire be a Grocka employee or do I
+
+00:21:34.000 --> 00:21:37.600
+generally need to add another human into
+
+00:21:35.760 --> 00:21:40.240
+the mix? Now, if you're serious about
+
+00:21:37.600 --> 00:21:42.559
+scaling but lack A+ talent that AI can't
+
+00:21:40.240 --> 00:21:44.559
+replace, and you need a direct road map
+
+00:21:42.559 --> 00:21:47.520
+on how to get your business to the next
+
+00:21:44.559 --> 00:21:49.760
+level with AI implementation, A+ hires,
+
+00:21:47.520 --> 00:21:52.559
+and creating valuable content, I have
+
+00:21:49.760 --> 00:21:54.400
+opened 15 free roadmap strategy calls
+
+00:21:52.559 --> 00:21:56.320
+that you should take advantage of using
+
+00:21:54.400 --> 00:21:58.080
+the first link in the description. These
+
+00:21:56.320 --> 00:22:01.440
+strategy calls have allowed me to scale
+
+00:21:58.080 --> 00:22:03.200
+my clients to over $20,000 a month in
+
+00:22:01.440 --> 00:22:05.039
+revenue from just a starting point of
+
+00:22:03.200 --> 00:22:06.960
+$1,000 a month. And if you want to learn
+
+00:22:05.039 --> 00:22:08.480
+more about Grockbot, watch this 2-hour
+
+00:22:06.960 --> 00:22:12.240
+course I made on how to build a
+
+00:22:08.480 --> 00:22:12.240
+oneperson business using just Grockbot.
+

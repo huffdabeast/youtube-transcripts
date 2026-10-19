@@ -1,0 +1,1274 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.640
+I closed a $40,000 client, and the
+
+00:00:01.800 --> 00:00:05.520
+project is to build a second brain for
+
+00:00:03.640 --> 00:00:07.280
+my client's entire routine. Now, this is
+
+00:00:05.520 --> 00:00:08.800
+a huge win for my agency, so I decided
+
+00:00:07.280 --> 00:00:09.170
+to share exactly how you can do the
+
+00:00:08.800 --> 00:00:09.280
+same.
+
+00:00:09.170 --> 00:00:10.360
+>> [music]
+
+00:00:09.280 --> 00:00:11.640
+>> So, in this video, I'm going to show you
+
+00:00:10.360 --> 00:00:14.800
+step-by-step how to build an
+
+00:00:11.640 --> 00:00:17.000
+enterprise-level AI second brain for any
+
+00:00:14.800 --> 00:00:19.240
+of your clients that you also can sell
+
+00:00:17.000 --> 00:00:21.720
+for four to five figures. This is my
+
+00:00:19.240 --> 00:00:23.000
+second brain. You see right here. This
+
+00:00:21.720 --> 00:00:25.920
+is the index. This is where it all
+
+00:00:23.000 --> 00:00:27.160
+starts. Now, I have Obsidian open up, in
+
+00:00:25.920 --> 00:00:29.160
+case you're wondering what exactly this
+
+00:00:27.160 --> 00:00:30.880
+is.
+
+00:00:29.160 --> 00:00:32.480
+See, I have brand mentions. You see all
+
+00:00:30.880 --> 00:00:34.960
+these different documents that I have in
+
+00:00:32.480 --> 00:00:37.400
+my second brain.
+
+00:00:34.960 --> 00:00:40.440
+Yeah, it can get pretty crazy. And this
+
+00:00:37.400 --> 00:00:42.920
+is me just showing all of you exactly
+
+00:00:40.440 --> 00:00:44.320
+how crazy it can get. And these are all
+
+00:00:42.920 --> 00:00:47.240
+notes that are connected, and they're
+
+00:00:44.320 --> 00:00:48.760
+all different parts of my second brain.
+
+00:00:47.240 --> 00:00:51.080
+Uh, they do different things. So, this
+
+00:00:48.760 --> 00:00:53.600
+is a business OS blueprint.
+
+00:00:51.080 --> 00:00:57.960
+I'm going to show you here. Let me just
+
+00:00:53.600 --> 00:00:59.640
+mark this, the business OS blueprint.
+
+00:00:57.960 --> 00:01:01.240
+So, we're using Obsidian, right? That's
+
+00:00:59.640 --> 00:01:04.879
+the vault, as you can see right here.
+
+00:01:01.240 --> 00:01:06.680
+This is the tools that we'll be using.
+
+00:01:04.879 --> 00:01:09.480
+Now, the model we're going to use in
+
+00:01:06.680 --> 00:01:10.960
+Claude is Fable 5 or Opus 4.8. At the
+
+00:01:09.480 --> 00:01:12.920
+time of making this video, Fable 5 is no
+
+00:01:10.960 --> 00:01:14.800
+longer available, but you can still use
+
+00:01:12.920 --> 00:01:16.760
+Opus 4.8 to build a powerful second
+
+00:01:14.800 --> 00:01:18.960
+brain. A second brain model was made
+
+00:01:16.760 --> 00:01:20.480
+popular by Anders Carpathy.
+
+00:01:18.960 --> 00:01:23.160
+Okay, and he basically means idea of
+
+00:01:20.480 --> 00:01:25.760
+having like a wiki-style knowledge base
+
+00:01:23.160 --> 00:01:28.720
+or second brain for your AI systems.
+
+00:01:25.760 --> 00:01:30.040
+This way, it would consume less tokens.
+
+00:01:28.720 --> 00:01:32.640
+So, it's basically to make data
+
+00:01:30.040 --> 00:01:34.160
+ingestion much easier.
+
+00:01:32.640 --> 00:01:36.160
+And he kind of breaks this all down in
+
+00:01:34.160 --> 00:01:37.800
+his tweet. And I'm pretty sure
+
+00:01:36.160 --> 00:01:39.360
+Anthropic just hired him. He literally
+
+00:01:37.800 --> 00:01:42.240
+works at Anthropic now, which is a
+
+00:01:39.360 --> 00:01:44.360
+crazy, crazy, uh, thing. And just a
+
+00:01:42.240 --> 00:01:45.960
+collection of MD files, all right? The
+
+00:01:44.360 --> 00:01:49.080
+Obsidian vault is literally it's an
+
+00:01:45.960 --> 00:01:50.520
+Allen wiki that is a collection of dot
+
+00:01:49.080 --> 00:01:53.120
+MD [music] files. If you make Claude
+
+00:01:50.520 --> 00:01:55.280
+skills, you know that it is MD files.
+
+00:01:53.120 --> 00:01:58.040
+So, the foundation is all the Obsidian
+
+00:01:55.280 --> 00:01:59.800
+vault for your second brain.
+
+00:01:58.040 --> 00:02:01.440
+You can see right here
+
+00:01:59.800 --> 00:02:04.600
+uh he also uses Obsidian, so it's I'm
+
+00:02:01.440 --> 00:02:04.600
+not just [music] saying cool right.
+
+00:02:05.840 --> 00:02:10.200
+And you ask a large language model
+
+00:02:07.520 --> 00:02:12.160
+complex questions about the wiki and
+
+00:02:10.200 --> 00:02:14.040
+your agent will be able to understand
+
+00:02:12.160 --> 00:02:16.680
+anything that is within your second
+
+00:02:14.040 --> 00:02:18.360
+brain and again pull
+
+00:02:16.680 --> 00:02:19.760
+that information without ingesting too
+
+00:02:18.360 --> 00:02:21.680
+many tokens. So, it's a great way to
+
+00:02:19.760 --> 00:02:23.480
+just just, you know, not
+
+00:02:21.680 --> 00:02:26.480
+blow up your tokens quickly. All right,
+
+00:02:23.480 --> 00:02:28.000
+so I have my Obsidian vault opened up on
+
+00:02:26.480 --> 00:02:30.120
+the right side and I have Cloud Code
+
+00:02:28.000 --> 00:02:32.120
+opened up on the left within my Cursor
+
+00:02:30.120 --> 00:02:34.480
+IDE.
+
+00:02:32.120 --> 00:02:35.560
+And now I'm having create putting this
+
+00:02:34.480 --> 00:02:37.560
+prompt [music]
+
+00:02:35.560 --> 00:02:39.800
+where it says create these folders in
+
+00:02:37.560 --> 00:02:41.480
+this vault.
+
+00:02:39.800 --> 00:02:43.440
+Oh, I think it just
+
+00:02:41.480 --> 00:02:45.061
+cleared. Let me just rewrite this from
+
+00:02:43.440 --> 00:02:45.080
+scratch. So, create these folders
+
+00:02:45.061 --> 00:02:46.480
+>> [music]
+
+00:02:45.080 --> 00:02:50.800
+>> in this vault
+
+00:02:46.480 --> 00:02:52.440
+each with a short readme.md.
+
+00:02:50.800 --> 00:02:55.920
+Essentially, what I'm doing here [music]
+
+00:02:52.440 --> 00:02:59.480
+is just using Cloud Code
+
+00:02:55.920 --> 00:03:00.840
+to connect with Obsidian and create
+
+00:02:59.480 --> 00:03:02.880
+these
+
+00:03:00.840 --> 00:03:04.320
+folders.
+
+00:03:02.880 --> 00:03:07.480
+So, we're going to have an inbox, a
+
+00:03:04.320 --> 00:03:09.640
+contacts, a wiki, projects,
+
+00:03:07.480 --> 00:03:12.720
+uh skills,
+
+00:03:09.640 --> 00:03:12.720
+and let's say
+
+00:03:13.120 --> 00:03:15.880
+meta.
+
+00:03:20.360 --> 00:03:22.760
+Yeah, and then we're going to ask for
+
+00:03:21.280 --> 00:03:24.920
+the full folder tree. So, I'm just going
+
+00:03:22.760 --> 00:03:28.959
+to show you guys how easy it is to set
+
+00:03:24.920 --> 00:03:30.880
+up your vault using Cloud Code.
+
+00:03:28.959 --> 00:03:31.959
+You don't have to use Cursor, obviously.
+
+00:03:30.880 --> 00:03:33.440
+You [music] can just use the Cloud Code
+
+00:03:31.959 --> 00:03:34.720
+IDE, Visual Studio Code, whichever one
+
+00:03:33.440 --> 00:03:36.280
+you like the most.
+
+00:03:34.720 --> 00:03:39.600
+And we have Fiber 5 activated, we can
+
+00:03:36.280 --> 00:03:39.600
+always switch to another model.
+
+00:03:43.880 --> 00:03:49.280
+See on the right side, the folders were
+
+00:03:45.519 --> 00:03:51.080
+created pretty quickly, to be honest.
+
+00:03:49.280 --> 00:03:53.920
+And now it's writing readmes for every
+
+00:03:51.080 --> 00:03:53.920
+single [music] folder.
+
+00:03:54.520 --> 00:03:56.000
+And this
+
+00:03:55.802 --> 00:03:58.760
+>> [music]
+
+00:03:56.000 --> 00:04:00.640
+>> is a great way of just letting any AI
+
+00:03:58.760 --> 00:04:02.320
+tool know what each folder is for and
+
+00:04:00.640 --> 00:04:04.520
+the read me kind of gives that context,
+
+00:04:02.320 --> 00:04:05.627
+gives that direction to any AI tool
+
+00:04:04.520 --> 00:04:07.240
+that's accessing the second brain
+
+00:04:05.627 --> 00:04:08.640
+[music] because you might not be using a
+
+00:04:07.240 --> 00:04:09.800
+second brain for just, you know, a
+
+00:04:08.640 --> 00:04:11.000
+Claude-powered system. You could be
+
+00:04:09.800 --> 00:04:12.880
+using it for Codex, you could be using
+
+00:04:11.000 --> 00:04:14.200
+it for Gemini, whatever the case might
+
+00:04:12.880 --> 00:04:17.280
+be.
+
+00:04:14.200 --> 00:04:20.000
+Here are all the read me's we have.
+
+00:04:17.280 --> 00:04:22.520
+Very thorough, which I like.
+
+00:04:20.000 --> 00:04:25.000
+All right, so we have a claude.md
+
+00:04:22.520 --> 00:04:25.000
+file,
+
+00:04:25.600 --> 00:04:29.560
+All right, so we have our claude.md.
+
+00:04:31.600 --> 00:04:35.000
+Just drag that over here.
+
+00:04:38.440 --> 00:04:42.160
+All right.
+
+00:04:40.640 --> 00:04:45.400
+So, this
+
+00:04:42.160 --> 00:04:47.160
+is letting it know context on who
+
+00:04:45.400 --> 00:04:51.400
+exactly
+
+00:04:47.160 --> 00:04:53.360
+it is and kind of giving AI structure
+
+00:04:51.400 --> 00:04:55.720
+for one, background context on myself,
+
+00:04:53.360 --> 00:04:57.600
+my businesses, the vault map, so that
+
+00:04:55.720 --> 00:04:59.280
+way an AI tool knows how to navigate the
+
+00:04:57.600 --> 00:05:01.040
+second brain or Claude knows how to
+
+00:04:59.280 --> 00:05:03.440
+navigate the second brain,
+
+00:05:01.040 --> 00:05:06.560
+and some rules that we got.
+
+00:05:03.440 --> 00:05:08.280
+All right, so we have
+
+00:05:06.560 --> 00:05:10.160
+some documents I've put in this folder
+
+00:05:08.280 --> 00:05:12.840
+of business starter packs such as
+
+00:05:10.160 --> 00:05:14.640
+offering pricing, some MD files that
+
+00:05:12.840 --> 00:05:16.560
+I've had in the past.
+
+00:05:14.640 --> 00:05:18.640
+And I'm going to open up context and
+
+00:05:16.560 --> 00:05:20.320
+just drag
+
+00:05:18.640 --> 00:05:21.360
+these.
+
+00:05:20.320 --> 00:05:23.240
+Wait.
+
+00:05:21.360 --> 00:05:25.400
+Okay, right
+
+00:05:23.240 --> 00:05:28.000
+there.
+
+00:05:25.400 --> 00:05:31.000
+And the inbox.
+
+00:05:28.000 --> 00:05:31.960
+Drag this.
+
+00:05:31.000 --> 00:05:35.440
+Oh.
+
+00:05:31.960 --> 00:05:35.440
+This, delete that.
+
+00:05:37.880 --> 00:05:41.000
+So, I have these files right here. Going
+
+00:05:39.400 --> 00:05:43.000
+to drag these into the context. These
+
+00:05:41.000 --> 00:05:45.320
+are some example files
+
+00:05:43.000 --> 00:05:48.320
+that I've made.
+
+00:05:45.320 --> 00:05:50.120
+Some real MD files for real projects,
+
+00:05:48.320 --> 00:05:51.480
+some just
+
+00:05:50.120 --> 00:05:54.040
+here [snorts]
+
+00:05:51.480 --> 00:05:58.040
+for the sake of this video. Okay, why is
+
+00:05:54.040 --> 00:05:58.040
+it being difficult? Close that.
+
+00:05:58.280 --> 00:06:03.320
+All right, I finished dragging these
+
+00:05:59.440 --> 00:06:05.080
+files into the inbox.
+
+00:06:03.320 --> 00:06:08.080
+So, I have these MD files properly
+
+00:06:05.080 --> 00:06:10.320
+labeled as well.
+
+00:06:08.080 --> 00:06:12.040
+Some past meetings, of course some, you
+
+00:06:10.320 --> 00:06:15.560
+know, fake meetings.
+
+00:06:12.040 --> 00:06:17.600
+All right, so I have files in the inbox
+
+00:06:15.560 --> 00:06:19.880
+and the contacts and the rest of the
+
+00:06:17.600 --> 00:06:22.200
+folders are pretty empty right now.
+
+00:06:19.880 --> 00:06:23.880
+You can see it's automatically populated
+
+00:06:22.200 --> 00:06:25.960
+from my ID into the actual Obsidian
+
+00:06:23.880 --> 00:06:27.280
+Vault. Cuz it's all shared memory. All
+
+00:06:25.960 --> 00:06:30.400
+right, so now we're going to have Claude
+
+00:06:27.280 --> 00:06:33.720
+read everything in
+
+00:06:30.400 --> 00:06:36.919
+in 000 to the inbox
+
+00:06:33.720 --> 00:06:40.520
+and turn it into clean
+
+00:06:36.919 --> 00:06:42.600
+linked wiki notes
+
+00:06:40.520 --> 00:06:45.280
+and wiki
+
+00:06:42.600 --> 00:06:46.520
+our wiki folder. So, we're essentially
+
+00:06:45.280 --> 00:06:49.000
+going to be
+
+00:06:46.520 --> 00:06:51.400
+moving the files [music] or processing
+
+00:06:49.000 --> 00:06:52.760
+the files in the inbox and putting into
+
+00:06:51.400 --> 00:06:54.280
+the wiki.
+
+00:06:52.760 --> 00:06:58.000
+So, one note per document. So, we're
+
+00:06:54.280 --> 00:06:58.000
+going to give you some guidelines
+
+00:06:59.320 --> 00:07:04.280
+to follow. And this wiki is what's going
+
+00:07:02.040 --> 00:07:07.000
+to really power our second brain. You
+
+00:07:04.280 --> 00:07:09.919
+can imagine the inbox as just a place to
+
+00:07:07.000 --> 00:07:11.960
+consume files, like your emails for
+
+00:07:09.919 --> 00:07:13.440
+example.
+
+00:07:11.960 --> 00:07:15.400
+You might your inbox might consume all
+
+00:07:13.440 --> 00:07:17.080
+these emails and get that information
+
+00:07:15.400 --> 00:07:19.680
+put into your second brain, which is
+
+00:07:17.080 --> 00:07:19.680
+your wiki.
+
+00:07:22.120 --> 00:07:25.400
+Okay, we're going to make sure we cite
+
+00:07:23.240 --> 00:07:26.840
+the source files and know exactly where
+
+00:07:25.400 --> 00:07:28.880
+these links are coming from so we don't
+
+00:07:26.840 --> 00:07:30.160
+have any hallucinations.
+
+00:07:28.880 --> 00:07:32.320
+Or if you do, we can at least track the
+
+00:07:30.160 --> 00:07:34.720
+hallucination.
+
+00:07:32.320 --> 00:07:37.160
+All right, we have
+
+00:07:34.720 --> 00:07:39.040
+inbox is being read.
+
+00:07:37.160 --> 00:07:40.919
+All right, so we have our wiki being
+
+00:07:39.040 --> 00:07:42.840
+populated right here.
+
+00:07:40.919 --> 00:07:44.880
+We have information about Dana.
+
+00:07:42.840 --> 00:07:47.440
+We have You see other we have Marcus on
+
+00:07:44.880 --> 00:07:49.160
+the right. We have Priya on the right.
+
+00:07:47.440 --> 00:07:52.320
+You see everything that's being written
+
+00:07:49.160 --> 00:07:55.080
+to our wiki based off what was in the
+
+00:07:52.320 --> 00:07:55.080
+inbox.
+
+00:07:57.800 --> 00:08:02.640
+Okay. All right. So, everything is now
+
+00:08:00.120 --> 00:08:04.200
+created and here [music] is a note the
+
+00:08:02.640 --> 00:08:08.120
+source
+
+00:08:04.200 --> 00:08:10.920
+of which was used to create the note in
+
+00:08:08.120 --> 00:08:13.760
+the wiki. People clients offer so you
+
+00:08:10.920 --> 00:08:17.240
+can see everything been broken down
+
+00:08:13.760 --> 00:08:19.000
+in a very structural way.
+
+00:08:17.240 --> 00:08:21.000
+Which is great because now our AI tool
+
+00:08:19.000 --> 00:08:22.560
+can go through our wiki and understand
+
+00:08:21.000 --> 00:08:24.200
+more about our business. And this is
+
+00:08:22.560 --> 00:08:25.520
+where you really create that second
+
+00:08:24.200 --> 00:08:26.640
+brain for your business and hopefully
+
+00:08:25.520 --> 00:08:27.720
+you can start seeing it come into
+
+00:08:26.640 --> 00:08:32.520
+fruition now. All right, here's an
+
+00:08:27.720 --> 00:08:34.280
+example of our wiki. See the graph view.
+
+00:08:32.520 --> 00:08:36.640
+You can see this just just markdown
+
+00:08:34.280 --> 00:08:39.520
+files. You're nothing crazy.
+
+00:08:36.640 --> 00:08:41.680
+Decisions, wins, scoreboard, attendees,
+
+00:08:39.520 --> 00:08:44.640
+some information broken down from this
+
+00:08:41.680 --> 00:08:44.640
+leadership meeting.
+
+00:08:44.800 --> 00:08:49.120
+Okay. Go back to the graph view right
+
+00:08:46.520 --> 00:08:50.360
+here. Another one. I think I think this
+
+00:08:49.120 --> 00:08:52.280
+might be the same one. Is it the same
+
+00:08:50.360 --> 00:08:54.160
+one? Let's go back.
+
+00:08:52.280 --> 00:08:56.480
+Click something else.
+
+00:08:54.160 --> 00:08:58.000
+Um it's always fun to play around with
+
+00:08:56.480 --> 00:08:59.839
+your second brain. All right, let's
+
+00:08:58.000 --> 00:09:04.160
+let's learn more about Priya.
+
+00:08:59.839 --> 00:09:06.240
+Okay. Let's go to
+
+00:09:04.160 --> 00:09:07.280
+this client Acme Robotics. It's
+
+00:09:06.240 --> 00:09:08.520
+obviously [music] a fake client by the
+
+00:09:07.280 --> 00:09:10.160
+way.
+
+00:09:08.520 --> 00:09:11.839
+Um
+
+00:09:10.160 --> 00:09:13.880
+Okay.
+
+00:09:11.839 --> 00:09:15.960
+See look at person. So, everything is
+
+00:09:13.880 --> 00:09:17.680
+linked, right? See how you have links to
+
+00:09:15.960 --> 00:09:19.200
+other parts of MD files. If you've used
+
+00:09:17.680 --> 00:09:21.360
+Notion before, it's very similar to your
+
+00:09:19.200 --> 00:09:25.040
+Notion where everything is a [music]
+
+00:09:21.360 --> 00:09:28.280
+link directing to another page.
+
+00:09:25.040 --> 00:09:31.200
+Okay. So, we have our second brain set
+
+00:09:28.280 --> 00:09:33.600
+up but now we actually have to make a
+
+00:09:31.200 --> 00:09:36.560
+real business OS meaning give it real
+
+00:09:33.600 --> 00:09:38.960
+application. So, to do that, we are
+
+00:09:36.560 --> 00:09:41.480
+going to connect [music] our Gmail and
+
+00:09:38.960 --> 00:09:43.400
+Google Calendar and do some processing
+
+00:09:41.480 --> 00:09:44.720
+using Claude and our second brain to
+
+00:09:43.400 --> 00:09:46.920
+really [music] create a business OS cuz
+
+00:09:44.720 --> 00:09:50.640
+this is what clients will actually pay
+
+00:09:46.920 --> 00:09:53.920
+for. So, let's go ahead look through
+
+00:09:50.640 --> 00:09:56.760
+some of these skills that I have
+
+00:09:53.920 --> 00:09:58.800
+and Claude has in general.
+
+00:09:56.760 --> 00:09:58.800
+Uh
+
+00:09:58.840 --> 00:10:02.800
+SP servers, you can see I have Google
+
+00:10:00.960 --> 00:10:05.760
+Drive. I already have most of my servers
+
+00:10:02.800 --> 00:10:06.920
+connected, so Gmail, Calendar, Drive.
+
+00:10:05.760 --> 00:10:08.800
+But
+
+00:10:06.920 --> 00:10:10.467
+yes, you want to connect your Gmail,
+
+00:10:08.800 --> 00:10:11.720
+your Calendar, your Drive simply just,
+
+00:10:10.467 --> 00:10:13.600
+[music] you know, follow click the
+
+00:10:11.720 --> 00:10:16.360
+button to connect it and it'll help you
+
+00:10:13.600 --> 00:10:19.800
+connect it. Very straightforward. MCP
+
+00:10:16.360 --> 00:10:26.000
+and Gmail MCP
+
+00:10:19.800 --> 00:10:26.000
+to get the current data on what's going
+
+00:10:30.320 --> 00:10:33.560
+All right, so now we're going to be
+
+00:10:31.320 --> 00:10:35.760
+connecting our Calendar and Gmail MCP
+
+00:10:33.560 --> 00:10:37.760
+and essentially process all the
+
+00:10:35.760 --> 00:10:39.520
+information that comes from it and add
+
+00:10:37.760 --> 00:10:41.040
+it to our wiki. So, this is where we're
+
+00:10:39.520 --> 00:10:43.480
+adding more information to our second
+
+00:10:41.040 --> 00:10:43.480
+brain.
+
+00:10:44.640 --> 00:10:47.640
+You see, it's reading our Google
+
+00:10:46.080 --> 00:10:48.839
+Calendar, it's reading our email,
+
+00:10:47.640 --> 00:10:50.760
+looking through our threads, listing all
+
+00:10:48.839 --> 00:10:52.200
+the events in the calendar. And I have a
+
+00:10:50.760 --> 00:10:54.080
+lot going on in my business and life, so
+
+00:10:52.200 --> 00:10:56.680
+I'm very interested to see what happens
+
+00:10:54.080 --> 00:10:58.080
+now. Granted, this is a test environment
+
+00:10:56.680 --> 00:11:00.000
+that I'm operating in, so some of the
+
+00:10:58.080 --> 00:11:02.080
+data is you know, it's not the full
+
+00:11:00.000 --> 00:11:03.760
+data, but it's to show you guys what you
+
+00:11:02.080 --> 00:11:05.839
+can do for your own business, your own
+
+00:11:03.760 --> 00:11:07.480
+service and for some of your clients
+
+00:11:05.839 --> 00:11:08.839
+even. This is one of the great really
+
+00:11:07.480 --> 00:11:10.880
+probably the best upsells you can do
+
+00:11:08.839 --> 00:11:13.400
+right now to your current clients to
+
+00:11:10.880 --> 00:11:15.760
+say, "Hey, I can also make your entire
+
+00:11:13.400 --> 00:11:19.040
+business way more simplified
+
+00:11:15.760 --> 00:11:19.040
+by having a second brain."
+
+00:11:19.720 --> 00:11:23.920
+Okay, so we have
+
+00:11:24.720 --> 00:11:29.200
+a certification going up.
+
+00:11:27.240 --> 00:11:31.240
+Uh Northern Illinois Illinois Recovery
+
+00:11:29.200 --> 00:11:34.160
+Center, some volunteering community
+
+00:11:31.240 --> 00:11:36.080
+health. Let's go back to our graph view.
+
+00:11:34.160 --> 00:11:38.000
+See our graph is starting to get bigger.
+
+00:11:36.080 --> 00:11:41.320
+That second brain expands, so are the
+
+00:11:38.000 --> 00:11:41.320
+amount of nodes we have.
+
+00:11:41.840 --> 00:11:48.520
+So now we're going to make a reusable
+
+00:11:42.920 --> 00:11:52.000
+skill called weekly brief.
+
+00:11:48.520 --> 00:11:54.280
+So this skill will essentially
+
+00:11:52.000 --> 00:11:57.880
+read all the contexts and projects and
+
+00:11:54.280 --> 00:12:00.080
+write a short Monday brief.
+
+00:11:57.880 --> 00:12:01.600
+We'll have top three priorities, what's
+
+00:12:00.080 --> 00:12:03.960
+stuck, so anything like bottlenecks in
+
+00:12:01.600 --> 00:12:07.600
+our business, a suggestion, and we can
+
+00:12:03.960 --> 00:12:10.200
+save the instructions as
+
+00:12:07.600 --> 00:12:13.280
+skills weekly brief. We're going to add
+
+00:12:10.200 --> 00:12:15.440
+this to our skills folder.
+
+00:12:13.280 --> 00:12:16.520
+And we're going to have it run once
+
+00:12:15.440 --> 00:12:19.600
+weekly
+
+00:12:16.520 --> 00:12:21.000
+on the Monday. We have our rules as well
+
+00:12:19.600 --> 00:12:23.440
+in our
+
+00:12:21.000 --> 00:12:24.720
+skill.
+
+00:12:23.440 --> 00:12:26.720
+It's pretty good.
+
+00:12:24.720 --> 00:12:27.600
+Uh pretty good, so
+
+00:12:26.720 --> 00:12:29.200
+we're just going to go ahead and make it
+
+00:12:27.600 --> 00:12:32.520
+shorter
+
+00:12:29.200 --> 00:12:35.160
+and add a what to ignore this week line,
+
+00:12:32.520 --> 00:12:37.280
+so we don't get flooded with things that
+
+00:12:35.160 --> 00:12:39.153
+we don't really care about that aren't
+
+00:12:37.280 --> 00:12:41.173
+going to be moving our business forward.
+
+00:12:39.153 --> 00:12:41.173
+[music]
+
+00:12:44.400 --> 00:12:47.800
+All right, so let's update our skill.
+
+00:12:49.839 --> 00:12:54.800
+Um
+
+00:12:52.000 --> 00:12:54.800
+just let [music] it cook.
+
+00:12:56.640 --> 00:13:03.520
+Okay, we have our edit in.
+
+00:13:01.560 --> 00:13:06.560
+We see our weekly brief is now updated.
+
+00:13:03.520 --> 00:13:08.240
+Total length went from 200 to 150 words,
+
+00:13:06.560 --> 00:13:11.080
+which is great. So I'm going to the
+
+00:13:08.240 --> 00:13:11.080
+graph view.
+
+00:13:11.400 --> 00:13:15.200
+Uh
+
+00:13:12.400 --> 00:13:15.200
+let's try to
+
+00:13:16.489 --> 00:13:18.509
+>> [laughter]
+
+00:13:33.400 --> 00:13:37.400
+>> Okay, so ignore this week.
+
+00:13:36.160 --> 00:13:39.480
+All right, suggestion ask Brightwell for
+
+00:13:37.400 --> 00:13:41.320
+testimonial now that the new energy is
+
+00:13:39.480 --> 00:13:42.680
+fresh and social proof and cohort goes
+
+00:13:41.320 --> 00:13:45.160
+live.
+
+00:13:42.680 --> 00:13:46.840
+Okay, so some top secret stuff that I
+
+00:13:45.160 --> 00:13:50.880
+will be working on. I'm actually working
+
+00:13:46.840 --> 00:13:53.520
+with this on this with a mentee
+
+00:13:50.880 --> 00:13:53.520
+of mine.
+
+00:14:01.040 --> 00:14:05.360
+So I spent a few sub agents in parallel
+
+00:14:03.240 --> 00:14:09.560
+to, let's say, to produce some risk
+
+00:14:05.360 --> 00:14:09.560
+across my projects.
+
+00:14:10.320 --> 00:14:14.320
+And then Dangle by summary.
+
+00:14:15.880 --> 00:14:20.400
+All right, so we are just going to have
+
+00:14:17.880 --> 00:14:22.080
+some sub agents
+
+00:14:20.400 --> 00:14:23.440
+find all the potential or the three
+
+00:14:22.080 --> 00:14:25.960
+biggest risks
+
+00:14:23.440 --> 00:14:27.920
+across a project we're working on
+
+00:14:25.960 --> 00:14:29.680
+and it provide a summary and we don't
+
+00:14:27.920 --> 00:14:31.520
+need to use like an expensive model for
+
+00:14:29.680 --> 00:14:33.360
+this cuz there's a lot of information go
+
+00:14:31.520 --> 00:14:35.000
+through XDR graph view, it's a lot of
+
+00:14:33.360 --> 00:14:36.240
+nodes.
+
+00:14:35.000 --> 00:14:38.720
+So you'd rather just have the cheaper
+
+00:14:36.240 --> 00:14:38.720
+model.
+
+00:14:40.200 --> 00:14:44.040
+Okay.
+
+00:14:42.040 --> 00:14:46.839
+It's risk one, secondary flight
+
+00:14:44.040 --> 00:14:46.839
+likelihood.
+
+00:14:51.480 --> 00:14:55.395
+So this is me showing you all how we got
+
+00:14:53.760 --> 00:14:55.680
+a blank brain
+
+00:14:55.395 --> 00:14:57.800
+>> [music]
+
+00:14:55.680 --> 00:15:00.240
+>> and now are fully making it to a second
+
+00:14:57.800 --> 00:15:02.960
+brain that can interact with, you know,
+
+00:15:00.240 --> 00:15:06.360
+our Gmail, our Google Calendar, your
+
+00:15:02.960 --> 00:15:08.440
+Google Drive, make skills,
+
+00:15:06.360 --> 00:15:10.160
+fix the skills, run some sub agents, do
+
+00:15:08.440 --> 00:15:11.115
+some analysis based off what's in our
+
+00:15:10.160 --> 00:15:11.520
+second brain.
+
+00:15:11.115 --> 00:15:13.320
+>> [music]
+
+00:15:11.520 --> 00:15:14.600
+>> And this is the power of Sydney and
+
+00:15:13.320 --> 00:15:18.120
+Claude.
+
+00:15:14.600 --> 00:15:20.440
+You see some of the risks I identified.
+
+00:15:18.120 --> 00:15:22.960
+And yeah, this is no delivery process
+
+00:15:20.440 --> 00:15:24.880
+for Wow, so I need to
+
+00:15:22.960 --> 00:15:26.080
+work on Prio's delivery a little more,
+
+00:15:24.880 --> 00:15:28.560
+it looks like.
+
+00:15:26.080 --> 00:15:28.560
+Nice.
+
+00:15:29.200 --> 00:15:33.000
+Here is that automation design MD.
+
+00:15:31.920 --> 00:15:35.160
+Okay, so what we're going to be doing
+
+00:15:33.000 --> 00:15:37.720
+now is we're going to
+
+00:15:35.160 --> 00:15:39.640
+have this rule
+
+00:15:37.720 --> 00:15:42.240
+that will essentially allow us to
+
+00:15:39.640 --> 00:15:45.120
+automate this Monday brief and make it
+
+00:15:42.240 --> 00:15:45.120
+run weekly.
+
+00:15:55.600 --> 00:15:59.320
+So, this is the wiring portion [music]
+
+00:15:57.480 --> 00:16:03.120
+of our business OS. We did the frame
+
+00:15:59.320 --> 00:16:05.920
+part of the foundation. We did the room.
+
+00:16:03.120 --> 00:16:08.240
+And now
+
+00:16:05.920 --> 00:16:11.240
+that is set every Monday as our
+
+00:16:08.240 --> 00:16:11.240
+schedule.
+
+00:16:13.040 --> 00:16:16.800
+Um so, that's the thermostat. This is
+
+00:16:15.600 --> 00:16:18.520
+where the schedule that we have, our
+
+00:16:16.800 --> 00:16:21.520
+cadence.
+
+00:16:18.520 --> 00:16:23.400
+We have the locks.
+
+00:16:21.520 --> 00:16:24.400
+So, we're basically giving some guard
+
+00:16:23.400 --> 00:16:25.960
+guardrails, [music] so there's the
+
+00:16:24.400 --> 00:16:27.440
+safety rules and
+
+00:16:25.960 --> 00:16:29.680
+you know, only give it access to what it
+
+00:16:27.440 --> 00:16:31.960
+truly needs.
+
+00:16:29.680 --> 00:16:34.520
+So, we do have that part
+
+00:16:31.960 --> 00:16:36.680
+done, too. Now, to truly sell your
+
+00:16:34.520 --> 00:16:39.200
+business OS as a $40,000 solution, the
+
+00:16:36.680 --> 00:16:41.080
+next step would be to add a UI layer
+
+00:16:39.200 --> 00:16:42.839
+that makes it very easy for your client
+
+00:16:41.080 --> 00:16:44.120
+to interact with Second Brain cuz I'm
+
+00:16:42.839 --> 00:16:45.520
+sure your client does not want to open
+
+00:16:44.120 --> 00:16:47.000
+up Cloud Code cuz most likely they're
+
+00:16:45.520 --> 00:16:48.920
+not even technical. If you want to see
+
+00:16:47.000 --> 00:16:52.120
+how to close multi five-figure deals,
+
+00:16:48.920 --> 00:16:52.120
+watch this video next.
+

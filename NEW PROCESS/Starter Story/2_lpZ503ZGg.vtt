@@ -1,0 +1,1430 @@
+WEBVTT
+
+00:00:00.160 --> 00:00:04.240
+Okay, I'm here at the Vista Valencia
+
+00:00:01.920 --> 00:00:05.759
+Golf Course in Los Angeles, California.
+
+00:00:04.240 --> 00:00:08.240
+And we are going to meet someone who
+
+00:00:05.759 --> 00:00:10.800
+built a successful app yet still has a
+
+00:00:08.240 --> 00:00:13.200
+full-time job. It all started when he
+
+00:00:10.800 --> 00:00:15.440
+sent me a DM. He said, "Hey Pat, my app
+
+00:00:13.200 --> 00:00:18.160
+is making $30,000 a month, and I have a
+
+00:00:15.440 --> 00:00:21.039
+software engineering job at Meta. Should
+
+00:00:18.160 --> 00:00:22.720
+I keep my Meta job or should I go allin
+
+00:00:21.039 --> 00:00:25.359
+on my business and take it to the next
+
+00:00:22.720 --> 00:00:27.039
+level?" Let's find out. In this video,
+
+00:00:25.359 --> 00:00:29.760
+you're going to learn about the $30,000
+
+00:00:27.039 --> 00:00:31.519
+per month golf app that he built. some
+
+00:00:29.760 --> 00:00:32.800
+really good advice on how to build a
+
+00:00:31.519 --> 00:00:34.719
+successful business while you have a
+
+00:00:32.800 --> 00:00:37.680
+full-time job. And at the end, we will
+
+00:00:34.719 --> 00:00:39.120
+decide if he should quit his job or not.
+
+00:00:37.680 --> 00:00:42.440
+I'm Pat [music] Walls and this is
+
+00:00:39.120 --> 00:00:42.440
+Starter Story.
+
+00:00:43.200 --> 00:00:50.320
+All right, we are driving out to
+
+00:00:46.320 --> 00:00:53.760
+meet this guy who makes $30,000 a month
+
+00:00:50.320 --> 00:00:58.199
+from his SAS and he works at Meta.
+
+00:00:53.760 --> 00:00:58.199
+There's geese, bro. move.
+
+00:01:02.399 --> 00:01:07.119
+>> Okay, starter story, fam. We are here at
+
+00:01:05.040 --> 00:01:11.200
+Vista Valencia Golf Course. We are about
+
+00:01:07.119 --> 00:01:13.680
+to meet the golf app owner who's making
+
+00:01:11.200 --> 00:01:15.040
+30 $40,000 a month with his golf app.
+
+00:01:13.680 --> 00:01:17.280
+Let's go meet him. He's right there. You
+
+00:01:15.040 --> 00:01:17.920
+can see his golf swing. It is beautiful.
+
+00:01:17.280 --> 00:01:18.720
+What's up, buddy?
+
+00:01:17.920 --> 00:01:19.520
+>> What's up, man? Good to meet you.
+
+00:01:18.720 --> 00:01:22.479
+>> How you doing?
+
+00:01:19.520 --> 00:01:25.759
+>> How you doing? So, you are the owner of
+
+00:01:22.479 --> 00:01:27.119
+Live Turney Golf SAS, making $30,000 a
+
+00:01:25.759 --> 00:01:29.439
+month. Tell me more about that.
+
+00:01:27.119 --> 00:01:31.200
+>> It's SAS tool for golf courses. It helps
+
+00:01:29.439 --> 00:01:33.119
+golf courses like this uh run their
+
+00:01:31.200 --> 00:01:34.799
+tournaments. We've got about 150 golf
+
+00:01:33.119 --> 00:01:36.720
+courses that have uh started using our
+
+00:01:34.799 --> 00:01:38.720
+product. We're at about 350K [music] of
+
+00:01:36.720 --> 00:01:40.560
+ARR and based on how we've been doing
+
+00:01:38.720 --> 00:01:41.439
+the start of the year, about a $800,000
+
+00:01:40.560 --> 00:01:42.960
+run rate.
+
+00:01:41.439 --> 00:01:44.880
+>> Nice. And tell me a little bit more
+
+00:01:42.960 --> 00:01:46.079
+about your career. I know that you're
+
+00:01:44.880 --> 00:01:47.840
+you've been building this for some time,
+
+00:01:46.079 --> 00:01:49.200
+but you still have a full-time job.
+
+00:01:47.840 --> 00:01:50.720
+What's going on there? I'm a senior
+
+00:01:49.200 --> 00:01:53.280
+software engineer at Meta. I work on the
+
+00:01:50.720 --> 00:01:54.799
+AI team. It's definitely been a hard
+
+00:01:53.280 --> 00:01:56.560
+thing to balance doing two things at
+
+00:01:54.799 --> 00:01:58.560
+once. But it's getting to a point where
+
+00:01:56.560 --> 00:02:00.320
+now I have to kind of make a decision on
+
+00:01:58.560 --> 00:02:01.600
+is this going to be a full-time thing.
+
+00:02:00.320 --> 00:02:03.439
+It's not really going to be sustainable
+
+00:02:01.600 --> 00:02:05.759
+for me to do both any longer.
+
+00:02:03.439 --> 00:02:08.319
+>> Yeah. Often we do our interviews over
+
+00:02:05.759 --> 00:02:09.759
+remote, but I really wanted to improve
+
+00:02:08.319 --> 00:02:11.200
+my golf swing. I'm wondering if you
+
+00:02:09.759 --> 00:02:11.760
+could help me out a little bit on that.
+
+00:02:11.200 --> 00:02:12.319
+>> Yeah, let's do it.
+
+00:02:11.760 --> 00:02:15.319
+>> Let's do it.
+
+00:02:12.319 --> 00:02:15.319
+>> Awesome.
+
+00:02:16.000 --> 00:02:18.319
+>> Okay. What is this?
+
+00:02:16.879 --> 00:02:20.480
+>> It's a pitching wedge. pitching wedge.
+
+00:02:18.319 --> 00:02:21.200
+Okay. I was a baseball pitcher. Is the
+
+00:02:20.480 --> 00:02:23.040
+same thing as that?
+
+00:02:21.200 --> 00:02:24.640
+>> Yeah, exactly. [laughter]
+
+00:02:23.040 --> 00:02:26.239
+The first thing I would do is your grip.
+
+00:02:24.640 --> 00:02:28.800
+I like to do what's called the interlock
+
+00:02:26.239 --> 00:02:29.440
+where you put your right pinky uh left
+
+00:02:28.800 --> 00:02:30.879
+forefinger.
+
+00:02:29.440 --> 00:02:31.520
+>> Okay. Like that. Like that.
+
+00:02:30.879 --> 00:02:32.640
+>> Yep. Exactly.
+
+00:02:31.520 --> 00:02:33.680
+>> I don't even have gloves.
+
+00:02:32.640 --> 00:02:35.599
+>> You want a glove?
+
+00:02:33.680 --> 00:02:36.560
+>> No, I'm good. And what about my stance?
+
+00:02:35.599 --> 00:02:39.560
+>> Stance looks good.
+
+00:02:36.560 --> 00:02:39.560
+>> Okay.
+
+00:02:40.879 --> 00:02:43.360
+How far did that one go?
+
+00:02:42.800 --> 00:02:46.599
+>> Still going.
+
+00:02:43.360 --> 00:02:46.599
+>> Oh, wow.
+
+00:02:47.280 --> 00:02:51.599
+Your app [music] is making over $30,000
+
+00:02:49.519 --> 00:02:53.360
+a month. Tell me how you even found the
+
+00:02:51.599 --> 00:02:54.800
+idea for this and how you decided this
+
+00:02:53.360 --> 00:02:56.400
+was even something worth building.
+
+00:02:54.800 --> 00:02:58.400
+>> I had played in some tournaments at my
+
+00:02:56.400 --> 00:03:00.080
+local course. We weren't using anything
+
+00:02:58.400 --> 00:03:01.440
+for scoring. I knew there was a product
+
+00:03:00.080 --> 00:03:03.599
+on the market that I'd used before
+
+00:03:01.440 --> 00:03:05.280
+called Golf Genius. And I asked our pro
+
+00:03:03.599 --> 00:03:06.720
+why we weren't using it. And he told me
+
+00:03:05.280 --> 00:03:08.560
+it was just too complicated and too
+
+00:03:06.720 --> 00:03:10.400
+expensive to me. That's an opportunity
+
+00:03:08.560 --> 00:03:12.400
+to go build something. And so I built it
+
+00:03:10.400 --> 00:03:14.080
+for our first event about 4 years ago.
+
+00:03:12.400 --> 00:03:15.040
+It was nights and weekends. I'd wake up
+
+00:03:14.080 --> 00:03:16.400
+and the first thing I'd want to do in
+
+00:03:15.040 --> 00:03:17.440
+the morning was go build or the last
+
+00:03:16.400 --> 00:03:18.800
+thing I want to do before I went to bed
+
+00:03:17.440 --> 00:03:20.560
+tonight was go build. And it was just
+
+00:03:18.800 --> 00:03:21.840
+kind of became like this obsession of
+
+00:03:20.560 --> 00:03:23.040
+like how do I keep making this thing
+
+00:03:21.840 --> 00:03:24.400
+better every day.
+
+00:03:23.040 --> 00:03:25.680
+>> Let's talk about how you built it.
+
+00:03:24.400 --> 00:03:28.080
+What's the tech stack on this?
+
+00:03:25.680 --> 00:03:29.760
+>> It's a web app. I use Next.js for the
+
+00:03:28.080 --> 00:03:31.920
+rendering side of things and then we use
+
+00:03:29.760 --> 00:03:34.400
+Google Firebase as our back end.
+
+00:03:31.920 --> 00:03:35.280
+>> I'm not a golfer and uh probably a lot
+
+00:03:34.400 --> 00:03:36.480
+of people watching this don't know
+
+00:03:35.280 --> 00:03:37.840
+anything about golf. Could you just like
+
+00:03:36.480 --> 00:03:40.319
+show me the app and like what it does?
+
+00:03:37.840 --> 00:03:42.400
+Essentially, what will happen is when
+
+00:03:40.319 --> 00:03:44.080
+players show up to the the golf course,
+
+00:03:42.400 --> 00:03:45.760
+they'll get handed a scorecard. They'll
+
+00:03:44.080 --> 00:03:47.680
+scan a QR code on their scorecard and
+
+00:03:45.760 --> 00:03:49.519
+they land right here on the leaderboard.
+
+00:03:47.680 --> 00:03:51.760
+And then they go to scorecard, they can
+
+00:03:49.519 --> 00:03:53.040
+enter the code on their card or they can
+
+00:03:51.760 --> 00:03:54.400
+just select their group and then they
+
+00:03:53.040 --> 00:03:56.319
+just start scoring. So they say, you
+
+00:03:54.400 --> 00:03:58.422
+know, four, let's say, I made a birdie
+
+00:03:56.319 --> 00:04:00.239
+on that hole. This guy made par and par.
+
+00:03:58.422 --> 00:04:02.239
+[music] But now when they go back to
+
+00:04:00.239 --> 00:04:03.519
+leaderboard, obviously as other people
+
+00:04:02.239 --> 00:04:05.040
+are putting in their scores, it's
+
+00:04:03.519 --> 00:04:06.239
+updating in real time and they can see
+
+00:04:05.040 --> 00:04:07.840
+how they're doing throughout the round.
+
+00:04:06.239 --> 00:04:09.040
+This is kind of the main leaderboard
+
+00:04:07.840 --> 00:04:12.040
+component for the event.
+
+00:04:09.040 --> 00:04:12.040
+>> Nice.
+
+00:04:12.480 --> 00:04:14.560
+>> Is this going to be B-roll or can I ask
+
+00:04:13.920 --> 00:04:15.680
+you real questions?
+
+00:04:14.560 --> 00:04:17.680
+>> Yeah, you can answer real questions.
+
+00:04:15.680 --> 00:04:19.600
+>> At the beginning, you ask like you're on
+
+00:04:17.680 --> 00:04:21.359
+the AI team. Why did you leave your job?
+
+00:04:19.600 --> 00:04:21.759
+>> Or you're like, this guy's making a dumb
+
+00:04:21.359 --> 00:04:23.520
+decision.
+
+00:04:21.759 --> 00:04:25.278
+>> I was just curious cuz one of my buddies
+
+00:04:23.520 --> 00:04:26.720
+works at Google and he made like, I
+
+00:04:25.278 --> 00:04:28.800
+[snorts] don't know, tens of millions or
+
+00:04:26.720 --> 00:04:30.320
+something like that just cuz he was
+
+00:04:28.800 --> 00:04:32.320
+working on the AI teams.
+
+00:04:30.320 --> 00:04:34.800
+>> Yeah. If it was purely financial, it
+
+00:04:32.320 --> 00:04:36.880
+seems like staying is probably the right
+
+00:04:34.800 --> 00:04:38.080
+call. But at the same time, I I could
+
+00:04:36.880 --> 00:04:40.080
+lose my job at any point.
+
+00:04:38.080 --> 00:04:40.800
+>> It's just such a hard decision.
+
+00:04:40.080 --> 00:04:43.040
+>> Yeah.
+
+00:04:40.800 --> 00:04:44.880
+>> Hey guys, it's Pat here from the future.
+
+00:04:43.040 --> 00:04:47.120
+I'm just finishing up the edit on this
+
+00:04:44.880 --> 00:04:48.880
+video right now. But this video, it got
+
+00:04:47.120 --> 00:04:51.040
+me thinking about something. [music] So
+
+00:04:48.880 --> 00:04:52.560
+Matt has been facing this huge decision.
+
+00:04:51.040 --> 00:04:54.400
+Should he stay at his job with all the
+
+00:04:52.560 --> 00:04:56.639
+job security and everything, or should
+
+00:04:54.400 --> 00:04:58.080
+he quit and go all in on his dream to
+
+00:04:56.639 --> 00:05:00.240
+build [music] his own SAS? The thing
+
+00:04:58.080 --> 00:05:02.160
+here is that there's no right or wrong
+
+00:05:00.240 --> 00:05:04.800
+answer. But it's important to note that
+
+00:05:02.160 --> 00:05:07.600
+Matt would not be here if he never made
+
+00:05:04.800 --> 00:05:09.360
+this one decision to go out and actually
+
+00:05:07.600 --> 00:05:10.800
+build something. And if you're watching
+
+00:05:09.360 --> 00:05:13.199
+this, you might be wondering, how do I
+
+00:05:10.800 --> 00:05:15.440
+find an awesome SAS idea like Matt's
+
+00:05:13.199 --> 00:05:17.199
+found that's making $30,000 a month?
+
+00:05:15.440 --> 00:05:19.520
+Well, we worked with HubSpot to put
+
+00:05:17.199 --> 00:05:22.800
+together a free database of over 100
+
+00:05:19.520 --> 00:05:24.479
+proven micro SAS ideas just like his. In
+
+00:05:22.800 --> 00:05:26.479
+that database, we break down revenue
+
+00:05:24.479 --> 00:05:28.400
+numbers, pricing models, how much it
+
+00:05:26.479 --> 00:05:30.479
+costs to start, and everything else you
+
+00:05:28.400 --> 00:05:32.320
+might need to find and validate your
+
+00:05:30.479 --> 00:05:34.320
+idea. So, if you've been looking for
+
+00:05:32.320 --> 00:05:36.479
+your next idea to build, the beginnings
+
+00:05:34.320 --> 00:05:38.080
+of that might be hiding right here in
+
+00:05:36.479 --> 00:05:39.360
+this database. If you want to grab it,
+
+00:05:38.080 --> 00:05:41.759
+you can just head to that link in the
+
+00:05:39.360 --> 00:05:44.080
+description and get it 100% for free.
+
+00:05:41.759 --> 00:05:45.919
+All right, let's get back to the video.
+
+00:05:44.080 --> 00:05:47.840
+>> So, what are your plans? My plan had
+
+00:05:45.919 --> 00:05:50.240
+always been to do both as long as I can
+
+00:05:47.840 --> 00:05:52.479
+because it lets me build at a pace that
+
+00:05:50.240 --> 00:05:53.840
+I can keep sustainable to grow the
+
+00:05:52.479 --> 00:05:55.520
+business, but also I don't have to take
+
+00:05:53.840 --> 00:05:56.880
+the risk of not having a salary, not
+
+00:05:55.520 --> 00:05:58.320
+having benefits or anything like that.
+
+00:05:56.880 --> 00:05:59.759
+But it's getting to the point now where
+
+00:05:58.320 --> 00:06:02.000
+two of them at the same time with two
+
+00:05:59.759 --> 00:06:04.319
+young kids is no longer sustainable.
+
+00:06:02.000 --> 00:06:06.319
+>> Walk me through your thought process of
+
+00:06:04.319 --> 00:06:07.440
+essentially quitting that career, your
+
+00:06:06.319 --> 00:06:09.759
+emotions around that.
+
+00:06:07.440 --> 00:06:11.759
+>> The first one is fear. just like walking
+
+00:06:09.759 --> 00:06:13.600
+away from this steady great job. You
+
+00:06:11.759 --> 00:06:15.600
+know, I can work 9 to5 at Meta and have
+
+00:06:13.600 --> 00:06:17.680
+a pretty great life. But on the pro
+
+00:06:15.600 --> 00:06:19.919
+side, it's like being able to chase my
+
+00:06:17.680 --> 00:06:21.520
+dream and go after what I built and
+
+00:06:19.919 --> 00:06:22.639
+being able to show my kids you can just
+
+00:06:21.520 --> 00:06:23.680
+do what you want to do. Like you don't
+
+00:06:22.639 --> 00:06:24.960
+have to wait. You don't have to let
+
+00:06:23.680 --> 00:06:26.880
+someone tell you what to do. Like you
+
+00:06:24.960 --> 00:06:28.720
+can go build things. I started this to
+
+00:06:26.880 --> 00:06:30.479
+kind of give myself the freedom to be my
+
+00:06:28.720 --> 00:06:32.000
+own boss and and build my own thing. But
+
+00:06:30.479 --> 00:06:33.520
+that also means now I'm waking up at
+
+00:06:32.000 --> 00:06:35.520
+6:00 in the morning and fixing bugs or
+
+00:06:33.520 --> 00:06:36.800
+I'm up late at on a Sunday night at
+
+00:06:35.520 --> 00:06:38.560
+midnight trying to get the next feature
+
+00:06:36.800 --> 00:06:40.240
+out. And so it's definitely a battle of
+
+00:06:38.560 --> 00:06:42.400
+those two things.
+
+00:06:40.240 --> 00:06:43.919
+>> And let's talk about job security for a
+
+00:06:42.400 --> 00:06:45.840
+second. How you think about that?
+
+00:06:43.919 --> 00:06:47.600
+>> I've been at Meta for 6 years. There's
+
+00:06:45.840 --> 00:06:49.759
+probably been six plus layoffs in that
+
+00:06:47.600 --> 00:06:51.600
+time. I've been lucky not to be affected
+
+00:06:49.759 --> 00:06:53.440
+by them, but it's feeling more so that
+
+00:06:51.600 --> 00:06:55.440
+it's not necessarily like a guarantee
+
+00:06:53.440 --> 00:06:57.360
+that I can be here as long as I wanted.
+
+00:06:55.440 --> 00:06:59.280
+>> One of the reasons why I wanted to meet
+
+00:06:57.360 --> 00:07:00.880
+you and and talk to you is because you
+
+00:06:59.280 --> 00:07:02.479
+have this inflection point coming up
+
+00:07:00.880 --> 00:07:04.800
+where you're going to decide to quit
+
+00:07:02.479 --> 00:07:06.479
+your job or just keep going. Are you
+
+00:07:04.800 --> 00:07:08.800
+nervous about it? Yeah, I think I'm
+
+00:07:06.479 --> 00:07:10.880
+definitely nervous like what the day
+
+00:07:08.800 --> 00:07:12.720
+after when I wake up and I don't have
+
+00:07:10.880 --> 00:07:14.080
+the real job and and the real income
+
+00:07:12.720 --> 00:07:16.639
+like what does that look like? I'm
+
+00:07:14.080 --> 00:07:18.319
+definitely [music] like fearful of you
+
+00:07:16.639 --> 00:07:20.080
+know if this doesn't work or if
+
+00:07:18.319 --> 00:07:22.800
+something happens and I lose all my
+
+00:07:20.080 --> 00:07:24.319
+customers like then I have nothing
+
+00:07:22.800 --> 00:07:25.520
+>> what are you thinking you're going to
+
+00:07:24.319 --> 00:07:27.360
+do?
+
+00:07:25.520 --> 00:07:29.120
+>> My heart tells me to go all in on this
+
+00:07:27.360 --> 00:07:30.960
+thing. It's still small obviously right
+
+00:07:29.120 --> 00:07:33.280
+now but I I do see a path forward to
+
+00:07:30.960 --> 00:07:34.960
+this being a really really legitimate
+
+00:07:33.280 --> 00:07:37.199
+great business. And when I think about
+
+00:07:34.960 --> 00:07:38.639
+the energy that I get in the morning and
+
+00:07:37.199 --> 00:07:39.919
+what I want to spend [music] my time on,
+
+00:07:38.639 --> 00:07:41.759
+it's live journey.
+
+00:07:39.919 --> 00:07:44.479
+>> I think there's something there. I had a
+
+00:07:41.759 --> 00:07:46.639
+full-time job. I was working in tech and
+
+00:07:44.479 --> 00:07:48.639
+I decided to quit my job and go all in.
+
+00:07:46.639 --> 00:07:50.880
+And there's something about having your
+
+00:07:48.639 --> 00:07:53.840
+back against the wall. Like when I quit
+
+00:07:50.880 --> 00:07:56.879
+my job to start,
+
+00:07:53.840 --> 00:07:59.759
+I had $12,000 in my bank account. That
+
+00:07:56.879 --> 00:08:01.680
+was really motivating to push me to go
+
+00:07:59.759 --> 00:08:03.039
+all in. But a lot of people just go
+
+00:08:01.680 --> 00:08:04.400
+start a business and then they don't
+
+00:08:03.039 --> 00:08:05.919
+even know how to prioritize their time
+
+00:08:04.400 --> 00:08:07.120
+or anything like that.
+
+00:08:05.919 --> 00:08:08.639
+>> You already know how to do that. You
+
+00:08:07.120 --> 00:08:10.080
+prove you can generate revenue and get
+
+00:08:08.639 --> 00:08:11.840
+customers. You did all the hard part
+
+00:08:10.080 --> 00:08:13.680
+already. Now, once you have your full
+
+00:08:11.840 --> 00:08:16.240
+day to dedicate to this and you know how
+
+00:08:13.680 --> 00:08:18.000
+to be productive, you're going to crush
+
+00:08:16.240 --> 00:08:19.840
+it. There's one thing more that I want
+
+00:08:18.000 --> 00:08:22.319
+to get from you, which is advice for
+
+00:08:19.840 --> 00:08:24.400
+people who are building while they have
+
+00:08:22.319 --> 00:08:28.319
+a full-time job. But before we do that,
+
+00:08:24.400 --> 00:08:30.000
+let's go back to the clubhouse. Okay.
+
+00:08:28.319 --> 00:08:31.599
+Let's talk about building while you have
+
+00:08:30.000 --> 00:08:33.440
+a full-time job. A lot of people
+
+00:08:31.599 --> 00:08:34.959
+watching this probably have a tech job.
+
+00:08:33.440 --> 00:08:36.479
+They might be software engineers. What
+
+00:08:34.959 --> 00:08:39.760
+would be your advice on like how to
+
+00:08:36.479 --> 00:08:41.839
+actually ship get customers in balance
+
+00:08:39.760 --> 00:08:43.599
+full-time job without getting fired for
+
+00:08:41.839 --> 00:08:45.120
+that performance? What's your advice?
+
+00:08:43.599 --> 00:08:46.800
+>> Yeah, I think time management is key.
+
+00:08:45.120 --> 00:08:48.399
+Set aside time in the day. For me, it
+
+00:08:46.800 --> 00:08:50.160
+was the morning like 6:00 a.m. to 9:00
+
+00:08:48.399 --> 00:08:50.640
+a.m. and just wake up early and get it
+
+00:08:50.160 --> 00:08:51.839
+done.
+
+00:08:50.640 --> 00:08:53.440
+>> A lot of people watching this channel
+
+00:08:51.839 --> 00:08:54.880
+are looking for idea. Oh, this golf app
+
+00:08:53.440 --> 00:08:56.160
+is really cool. What would be your
+
+00:08:54.880 --> 00:08:57.600
+advice for people who are trying to
+
+00:08:56.160 --> 00:08:59.519
+figure out what that thing is that could
+
+00:08:57.600 --> 00:09:02.160
+make $30,000 a month like you're at?
+
+00:08:59.519 --> 00:09:03.600
+>> It's hard to say because I found this by
+
+00:09:02.160 --> 00:09:05.279
+doing the things that I was passionate
+
+00:09:03.600 --> 00:09:07.200
+about. But I think that's what made it
+
+00:09:05.279 --> 00:09:08.959
+successful because I can do this and it
+
+00:09:07.200 --> 00:09:10.959
+doesn't feel like I'm working. So my
+
+00:09:08.959 --> 00:09:12.800
+advice would be find something you care
+
+00:09:10.959 --> 00:09:14.240
+about, figure out where you could make
+
+00:09:12.800 --> 00:09:15.760
+it better and go.
+
+00:09:14.240 --> 00:09:16.959
+>> Yeah, it's cool. Nowadays you could
+
+00:09:15.760 --> 00:09:18.240
+build software that pretty much does
+
+00:09:16.959 --> 00:09:20.320
+anything. If you like pickle ball, go
+
+00:09:18.240 --> 00:09:22.480
+build pickle ball tournament software or
+
+00:09:20.320 --> 00:09:23.920
+whatever it is I see a lot of people try
+
+00:09:22.480 --> 00:09:25.680
+to build stuff like you said for
+
+00:09:23.920 --> 00:09:26.959
+dentists [music] but they're not a
+
+00:09:25.680 --> 00:09:28.480
+dentist they don't know anything about
+
+00:09:26.959 --> 00:09:30.000
+dentists and then going gets tough
+
+00:09:28.480 --> 00:09:31.680
+you're 3 months into that you eventually
+
+00:09:30.000 --> 00:09:33.600
+give up but if you do something you love
+
+00:09:31.680 --> 00:09:35.200
+doing you're in for me that was
+
+00:09:33.600 --> 00:09:36.399
+entrepreneurship people starting
+
+00:09:35.200 --> 00:09:37.360
+businesses I love that would have done
+
+00:09:36.399 --> 00:09:39.440
+it for free
+
+00:09:37.360 --> 00:09:41.200
+>> to talk to founders like you and people
+
+00:09:39.440 --> 00:09:43.279
+who built cool stuff so I think that's
+
+00:09:41.200 --> 00:09:45.360
+great advice tell me what it's like now
+
+00:09:43.279 --> 00:09:47.440
+like you're making money you're about to
+
+00:09:45.360 --> 00:09:49.120
+hopefully quit your job one day your app
+
+00:09:47.440 --> 00:09:51.120
+could be worth a lot tell me about that
+
+00:09:49.120 --> 00:09:53.200
+>> it's really fulfilling I back to the
+
+00:09:51.120 --> 00:09:55.839
+first customer we got and when the first
+
+00:09:53.200 --> 00:09:57.839
+internet dollars came in, it is like a
+
+00:09:55.839 --> 00:09:59.680
+complete brain shift and it's really
+
+00:09:57.839 --> 00:10:01.279
+rewarding especially coming on site to a
+
+00:09:59.680 --> 00:10:04.399
+place that is a customer of ours to like
+
+00:10:01.279 --> 00:10:05.680
+see how what I've built affects random
+
+00:10:04.399 --> 00:10:06.399
+people that I've never met and we'll
+
+00:10:05.680 --> 00:10:07.680
+never meet.
+
+00:10:06.399 --> 00:10:09.600
+>> Exactly. There's something really
+
+00:10:07.680 --> 00:10:12.240
+special for software engineers like us.
+
+00:10:09.600 --> 00:10:13.760
+I was also a developer to actually build
+
+00:10:12.240 --> 00:10:15.120
+something and see somebody who doesn't
+
+00:10:13.760 --> 00:10:16.800
+even know who you are potentially and
+
+00:10:15.120 --> 00:10:17.839
+they use it. They get value out of it. I
+
+00:10:16.800 --> 00:10:19.440
+think that's like one of the coolest
+
+00:10:17.839 --> 00:10:21.680
+things to actually build something.
+
+00:10:19.440 --> 00:10:23.440
+>> Yeah. Cool, man. We're going to talk in
+
+00:10:21.680 --> 00:10:25.120
+like two or three weeks and you're going
+
+00:10:23.440 --> 00:10:25.760
+to let me know if you quit your job or
+
+00:10:25.120 --> 00:10:26.160
+you didn't.
+
+00:10:25.760 --> 00:10:26.880
+>> Yeah.
+
+00:10:26.160 --> 00:10:30.040
+>> So, thank you.
+
+00:10:26.880 --> 00:10:30.040
+>> Thank you.
+
+00:10:30.399 --> 00:10:34.320
+>> Just wrapped up with Matt here. I'm at
+
+00:10:32.160 --> 00:10:36.560
+the golf course right now. And should he
+
+00:10:34.320 --> 00:10:38.640
+quit his job? What do you guys think?
+
+00:10:36.560 --> 00:10:39.920
+It's a big decision. On paper, it may
+
+00:10:38.640 --> 00:10:41.360
+look like the right thing to do to stay
+
+00:10:39.920 --> 00:10:42.800
+at your job. And we've interviewed
+
+00:10:41.360 --> 00:10:45.120
+people on the channel who stayed at
+
+00:10:42.800 --> 00:10:47.200
+their job until they're making $80,000 a
+
+00:10:45.120 --> 00:10:49.680
+month. At some point, though, something
+
+00:10:47.200 --> 00:10:51.839
+has got to give. The main takeaway that
+
+00:10:49.680 --> 00:10:54.560
+I have is at the end of the day,
+
+00:10:51.839 --> 00:10:57.920
+starting your own business comes down to
+
+00:10:54.560 --> 00:11:00.079
+how much risk are you willing to take?
+
+00:10:57.920 --> 00:11:01.760
+Because when you quit your job, usually
+
+00:11:00.079 --> 00:11:05.839
+it's in a time when you're not really
+
+00:11:01.760 --> 00:11:07.440
+sure about if your business is going to
+
+00:11:05.839 --> 00:11:09.760
+be legit. What are people going to think
+
+00:11:07.440 --> 00:11:11.440
+about you? What if it's not successful?
+
+00:11:09.760 --> 00:11:13.360
+This is way more important than what
+
+00:11:11.440 --> 00:11:15.200
+business idea you have. It's more about
+
+00:11:13.360 --> 00:11:17.360
+a belief in yourself. And it was really
+
+00:11:15.200 --> 00:11:19.680
+cool to talk to Matt to see like him
+
+00:11:17.360 --> 00:11:22.560
+develop that belief over time. So I'm
+
+00:11:19.680 --> 00:11:26.920
+excited to give him a call in 3 weeks.
+
+00:11:22.560 --> 00:11:26.920
+So I'll see you in 3 weeks.
+
+00:11:31.360 --> 00:11:35.600
+Matt, thanks for giving me a call. We
+
+00:11:33.360 --> 00:11:39.360
+were sitting on the decision of you
+
+00:11:35.600 --> 00:11:41.040
+keeping your job or going allin on your
+
+00:11:39.360 --> 00:11:42.320
+business. I have no idea what you're
+
+00:11:41.040 --> 00:11:44.000
+about to say right now. Give us the
+
+00:11:42.320 --> 00:11:45.200
+update. everyone watching is excited to
+
+00:11:44.000 --> 00:11:46.720
+hear what you decided to do.
+
+00:11:45.200 --> 00:11:48.640
+>> I mean, it's a hard decision for sure,
+
+00:11:46.720 --> 00:11:50.560
+but after thinking about it and and kind
+
+00:11:48.640 --> 00:11:52.480
+of deciding where I want to be going
+
+00:11:50.560 --> 00:11:54.000
+forward, uh, I got to go all in on my
+
+00:11:52.480 --> 00:11:55.360
+journey. It's what I've wanted to do
+
+00:11:54.000 --> 00:11:57.040
+from the start. It's just kind of been a
+
+00:11:55.360 --> 00:11:58.399
+matter of whether the business is ready
+
+00:11:57.040 --> 00:12:00.079
+for it, and I think now it's ready for
+
+00:11:58.399 --> 00:12:02.800
+me to be in it full-time.
+
+00:12:00.079 --> 00:12:04.320
+>> Nice. So, congratulations. That's a big
+
+00:12:02.800 --> 00:12:06.160
+decision. I'm sure a lot of people
+
+00:12:04.320 --> 00:12:08.079
+watching this are excited for you. So,
+
+00:12:06.160 --> 00:12:10.320
+let's get into it a little bit. So, you
+
+00:12:08.079 --> 00:12:12.399
+quit your job. How did that go down and
+
+00:12:10.320 --> 00:12:14.880
+how did you decide? The layoffs were
+
+00:12:12.399 --> 00:12:16.079
+last week. I did not get laid off, which
+
+00:12:14.880 --> 00:12:18.079
+would have made the decision a lot
+
+00:12:16.079 --> 00:12:19.503
+easier. So, leaving that has been
+
+00:12:18.079 --> 00:12:21.600
+something that's hard to process.
+
+00:12:19.503 --> 00:12:23.040
+[music] But what it really came down to,
+
+00:12:21.600 --> 00:12:25.120
+I had a one-on-one with my boss
+
+00:12:23.040 --> 00:12:26.720
+yesterday, and it kind of felt like a
+
+00:12:25.120 --> 00:12:29.040
+breakup cuz I've not really left a lot
+
+00:12:26.720 --> 00:12:31.519
+of jobs before, but super supportive.
+
+00:12:29.040 --> 00:12:33.680
+And my boss is actually a golfer, so he
+
+00:12:31.519 --> 00:12:36.079
+was pretty pumped on on that. But it's a
+
+00:12:33.680 --> 00:12:38.160
+day I've been looking forward to, not
+
+00:12:36.079 --> 00:12:40.560
+because I'm like excited to leave Meta,
+
+00:12:38.160 --> 00:12:42.720
+but because I'm excited to go out and do
+
+00:12:40.560 --> 00:12:43.600
+my own thing full-time. And so I'm
+
+00:12:42.720 --> 00:12:45.440
+excited.
+
+00:12:43.600 --> 00:12:46.959
+>> For some people, it's quite easy to just
+
+00:12:45.440 --> 00:12:49.440
+quit their job because they're single
+
+00:12:46.959 --> 00:12:52.000
+and they're 20. And you have a family,
+
+00:12:49.440 --> 00:12:54.639
+you have two kids, you have a wife. This
+
+00:12:52.000 --> 00:12:57.279
+is a bigger decision than just you. How
+
+00:12:54.639 --> 00:12:58.560
+is the kind of security around it felt?
+
+00:12:57.279 --> 00:13:00.720
+>> Yeah. Well, it definitely wasn't a
+
+00:12:58.560 --> 00:13:02.560
+decision I made individually. My wife
+
+00:13:00.720 --> 00:13:04.320
+pushed me on this as well and kind of
+
+00:13:02.560 --> 00:13:06.079
+knew that this is what I wanted and was
+
+00:13:04.320 --> 00:13:07.600
+super supportive in that. But it also
+
+00:13:06.079 --> 00:13:09.680
+gives me the freedom to like choose my
+
+00:13:07.600 --> 00:13:11.760
+own times and I can be a dad for a
+
+00:13:09.680 --> 00:13:13.279
+couple hours in the day if my wife needs
+
+00:13:11.760 --> 00:13:15.040
+a hand or you know take my kids to the
+
+00:13:13.279 --> 00:13:16.500
+park in the middle of the day. So always
+
+00:13:15.040 --> 00:13:17.920
+helpful to have support of spouse and
+
+00:13:16.500 --> 00:13:19.519
+[music] that's for sure.
+
+00:13:17.920 --> 00:13:21.920
+>> Last question I have for you is what's
+
+00:13:19.519 --> 00:13:24.560
+next and what are you looking forward to
+
+00:13:21.920 --> 00:13:26.560
+working on? I'm excited to kind of be a
+
+00:13:24.560 --> 00:13:27.839
+little bit more outward with what I'm
+
+00:13:26.560 --> 00:13:29.680
+building. Like I've never been able to
+
+00:13:27.839 --> 00:13:31.040
+talk about it on like LinkedIn or any
+
+00:13:29.680 --> 00:13:32.959
+social media or anything like that. So
+
+00:13:31.040 --> 00:13:34.480
+kind of doing more of that and then
+
+00:13:32.959 --> 00:13:36.880
+obviously just like having the whole day
+
+00:13:34.480 --> 00:13:38.880
+to do work [music] from start to finish.
+
+00:13:36.880 --> 00:13:40.800
+So excited to jump in and figure out
+
+00:13:38.880 --> 00:13:42.880
+like how I can every day be the most
+
+00:13:40.800 --> 00:13:44.639
+effective to to grow the company.
+
+00:13:42.880 --> 00:13:46.560
+>> Awesome. Yeah. I remember when I quit my
+
+00:13:44.639 --> 00:13:48.320
+job and it was the first couple weeks,
+
+00:13:46.560 --> 00:13:50.720
+first couple days. It felt amazing to
+
+00:13:48.320 --> 00:13:53.200
+have a full day that I could dedicate to
+
+00:13:50.720 --> 00:13:55.279
+all the growth things or things I wanted
+
+00:13:53.200 --> 00:13:57.600
+to try in my business and to know that I
+
+00:13:55.279 --> 00:13:59.360
+already had some income. Similar to you,
+
+00:13:57.600 --> 00:14:01.120
+you're not feeling like you're super
+
+00:13:59.360 --> 00:14:03.279
+back against the wall. You got to like
+
+00:14:01.120 --> 00:14:04.639
+validate a startup idea. That's the
+
+00:14:03.279 --> 00:14:06.560
+beauty of building while you have a
+
+00:14:04.639 --> 00:14:08.800
+full-time job. So, thank you for coming
+
+00:14:06.560 --> 00:14:10.000
+on and sharing your whole story. In the
+
+00:14:08.800 --> 00:14:11.360
+comments for everyone that's watching
+
+00:14:10.000 --> 00:14:12.880
+this, let us know what you think. Do you
+
+00:14:11.360 --> 00:14:14.959
+think it was the right move for Matt to
+
+00:14:12.880 --> 00:14:16.639
+quit his job and go allin or should he
+
+00:14:14.959 --> 00:14:18.560
+kept going until his business was making
+
+00:14:16.639 --> 00:14:19.760
+more or just never quit his job? I'm
+
+00:14:18.560 --> 00:14:21.519
+curious what you guys thought in the
+
+00:14:19.760 --> 00:14:24.240
+comments and also give him some words of
+
+00:14:21.519 --> 00:14:25.519
+advice or encouragement on uh the next
+
+00:14:24.240 --> 00:14:27.760
+couple years and hopefully we can have
+
+00:14:25.519 --> 00:14:29.199
+you back on when you're doing 100k per
+
+00:14:27.760 --> 00:14:30.399
+month with your SAS and this thing has
+
+00:14:29.199 --> 00:14:31.920
+grown like a rocket ship.
+
+00:14:30.399 --> 00:14:33.680
+>> Awesome, man. Appreciate your advice as
+
+00:14:31.920 --> 00:14:35.040
+well, Pat. It's been awesome to uh learn
+
+00:14:33.680 --> 00:14:36.959
+from you and follow along.
+
+00:14:35.040 --> 00:14:38.399
+>> All right, good luck. I think this is
+
+00:14:36.959 --> 00:14:39.440
+going to become really big and I don't
+
+00:14:38.399 --> 00:14:41.360
+think you're going to regret this
+
+00:14:39.440 --> 00:14:42.079
+decision. As long as you keep going,
+
+00:14:41.360 --> 00:14:43.360
+>> we'll do it.
+
+00:14:42.079 --> 00:14:44.880
+>> All right, guys. That wraps up our
+
+00:14:43.360 --> 00:14:46.399
+conversation with Matt. Let us know what
+
+00:14:44.880 --> 00:14:48.320
+you thought about this video where we
+
+00:14:46.399 --> 00:14:50.079
+went to the golf course, talked to him
+
+00:14:48.320 --> 00:14:51.120
+about his successful business. Let us
+
+00:14:50.079 --> 00:14:52.160
+know what you thought in the comments.
+
+00:14:51.120 --> 00:14:55.720
+Otherwise, we'll see you in the next
+
+00:14:52.160 --> 00:14:55.720
+one. Peace.
+

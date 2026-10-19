@@ -1,0 +1,1259 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.120
+What if you didn't need an original idea
+
+00:00:02.760 --> 00:00:07.320
+at all? What if instead you could
+
+00:00:05.120 --> 00:00:09.880
+reverse engineer apps that are already
+
+00:00:07.320 --> 00:00:12.960
+working? Well, that's exactly what our
+
+00:00:09.880 --> 00:00:14.840
+guest did today and within 12 months he
+
+00:00:12.960 --> 00:00:16.520
+built a million-dollar app.
+
+00:00:14.840 --> 00:00:18.320
+>> I launched it a year ago and now it
+
+00:00:16.520 --> 00:00:21.320
+makes over 80K per month.
+
+00:00:18.320 --> 00:00:23.800
+>> Meet Tomer. He saw a successful app,
+
+00:00:21.320 --> 00:00:26.600
+realized it didn't exist in his country,
+
+00:00:23.800 --> 00:00:29.560
+and thought, "Can I build this?" So, he
+
+00:00:26.600 --> 00:00:31.800
+did and it worked almost immediately.
+
+00:00:29.560 --> 00:00:33.720
+>> We started with only 1K on the first
+
+00:00:31.800 --> 00:00:35.800
+month and since then we grew
+
+00:00:33.720 --> 00:00:37.840
+consistently until the previous month we
+
+00:00:35.800 --> 00:00:39.680
+made over 81K.
+
+00:00:37.840 --> 00:00:42.240
+>> I asked Tomer to come on to the channel
+
+00:00:39.680 --> 00:00:43.720
+to reveal exactly how he did all this
+
+00:00:42.240 --> 00:00:46.760
+and in this episode we're going to dive
+
+00:00:43.720 --> 00:00:48.520
+into what popular app he localized, how
+
+00:00:46.760 --> 00:00:50.600
+he built it in just a couple months
+
+00:00:48.520 --> 00:00:52.720
+without being a developer, and the
+
+00:00:50.600 --> 00:00:54.760
+genius marketing strategy that
+
+00:00:52.720 --> 00:00:58.160
+skyrocketed his app to [music] over
+
+00:00:54.760 --> 00:01:01.240
+$80,000 a month. All right, let's dive
+
+00:00:58.160 --> 00:01:03.760
+in. I'm Pat Walls and this is Starter
+
+00:01:01.240 --> 00:01:03.760
+Story.
+
+00:01:03.920 --> 00:01:07.120
+All right Tomer, welcome to the channel.
+
+00:01:05.880 --> 00:01:08.560
+Tell me about who you are, what you
+
+00:01:07.120 --> 00:01:10.200
+built, and what's your story.
+
+00:01:08.560 --> 00:01:12.280
+>> Hey, my name is Tomer and I built a
+
+00:01:10.200 --> 00:01:14.520
+calorie tracking mobile app. I launched
+
+00:01:12.280 --> 00:01:16.440
+it a year ago and now it makes over 80K
+
+00:01:14.520 --> 00:01:18.280
+per month. So, today I'm excited to talk
+
+00:01:16.440 --> 00:01:20.240
+about how I took a super popular app
+
+00:01:18.280 --> 00:01:21.320
+idea in the US and localized it to my
+
+00:01:20.240 --> 00:01:23.720
+local market.
+
+00:01:21.320 --> 00:01:25.680
+>> Yeah, Tomer, when I saw what you built I
+
+00:01:23.720 --> 00:01:27.520
+thought, "Oh, that looks like a similar
+
+00:01:25.680 --> 00:01:29.440
+app." A lot of people watching this are
+
+00:01:27.520 --> 00:01:31.240
+thinking, "Oh, I know the app that he
+
+00:01:29.440 --> 00:01:32.600
+built." But it's not that app. But what
+
+00:01:31.240 --> 00:01:34.840
+I thought was cool about it is you took
+
+00:01:32.600 --> 00:01:36.920
+it and you took it down to your own
+
+00:01:34.840 --> 00:01:38.680
+country. Before we get into how you did
+
+00:01:36.920 --> 00:01:40.720
+that, how you found that idea, tell me a
+
+00:01:38.680 --> 00:01:42.040
+little bit more about what the app is,
+
+00:01:40.720 --> 00:01:44.000
+what it does, pull up some of your
+
+00:01:42.040 --> 00:01:45.960
+revenue screenshots, I'd love to see.
+
+00:01:44.000 --> 00:01:47.920
+>> Sure, so the app is an AI calorie
+
+00:01:45.960 --> 00:01:49.720
+tracker, similarly to CalorieAI. You
+
+00:01:47.920 --> 00:01:51.240
+simply take a picture of your food and
+
+00:01:49.720 --> 00:01:52.960
+it tells you the calories and macros in
+
+00:01:51.240 --> 00:01:55.360
+seconds. And I've built it specifically
+
+00:01:52.960 --> 00:01:57.600
+for the Israeli market in Hebrew. So,
+
+00:01:55.360 --> 00:02:00.680
+here's the revenue chart from the moment
+
+00:01:57.600 --> 00:02:03.680
+we launched the app in June 2025 until
+
+00:02:00.680 --> 00:02:05.880
+the previous month, April 26. We started
+
+00:02:03.680 --> 00:02:08.360
+with only 1K on the first month, and
+
+00:02:05.880 --> 00:02:11.360
+since then we grew consistently until
+
+00:02:08.360 --> 00:02:13.040
+the previous month we made over 81K.
+
+00:02:11.360 --> 00:02:14.920
+>> Okay, I mean, first of all,
+
+00:02:13.040 --> 00:02:16.680
+congratulations. This is amazing. Let's
+
+00:02:14.920 --> 00:02:18.240
+talk about how you get here. What were
+
+00:02:16.680 --> 00:02:20.120
+you doing before? Were you always
+
+00:02:18.240 --> 00:02:21.040
+building apps? What's your background?
+
+00:02:20.120 --> 00:02:23.200
+How do you get to this point where you
+
+00:02:21.040 --> 00:02:23.800
+have an app that's making over $80,000 a
+
+00:02:23.200 --> 00:02:25.840
+month?
+
+00:02:23.800 --> 00:02:27.920
+>> Yeah, so before building this app, I was
+
+00:02:25.840 --> 00:02:30.280
+doing marketing for other businesses. I
+
+00:02:27.920 --> 00:02:32.000
+found it extremely boring, and I wasn't
+
+00:02:30.280 --> 00:02:34.120
+really passionate about promoting other
+
+00:02:32.000 --> 00:02:35.360
+people's products, and I wanted to look
+
+00:02:34.120 --> 00:02:37.720
+for opportunities to build my own
+
+00:02:35.360 --> 00:02:40.280
+product. I stumbled upon a podcast with
+
+00:02:37.720 --> 00:02:42.520
+Zach, the founder of Call AI. He talked
+
+00:02:40.280 --> 00:02:44.120
+about how they scaled quickly to over $1
+
+00:02:42.520 --> 00:02:45.920
+million per month, and [music] I
+
+00:02:44.120 --> 00:02:47.959
+realized that it doesn't matter that the
+
+00:02:45.920 --> 00:02:50.080
+app already exists if no one knows about
+
+00:02:47.959 --> 00:02:52.000
+it in my local market. And fitness and
+
+00:02:50.080 --> 00:02:54.480
+nutrition is a very big niche, doesn't
+
+00:02:52.000 --> 00:02:56.240
+matter the country or the market. So, I
+
+00:02:54.480 --> 00:02:58.480
+decided that there is enough potential
+
+00:02:56.240 --> 00:03:00.840
+in it, even in a smaller local market.
+
+00:02:58.480 --> 00:03:02.600
+>> Okay, cool. Well, I'm also curious on
+
+00:03:00.840 --> 00:03:03.959
+how you actually built something like
+
+00:03:02.600 --> 00:03:05.920
+this. How did you go about building
+
+00:03:03.959 --> 00:03:07.880
+this? How long did it take to build and
+
+00:03:05.920 --> 00:03:08.600
+get to an app that was live in the App
+
+00:03:07.880 --> 00:03:11.440
+Store?
+
+00:03:08.600 --> 00:03:13.080
+>> Yeah, so I'm not a developer. I had a
+
+00:03:11.440 --> 00:03:14.440
+little bit of coding experience from
+
+00:03:13.080 --> 00:03:16.239
+high school and stuff I learned by
+
+00:03:14.440 --> 00:03:18.080
+myself, but nothing more than that.
+
+00:03:16.239 --> 00:03:19.600
+Cursor was just released at the time,
+
+00:03:18.080 --> 00:03:21.280
+and I wanted to see if you could
+
+00:03:19.600 --> 00:03:23.760
+actually build software like it was
+
+00:03:21.280 --> 00:03:25.000
+magic with AI prompting. [music] And 2
+
+00:03:23.760 --> 00:03:26.800
+weeks later after starting the
+
+00:03:25.000 --> 00:03:28.680
+experiment with Cursor, I had a working
+
+00:03:26.800 --> 00:03:30.600
+version with all the main app features
+
+00:03:28.680 --> 00:03:32.040
+work. From the first line of code to
+
+00:03:30.600 --> 00:03:34.160
+being live on the App Store, it was
+
+00:03:32.040 --> 00:03:36.120
+around [music] 2 months total. The funny
+
+00:03:34.160 --> 00:03:38.320
+thing is that the coding wasn't what
+
+00:03:36.120 --> 00:03:40.560
+took the actual time. What actually
+
+00:03:38.320 --> 00:03:42.440
+slowed the process was waiting for Apple
+
+00:03:40.560 --> 00:03:44.320
+to [music] accept my developer program
+
+00:03:42.440 --> 00:03:45.800
+and passing the App Store reviews.
+
+00:03:44.320 --> 00:03:46.880
+>> Yeah, that's something that I hear often
+
+00:03:45.800 --> 00:03:48.280
+from a lot of people who come on here.
+
+00:03:46.880 --> 00:03:49.840
+They say, "Hey, it was quick to build,
+
+00:03:48.280 --> 00:03:51.680
+but then the the part that took the
+
+00:03:49.840 --> 00:03:53.160
+longest was getting Apple to review it."
+
+00:03:51.680 --> 00:03:55.000
+So, if anyone is watching this right now
+
+00:03:53.160 --> 00:03:56.520
+and building something, get it done. Get
+
+00:03:55.000 --> 00:03:57.720
+it shipped to Apple. It might be another
+
+00:03:56.520 --> 00:03:59.280
+month. There's [music] this back and
+
+00:03:57.720 --> 00:04:00.520
+forth and you finally get it approved.
+
+00:03:59.280 --> 00:04:02.200
+So, yeah. I want to switch topics a
+
+00:04:00.520 --> 00:04:04.560
+little bit. What I loved about what you
+
+00:04:02.200 --> 00:04:06.480
+did is you took this popular app and
+
+00:04:04.560 --> 00:04:07.840
+then you localized it to your country.
+
+00:04:06.480 --> 00:04:09.280
+I'm just curious how you came up with
+
+00:04:07.840 --> 00:04:12.280
+the idea to do this.
+
+00:04:09.280 --> 00:04:14.280
+>> Yeah, so it was March 2025 and I was
+
+00:04:12.280 --> 00:04:16.400
+actively looking for an idea. And when I
+
+00:04:14.280 --> 00:04:18.359
+heard the CalA I podcast, it clicked
+
+00:04:16.400 --> 00:04:20.079
+immediately. Although my original plan
+
+00:04:18.359 --> 00:04:22.280
+was to build something big for the US
+
+00:04:20.079 --> 00:04:23.960
+market, the chance to take a proven
+
+00:04:22.280 --> 00:04:26.200
+winner and be the first to localize it
+
+00:04:23.960 --> 00:04:28.240
+to my local market was the simplest zero
+
+00:04:26.200 --> 00:04:29.919
+to one move for me, the way I saw it.
+
+00:04:28.240 --> 00:04:32.000
+And if you're going to localize an app
+
+00:04:29.919 --> 00:04:34.120
+for a small market like Israel, the
+
+00:04:32.000 --> 00:04:36.080
+niche has to be huge. Cuz the market is
+
+00:04:34.120 --> 00:04:38.000
+small, you can't be in a tiny vertical.
+
+00:04:36.080 --> 00:04:39.840
+So, fitness and nutrition is one of the
+
+00:04:38.000 --> 00:04:41.520
+biggest niches in the world and I happen
+
+00:04:39.840 --> 00:04:43.120
+to know it very well personally. So, it
+
+00:04:41.520 --> 00:04:45.400
+was a perfect fit for me.
+
+00:04:43.120 --> 00:04:47.560
+>> Okay, this strategy by Tomer is
+
+00:04:45.400 --> 00:04:50.360
+absolutely genius. Instead of finding
+
+00:04:47.560 --> 00:04:52.919
+some crazy original new idea, he found a
+
+00:04:50.360 --> 00:04:54.919
+proven app and he built a very niche
+
+00:04:52.919 --> 00:04:56.880
+version of it in his country. So, you
+
+00:04:54.919 --> 00:04:59.160
+might be wondering here, okay, how do I
+
+00:04:56.880 --> 00:05:00.880
+do this? How do I find a proven idea
+
+00:04:59.160 --> 00:05:02.360
+just like this? Well, we've got
+
+00:05:00.880 --> 00:05:04.840
+something for you. We've put together
+
+00:05:02.360 --> 00:05:07.000
+our free database of over 30 iOS app
+
+00:05:04.840 --> 00:05:08.919
+ideas that are making real money right
+
+00:05:07.000 --> 00:05:11.280
+now. Inside of this database, you will
+
+00:05:08.919 --> 00:05:13.400
+find all the data that you need. [music]
+
+00:05:11.280 --> 00:05:15.480
+Revenue numbers, business models,
+
+00:05:13.400 --> 00:05:16.880
+starting costs, and much more. This is
+
+00:05:15.480 --> 00:05:20.000
+all the stuff that you might need to
+
+00:05:16.880 --> 00:05:22.560
+validate your potential idea, your app
+
+00:05:20.000 --> 00:05:24.320
+that could be the next CalBuddy. So, if
+
+00:05:22.560 --> 00:05:25.960
+you're ready to find your idea and get
+
+00:05:24.320 --> 00:05:27.760
+started building right now, just head to
+
+00:05:25.960 --> 00:05:30.840
+the first link in the description, you
+
+00:05:27.760 --> 00:05:31.640
+can grab this database 100% for free.
+
+00:05:30.840 --> 00:05:33.800
+All right, let's get back to the
+
+00:05:31.640 --> 00:05:35.800
+episode. But, I'm curious, does your app
+
+00:05:33.800 --> 00:05:36.960
+do anything differently? Did you realize
+
+00:05:35.800 --> 00:05:38.800
+as you were building it, oh, it needs to
+
+00:05:36.960 --> 00:05:40.960
+do this differently because I'm in
+
+00:05:38.800 --> 00:05:42.240
+Israel? I'm just curious how similar it
+
+00:05:40.960 --> 00:05:44.400
+is to CalA I.
+
+00:05:42.240 --> 00:05:46.880
+>> Yeah, so honestly, it's not a one-to-one
+
+00:05:44.400 --> 00:05:48.840
+clone, but the product itself isn't very
+
+00:05:46.880 --> 00:05:51.080
+different. The same core experience as
+
+00:05:48.840 --> 00:05:52.960
+the other AI color trackers. You point
+
+00:05:51.080 --> 00:05:54.880
+your camera at a meal, you get calories
+
+00:05:52.960 --> 00:05:56.440
+and markers. So, the differences are in
+
+00:05:54.880 --> 00:05:58.760
+the language and a bunch of small
+
+00:05:56.440 --> 00:06:00.560
+modifications to fit how Israelis
+
+00:05:58.760 --> 00:06:01.960
+actually eat and talk about food. That's
+
+00:06:00.560 --> 00:06:03.480
+on the product side. The real
+
+00:06:01.960 --> 00:06:05.520
+differentiation, and I want to be very
+
+00:06:03.480 --> 00:06:07.800
+clear about this because I think a lot
+
+00:06:05.520 --> 00:06:09.600
+of builders are missing it, is the brand
+
+00:06:07.800 --> 00:06:11.880
+and distribution. Almost anyone can
+
+00:06:09.600 --> 00:06:13.720
+build an app with cursor in 2 weeks, but
+
+00:06:11.880 --> 00:06:15.640
+I think about it like this. If I can
+
+00:06:13.720 --> 00:06:18.000
+acquire a user for half what my
+
+00:06:15.640 --> 00:06:20.120
+competition pays, that means I have more
+
+00:06:18.000 --> 00:06:21.680
+cash flow than they do, and more cash
+
+00:06:20.120 --> 00:06:22.400
+flow means I can outspend them on
+
+00:06:21.680 --> 00:06:23.720
+growth.
+
+00:06:22.400 --> 00:06:25.840
+>> I think that's a really good point. It's
+
+00:06:23.720 --> 00:06:28.160
+mostly the same based on the product,
+
+00:06:25.840 --> 00:06:29.840
+but it's widely different based on the
+
+00:06:28.160 --> 00:06:31.919
+language, the content that we're
+
+00:06:29.840 --> 00:06:33.560
+creating, the design, and that makes it
+
+00:06:31.919 --> 00:06:35.480
+basically a different app. It's the It's
+
+00:06:33.560 --> 00:06:37.960
+the same concept, but it's like a
+
+00:06:35.480 --> 00:06:39.360
+plumber here in the US where I live is
+
+00:06:37.960 --> 00:06:40.800
+going to be way different than a plumber
+
+00:06:39.360 --> 00:06:42.360
+out in Israel. So, let's talk about
+
+00:06:40.800 --> 00:06:43.680
+that. A lot of people are building apps
+
+00:06:42.360 --> 00:06:46.000
+right now, and they don't have any
+
+00:06:43.680 --> 00:06:48.919
+users, but you went very quickly from
+
+00:06:46.000 --> 00:06:50.400
+zero to $80,000 a month. So, walk me
+
+00:06:48.919 --> 00:06:51.680
+through that. What did you do to grow
+
+00:06:50.400 --> 00:06:53.720
+your app so quickly?
+
+00:06:51.680 --> 00:06:55.680
+>> Yeah, sure. So, I think that my biggest
+
+00:06:53.720 --> 00:06:57.360
+advantage going in was that I came from
+
+00:06:55.680 --> 00:06:59.520
+marketing. And it's important to say
+
+00:06:57.360 --> 00:07:03.280
+that every channel works. You just see
+
+00:06:59.520 --> 00:07:05.040
+influencers, paid ads, SEO. The question
+
+00:07:03.280 --> 00:07:06.600
+is which channel is the most efficient
+
+00:07:05.040 --> 00:07:09.000
+for your specific market. [music] For
+
+00:07:06.600 --> 00:07:11.040
+me, it was paid ads. CPMs are
+
+00:07:09.000 --> 00:07:13.200
+significantly lower than in the US, so
+
+00:07:11.040 --> 00:07:15.360
+you can run paid ads profitably without
+
+00:07:13.200 --> 00:07:17.120
+a ton of testing and capital. So, I
+
+00:07:15.360 --> 00:07:19.080
+studied the most viral content from
+
+00:07:17.120 --> 00:07:20.840
+similar apps in the US and the most
+
+00:07:19.080 --> 00:07:22.520
+viral fitness and nutrition content in
+
+00:07:20.840 --> 00:07:24.280
+Israel. Based on that, I created the
+
+00:07:22.520 --> 00:07:26.600
+creatives and I used them in the ad
+
+00:07:24.280 --> 00:07:28.880
+campaigns. That got me to around 20K per
+
+00:07:26.600 --> 00:07:30.240
+month in 4 months. And I always knew
+
+00:07:28.880 --> 00:07:31.960
+that once I have the traction and the
+
+00:07:30.240 --> 00:07:33.760
+social proof needed, I'll start working
+
+00:07:31.960 --> 00:07:35.680
+with influencers to create a strong
+
+00:07:33.760 --> 00:07:37.360
+brand that's hard to copy. And I knew
+
+00:07:35.680 --> 00:07:39.600
+that working with big influencers will
+
+00:07:37.360 --> 00:07:41.640
+cost a fortune just for a single story
+
+00:07:39.600 --> 00:07:44.080
+or reel. So, I came up with a better
+
+00:07:41.640 --> 00:07:46.120
+idea, partnering with big influencers.
+
+00:07:44.080 --> 00:07:48.640
+They get a percentage of the revenue and
+
+00:07:46.120 --> 00:07:50.520
+as a result, the incentives are aligned.
+
+00:07:48.640 --> 00:07:53.200
+The more money I make, the more money
+
+00:07:50.520 --> 00:07:55.600
+they make. It also meant that now I have
+
+00:07:53.200 --> 00:07:57.680
+two well-known faces to represent my
+
+00:07:55.600 --> 00:07:59.320
+app. That's what took the app from 20K
+
+00:07:57.680 --> 00:08:00.720
+to 80K per month.
+
+00:07:59.320 --> 00:08:02.840
+>> If you're watching this and you're this
+
+00:08:00.720 --> 00:08:04.600
+far into the interview, this might be
+
+00:08:02.840 --> 00:08:05.920
+one of the coolest things that I've seen
+
+00:08:04.600 --> 00:08:07.840
+anyone that I've talked to on Starter
+
+00:08:05.920 --> 00:08:09.160
+Story do from a marketing perspective.
+
+00:08:07.840 --> 00:08:11.240
+So, I'd love if you could just dive a
+
+00:08:09.160 --> 00:08:13.200
+little bit deeper into how that works
+
+00:08:11.240 --> 00:08:14.320
+and what have you learned after working
+
+00:08:13.200 --> 00:08:16.000
+with these big names. Obviously, they're
+
+00:08:14.320 --> 00:08:17.600
+not building the apps. They're probably
+
+00:08:16.000 --> 00:08:19.320
+not super involved with the product
+
+00:08:17.600 --> 00:08:20.520
+day-to-day. So, how does that work?
+
+00:08:19.320 --> 00:08:21.800
+>> So, to make sure that they are on
+
+00:08:20.520 --> 00:08:24.000
+schedule or they're delivering the
+
+00:08:21.800 --> 00:08:27.040
+content that they have to, the entire
+
+00:08:24.000 --> 00:08:28.880
+agreement is based on work timelines.
+
+00:08:27.040 --> 00:08:30.919
+So, you want to create an agreement
+
+00:08:28.880 --> 00:08:33.479
+which says how many pieces of content
+
+00:08:30.919 --> 00:08:35.760
+they have to deliver to you and how many
+
+00:08:33.479 --> 00:08:37.880
+filming days or recording days they have
+
+00:08:35.760 --> 00:08:40.159
+to do each month. So, I think for me
+
+00:08:37.880 --> 00:08:42.240
+specifically, I got really lucky because
+
+00:08:40.159 --> 00:08:43.880
+I know the fitness niche in Israel super
+
+00:08:42.240 --> 00:08:45.760
+well and I happen to know the guy
+
+00:08:43.880 --> 00:08:48.080
+personally that then I signed the deal
+
+00:08:45.760 --> 00:08:49.720
+with. So, what we did is we have a rev
+
+00:08:48.080 --> 00:08:52.000
+share deal for all the revenue that
+
+00:08:49.720 --> 00:08:53.920
+comes from Israel. But, the main thing
+
+00:08:52.000 --> 00:08:55.800
+that I I think everyone should focus
+
+00:08:53.920 --> 00:08:58.120
+about here is that you have to get some
+
+00:08:55.800 --> 00:09:00.360
+social proof and to show that the app is
+
+00:08:58.120 --> 00:09:02.760
+working and users are excited and happy
+
+00:09:00.360 --> 00:09:04.920
+about it before approaching these mega
+
+00:09:02.760 --> 00:09:06.960
+big influencers or celebrities.
+
+00:09:04.920 --> 00:09:09.960
+>> Okay, so are you giving like half your
+
+00:09:06.960 --> 00:09:11.960
+business away to these influencers? What
+
+00:09:09.960 --> 00:09:13.720
+if you want to go find more influencers
+
+00:09:11.960 --> 00:09:15.360
+or one influencer doesn't work out? Are
+
+00:09:13.720 --> 00:09:16.720
+you giving away like all your business
+
+00:09:15.360 --> 00:09:19.520
+to these influencers?
+
+00:09:16.720 --> 00:09:21.920
+>> So, another advantage of me waiting to
+
+00:09:19.520 --> 00:09:24.880
+making 20K per month before approaching
+
+00:09:21.920 --> 00:09:28.160
+them that I can negotiate a better deal
+
+00:09:24.880 --> 00:09:31.120
+and not act like it was from the get-go
+
+00:09:28.160 --> 00:09:33.360
+so they get 50/50. So, once you do that,
+
+00:09:31.120 --> 00:09:34.720
+you can get the influencers to agree on
+
+00:09:33.360 --> 00:09:37.000
+much better terms.
+
+00:09:34.720 --> 00:09:40.000
+>> Yeah, the typical model is, "Hey, let me
+
+00:09:37.000 --> 00:09:43.000
+pay you per post. But because they are
+
+00:09:40.000 --> 00:09:44.440
+getting a cut of all Israeli revenue,
+
+00:09:43.000 --> 00:09:46.720
+they actually have skin in the game.
+
+00:09:44.440 --> 00:09:48.760
+Maybe they talk about it not just in the
+
+00:09:46.720 --> 00:09:50.200
+one post that they're paid to do. Maybe
+
+00:09:48.760 --> 00:09:52.000
+they talk about it on, you know,
+
+00:09:50.200 --> 00:09:53.480
+whatever the TV show they're on or when
+
+00:09:52.000 --> 00:09:54.920
+they're getting interviewed somewhere
+
+00:09:53.480 --> 00:09:57.200
+else. So let's switch topics a little
+
+00:09:54.920 --> 00:09:58.800
+bit and let's talk about tech stack. I
+
+00:09:57.200 --> 00:10:00.320
+know that you mainly built this, but
+
+00:09:58.800 --> 00:10:02.320
+you're not a developer. So walk me
+
+00:10:00.320 --> 00:10:03.320
+through some of the tools that you used
+
+00:10:02.320 --> 00:10:05.880
+to build this.
+
+00:10:03.320 --> 00:10:07.840
+>> Sure. So I use Claude for coding and AI
+
+00:10:05.880 --> 00:10:10.960
+agents across the business, which is
+
+00:10:07.840 --> 00:10:13.560
+$200 per month. I use Post Hog for
+
+00:10:10.960 --> 00:10:15.600
+product analytics. It's $20 per month.
+
+00:10:13.560 --> 00:10:17.880
+RevenueCat for subscription management.
+
+00:10:15.600 --> 00:10:20.800
+Superbase for database and storage. It's
+
+00:10:17.880 --> 00:10:23.600
+$35 per month. And Expo for in-app
+
+00:10:20.800 --> 00:10:25.440
+updates. It's $100 per month.
+
+00:10:23.600 --> 00:10:26.880
+>> And last question that we ask all
+
+00:10:25.440 --> 00:10:28.560
+founders who come on the Starter Story.
+
+00:10:26.880 --> 00:10:31.000
+If you could go back in time, Tomer, to
+
+00:10:28.560 --> 00:10:32.480
+before you had built a successful app,
+
+00:10:31.000 --> 00:10:33.480
+what advice would you give yourself? Or
+
+00:10:32.480 --> 00:10:34.560
+what advice would you give to the
+
+00:10:33.480 --> 00:10:36.280
+thousands of people that are going to
+
+00:10:34.560 --> 00:10:37.800
+watch this and get inspired?
+
+00:10:36.280 --> 00:10:39.360
+>> So I think the best advice is don't be
+
+00:10:37.800 --> 00:10:40.920
+afraid of what you don't know. You need
+
+00:10:39.360 --> 00:10:42.839
+to have a lot of self-confidence to
+
+00:10:40.920 --> 00:10:45.120
+believe that whatever gets thrown at
+
+00:10:42.839 --> 00:10:47.320
+you, you'll figure it out. Because there
+
+00:10:45.120 --> 00:10:49.200
+will always be setbacks and new things
+
+00:10:47.320 --> 00:10:51.040
+you'll have to learn along the way. And
+
+00:10:49.200 --> 00:10:52.360
+some will look super complex and scary,
+
+00:10:51.040 --> 00:10:54.200
+but you can never allow yourself to
+
+00:10:52.360 --> 00:10:56.000
+become the constraint of the business
+
+00:10:54.200 --> 00:10:57.240
+and be the one holding it back.
+
+00:10:56.000 --> 00:10:58.560
+>> Yeah, that's great advice. Thank you for
+
+00:10:57.240 --> 00:11:00.120
+coming on and sharing it. I think it's
+
+00:10:58.560 --> 00:11:02.160
+going to become a lot bigger, both your
+
+00:11:00.120 --> 00:11:03.240
+app and this new way of marketing. So
+
+00:11:02.160 --> 00:11:04.040
+thank you, Tomer, for coming on and
+
+00:11:03.240 --> 00:11:05.040
+sharing.
+
+00:11:04.040 --> 00:11:06.920
+>> Thank you.
+
+00:11:05.040 --> 00:11:09.800
+>> All right, Gus, producer of Starter
+
+00:11:06.920 --> 00:11:11.880
+Story. What did you think of CalBuddy?
+
+00:11:09.800 --> 00:11:13.839
+>> I mean, the obvious takeaway is you
+
+00:11:11.880 --> 00:11:15.920
+don't need a new idea. Hopefully people
+
+00:11:13.839 --> 00:11:17.839
+watching don't think like,
+
+00:11:15.920 --> 00:11:19.360
+"Oh, it's not original." Or like, "He's
+
+00:11:17.839 --> 00:11:20.839
+just stealing it." Hopefully that's not
+
+00:11:19.360 --> 00:11:22.839
+the takeaway. Hopefully the takeaway is
+
+00:11:20.839 --> 00:11:23.920
+like, "Oh, so I don't need to like
+
+00:11:22.839 --> 00:11:25.240
+reinvent the wheel." You know, [music]
+
+00:11:23.920 --> 00:11:26.120
+kind of thing. So that's my first
+
+00:11:25.240 --> 00:11:27.600
+thought.
+
+00:11:26.120 --> 00:11:30.000
+>> Yeah, no. What I thought was interesting
+
+00:11:27.600 --> 00:11:32.680
+about what he said is there are
+
+00:11:30.000 --> 00:11:35.040
+hundreds, if not thousands, of calorie
+
+00:11:32.680 --> 00:11:37.240
+and fitness tracking apps on the App
+
+00:11:35.040 --> 00:11:39.040
+Store. And I've personally used 10 of
+
+00:11:37.240 --> 00:11:40.680
+them, [music] and I don't look at those
+
+00:11:39.040 --> 00:11:42.600
+and think like, "Oh, these are all
+
+00:11:40.680 --> 00:11:44.520
+clones of each other, right?" And when
+
+00:11:42.600 --> 00:11:47.400
+he told me that, people think about
+
+00:11:44.520 --> 00:11:49.480
+dieting and food differently in the US
+
+00:11:47.400 --> 00:11:50.960
+than they do in Israel, and therefore
+
+00:11:49.480 --> 00:11:52.840
+that kind of like defeats the whole
+
+00:11:50.960 --> 00:11:55.000
+argument of this clone thing. Like, this
+
+00:11:52.840 --> 00:11:57.680
+app is better for that market than
+
+00:11:55.000 --> 00:12:00.320
+Calorie AI because A, it's in Hebrew,
+
+00:11:57.680 --> 00:12:02.200
+and two, it's for that market. So, I
+
+00:12:00.320 --> 00:12:05.240
+think that this is one of like the big
+
+00:12:02.200 --> 00:12:07.440
+opportunities here is yeah, take popular
+
+00:12:05.240 --> 00:12:08.280
+apps and localize them to other
+
+00:12:07.440 --> 00:12:09.560
+countries.
+
+00:12:08.280 --> 00:12:11.200
+>> Yeah, and I know a lot of our audience,
+
+00:12:09.560 --> 00:12:13.680
+you know, we see that the data like a
+
+00:12:11.200 --> 00:12:15.040
+good chunk are not just in the US. So,
+
+00:12:13.680 --> 00:12:17.000
+yeah, there's like a huge opportunity
+
+00:12:15.040 --> 00:12:18.440
+for someone watching to think about it
+
+00:12:17.000 --> 00:12:20.560
+for their home place or their own
+
+00:12:18.440 --> 00:12:22.080
+country or their own city or whatever.
+
+00:12:20.560 --> 00:12:24.560
+We talked to a lot of people who kind of
+
+00:12:22.080 --> 00:12:26.040
+have this approach. Find a proven idea,
+
+00:12:24.560 --> 00:12:27.480
+like remix it. How long do you think
+
+00:12:26.040 --> 00:12:29.440
+that continues to work? [music] Not just
+
+00:12:27.480 --> 00:12:31.200
+like in apps, but like restaurants or
+
+00:12:29.440 --> 00:12:32.680
+cars or whatever. Like, so many examples
+
+00:12:31.200 --> 00:12:34.680
+of like just the same thing over and
+
+00:12:32.680 --> 00:12:35.839
+over in the world that still work. But
+
+00:12:34.680 --> 00:12:36.800
+anyway, just that's something I'm
+
+00:12:35.839 --> 00:12:38.240
+thinking about is like
+
+00:12:36.800 --> 00:12:41.080
+>> Yeah. Yeah.
+
+00:12:38.240 --> 00:12:43.640
+Well, two things. One is the countries
+
+00:12:41.080 --> 00:12:46.000
+thing is that like the markets are still
+
+00:12:43.640 --> 00:12:47.880
+wide open in lots of countries. I've
+
+00:12:46.000 --> 00:12:50.200
+talked to a lot of people on here that
+
+00:12:47.880 --> 00:12:52.080
+continue to mention this. They go, "Hey,
+
+00:12:50.200 --> 00:12:53.920
+even when I was just trying to run paid
+
+00:12:52.080 --> 00:12:56.360
+ads, I first started running them in
+
+00:12:53.920 --> 00:12:58.160
+Argentina because I could get better
+
+00:12:56.360 --> 00:13:00.040
+metrics over there." So, there's that.
+
+00:12:58.160 --> 00:13:02.240
+And then the second one is that new
+
+00:13:00.040 --> 00:13:04.160
+problems are always emerging. So, I
+
+00:13:02.240 --> 00:13:07.839
+think the Calorie AI is a good example
+
+00:13:04.160 --> 00:13:09.960
+of that is that AI showed up, and now
+
+00:13:07.839 --> 00:13:12.040
+there's this new API where you can scan
+
+00:13:09.960 --> 00:13:14.120
+your food and get like a pretty accurate
+
+00:13:12.040 --> 00:13:16.600
+result. So, yeah, I think this year,
+
+00:13:14.120 --> 00:13:17.920
+2026, is the time to act. In the
+
+00:13:16.600 --> 00:13:20.200
+description down there, we're going to
+
+00:13:17.920 --> 00:13:22.920
+put our database of 30 very, very
+
+00:13:20.200 --> 00:13:25.240
+popular app ideas that you can copy. You
+
+00:13:22.920 --> 00:13:27.600
+can localize your country or do them
+
+00:13:25.240 --> 00:13:29.360
+somewhat differently. These are proven
+
+00:13:27.600 --> 00:13:30.920
+apps that are making a whole lot of
+
+00:13:29.360 --> 00:13:32.720
+money in their categories [music]
+
+00:13:30.920 --> 00:13:34.600
+and they're a great canvas to start if
+
+00:13:32.720 --> 00:13:36.240
+you want to build apps and do something
+
+00:13:34.600 --> 00:13:37.880
+similar. So, I'll put that down there in
+
+00:13:36.240 --> 00:13:39.600
+the description. I hope you guys enjoyed
+
+00:13:37.880 --> 00:13:42.520
+this episode. We'll see you in the next
+
+00:13:39.600 --> 00:13:42.520
+one. Peace.
+

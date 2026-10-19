@@ -1,0 +1,1157 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.040
+So, there are AI skills that employers
+
+00:00:02.160 --> 00:00:05.760
+are desperate for, and you can learn
+
+00:00:04.040 --> 00:00:07.920
+most of them with Claude without writing
+
+00:00:05.760 --> 00:00:09.920
+a single line of code. And these skills
+
+00:00:07.920 --> 00:00:12.560
+pay. In fact, jobs are asking for AI
+
+00:00:09.920 --> 00:00:14.240
+skills that are paying a 56% wage
+
+00:00:12.560 --> 00:00:15.720
+premium. And companies are throwing
+
+00:00:14.240 --> 00:00:17.960
+money at this, and they still can't find
+
+00:00:15.720 --> 00:00:20.000
+people who can actually do it. And most
+
+00:00:17.960 --> 00:00:22.000
+AI advice out there is slop from people
+
+00:00:20.000 --> 00:00:23.720
+who've never built a damn thing, but
+
+00:00:22.000 --> 00:00:24.960
+this is the exact opposite. See, my
+
+00:00:23.720 --> 00:00:27.160
+business partners and I have helped
+
+00:00:24.960 --> 00:00:29.120
+literally tens of thousands of people
+
+00:00:27.160 --> 00:00:31.320
+get jobs, and most of these jobs are
+
+00:00:29.120 --> 00:00:33.760
+perfectly related to AI, like digital
+
+00:00:31.320 --> 00:00:35.960
+marketing, sales, technology jobs, as
+
+00:00:33.760 --> 00:00:37.600
+well as operations jobs. And so, we know
+
+00:00:35.960 --> 00:00:39.320
+exactly the skills that businesses are
+
+00:00:37.600 --> 00:00:40.560
+looking for. And on top of that, I run
+
+00:00:39.320 --> 00:00:42.600
+an eight-figure company, and we have
+
+00:00:40.560 --> 00:00:44.200
+been on the cutting edge of AI ever
+
+00:00:42.600 --> 00:00:46.280
+since it came out. So, these are going
+
+00:00:44.200 --> 00:00:48.400
+to be five skills, a real person getting
+
+00:00:46.280 --> 00:00:50.000
+paid for each one, and the exact Claude
+
+00:00:48.400 --> 00:00:51.920
+move to start tonight. And stick to the
+
+00:00:50.000 --> 00:00:53.760
+end because all five share one thing
+
+00:00:51.920 --> 00:00:55.640
+that's an opportunity by itself. No
+
+00:00:53.760 --> 00:00:57.080
+coding necessary, no degrees necessary,
+
+00:00:55.640 --> 00:00:58.760
+none of it. And if you appreciate me
+
+00:00:57.080 --> 00:01:00.720
+making this type of content, then let me
+
+00:00:58.760 --> 00:01:02.160
+know by gently cheers in that like
+
+00:01:00.720 --> 00:01:03.920
+button, and let's jump into it right
+
+00:01:02.160 --> 00:01:06.640
+now.
+
+00:01:03.920 --> 00:01:08.840
+Okay, so skill number one is going to be
+
+00:01:06.640 --> 00:01:11.120
+prompt engineering. And that's just a
+
+00:01:08.840 --> 00:01:12.960
+fancy way of saying knowing how to talk
+
+00:01:11.120 --> 00:01:15.160
+to AI so that it gives you something
+
+00:01:12.960 --> 00:01:16.720
+useful instead of generic garbage. And
+
+00:01:15.160 --> 00:01:18.640
+here's why it matters to an employer.
+
+00:01:16.720 --> 00:01:20.080
+Companies have paid for these AI tools,
+
+00:01:18.640 --> 00:01:22.160
+and they're getting garbage out of them
+
+00:01:20.080 --> 00:01:24.000
+because their people type in lazy
+
+00:01:22.160 --> 00:01:25.680
+half-assed prompts. And this isn't just
+
+00:01:24.000 --> 00:01:28.200
+me hyping it up. In a survey of more
+
+00:01:25.680 --> 00:01:30.080
+than a thousand American workers, 85%
+
+00:01:28.200 --> 00:01:31.960
+said that prompting will be a must-have
+
+00:01:30.080 --> 00:01:33.840
+job skill within five years. And a real
+
+00:01:31.960 --> 00:01:35.600
+person making a living on this is Jeff
+
+00:01:33.840 --> 00:01:37.200
+Su. So, he's a former Google employee
+
+00:01:35.600 --> 00:01:38.640
+with more than 1 million subscribers on
+
+00:01:37.200 --> 00:01:40.360
+YouTube. And one of his most popular
+
+00:01:38.640 --> 00:01:42.120
+videos is basically a prompting
+
+00:01:40.360 --> 00:01:43.960
+masterclass. And he now calls himself
+
+00:01:42.120 --> 00:01:45.520
+one of the largest online educators in
+
+00:01:43.960 --> 00:01:47.800
+the world, and he says that Claude is
+
+00:01:45.520 --> 00:01:49.520
+his go-to for writing and analysis. So,
+
+00:01:47.800 --> 00:01:51.600
+here's the skill in one picture. A bad
+
+00:01:49.520 --> 00:01:54.000
+prompt is, "Write me a marketing email."
+
+00:01:51.600 --> 00:01:55.440
+A good prompt is, "Tell Claude exactly
+
+00:01:54.000 --> 00:01:57.280
+who the customer is, what you're
+
+00:01:55.440 --> 00:01:59.280
+selling, and what objection to handle,
+
+00:01:57.280 --> 00:02:00.880
+and what tone to use. And then interview
+
+00:01:59.280 --> 00:02:02.520
+me until you have enough information to
+
+00:02:00.880 --> 00:02:04.760
+give me a good answer. Always add that
+
+00:02:02.520 --> 00:02:06.680
+to the prompts. Same tool, wildly
+
+00:02:04.760 --> 00:02:08.399
+different result. And it goes way deeper
+
+00:02:06.680 --> 00:02:10.039
+than emails. In my own business, we
+
+00:02:08.399 --> 00:02:12.440
+dropped all of our sales calls into
+
+00:02:10.039 --> 00:02:14.200
+Claude and asked it for one thing. And
+
+00:02:12.440 --> 00:02:15.600
+that one move made us dramatically
+
+00:02:14.200 --> 00:02:17.240
+better at our jobs. And prompt
+
+00:02:15.600 --> 00:02:18.640
+engineering is the easiest of the five
+
+00:02:17.240 --> 00:02:20.280
+to start today. You drop something
+
+00:02:18.640 --> 00:02:21.800
+really good in and you get gold out of
+
+00:02:20.280 --> 00:02:23.920
+it. Now, the thing is you could get
+
+00:02:21.800 --> 00:02:25.560
+hired just as a prompt engineer. There's
+
+00:02:23.920 --> 00:02:27.400
+a lot of part-time work, freelancer
+
+00:02:25.560 --> 00:02:28.959
+work. People even hire businesses to do
+
+00:02:27.400 --> 00:02:30.760
+this. And companies are even hiring
+
+00:02:28.959 --> 00:02:32.560
+full-time. But you can also just add a
+
+00:02:30.760 --> 00:02:34.520
+prompt engineering skill set into
+
+00:02:32.560 --> 00:02:36.160
+whatever you already do. So, an example
+
+00:02:34.520 --> 00:02:38.480
+of that, we work with one client who
+
+00:02:36.160 --> 00:02:39.680
+helps people to get data analysis jobs.
+
+00:02:38.480 --> 00:02:41.600
+And she made it to multiple
+
+00:02:39.680 --> 00:02:44.080
+seven-figures a year doing this. And of
+
+00:02:41.600 --> 00:02:45.400
+course, she's integrating AI into it.
+
+00:02:44.080 --> 00:02:46.640
+And that makes her candidates seem much
+
+00:02:45.400 --> 00:02:48.600
+more valuable than someone who is
+
+00:02:46.640 --> 00:02:50.480
+resisting AI. So, whether you want to
+
+00:02:48.600 --> 00:02:51.720
+get a job just doing this on its own, or
+
+00:02:50.480 --> 00:02:53.560
+you want to add it to whatever you're
+
+00:02:51.720 --> 00:02:55.320
+doing already to make yourself much more
+
+00:02:53.560 --> 00:02:56.360
+valuable, this is an incredibly good
+
+00:02:55.320 --> 00:02:58.200
+skill to learn. And that's going to
+
+00:02:56.360 --> 00:02:59.920
+apply to a lot of the ones on this list.
+
+00:02:58.200 --> 00:03:02.120
+With that being said, skill two is going
+
+00:02:59.920 --> 00:03:04.040
+to be AI tool integration. And this is
+
+00:03:02.120 --> 00:03:06.040
+knowing how to chain a few AI tools
+
+00:03:04.040 --> 00:03:08.239
+together so that they can run a task for
+
+00:03:06.040 --> 00:03:10.239
+you automatically, start to finish. Now,
+
+00:03:08.239 --> 00:03:11.840
+lots of people can use one tool. Almost
+
+00:03:10.239 --> 00:03:13.519
+nobody can make several of them work
+
+00:03:11.840 --> 00:03:15.480
+together. And companies aren't just
+
+00:03:13.519 --> 00:03:17.800
+wishing for this, they're hiring for it.
+
+00:03:15.480 --> 00:03:19.440
+In Microsoft's 2025 work report, nearly
+
+00:03:17.800 --> 00:03:21.880
+half of leaders said that their company
+
+00:03:19.440 --> 00:03:23.600
+is already using AI agents to automate
+
+00:03:21.880 --> 00:03:25.480
+workflows, and they have a third plan to
+
+00:03:23.600 --> 00:03:27.040
+hire people specifically to build them
+
+00:03:25.480 --> 00:03:28.519
+in the next year. So, a great personal
+
+00:03:27.040 --> 00:03:30.160
+look at here is going to be Nate Hercus.
+
+00:03:28.519 --> 00:03:32.080
+He was a business intelligence analyst
+
+00:03:30.160 --> 00:03:33.600
+at Goldman Sachs with no real coding
+
+00:03:32.080 --> 00:03:35.040
+background. And he walked away from that
+
+00:03:33.600 --> 00:03:37.120
+job to teach this. And he built a
+
+00:03:35.040 --> 00:03:39.000
+channel over 500,000 subscribers all
+
+00:03:37.120 --> 00:03:40.640
+from a guy who couldn't code two years
+
+00:03:39.000 --> 00:03:42.440
+ago. And he's publicly shown a single
+
+00:03:40.640 --> 00:03:44.800
+batch of four automation builds that
+
+00:03:42.440 --> 00:03:46.400
+brought in $23,000.
+
+00:03:44.800 --> 00:03:48.160
+So, here's the simple version and it's
+
+00:03:46.400 --> 00:03:50.360
+the whole skill. You use Claude as a
+
+00:03:48.160 --> 00:03:52.640
+brain in the middle. One tool tool the
+
+00:03:50.360 --> 00:03:54.760
+data, Claude reads it and decides what
+
+00:03:52.640 --> 00:03:56.280
+to do and another tool takes the action.
+
+00:03:54.760 --> 00:03:58.120
+So, you're not building the robot,
+
+00:03:56.280 --> 00:04:00.200
+you're the manager who tells the robot
+
+00:03:58.120 --> 00:04:01.720
+what to do. And that manager is exactly
+
+00:04:00.200 --> 00:04:02.040
+who companies are trying to hire right
+
+00:04:01.720 --> 00:04:03.760
+now.
+
+00:04:02.040 --> 00:04:06.200
+>> All right, guys. Quick break. This video
+
+00:04:03.760 --> 00:04:07.959
+is sponsored by me. I wanted to let you
+
+00:04:06.200 --> 00:04:09.400
+know that I'm going to be doing a live
+
+00:04:07.959 --> 00:04:11.920
+training this week where I'm going to be
+
+00:04:09.400 --> 00:04:14.280
+revealing the YouTube content advantage
+
+00:04:11.920 --> 00:04:16.600
+in 2026. It is a completely free
+
+00:04:14.280 --> 00:04:19.000
+training, no strings attached. In fact,
+
+00:04:16.600 --> 00:04:20.440
+I'm giving away even more bonuses at the
+
+00:04:19.000 --> 00:04:22.560
+training. Just as an example, I'm going
+
+00:04:20.440 --> 00:04:23.760
+to be giving away my niche validator.
+
+00:04:22.560 --> 00:04:26.480
+And this is going to be available for
+
+00:04:23.760 --> 00:04:28.400
+both Claude as well as ChatGPT, which is
+
+00:04:26.480 --> 00:04:30.160
+a super valuable piece of software where
+
+00:04:28.400 --> 00:04:32.560
+you can finally figure out what the best
+
+00:04:30.160 --> 00:04:34.080
+niche for you is. So, do not miss out on
+
+00:04:32.560 --> 00:04:35.200
+this training. Uh make sure you sign up
+
+00:04:34.080 --> 00:04:36.720
+for it down in the description and the
+
+00:04:35.200 --> 00:04:38.919
+pinned comment below because you only
+
+00:04:36.720 --> 00:04:40.680
+get it if you join the training. So, if
+
+00:04:38.919 --> 00:04:42.919
+you don't join now, you might miss it.
+
+00:04:40.680 --> 00:04:44.320
+But, that being said, in the workshop,
+
+00:04:42.919 --> 00:04:45.919
+you'll get to meet me. You'll get to ask
+
+00:04:44.320 --> 00:04:47.200
+me questions directly. So, I look
+
+00:04:45.919 --> 00:04:48.160
+forward to meeting you. So, click the
+
+00:04:47.200 --> 00:04:49.400
+link in the description and the pinned
+
+00:04:48.160 --> 00:04:51.200
+comment below. Make sure you put it on
+
+00:04:49.400 --> 00:04:52.680
+your calendar. And if for whatever
+
+00:04:51.200 --> 00:04:54.280
+reason you missed out on it, you weren't
+
+00:04:52.680 --> 00:04:55.840
+able to attend, make sure you still
+
+00:04:54.280 --> 00:04:57.840
+click that link because we might be
+
+00:04:55.840 --> 00:04:59.200
+having workshops in the future as well
+
+00:04:57.840 --> 00:05:00.840
+and you'll be the first to know about
+
+00:04:59.200 --> 00:05:02.400
+it. So, yeah. Hope to see you there. And
+
+00:05:00.840 --> 00:05:03.000
+now back to your regularly scheduled
+
+00:05:02.400 --> 00:05:06.360
+programming.
+
+00:05:03.000 --> 00:05:07.480
+>> Okay. Skill three is AI data analysis.
+
+00:05:06.360 --> 00:05:09.560
+Now, this is kind of what I was talking
+
+00:05:07.480 --> 00:05:11.080
+about before. So, do not glaze over this
+
+00:05:09.560 --> 00:05:12.840
+because I'm not talking about becoming
+
+00:05:11.080 --> 00:05:14.720
+some sort of data scientist or some sort
+
+00:05:12.840 --> 00:05:16.400
+of math wiz. I get it. Most people are
+
+00:05:14.720 --> 00:05:18.560
+not good at math. I totally understand.
+
+00:05:16.400 --> 00:05:20.720
+I'm talking about pointing AI at a pile
+
+00:05:18.560 --> 00:05:22.240
+of numbers and getting plain English
+
+00:05:20.720 --> 00:05:24.080
+answers back. And this might be the
+
+00:05:22.240 --> 00:05:25.720
+single hottest skill in the entire
+
+00:05:24.080 --> 00:05:28.640
+market. So, the World Economic Forum
+
+00:05:25.720 --> 00:05:30.800
+ranks AI and big data as the number one
+
+00:05:28.640 --> 00:05:33.160
+fastest growing skill through 2030. With
+
+00:05:30.800 --> 00:05:34.919
+86% of employers saying that it's about
+
+00:05:33.160 --> 00:05:36.880
+to reshape their business. And the proof
+
+00:05:34.919 --> 00:05:38.960
+here is Tina Huang. She was an actual
+
+00:05:36.880 --> 00:05:40.400
+data scientist at Meta and she now runs
+
+00:05:38.960 --> 00:05:42.320
+a YouTube channel with over a million
+
+00:05:40.400 --> 00:05:44.120
+subscribers teaching normal people how
+
+00:05:42.320 --> 00:05:45.680
+to do this. And she even built her own
+
+00:05:44.120 --> 00:05:47.320
+data and AI school on top of the
+
+00:05:45.680 --> 00:05:49.320
+channel. Now, here's how simple this
+
+00:05:47.320 --> 00:05:50.720
+actually can be. You take a spreadsheet,
+
+00:05:49.320 --> 00:05:52.400
+you give it to Claude, and you ask it
+
+00:05:50.720 --> 00:05:53.840
+questions like a human. In my own
+
+00:05:52.400 --> 00:05:55.400
+business, we use this to figure out
+
+00:05:53.840 --> 00:05:57.240
+exactly what kind of customers that we
+
+00:05:55.400 --> 00:05:59.240
+attract, and work that we used to pay an
+
+00:05:57.240 --> 00:06:02.080
+analyst real money for. I'm talking
+
+00:05:59.240 --> 00:06:04.360
+reports that used to cost us $5,000 to
+
+00:06:02.080 --> 00:06:06.240
+do, we can now do much faster and for a
+
+00:06:04.360 --> 00:06:07.480
+fraction of the cost as well. So, now
+
+00:06:06.240 --> 00:06:08.840
+it's a conversation with Claude that
+
+00:06:07.480 --> 00:06:11.640
+takes a few minutes or maybe an hour
+
+00:06:08.840 --> 00:06:13.120
+max. And every industry has data. Every
+
+00:06:11.640 --> 00:06:14.840
+industry needs the person who can read
+
+00:06:13.120 --> 00:06:16.200
+it with AI. Now, quick pause because
+
+00:06:14.840 --> 00:06:17.560
+this is where it gets practical. Every
+
+00:06:16.200 --> 00:06:19.560
+step that I'm showing you, I've got
+
+00:06:17.560 --> 00:06:20.560
+actual Claude skills and prompts for it,
+
+00:06:19.560 --> 00:06:21.919
+and I'm going to be dropping them in the
+
+00:06:20.560 --> 00:06:24.040
+description and the pin comment below.
+
+00:06:21.919 --> 00:06:26.280
+Okay, skill four is going to be AI
+
+00:06:24.040 --> 00:06:28.160
+content optimization. And this is not
+
+00:06:26.280 --> 00:06:30.200
+making new content with AI, which
+
+00:06:28.160 --> 00:06:32.280
+everybody's already doing, this is using
+
+00:06:30.200 --> 00:06:34.080
+AI to make content that you already have
+
+00:06:32.280 --> 00:06:36.000
+perform way better. So, every company is
+
+00:06:34.080 --> 00:06:37.919
+sitting on a graveyard of old blog
+
+00:06:36.000 --> 00:06:40.320
+posts, videos, and emails that cost them
+
+00:06:37.919 --> 00:06:42.040
+a fortune that are just gathering dust.
+
+00:06:40.320 --> 00:06:43.480
+And the demand for this is exploding way
+
+00:06:42.040 --> 00:06:45.080
+faster than people can keep up. For
+
+00:06:43.480 --> 00:06:46.640
+instance, marketing job posts that ask
+
+00:06:45.080 --> 00:06:49.080
+for AI skills more than doubled in a
+
+00:06:46.640 --> 00:06:51.040
+single year, up 113%
+
+00:06:49.080 --> 00:06:52.880
+while only about 4% of marketers have
+
+00:06:51.040 --> 00:06:54.280
+actually picked those skills up. So, if
+
+00:06:52.880 --> 00:06:56.240
+you are an early adopter, you are going
+
+00:06:54.280 --> 00:06:58.320
+to have a massive advantage. And if you
+
+00:06:56.240 --> 00:06:59.919
+start right now, you absolutely are
+
+00:06:58.320 --> 00:07:02.000
+early. So, creator who teaches exactly
+
+00:06:59.919 --> 00:07:04.680
+this is Sabrina Romanoff, and she grew
+
+00:07:02.000 --> 00:07:07.120
+over 1.4 million followers in about 15
+
+00:07:04.680 --> 00:07:08.840
+months completely solo using these AI
+
+00:07:07.120 --> 00:07:10.360
+systems. And before all this, she
+
+00:07:08.840 --> 00:07:11.640
+co-founded a startup that sold for more
+
+00:07:10.360 --> 00:07:13.600
+than $10 million.
+
+00:07:11.640 --> 00:07:15.640
+So, she is not guessing. So, here's the
+
+00:07:13.600 --> 00:07:16.960
+Claude version of the skill and it's my
+
+00:07:15.640 --> 00:07:18.600
+favorite. You take everything that
+
+00:07:16.960 --> 00:07:20.320
+you've already made, you load it into a
+
+00:07:18.600 --> 00:07:21.800
+Claude project, and you ask it what to
+
+00:07:20.320 --> 00:07:24.040
+do. Matt Wolfe, who we'll meet here in a
+
+00:07:21.800 --> 00:07:25.960
+second, does exactly this. He loads his
+
+00:07:24.040 --> 00:07:27.560
+real analytics into a Claude project and
+
+00:07:25.960 --> 00:07:28.960
+treats it like a producer that knows his
+
+00:07:27.560 --> 00:07:30.720
+whole business. And it can turn money
+
+00:07:28.960 --> 00:07:32.320
+that a company already spent into brand
+
+00:07:30.720 --> 00:07:33.919
+new results. And they'll hire you for
+
+00:07:32.320 --> 00:07:36.000
+that tomorrow. All right, the fifth
+
+00:07:33.919 --> 00:07:38.160
+skill ties everything together and it's
+
+00:07:36.000 --> 00:07:40.000
+AI-assisted problem-solving. So, this is
+
+00:07:38.160 --> 00:07:42.040
+knowing which AI tool to reach for when
+
+00:07:40.000 --> 00:07:43.560
+and how to point it at the real problem.
+
+00:07:42.040 --> 00:07:45.360
+And here's the stat that should light a
+
+00:07:43.560 --> 00:07:48.200
+fire under you. In a Microsoft and
+
+00:07:45.360 --> 00:07:50.000
+LinkedIn survey, 66% of leaders said
+
+00:07:48.200 --> 00:07:53.360
+that they would not hire someone without
+
+00:07:50.000 --> 00:07:55.400
+AI skills, and 71% would take a less
+
+00:07:53.360 --> 00:07:57.000
+experienced person who had them over a
+
+00:07:55.400 --> 00:07:58.520
+veteran who doesn't. So, the perfect
+
+00:07:57.000 --> 00:08:00.240
+example of this, like I said before, is
+
+00:07:58.520 --> 00:08:01.440
+Matt Wolf. He has over 900,000
+
+00:08:00.240 --> 00:08:03.280
+subscribers, and he built his whole
+
+00:08:01.440 --> 00:08:05.360
+brand on testing AI tools and telling
+
+00:08:03.280 --> 00:08:06.960
+you which one to use for which job. And
+
+00:08:05.360 --> 00:08:09.360
+on top of the channel, his newsletter
+
+00:08:06.960 --> 00:08:10.800
+reaches nearly 250,000 people every
+
+00:08:09.360 --> 00:08:12.520
+single week. Now, here's what this looks
+
+00:08:10.800 --> 00:08:14.000
+like in real life. A while back, my team
+
+00:08:12.520 --> 00:08:16.080
+and I were stuck on a nasty problem
+
+00:08:14.000 --> 00:08:17.800
+inside Facebook's ad manager, and we
+
+00:08:16.080 --> 00:08:19.440
+could not crack it. Now, if you've ever
+
+00:08:17.800 --> 00:08:21.280
+used the Facebook Ads Manager, they
+
+00:08:19.440 --> 00:08:23.400
+change stuff in there all the time. They
+
+00:08:21.280 --> 00:08:24.960
+also beta test different stuff, so even
+
+00:08:23.400 --> 00:08:26.360
+if you try to look up what to do,
+
+00:08:24.960 --> 00:08:28.240
+chances are you're looking at different
+
+00:08:26.360 --> 00:08:30.320
+settings than everybody else's, and so
+
+00:08:28.240 --> 00:08:32.440
+it's a massive headache. But we used a
+
+00:08:30.320 --> 00:08:34.080
+tool that can actually see your screen,
+
+00:08:32.440 --> 00:08:36.159
+asked it what to do, and it solved the
+
+00:08:34.080 --> 00:08:37.760
+exact thing two humans couldn't.
+
+00:08:36.159 --> 00:08:39.400
+Specifically, it was the Google Vision
+
+00:08:37.760 --> 00:08:42.440
+tool. Now, we don't actually use Google
+
+00:08:39.400 --> 00:08:43.640
+AI AI for that many things. We typically
+
+00:08:42.440 --> 00:08:45.600
+stick with Claude. But this is where
+
+00:08:43.640 --> 00:08:47.520
+knowing which tool to use is so
+
+00:08:45.600 --> 00:08:49.200
+valuable, right? If you try to use a
+
+00:08:47.520 --> 00:08:50.560
+hammer to hammer in a screw, you are
+
+00:08:49.200 --> 00:08:52.000
+going to have a bad time. Now, just to
+
+00:08:50.560 --> 00:08:54.040
+be clear, Claude is my default for
+
+00:08:52.000 --> 00:08:56.240
+thinking, writing, strategizing, and
+
+00:08:54.040 --> 00:08:58.080
+probably about 95% of the things we do
+
+00:08:56.240 --> 00:09:00.200
+on a day-to-day basis. But again, the
+
+00:08:58.080 --> 00:09:02.600
+skill is knowing when something else
+
+00:09:00.200 --> 00:09:04.680
+wins, knowing what tool to use in the
+
+00:09:02.600 --> 00:09:06.320
+right circumstance. And companies pay a
+
+00:09:04.680 --> 00:09:08.560
+premium for the person who knows the
+
+00:09:06.320 --> 00:09:10.320
+whole toolbox, not just one hammer. And
+
+00:09:08.560 --> 00:09:11.640
+for advanced projects that we've done,
+
+00:09:10.320 --> 00:09:13.880
+where we've actually created our own
+
+00:09:11.640 --> 00:09:16.040
+software, or our own apps, or our own
+
+00:09:13.880 --> 00:09:18.080
+automations, we almost always use
+
+00:09:16.040 --> 00:09:19.720
+Claude, and specifically Claude Code.
+
+00:09:18.080 --> 00:09:21.760
+Now, Claude Code might sound really
+
+00:09:19.720 --> 00:09:23.000
+difficult to use, but actually it's
+
+00:09:21.760 --> 00:09:24.600
+pretty simple. You can learn it in just
+
+00:09:23.000 --> 00:09:25.920
+a few hours. But that's a topic for a
+
+00:09:24.600 --> 00:09:27.440
+different video. Now, those are the
+
+00:09:25.920 --> 00:09:29.200
+five: prompt engineering, tool
+
+00:09:27.440 --> 00:09:31.440
+integration, data analysis, content
+
+00:09:29.200 --> 00:09:32.760
+optimization, and problem solving. Now,
+
+00:09:31.440 --> 00:09:35.160
+look back at the five people I just
+
+00:09:32.760 --> 00:09:37.480
+showed you: Jeff Sue, Nate Hurk, Tina
+
+00:09:35.160 --> 00:09:39.440
+Huang, Sabrina Romanov, and Matt Wolf.
+
+00:09:37.480 --> 00:09:40.800
+Notice what every single one of them has
+
+00:09:39.440 --> 00:09:42.800
+in common. Every single one of them
+
+00:09:40.800 --> 00:09:44.920
+teaches these AI skills on a YouTube
+
+00:09:42.800 --> 00:09:46.800
+channel, and that is not a coincidence.
+
+00:09:44.920 --> 00:09:49.000
+The fastest way that anybody is turning
+
+00:09:46.800 --> 00:09:50.800
+an AI skill into real money right now is
+
+00:09:49.000 --> 00:09:52.040
+by building an audience around it. And
+
+00:09:50.800 --> 00:09:54.280
+YouTube is the only place that's a
+
+00:09:52.040 --> 00:09:55.760
+social platform and a search engine at
+
+00:09:54.280 --> 00:09:57.480
+the same time, which makes it more
+
+00:09:55.760 --> 00:09:59.280
+powerful than anything else for getting
+
+00:09:57.480 --> 00:10:01.160
+found. And the best part is you make one
+
+00:09:59.280 --> 00:10:02.640
+video and you can bring new people every
+
+00:10:01.160 --> 00:10:04.280
+single day for years. And what's going
+
+00:10:02.640 --> 00:10:05.760
+to happen in this industry is people are
+
+00:10:04.280 --> 00:10:08.200
+going to start making AI specific
+
+00:10:05.760 --> 00:10:10.360
+content about specific careers, specific
+
+00:10:08.200 --> 00:10:12.520
+niches, specific industries, products,
+
+00:10:10.360 --> 00:10:14.120
+services, etc., etc. For instance, I
+
+00:10:12.520 --> 00:10:15.920
+make AI specific content, generally
+
+00:10:14.120 --> 00:10:17.480
+speaking, about how to build your brand,
+
+00:10:15.920 --> 00:10:19.040
+how to automate things in your business,
+
+00:10:17.480 --> 00:10:20.760
+and how to make really good content. And
+
+00:10:19.040 --> 00:10:22.600
+one of the most popular pieces of AI
+
+00:10:20.760 --> 00:10:24.280
+that we've ever created is the niche
+
+00:10:22.600 --> 00:10:26.600
+validator because so many people out
+
+00:10:24.280 --> 00:10:28.000
+there have no idea what niche to pick.
+
+00:10:26.600 --> 00:10:29.840
+And luckily for you, we are going to be
+
+00:10:28.000 --> 00:10:30.840
+giving away the niche validator this
+
+00:10:29.840 --> 00:10:32.480
+week if you click the link in the
+
+00:10:30.840 --> 00:10:34.280
+description and the pin comment below at
+
+00:10:32.480 --> 00:10:35.680
+our live training. So, it's a completely
+
+00:10:34.280 --> 00:10:36.920
+free live training. We're going to give
+
+00:10:35.680 --> 00:10:38.480
+you away the niche validator. We're
+
+00:10:36.920 --> 00:10:40.280
+going to help you pick your niche, teach
+
+00:10:38.480 --> 00:10:41.880
+you exactly step by step how to start
+
+00:10:40.280 --> 00:10:43.839
+your personal brand, and at the end you
+
+00:10:41.880 --> 00:10:45.839
+can literally ask me any question that
+
+00:10:43.839 --> 00:10:47.040
+you want about how to do it. Now, I know
+
+00:10:45.839 --> 00:10:48.520
+that most of you are just going to take
+
+00:10:47.040 --> 00:10:50.160
+this and run with it on your own, and
+
+00:10:48.520 --> 00:10:51.720
+that is exactly what I want. I always
+
+00:10:50.160 --> 00:10:52.920
+want to give 100 times more value than
+
+00:10:51.720 --> 00:10:54.839
+what I receive, and I think I've
+
+00:10:52.920 --> 00:10:56.000
+actually done that. But, a very small
+
+00:10:54.839 --> 00:10:57.800
+percentage of you are going to want to
+
+00:10:56.000 --> 00:10:59.800
+work with me one-on-one to help you get
+
+00:10:57.800 --> 00:11:01.080
+there as fast as humanly possible. You
+
+00:10:59.800 --> 00:11:02.800
+don't want to take potentially years
+
+00:11:01.080 --> 00:11:04.320
+figuring out on your own. Or, you might
+
+00:11:02.800 --> 00:11:05.839
+want us to just literally do the work
+
+00:11:04.320 --> 00:11:06.839
+for you. So, if that's you, go ahead and
+
+00:11:05.839 --> 00:11:08.280
+book a call by clicking the link in the
+
+00:11:06.839 --> 00:11:10.080
+description and the pin comment below.
+
+00:11:08.280 --> 00:11:11.920
+We only work with about 18% of people
+
+00:11:10.080 --> 00:11:13.440
+who apply. We can only work with a very
+
+00:11:11.920 --> 00:11:14.800
+limited amount of people at a time as
+
+00:11:13.440 --> 00:11:16.280
+well. But, if that's you, the
+
+00:11:14.800 --> 00:11:17.680
+application link is in the description
+
+00:11:16.280 --> 00:11:18.760
+and the pin comment below. And if you
+
+00:11:17.680 --> 00:11:20.560
+don't believe that this can work for
+
+00:11:18.760 --> 00:11:22.800
+people, well, I took a random person in
+
+00:11:20.560 --> 00:11:24.920
+my family, my own brother who's over 50
+
+00:11:22.800 --> 00:11:26.520
+years old, isn't tech-savvy, and never
+
+00:11:24.920 --> 00:11:28.280
+created a video in his life. And we got
+
+00:11:26.520 --> 00:11:30.839
+him from absolute zero to making a
+
+00:11:28.280 --> 00:11:32.080
+full-time income in less than 1 month.
+
+00:11:30.839 --> 00:11:33.440
+And if you want to see exactly how we
+
+00:11:32.080 --> 00:11:36.800
+did that, go ahead and click the link
+
+00:11:33.440 --> 00:11:36.800
+right here to watch that video.
+

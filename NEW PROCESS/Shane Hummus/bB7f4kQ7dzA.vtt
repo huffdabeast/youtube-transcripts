@@ -1,0 +1,2171 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.840
+So, by the end of this video, you're
+
+00:00:01.000 --> 00:00:05.520
+going to know the 10 things that every
+
+00:00:02.840 --> 00:00:07.400
+smart YouTuber uses Claude AI for, and
+
+00:00:05.520 --> 00:00:09.280
+you'll be able to do all 10 yourself
+
+00:00:07.400 --> 00:00:10.920
+today using prompts that I'm going to be
+
+00:00:09.280 --> 00:00:12.040
+giving you away for free. And this is
+
+00:00:10.920 --> 00:00:13.680
+coming from someone who owns a YouTube
+
+00:00:12.040 --> 00:00:16.080
+channel with over a million subscribers.
+
+00:00:13.680 --> 00:00:18.000
+Last year, I made $477,000
+
+00:00:16.080 --> 00:00:19.800
+in AdSense, and my community members
+
+00:00:18.000 --> 00:00:21.600
+have collectively generated over $100
+
+00:00:19.800 --> 00:00:23.200
+million in results from YouTube. So, I'm
+
+00:00:21.600 --> 00:00:24.960
+not guessing here. These are the exact
+
+00:00:23.200 --> 00:00:26.720
+workflows that I run on my own channel,
+
+00:00:24.960 --> 00:00:28.920
+and they're the ones that turn an upload
+
+00:00:26.720 --> 00:00:30.320
+from a full day of work into about 30
+
+00:00:28.920 --> 00:00:32.480
+minutes. And here's what most people
+
+00:00:30.320 --> 00:00:34.280
+don't get. Claude is not just an AI.
+
+00:00:32.480 --> 00:00:36.800
+It's the closest thing that you'll ever
+
+00:00:34.280 --> 00:00:39.120
+get to hiring a senior-level employee
+
+00:00:36.800 --> 00:00:40.800
+for 20 bucks a month. One who can write
+
+00:00:39.120 --> 00:00:42.800
+your descriptions, find your video
+
+00:00:40.800 --> 00:00:44.440
+ideas, script your hooks, and do about
+
+00:00:42.800 --> 00:00:46.120
+90% of the heavy lifting on your YouTube
+
+00:00:44.440 --> 00:00:47.720
+channel, and it never sleeps. And I'm
+
+00:00:46.120 --> 00:00:49.720
+going to show you all 10 of these things
+
+00:00:47.720 --> 00:00:50.960
+on my actual screen and point you to
+
+00:00:49.720 --> 00:00:52.560
+some of the free tools that you can
+
+00:00:50.960 --> 00:00:53.960
+download in the pinned comment and the
+
+00:00:52.560 --> 00:00:55.360
+description below. And make sure you
+
+00:00:53.960 --> 00:00:57.600
+watch until the very end because the
+
+00:00:55.360 --> 00:00:59.240
+last one is a strategic move that almost
+
+00:00:57.600 --> 00:01:00.320
+nobody talks about. So, if you
+
+00:00:59.240 --> 00:01:01.680
+appreciate me making this type of
+
+00:01:00.320 --> 00:01:03.440
+content and you want me to make more of
+
+00:01:01.680 --> 00:01:05.120
+it in the future, then let me know by
+
+00:01:03.440 --> 00:01:06.760
+gently tapping that like button, and
+
+00:01:05.120 --> 00:01:08.200
+let's dive into it right now. All right,
+
+00:01:06.760 --> 00:01:10.040
+so number one is what I call the
+
+00:01:08.200 --> 00:01:12.240
+description machine, and this is the
+
+00:01:10.040 --> 00:01:13.400
+easiest win on the entire list, so we're
+
+00:01:12.240 --> 00:01:15.680
+going to go ahead and start here. Now,
+
+00:01:13.400 --> 00:01:17.240
+here's a deal. Almost nobody writes a
+
+00:01:15.680 --> 00:01:19.280
+good YouTube description because,
+
+00:01:17.240 --> 00:01:21.800
+honestly, it's boring, right? But a
+
+00:01:19.280 --> 00:01:24.080
+solid SEO-optimized description tells
+
+00:01:21.800 --> 00:01:26.520
+YouTube AI exactly what your video is
+
+00:01:24.080 --> 00:01:28.760
+about, which means that it's way easier
+
+00:01:26.520 --> 00:01:30.680
+for YouTube to actually show it to the
+
+00:01:28.760 --> 00:01:32.720
+right person. And this is especially
+
+00:01:30.680 --> 00:01:35.000
+important for a small channel, right?
+
+00:01:32.720 --> 00:01:36.600
+For a small channel, this matters a lot
+
+00:01:35.000 --> 00:01:38.200
+because when YouTube doesn't know what
+
+00:01:36.600 --> 00:01:40.120
+your video is about, it's not just going
+
+00:01:38.200 --> 00:01:41.280
+to blast it out to millions of people,
+
+00:01:40.120 --> 00:01:42.840
+right? If it doesn't know who your
+
+00:01:41.280 --> 00:01:44.160
+audience is and what your video's about
+
+00:01:42.840 --> 00:01:45.640
+and what your channel is about, it's
+
+00:01:44.160 --> 00:01:47.120
+going to drip-feed it out to people
+
+00:01:45.640 --> 00:01:48.480
+until it finally figures that out. And
+
+00:01:47.120 --> 00:01:49.840
+the faster it figures that out, the
+
+00:01:48.480 --> 00:01:51.760
+faster it's going to be able to promote
+
+00:01:49.840 --> 00:01:53.640
+your channel to more people. So, instead
+
+00:01:51.760 --> 00:01:55.360
+of staring at a blank box for 20
+
+00:01:53.640 --> 00:01:56.760
+minutes, you can let Claude do it in
+
+00:01:55.360 --> 00:01:58.240
+about 20 seconds. Now, you might be
+
+00:01:56.760 --> 00:01:59.520
+thinking this is overkill for a small
+
+00:01:58.240 --> 00:02:00.600
+channel, right? And I hear that one all
+
+00:01:59.520 --> 00:02:02.480
+the time. But, it's actually the
+
+00:02:00.600 --> 00:02:04.000
+opposite. The smaller you are, the more
+
+00:02:02.480 --> 00:02:05.600
+these little signals matter. Think of it
+
+00:02:04.000 --> 00:02:08.200
+like hiring a translator, right? You
+
+00:02:05.600 --> 00:02:10.440
+speak human. YouTube's algorithm speaks
+
+00:02:08.200 --> 00:02:12.080
+keywords and context. Claude sits in the
+
+00:02:10.440 --> 00:02:13.680
+middle and translates your video into
+
+00:02:12.080 --> 00:02:15.840
+the exact language that the algorithm
+
+00:02:13.680 --> 00:02:17.640
+wants to hear, so that nothing gets lost
+
+00:02:15.840 --> 00:02:19.160
+between what you made and what YouTube
+
+00:02:17.640 --> 00:02:20.280
+understands. All right, so now I'm going
+
+00:02:19.160 --> 00:02:21.440
+to take you into the screen and we're
+
+00:02:20.280 --> 00:02:23.160
+going to show you exactly what to do
+
+00:02:21.440 --> 00:02:25.520
+here. Step one, inside your YouTube
+
+00:02:23.160 --> 00:02:27.080
+Studio, open your uploaded video, right?
+
+00:02:25.520 --> 00:02:28.480
+I'm assuming that your video is already
+
+00:02:27.080 --> 00:02:30.360
+uploaded. Then, you want to scroll to
+
+00:02:28.480 --> 00:02:32.640
+the description, click more, go to the
+
+00:02:30.360 --> 00:02:34.920
+bottom, and click show transcript. Then,
+
+00:02:32.640 --> 00:02:36.640
+select plus copy the whole transcript.
+
+00:02:34.920 --> 00:02:38.440
+Step two, switch to your Claude tab.
+
+00:02:36.640 --> 00:02:40.120
+Paste the transcript in, then either
+
+00:02:38.440 --> 00:02:41.760
+type or just screenshot the prompt. It's
+
+00:02:40.120 --> 00:02:43.400
+a lot easier to screenshot it and hit
+
+00:02:41.760 --> 00:02:45.440
+enter. Then, you can just go ahead and
+
+00:02:43.400 --> 00:02:47.560
+copy and paste it into the description
+
+00:02:45.440 --> 00:02:49.840
+box below, and make sure that you put it
+
+00:02:47.560 --> 00:02:51.640
+below your top links, right? Because you
+
+00:02:49.840 --> 00:02:54.040
+always want to put your top links at the
+
+00:02:51.640 --> 00:02:56.000
+very top of the description. Another way
+
+00:02:54.040 --> 00:02:57.520
+of saying this is above the fold, or
+
+00:02:56.000 --> 00:02:59.720
+it's going to be visible even if you
+
+00:02:57.520 --> 00:03:01.280
+don't click see more. Then, go ahead and
+
+00:02:59.720 --> 00:03:03.080
+save. Hey, quick break. I'm going to be
+
+00:03:01.280 --> 00:03:05.120
+doing a live training this week on how
+
+00:03:03.080 --> 00:03:06.680
+to start a YouTube channel step-by-step
+
+00:03:05.120 --> 00:03:08.120
+for beginners. This is going to be for
+
+00:03:06.680 --> 00:03:09.760
+people who want to start a channel, but
+
+00:03:08.120 --> 00:03:11.400
+they don't know what niche to pick, what
+
+00:03:09.760 --> 00:03:12.680
+videos to make, or how to actually get
+
+00:03:11.400 --> 00:03:14.800
+started the right way. And it's a
+
+00:03:12.680 --> 00:03:17.280
+completely free training, no strings
+
+00:03:14.800 --> 00:03:19.320
+attached. In fact, I'm giving away even
+
+00:03:17.280 --> 00:03:20.560
+more bonuses at the training. So, just
+
+00:03:19.320 --> 00:03:22.800
+as an example, I'm going to be giving
+
+00:03:20.560 --> 00:03:25.040
+away my niche validator. Um this is
+
+00:03:22.800 --> 00:03:26.840
+going to be available both for ChatGPT
+
+00:03:25.040 --> 00:03:28.480
+as well as Claude, which is a super
+
+00:03:26.840 --> 00:03:30.519
+valuable piece of software where you can
+
+00:03:28.480 --> 00:03:32.640
+finally figure out what the best niche
+
+00:03:30.519 --> 00:03:34.080
+for you is. So, do not miss out on this
+
+00:03:32.640 --> 00:03:35.160
+training. Make sure you sign up for it
+
+00:03:34.080 --> 00:03:37.080
+down in the description and the pin
+
+00:03:35.160 --> 00:03:38.920
+comment below, because you only get it
+
+00:03:37.080 --> 00:03:40.959
+if you join the training. So, if you
+
+00:03:38.920 --> 00:03:42.480
+don't join now, you might miss it. But,
+
+00:03:40.959 --> 00:03:44.320
+that being said, in the workshop, you'll
+
+00:03:42.480 --> 00:03:46.000
+get to meet me, and you'll get to ask me
+
+00:03:44.320 --> 00:03:47.080
+questions directly. So, I look forward
+
+00:03:46.000 --> 00:03:47.920
+to seeing you in there. So, click the
+
+00:03:47.080 --> 00:03:49.400
+link in the description and the pin
+
+00:03:47.920 --> 00:03:50.640
+comment below. Put it in your calendar.
+
+00:03:49.400 --> 00:03:51.880
+And if for whatever reason you missed
+
+00:03:50.640 --> 00:03:53.800
+out on it, or you weren't able to
+
+00:03:51.880 --> 00:03:55.520
+attend, make sure you still click that
+
+00:03:53.800 --> 00:03:57.360
+link because we might be having
+
+00:03:55.520 --> 00:03:58.360
+workshops in the future as well, and
+
+00:03:57.360 --> 00:04:00.280
+you'll be the first to know about it.
+
+00:03:58.360 --> 00:04:01.560
+So, yeah. Hope to see you there, and now
+
+00:04:00.280 --> 00:04:02.920
+back to your regularly scheduled
+
+00:04:01.560 --> 00:04:04.720
+content. Now, if you want to take this a
+
+00:04:02.920 --> 00:04:06.440
+step further, you can also make
+
+00:04:04.720 --> 00:04:08.320
+timestamps. Now, that is one of those
+
+00:04:06.440 --> 00:04:10.120
+topics where there's a lot of subtlety
+
+00:04:08.320 --> 00:04:11.760
+to it. Sometimes with some types of
+
+00:04:10.120 --> 00:04:14.200
+channels, it's a good idea to make
+
+00:04:11.760 --> 00:04:15.560
+timestamps, sometimes it's not, and
+
+00:04:14.200 --> 00:04:17.480
+sometimes it's a good idea to make
+
+00:04:15.560 --> 00:04:18.440
+timestamps, but only in a certain way.
+
+00:04:17.480 --> 00:04:20.040
+So, I'm not going to cover that in this
+
+00:04:18.440 --> 00:04:21.880
+video just because of the fact that one,
+
+00:04:20.040 --> 00:04:23.280
+it's not necessary, but two, there's a
+
+00:04:21.880 --> 00:04:24.919
+lot of subtlety to it, and it really
+
+00:04:23.280 --> 00:04:27.360
+depends. With that being said, let's
+
+00:04:24.919 --> 00:04:29.160
+move to section number two, which is the
+
+00:04:27.360 --> 00:04:30.840
+title tab. Now, if I had to pick the
+
+00:04:29.160 --> 00:04:33.000
+single highest leverage thing on this
+
+00:04:30.840 --> 00:04:35.200
+list, it might be this one because your
+
+00:04:33.000 --> 00:04:37.040
+title decides whether anyone clicks at
+
+00:04:35.200 --> 00:04:39.400
+all on the video. Now, here's what most
+
+00:04:37.040 --> 00:04:41.800
+people do. They write one title, they
+
+00:04:39.400 --> 00:04:43.240
+kind of like it, I guess, and then they
+
+00:04:41.800 --> 00:04:45.080
+hit publish, and that's it. That's like
+
+00:04:43.240 --> 00:04:46.840
+a boxer throwing one punch the whole
+
+00:04:45.080 --> 00:04:48.560
+fight, and just hoping that it lands.
+
+00:04:46.840 --> 00:04:49.880
+Smart YouTubers are going to throw 10
+
+00:04:48.560 --> 00:04:51.400
+punches at least. They're going to
+
+00:04:49.880 --> 00:04:53.000
+generate a bunch of different title
+
+00:04:51.400 --> 00:04:54.680
+options, and then they're going to pick
+
+00:04:53.000 --> 00:04:57.560
+the strongest one. And Claude can easily
+
+00:04:54.680 --> 00:04:59.240
+spit out 10 solid SEO-friendly titles
+
+00:04:57.560 --> 00:05:00.960
+with the main keyword near the front in
+
+00:04:59.240 --> 00:05:02.800
+seconds. Now, I like to call this the
+
+00:05:00.960 --> 00:05:04.520
+money ball method. Not going to get too
+
+00:05:02.800 --> 00:05:05.960
+deep on that in this video, but I have
+
+00:05:04.520 --> 00:05:07.480
+talked about it in other videos. But
+
+00:05:05.960 --> 00:05:09.600
+basically, you want your title to be
+
+00:05:07.480 --> 00:05:10.960
+browse-friendly, so that if it shows up
+
+00:05:09.600 --> 00:05:12.720
+on the home page, people are likely to
+
+00:05:10.960 --> 00:05:14.120
+click on it, but if it doesn't show up
+
+00:05:12.720 --> 00:05:16.440
+on the home page for whatever reason,
+
+00:05:14.120 --> 00:05:18.200
+it's still SEO-friendly as well, meaning
+
+00:05:16.440 --> 00:05:19.640
+it will very likely show up in search.
+
+00:05:18.200 --> 00:05:21.640
+And here's the key because this is where
+
+00:05:19.640 --> 00:05:24.040
+people mess up, right? The keyword goes
+
+00:05:21.640 --> 00:05:25.560
+near the front, but the title still has
+
+00:05:24.040 --> 00:05:27.120
+to be attractive enough that a human
+
+00:05:25.560 --> 00:05:28.480
+actually wants to click, right? So,
+
+00:05:27.120 --> 00:05:30.240
+keyword-stuffed titles that nobody
+
+00:05:28.480 --> 00:05:32.360
+clicks are useless. So, I do not want
+
+00:05:30.240 --> 00:05:33.560
+you to over-keyword-stuff the title.
+
+00:05:32.360 --> 00:05:34.960
+That's the mistake that a lot of people
+
+00:05:33.560 --> 00:05:36.800
+make because then it is not
+
+00:05:34.960 --> 00:05:37.960
+browse-friendly. Nobody's going to click
+
+00:05:36.800 --> 00:05:39.200
+on a title that has way too many
+
+00:05:37.960 --> 00:05:41.640
+keywords if they see it on the home
+
+00:05:39.200 --> 00:05:42.880
+page. But Claude can balance both. So,
+
+00:05:41.640 --> 00:05:44.160
+you're going to want to open Claude,
+
+00:05:42.880 --> 00:05:45.800
+you're going to want to type the prompt
+
+00:05:44.160 --> 00:05:47.000
+below, or just screenshot it like I
+
+00:05:45.800 --> 00:05:49.080
+said, and you're going to want to do it
+
+00:05:47.000 --> 00:05:51.160
+with a real topic and audience. And when
+
+00:05:49.080 --> 00:05:53.480
+the 10 scored titles appear, scroll
+
+00:05:51.160 --> 00:05:55.440
+slowly so the scores and reasoning are
+
+00:05:53.480 --> 00:05:57.600
+visible, then point out your favorite
+
+00:05:55.440 --> 00:05:59.680
+and say why it won. Oh, and quick bonus
+
+00:05:57.600 --> 00:06:01.360
+that saved me probably 10 to 20 million
+
+00:05:59.680 --> 00:06:03.920
+views over the years, once you pick your
+
+00:06:01.360 --> 00:06:06.120
+title, make it your video's file name
+
+00:06:03.920 --> 00:06:08.120
+before you upload, right? So, title and
+
+00:06:06.120 --> 00:06:09.680
+file name should match. And on top of
+
+00:06:08.120 --> 00:06:11.320
+that, make it your thumbnail's file name
+
+00:06:09.680 --> 00:06:13.800
+as well. Right, title and file name
+
+00:06:11.320 --> 00:06:15.600
+matching is a massive SEO signal that
+
+00:06:13.800 --> 00:06:17.600
+most people completely ignore. Now, in
+
+00:06:15.600 --> 00:06:19.919
+order to pick a title, you need to have
+
+00:06:17.600 --> 00:06:22.040
+a good video idea. In order to have good
+
+00:06:19.919 --> 00:06:23.480
+video ideas, you need to have a good
+
+00:06:22.040 --> 00:06:24.919
+niche. And a lot of people think that
+
+00:06:23.480 --> 00:06:27.640
+they found their niche, but the truth is
+
+00:06:24.919 --> 00:06:30.080
+there's probably 500 or maybe even 5,000
+
+00:06:27.640 --> 00:06:31.880
+sub niches within your niche. And so, if
+
+00:06:30.080 --> 00:06:33.520
+you haven't found your niche yet, or you
+
+00:06:31.880 --> 00:06:34.520
+haven't dialed your niche in, then
+
+00:06:33.520 --> 00:06:35.760
+definitely click the link in the
+
+00:06:34.520 --> 00:06:37.680
+description and the pinned comment below
+
+00:06:35.760 --> 00:06:39.080
+to attend my free live training. This
+
+00:06:37.680 --> 00:06:41.480
+will be a live training this week, which
+
+00:06:39.080 --> 00:06:43.160
+is dedicated to helping you find or dial
+
+00:06:41.480 --> 00:06:45.480
+in your niche. And we'll actually be
+
+00:06:43.160 --> 00:06:47.400
+giving away an in-house AI tool that we
+
+00:06:45.480 --> 00:06:48.680
+built, those trained on thousands of
+
+00:06:47.400 --> 00:06:50.800
+hours of us coaching our community
+
+00:06:48.680 --> 00:06:53.000
+members to help them find their ideal
+
+00:06:50.800 --> 00:06:55.520
+niches. All right, section three is the
+
+00:06:53.000 --> 00:06:57.480
+pinned comment closer. And we do this on
+
+00:06:55.520 --> 00:06:59.720
+every single video, every single time,
+
+00:06:57.480 --> 00:07:01.040
+the second it goes live, no exceptions,
+
+00:06:59.720 --> 00:07:03.040
+ever. Now, here's why this is so
+
+00:07:01.040 --> 00:07:05.360
+powerful. Not everyone reads your
+
+00:07:03.040 --> 00:07:07.560
+description, right? But almost everybody
+
+00:07:05.360 --> 00:07:09.440
+reads the comments. In fact, that is
+
+00:07:07.560 --> 00:07:10.720
+oftentimes the very first thing that
+
+00:07:09.440 --> 00:07:11.880
+people do when they click on a video.
+
+00:07:10.720 --> 00:07:13.800
+They just scroll down to the comments
+
+00:07:11.880 --> 00:07:15.760
+immediately. So, your pinned comment is
+
+00:07:13.800 --> 00:07:17.800
+prime real estate. It's where you put
+
+00:07:15.760 --> 00:07:20.000
+your most important links, your call to
+
+00:07:17.800 --> 00:07:21.400
+action, and your questions that get
+
+00:07:20.000 --> 00:07:23.080
+people talking. So, it's kind of like
+
+00:07:21.400 --> 00:07:24.600
+the host at a restaurant. The second you
+
+00:07:23.080 --> 00:07:26.000
+walk in, they greet you, point you
+
+00:07:24.600 --> 00:07:28.120
+toward the bar, point you toward a
+
+00:07:26.000 --> 00:07:30.120
+table, and they get you chatting. Your
+
+00:07:28.120 --> 00:07:32.400
+pinned comment does the exact same
+
+00:07:30.120 --> 00:07:34.200
+thing. It greets every viewer and points
+
+00:07:32.400 --> 00:07:35.560
+them where you want them to go, and that
+
+00:07:34.200 --> 00:07:37.040
+starts a conversation with them. And
+
+00:07:35.560 --> 00:07:38.760
+when people reply to your pinned
+
+00:07:37.040 --> 00:07:40.440
+comment, that is engagement. And you
+
+00:07:38.760 --> 00:07:41.760
+want this engagement especially directly
+
+00:07:40.440 --> 00:07:43.560
+after you upload a video. And of course,
+
+00:07:41.760 --> 00:07:45.000
+you can even reply back their comments,
+
+00:07:43.560 --> 00:07:46.720
+which counts as engagement, too. And
+
+00:07:45.000 --> 00:07:48.320
+then they might reply again to your
+
+00:07:46.720 --> 00:07:49.720
+reply, which is even more engagement.
+
+00:07:48.320 --> 00:07:51.120
+Now, you might notice in my pinned
+
+00:07:49.720 --> 00:07:52.560
+comments, I don't really try to get
+
+00:07:51.120 --> 00:07:53.960
+engagement anymore, and that's just
+
+00:07:52.560 --> 00:07:55.640
+simply because I have a bigger channel,
+
+00:07:53.960 --> 00:07:57.160
+and I don't need it. But, when I first
+
+00:07:55.640 --> 00:07:59.240
+started my channel, I would almost
+
+00:07:57.160 --> 00:08:01.000
+always get people to engage with my
+
+00:07:59.240 --> 00:08:02.440
+content. Because if somebody clicks on a
+
+00:08:01.000 --> 00:08:04.760
+video, they go down to the comment
+
+00:08:02.440 --> 00:08:06.000
+section, and it's a complete ghost town,
+
+00:08:04.760 --> 00:08:07.560
+there's a very good chance they're just
+
+00:08:06.000 --> 00:08:09.720
+going to click off. Okay, so here's how
+
+00:08:07.560 --> 00:08:12.000
+we do this. In Claude, type the prompt
+
+00:08:09.720 --> 00:08:13.160
+below with your topic and CTA. Then,
+
+00:08:12.000 --> 00:08:14.560
+when it generates, you can go ahead and
+
+00:08:13.160 --> 00:08:16.000
+copy and paste it once your video's
+
+00:08:14.560 --> 00:08:18.760
+live. And then you want to go ahead and
+
+00:08:16.000 --> 00:08:21.440
+pin the comment. All right, section four
+
+00:08:18.760 --> 00:08:23.560
+is the comment army. Now, this is very
+
+00:08:21.440 --> 00:08:24.720
+closely related to section three, but
+
+00:08:23.560 --> 00:08:26.480
+it's a little bit different, right? And
+
+00:08:24.720 --> 00:08:28.640
+here's the strategy. For the first hour
+
+00:08:26.480 --> 00:08:31.480
+after you upload, you respond to as many
+
+00:08:28.640 --> 00:08:33.680
+comments as you can. Why? Because every
+
+00:08:31.480 --> 00:08:35.240
+person you reply to gets a notification.
+
+00:08:33.680 --> 00:08:36.880
+That little red bell that's on the top
+
+00:08:35.240 --> 00:08:38.880
+right of the screen. And a lot of them
+
+00:08:36.880 --> 00:08:41.120
+come right back to your video. And over
+
+00:08:38.880 --> 00:08:43.440
+time, people learn that when you upload,
+
+00:08:41.120 --> 00:08:46.000
+you're actually there. When your content
+
+00:08:43.440 --> 00:08:47.839
+actually goes live into an event, right?
+
+00:08:46.000 --> 00:08:49.600
+You're replying. You're hanging out.
+
+00:08:47.839 --> 00:08:51.320
+You're literally in the comments with
+
+00:08:49.600 --> 00:08:53.080
+them. So, they start showing up the
+
+00:08:51.320 --> 00:08:55.440
+second you go live, and it's kind of
+
+00:08:53.080 --> 00:08:57.360
+like a show or an event or a party,
+
+00:08:55.440 --> 00:08:59.080
+right? And I actually recommend not just
+
+00:08:57.360 --> 00:09:01.440
+replying to comments on the video that
+
+00:08:59.080 --> 00:09:03.160
+just went live, but replying to all of
+
+00:09:01.440 --> 00:09:05.080
+your comments around that time. Because
+
+00:09:03.160 --> 00:09:06.080
+again, if any of them are online,
+
+00:09:05.080 --> 00:09:06.960
+they're going to see that you replied to
+
+00:09:06.080 --> 00:09:07.800
+their comment, and they're going to go
+
+00:09:06.960 --> 00:09:09.520
+to your channel, and they're going to
+
+00:09:07.800 --> 00:09:11.200
+check out your new upload. Now, replying
+
+00:09:09.520 --> 00:09:12.760
+to a ton of comments fast is hard. So,
+
+00:09:11.200 --> 00:09:14.839
+here's what you can do. You can draft a
+
+00:09:12.760 --> 00:09:16.480
+bunch of responses with Claude. You can
+
+00:09:14.839 --> 00:09:18.800
+think of it like a chef with prep
+
+00:09:16.480 --> 00:09:20.320
+stations. A great kitchen does not cook
+
+00:09:18.800 --> 00:09:22.320
+every single dish from raw when the
+
+00:09:20.320 --> 00:09:23.880
+order comes in. They've got components
+
+00:09:22.320 --> 00:09:25.800
+of the dish ready to go, so they can
+
+00:09:23.880 --> 00:09:27.320
+plate it really fast, right? And Claude
+
+00:09:25.800 --> 00:09:29.160
+preps your responses so that you can
+
+00:09:27.320 --> 00:09:31.080
+plate them the second the comments roll
+
+00:09:29.160 --> 00:09:33.040
+in. Now, you're not copy and pasting
+
+00:09:31.080 --> 00:09:34.880
+robotic replies. That is the opposite of
+
+00:09:33.040 --> 00:09:36.760
+the point. You feed Claude the actual
+
+00:09:34.880 --> 00:09:38.560
+comments, and it can write personalized
+
+00:09:36.760 --> 00:09:40.200
+human responses, and then you can fire
+
+00:09:38.560 --> 00:09:41.440
+them off in seconds or you can tweak
+
+00:09:40.200 --> 00:09:43.080
+them a little bit and then fire them
+
+00:09:41.440 --> 00:09:45.160
+off. Also, pro tip here is you can
+
+00:09:43.080 --> 00:09:46.600
+screenshot multiple comments at once.
+
+00:09:45.160 --> 00:09:47.800
+You don't just have to do one at a time.
+
+00:09:46.600 --> 00:09:48.960
+And you can just tell it to reply to all
+
+00:09:47.800 --> 00:09:50.320
+of them. Now, let me show you exactly
+
+00:09:48.960 --> 00:09:52.080
+how to do this. You want to copy a
+
+00:09:50.320 --> 00:09:53.320
+handful of the real comments on one of
+
+00:09:52.080 --> 00:09:54.560
+your videos, then you can either
+
+00:09:53.320 --> 00:09:55.760
+screenshot them or paste them into
+
+00:09:54.560 --> 00:09:56.880
+Claude, and then of course you're going
+
+00:09:55.760 --> 00:09:58.400
+to want to use this prompt that I'm
+
+00:09:56.880 --> 00:09:59.800
+putting on the screen. Easiest way to do
+
+00:09:58.400 --> 00:10:01.200
+it is just to screenshot it and then put
+
+00:09:59.800 --> 00:10:03.560
+that in Claude as well. And then you can
+
+00:10:01.200 --> 00:10:05.320
+just copy the specific tailored reply.
+
+00:10:03.560 --> 00:10:06.680
+If you like it, then post it. don't, you
+
+00:10:05.320 --> 00:10:07.800
+can modify it just a little bit. If
+
+00:10:06.680 --> 00:10:09.200
+you're not liking the replies, you can
+
+00:10:07.800 --> 00:10:11.240
+literally just talk to Claude and have
+
+00:10:09.200 --> 00:10:12.880
+it interview you and then talk back to
+
+00:10:11.240 --> 00:10:14.320
+it until you actually do like the
+
+00:10:12.880 --> 00:10:16.800
+replies and they sound like you. All
+
+00:10:14.320 --> 00:10:18.520
+right, section five is the idea
+
+00:10:16.800 --> 00:10:20.560
+goldmine. And this is where it gets
+
+00:10:18.520 --> 00:10:22.280
+really good because this is the closest
+
+00:10:20.560 --> 00:10:23.800
+thing to a cheat code that exists on
+
+00:10:22.280 --> 00:10:25.480
+YouTube. And here is a truth that
+
+00:10:23.800 --> 00:10:28.520
+literally took me years to learn. The
+
+00:10:25.480 --> 00:10:30.120
+video idea is about 90% of whether a
+
+00:10:28.520 --> 00:10:31.840
+video succeeds or not. It's not the
+
+00:10:30.120 --> 00:10:34.320
+editing, it's not the camera, it's not
+
+00:10:31.840 --> 00:10:35.880
+the fancy set, it's the idea. So, if you
+
+00:10:34.320 --> 00:10:37.480
+pick the right idea, everything else can
+
+00:10:35.880 --> 00:10:39.040
+be mediocre and the video is going to
+
+00:10:37.480 --> 00:10:40.760
+win still. If you pick the wrong idea,
+
+00:10:39.040 --> 00:10:42.640
+you can have everything else being top
+
+00:10:40.760 --> 00:10:44.560
+tier and the video is almost certainly
+
+00:10:42.640 --> 00:10:46.560
+still going to flop. Smart YouTubers do
+
+00:10:44.560 --> 00:10:49.120
+not brainstorm ideas out of thin air,
+
+00:10:46.560 --> 00:10:50.560
+they find proven ones, right? Ideas that
+
+00:10:49.120 --> 00:10:52.040
+already worked for other channels in
+
+00:10:50.560 --> 00:10:53.800
+their space that they can put their own
+
+00:10:52.040 --> 00:10:55.839
+spin on. Now, this is not going to be
+
+00:10:53.800 --> 00:10:57.600
+the generic, "Oh, just copy other
+
+00:10:55.839 --> 00:10:58.720
+channels" type advice because that's
+
+00:10:57.600 --> 00:11:00.240
+what you might be thinking, "Oh, this is
+
+00:10:58.720 --> 00:11:01.920
+just copying other people, right?" First
+
+00:11:00.240 --> 00:11:03.280
+of all, we use what's known as the icon
+
+00:11:01.920 --> 00:11:05.360
+method where you're going to find videos
+
+00:11:03.280 --> 00:11:07.040
+that came from a small channel that were
+
+00:11:05.360 --> 00:11:09.680
+objectively either mediocre or
+
+00:11:07.040 --> 00:11:11.680
+preferably bad and yet they still got a
+
+00:11:09.680 --> 00:11:14.120
+lot of views. And then you're only going
+
+00:11:11.680 --> 00:11:16.360
+to copy one thing and one thing only and
+
+00:11:14.120 --> 00:11:17.760
+that is the idea of the video, right?
+
+00:11:16.360 --> 00:11:19.160
+You're not stealing the video, you're
+
+00:11:17.760 --> 00:11:20.800
+studying what the audience already
+
+00:11:19.160 --> 00:11:23.000
+proved that they want and then you're
+
+00:11:20.800 --> 00:11:25.000
+just making it better. So, stop guessing
+
+00:11:23.000 --> 00:11:26.760
+what to film, the proof is sitting right
+
+00:11:25.000 --> 00:11:28.400
+there in your niche, so go use it. So,
+
+00:11:26.760 --> 00:11:30.120
+it's kind of like gold mining, right?
+
+00:11:28.400 --> 00:11:32.400
+The amateurs wander around digging
+
+00:11:30.120 --> 00:11:34.720
+random holes hoping to get lucky, the
+
+00:11:32.400 --> 00:11:36.920
+pros study the terrain, find where the
+
+00:11:34.720 --> 00:11:38.680
+gold has already been found, and dig
+
+00:11:36.920 --> 00:11:40.080
+there. Right? So, you're not guessing,
+
+00:11:38.680 --> 00:11:41.760
+you're just going where the proof
+
+00:11:40.080 --> 00:11:43.720
+already is. And Claude can help you
+
+00:11:41.760 --> 00:11:45.920
+analyze a pile of top-performing video
+
+00:11:43.720 --> 00:11:47.960
+titles from your niche and pull out the
+
+00:11:45.920 --> 00:11:49.560
+patterns, the angles, the formats, the
+
+00:11:47.960 --> 00:11:51.280
+hooks that keep working. So, this is
+
+00:11:49.560 --> 00:11:52.840
+what you want to do. Grab 20 to 30
+
+00:11:51.280 --> 00:11:54.360
+titles from top videos from a few
+
+00:11:52.840 --> 00:11:55.680
+channels in your niche. Ideally, you'd
+
+00:11:54.360 --> 00:11:56.960
+want to find them from smaller channels,
+
+00:11:55.680 --> 00:11:58.000
+like I said before, but just to get
+
+00:11:56.960 --> 00:11:59.760
+started, you can just pull the top
+
+00:11:58.000 --> 00:12:01.800
+videos in your niche. And then just copy
+
+00:11:59.760 --> 00:12:03.680
+and paste all of those into Claude with
+
+00:12:01.800 --> 00:12:05.040
+the prompt below.
+
+00:12:03.680 --> 00:12:06.320
+Then when the new ideas generate, just
+
+00:12:05.040 --> 00:12:08.000
+go ahead and pick one or two that you
+
+00:12:06.320 --> 00:12:09.400
+like. So, I like these ones right here.
+
+00:12:08.000 --> 00:12:11.000
+And then you can do it again, and you
+
+00:12:09.400 --> 00:12:12.800
+could make enough content for an entire
+
+00:12:11.000 --> 00:12:15.080
+month if you want. And that right there
+
+00:12:12.800 --> 00:12:16.320
+is a content calendar built on proof
+
+00:12:15.080 --> 00:12:17.880
+instead of hope. And by the way, I
+
+00:12:16.320 --> 00:12:19.480
+actually made some free tools to make
+
+00:12:17.880 --> 00:12:21.400
+this even easier cuz I know this is a
+
+00:12:19.480 --> 00:12:22.760
+bit of a simplified process, and you can
+
+00:12:21.400 --> 00:12:23.960
+download these free tools by clicking
+
+00:12:22.760 --> 00:12:25.000
+the link in the description and the pin
+
+00:12:23.960 --> 00:12:26.640
+comment below. So, those are going to be
+
+00:12:25.000 --> 00:12:28.600
+Claude skills. But, I just want you to
+
+00:12:26.640 --> 00:12:30.280
+realize that the idea is like 90% of the
+
+00:12:28.600 --> 00:12:32.280
+success of a video, right? Get that
+
+00:12:30.280 --> 00:12:34.240
+right, and everything else gets easy.
+
+00:12:32.280 --> 00:12:36.520
+All right, number six is the hook
+
+00:12:34.240 --> 00:12:39.040
+factory because your first 15 seconds
+
+00:12:36.520 --> 00:12:40.520
+decide everything. You can have the best
+
+00:12:39.040 --> 00:12:42.120
+video ever made, but if the hook is
+
+00:12:40.520 --> 00:12:44.200
+weak, nobody's going to stick around to
+
+00:12:42.120 --> 00:12:45.880
+see it, right? The hook is the bouncer
+
+00:12:44.200 --> 00:12:48.120
+at the door. It decides who gets in and
+
+00:12:45.880 --> 00:12:50.360
+who walks away. So, smart YouTubers
+
+00:12:48.120 --> 00:12:52.240
+don't just write one hook and hope. They
+
+00:12:50.360 --> 00:12:54.120
+generate a few angles, and they pick the
+
+00:12:52.240 --> 00:12:56.240
+strongest one. I personally, for almost
+
+00:12:54.120 --> 00:12:58.080
+every single script I do, generate three
+
+00:12:56.240 --> 00:13:00.400
+to five hooks. Some of the most common
+
+00:12:58.080 --> 00:13:02.400
+ones that I like to use are a shock stat
+
+00:13:00.400 --> 00:13:03.880
+opening, a contrarian myth-busting
+
+00:13:02.400 --> 00:13:05.960
+angle, or what I like to call the
+
+00:13:03.880 --> 00:13:07.720
+credibility plus promise hook. And
+
+00:13:05.960 --> 00:13:09.640
+Claude can write all three off of a
+
+00:13:07.720 --> 00:13:10.760
+single sentence about your video. Now,
+
+00:13:09.640 --> 00:13:12.000
+for the purposes of this video, I'm not
+
+00:13:10.760 --> 00:13:13.640
+going to go too deep into how this
+
+00:13:12.000 --> 00:13:14.760
+works. Again, if you want to dive deeper
+
+00:13:13.640 --> 00:13:15.800
+on this, just go ahead and attend my
+
+00:13:14.760 --> 00:13:17.200
+live training, click the link in the
+
+00:13:15.800 --> 00:13:19.040
+description and the pin comment below.
+
+00:13:17.200 --> 00:13:20.480
+But, just go ahead and screenshot and/or
+
+00:13:19.040 --> 00:13:22.240
+type the prompt below with a real video
+
+00:13:20.480 --> 00:13:24.200
+topic. Then when the three hooks
+
+00:13:22.240 --> 00:13:26.240
+generate, I like to actually just read
+
+00:13:24.200 --> 00:13:28.240
+all three of them out loud, and just see
+
+00:13:26.240 --> 00:13:29.480
+which one has more of an emotional
+
+00:13:28.240 --> 00:13:30.760
+resonance with me. Now, if you don't
+
+00:13:29.480 --> 00:13:31.920
+like them, you can tell Claude exactly
+
+00:13:30.760 --> 00:13:33.200
+what you don't like about them and have
+
+00:13:31.920 --> 00:13:34.200
+it redo it. But, I'll be honest with
+
+00:13:33.200 --> 00:13:35.480
+you, when it comes to the title and the
+
+00:13:34.200 --> 00:13:37.840
+hook, Claude is likely going to be
+
+00:13:35.480 --> 00:13:39.160
+better than 99% of you at writing those
+
+00:13:37.840 --> 00:13:40.400
+two things. So, I'd probably just go
+
+00:13:39.160 --> 00:13:42.080
+with what they say, and just pick your
+
+00:13:40.400 --> 00:13:44.160
+favorite one. All right, number seven is
+
+00:13:42.080 --> 00:13:46.440
+going to be the clip hunter. Okay, so
+
+00:13:44.160 --> 00:13:47.880
+this one basically doubles your content.
+
+00:13:46.440 --> 00:13:49.840
+And the best thing is, it does it off of
+
+00:13:47.880 --> 00:13:50.960
+work that you've already done. Now, I've
+
+00:13:49.840 --> 00:13:52.800
+done this on my channel where I just
+
+00:13:50.960 --> 00:13:55.200
+took a random clip from my YouTube
+
+00:13:52.800 --> 00:13:57.280
+channel, edited it almost automatically
+
+00:13:55.200 --> 00:13:58.800
+using tools like Opus, and then threw it
+
+00:13:57.280 --> 00:14:00.680
+up on my Instagram, and it got over a
+
+00:13:58.800 --> 00:14:02.320
+million views. So, every long video that
+
+00:14:00.680 --> 00:14:03.760
+you make is sitting on top of three or
+
+00:14:02.320 --> 00:14:05.520
+four shorts that you haven't cut yet.
+
+00:14:03.760 --> 00:14:07.320
+And the problem is finding the right
+
+00:14:05.520 --> 00:14:09.120
+moment. The punchy, stand-alone clips
+
+00:14:07.320 --> 00:14:11.240
+that actually work on their own. And
+
+00:14:09.120 --> 00:14:13.040
+that is very tedious to do by hand. So,
+
+00:14:11.240 --> 00:14:14.880
+you can let Claude hunt them for you.
+
+00:14:13.040 --> 00:14:17.120
+So, think of it like panning a river for
+
+00:14:14.880 --> 00:14:19.080
+gold nuggets. The whole river is your
+
+00:14:17.120 --> 00:14:20.320
+transcript, but you only want the gold
+
+00:14:19.080 --> 00:14:21.920
+nuggets, right? There's probably about
+
+00:14:20.320 --> 00:14:24.160
+30 to 60 seconds out of the entire
+
+00:14:21.920 --> 00:14:25.520
+20-minute video that can pop on their
+
+00:14:24.160 --> 00:14:27.800
+own. And Claude can sift through the
+
+00:14:25.520 --> 00:14:29.080
+whole thing and hand you just the gold.
+
+00:14:27.800 --> 00:14:30.760
+And it doesn't just find the moments, it
+
+00:14:29.080 --> 00:14:32.600
+can even write an extra hook for each
+
+00:14:30.760 --> 00:14:34.080
+short as well. So, go ahead and select a
+
+00:14:32.600 --> 00:14:35.800
+video. So, you want to copy and paste
+
+00:14:34.080 --> 00:14:37.560
+the transcript with timestamps. Then you
+
+00:14:35.800 --> 00:14:39.280
+want to paste the full transcript into
+
+00:14:37.560 --> 00:14:40.839
+Claude. Then it's going to tell you the
+
+00:14:39.280 --> 00:14:41.960
+three moments that it really likes, and
+
+00:14:40.839 --> 00:14:43.720
+it's going to tell you the exact
+
+00:14:41.960 --> 00:14:44.760
+timestamps to make it super easy for
+
+00:14:43.720 --> 00:14:46.080
+you. Then you can mention these
+
+00:14:44.760 --> 00:14:47.880
+timestamps and go straight to your
+
+00:14:46.080 --> 00:14:49.280
+editor. We like using Descript just as
+
+00:14:47.880 --> 00:14:50.960
+an example, but you can use any editor
+
+00:14:49.280 --> 00:14:52.760
+that you want, and it'll be very easy to
+
+00:14:50.960 --> 00:14:54.720
+edit just these moments. Okay, so number
+
+00:14:52.760 --> 00:14:57.120
+eight is the SEO multiplier. So, every
+
+00:14:54.720 --> 00:14:58.920
+single video you make can also be a blog
+
+00:14:57.120 --> 00:15:00.440
+post that ranks on Google. And you're
+
+00:14:58.920 --> 00:15:01.800
+leaving that on the table right now, and
+
+00:15:00.440 --> 00:15:02.960
+this is something that can really help,
+
+00:15:01.800 --> 00:15:05.480
+especially when you have a small
+
+00:15:02.960 --> 00:15:07.720
+channel. Now, is this one necessary? No,
+
+00:15:05.480 --> 00:15:09.400
+it's not necessary. We did this when we
+
+00:15:07.720 --> 00:15:10.839
+first started on YouTube. We stopped
+
+00:15:09.400 --> 00:15:12.280
+doing it after a while. You don't have
+
+00:15:10.839 --> 00:15:13.839
+to do this one, but it helps, and if you
+
+00:15:12.280 --> 00:15:15.839
+have extra time, you probably should do
+
+00:15:13.839 --> 00:15:17.200
+it. And especially if you hired somebody
+
+00:15:15.839 --> 00:15:18.600
+to help you with your YouTube channel,
+
+00:15:17.200 --> 00:15:20.440
+you should definitely be having them do
+
+00:15:18.600 --> 00:15:22.960
+it. So, you can turn your YouTube video
+
+00:15:20.440 --> 00:15:24.680
+into a blog post that then points back
+
+00:15:22.960 --> 00:15:26.320
+to your YouTube video and gets you more
+
+00:15:24.680 --> 00:15:28.440
+views. So basically this prompt is going
+
+00:15:26.320 --> 00:15:29.880
+to make your YouTube video into an SEO
+
+00:15:28.440 --> 00:15:31.520
+friendly article and that's going to
+
+00:15:29.880 --> 00:15:33.360
+rank on Google. People are going to find
+
+00:15:31.520 --> 00:15:35.680
+that, click on it and then you can embed
+
+00:15:33.360 --> 00:15:37.320
+your YouTube video into that article or
+
+00:15:35.680 --> 00:15:38.480
+just have them click on the article and
+
+00:15:37.320 --> 00:15:40.440
+go to your YouTube channel. Now you
+
+00:15:38.480 --> 00:15:41.920
+might be thinking I'm not a writer and
+
+00:15:40.440 --> 00:15:43.720
+you don't have to be, okay? That's the
+
+00:15:41.920 --> 00:15:45.640
+entire point. Claude is the writer now.
+
+00:15:43.720 --> 00:15:47.360
+Claude is the SEO expert. You're just
+
+00:15:45.640 --> 00:15:49.000
+the one who hits publish. So you want to
+
+00:15:47.360 --> 00:15:51.200
+paste your transcript into Claude, click
+
+00:15:49.000 --> 00:15:52.880
+enter and it will make that video into
+
+00:15:51.200 --> 00:15:55.120
+an article for you and it's a real
+
+00:15:52.880 --> 00:15:57.240
+article that has a structured post with
+
+00:15:55.120 --> 00:15:58.960
+headings and it's not just a crappy AI
+
+00:15:57.240 --> 00:16:01.320
+slop wall of text. All right, number
+
+00:15:58.960 --> 00:16:03.480
+nine is the thumbnail whisperer because
+
+00:16:01.320 --> 00:16:05.160
+the words on your thumbnail can make or
+
+00:16:03.480 --> 00:16:06.640
+break the click. Now most people slap
+
+00:16:05.160 --> 00:16:08.200
+whatever text they want on the thumbnail
+
+00:16:06.640 --> 00:16:09.880
+and move on. But what you want to make
+
+00:16:08.200 --> 00:16:12.040
+sure is first of all the text on the
+
+00:16:09.880 --> 00:16:13.240
+thumbnail is actually good and second of
+
+00:16:12.040 --> 00:16:14.920
+all, this is the most important thing
+
+00:16:13.240 --> 00:16:17.000
+that I see people overlook all the time,
+
+00:16:14.920 --> 00:16:18.560
+it's congruent with your title. Now
+
+00:16:17.000 --> 00:16:20.320
+another big mistake that I see people
+
+00:16:18.560 --> 00:16:21.960
+make is they actually just put their
+
+00:16:20.320 --> 00:16:23.560
+title as the text on the thumbnail.
+
+00:16:21.960 --> 00:16:25.080
+That's a terrible idea. Do not do that.
+
+00:16:23.560 --> 00:16:26.680
+So I'm saying that the thumbnail text
+
+00:16:25.080 --> 00:16:28.160
+and the title text should be congruent
+
+00:16:26.680 --> 00:16:29.360
+but not the same, right? So they should
+
+00:16:28.160 --> 00:16:30.960
+be two different arrows that are
+
+00:16:29.360 --> 00:16:32.760
+pointing in the same direction. Now
+
+00:16:30.960 --> 00:16:35.200
+Claude is pretty good at coming up with
+
+00:16:32.760 --> 00:16:37.080
+thumbnail title text. It's also pretty
+
+00:16:35.200 --> 00:16:39.440
+good at telling you how to create your
+
+00:16:37.080 --> 00:16:41.000
+thumbnail but it's not good at actually
+
+00:16:39.440 --> 00:16:42.280
+creating the thumbnail itself, at least
+
+00:16:41.000 --> 00:16:43.720
+not at this point. In fact some of the
+
+00:16:42.280 --> 00:16:45.839
+other AI models, if I'm being honest,
+
+00:16:43.720 --> 00:16:47.839
+are significantly better, right? Gemini
+
+00:16:45.839 --> 00:16:50.040
+and ChatGPT at the time of recording
+
+00:16:47.839 --> 00:16:51.839
+this video are significantly better at
+
+00:16:50.040 --> 00:16:53.800
+generating thumbnails than Claude. And
+
+00:16:51.839 --> 00:16:56.839
+there's even specific AI tools that are
+
+00:16:53.800 --> 00:16:59.720
+dedicated to this such as oneof10.com
+
+00:16:56.839 --> 00:17:01.960
+and pixels. But what Claude is good at
+
+00:16:59.720 --> 00:17:03.480
+is telling you what to put in the
+
+00:17:01.960 --> 00:17:05.199
+thumbnail, right? Like making a rough
+
+00:17:03.480 --> 00:17:06.760
+sketch of it, telling you what words to
+
+00:17:05.199 --> 00:17:08.319
+put in the thumbnail, making sure that
+
+00:17:06.760 --> 00:17:10.120
+your thumbnail is congruent with the
+
+00:17:08.319 --> 00:17:11.439
+title and telling you the visuals that
+
+00:17:10.120 --> 00:17:13.360
+you can put in your thumbnail as well,
+
+00:17:11.439 --> 00:17:14.520
+right? So just a rough draft sketch of
+
+00:17:13.360 --> 00:17:16.360
+it. And here's how you can find that.
+
+00:17:14.520 --> 00:17:18.079
+Type and or screenshot the prompt below
+
+00:17:16.360 --> 00:17:20.439
+and typically it's a good idea to put
+
+00:17:18.079 --> 00:17:21.640
+your title in plus a thumbnail concept
+
+00:17:20.439 --> 00:17:23.120
+that you like.
+
+00:17:21.640 --> 00:17:24.920
+Then it's going to give you five options
+
+00:17:23.120 --> 00:17:27.160
+and you can just pick the strongest one.
+
+00:17:24.920 --> 00:17:29.160
+And again, if you are not an expert on
+
+00:17:27.160 --> 00:17:31.160
+YouTube, it is simply going to do a
+
+00:17:29.160 --> 00:17:32.640
+better job than you are. I'm just I'm
+
+00:17:31.160 --> 00:17:33.920
+just being honest. Now, what you can do
+
+00:17:32.640 --> 00:17:35.600
+is you can actually just pick these
+
+00:17:33.920 --> 00:17:37.600
+concepts and you can upload them into
+
+00:17:35.600 --> 00:17:38.680
+something like ChatGPT or Gemini, and
+
+00:17:37.600 --> 00:17:40.040
+then you can upload pictures of
+
+00:17:38.680 --> 00:17:41.560
+yourself, and in many cases it'll
+
+00:17:40.040 --> 00:17:43.160
+actually create a decent thumbnail, but
+
+00:17:41.560 --> 00:17:44.320
+that is a little bit more complicated
+
+00:17:43.160 --> 00:17:46.480
+and it's kind of out of the scope of
+
+00:17:44.320 --> 00:17:48.640
+this video. But number 10 is the one
+
+00:17:46.480 --> 00:17:51.400
+that almost nobody talks about and that
+
+00:17:48.640 --> 00:17:53.880
+is the business brain. See, everything
+
+00:17:51.400 --> 00:17:56.400
+up to now has been tasks. We're talking
+
+00:17:53.880 --> 00:17:58.160
+descriptions, titles, clips, useful
+
+00:17:56.400 --> 00:18:00.560
+stuff. Don't get me wrong, but this last
+
+00:17:58.160 --> 00:18:02.800
+one is different, right? This is using
+
+00:18:00.560 --> 00:18:05.560
+Claude not just as a tool, but as a
+
+00:18:02.800 --> 00:18:06.960
+strategist, a business advisor for your
+
+00:18:05.560 --> 00:18:08.600
+channel. And here's what I mean. The
+
+00:18:06.960 --> 00:18:10.720
+most successful people in business don't
+
+00:18:08.600 --> 00:18:13.040
+just grind harder. They think in
+
+00:18:10.720 --> 00:18:14.640
+frameworks. Warren Buffett asks, "What's
+
+00:18:13.040 --> 00:18:16.400
+my moat? What's my unfair advantage that
+
+00:18:14.640 --> 00:18:18.440
+competitors can't copy?" Charlie Munger
+
+00:18:16.400 --> 00:18:20.080
+asked the genius question, "Invert. What
+
+00:18:18.440 --> 00:18:21.880
+would guarantee that this channel
+
+00:18:20.080 --> 00:18:23.280
+fails?" And then he does the opposite.
+
+00:18:21.880 --> 00:18:25.040
+And then there's Gall's law, which
+
+00:18:23.280 --> 00:18:27.200
+states that every complex system that
+
+00:18:25.040 --> 00:18:29.080
+arises always starts from a simple
+
+00:18:27.200 --> 00:18:30.720
+system that actually works, which
+
+00:18:29.080 --> 00:18:32.920
+basically means that you should always
+
+00:18:30.720 --> 00:18:34.560
+start off simple, even if you want to
+
+00:18:32.920 --> 00:18:36.160
+build something complex. Just as an
+
+00:18:34.560 --> 00:18:37.600
+example, Airbnb literally just started
+
+00:18:36.160 --> 00:18:39.120
+off as a forum on a website, right? They
+
+00:18:37.600 --> 00:18:40.600
+didn't try to make a perfect product at
+
+00:18:39.120 --> 00:18:42.560
+the very beginning. So, you can run your
+
+00:18:40.600 --> 00:18:44.720
+entire channel strategy through Claude
+
+00:18:42.560 --> 00:18:45.760
+using those exact frameworks. And it's
+
+00:18:44.720 --> 00:18:48.040
+kind of like the difference between a
+
+00:18:45.760 --> 00:18:50.240
+line cook and a restaurant owner. The
+
+00:18:48.040 --> 00:18:51.840
+line cook executes orders all day, head
+
+00:18:50.240 --> 00:18:54.040
+down and cranky. But the owner steps
+
+00:18:51.840 --> 00:18:55.800
+back and asks, "Is this restaurant even
+
+00:18:54.040 --> 00:18:57.120
+in the right location? Is the menu
+
+00:18:55.800 --> 00:18:58.480
+right? What makes this restaurant
+
+00:18:57.120 --> 00:19:00.680
+different than every other restaurant in
+
+00:18:58.480 --> 00:19:02.600
+town?" Most YouTubers are line cooks for
+
+00:19:00.680 --> 00:19:04.840
+their own channel. This can help you
+
+00:19:02.600 --> 00:19:06.080
+become the owner. So, screenshot or type
+
+00:19:04.840 --> 00:19:07.800
+the prompt below, and this is going to
+
+00:19:06.080 --> 00:19:09.600
+help you describe your own channel. Then
+
+00:19:07.800 --> 00:19:10.680
+go back and forth with Claude. It's
+
+00:19:09.600 --> 00:19:12.200
+going to tell you the the
+
+00:19:10.680 --> 00:19:13.520
+and I highly recommend that you kind of
+
+00:19:12.200 --> 00:19:15.480
+just go back and forth with it for a
+
+00:19:13.520 --> 00:19:17.120
+little bit until you understand all of
+
+00:19:15.480 --> 00:19:19.720
+those questions. Now, this is a very
+
+00:19:17.120 --> 00:19:22.120
+simplified version of the book The Blue
+
+00:19:19.720 --> 00:19:23.560
+Ocean Strategy, and we dive a lot deeper
+
+00:19:22.120 --> 00:19:25.840
+into this when we're helping our clients
+
+00:19:23.560 --> 00:19:26.960
+launch their YouTube channels or grow
+
+00:19:25.840 --> 00:19:29.520
+their YouTube channels that they already
+
+00:19:26.960 --> 00:19:31.000
+launched. And I know that 99% of you out
+
+00:19:29.520 --> 00:19:33.560
+there are just going to enjoy my free
+
+00:19:31.000 --> 00:19:35.720
+content, enjoy the prompts, enjoy the
+
+00:19:33.560 --> 00:19:37.360
+free Cloud Skills, enjoy the live
+
+00:19:35.720 --> 00:19:38.880
+training where I will literally be
+
+00:19:37.360 --> 00:19:40.640
+walking you through exactly how to do
+
+00:19:38.880 --> 00:19:42.480
+this, helping you pick your right niche,
+
+00:19:40.640 --> 00:19:44.560
+helping you monetize that niche all for
+
+00:19:42.480 --> 00:19:46.560
+free, and answering any questions that
+
+00:19:44.560 --> 00:19:47.400
+you have at the very end. Again, link to
+
+00:19:46.560 --> 00:19:48.800
+that in the description and the pin
+
+00:19:47.400 --> 00:19:50.440
+comment below, and you're never going to
+
+00:19:48.800 --> 00:19:51.520
+work with us, right? I know 99% of you
+
+00:19:50.440 --> 00:19:54.120
+are just never going to work with us.
+
+00:19:51.520 --> 00:19:54.960
+But, for the 1% of you that will, go
+
+00:19:54.120 --> 00:19:56.640
+ahead and click the link in the
+
+00:19:54.960 --> 00:19:58.320
+description and the pin comment below to
+
+00:19:56.640 --> 00:19:59.560
+book a call. On this call, we'll figure
+
+00:19:58.320 --> 00:20:00.760
+out where you are right now, where you
+
+00:19:59.560 --> 00:20:02.120
+want to be, we'll make a plan to get
+
+00:20:00.760 --> 00:20:03.920
+there, and we'll see if we're a good fit
+
+00:20:02.120 --> 00:20:05.440
+to work together or not. The typical
+
+00:20:03.920 --> 00:20:07.160
+types of people that we work with are
+
+00:20:05.440 --> 00:20:08.600
+business owners. Very common that we
+
+00:20:07.160 --> 00:20:10.400
+work with online business owners,
+
+00:20:08.600 --> 00:20:12.480
+typically ones that get clients. So,
+
+00:20:10.400 --> 00:20:14.320
+we're talking about agencies, coaches,
+
+00:20:12.480 --> 00:20:16.520
+consulting businesses, online service
+
+00:20:14.320 --> 00:20:18.000
+businesses, etc. Also expert businesses
+
+00:20:16.520 --> 00:20:19.280
+as well. But, we also work with
+
+00:20:18.000 --> 00:20:20.760
+YouTubers who are getting views, but
+
+00:20:19.280 --> 00:20:22.360
+they're struggling with monetization.
+
+00:20:20.760 --> 00:20:23.600
+And we also work with YouTubers who are
+
+00:20:22.360 --> 00:20:25.080
+crushing it, but they want to crush it
+
+00:20:23.600 --> 00:20:27.440
+even harder. And we also work with
+
+00:20:25.080 --> 00:20:28.960
+certain types of local or localized type
+
+00:20:27.440 --> 00:20:32.320
+business owners. So, we're talking law
+
+00:20:28.960 --> 00:20:34.760
+firms, realtors, financial advisors, and
+
+00:20:32.320 --> 00:20:36.120
+cosmetic dentistries. And then finally,
+
+00:20:34.760 --> 00:20:38.400
+the last type of person that we work
+
+00:20:36.120 --> 00:20:40.120
+with is the professional. Someone who is
+
+00:20:38.400 --> 00:20:42.080
+very good at what they do, they're an
+
+00:20:40.120 --> 00:20:43.560
+expert, they have a lot of value to give
+
+00:20:42.080 --> 00:20:45.600
+to the world, they can solve problems
+
+00:20:43.560 --> 00:20:46.840
+for other people, and they want to treat
+
+00:20:45.600 --> 00:20:48.360
+YouTube like a business. And that's the
+
+00:20:46.840 --> 00:20:50.040
+thing that all of these different types
+
+00:20:48.360 --> 00:20:51.800
+of clients we work with have in common,
+
+00:20:50.040 --> 00:20:53.280
+they want to treat YouTube like a
+
+00:20:51.800 --> 00:20:54.520
+business. Now, we are very picky about
+
+00:20:53.280 --> 00:20:56.440
+who we work with, we only accept about
+
+00:20:54.520 --> 00:20:58.200
+18% of the people who apply, and right
+
+00:20:56.440 --> 00:20:59.680
+now we're accepting about three to five
+
+00:20:58.200 --> 00:21:00.800
+people to work with us. But, if that
+
+00:20:59.680 --> 00:21:01.680
+sounds like you, go ahead and click the
+
+00:21:00.800 --> 00:21:03.160
+link in the description and the pin
+
+00:21:01.680 --> 00:21:05.040
+comment below, and also check out this
+
+00:21:03.160 --> 00:21:06.960
+interview I did with Davis, who we
+
+00:21:05.040 --> 00:21:08.440
+helped fully automate his YouTube
+
+00:21:06.960 --> 00:21:10.400
+channel, and we helped him scale his
+
+00:21:08.440 --> 00:21:13.920
+business to seven figures. And you can
+
+00:21:10.400 --> 00:21:13.920
+check that out by clicking right here.
+

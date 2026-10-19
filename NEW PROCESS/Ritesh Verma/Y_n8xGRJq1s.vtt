@@ -1,0 +1,758 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:03.280
+I built and sold another AI app
+
+00:00:01.760 --> 00:00:04.560
+completely from scratch. In this video,
+
+00:00:03.280 --> 00:00:06.960
+I'm going to show you how I came up with
+
+00:00:04.560 --> 00:00:09.360
+the idea, built it in a day, marketed
+
+00:00:06.960 --> 00:00:11.440
+it, and even got my first sales using a
+
+00:00:09.360 --> 00:00:13.360
+very unconventional method. Oh, by the
+
+00:00:11.440 --> 00:00:15.519
+way, this was all done within one week,
+
+00:00:13.360 --> 00:00:17.520
+and I use marketing methods that no one
+
+00:00:15.519 --> 00:00:19.199
+has ever done. I literally live streamed
+
+00:00:17.520 --> 00:00:21.520
+the launch. Okay, so let's take it from
+
+00:00:19.199 --> 00:00:23.519
+the top. What is my app? I built an AI
+
+00:00:21.520 --> 00:00:25.920
+app called AgentFast that allows users
+
+00:00:23.519 --> 00:00:27.840
+to enter a prompt to create AI generated
+
+00:00:25.920 --> 00:00:29.760
+videos. Here is an example of one of the
+
+00:00:27.840 --> 00:00:31.760
+videos my app built. I mean, that's
+
+00:00:29.760 --> 00:00:33.920
+pretty damn cool. But it gets cooler.
+
+00:00:31.760 --> 00:00:35.520
+Users can schedule AI videos to be
+
+00:00:33.920 --> 00:00:37.920
+generated and posted to their YouTube
+
+00:00:35.520 --> 00:00:39.680
+channel on autopilot. Wait, wait, didn't
+
+00:00:37.920 --> 00:00:42.480
+you already build a solution like this
+
+00:00:39.680 --> 00:00:44.399
+before? Here's the catch. Since then, a
+
+00:00:42.480 --> 00:00:47.200
+ton of different AI content automation
+
+00:00:44.399 --> 00:00:50.320
+apps have been produced. Postbridge,
+
+00:00:47.200 --> 00:00:52.480
+Higsfield, etc. These tools are already
+
+00:00:50.320 --> 00:00:54.399
+making tens of thousands of dollars a
+
+00:00:52.480 --> 00:00:56.399
+month. Yes, I could still compete with
+
+00:00:54.399 --> 00:00:57.680
+them, but that's a hard battle to fight.
+
+00:00:56.399 --> 00:00:59.760
+I mean, some of these apps have
+
+00:00:57.680 --> 00:01:02.160
+investors backing them up, and some are
+
+00:00:59.760 --> 00:01:04.720
+already conquering the entire market.
+
+00:01:02.160 --> 00:01:06.799
+But then the epiphany hit me. So many
+
+00:01:04.720 --> 00:01:09.119
+people want to learn YouTube automation,
+
+00:01:06.799 --> 00:01:10.640
+the ability to create faceless AI videos
+
+00:01:09.119 --> 00:01:12.560
+and have them uploaded every day to
+
+00:01:10.640 --> 00:01:14.240
+YouTube as a way of making passive
+
+00:01:12.560 --> 00:01:16.240
+income. See, the more videos that a
+
+00:01:14.240 --> 00:01:17.920
+person can create, the more ads YouTube
+
+00:01:16.240 --> 00:01:19.680
+is displaying on them, which means more
+
+00:01:17.920 --> 00:01:21.920
+revenue. And to prove how many people
+
+00:01:19.680 --> 00:01:24.320
+were dreaming the same dream, I posted a
+
+00:01:21.920 --> 00:01:26.400
+Instagram reel showing off my NAN
+
+00:01:24.320 --> 00:01:28.720
+automation that did YouTube automation
+
+00:01:26.400 --> 00:01:30.560
+through AI faceless videos. It got 3
+
+00:01:28.720 --> 00:01:32.479
+million views. It became my number one
+
+00:01:30.560 --> 00:01:34.320
+reel. So with a huge market of people
+
+00:01:32.479 --> 00:01:36.240
+wanting YouTube automation tools and now
+
+00:01:34.320 --> 00:01:38.400
+a huge market of developers trying to
+
+00:01:36.240 --> 00:01:40.560
+build these tools to satisfy this need,
+
+00:01:38.400 --> 00:01:42.079
+I saw an opportunity. What if instead of
+
+00:01:40.560 --> 00:01:44.240
+building a product for the people
+
+00:01:42.079 --> 00:01:46.720
+wanting to do YouTube automation, what
+
+00:01:44.240 --> 00:01:49.280
+if I built an app for those who want to
+
+00:01:46.720 --> 00:01:51.920
+build the tools for YouTube automation?
+
+00:01:49.280 --> 00:01:53.840
+In other words, a template. Ding ding.
+
+00:01:51.920 --> 00:01:56.479
+And I've seen other developers like Mark
+
+00:01:53.840 --> 00:01:58.479
+Low do this and make over $100,000 a
+
+00:01:56.479 --> 00:02:01.040
+month with their app building template.
+
+00:01:58.479 --> 00:02:03.119
+So, I decided to do the same. Before I
+
+00:02:01.040 --> 00:02:04.799
+could even start working on my template,
+
+00:02:03.119 --> 00:02:06.799
+there was a big problem. I had to decide
+
+00:02:04.799 --> 00:02:08.720
+if this could be a no code template or
+
+00:02:06.799 --> 00:02:10.800
+would it have to be codebased? See, with
+
+00:02:08.720 --> 00:02:12.959
+no code, anyone could easily clone it
+
+00:02:10.800 --> 00:02:15.120
+and build off of it with an AI builder
+
+00:02:12.959 --> 00:02:17.440
+like Lovable or Cursor. Codebased
+
+00:02:15.120 --> 00:02:19.440
+templates restricts the target market to
+
+00:02:17.440 --> 00:02:21.120
+only code savvy developers. And since
+
+00:02:19.440 --> 00:02:23.040
+everyone in their mother is trying to
+
+00:02:21.120 --> 00:02:25.120
+build apps despite having no code
+
+00:02:23.040 --> 00:02:26.959
+experience, I want to capitalize on this
+
+00:02:25.120 --> 00:02:28.560
+no code movement. So, regretfully since
+
+00:02:26.959 --> 00:02:30.080
+I do come from a software engineering
+
+00:02:28.560 --> 00:02:32.560
+background, instead of using clawed
+
+00:02:30.080 --> 00:02:34.319
+code, I decided to use Nen Unovable to
+
+00:02:32.560 --> 00:02:36.400
+build this template. And boy, did I
+
+00:02:34.319 --> 00:02:38.560
+build. For a period of four hours, I was
+
+00:02:36.400 --> 00:02:40.560
+at my desk building, prompting,
+
+00:02:38.560 --> 00:02:42.879
+building, prompting, crashing out,
+
+00:02:40.560 --> 00:02:45.120
+getting up to Pete, debugging, prompting
+
+00:02:42.879 --> 00:02:47.040
+some more. And yeah, it was a journey to
+
+00:02:45.120 --> 00:02:49.120
+say the least. See, the first part was
+
+00:02:47.040 --> 00:02:50.560
+easy. I have built several content
+
+00:02:49.120 --> 00:02:52.640
+production templates throughout the last
+
+00:02:50.560 --> 00:02:55.440
+year, which I used to build this new
+
+00:02:52.640 --> 00:02:57.360
+naden flow fast. I used GBT5 to create
+
+00:02:55.440 --> 00:03:00.080
+detailed video prompts based off an idea
+
+00:02:57.360 --> 00:03:01.599
+and then use Sora 2 via the key API to
+
+00:03:00.080 --> 00:03:03.280
+create these videos. Once the videos
+
+00:03:01.599 --> 00:03:05.840
+were created, I would use plate to post
+
+00:03:03.280 --> 00:03:07.840
+a video to YouTube. However, I had to
+
+00:03:05.840 --> 00:03:10.239
+make two separate flows. What if the
+
+00:03:07.840 --> 00:03:12.080
+builder who uses this template doesn't
+
+00:03:10.239 --> 00:03:14.319
+want automated posting? What if they
+
+00:03:12.080 --> 00:03:17.120
+just want a flow that can output a video
+
+00:03:14.319 --> 00:03:20.400
+and send it back to the UI to be seen by
+
+00:03:17.120 --> 00:03:22.720
+the end user? So, I made one flow that
+
+00:03:20.400 --> 00:03:24.959
+auto posted to social media and another
+
+00:03:22.720 --> 00:03:26.640
+that sent the video back to the UI so
+
+00:03:24.959 --> 00:03:29.440
+the user could see how the video looked
+
+00:03:26.640 --> 00:03:31.840
+like. Wait, wait. And now you might be
+
+00:03:29.440 --> 00:03:34.480
+thinking, wait, wait, reti? Where's the
+
+00:03:31.840 --> 00:03:36.080
+UI? Good question. There is no UI, at
+
+00:03:34.480 --> 00:03:38.080
+least not at this point because I am
+
+00:03:36.080 --> 00:03:39.519
+always a backend first guy. Don't take
+
+00:03:38.080 --> 00:03:41.040
+it the wrong way, please. Something
+
+00:03:39.519 --> 00:03:42.799
+about that statement just didn't seem
+
+00:03:41.040 --> 00:03:44.720
+right. You're going to see I love
+
+00:03:42.799 --> 00:03:46.480
+capitalizing and there's no bigger AI
+
+00:03:44.720 --> 00:03:48.319
+automation trend than people posting
+
+00:03:46.480 --> 00:03:50.239
+their end flows on the internet asking
+
+00:03:48.319 --> 00:03:51.760
+you to comment a keyword for the flow
+
+00:03:50.239 --> 00:03:53.280
+and then sending you it. It's a great
+
+00:03:51.760 --> 00:03:55.360
+way of building their own communities,
+
+00:03:53.280 --> 00:03:57.280
+their newsletter, whatever. So, I took
+
+00:03:55.360 --> 00:03:59.920
+advantage. I quickly built a weight list
+
+00:03:57.280 --> 00:04:02.159
+page so users could get my end workflow
+
+00:03:59.920 --> 00:04:03.920
+by entering their email within the
+
+00:04:02.159 --> 00:04:05.599
+weight list. And then I post on X,
+
+00:04:03.920 --> 00:04:07.439
+Instagram, and other platforms showing
+
+00:04:05.599 --> 00:04:09.519
+how I built these and add in workflows.
+
+00:04:07.439 --> 00:04:11.840
+And I would give them these workflows uh
+
+00:04:09.519 --> 00:04:13.680
+that use potato as well as the flow that
+
+00:04:11.840 --> 00:04:15.680
+didn't auto post to YouTube. As I
+
+00:04:13.680 --> 00:04:18.079
+collected over 5,000 emails, I was
+
+00:04:15.680 --> 00:04:20.160
+quickly building an early user base.
+
+00:04:18.079 --> 00:04:22.560
+There were people who could convert to
+
+00:04:20.160 --> 00:04:24.639
+paying customers for agentfast honestly
+
+00:04:22.560 --> 00:04:26.800
+before I even released the app. And once
+
+00:04:24.639 --> 00:04:28.560
+the weight list was up and I saw a great
+
+00:04:26.800 --> 00:04:30.320
+positive reaction from the market, I
+
+00:04:28.560 --> 00:04:31.840
+started building the UI. I use level
+
+00:04:30.320 --> 00:04:33.360
+heavily to develop a lot of the UI
+
+00:04:31.840 --> 00:04:35.680
+features in terms of like you know
+
+00:04:33.360 --> 00:04:38.160
+creating these flows and connecting end
+
+00:04:35.680 --> 00:04:40.000
+and sending the end outputs back to the
+
+00:04:38.160 --> 00:04:42.160
+UI that was all done through level and
+
+00:04:40.000 --> 00:04:44.639
+ended web hooks. Through the UI I will
+
+00:04:42.160 --> 00:04:46.320
+let users enter their own key API key in
+
+00:04:44.639 --> 00:04:48.800
+the settings tab which will be used to
+
+00:04:46.320 --> 00:04:50.720
+generate the AI videos as well as they
+
+00:04:48.800 --> 00:04:52.479
+could input their own ended workflow web
+
+00:04:50.720 --> 00:04:54.639
+hooks to be used to do the whole process
+
+00:04:52.479 --> 00:04:56.320
+of idea to prompt to video. Naturally,
+
+00:04:54.639 --> 00:04:57.840
+I'll be giving the editing workflow I
+
+00:04:56.320 --> 00:04:59.280
+built to them where they just have to
+
+00:04:57.840 --> 00:05:00.960
+connect their OpenAI account inside the
+
+00:04:59.280 --> 00:05:03.040
+workflow to get that workflow to work
+
+00:05:00.960 --> 00:05:05.040
+for them. Now came a big issue. How can
+
+00:05:03.040 --> 00:05:07.120
+I make sure user videos are stored
+
+00:05:05.040 --> 00:05:09.039
+across every login? So this is where
+
+00:05:07.120 --> 00:05:11.039
+loable cloud comes in which is like loot
+
+00:05:09.039 --> 00:05:13.360
+lobo's alternative superbase. It
+
+00:05:11.039 --> 00:05:15.199
+basically is a database that loves. Now
+
+00:05:13.360 --> 00:05:17.199
+I created a user video management system
+
+00:05:15.199 --> 00:05:19.280
+and video library. So users could store
+
+00:05:17.199 --> 00:05:20.800
+all their videos, view them and download
+
+00:05:19.280 --> 00:05:22.639
+them and it'll be attached to their
+
+00:05:20.800 --> 00:05:24.320
+login. So with the core feature built,
+
+00:05:22.639 --> 00:05:25.919
+the template was ready to sell. But then
+
+00:05:24.320 --> 00:05:28.080
+I thought something. Well, see, right
+
+00:05:25.919 --> 00:05:29.840
+now it only creates the videos and users
+
+00:05:28.080 --> 00:05:31.120
+can download them via the video library.
+
+00:05:29.840 --> 00:05:33.039
+But isn't the whole point of this
+
+00:05:31.120 --> 00:05:34.639
+template to help builders build YouTube
+
+00:05:33.039 --> 00:05:36.560
+and social media automation tools? I
+
+00:05:34.639 --> 00:05:39.280
+mean, I even built the workflow already
+
+00:05:36.560 --> 00:05:41.199
+that would automate video posting. So
+
+00:05:39.280 --> 00:05:42.639
+why don't I just add that to the UI? And
+
+00:05:41.199 --> 00:05:44.240
+honestly, I really want to release my
+
+00:05:42.639 --> 00:05:46.800
+app cuz I had so much interest, but I
+
+00:05:44.240 --> 00:05:48.320
+decided to take a pause because I mar
+
+00:05:46.800 --> 00:05:50.320
+this extra feature. And this feature is
+
+00:05:48.320 --> 00:05:52.240
+known as task. Each task would take an
+
+00:05:50.320 --> 00:05:54.400
+edit in workflow that's connected to a
+
+00:05:52.240 --> 00:05:56.720
+separate potato account. So, a user
+
+00:05:54.400 --> 00:05:58.320
+could automate posting across various
+
+00:05:56.720 --> 00:05:59.919
+YouTube channels. Each task can be
+
+00:05:58.320 --> 00:06:01.600
+linked to a different YouTube account. I
+
+00:05:59.919 --> 00:06:04.400
+mean, this could mean that people could
+
+00:06:01.600 --> 00:06:06.080
+legit run 10 YouTube automation channels
+
+00:06:04.400 --> 00:06:07.919
+through this tool and builders will have
+
+00:06:06.080 --> 00:06:09.840
+a field day with this feature because I
+
+00:06:07.919 --> 00:06:11.440
+can only imagine what they can do to
+
+00:06:09.840 --> 00:06:13.520
+build off of it. And once this was
+
+00:06:11.440 --> 00:06:15.280
+added, it was time to launch. But I
+
+00:06:13.520 --> 00:06:16.960
+didn't want an ordinary launch. See, I
+
+00:06:15.280 --> 00:06:18.639
+want to market my app in a way that no
+
+00:06:16.960 --> 00:06:20.720
+one did before. After all, we are in
+
+00:06:18.639 --> 00:06:22.560
+2026, the age of streaming. I mean,
+
+00:06:20.720 --> 00:06:24.800
+streamers are getting paid a ton. They
+
+00:06:22.560 --> 00:06:26.800
+have great exposure and they can legit
+
+00:06:24.800 --> 00:06:28.639
+sell well. So, why don't I do my own
+
+00:06:26.800 --> 00:06:30.160
+stream? So, I decided to do one of my
+
+00:06:28.639 --> 00:06:32.080
+first ever live streams just showing off
+
+00:06:30.160 --> 00:06:35.840
+Agent Fast. I used OBS and YouTube
+
+00:06:32.080 --> 00:06:38.240
+Studio to run it. And was it a success?
+
+00:06:35.840 --> 00:06:40.560
+Well, it got 600 views and it was a pure
+
+00:06:38.240 --> 00:06:43.039
+sausage fest. It was just straight guys
+
+00:06:40.560 --> 00:06:45.120
+asking me how much test I have. So, no.
+
+00:06:43.039 --> 00:06:48.560
+Oh, not actually. But of 600 views, we
+
+00:06:45.120 --> 00:06:51.120
+did get one paying customer. Woohoo! 53
+
+00:06:48.560 --> 00:06:52.800
+minutes to make $97 is not bad. And
+
+00:06:51.120 --> 00:06:54.560
+that's like literally $100 out right
+
+00:06:52.800 --> 00:06:56.400
+there. And is that doctor money? I don't
+
+00:06:54.560 --> 00:06:58.560
+know. But I was happy because it was a
+
+00:06:56.400 --> 00:07:00.240
+successful live stream. Now, after this,
+
+00:06:58.560 --> 00:07:01.919
+I also emailed the weight list users,
+
+00:07:00.240 --> 00:07:03.680
+right? Posted my school community. I
+
+00:07:01.919 --> 00:07:06.000
+even gave a super fat Black Friday
+
+00:07:03.680 --> 00:07:08.639
+discount. And guess what? We got five
+
+00:07:06.000 --> 00:07:10.479
+more customers. But this is where things
+
+00:07:08.639 --> 00:07:12.479
+take a dark turn. See, here's where I
+
+00:07:10.479 --> 00:07:15.120
+messed up. To get Asian fast, you have
+
+00:07:12.479 --> 00:07:16.720
+to remix the level project, which I have
+
+00:07:15.120 --> 00:07:17.919
+to give you permission for. Do you
+
+00:07:16.720 --> 00:07:19.120
+understand the problem? Now, you still
+
+00:07:17.919 --> 00:07:21.360
+don't see the problem, right? Let me
+
+00:07:19.120 --> 00:07:24.000
+show you. The entire fulfillment of me
+
+00:07:21.360 --> 00:07:25.759
+giving each user the remix link was
+
+00:07:24.000 --> 00:07:26.960
+manual. I didn't have an automated way
+
+00:07:25.759 --> 00:07:28.800
+to do this. And for those who don't
+
+00:07:26.960 --> 00:07:30.880
+know, fulfillment is the part of the
+
+00:07:28.800 --> 00:07:33.120
+process where you deliver on what the
+
+00:07:30.880 --> 00:07:35.759
+customer has paid for. Doing fulfillment
+
+00:07:33.120 --> 00:07:37.360
+manually at scale is horrible. Yes, I
+
+00:07:35.759 --> 00:07:39.280
+was able to do it since I had under 10
+
+00:07:37.360 --> 00:07:41.039
+customers. What if my stream went super
+
+00:07:39.280 --> 00:07:43.120
+viral and I got hundred customers at
+
+00:07:41.039 --> 00:07:45.520
+once? I'd be in shambles. I would not be
+
+00:07:43.120 --> 00:07:47.520
+able to satisfy the fulfillment. So, I
+
+00:07:45.520 --> 00:07:49.680
+decide to use my six years of automation
+
+00:07:47.520 --> 00:07:51.440
+experience to set up a end workflow that
+
+00:07:49.680 --> 00:07:53.039
+activates each time a new customer buys
+
+00:07:51.440 --> 00:07:55.039
+my product via Stripe. It sends the
+
+00:07:53.039 --> 00:07:56.720
+details to resend, which then emails the
+
+00:07:55.039 --> 00:07:58.400
+customer the following message. I also
+
+00:07:56.720 --> 00:08:00.479
+have a Discord link in there so I can
+
+00:07:58.400 --> 00:08:02.240
+offer support. I have a lovable remix
+
+00:08:00.479 --> 00:08:04.160
+link, which I will give auto access to
+
+00:08:02.240 --> 00:08:06.240
+the user. And I also have a how-to video
+
+00:08:04.160 --> 00:08:08.000
+sequence that offers full step-by-step
+
+00:08:06.240 --> 00:08:09.840
+directions on building off of Asian
+
+00:08:08.000 --> 00:08:12.160
+Fast. So, I basically tried to make the
+
+00:08:09.840 --> 00:08:14.000
+entire onboarding automated. And yes,
+
+00:08:12.160 --> 00:08:15.759
+it's a lot. I'm tired, too. But this is
+
+00:08:14.000 --> 00:08:17.919
+a big moment for you to realize that the
+
+00:08:15.759 --> 00:08:19.599
+AI market is not saturated. You're just
+
+00:08:17.919 --> 00:08:21.360
+focused on the wrong audience. I even
+
+00:08:19.599 --> 00:08:23.199
+spent three hours breaking down
+
+00:08:21.360 --> 00:08:24.400
+launching an AI business from zero.
+
+00:08:23.199 --> 00:08:26.639
+Before you watch it, be sure to
+
+00:08:24.400 --> 00:08:26.639
+subscribe.
+

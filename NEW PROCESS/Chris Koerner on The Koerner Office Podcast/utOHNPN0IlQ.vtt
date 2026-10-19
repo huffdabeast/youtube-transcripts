@@ -1,0 +1,754 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:05.280
+Faceless YouTube channels are making people 
+5, 10, even 30 grand a month right now. This  
+
+00:00:05.280 --> 00:00:10.320
+is no camera, no face, no team, just a 
+laptop with the right tools. So today,  
+
+00:00:10.320 --> 00:00:14.320
+I'm going to build one from scratch on 
+camera using two different AI tools,  
+
+00:00:14.320 --> 00:00:18.880
+Claude and Higsfield. And by the end of this 
+video, you're going to have the exact prompts,  
+
+00:00:18.880 --> 00:00:22.880
+the exact niche list, and the exact 
+workflow to copy it. And at the end,  
+
+00:00:22.880 --> 00:00:28.320
+I'm going to tell you how people are flipping 
+these channels for six figures right now.
+
+00:00:30.240 --> 00:00:34.320
+Before we touch any of these tools, I want to 
+show you why this matters. Faceless channels  
+
+00:00:34.320 --> 00:00:40.800
+make money in four different ways. Number one, 
+AdSense. YouTube pays you per,000 views. A finance  
+
+00:00:40.800 --> 00:00:46.960
+channel is going to make you between $15 and $30 
+per,000 views. A storytelling channel might be $3  
+
+00:00:46.960 --> 00:00:53.120
+to $8 per,000 views, but even small channels with 
+the right niche will at least pay your rent. The  
+
+00:00:53.120 --> 00:00:58.000
+second way you can make money, affiliate links. 
+You point your audience to a tool or a product.  
+
+00:00:58.000 --> 00:01:03.440
+when they buy, you take a cut. Number three, 
+selling your own stuff. A course, a template,  
+
+00:01:03.440 --> 00:01:08.480
+a physical product, a newsletter subscription. 
+That's where the real money is. But number four,  
+
+00:01:08.480 --> 00:01:13.200
+if you want to make a big chunk of money all at 
+once, you sell the entire channel. A faceless  
+
+00:01:13.200 --> 00:01:18.960
+channel doing three grand a month in just YouTube 
+AdSense revenue will sell for about a h 100,000  
+
+00:01:18.960 --> 00:01:24.640
+bucks. So about three times annual profits. And 
+you can sell this on sites like bisbyell, flippa,  
+
+00:01:24.640 --> 00:01:30.080
+acquire.com, etc. But we'll get back to that at 
+the end. So, yes, faceless channels can be a great  
+
+00:01:30.080 --> 00:01:34.800
+side hustle, but it's also an asset that you can 
+build in your spare time. But before we start,  
+
+00:01:34.800 --> 00:01:38.880
+you're going to hear me say the letters MCP 
+a few times in this video. Here's what an  
+
+00:01:38.880 --> 00:01:44.320
+MCP is. Picture Claude, which is just like JBT. 
+Picture Claude is the brain. Claude can think,  
+
+00:01:44.320 --> 00:01:49.200
+it can write, it can plan, but Claude can't make a 
+video by itself. It doesn't have that capability.  
+
+00:01:49.200 --> 00:01:56.400
+An MCP is like an HDMI cable that connects a TV 
+to something else useful. An MCP is that power  
+
+00:01:56.400 --> 00:02:02.640
+cord. It plugs Claude into other tools, which 
+makes them incredibly powerful. So, today we're  
+
+00:02:02.640 --> 00:02:09.600
+going to be using an MCP in Claude to plug into 
+Higsfield, which is an AI media creation tool. So,  
+
+00:02:09.600 --> 00:02:14.720
+now Claude can use all of its superpowers to 
+write your script, make your clips, your images,  
+
+00:02:14.720 --> 00:02:20.000
+your animations, and everything all within the 
+same Claude chat window. It's convenient. It's  
+
+00:02:20.000 --> 00:02:23.360
+efficient. You can do all this in one tab. 
+You don't have to copy and paste between five  
+
+00:02:23.360 --> 00:02:28.640
+different apps. That's an MCP, so don't overthink 
+it. I'm going to set up the MCP right now. It's  
+
+00:02:28.640 --> 00:02:34.000
+going to take 30 seconds. Okay. So, we got a the 
+clawed chat window right here. We're going to go  
+
+00:02:34.000 --> 00:02:39.280
+settings. Then, we're going to go to connectors. 
+Then, we're going to click customize right here.  
+
+00:02:39.280 --> 00:02:44.960
+Then click the plus button right here. Add custom 
+connector. Okay. We're going to call it Higsfield.  
+
+00:02:44.960 --> 00:02:50.160
+And then we're going to add a URL. And that is 
+the URL. Well, I'll put this in the description,  
+
+00:02:50.160 --> 00:02:54.800
+but otherwise you can just pause it and type 
+that in. Okay, so we are in the very, very early  
+
+00:02:54.800 --> 00:03:00.000
+innings of this Higsfield MCP, which means that 
+other people have not yet tuned into this yet.  
+
+00:03:00.000 --> 00:03:05.920
+That's it. That's all you got to do. Click add, 
+then click connect. We'll click allow. Boom. Now  
+
+00:03:05.920 --> 00:03:10.880
+we go back to that original chat window. Click the 
+plus. Click connectors. Right there, Higsfield.  
+
+00:03:10.880 --> 00:03:15.600
+And it is toggled on. And you can see all these 
+other MCPs that I use on a daily basis. I can ask  
+
+00:03:15.600 --> 00:03:21.600
+questions about my newsletter analytics or I can 
+ask questions about a previously recorded Zoom  
+
+00:03:21.600 --> 00:03:27.360
+that I had. I can even have it draft emails for me 
+in my voice because Claude will go read all of my  
+
+00:03:27.360 --> 00:03:32.640
+send emails and know exactly how I talk and how I 
+negotiate and how I think. It's incredible. Stripe  
+
+00:03:32.640 --> 00:03:37.760
+Mercury for bank accounts, etc. You get the idea. 
+Cool. Okay, now we got to pick the niche. We want  
+
+00:03:37.760 --> 00:03:43.040
+to pick a niche that does two things. Number one, 
+it pays well. And number two, it will look good as  
+
+00:03:43.040 --> 00:03:47.600
+an AI video cuz they don't all look good. I'm a 
+wrestling fan. I wrestled in high school. I used  
+
+00:03:47.600 --> 00:03:52.640
+to coach wrestling and there's a Faceless YouTube 
+channel that covers like wrestling documentaries  
+
+00:03:52.640 --> 00:03:57.760
+and I know the scripts are AI generated and I know 
+that the clips are AI generated but I watch them  
+
+00:03:57.760 --> 00:04:02.400
+because it's really good. Just because you you ask 
+Chad GPT a question and it gives you an answer,  
+
+00:04:02.400 --> 00:04:07.440
+you don't not read the answer because oh this 
+is AI generated. Like no, we need questions  
+
+00:04:07.440 --> 00:04:12.400
+answered. And if that's answered with AI, 
+fine. We might prefer for a human to answer it,  
+
+00:04:12.400 --> 00:04:16.960
+but if they're not there to do it, then we're 
+happy to have AI answer that question for us.  
+
+00:04:16.960 --> 00:04:21.840
+And the same is said with entertainment. I'm happy 
+to be entertained by a faceless channel or an AI  
+
+00:04:21.840 --> 00:04:26.480
+generated channel if it's actually entertaining, 
+if it's good, just like a Pixar video is good,  
+
+00:04:26.480 --> 00:04:31.680
+even though those aren't handdrawn animations. 
+So, here are some of the five best niches for an  
+
+00:04:31.680 --> 00:04:37.280
+AI faceless YouTube channel right now. Number one, 
+dark business history. You ever see American Greed  
+
+00:04:37.280 --> 00:04:42.560
+on CNBC? That's the type of stuff I'm talking 
+about. Stories about scams, billionaire empires,  
+
+00:04:42.560 --> 00:04:47.360
+companies that crashed. You can even use an AI 
+agent to go find like local news articles that  
+
+00:04:47.360 --> 00:04:52.720
+never make Netflix or CNBC about a local scammer, 
+and you can make documentaries about them. Another  
+
+00:04:52.720 --> 00:04:58.960
+niche that's great right now is mythology and 
+lost civilizations. They get massive views, and AI  
+
+00:04:58.960 --> 00:05:04.000
+video is perfect for this kind of stuff. Okay, the 
+third best niche that I like right now, AI tools  
+
+00:05:04.000 --> 00:05:08.960
+and tech predictions. These don't get as many 
+views, but it pays way way more per view. It could  
+
+00:05:08.960 --> 00:05:15.680
+be the difference between $5 and $25 per thousand 
+views. Number four, weird science, quirky topics.  
+
+00:05:15.680 --> 00:05:21.120
+These channels have insanely loyal audiences and 
+it's great for a newsletter conversion. And number  
+
+00:05:21.120 --> 00:05:28.240
+five, true crime, cold case crimes, right? Massive 
+demand. AI can handle all the dramatic recreation  
+
+00:05:28.240 --> 00:05:33.120
+visuals perfectly. But for the purposes of 
+this video and for what I love the most,  
+
+00:05:33.120 --> 00:05:38.640
+dark business history. I love learning about a 
+good business scam, but you can swap whatever I'm  
+
+00:05:38.640 --> 00:05:43.680
+doing with whatever niche that you end up picking. 
+The workflow is going to be identical. Okay, but  
+
+00:05:43.680 --> 00:05:49.840
+enough talking. Let's start prompting. Let's start 
+making a video with this Higsfield/Claude MCP.  
+
+00:05:49.840 --> 00:05:55.440
+Okay, act as a faceless YouTube strategist. My 
+niche is dark business history. Give me a channel  
+
+00:05:55.440 --> 00:06:01.600
+name, a 10-word description, 10 video title ideas 
+built to get clicks, then write the full script  
+
+00:06:01.600 --> 00:06:09.200
+for video one. cinematic tone, eight minutes long, 
+built for retention. Why eight minutes long? Well,  
+
+00:06:09.200 --> 00:06:13.600
+you'll notice that none of my videos are under 
+eight minutes long. You know why? Because YouTube  
+
+00:06:13.600 --> 00:06:17.920
+does not let you put midroll ads on videos 
+that are less than 8 minutes. You can put a  
+
+00:06:17.920 --> 00:06:23.280
+pre-roll and a post roll, aka an ad, before the 
+video starts and after the video ends, but you  
+
+00:06:23.280 --> 00:06:27.520
+can't put ads in the middle. But if it's over 8 
+minutes, you can. That's why you'll see a lot of  
+
+00:06:27.520 --> 00:06:31.520
+videos on YouTube that are like 8 minutes and 1 
+second, because you can make more money from that  
+
+00:06:31.520 --> 00:06:35.840
+YouTube video. More ads equals more money. And 
+I don't know if you've noticed, but I try to be  
+
+00:06:35.840 --> 00:06:40.640
+very intentional about not allowing YouTube to put 
+too many ads in my videos. They automatically add  
+
+00:06:40.640 --> 00:06:46.800
+them, but I can go in and remove them, which I try 
+to do. Okay, so before I hit enter on this prompt,  
+
+00:06:46.800 --> 00:06:52.400
+I almost forgot the last sentence there. Use my 
+Higsfield MCP to do this. Cloud is not in my head,  
+
+00:06:52.400 --> 00:06:57.360
+right? It might have done that anyway, but just 
+to be sure, I want to point it towards the right  
+
+00:06:57.360 --> 00:07:03.760
+connector. And we'll hit enter. You can see I'm 
+using Opus 4.7 with adaptive thinking. Now, when  
+
+00:07:03.760 --> 00:07:09.200
+it spits out the script, if you don't love what 
+you see, push back. I always push back on Claude.  
+
+00:07:09.200 --> 00:07:14.000
+And I tell Claude in my master instructions to 
+push back on what I tell it to do. You can tell  
+
+00:07:14.000 --> 00:07:19.280
+it to make the first paragraph punchier or to 
+cut the boring middle out. You're the editor.  
+
+00:07:19.280 --> 00:07:25.280
+Claude is the writer. Claude works for you. Okay, 
+here we go. Took about 90 seconds. Claude wants to  
+
+00:07:25.280 --> 00:07:30.240
+use generate underscore image from Higsfield. I'm 
+just going to press always allow. It's making a  
+
+00:07:30.240 --> 00:07:34.560
+thumbnail. It's pretty cool. Also, guys, faceless 
+YouTube channel might not be for everyone. There's  
+
+00:07:34.560 --> 00:07:39.920
+a hundred other things you can use this Higfield 
+MCP for that are not Faceless YouTube channel  
+
+00:07:39.920 --> 00:07:45.600
+creation or scripting. Go wild with it. Okay, 
+looks like I am out of credits on Higsfield. Okay,  
+
+00:07:45.600 --> 00:07:50.560
+going to buy some more credits. Okay, we've got 
+10 titles here. We've got a description. I like  
+
+00:07:50.560 --> 00:07:55.040
+these. How one family tricked the world into 
+buying worthless rocks. They poisoned babies to  
+
+00:07:55.040 --> 00:08:00.240
+steal Africa's market. Okay, there's our script. 
+Man, that's really good. I just told it that I  
+
+00:08:00.240 --> 00:08:05.600
+added more credits and to try the thumbnail again. 
+Boom. It's making the thumbnail. It's giving me  
+
+00:08:05.600 --> 00:08:11.280
+tips for the thumbnail strategy. Very clickbaity. 
+Very Mr. Beasty. Very good. Okay. Looks like it's  
+
+00:08:11.280 --> 00:08:18.640
+going with the title for fake diamonds one. I'm 
+asking it to add they fooled you to the title  
+
+00:08:18.640 --> 00:08:23.440
+in bold red letters. Suddenly, you don't have 
+to know how to make thumbnails anymore. Okay,  
+
+00:08:23.440 --> 00:08:27.600
+there it is. It's telling me that I can open 
+this in Photoshop or Canva to make it better,  
+
+00:08:27.600 --> 00:08:31.840
+but I don't know how to use either of those 
+tools. So, we're going to go with this. Okay,  
+
+00:08:31.840 --> 00:08:36.720
+that's cool. I wasn't super happy with how that 
+font looked, so I asked if it's able to use ChatG  
+
+00:08:36.720 --> 00:08:42.720
+image 2, which I know is amazing for thumbnails. 
+It has no issue with text whatsoever, and it said,  
+
+00:08:42.720 --> 00:08:46.800
+"Yeah, oh, let me do that real quick." So, it's 
+redoing the thumbnail with a different model,  
+
+00:08:46.800 --> 00:08:51.440
+which I honestly didn't know you could do 
+that through the MCP. So, super cool. Okay,  
+
+00:08:51.440 --> 00:08:57.200
+next prompt. Take the script you just wrote, 
+break it into 12 cinematic shots. For each shot,  
+
+00:08:57.200 --> 00:09:03.760
+write a detailed visual prompt. Then use Higsfield 
+to generate every shot. Keep the visual style  
+
+00:09:03.760 --> 00:09:09.600
+consistent, dark, cinematic, slow camera movement. 
+All right, I just want this thumbnail to generate  
+
+00:09:09.600 --> 00:09:14.480
+real quick. All right, let's see what this 
+comes up with. Okay, so as this processes,  
+
+00:09:14.480 --> 00:09:18.080
+I want to explain what's happening behind the 
+scenes. What's happening is that Claude is reading  
+
+00:09:18.080 --> 00:09:23.200
+your script and splitting it into 12 different 
+scenes. Then it's sending each of those scenes  
+
+00:09:23.200 --> 00:09:29.680
+to Higsfield one by one. Then Higfield is using a 
+video model on the back end called Seed Dance 2.0,  
+
+00:09:29.680 --> 00:09:34.320
+which is one of the best AI video models that 
+exists right now. Each clip is going to take  
+
+00:09:34.320 --> 00:09:40.160
+like 30 to 60 seconds each to render. So, you 
+know, it'll take a minute. Also, by the way,  
+
+00:09:40.160 --> 00:09:46.080
+here's the thumbnail that GPT image 2 generated 
+for me. The table looks a little more crisp. The  
+
+00:09:46.080 --> 00:09:51.360
+background's more crisp. There's a little gradient 
+on the font. I think it's maybe 10 to 30% better.  
+
+00:09:51.360 --> 00:09:56.400
+Not a huge upgrade, but definitely worth spending 
+4 cents or whatever it is in credits. Okay,  
+
+00:09:56.400 --> 00:10:01.760
+looks like it went with something called Soul 
+Cinema for all 12 of these scenes. Full prompts,  
+
+00:10:01.760 --> 00:10:07.520
+images, everything. Young exhausted woman at 
+vintage 1940s wooden desk at night. Single brass  
+
+00:10:07.520 --> 00:10:14.160
+desk lamp pools warm amber light over scattered 
+papers, yada yada yada. Okay, super cool. It's  
+
+00:10:14.160 --> 00:10:20.480
+just about 8 minutes long. Generating all 12 now 
+in parallel. There's the image. Look at that. Oh,  
+
+00:10:20.480 --> 00:10:26.320
+that is awesome. Holy crap. I'm floored right now. 
+That does not look like AI at all. It looks like a  
+
+00:10:26.320 --> 00:10:32.080
+real picture. Okay, so let's see what this shot 
+would look like as a video, as an image. Okay,  
+
+00:10:32.080 --> 00:10:37.440
+so I click animate and it autoloads that prompt 
+for me. Animate this reference image into a short  
+
+00:10:37.440 --> 00:10:42.880
+video. Boom, boom, boom. And then I'm going 
+to paste in this prompt. Thousands of diamond  
+
+00:10:42.880 --> 00:10:48.000
+prospectors swarming a massive open mine pit 
+in South Africa. Cool. paste that in there,  
+
+00:10:48.000 --> 00:10:53.360
+hit enter, and we wait. So, while this is loading, 
+um, there's also a feature on Higsfield called  
+
+00:10:53.360 --> 00:10:58.400
+face lock where if you upload one image of a 
+character, even if it's AI generated, real,  
+
+00:10:58.400 --> 00:11:05.120
+whatever, avatar, Higsfield will extract the face 
+and keep it consistent across all shots and scenes  
+
+00:11:05.120 --> 00:11:10.560
+throughout the whole video or movie, that picture, 
+that person becomes a recurring guest. So, just  
+
+00:11:10.560 --> 00:11:14.960
+because it's faceless doesn't mean it doesn't have 
+a face. It just doesn't have your face. And a lot  
+
+00:11:14.960 --> 00:11:18.640
+of people prefer that, right? They're introverts. 
+They don't want their face to be everywhere. And  
+
+00:11:18.640 --> 00:11:23.440
+nowadays, they don't have to. But we still got 
+to nail the voice, right? So, you can do one of  
+
+00:11:23.440 --> 00:11:29.120
+a couple things here for the voice. You can use 
+Higsfield Speak 2.0 where you can write out your  
+
+00:11:29.120 --> 00:11:35.120
+text like a script where if you want something to 
+have emphasis, a word, you put it in all caps. If  
+
+00:11:35.120 --> 00:11:39.360
+you want there to be a pause, you just put a dot 
+dot dot and it will do it for you. It will make  
+
+00:11:39.360 --> 00:11:45.200
+audio based on what your text shows. Or you can 
+use something like 11 Labs, which will clone your  
+
+00:11:45.200 --> 00:11:50.160
+voice or other people's voices. I actually use 
+that to dub all of my YouTube videos into other  
+
+00:11:50.160 --> 00:11:54.880
+languages in my same voice. It's kind of wild 
+hearing myself talk in German when I don't speak  
+
+00:11:54.880 --> 00:12:00.080
+German. Then you can use something like Cap Cut, 
+which is a very user-friendly video editor, both  
+
+00:12:00.080 --> 00:12:05.600
+for desktop and for iPhone or Android. And you can 
+add in background music uh and stuff like that.  
+
+00:12:05.600 --> 00:12:12.640
+It's free. So, just to recap, the scenes from 
+Higsfield, you convert those into videos, shots in  
+
+00:12:12.640 --> 00:12:17.520
+Higsfield. You can use Higsfield for the audio or 
+you can use 11 Labs for the audio, especially if  
+
+00:12:17.520 --> 00:12:21.360
+you want to clone your own voice. Probably better 
+off using 11 Labs for that. And then background  
+
+00:12:21.360 --> 00:12:26.160
+music, you can use Cap Cut. Just use royalty-free. 
+And you can knock out your first video without any  
+
+00:12:26.160 --> 00:12:30.560
+experience in about an hour or so, depending on 
+how long it is. Whereas before all these tools  
+
+00:12:30.560 --> 00:12:35.920
+existed, the same thing would take you 5, 10, 
+20 hours, especially if you don't know anything  
+
+00:12:35.920 --> 00:12:44.080
+about video editing or video creation. Okay, 
+here's the here's the scene. Here's the shot.
+
+00:12:44.080 --> 00:12:50.400
+That's incredible. That looks awesome. Predict 
+virality. So, I've never used this. Let's see  
+
+00:12:50.400 --> 00:12:54.640
+what that does. And if I don't really like that, 
+just click recreate. But we're going to wait for  
+
+00:12:54.640 --> 00:12:59.840
+this one prompt to finish first. Now, virality 
+might not be the most relevant thing to ask here  
+
+00:12:59.840 --> 00:13:04.640
+because this is simply a 5-second shot from an 
+8-minute video. It's not going to be a standalone  
+
+00:13:04.640 --> 00:13:09.280
+clip that we post to Tik Tok or whatever. But 
+theoretically, if we could assemble an 8-minute  
+
+00:13:09.280 --> 00:13:14.560
+video out of shots that have the highest virality 
+potential, then why wouldn't the entire thing  
+
+00:13:14.560 --> 00:13:19.360
+have a higher than average virality potential? 
+Think of it this way. The old way of doing this,  
+
+00:13:19.360 --> 00:13:23.840
+you were going to have to hire a writer for like 
+2 to 400 bucks a script. An editor is going to  
+
+00:13:23.840 --> 00:13:29.200
+be like 3 to 500 bucks per video. Then a voice 
+actor for 150 to 300 bucks for a video. Thumbnail  
+
+00:13:29.200 --> 00:13:33.440
+designer at 50 bucks a pop. If you want to AB 
+test it, that could be hundreds of dollars just  
+
+00:13:33.440 --> 00:13:38.400
+on thumbnails. We're looking at a,000 to,500 bucks 
+per video. And you don't even know if it will be  
+
+00:13:38.400 --> 00:13:44.800
+any good or perform well or not. So to knock out 
+24 videos, which is probably a good idea to find  
+
+00:13:44.800 --> 00:13:50.800
+some winners in there, you'd have to spend 30,000 
+35,000 bucks to get that done. Out of reach for  
+
+00:13:50.800 --> 00:13:56.320
+the vast majority of people. But now you can do it 
+just for some credits, for a couple subscriptions,  
+
+00:13:56.320 --> 00:14:00.480
+and you can learn some incredibly valuable skills 
+in the process. And if your videos don't take off,  
+
+00:14:00.480 --> 00:14:05.280
+then you can still charge to do this for other 
+people as a service. If you have a video hit  
+
+00:14:05.280 --> 00:14:11.840
+100,000 views in any given niche, that's going to 
+be between $500 and $2,000 from one video. It's  
+
+00:14:11.840 --> 00:14:15.680
+probably not going to happen from your first, 
+maybe not even your 10th video, but it's just a  
+
+00:14:15.680 --> 00:14:20.400
+numbers game. If you throw enough volume at it and 
+you keep learning and improving with each video,  
+
+00:14:20.400 --> 00:14:24.400
+it will happen eventually. If you don't like 
+any of the five niches I already gave you,  
+
+00:14:24.400 --> 00:14:28.160
+prompt around in Claude or Chad GBT to come 
+up with more. Now, let me show you what it  
+
+00:14:28.160 --> 00:14:33.040
+would look like if we wanted to go ahead and 
+upload this video. We would just go to YouTube  
+
+00:14:33.040 --> 00:14:37.440
+Studio. You would create a free account. You 
+would click create up here on the top right.  
+
+00:14:37.440 --> 00:14:42.880
+Upload videos. Select files. Okay, we'll put that 
+in there. Cool, cool, cool. And then you would  
+
+00:14:42.880 --> 00:14:46.720
+just click AB testing and you would put three 
+different titles, three different thumbnails,  
+
+00:14:46.720 --> 00:14:51.280
+titles and thumbnails. And then YouTube will 
+automatically start showing those versions of  
+
+00:14:51.280 --> 00:14:54.880
+your video with those titles and thumbnails to 
+different people. And then it will show you what  
+
+00:14:54.880 --> 00:14:58.800
+percentage of people clicked on which version. 
+And then either after a certain amount of time,  
+
+00:14:58.800 --> 00:15:03.200
+YouTube will automatically choose the winner or 
+you can choose the winner yourself at any given  
+
+00:15:03.200 --> 00:15:07.520
+point. You can AI generate a thumbnail right 
+inside YouTube if you want. Upload your own  
+
+00:15:07.520 --> 00:15:12.800
+from Higsfield or Claude or whatever and you just 
+upload it. And now you have a YouTube video. Okay,  
+
+00:15:12.800 --> 00:15:18.240
+let's go ahead and regenerate that 5-second 
+video and see what we can get next. So this  
+
+00:15:18.240 --> 00:15:23.040
+time it's using C dance 2.0 which I referred 
+to earlier. It's a brilliant video generation  
+
+00:15:23.040 --> 00:15:28.400
+model. By the way, I'm going to go ahead and put 
+all these prompts in uh a free Google doc in the  
+
+00:15:28.400 --> 00:15:32.320
+comments below. When you get a Cap Cut, you 
+just take all of these clips together and you  
+
+00:15:32.320 --> 00:15:37.760
+just upload all of them to your Cap Cut project. 
+And then right over it, you upload your voice over  
+
+00:15:37.760 --> 00:15:42.320
+or the 11 Labs generated voice over. And then 
+within Cap Cut itself, you choose background  
+
+00:15:42.320 --> 00:15:49.760
+music should you want to include that, which I 
+would. Okay, here's uh the regenerated scene.
+
+00:15:49.760 --> 00:15:55.280
+A lot more hacking going on in this one. Very 
+cool. Okay, so you should have everything you  
+
+00:15:55.280 --> 00:16:00.640
+need to start a faceless YouTube channel or a 
+faceless uh Tik Tok or Instagram page. Doesn't  
+
+00:16:00.640 --> 00:16:04.640
+have to be YouTube, but it's just the highest 
+likelihood of getting monetized and making more  
+
+00:16:04.640 --> 00:16:09.360
+money quicker. So, Higfield supports this channel. 
+I support Higsfield. I use them. They're awesome.  
+
+00:16:09.360 --> 00:16:15.440
+I don't know of a better content creation AI tool 
+out there. And now with Claude's MCP, you just  
+
+00:16:15.440 --> 00:16:20.160
+got like two superpowers put together equals mega 
+superpower. Thanks for hanging out on the Kerner
+

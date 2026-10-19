@@ -1,0 +1,1442 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.000
+Give Claude to two people. One will use
+
+00:00:03.080 --> 00:00:07.960
+it to build a better email. The other
+
+00:00:06.000 --> 00:00:10.920
+will use it to help build a hundred
+
+00:00:07.960 --> 00:00:12.400
+million dollar company. Same tool,
+
+00:00:10.920 --> 00:00:16.320
+different users.
+
+00:00:12.400 --> 00:00:19.640
+And that gap between people who use AI
+
+00:00:16.320 --> 00:00:22.800
+and people who wield it is about to
+
+00:00:19.640 --> 00:00:26.760
+reshape careers and companies and
+
+00:00:22.800 --> 00:00:29.400
+families and lives over the next decade.
+
+00:00:26.760 --> 00:00:32.480
+If you're new here, I've been a CEO,
+
+00:00:29.400 --> 00:00:34.760
+board member, investor in technology
+
+00:00:32.480 --> 00:00:37.080
+companies worth billions. And today I
+
+00:00:34.760 --> 00:00:40.240
+want to share with you how to use Claude
+
+00:00:37.080 --> 00:00:42.520
+better than 99% of people, from beginner
+
+00:00:40.240 --> 00:00:45.440
+to advanced. And it's way easier than
+
+00:00:42.520 --> 00:00:48.480
+you think. Claude is not just one app,
+
+00:00:45.440 --> 00:00:50.435
+it's a whole stack of tools built for a
+
+00:00:48.480 --> 00:00:51.120
+very different kind of work environment.
+
+00:00:50.435 --> 00:00:53.440
+[music]
+
+00:00:51.120 --> 00:00:56.240
+For businesses, there's chat for
+
+00:00:53.440 --> 00:00:59.200
+thinking, Claude co-work to get work
+
+00:00:56.240 --> 00:01:01.720
+done, Claude code to build things,
+
+00:00:59.200 --> 00:01:04.190
+Claude Chrome to browse with a brain,
+
+00:01:01.720 --> 00:01:06.280
+Claude skills to make it all repeatable,
+
+00:01:04.190 --> 00:01:09.160
+[music] and lots of tools. Once you
+
+00:01:06.280 --> 00:01:11.360
+understand how this team of agents work
+
+00:01:09.160 --> 00:01:13.800
+together, your output can change
+
+00:01:11.360 --> 00:01:16.640
+dramatically. The best way to visualize
+
+00:01:13.800 --> 00:01:19.560
+it is this: five activities, think,
+
+00:01:16.640 --> 00:01:21.480
+remember, execute, build, and browse.
+
+00:01:19.560 --> 00:01:23.640
+Let's go through each one of them. First
+
+00:01:21.480 --> 00:01:25.880
+is think. You go to Claude chat. And
+
+00:01:23.640 --> 00:01:28.440
+this is what most of us do when we think
+
+00:01:25.880 --> 00:01:30.480
+about chatbots. We input a prompt, we
+
+00:01:28.440 --> 00:01:34.320
+get a response. You bring a messy
+
+00:01:30.480 --> 00:01:37.640
+problem, a fuzzy idea, or a rough draft
+
+00:01:34.320 --> 00:01:40.520
+and work through it. But many of us just
+
+00:01:37.640 --> 00:01:43.160
+use AI to do all the work so they can
+
+00:01:40.520 --> 00:01:45.840
+copy and paste. We have all seen those
+
+00:01:43.160 --> 00:01:49.480
+LinkedIn posts. So, if you go to Claude
+
+00:01:45.840 --> 00:01:51.880
+chat and type write me a LinkedIn post
+
+00:01:49.480 --> 00:01:55.040
+about leadership, you'll get a very
+
+00:01:51.880 --> 00:01:57.240
+polished paragraph that says nothing.
+
+00:01:55.040 --> 00:01:59.211
+And we've talked about how to prompt
+
+00:01:57.240 --> 00:02:01.760
+better with things like aim before
+
+00:01:59.211 --> 00:02:04.400
+[music] actor input mission. Try this
+
+00:02:01.760 --> 00:02:07.400
+prompt instead. You are a business
+
+00:02:04.400 --> 00:02:10.880
+school professor. I am trying to explain
+
+00:02:07.400 --> 00:02:13.280
+why some leaders sound credible and
+
+00:02:10.880 --> 00:02:16.600
+others don't. I'm attaching my notion
+
+00:02:13.280 --> 00:02:19.720
+page with a rough idea that talks about
+
+00:02:16.600 --> 00:02:22.959
+leadership and authenticity, leadership
+
+00:02:19.720 --> 00:02:25.959
+and humility. Your job is to push back
+
+00:02:22.959 --> 00:02:28.320
+on what's weak and sharpen what's real.
+
+00:02:25.959 --> 00:02:31.306
+Find me research that helps me create a
+
+00:02:28.320 --> 00:02:32.240
+strong insight and then we can write
+
+00:02:31.306 --> 00:02:35.240
+[music]
+
+00:02:32.240 --> 00:02:37.840
+a LinkedIn post. You make Claude your
+
+00:02:35.240 --> 00:02:40.640
+thinking partner now. Of course, like
+
+00:02:37.840 --> 00:02:42.560
+all AI, it will not do what you tell it
+
+00:02:40.640 --> 00:02:45.000
+to do, not the first time around at
+
+00:02:42.560 --> 00:02:46.880
+least. And sometimes it's going to be
+
+00:02:45.000 --> 00:02:50.320
+super frustrating because you will give
+
+00:02:46.880 --> 00:02:52.320
+this detailed prompt and just crap will
+
+00:02:50.320 --> 00:02:53.480
+come back. So, there are three things
+
+00:02:52.320 --> 00:02:55.480
+that you can do [music]
+
+00:02:53.480 --> 00:02:58.040
+that can become your power moves when
+
+00:02:55.480 --> 00:03:00.519
+that happens. First, give it rich
+
+00:02:58.040 --> 00:03:03.040
+context as much as you can. Connect the
+
+00:03:00.519 --> 00:03:05.720
+chatbot to your Google Drive, your
+
+00:03:03.040 --> 00:03:08.400
+email, your calendar, your notion app,
+
+00:03:05.720 --> 00:03:10.880
+anything else you can. That way you can
+
+00:03:08.400 --> 00:03:12.680
+attach files to that chat session. It
+
+00:03:10.880 --> 00:03:15.239
+will read it, it'll get context [music]
+
+00:03:12.680 --> 00:03:17.720
+from it. Second, ground your insights
+
+00:03:15.239 --> 00:03:20.080
+with research. You can ask Claude to go
+
+00:03:17.720 --> 00:03:22.680
+out on the web and do deep research. It
+
+00:03:20.080 --> 00:03:25.760
+has already learned the entire internet
+
+00:03:22.680 --> 00:03:27.600
+during its training, so why not use it?
+
+00:03:25.760 --> 00:03:30.040
+But when you get the research back,
+
+00:03:27.600 --> 00:03:34.160
+always ask one more time, is this
+
+00:03:30.040 --> 00:03:37.000
+verified? And third, use AI to build
+
+00:03:34.160 --> 00:03:39.560
+your AI skill in real time. If you are
+
+00:03:37.000 --> 00:03:41.720
+patient and curious, you can literally
+
+00:03:39.560 --> 00:03:43.920
+build your engine while you're flying
+
+00:03:41.720 --> 00:03:45.959
+the plane. For instance, let's say you
+
+00:03:43.920 --> 00:03:48.040
+have no background in corporate finance
+
+00:03:45.959 --> 00:03:51.000
+and you're building a financial model.
+
+00:03:48.040 --> 00:03:53.640
+You get stuck on how to use a specific
+
+00:03:51.000 --> 00:03:57.480
+spreadsheet [music] feature or even a
+
+00:03:53.640 --> 00:03:58.560
+financial concept like IRR or free cash
+
+00:03:57.480 --> 00:04:01.120
+flow.
+
+00:03:58.560 --> 00:04:03.880
+No problem. Just start another chat in
+
+00:04:01.120 --> 00:04:07.240
+another tab and ask away. So, you can
+
+00:04:03.880 --> 00:04:09.959
+learn and do. Do and learn. The cycle
+
+00:04:07.240 --> 00:04:12.160
+just continues. Now, let's go meet our
+
+00:04:09.959 --> 00:04:14.720
+second member of your team.
+
+00:04:12.160 --> 00:04:18.359
+This one helps you remember and it's
+
+00:04:14.720 --> 00:04:21.239
+called Claude Projects. We all know when
+
+00:04:18.359 --> 00:04:23.640
+we're creating something new or solving
+
+00:04:21.239 --> 00:04:27.080
+a complicated problem, the work doesn't
+
+00:04:23.640 --> 00:04:29.760
+end [music] in one session or even in
+
+00:04:27.080 --> 00:04:32.480
+one chat. And that's why all three AI
+
+00:04:29.760 --> 00:04:35.280
+platforms nowadays have gotten better at
+
+00:04:32.480 --> 00:04:37.919
+maintaining memory across different chat
+
+00:04:35.280 --> 00:04:39.400
+sessions. Claude remembers a world
+
+00:04:37.919 --> 00:04:42.560
+through projects.
+
+00:04:39.400 --> 00:04:45.440
+A project is where you give the chatbot
+
+00:04:42.560 --> 00:04:48.280
+your files, your instructions, your
+
+00:04:45.440 --> 00:04:50.840
+tone, your ongoing work. You're not
+
+00:04:48.280 --> 00:04:52.133
+starting from zero every time you open
+
+00:04:50.840 --> 00:04:52.320
+it. And of course,
+
+00:04:52.133 --> 00:04:54.200
+>> [music]
+
+00:04:52.320 --> 00:04:57.000
+>> I would be careful about sharing
+
+00:04:54.200 --> 00:04:59.480
+confidential documents from your office,
+
+00:04:57.000 --> 00:05:02.360
+but let's say you're actively or
+
+00:04:59.480 --> 00:05:05.120
+passively looking for a career change or
+
+00:05:02.360 --> 00:05:07.919
+a new job opportunity. You can create a
+
+00:05:05.120 --> 00:05:10.560
+project. You drop in your resume, your
+
+00:05:07.919 --> 00:05:12.400
+LinkedIn profile, the two or three job
+
+00:05:10.560 --> 00:05:14.720
+descriptions that you like or the
+
+00:05:12.400 --> 00:05:17.240
+company you're targeting, your writing
+
+00:05:14.720 --> 00:05:19.680
+samples, your professional bio, the
+
+00:05:17.240 --> 00:05:21.760
+other resumes that you like, anything
+
+00:05:19.680 --> 00:05:24.840
+you can think of. And you can customize
+
+00:05:21.760 --> 00:05:27.080
+this project with exactly what you need.
+
+00:05:24.840 --> 00:05:29.200
+So, you can add something like, "You're
+
+00:05:27.080 --> 00:05:32.320
+the world's most badass [music]
+
+00:05:29.200 --> 00:05:35.360
+recruiter and resume writer who has
+
+00:05:32.320 --> 00:05:38.240
+placed candidates in top companies in my
+
+00:05:35.360 --> 00:05:40.840
+industry. I am a brand marketer with 5
+
+00:05:38.240 --> 00:05:44.320
+years of experience at a large agency
+
+00:05:40.840 --> 00:05:47.240
+called WPP. Your job is to help me
+
+00:05:44.320 --> 00:05:49.720
+create a great story for my next
+
+00:05:47.240 --> 00:05:52.760
+adventure, for my next company, and make
+
+00:05:49.720 --> 00:05:55.400
+me desirable for the next role. I write
+
+00:05:52.760 --> 00:05:57.200
+in a direct, confident tone. I don't
+
+00:05:55.400 --> 00:05:59.600
+like corporate fillers. I hate
+
+00:05:57.200 --> 00:06:02.080
+buzzwords. When I ask you to tailor
+
+00:05:59.600 --> 00:06:04.960
+something, match the job description's
+
+00:06:02.080 --> 00:06:07.800
+language without losing my voice. When I
+
+00:06:04.960 --> 00:06:10.079
+ask you to do deep research, make sure
+
+00:06:07.800 --> 00:06:12.840
+you deliver only the relevant and
+
+00:06:10.079 --> 00:06:15.040
+[music] verified data. Don't make it up.
+
+00:06:12.840 --> 00:06:17.919
+And when I ask you for feedback, be
+
+00:06:15.040 --> 00:06:20.200
+honest. Tell me what's weak [music] and
+
+00:06:17.919 --> 00:06:23.000
+what I need to work on. Be my
+
+00:06:20.200 --> 00:06:25.880
+constructive partner and strengthen
+
+00:06:23.000 --> 00:06:28.080
+those areas. This is one way to provide
+
+00:06:25.880 --> 00:06:29.680
+instructions, but you can see that there
+
+00:06:28.080 --> 00:06:31.320
+are 100 ways to do it. And that's the
+
+00:06:29.680 --> 00:06:34.480
+kind of instruction that makes any
+
+00:06:31.320 --> 00:06:36.279
+project your own. Not a prompt that
+
+00:06:34.480 --> 00:06:37.280
+you're copying from some YouTuber,
+
+00:06:36.279 --> 00:06:40.800
+[music]
+
+00:06:37.280 --> 00:06:42.829
+but a brief that you write for someone
+
+00:06:40.800 --> 00:06:42.919
+you actually know very well,
+
+00:06:42.829 --> 00:06:44.560
+>> [music]
+
+00:06:42.919 --> 00:06:46.800
+>> yourself.
+
+00:06:44.560 --> 00:06:49.520
+From that point on, every time you come
+
+00:06:46.800 --> 00:06:50.689
+back, Claude already knows what you want
+
+00:06:49.520 --> 00:06:50.800
+and who you are.
+
+00:06:50.689 --> 00:06:53.320
+>> [music]
+
+00:06:50.800 --> 00:06:55.800
+>> You can ask it to tailor a cover letter,
+
+00:06:53.320 --> 00:06:59.440
+craft a specific bullet of your resume
+
+00:06:55.800 --> 00:07:02.560
+for a specific role. A project turns
+
+00:06:59.440 --> 00:07:05.099
+Claude from a one-off conversation
+
+00:07:02.560 --> 00:07:08.360
+into an ongoing relationship between
+
+00:07:05.099 --> 00:07:11.280
+[music] you and your AI. This is also
+
+00:07:08.360 --> 00:07:14.240
+why I don't customize Claude at the
+
+00:07:11.280 --> 00:07:15.800
+account level. I like customizing it at
+
+00:07:14.240 --> 00:07:18.680
+the [music] project level, because that
+
+00:07:15.800 --> 00:07:21.760
+way I can give it specific context.
+
+00:07:18.680 --> 00:07:24.480
+Because using AI to plan your vacation
+
+00:07:21.760 --> 00:07:26.560
+is very different from using it to plan
+
+00:07:24.480 --> 00:07:29.200
+your retirement. Now, let's go to
+
+00:07:26.560 --> 00:07:32.600
+execute. And for that, we have our third
+
+00:07:29.200 --> 00:07:35.480
+team member, Claude co-work. Chat is
+
+00:07:32.600 --> 00:07:38.000
+where the work begins. Co-work [music]
+
+00:07:35.480 --> 00:07:40.560
+is where it gets done. You start in a
+
+00:07:38.000 --> 00:07:43.040
+prompt window, but finish it on your
+
+00:07:40.560 --> 00:07:45.560
+desktop. Co-work [music] is a desktop
+
+00:07:43.040 --> 00:07:48.480
+application for Mac or Windows.
+
+00:07:45.560 --> 00:07:51.000
+Unfortunately, it's available only on
+
+00:07:48.480 --> 00:07:52.680
+Claude's paid plans right now, but with
+
+00:07:51.000 --> 00:07:55.480
+Claude Work, instead of asking a
+
+00:07:52.680 --> 00:07:57.600
+question, you give it a task. When do
+
+00:07:55.480 --> 00:07:59.520
+you use Claude Work versus chat? Well,
+
+00:07:57.600 --> 00:08:01.600
+you use Claude Work when you have a lot
+
+00:07:59.520 --> 00:08:04.080
+of assets already on your computer's
+
+00:08:01.600 --> 00:08:06.600
+hard drive, when the task needs multiple
+
+00:08:04.080 --> 00:08:08.920
+steps, and when you need that output to
+
+00:08:06.600 --> 00:08:10.960
+be on your local drive as a local file.
+
+00:08:08.920 --> 00:08:13.280
+So, for example, you can tell Claude
+
+00:08:10.960 --> 00:08:14.919
+Work to do the [music] following. Take
+
+00:08:13.280 --> 00:08:16.960
+all of these customer interview
+
+00:08:14.919 --> 00:08:20.360
+transcripts from this folder, these
+
+00:08:16.960 --> 00:08:23.080
+spreadsheets of accounts, and notes from
+
+00:08:20.360 --> 00:08:25.840
+last week's product meeting, find top
+
+00:08:23.080 --> 00:08:28.200
+three reasons on why the customers are
+
+00:08:25.840 --> 00:08:30.800
+churning. Why are they leaving? Provide
+
+00:08:28.200 --> 00:08:32.520
+all the supporting data, create a very
+
+00:08:30.800 --> 00:08:34.800
+clean slide deck that I can use
+
+00:08:32.520 --> 00:08:35.560
+tomorrow. Put the slide deck in this
+
+00:08:34.800 --> 00:08:37.760
+folder. [music]
+
+00:08:35.560 --> 00:08:40.120
+And here's what makes Claude Work even
+
+00:08:37.760 --> 00:08:43.159
+more interesting. It can reach out to
+
+00:08:40.120 --> 00:08:47.400
+other AI tools through a connector
+
+00:08:43.159 --> 00:08:51.000
+called MCP, the Model Context Protocol.
+
+00:08:47.400 --> 00:08:51.800
+Think of MCP as giving Claude a set of
+
+00:08:51.000 --> 00:08:54.200
+keys [music]
+
+00:08:51.800 --> 00:08:56.760
+to other AI tools. It can knock on their
+
+00:08:54.200 --> 00:08:59.800
+door, unlock the capabilities of those
+
+00:08:56.760 --> 00:09:01.120
+tools, act with them, act through them
+
+00:08:59.800 --> 00:09:03.120
+to give you results. [music]
+
+00:09:01.120 --> 00:09:05.920
+Let me show you what that means in a
+
+00:09:03.120 --> 00:09:09.000
+real example. Imagine you run a business
+
+00:09:05.920 --> 00:09:11.000
+selling handcrafted candles. You have a
+
+00:09:09.000 --> 00:09:12.920
+small business. You have a terrific
+
+00:09:11.000 --> 00:09:14.680
+product, but you're bootstrapping your
+
+00:09:12.920 --> 00:09:17.680
+business, right? And you don't have a
+
+00:09:14.680 --> 00:09:20.280
+huge marketing budget. In the old world,
+
+00:09:17.680 --> 00:09:22.800
+that would mean that you couldn't create
+
+00:09:20.280 --> 00:09:24.920
+any ads that looked super polished or
+
+00:09:22.800 --> 00:09:27.600
+professional. But now, look at what you
+
+00:09:24.920 --> 00:09:30.560
+can do when you can plug Claude into a
+
+00:09:27.600 --> 00:09:32.920
+creative AI tool called Hicksfield. They
+
+00:09:30.560 --> 00:09:35.760
+are the sponsor for this video. Now,
+
+00:09:32.920 --> 00:09:38.600
+Hicksfield is used by 18 million the
+
+00:09:35.760 --> 00:09:40.680
+backed by tier one VCs like Excel and
+
+00:09:38.600 --> 00:09:42.960
+Menlo Ventures, and they've already
+
+00:09:40.680 --> 00:09:44.600
+crossed the billion-dollar valuation.
+
+00:09:42.960 --> 00:09:47.480
+And they were the first creative
+
+00:09:44.600 --> 00:09:49.480
+platform to ship an official MCP
+
+00:09:47.480 --> 00:09:52.040
+connector for Claude. Here's how you
+
+00:09:49.480 --> 00:09:54.800
+connect it. You have to do it once, and
+
+00:09:52.040 --> 00:09:58.080
+that's it. Go to settings, connectors,
+
+00:09:54.800 --> 00:10:00.600
+plus button, paste the Hexfield URL, and
+
+00:09:58.080 --> 00:10:02.600
+you're done. That's it. Now you can go
+
+00:10:00.600 --> 00:10:05.000
+into Co-work, and you tell it to do
+
+00:10:02.600 --> 00:10:07.320
+whatever you need to sell more products.
+
+00:10:05.000 --> 00:10:11.000
+For instance, you could say, "Generate
+
+00:10:07.320 --> 00:10:13.480
+20 beautiful ad creatives for my new
+
+00:10:11.000 --> 00:10:16.920
+lavender candle line. Three ideas for
+
+00:10:13.480 --> 00:10:19.360
+Instagram, three editorial close-ups for
+
+00:10:16.920 --> 00:10:21.800
+the website, and a vertical video for
+
+00:10:19.360 --> 00:10:23.120
+the launch. Write a tagline for each."
+
+00:10:21.800 --> 00:10:24.222
+And that's it.
+
+00:10:23.120 --> 00:10:24.440
+It just runs.
+
+00:10:24.222 --> 00:10:27.280
+>> [music]
+
+00:10:24.440 --> 00:10:29.760
+>> Claude Co-work writes the prompt and
+
+00:10:27.280 --> 00:10:32.160
+passes it on to Hexfield. Hexfield
+
+00:10:29.760 --> 00:10:35.120
+generates the images and the video, and
+
+00:10:32.160 --> 00:10:37.920
+the entire set of files land in your
+
+00:10:35.120 --> 00:10:40.720
+local folder without you needing to hire
+
+00:10:37.920 --> 00:10:42.562
+a creative agency and pay them thousands
+
+00:10:40.720 --> 00:10:44.960
+of dollars. That would have taken you
+
+00:10:42.562 --> 00:10:48.080
+[music] 3 weeks of a professional shoot,
+
+00:10:44.960 --> 00:10:49.839
+a photographer, a stylist, and weeks of
+
+00:10:48.080 --> 00:10:52.520
+post-production, and of course thousands
+
+00:10:49.839 --> 00:10:56.520
+of dollars. But now, you can do it in a
+
+00:10:52.520 --> 00:10:59.360
+single session with Claude and Hexfield.
+
+00:10:56.520 --> 00:11:02.200
+This is how AI is leveling the playing
+
+00:10:59.360 --> 00:11:04.760
+field. A solo founder with the right set
+
+00:11:02.200 --> 00:11:07.120
+of tools today can now produce the kind
+
+00:11:04.760 --> 00:11:10.040
+of creative output that used to require
+
+00:11:07.120 --> 00:11:12.320
+a large team and a large budget. There's
+
+00:11:10.040 --> 00:11:14.480
+a link in the description below. They
+
+00:11:12.320 --> 00:11:17.000
+have a free tier. Take it for a spin.
+
+00:11:14.480 --> 00:11:19.320
+Try it. And you could build something
+
+00:11:17.000 --> 00:11:22.080
+very cool and interesting this weekend.
+
+00:11:19.320 --> 00:11:24.920
+Two things to keep in mind. First, the
+
+00:11:22.080 --> 00:11:26.960
+output will be a starting point. You'll
+
+00:11:24.920 --> 00:11:30.120
+still have to go through each and every
+
+00:11:26.960 --> 00:11:32.880
+slide and make sure it's good. But a lot
+
+00:11:30.120 --> 00:11:35.720
+of heavy lifting is done by Claude
+
+00:11:32.880 --> 00:11:38.320
+co-worker already. Second, give explicit
+
+00:11:35.720 --> 00:11:41.080
+permission for Claude co-work to access
+
+00:11:38.320 --> 00:11:43.520
+only specific directory and specific
+
+00:11:41.080 --> 00:11:46.400
+files. Claude is very conscious about
+
+00:11:43.520 --> 00:11:48.600
+security, but please be very mindful
+
+00:11:46.400 --> 00:11:51.120
+about what you give access to. And I
+
+00:11:48.600 --> 00:11:54.080
+usually create a subfolder and move all
+
+00:11:51.120 --> 00:11:56.480
+the files and data into that folder, and
+
+00:11:54.080 --> 00:11:58.720
+that's all Claude has access to. It's
+
+00:11:56.480 --> 00:12:01.480
+called sandboxing, so the rest of your
+
+00:11:58.720 --> 00:12:03.128
+hard drive remains secure. Claude can't
+
+00:12:01.480 --> 00:12:03.160
+get to it. Fourth
+
+00:12:03.128 --> 00:12:06.080
+>> [music]
+
+00:12:03.160 --> 00:12:08.760
+>> is build, and this is where Claude code
+
+00:12:06.080 --> 00:12:11.600
+comes into play. This is the part that
+
+00:12:08.760 --> 00:12:15.320
+makes a lot of us nervous. It made me
+
+00:12:11.600 --> 00:12:16.520
+nervous. The moment we hear code, we're
+
+00:12:15.320 --> 00:12:17.880
+like,
+
+00:12:16.520 --> 00:12:20.400
+"Ah, I don't know."
+
+00:12:17.880 --> 00:12:23.360
+We assume that all that stuff is only
+
+00:12:20.400 --> 00:12:26.040
+for engineers, but that assumption is
+
+00:12:23.360 --> 00:12:28.640
+one of the biggest missed opportunities
+
+00:12:26.040 --> 00:12:30.720
+in AI right now. If you can type in
+
+00:12:28.640 --> 00:12:33.720
+English, you don't need a computer
+
+00:12:30.720 --> 00:12:36.760
+science background to code and build
+
+00:12:33.720 --> 00:12:39.440
+something cool and useful. Let's say you
+
+00:12:36.760 --> 00:12:40.600
+have a consulting business or a side
+
+00:12:39.440 --> 00:12:43.600
+hustle.
+
+00:12:40.600 --> 00:12:46.839
+Simple example, just go to Claude code
+
+00:12:43.600 --> 00:12:49.080
+and prompt, "I want a dashboard where I
+
+00:12:46.839 --> 00:12:52.320
+can drop in my sales pipeline and
+
+00:12:49.080 --> 00:12:55.800
+meeting notes and instantly see which
+
+00:12:52.320 --> 00:12:58.360
+deals are at risk, what's stuck, and
+
+00:12:55.800 --> 00:13:00.920
+what my next move should be."
+
+00:12:58.360 --> 00:13:03.200
+That's all you need. You don't need to
+
+00:13:00.920 --> 00:13:05.800
+think like an engineer to start using
+
+00:13:03.200 --> 00:13:08.720
+Claude code. You just need to be clear
+
+00:13:05.800 --> 00:13:11.120
+about the problem you want to solve and
+
+00:13:08.720 --> 00:13:11.839
+the thing you want to build. And of
+
+00:13:11.120 --> 00:13:14.560
+course, [music]
+
+00:13:11.839 --> 00:13:17.360
+you have to have the right data so that
+
+00:13:14.560 --> 00:13:20.120
+dashboard you build is useful.
+
+00:13:17.360 --> 00:13:23.080
+And finally, the fifth team member is
+
+00:13:20.120 --> 00:13:25.520
+for browsing the internet. And for that,
+
+00:13:23.080 --> 00:13:27.560
+you can use Claude Chrome. And you're
+
+00:13:25.520 --> 00:13:29.760
+going to go, "Wait, what?
+
+00:13:27.560 --> 00:13:32.200
+Don't worry. Claude has this little
+
+00:13:29.760 --> 00:13:34.200
+extension that you can install in your
+
+00:13:32.200 --> 00:13:36.440
+Chrome browser. Google already has
+
+00:13:34.200 --> 00:13:38.400
+something like ask Gemini button baked
+
+00:13:36.440 --> 00:13:40.560
+into the browser now, but now you can
+
+00:13:38.400 --> 00:13:43.040
+let Claude see what you're looking at as
+
+00:13:40.560 --> 00:13:45.600
+well. Help [music] you process it and
+
+00:13:43.040 --> 00:13:47.274
+act inside your workflow in real time.
+
+00:13:45.600 --> 00:13:47.440
+And I think about this
+
+00:13:47.274 --> 00:13:51.040
+>> [music]
+
+00:13:47.440 --> 00:13:53.520
+>> a lot nowadays, because most of my work
+
+00:13:51.040 --> 00:13:56.160
+happens inside the browser, right? My
+
+00:13:53.520 --> 00:13:59.240
+files are on Google Drive or a Microsoft
+
+00:13:56.160 --> 00:14:01.880
+OneDrive, my emails, my scheduling, my
+
+00:13:59.240 --> 00:14:04.520
+team meetings, my research, filling out
+
+00:14:01.880 --> 00:14:06.320
+forms, making purchases, planning
+
+00:14:04.520 --> 00:14:09.120
+business trips, all of it is [music]
+
+00:14:06.320 --> 00:14:11.960
+taking place using the browser. And now
+
+00:14:09.120 --> 00:14:14.320
+Claude is right there with you for all
+
+00:14:11.960 --> 00:14:16.480
+of it. You're on a job listing site,
+
+00:14:14.320 --> 00:14:19.040
+Claude can read it and help you tailor
+
+00:14:16.480 --> 00:14:21.360
+your outreach. You're reading a 40-page
+
+00:14:19.040 --> 00:14:23.520
+industry report, Claude can pull the
+
+00:14:21.360 --> 00:14:26.400
+three insights that matter the most in
+
+00:14:23.520 --> 00:14:27.960
+real time. So, that is your team. There
+
+00:14:26.400 --> 00:14:29.320
+are other team members, but [music]
+
+00:14:27.960 --> 00:14:31.720
+these five
+
+00:14:29.320 --> 00:14:33.800
+are the most interesting and useful.
+
+00:14:31.720 --> 00:14:36.400
+This is your stack.
+
+00:14:33.800 --> 00:14:39.839
+But even with the full team working with
+
+00:14:36.400 --> 00:14:42.120
+you, one gap can make all the difference
+
+00:14:39.839 --> 00:14:45.800
+between the [music] average and the
+
+00:14:42.120 --> 00:14:48.720
+elite mode. That's where we go next. Any
+
+00:14:45.800 --> 00:14:50.880
+AI's results [music] depend on you. Even
+
+00:14:48.720 --> 00:14:54.085
+with the full team of agents working for
+
+00:14:50.880 --> 00:14:54.680
+you, Claude is only as good as the input
+
+00:14:54.085 --> 00:14:57.240
+[music]
+
+00:14:54.680 --> 00:14:59.560
+you give it. But the superusers who get
+
+00:14:57.240 --> 00:15:02.120
+exceptional output from Claude, [music]
+
+00:14:59.560 --> 00:15:04.480
+they direct Claude the way they would
+
+00:15:02.120 --> 00:15:06.360
+direct a smart person they've just
+
+00:15:04.480 --> 00:15:09.150
+hired. [music] And the easiest way to do
+
+00:15:06.360 --> 00:15:09.160
+that is a framework I call Prime.
+
+00:15:09.150 --> 00:15:11.960
+>> [music]
+
+00:15:09.160 --> 00:15:13.735
+>> P is purpose. When you prompt Claude,
+
+00:15:11.960 --> 00:15:13.839
+give it a precise goal.
+
+00:15:13.735 --> 00:15:16.760
+>> [music]
+
+00:15:13.839 --> 00:15:19.200
+>> Tell it what you need it to do, like
+
+00:15:16.760 --> 00:15:22.250
+help me turn this messy proposal into a
+
+00:15:19.200 --> 00:15:25.280
+five-part organized document that looks
+
+00:15:22.250 --> 00:15:27.360
+[music] like a sharp client memo. R is
+
+00:15:25.280 --> 00:15:30.040
+research. We talked about it before. In
+
+00:15:27.360 --> 00:15:33.520
+many cases, you may need external
+
+00:15:30.040 --> 00:15:35.680
+research to ground the response. Ask it
+
+00:15:33.520 --> 00:15:37.840
+to go out and fetch it for you. Ask it
+
+00:15:35.680 --> 00:15:40.520
+to verify it. And sometimes the raw
+
+00:15:37.840 --> 00:15:43.120
+material may come from you, your notes,
+
+00:15:40.520 --> 00:15:45.440
+transcripts, files, [music] examples,
+
+00:15:43.120 --> 00:15:47.795
+background, constraints,
+
+00:15:45.440 --> 00:15:49.960
+anything that Claude needs so that
+
+00:15:47.795 --> 00:15:53.000
+[music] it can stop hallucinating or
+
+00:15:49.960 --> 00:15:55.720
+guessing. I is for interview. This is
+
+00:15:53.000 --> 00:15:56.310
+the hidden gem. I really like how Claude
+
+00:15:55.720 --> 00:15:56.680
+does it.
+
+00:15:56.310 --> 00:15:59.120
+>> [music]
+
+00:15:56.680 --> 00:16:01.520
+>> In a lot of cases, you'll see that it
+
+00:15:59.120 --> 00:16:03.560
+will start asking you multiple-choice
+
+00:16:01.520 --> 00:16:05.840
+questions. And [music] you pick the
+
+00:16:03.560 --> 00:16:08.600
+right choice, and based on what you
+
+00:16:05.840 --> 00:16:11.240
+clicked, it refines its approach [music]
+
+00:16:08.600 --> 00:16:13.760
+to a specific way of responding to you.
+
+00:16:11.240 --> 00:16:17.926
+M is for mechanics. Here, you tell
+
+00:16:13.760 --> 00:16:18.000
+Claude how the output should look like.
+
+00:16:17.926 --> 00:16:21.560
+>> [music]
+
+00:16:18.000 --> 00:16:23.821
+>> Do you want bullets or a paragraph? Do
+
+00:16:21.560 --> 00:16:25.720
+you want a document or a table? Do you
+
+00:16:23.821 --> 00:16:28.880
+[music] want it concise or you want
+
+00:16:25.720 --> 00:16:30.380
+detail? Strategic or conversational?
+
+00:16:28.880 --> 00:16:33.240
+Anything you choose. And finally,
+
+00:16:30.380 --> 00:16:36.120
+[music] E is for examples. Show Claude
+
+00:16:33.240 --> 00:16:39.541
+what good looks like, a format you liked
+
+00:16:36.120 --> 00:16:42.240
+or a tone reference or an outline that
+
+00:16:39.541 --> 00:16:45.240
+[music] worked before. Examples are one
+
+00:16:42.240 --> 00:16:47.080
+of the fastest ways to quality. Let's go
+
+00:16:45.240 --> 00:16:48.600
+through an example. You have an
+
+00:16:47.080 --> 00:16:50.000
+important presentation coming up
+
+00:16:48.600 --> 00:16:52.400
+tomorrow.
+
+00:16:50.000 --> 00:16:55.000
+Run it through prime. Purpose. [music]
+
+00:16:52.400 --> 00:16:57.360
+What is this meeting really for? Do you
+
+00:16:55.000 --> 00:16:59.600
+need an approval, alignment? [music]
+
+00:16:57.360 --> 00:17:02.360
+Are you asking for resources? What is
+
+00:16:59.600 --> 00:17:04.760
+the outcome you really want? Research.
+
+00:17:02.360 --> 00:17:06.439
+Give Claude the context. What's the
+
+00:17:04.760 --> 00:17:09.319
+audience like, the risks, [music] the
+
+00:17:06.439 --> 00:17:11.680
+data, what your team cares about,
+
+00:17:09.319 --> 00:17:13.360
+external resources, internal docs,
+
+00:17:11.680 --> 00:17:15.640
+anything you can [music] get. Interview.
+
+00:17:13.360 --> 00:17:17.839
+So, tell Claude, "Interview me before
+
+00:17:15.640 --> 00:17:18.841
+you respond." Now, it will ask you
+
+00:17:17.839 --> 00:17:18.920
+questions
+
+00:17:18.841 --> 00:17:21.640
+>> [music]
+
+00:17:18.920 --> 00:17:23.760
+>> that sharpen its own scope and your
+
+00:17:21.640 --> 00:17:25.280
+thinking mechanics. Now you know the
+
+00:17:23.760 --> 00:17:28.199
+output of that deliverable. [music]
+
+00:17:25.280 --> 00:17:30.080
+You want a 10 slide deck and talking
+
+00:17:28.199 --> 00:17:32.520
+points. And finally, examples. [music]
+
+00:17:30.080 --> 00:17:35.217
+Give it a past deck that you liked or
+
+00:17:32.520 --> 00:17:38.200
+style you admire. So that is prime.
+
+00:17:35.217 --> 00:17:40.480
+[music] Once you start doing that, AI
+
+00:17:38.200 --> 00:17:43.120
+stops being a tool and starts [music]
+
+00:17:40.480 --> 00:17:45.120
+becoming your edge. And by the way, if
+
+00:17:43.120 --> 00:17:46.920
+you want the frameworks like these in
+
+00:17:45.120 --> 00:17:48.960
+your inbox, subscribe [music]
+
+00:17:46.920 --> 00:17:51.000
+to my newsletter. The link is below
+
+00:17:48.960 --> 00:17:55.040
+somewhere. I mean it's free.
+
+00:17:51.000 --> 00:17:56.760
+The real edge is the human using it.
+
+00:17:55.040 --> 00:18:00.000
+Everyone watching [music] this feels
+
+00:17:56.760 --> 00:18:01.440
+like someone else is getting ahead
+
+00:18:00.000 --> 00:18:04.040
+faster.
+
+00:18:01.440 --> 00:18:06.002
+That they are smarter or they are richer
+
+00:18:04.040 --> 00:18:06.520
+or they have better resources.
+
+00:18:06.002 --> 00:18:09.600
+>> [music]
+
+00:18:06.520 --> 00:18:12.520
+>> I know I feel like that sometimes. That
+
+00:18:09.600 --> 00:18:14.640
+is the default condition of ambition.
+
+00:18:12.520 --> 00:18:17.040
+The question is not whether you were
+
+00:18:14.640 --> 00:18:19.720
+outgunned. The question is how you
+
+00:18:17.040 --> 00:18:22.800
+outshine when you are. You have been
+
+00:18:19.720 --> 00:18:24.440
+carrying labels for years. I am not
+
+00:18:22.800 --> 00:18:28.080
+technical.
+
+00:18:24.440 --> 00:18:31.880
+I'm not a designer. I don't have an MBA.
+
+00:18:28.080 --> 00:18:35.080
+But those are just labels. For $20 a
+
+00:18:31.880 --> 00:18:38.120
+month, you can hire something that is
+
+00:18:35.080 --> 00:18:40.717
+already better than most MBAs and PhDs
+
+00:18:38.120 --> 00:18:42.680
+now. You can think more sharply with it.
+
+00:18:40.717 --> 00:18:45.600
+[music] You can design better. You can
+
+00:18:42.680 --> 00:18:47.922
+code. You can build. But do you have the
+
+00:18:45.600 --> 00:18:48.360
+curiosity to keep learning?
+
+00:18:47.922 --> 00:18:51.440
+>> [music]
+
+00:18:48.360 --> 00:18:53.520
+>> The the tenacity to get through that
+
+00:18:51.440 --> 00:18:54.480
+machine friction.
+
+00:18:53.520 --> 00:18:58.000
+The patience [music]
+
+00:18:54.480 --> 00:18:59.640
+to build real capabilities. Or will you
+
+00:18:58.000 --> 00:19:02.720
+slowly replace [music]
+
+00:18:59.640 --> 00:19:06.263
+real effort with convenience
+
+00:19:02.720 --> 00:19:06.520
+and lose your instinct to wonder?
+
+00:19:06.263 --> 00:19:09.960
+>> [music]
+
+00:19:06.520 --> 00:19:12.158
+>> AI will give you a lot of things. But
+
+00:19:09.960 --> 00:19:12.440
+what AI can't give you
+
+00:19:12.158 --> 00:19:15.480
+>> [music]
+
+00:19:12.440 --> 00:19:17.040
+>> is that innate curiosity that made you
+
+00:19:15.480 --> 00:19:19.160
+press play
+
+00:19:17.040 --> 00:19:21.280
+on this video.
+
+00:19:19.160 --> 00:19:24.120
+And you already have it.
+
+00:19:21.280 --> 00:19:26.200
+As one of my mentors used to say,
+
+00:19:24.120 --> 00:19:27.680
+"You are the one you've been waiting
+
+00:19:26.200 --> 00:19:28.920
+for."
+
+00:19:27.680 --> 00:19:31.600
+Thank you.
+
+00:19:28.920 --> 00:19:31.600
+And I love you.
+

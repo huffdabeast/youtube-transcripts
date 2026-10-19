@@ -1,0 +1,7190 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:05.040
+I'm going to vibe code an app and try to
+
+00:00:02.800 --> 00:00:06.960
+find paying customers live without
+
+00:00:05.040 --> 00:00:08.880
+leveraging my audience. So, anyone in
+
+00:00:06.960 --> 00:00:11.360
+the world that has access to a $20 a
+
+00:00:08.880 --> 00:00:12.960
+month vibe coding app should and could
+
+00:00:11.360 --> 00:00:15.679
+be able to do exactly what I'm about to
+
+00:00:12.960 --> 00:00:16.960
+do and show you no holds barred. So, if
+
+00:00:15.679 --> 00:00:19.520
+you don't know what vibe coding means,
+
+00:00:16.960 --> 00:00:21.439
+it means using natural language like I'm
+
+00:00:19.520 --> 00:00:23.519
+using as I'm speaking right now to code
+
+00:00:21.439 --> 00:00:25.359
+an app without any coding knowledge. I
+
+00:00:23.519 --> 00:00:27.119
+don't have a computer science degree. I
+
+00:00:25.359 --> 00:00:29.279
+don't know what HTML stands for or
+
+00:00:27.119 --> 00:00:30.720
+means. I can't make a website if it's
+
+00:00:29.279 --> 00:00:32.160
+not using something like Wix or
+
+00:00:30.720 --> 00:00:33.920
+Squarespace. I have no coding
+
+00:00:32.160 --> 00:00:35.440
+experience, but you don't need it
+
+00:00:33.920 --> 00:00:38.079
+anymore, right? You can do whatever you
+
+00:00:35.440 --> 00:00:39.440
+want. So, thank you, AI. Here's my idea
+
+00:00:38.079 --> 00:00:41.040
+for the app. I have a leadership
+
+00:00:39.440 --> 00:00:42.480
+position in my church. I'm a member of
+
+00:00:41.040 --> 00:00:44.320
+the Church of Jesus Christ of Latter-day
+
+00:00:42.480 --> 00:00:46.399
+Saints. And every now and then, we do
+
+00:00:44.320 --> 00:00:48.960
+fun activities with the youth. We have
+
+00:00:46.399 --> 00:00:51.440
+like 60 or 70 youth in our in our
+
+00:00:48.960 --> 00:00:53.680
+congregation, also called a ward. And
+
+00:00:51.440 --> 00:00:56.079
+when we do an activity, we need everyone
+
+00:00:53.680 --> 00:00:57.680
+to sign liability waiverss. But you're
+
+00:00:56.079 --> 00:01:00.480
+not liable if in case something bad
+
+00:00:57.680 --> 00:01:02.320
+happens. So this is a pain because we're
+
+00:01:00.480 --> 00:01:03.680
+sending out PDFs. They have to fill it
+
+00:01:02.320 --> 00:01:05.360
+out. Sometimes they have to print it,
+
+00:01:03.680 --> 00:01:08.240
+sign it, bring it to the activity. It
+
+00:01:05.360 --> 00:01:10.960
+gets lost, you know, on the floor of
+
+00:01:08.240 --> 00:01:12.799
+your truck. And if a kid doesn't bring
+
+00:01:10.960 --> 00:01:15.119
+it to an activity, we usually don't turn
+
+00:01:12.799 --> 00:01:17.119
+them away because we don't want to. So
+
+00:01:15.119 --> 00:01:18.240
+either we take a risk or we put a bunch
+
+00:01:17.119 --> 00:01:20.479
+of people through a bunch of friction
+
+00:01:18.240 --> 00:01:22.320
+and it's just annoying. So do solutions
+
+00:01:20.479 --> 00:01:24.560
+for this exist yet? Kind of. There are
+
+00:01:22.320 --> 00:01:27.119
+waiver tools, liability waiver tools in
+
+00:01:24.560 --> 00:01:28.720
+DocYsine and e- signature tools, but
+
+00:01:27.119 --> 00:01:31.119
+they're all cumbersome and none of them
+
+00:01:28.720 --> 00:01:33.520
+are niched down enough for this use
+
+00:01:31.119 --> 00:01:35.439
+case. So, I'm going to build a solution
+
+00:01:33.520 --> 00:01:37.680
+to a problem that I actually have today.
+
+00:01:35.439 --> 00:01:39.840
+And I will be my own customer. But
+
+00:01:37.680 --> 00:01:41.600
+that's not good enough for this video. I
+
+00:01:39.840 --> 00:01:43.439
+want to find a paying customer by the
+
+00:01:41.600 --> 00:01:44.880
+end of this video if at all possible.
+
+00:01:43.439 --> 00:01:46.240
+Not from one of the people watching
+
+00:01:44.880 --> 00:01:48.720
+this, although that'd be great. I would
+
+00:01:46.240 --> 00:01:50.399
+love your money, but I specifically
+
+00:01:48.720 --> 00:01:51.680
+don't want to use or leverage my
+
+00:01:50.399 --> 00:01:53.200
+audience to find a paying customer
+
+00:01:51.680 --> 00:01:55.360
+because I want this video to be as
+
+00:01:53.200 --> 00:01:58.000
+realistic and approachable as possible
+
+00:01:55.360 --> 00:01:59.600
+to as many people as possible. So, I'm
+
+00:01:58.000 --> 00:02:01.280
+going to use some other tactics that I
+
+00:01:59.600 --> 00:02:02.640
+know to try to find customers and I'm
+
+00:02:01.280 --> 00:02:03.680
+going to share my screen. You're going
+
+00:02:02.640 --> 00:02:05.439
+to watch my prompts. You're going to
+
+00:02:03.680 --> 00:02:07.040
+watch everything I do. Facebook ads,
+
+00:02:05.439 --> 00:02:08.319
+Reddit, whatever it takes. I'm just
+
+00:02:07.040 --> 00:02:10.479
+going to build this live and hopefully
+
+00:02:08.319 --> 00:02:12.000
+it's entertaining and engaging. So, so I
+
+00:02:10.479 --> 00:02:13.599
+told you the idea, the problem that I'm
+
+00:02:12.000 --> 00:02:15.280
+solving. Okay, I need to think of some
+
+00:02:13.599 --> 00:02:17.440
+names. So, I was thinking of names with
+
+00:02:15.280 --> 00:02:19.360
+the word waiver in it. Okay. I like
+
+00:02:17.440 --> 00:02:22.160
+domain names that are dotcoms
+
+00:02:19.360 --> 00:02:24.000
+preferably, notai.net.online
+
+00:02:22.160 --> 00:02:26.800
+is cool because it's kind of a newer
+
+00:02:24.000 --> 00:02:28.560
+tldd ending, but I prefer.coms. So,
+
+00:02:26.800 --> 00:02:30.560
+waiver this, waiver that. I don't want
+
+00:02:28.560 --> 00:02:33.440
+more than like three or four syllables,
+
+00:02:30.560 --> 00:02:36.720
+simple, whatever. And so, I'm going to
+
+00:02:33.440 --> 00:02:38.720
+share my screen, sign into my NameCheep
+
+00:02:36.720 --> 00:02:40.959
+account real quickly, because that is
+
+00:02:38.720 --> 00:02:42.640
+what I use to buy domain names. And I'm
+
+00:02:40.959 --> 00:02:44.640
+going to buy the domain name for this
+
+00:02:42.640 --> 00:02:47.360
+business right here in front of you. I'm
+
+00:02:44.640 --> 00:02:48.879
+on namecheep. This is what I'm buying.
+
+00:02:47.360 --> 00:02:51.840
+Onlywavers.com.
+
+00:02:48.879 --> 00:02:54.160
+Done. Onlywavers.com. It's a $12 domain
+
+00:02:51.840 --> 00:02:56.239
+name. Four syllables. Easy to spell.
+
+00:02:54.160 --> 00:02:59.120
+Easy to remember. Does it pigeon hole me
+
+00:02:56.239 --> 00:03:00.640
+into only one thing? Yeah, kind of. But
+
+00:02:59.120 --> 00:03:02.560
+it is what it is. So that's what we're
+
+00:03:00.640 --> 00:03:07.440
+going to go with. Onlywavers.com. There
+
+00:03:02.560 --> 00:03:10.720
+we are. I'm going to go here. And this
+
+00:03:07.440 --> 00:03:13.760
+is my replet account. So, Replet is one
+
+00:03:10.720 --> 00:03:16.400
+of several vibe coding tools, an AI tool
+
+00:03:13.760 --> 00:03:19.599
+built on top of an LLM, large language
+
+00:03:16.400 --> 00:03:21.360
+model like OpenAI's Chat GBT or Grock or
+
+00:03:19.599 --> 00:03:23.760
+Gemini or Claude. Those are the big
+
+00:03:21.360 --> 00:03:25.440
+four. And it enables you to more easily
+
+00:03:23.760 --> 00:03:27.599
+build websites and apps and whatever.
+
+00:03:25.440 --> 00:03:30.319
+So, they just came out with a new
+
+00:03:27.599 --> 00:03:31.680
+product called Replet Agent 4 and it's
+
+00:03:30.319 --> 00:03:34.319
+really, really good. And I'm going to
+
+00:03:31.680 --> 00:03:37.840
+use that to build this app. But before I
+
+00:03:34.319 --> 00:03:40.400
+do that, I want to get a killer prompt
+
+00:03:37.840 --> 00:03:42.799
+to give to Replet so I can save myself
+
+00:03:40.400 --> 00:03:44.400
+some headache down the line. So, I've
+
+00:03:42.799 --> 00:03:46.720
+got my Claude account pulled up right
+
+00:03:44.400 --> 00:03:48.400
+here. The only thing in this chat is I
+
+00:03:46.720 --> 00:03:49.760
+want a vibecoded tool. Help me think
+
+00:03:48.400 --> 00:03:50.879
+through it. It didn't even give me a
+
+00:03:49.760 --> 00:03:52.400
+good name. And then I said, "What about
+
+00:03:50.879 --> 00:03:54.159
+only waiverss.com?" And it's like,
+
+00:03:52.400 --> 00:03:55.440
+"That's too similar to Only Fans." And
+
+00:03:54.159 --> 00:03:57.200
+I'm like, "You're overthinking it.
+
+00:03:55.440 --> 00:03:58.799
+That's a non-issue." So, I bought it.
+
+00:03:57.200 --> 00:04:00.319
+I'm using Fable 5, which is their
+
+00:03:58.799 --> 00:04:02.560
+strongest model. It's also their most
+
+00:04:00.319 --> 00:04:05.519
+expensive model, but I'm a token maxer
+
+00:04:02.560 --> 00:04:07.360
+at my core. Aka, I don't care about like
+
+00:04:05.519 --> 00:04:08.879
+being efficient with token usage. This
+
+00:04:07.360 --> 00:04:10.879
+is the most innovative product the world
+
+00:04:08.879 --> 00:04:12.640
+has ever seen, as in artificial
+
+00:04:10.879 --> 00:04:14.159
+intelligence, and I want to get the most
+
+00:04:12.640 --> 00:04:16.320
+out of it, even if it means like the
+
+00:04:14.159 --> 00:04:17.840
+equivalent of driving a Ferrari to the
+
+00:04:16.320 --> 00:04:19.040
+grocery store. Okay, that's what I'm
+
+00:04:17.840 --> 00:04:22.160
+going to do here. So, I'm going to use
+
+00:04:19.040 --> 00:04:24.639
+Fable 5. Okay, here's my prompt to
+
+00:04:22.160 --> 00:04:26.320
+create a prompt. Now, don't overthink
+
+00:04:24.639 --> 00:04:28.080
+your prompt. A lot of people like, you
+
+00:04:26.320 --> 00:04:29.680
+gotta garbage in, garbage out. You got
+
+00:04:28.080 --> 00:04:31.360
+to have the best prompt ever. Don't
+
+00:04:29.680 --> 00:04:33.759
+overthink it. Any prompt is better than
+
+00:04:31.360 --> 00:04:36.320
+no prompt. And if coming up with the
+
+00:04:33.759 --> 00:04:37.759
+perfect prompt is enough friction to
+
+00:04:36.320 --> 00:04:39.840
+prevent you from actually doing the
+
+00:04:37.759 --> 00:04:41.919
+thing, then just tell it whatever. Okay?
+
+00:04:39.840 --> 00:04:43.680
+I don't actually usually do this for
+
+00:04:41.919 --> 00:04:45.199
+Replet, I usually just tell Replet
+
+00:04:43.680 --> 00:04:47.600
+something like this. But this is just
+
+00:04:45.199 --> 00:04:49.680
+one step further to ensure that I have
+
+00:04:47.600 --> 00:04:51.360
+less back and forth with Replet because
+
+00:04:49.680 --> 00:04:52.880
+the last mile in vibe coding is the
+
+00:04:51.360 --> 00:04:54.960
+hardest part. Picture building a house.
+
+00:04:52.880 --> 00:04:56.720
+We had this house built 10 years ago and
+
+00:04:54.960 --> 00:04:58.080
+we got all the way down to the drywall
+
+00:04:56.720 --> 00:05:00.400
+and the paint and everything and then
+
+00:04:58.080 --> 00:05:02.960
+that the last little bit of making all
+
+00:05:00.400 --> 00:05:05.280
+the changes and stuff took just about as
+
+00:05:02.960 --> 00:05:07.039
+long as everything up until that point.
+
+00:05:05.280 --> 00:05:09.039
+Okay, the last mile is a real thing. And
+
+00:05:07.039 --> 00:05:11.120
+in logistics, delivery, electricity,
+
+00:05:09.039 --> 00:05:12.479
+whatever it is, the literal last mile is
+
+00:05:11.120 --> 00:05:13.919
+the hardest part. The hardest part to
+
+00:05:12.479 --> 00:05:15.360
+figure out, right? That's why Amazon
+
+00:05:13.919 --> 00:05:16.880
+owns, you know, who knows how many
+
+00:05:15.360 --> 00:05:18.400
+thousands of delivery vehicles. It's
+
+00:05:16.880 --> 00:05:20.320
+hard. It's no different with vibe
+
+00:05:18.400 --> 00:05:22.720
+coding. It's hard to find that perfectly
+
+00:05:20.320 --> 00:05:25.680
+finished product. And so a good prompt
+
+00:05:22.720 --> 00:05:27.039
+will make it less hard hopefully. So
+
+00:05:25.680 --> 00:05:29.600
+here's what I'm thinking. It needs to be
+
+00:05:27.039 --> 00:05:31.120
+a SAS from day one. So I'm telling
+
+00:05:29.600 --> 00:05:32.880
+Replet I'm not just building this for
+
+00:05:31.120 --> 00:05:35.280
+myself although I am. I'm building this
+
+00:05:32.880 --> 00:05:37.759
+to resell. Someone tells the app the
+
+00:05:35.280 --> 00:05:40.000
+name and date of an event in mind mind.
+
+00:05:37.759 --> 00:05:43.520
+Okay. That person has the option if they
+
+00:05:40.000 --> 00:05:45.759
+want to upload a PDF someone of the
+
+00:05:43.520 --> 00:05:47.759
+actual waiver for the app to emulate. If
+
+00:05:45.759 --> 00:05:49.440
+certain fields have to be there as
+
+00:05:47.759 --> 00:05:50.800
+required by the organization the person
+
+00:05:49.440 --> 00:05:52.560
+represents. A link will generate that
+
+00:05:50.800 --> 00:05:54.080
+can be sent to any number of people.
+
+00:05:52.560 --> 00:05:55.840
+When people get the link, they will add
+
+00:05:54.080 --> 00:05:57.600
+the name of the person or people that
+
+00:05:55.840 --> 00:05:59.520
+need to be on the waiver. Maybe an adult
+
+00:05:57.600 --> 00:06:01.039
+or maybe an adult signing for kids. And
+
+00:05:59.520 --> 00:06:02.880
+all the link recipient has to do is add
+
+00:06:01.039 --> 00:06:04.160
+a name and tap to sign. Dead see simple.
+
+00:06:02.880 --> 00:06:05.600
+And then the link sender will have
+
+00:06:04.160 --> 00:06:07.280
+signed digital copies from each person
+
+00:06:05.600 --> 00:06:08.960
+in their admin login. The recipient
+
+00:06:07.280 --> 00:06:11.039
+doesn't need a login, but the person in
+
+00:06:08.960 --> 00:06:12.560
+charge of the event does. If the person
+
+00:06:11.039 --> 00:06:14.319
+sending the link doesn't have a waiver
+
+00:06:12.560 --> 00:06:16.080
+PDF to upload, then the app will provide
+
+00:06:14.319 --> 00:06:18.319
+a generic but protective one. It will
+
+00:06:16.080 --> 00:06:21.440
+use a Stripe API for payment and only
+
+00:06:18.319 --> 00:06:22.560
+costs $13 per year to use one plan, no
+
+00:06:21.440 --> 00:06:23.840
+free plan. Keep it simple. The
+
+00:06:22.560 --> 00:06:24.880
+confirmation deals have links back to
+
+00:06:23.840 --> 00:06:26.720
+the product for viral referral
+
+00:06:24.880 --> 00:06:28.000
+marketing. Use Send Grid for the emails.
+
+00:06:26.720 --> 00:06:29.680
+Let people get all the way up to
+
+00:06:28.000 --> 00:06:31.360
+generating the link before they have to
+
+00:06:29.680 --> 00:06:32.960
+pay, but also don't hide the pricing
+
+00:06:31.360 --> 00:06:34.160
+page or anything. So, I don't want to be
+
+00:06:32.960 --> 00:06:35.919
+a bait and switch. I don't want people
+
+00:06:34.160 --> 00:06:37.919
+to think it's free and then have to pay
+
+00:06:35.919 --> 00:06:40.240
+to send it. But I also want to remove
+
+00:06:37.919 --> 00:06:42.400
+all the friction of getting them to make
+
+00:06:40.240 --> 00:06:44.319
+the link. And then, you know, it's the
+
+00:06:42.400 --> 00:06:46.960
+uh the sunk cost fallacy. They've
+
+00:06:44.319 --> 00:06:48.400
+invested 5 minutes into making the link,
+
+00:06:46.960 --> 00:06:49.919
+typing in the name of the event. Really,
+
+00:06:48.400 --> 00:06:52.240
+more like 2 minutes. And so, once I've
+
+00:06:49.919 --> 00:06:54.800
+done that, like, oh, it's $13 per year.
+
+00:06:52.240 --> 00:06:58.000
+Oh, I might make it like $20 lifetime as
+
+00:06:54.800 --> 00:06:59.840
+well or $15 lifetime. I don't want to
+
+00:06:58.000 --> 00:07:01.360
+waste the time and the effort that I
+
+00:06:59.840 --> 00:07:02.240
+just put into this, even if it's only 2
+
+00:07:01.360 --> 00:07:04.560
+minutes. So, I'm going to go ahead and
+
+00:07:02.240 --> 00:07:06.800
+pay. But I do like that idea to make it
+
+00:07:04.560 --> 00:07:08.720
+$17 for lifetime. Okay, another
+
+00:07:06.800 --> 00:07:10.960
+important thing. I'm not just telling it
+
+00:07:08.720 --> 00:07:13.520
+it's for Replet, but it's for Replet
+
+00:07:10.960 --> 00:07:15.360
+agent 4. Okay, because Claude knows how
+
+00:07:13.520 --> 00:07:16.720
+these tools talk to each other. And
+
+00:07:15.360 --> 00:07:18.800
+Replet agent 4 is built on top of
+
+00:07:16.720 --> 00:07:20.880
+Claude. So, we're kind of using the same
+
+00:07:18.800 --> 00:07:22.560
+tool here. I could use Claude Code to
+
+00:07:20.880 --> 00:07:24.160
+build this, but as soon as you start
+
+00:07:22.560 --> 00:07:26.000
+talking about like a terminal and all
+
+00:07:24.160 --> 00:07:27.680
+that stuff, like you've lost me. Cloud
+
+00:07:26.000 --> 00:07:29.280
+code is not too technical, but for me,
+
+00:07:27.680 --> 00:07:32.000
+it's technical enough for me to not want
+
+00:07:29.280 --> 00:07:33.440
+to use it. Okay. So, tell your prompt
+
+00:07:32.000 --> 00:07:35.039
+the name of the app that you're using to
+
+00:07:33.440 --> 00:07:36.960
+vibe code. There's a pro tip right
+
+00:07:35.039 --> 00:07:38.800
+there. So, let's go. Let's do this. I
+
+00:07:36.960 --> 00:07:41.120
+should have told it definitively that
+
+00:07:38.800 --> 00:07:42.639
+this is called only waivers, but I
+
+00:07:41.120 --> 00:07:44.960
+didn't. All right. Let's go to the
+
+00:07:42.639 --> 00:07:48.800
+output here. Replet agent prompt waiver
+
+00:07:44.960 --> 00:07:52.400
+signing SAS. Okay. Add in that it's
+
+00:07:48.800 --> 00:07:54.720
+called only waivers. Okay. Let's see
+
+00:07:52.400 --> 00:07:56.400
+what it says before the prompt. 13 a
+
+00:07:54.720 --> 00:07:58.400
+year versus 17 lifetime means everyone
+
+00:07:56.400 --> 00:07:59.520
+picks lifetime. You're selling whatever.
+
+00:07:58.400 --> 00:08:01.599
+I don't care, dude. I know what I'm
+
+00:07:59.520 --> 00:08:03.280
+doing, okay? I mean, in a sense I do, in
+
+00:08:01.599 --> 00:08:05.360
+a sense, I don't. But that's fine. My
+
+00:08:03.280 --> 00:08:07.360
+bet is that people need this for onetime
+
+00:08:05.360 --> 00:08:10.319
+use. We have subscription fatigue, so
+
+00:08:07.360 --> 00:08:13.120
+I'd rather get $17 than $0 from them.
+
+00:08:10.319 --> 00:08:14.960
+And whatever. If a month from now I
+
+00:08:13.120 --> 00:08:16.240
+decide to do away with a $17 lifetime,
+
+00:08:14.960 --> 00:08:17.280
+I'll do away with it. And people who
+
+00:08:16.240 --> 00:08:18.560
+already got it, they'll be
+
+00:08:17.280 --> 00:08:20.160
+grandfathering. I'm not going to take it
+
+00:08:18.560 --> 00:08:22.479
+away from them. But they're going to be
+
+00:08:20.160 --> 00:08:23.919
+rewarded for trusting me early. So Tap
+
+00:08:22.479 --> 00:08:26.080
+Design is worthless without an audit
+
+00:08:23.919 --> 00:08:27.759
+trail IP address. Okay, this is a whole
+
+00:08:26.080 --> 00:08:29.759
+product. So it's in there. Perfect. See,
+
+00:08:27.759 --> 00:08:31.520
+if I would have prompted Replet, Replet
+
+00:08:29.759 --> 00:08:33.919
+may not have added the actual legal
+
+00:08:31.520 --> 00:08:35.760
+stuff that makes this legally binding,
+
+00:08:33.919 --> 00:08:37.519
+but Claude knew to minor language.
+
+00:08:35.760 --> 00:08:40.080
+That's good. PDF emulation hardest to
+
+00:08:37.519 --> 00:08:42.159
+build. Okay. Sign PDF generate link
+
+00:08:40.080 --> 00:08:43.839
+expiration so dead links don't pile up.
+
+00:08:42.159 --> 00:08:46.240
+When it finishes, test the definition of
+
+00:08:43.839 --> 00:08:48.320
+done checklist. Use Stripe test mode
+
+00:08:46.240 --> 00:08:51.680
+until the signer flow is bulletproof.
+
+00:08:48.320 --> 00:08:53.519
+Okay. Add a branding section. Okay. So,
+
+00:08:51.680 --> 00:08:55.920
+we're going to pull this up in Google
+
+00:08:53.519 --> 00:08:58.000
+Drive. Here it is. I'm just going to
+
+00:08:55.920 --> 00:09:00.160
+control alt controlcopy. Then let's go
+
+00:08:58.000 --> 00:09:02.000
+back over to replet. So we're going to
+
+00:09:00.160 --> 00:09:03.760
+go to replet. I'm going to paste in the
+
+00:09:02.000 --> 00:09:05.279
+prompt right there. I'm going to zoom in
+
+00:09:03.760 --> 00:09:09.360
+so you guys can see better. And then
+
+00:09:05.279 --> 00:09:11.680
+we're going to go cloud fable 5 default.
+
+00:09:09.360 --> 00:09:14.240
+Perfect. And I think it's using agent 4
+
+00:09:11.680 --> 00:09:17.200
+by default, but just to be sure. Okay,
+
+00:09:14.240 --> 00:09:20.560
+here we go. Use agent 4 for this. Go.
+
+00:09:17.200 --> 00:09:22.720
+Here we go. So this is building my app
+
+00:09:20.560 --> 00:09:24.160
+right now. Brought in the API contract.
+
+00:09:22.720 --> 00:09:27.279
+critical path to getting the front-end
+
+00:09:24.160 --> 00:09:28.800
+build started. While this is happening,
+
+00:09:27.279 --> 00:09:30.480
+I'm not going to rest on my laurels
+
+00:09:28.800 --> 00:09:33.839
+here. Pun intended. If you know, you
+
+00:09:30.480 --> 00:09:35.600
+know. I'm going to start seeing if I can
+
+00:09:33.839 --> 00:09:37.760
+make ads for this before it's even done
+
+00:09:35.600 --> 00:09:39.839
+because what do I always say? Sell it
+
+00:09:37.760 --> 00:09:41.519
+before you have it. I'm going to go back
+
+00:09:39.839 --> 00:09:44.399
+to cloud, a different cloud window
+
+00:09:41.519 --> 00:09:47.519
+because just yesterday I installed the
+
+00:09:44.399 --> 00:09:49.279
+Facebook ads MCP. Let me explain MCPS
+
+00:09:47.519 --> 00:09:51.120
+model context protocol. I don't know
+
+00:09:49.279 --> 00:09:53.040
+what that means at all, but I can
+
+00:09:51.120 --> 00:09:54.800
+explain what an MCP does. Okay, so
+
+00:09:53.040 --> 00:09:57.040
+imagine all the magic of ChatGpt or
+
+00:09:54.800 --> 00:09:58.959
+Claude inside any tool you use on a
+
+00:09:57.040 --> 00:10:01.519
+regular basis. For instance, I use
+
+00:09:58.959 --> 00:10:04.320
+Mercury for my banking and I can go into
+
+00:10:01.519 --> 00:10:06.080
+ChatGpt or Claude and connect Mercury.
+
+00:10:04.320 --> 00:10:08.560
+Just link it together. That's it. That's
+
+00:10:06.080 --> 00:10:10.480
+an MCP, but really I'm just tying them
+
+00:10:08.560 --> 00:10:11.839
+together. And then I go, "Hey Claude,
+
+00:10:10.480 --> 00:10:13.680
+where is my spending out of control?"
+
+00:10:11.839 --> 00:10:14.800
+And it's going to go look in my Mercury
+
+00:10:13.680 --> 00:10:16.640
+account because I gave it that
+
+00:10:14.800 --> 00:10:18.560
+permission. And I can give it readon
+
+00:10:16.640 --> 00:10:20.320
+permissions, write permissions if I want
+
+00:10:18.560 --> 00:10:22.079
+it to start sending wires for me. I
+
+00:10:20.320 --> 00:10:23.600
+don't. And Claude would say, "Your
+
+00:10:22.079 --> 00:10:25.600
+Chipotle habit's out of control. You're
+
+00:10:23.600 --> 00:10:27.360
+spending $16 a day at Chipotle. You need
+
+00:10:25.600 --> 00:10:29.279
+to get that fixed or whatever." Or,
+
+00:10:27.360 --> 00:10:30.720
+"Your anthropic addiction is out of
+
+00:10:29.279 --> 00:10:33.920
+control. You're giving me way too much
+
+00:10:30.720 --> 00:10:35.839
+money." And so MCPs are incredible. I
+
+00:10:33.920 --> 00:10:37.440
+got a quote to make an email automation
+
+00:10:35.839 --> 00:10:39.200
+for my behalf newsletter. It was a
+
+00:10:37.440 --> 00:10:41.040
+$10,000 quote. It's a pretty complex
+
+00:10:39.200 --> 00:10:42.560
+automation. It's something that I could
+
+00:10:41.040 --> 00:10:43.680
+do myself, but I'm not great at, and it
+
+00:10:42.560 --> 00:10:45.200
+would take a few hours, and I didn't
+
+00:10:43.680 --> 00:10:46.959
+want to. I got a $10,000 quote and then
+
+00:10:45.200 --> 00:10:49.440
+I'm like, hm, I wonder if the MCP could
+
+00:10:46.959 --> 00:10:51.360
+do it. So, I connected Beehive to Claude
+
+00:10:49.440 --> 00:10:53.600
+and I said, make this email automation
+
+00:10:51.360 --> 00:10:55.279
+based on first principles of nurture
+
+00:10:53.600 --> 00:10:57.120
+sequences. And I just explained kind of
+
+00:10:55.279 --> 00:10:59.519
+what I wanted it to look like and it was
+
+00:10:57.120 --> 00:11:01.120
+done, right? It's like vibe coding and
+
+00:10:59.519 --> 00:11:03.360
+automation in a completely different
+
+00:11:01.120 --> 00:11:05.120
+product, but within cloud or within chat
+
+00:11:03.360 --> 00:11:08.160
+GPD. It is absolutely magical. So,
+
+00:11:05.120 --> 00:11:10.320
+Facebook ads has an official MCP, which
+
+00:11:08.160 --> 00:11:11.839
+is a game changer because Facebook ads
+
+00:11:10.320 --> 00:11:13.040
+are kind of hard to set up if you've
+
+00:11:11.839 --> 00:11:15.120
+never done it before. There's like
+
+00:11:13.040 --> 00:11:16.480
+what's a campaign, an ad set, an ad?
+
+00:11:15.120 --> 00:11:18.240
+What's the difference between that? Do I
+
+00:11:16.480 --> 00:11:19.440
+want Facebook to choose my audience? Do
+
+00:11:18.240 --> 00:11:21.040
+I want to choose it? Do I want on the
+
+00:11:19.440 --> 00:11:22.240
+right side of the screen Facebook reels?
+
+00:11:21.040 --> 00:11:23.680
+I didn't even know that existed.
+
+00:11:22.240 --> 00:11:25.760
+Instagram reels? You don't need to know
+
+00:11:23.680 --> 00:11:28.399
+any of that stuff because the best
+
+00:11:25.760 --> 00:11:30.240
+expert in the world at Facebook ads, aka
+
+00:11:28.399 --> 00:11:32.320
+AI, the most expensive person that you
+
+00:11:30.240 --> 00:11:34.000
+could ever hire is now 20 bucks a month,
+
+00:11:32.320 --> 00:11:36.240
+right? You don't need to hire an agency.
+
+00:11:34.000 --> 00:11:38.079
+So, I am going to say, and you don't
+
+00:11:36.240 --> 00:11:40.560
+usually need to tell it to use X, Y, or
+
+00:11:38.079 --> 00:11:42.000
+Z MCP, but I do just to make sure that
+
+00:11:40.560 --> 00:11:44.000
+it does it. So if you look at
+
+00:11:42.000 --> 00:11:45.680
+connectors, these are the MCPs that I've
+
+00:11:44.000 --> 00:11:47.680
+connected to cloud. Beehive, choros,
+
+00:11:45.680 --> 00:11:49.519
+which is my watch, it's like a Garmin.
+
+00:11:47.680 --> 00:11:51.120
+Fathom which is an AI noteaker, Facebook
+
+00:11:49.519 --> 00:11:53.040
+ads, function health where my blood
+
+00:11:51.120 --> 00:11:54.640
+draws go, go high level, Gmail, Google
+
+00:11:53.040 --> 00:11:56.959
+calendar, Google Drive, Gusto for
+
+00:11:54.640 --> 00:11:59.120
+payroll, Higsfield for AI content,
+
+00:11:56.959 --> 00:12:01.120
+Kubber for net worth tracker, Mercury
+
+00:11:59.120 --> 00:12:02.560
+bank account, Plaude for this pendant
+
+00:12:01.120 --> 00:12:04.480
+that I'm wearing under my shirt that
+
+00:12:02.560 --> 00:12:06.480
+records everything, Robin Hood, we all
+
+00:12:04.480 --> 00:12:09.279
+know what Robin Hood is, Stripe, Type
+
+00:12:06.480 --> 00:12:11.839
+Form, Zapier, yada yada yada. Okay. So,
+
+00:12:09.279 --> 00:12:13.440
+I'm going to say, you know what? What am
+
+00:12:11.839 --> 00:12:15.839
+I doing? What am I doing? It would be
+
+00:12:13.440 --> 00:12:17.760
+better to go into here and do it in the
+
+00:12:15.839 --> 00:12:22.000
+same chat window. Why wouldn't I? Okay.
+
+00:12:17.760 --> 00:12:23.839
+Let's say 25 to 60.
+
+00:12:22.000 --> 00:12:27.120
+Okay. Let's see. So, now I'm going to go
+
+00:12:23.839 --> 00:12:31.279
+to Google. I'm going to type in LDS
+
+00:12:27.120 --> 00:12:34.800
+liability waiver PDF. And it has the
+
+00:12:31.279 --> 00:12:37.360
+permission and medical release form 2017
+
+00:12:34.800 --> 00:12:38.959
+in the title. So, this is what I'm
+
+00:12:37.360 --> 00:12:40.320
+asking parents to fill out. So, I'm
+
+00:12:38.959 --> 00:12:43.680
+going to download that and I'm going to
+
+00:12:40.320 --> 00:12:45.360
+go back to Claude. Okay. So, Facebook
+
+00:12:43.680 --> 00:12:46.639
+could find the people for this app,
+
+00:12:45.360 --> 00:12:48.240
+right? In fact, Facebook will do a
+
+00:12:46.639 --> 00:12:50.480
+better job at finding paying customers
+
+00:12:48.240 --> 00:12:52.399
+for this app than I will. But Facebook
+
+00:12:50.480 --> 00:12:54.320
+doesn't know that I want to test this
+
+00:12:52.399 --> 00:12:56.399
+audience first. It's very important to
+
+00:12:54.320 --> 00:12:57.839
+me. It doesn't like Facebook has AI.
+
+00:12:56.399 --> 00:12:59.600
+They know way more about this stuff than
+
+00:12:57.839 --> 00:13:01.200
+I'll ever know, but it's not in my head.
+
+00:12:59.600 --> 00:13:03.600
+It doesn't know what I want, right? And
+
+00:13:01.200 --> 00:13:05.600
+it doesn't know that like my knowledge
+
+00:13:03.600 --> 00:13:07.120
+base is based around this problem. I'm
+
+00:13:05.600 --> 00:13:09.360
+trying to skip the line a little bit. I
+
+00:13:07.120 --> 00:13:11.360
+can probably convert other types of
+
+00:13:09.360 --> 00:13:13.360
+people like, you know, the owner of the
+
+00:13:11.360 --> 00:13:15.120
+gymnastics gym or the trampoline park. I
+
+00:13:13.360 --> 00:13:16.959
+can probably convert them cheaper or
+
+00:13:15.120 --> 00:13:19.279
+easier. There might be more of those
+
+00:13:16.959 --> 00:13:20.880
+type of people, but it's not my problem.
+
+00:13:19.279 --> 00:13:22.880
+So, I want to start with the audience
+
+00:13:20.880 --> 00:13:24.560
+that's closest in line with the problem
+
+00:13:22.880 --> 00:13:27.279
+that I'm experience and trying to solve
+
+00:13:24.560 --> 00:13:29.279
+with this product. So, I've never used
+
+00:13:27.279 --> 00:13:31.120
+the Facebook ads MCP before. This is my
+
+00:13:29.279 --> 00:13:32.560
+first time. It might blow up in my face,
+
+00:13:31.120 --> 00:13:35.440
+but we'll see. Now, while that is
+
+00:13:32.560 --> 00:13:38.399
+generating, let's go back to Replet.
+
+00:13:35.440 --> 00:13:39.839
+Okay. Writing the API contract. Okay. I
+
+00:13:38.399 --> 00:13:41.360
+don't know what any of this stuff needs
+
+00:13:39.839 --> 00:13:42.880
+means, but that's okay. We're just going
+
+00:13:41.360 --> 00:13:45.200
+to let it keep going. That's fine. Let's
+
+00:13:42.880 --> 00:13:46.639
+go back to Claude. Okay. Copyrighted by
+
+00:13:45.200 --> 00:13:48.160
+intellectual reserve. You can't ship a
+
+00:13:46.639 --> 00:13:49.839
+clone of it in the product. I'm not
+
+00:13:48.160 --> 00:13:51.440
+trying to do that. Use it as a blueprint
+
+00:13:49.839 --> 00:13:53.760
+for what an LDS friendly template needs
+
+00:13:51.440 --> 00:13:55.600
+to collect. Oh, interesting. Meta killed
+
+00:13:53.760 --> 00:13:58.560
+religion-based detail targeting. There's
+
+00:13:55.600 --> 00:14:01.519
+no BYU LDS living. Yep. Let's do that.
+
+00:13:58.560 --> 00:14:03.600
+Cool. Okay. campaign will be created
+
+00:14:01.519 --> 00:14:04.800
+paused so nothing spends until you
+
+00:14:03.600 --> 00:14:07.920
+review. And I'm going to go ahead and
+
+00:14:04.800 --> 00:14:10.560
+open up meta ads library in um another
+
+00:14:07.920 --> 00:14:13.279
+window just so I can check in on things
+
+00:14:10.560 --> 00:14:14.720
+u myself. Meta ads manager I meant I'm
+
+00:14:13.279 --> 00:14:17.360
+going to share a different screen just
+
+00:14:14.720 --> 00:14:18.480
+because I don't I don't know if it's
+
+00:14:17.360 --> 00:14:21.120
+going to show something that's like
+
+00:14:18.480 --> 00:14:22.800
+personally identifiable. So I'm just
+
+00:14:21.120 --> 00:14:24.639
+going to do that. All right. While this
+
+00:14:22.800 --> 00:14:26.000
+is generating I'm looking at claude
+
+00:14:24.639 --> 00:14:27.760
+right now and it might be like
+
+00:14:26.000 --> 00:14:30.160
+displaying API keys. So, I don't want to
+
+00:14:27.760 --> 00:14:32.079
+show that, but it's creating campaign.
+
+00:14:30.160 --> 00:14:33.839
+It's creating an adset right now. This
+
+00:14:32.079 --> 00:14:36.560
+is pretty dang cool. Let's look at
+
+00:14:33.839 --> 00:14:38.000
+Replet. Oh, Replet's ready. Okay, so
+
+00:14:36.560 --> 00:14:39.920
+it's been like I don't know 10 minutes
+
+00:14:38.000 --> 00:14:42.079
+since we started Replet. Sign waivers.
+
+00:14:39.920 --> 00:14:43.839
+Zero friction. Mobile first waiver
+
+00:14:42.079 --> 00:14:45.279
+signing for events, gyms, and tours. No
+
+00:14:43.839 --> 00:14:47.360
+apps, no accounts, just a link and a
+
+00:14:45.279 --> 00:14:48.880
+signature. Start for free. View pricing.
+
+00:14:47.360 --> 00:14:51.040
+Everything is free until you generate a
+
+00:14:48.880 --> 00:14:53.199
+share link. Okay, you didn't need to say
+
+00:14:51.040 --> 00:14:54.720
+that. You don't need to advertise that.
+
+00:14:53.199 --> 00:14:56.079
+Create an event. Share the link.
+
+00:14:54.720 --> 00:14:57.519
+Collected signatures. I like that.
+
+00:14:56.079 --> 00:15:00.480
+designed for the real world. Insanely
+
+00:14:57.519 --> 00:15:02.560
+fast legal binding, yada yada yada.
+
+00:15:00.480 --> 00:15:04.880
+We're going to go ahead and publish it
+
+00:15:02.560 --> 00:15:07.760
+just because we can. I'm going to go
+
+00:15:04.880 --> 00:15:09.120
+ahead and connect my domain name. So, I
+
+00:15:07.760 --> 00:15:10.560
+just bought this domain name on this
+
+00:15:09.120 --> 00:15:12.880
+live stream. You guys saw me. It's like
+
+00:15:10.560 --> 00:15:15.040
+one of the first things I did. Click
+
+00:15:12.880 --> 00:15:16.959
+this only waiverss. I don't really like
+
+00:15:15.040 --> 00:15:18.399
+using entry. And I'm going to change my
+
+00:15:16.959 --> 00:15:20.160
+screen again because it might show like
+
+00:15:18.399 --> 00:15:22.240
+my username and stuff, but just know
+
+00:15:20.160 --> 00:15:25.040
+that this is like Plaid. It's like an
+
+00:15:22.240 --> 00:15:26.639
+easy integrator for um domain names. So,
+
+00:15:25.040 --> 00:15:30.000
+it wants my namecheep account. I'm going
+
+00:15:26.639 --> 00:15:32.480
+to go to manual setup because that is
+
+00:15:30.000 --> 00:15:34.800
+like that's just what I'm used to. So,
+
+00:15:32.480 --> 00:15:37.600
+I'm going to go to namecheep here. I am
+
+00:15:34.800 --> 00:15:39.360
+not sharing all of my screens right now
+
+00:15:37.600 --> 00:15:41.600
+because there is sensitive stuff going
+
+00:15:39.360 --> 00:15:44.240
+on, but I'm just connecting my domain
+
+00:15:41.600 --> 00:15:48.560
+name right now. A record is going to be
+
+00:15:44.240 --> 00:15:50.720
+that text at that. This is supposed to
+
+00:15:48.560 --> 00:15:53.920
+be the most boring thing ever, but I'm
+
+00:15:50.720 --> 00:15:56.000
+almost done. Okay, I'm sharing my screen
+
+00:15:53.920 --> 00:15:58.560
+back to Replet. You're all set. Only
+
+00:15:56.000 --> 00:16:02.320
+waivers will be successfully connected.
+
+00:15:58.560 --> 00:16:04.880
+Done. Okay, only waiverss now. Like, I
+
+00:16:02.320 --> 00:16:07.120
+really don't like this. We've got to
+
+00:16:04.880 --> 00:16:09.360
+make this public. Right now, it's invite
+
+00:16:07.120 --> 00:16:11.920
+only. We got to make it public. Okay.
+
+00:16:09.360 --> 00:16:14.000
+Thankfully, it's anonymizing my keys
+
+00:16:11.920 --> 00:16:15.680
+right here. We're going to hit publish
+
+00:16:14.000 --> 00:16:17.120
+because the default for replet, even
+
+00:16:15.680 --> 00:16:19.120
+when you click publish, is for it to be
+
+00:16:17.120 --> 00:16:21.199
+a private URL. So, we're fixing that
+
+00:16:19.120 --> 00:16:22.720
+right here. says you got to do it like
+
+00:16:21.199 --> 00:16:25.199
+twice. Kind of weird, kind of annoying,
+
+00:16:22.720 --> 00:16:26.959
+but we're working with what we got. So,
+
+00:16:25.199 --> 00:16:28.720
+let's go back to Claude and see where
+
+00:16:26.959 --> 00:16:30.160
+we're at. And you know what? If you guys
+
+00:16:28.720 --> 00:16:31.199
+I'm just remembering right here on my
+
+00:16:30.160 --> 00:16:32.639
+shared screen that I do have an
+
+00:16:31.199 --> 00:16:34.399
+affiliate link. So, if you want to use
+
+00:16:32.639 --> 00:16:35.519
+Replet, I'm putting it in the chat. I
+
+00:16:34.399 --> 00:16:37.120
+don't know if it appears on all the
+
+00:16:35.519 --> 00:16:38.639
+platforms, but you're welcome to use
+
+00:16:37.120 --> 00:16:41.199
+that link and that would be great. I get
+
+00:16:38.639 --> 00:16:43.519
+20 bucks. All right, let's go back here.
+
+00:16:41.199 --> 00:16:45.839
+Republish. It's now public. Let's see
+
+00:16:43.519 --> 00:16:47.759
+this. All right, the site isn't working
+
+00:16:45.839 --> 00:16:49.839
+for me yet. It takes a little time, but
+
+00:16:47.759 --> 00:16:51.519
+I'm going to go back to publishing SEO
+
+00:16:49.839 --> 00:16:54.480
+rating healthy. It shows that it's
+
+00:16:51.519 --> 00:16:57.199
+public. Connect Stripe. Uh, I'm going to
+
+00:16:54.480 --> 00:17:00.320
+do that. And Replet already has my
+
+00:16:57.199 --> 00:17:03.040
+Stripe API. I'm actually quite paranoid
+
+00:17:00.320 --> 00:17:05.600
+that it's going to display that. So, I'm
+
+00:17:03.040 --> 00:17:08.640
+going to share a different screen, share
+
+00:17:05.600 --> 00:17:10.959
+my cloud screen. While I check that out,
+
+00:17:08.640 --> 00:17:13.520
+Replet is suggesting tasks. Send waiver
+
+00:17:10.959 --> 00:17:15.039
+copies and organizer alerts by email.
+
+00:17:13.520 --> 00:17:16.640
+Confirm the whole signing flow works on
+
+00:17:15.039 --> 00:17:18.400
+a real phone before launch. Make sure
+
+00:17:16.640 --> 00:17:20.079
+paid customers can generate links after
+
+00:17:18.400 --> 00:17:21.919
+Stripe is connected. Those are the three
+
+00:17:20.079 --> 00:17:23.520
+action items it's getting me giving me
+
+00:17:21.919 --> 00:17:24.720
+right now. And it's quite crazy to me
+
+00:17:23.520 --> 00:17:26.480
+that we're already to the point where
+
+00:17:24.720 --> 00:17:28.400
+we're like testing this. We're like live
+
+00:17:26.480 --> 00:17:31.200
+testing this. And I've been building
+
+00:17:28.400 --> 00:17:33.200
+this for about good 20 minutes. I'm also
+
+00:17:31.200 --> 00:17:34.799
+going to need to add Google Analytics so
+
+00:17:33.200 --> 00:17:36.480
+I can see how many clicks are coming
+
+00:17:34.799 --> 00:17:38.080
+through here. Stripe is connected.
+
+00:17:36.480 --> 00:17:40.000
+That's it. It didn't display anything
+
+00:17:38.080 --> 00:17:42.799
+sensitive. I didn't need to change my
+
+00:17:40.000 --> 00:17:44.160
+screen, but it already had my API key.
+
+00:17:42.799 --> 00:17:46.559
+If you didn't already have that, you
+
+00:17:44.160 --> 00:17:48.080
+would literally just Google Stripe API
+
+00:17:46.559 --> 00:17:49.840
+key, create a free Stripe account, go
+
+00:17:48.080 --> 00:17:52.000
+into your settings, API key, generate,
+
+00:17:49.840 --> 00:17:54.080
+copy, paste. That's it. I don't even
+
+00:17:52.000 --> 00:17:55.840
+know what API stands for. Actually, it's
+
+00:17:54.080 --> 00:17:58.000
+like application program interface or
+
+00:17:55.840 --> 00:18:00.080
+something, but I know that it's how
+
+00:17:58.000 --> 00:18:01.440
+technology or software tools talk to
+
+00:18:00.080 --> 00:18:03.200
+each other, right? And it's a really
+
+00:18:01.440 --> 00:18:05.039
+long key. Okay, Stripe is connected. I
+
+00:18:03.200 --> 00:18:07.120
+can now accept payments. The website is
+
+00:18:05.039 --> 00:18:08.799
+not live yet. I guess like the domain
+
+00:18:07.120 --> 00:18:11.360
+name, it's not live on the domain name
+
+00:18:08.799 --> 00:18:14.000
+yet, but on the replet site, it is live.
+
+00:18:11.360 --> 00:18:16.640
+Now I'm going to send waiver copies and
+
+00:18:14.000 --> 00:18:18.559
+organizer alerts by email. I use Send
+
+00:18:16.640 --> 00:18:20.160
+Grid for this stuff. So you've got
+
+00:18:18.559 --> 00:18:21.679
+companies like Mailchimp or Behive,
+
+00:18:20.160 --> 00:18:22.880
+which are like public facing newsletter
+
+00:18:21.679 --> 00:18:25.360
+companies. And then you've got companies
+
+00:18:22.880 --> 00:18:27.280
+like Mail Gun and Send Grid, which is
+
+00:18:25.360 --> 00:18:30.160
+like the plumbing or the infrastructure
+
+00:18:27.280 --> 00:18:32.080
+for emails, really transactional emails.
+
+00:18:30.160 --> 00:18:33.280
+So like order confirmation, your Amazon
+
+00:18:32.080 --> 00:18:35.280
+package was delivered, that's a
+
+00:18:33.280 --> 00:18:36.799
+transactional email. And companies like
+
+00:18:35.280 --> 00:18:38.720
+Send Grid power that. And I already have
+
+00:18:36.799 --> 00:18:40.480
+a Send Grid account and my API key is
+
+00:18:38.720 --> 00:18:41.679
+already connected to Replet. So, it's
+
+00:18:40.480 --> 00:18:43.120
+just what I know. It's kind of a
+
+00:18:41.679 --> 00:18:45.360
+commodity. I don't know if it's good or
+
+00:18:43.120 --> 00:18:47.120
+bad. It just works. So, so it's waiting
+
+00:18:45.360 --> 00:18:49.760
+for input. Send waiver copies and
+
+00:18:47.120 --> 00:18:51.760
+organizer alerts by email. It just needs
+
+00:18:49.760 --> 00:18:54.080
+to request the Send Grid credentials
+
+00:18:51.760 --> 00:18:56.320
+from me. So, I'm going to share my
+
+00:18:54.080 --> 00:18:59.840
+Replet screen so you can see how simple
+
+00:18:56.320 --> 00:19:01.760
+this is. Boom. There's my API key. It's
+
+00:18:59.840 --> 00:19:03.520
+anonymized. It's already in Replet. I'm
+
+00:19:01.760 --> 00:19:05.360
+just going to click next. And then, what
+
+00:19:03.520 --> 00:19:08.799
+email do I want this to come from? I
+
+00:19:05.360 --> 00:19:10.480
+want it to come from, hey Chris at
+
+00:19:08.799 --> 00:19:11.520
+co-founders. I don't even need to tell
+
+00:19:10.480 --> 00:19:14.000
+you because it's anonymized, but
+
+00:19:11.520 --> 00:19:16.320
+whatever. hy. Okay, this is working
+
+00:19:14.000 --> 00:19:19.120
+really fast. Now text. If we want like
+
+00:19:16.320 --> 00:19:21.280
+text reminders, we would want a Twilio
+
+00:19:19.120 --> 00:19:23.600
+API key. Twilio is basically the send
+
+00:19:21.280 --> 00:19:24.720
+grid for phone stuff. I think I already
+
+00:19:23.600 --> 00:19:26.080
+have that connected, but I don't want to
+
+00:19:24.720 --> 00:19:28.320
+mess with that. That's like too much
+
+00:19:26.080 --> 00:19:29.679
+friction. We don't need email and text
+
+00:19:28.320 --> 00:19:31.360
+notifications. That would be good to
+
+00:19:29.679 --> 00:19:32.880
+have, but not at launch day. It's just
+
+00:19:31.360 --> 00:19:34.240
+too much friction, right? Remove
+
+00:19:32.880 --> 00:19:36.240
+friction. Remove friction. remove
+
+00:19:34.240 --> 00:19:38.000
+friction. Put it on a shirt, tattoo it
+
+00:19:36.240 --> 00:19:40.160
+on your forehead. Right? In any
+
+00:19:38.000 --> 00:19:42.480
+business, you want to remove friction to
+
+00:19:40.160 --> 00:19:44.960
+getting the money and add friction to
+
+00:19:42.480 --> 00:19:46.240
+losing the money. Okay? That's why, and
+
+00:19:44.960 --> 00:19:48.000
+you know, you want to do this within
+
+00:19:46.240 --> 00:19:49.520
+some bounds so you're not a scummy
+
+00:19:48.000 --> 00:19:51.600
+marketer. That's why when you go to
+
+00:19:49.520 --> 00:19:53.120
+cancel a SAS product, it's like, are you
+
+00:19:51.600 --> 00:19:54.880
+sure you want to cancel? Are you sure?
+
+00:19:53.120 --> 00:19:57.120
+Do you want 50% off? Like, they're
+
+00:19:54.880 --> 00:19:58.799
+adding friction to losing money, right?
+
+00:19:57.120 --> 00:20:00.720
+And it's smart, but it's annoying. And
+
+00:19:58.799 --> 00:20:02.240
+you got to like just don't be too
+
+00:20:00.720 --> 00:20:03.760
+annoying with it, okay? Everything is
+
+00:20:02.240 --> 00:20:05.840
+wired up correctly. The signing route
+
+00:20:03.760 --> 00:20:08.080
+sends emails in the background. Okay,
+
+00:20:05.840 --> 00:20:10.160
+let's go back to Claude cuz remember
+
+00:20:08.080 --> 00:20:12.400
+Claude was working on Facebook ads this
+
+00:20:10.160 --> 00:20:14.799
+entire time which is just magical. It's
+
+00:20:12.400 --> 00:20:17.760
+just magical. Here we go. It's done.
+
+00:20:14.799 --> 00:20:19.840
+It's already done. Like it like guys,
+
+00:20:17.760 --> 00:20:21.200
+one prompt. Look at this. Okay. It's
+
+00:20:19.840 --> 00:20:23.200
+just like it didn't need any input from
+
+00:20:21.200 --> 00:20:25.520
+me here. It's like, hey, FYI, don't want
+
+00:20:23.200 --> 00:20:27.200
+to get sued. FYI, you can't target
+
+00:20:25.520 --> 00:20:29.280
+people based on religion as of four
+
+00:20:27.200 --> 00:20:31.840
+years ago. What ad account? I told it
+
+00:20:29.280 --> 00:20:34.480
+and it created it. It's done $20 a day.
+
+00:20:31.840 --> 00:20:36.640
+CBO is campaign budget optimization. It
+
+00:20:34.480 --> 00:20:38.400
+just means like from what level of the
+
+00:20:36.640 --> 00:20:40.000
+ads are you going to be spending money
+
+00:20:38.400 --> 00:20:42.080
+and this is like the highest level from
+
+00:20:40.000 --> 00:20:43.919
+the campaign level. Traffic objective
+
+00:20:42.080 --> 00:20:46.000
+hard capping targeted advantage plus
+
+00:20:43.919 --> 00:20:48.240
+audience expansion turned off. So your
+
+00:20:46.000 --> 00:20:49.280
+25 to 60 m US settings are actual limits
+
+00:20:48.240 --> 00:20:50.799
+since the whole point is a narrow
+
+00:20:49.280 --> 00:20:52.880
+creative match audience. So basically
+
+00:20:50.799 --> 00:20:54.960
+Claude told Facebook ads, hey I know you
+
+00:20:52.880 --> 00:20:56.640
+think your AI is really smart and it is.
+
+00:20:54.960 --> 00:20:59.520
+I'll admit it is but we don't want to
+
+00:20:56.640 --> 00:21:01.520
+use it yet. Okay. Ad set optimizes for
+
+00:20:59.520 --> 00:21:04.000
+landing page views so you pay for people
+
+00:21:01.520 --> 00:21:05.440
+who actually load the site. I stopped
+
+00:21:04.000 --> 00:21:07.200
+before creating the ad itself on
+
+00:21:05.440 --> 00:21:09.360
+purpose. The ad needs a destination URL
+
+00:21:07.200 --> 00:21:11.440
+that resolves and a Facebook page to run
+
+00:21:09.360 --> 00:21:12.559
+under. Onlywavers.com isn't live yet and
+
+00:21:11.440 --> 00:21:14.320
+I wasn't going to guess whether this
+
+00:21:12.559 --> 00:21:15.919
+runs under one of your existing pages or
+
+00:21:14.320 --> 00:21:17.280
+new Onlywavers page. When the site is
+
+00:21:15.919 --> 00:21:19.120
+up, tell me the page and I'll finish it.
+
+00:21:17.280 --> 00:21:20.559
+Add copy. You created it as a targeting
+
+00:21:19.120 --> 00:21:21.919
+meta camp. You plan the youth
+
+00:21:20.559 --> 00:21:23.440
+conference. You've booked the camp and
+
+00:21:21.919 --> 00:21:24.799
+now you're chasing 40 parents for
+
+00:21:23.440 --> 00:21:26.480
+permission slips the night before the
+
+00:21:24.799 --> 00:21:28.799
+track. This is so This is so good. This
+
+00:21:26.480 --> 00:21:30.320
+is so accurate. Only waivers fixes this.
+
+00:21:28.799 --> 00:21:32.000
+Create your event. Text one link to the
+
+00:21:30.320 --> 00:21:33.520
+word group chat and every parent signs
+
+00:21:32.000 --> 00:21:35.280
+from their phone in 30 seconds. You see
+
+00:21:33.520 --> 00:21:36.400
+every signature in one place. $13 a
+
+00:21:35.280 --> 00:21:38.240
+year. And I'll tell you what, if you're
+
+00:21:36.400 --> 00:21:39.360
+selling to an audience of my religion,
+
+00:21:38.240 --> 00:21:40.799
+Church of Jesus Christ Latter Day
+
+00:21:39.360 --> 00:21:42.640
+Saints, you kind of got to be cheap.
+
+00:21:40.799 --> 00:21:44.000
+We're cheap. We're just cheap. Okay?
+
+00:21:42.640 --> 00:21:46.799
+Hardest place in the world to start a
+
+00:21:44.000 --> 00:21:49.600
+business along I-15 in northern central
+
+00:21:46.799 --> 00:21:51.280
+and southern Utah and all of Utah. So 13
+
+00:21:49.600 --> 00:21:53.360
+bucks a year. That's what we're starting
+
+00:21:51.280 --> 00:21:54.720
+at. Words like ward, stake, track,
+
+00:21:53.360 --> 00:21:55.919
+mutual youth conference mean nothing to
+
+00:21:54.720 --> 00:21:58.640
+general population. everything your
+
+00:21:55.919 --> 00:22:00.720
+buyer wasted impressions on non-LDS men
+
+00:21:58.640 --> 00:22:02.640
+will click nothing and meta's delivery
+
+00:22:00.720 --> 00:22:04.480
+system will learn from who clicks and
+
+00:22:02.640 --> 00:22:05.919
+narrow itself the form is barely a
+
+00:22:04.480 --> 00:22:08.400
+waiver it's mostly a data collection
+
+00:22:05.919 --> 00:22:10.240
+form allergies medications yada yada
+
+00:22:08.400 --> 00:22:12.799
+yada your v1 collects a name and a
+
+00:22:10.240 --> 00:22:14.400
+signature sila chase okay if LDS
+
+00:22:12.799 --> 00:22:16.159
+organizers are the wedge the replet
+
+00:22:14.400 --> 00:22:20.320
+prompt needs one addition organizers can
+
+00:22:16.159 --> 00:22:22.480
+toggle on okay
+
+00:22:20.320 --> 00:22:25.360
+and then I'm going to screenshot the
+
+00:22:22.480 --> 00:22:28.000
+homepage of only waiverss drag Drag it
+
+00:22:25.360 --> 00:22:30.960
+in here. Okay. Make a new prompt for me
+
+00:22:28.000 --> 00:22:32.320
+to add to all this to replet. Remember,
+
+00:22:30.960 --> 00:22:34.559
+I'm talking like an idiot cuz it doesn't
+
+00:22:32.320 --> 00:22:35.840
+matter. AI knows what it means. Make LDS
+
+00:22:34.559 --> 00:22:37.039
+specific language on the homepage. Add
+
+00:22:35.840 --> 00:22:39.120
+the medical stuff and make it clean and
+
+00:22:37.039 --> 00:22:40.400
+frictionless. And lol. Don't let replet
+
+00:22:39.120 --> 00:22:41.919
+tell people it's free, but they have to
+
+00:22:40.400 --> 00:22:43.440
+get to the end first. The CTA should
+
+00:22:41.919 --> 00:22:46.960
+just be make and send a waiver in four
+
+00:22:43.440 --> 00:22:52.960
+clicks or whatever is true. Maybe even
+
+00:22:46.960 --> 00:22:54.960
+add a hero image of a youth conference
+
+00:22:52.960 --> 00:22:59.120
+or something.
+
+00:22:54.960 --> 00:23:00.480
+to drive home the point. Remember, and
+
+00:22:59.120 --> 00:23:01.679
+this is going to be a thing. This is a
+
+00:23:00.480 --> 00:23:03.360
+real thing, okay? I'm not just doing
+
+00:23:01.679 --> 00:23:05.440
+this for the purpose of this video. This
+
+00:23:03.360 --> 00:23:07.200
+app doesn't have to stay this only.
+
+00:23:05.440 --> 00:23:09.840
+Like, I would like to sell to more
+
+00:23:07.200 --> 00:23:12.799
+people than, you know, 3% of the US
+
+00:23:09.840 --> 00:23:14.880
+population. We can change the app, the
+
+00:23:12.799 --> 00:23:16.799
+website, the branding with with one or
+
+00:23:14.880 --> 00:23:18.080
+two prompts. It's not that hard. So,
+
+00:23:16.799 --> 00:23:19.760
+this isn't forever. This isn't
+
+00:23:18.080 --> 00:23:22.240
+permanent. Make send a waiver in four
+
+00:23:19.760 --> 00:23:23.760
+clicks. yada yada yada. I add in an
+
+00:23:22.240 --> 00:23:25.200
+instruction forcing the agent to count
+
+00:23:23.760 --> 00:23:26.720
+the real click path and adjust the
+
+00:23:25.200 --> 00:23:28.960
+number to whatever is actually true.
+
+00:23:26.720 --> 00:23:30.480
+Cool. I wonder if it did that cuz I said
+
+00:23:28.960 --> 00:23:31.840
+or whatever is true cuz I don't want to
+
+00:23:30.480 --> 00:23:33.760
+lie. But I also don't know how many
+
+00:23:31.840 --> 00:23:35.840
+clicks it's going to be. A CTA that lies
+
+00:23:33.760 --> 00:23:37.520
+by one click is worse than a boring one.
+
+00:23:35.840 --> 00:23:39.760
+It's making an illustration instead.
+
+00:23:37.520 --> 00:23:42.640
+Fine. All right. There's the reprompt.
+
+00:23:39.760 --> 00:23:44.480
+We're going to go back to Replet and
+
+00:23:42.640 --> 00:23:47.919
+apply changes. Send grid secrets.
+
+00:23:44.480 --> 00:23:49.440
+Restart API yada yada yada. Now replet
+
+00:23:47.919 --> 00:23:51.440
+doesn't really like it. Really none of
+
+00:23:49.440 --> 00:23:53.120
+the vibe coding apps like it when you're
+
+00:23:51.440 --> 00:23:54.640
+like telling it to do multiple things at
+
+00:23:53.120 --> 00:23:56.159
+once. But if you see these boxes up here
+
+00:23:54.640 --> 00:23:57.840
+on the left, there was just two and it
+
+00:23:56.159 --> 00:23:59.760
+disappeared. That's replet doing things
+
+00:23:57.840 --> 00:24:01.919
+concurrently at the same time, right?
+
+00:23:59.760 --> 00:24:03.520
+Send grid API over here, Stripe API over
+
+00:24:01.919 --> 00:24:05.840
+here, user interface over here, user
+
+00:24:03.520 --> 00:24:07.919
+experience over here. That saves time.
+
+00:24:05.840 --> 00:24:10.559
+Okay, now I'm going to paste in this
+
+00:24:07.919 --> 00:24:13.840
+prompt from claude and then I'm going to
+
+00:24:10.559 --> 00:24:15.520
+open publishing and it's on autoscale.
+
+00:24:13.840 --> 00:24:17.200
+That means if I go viral, then
+
+00:24:15.520 --> 00:24:19.039
+everything will be fine. It won't the
+
+00:24:17.200 --> 00:24:20.159
+app won't shut down. Production database
+
+00:24:19.039 --> 00:24:22.000
+connected. You don't have to do anything
+
+00:24:20.159 --> 00:24:23.679
+with that. SEO rating healthy. Don't
+
+00:24:22.000 --> 00:24:26.559
+care about that right now. Adjust
+
+00:24:23.679 --> 00:24:30.240
+settings. Public back. We're going to
+
+00:24:26.559 --> 00:24:32.080
+hit republish. Solid v2 spec. Okay. Now,
+
+00:24:30.240 --> 00:24:34.000
+I'm going to go back into the meta ads
+
+00:24:32.080 --> 00:24:36.000
+library. All right. Here's Facebook ads
+
+00:24:34.000 --> 00:24:38.640
+manager. Only waiverss LDS event
+
+00:24:36.000 --> 00:24:40.480
+organizers US. This was made in cloud.
+
+00:24:38.640 --> 00:24:43.360
+This is I've never I've never touched
+
+00:24:40.480 --> 00:24:46.080
+this. Okay. And it's not live yet, but
+
+00:24:43.360 --> 00:24:48.000
+so go to campaigns. Uh we're going to go
+
+00:24:46.080 --> 00:24:50.640
+edit. We click edit so we can see kind
+
+00:24:48.000 --> 00:24:52.799
+of what it did. So, as promised, it's
+
+00:24:50.640 --> 00:24:55.360
+got a nice name in there. $20 a day is
+
+00:24:52.799 --> 00:24:57.440
+what it said. Campaign budget CBO.
+
+00:24:55.360 --> 00:24:59.440
+Remember, auction, we're looking for
+
+00:24:57.440 --> 00:25:01.279
+traffic. We could have it optimized for
+
+00:24:59.440 --> 00:25:04.400
+conversions, but we don't have a pixel
+
+00:25:01.279 --> 00:25:05.919
+for that yet. A pixel just tells Meta
+
+00:25:04.400 --> 00:25:07.679
+that you know it's doing what it's
+
+00:25:05.919 --> 00:25:09.440
+supposed to be doing. And when you set
+
+00:25:07.679 --> 00:25:10.720
+up Facebook ads, guys, Meta is just
+
+00:25:09.440 --> 00:25:13.200
+going to be screaming at you, use our
+
+00:25:10.720 --> 00:25:14.960
+AI, use our AI, use our AI. And yes,
+
+00:25:13.200 --> 00:25:16.480
+that's a sales pitch, but also they want
+
+00:25:14.960 --> 00:25:18.240
+your ads to work because if they don't
+
+00:25:16.480 --> 00:25:20.720
+work, then you'll stop spending money
+
+00:25:18.240 --> 00:25:22.320
+with meta. So, their AI does work, but
+
+00:25:20.720 --> 00:25:23.440
+it's not like it's a blanket statement.
+
+00:25:22.320 --> 00:25:24.799
+They work all the time for everything
+
+00:25:23.440 --> 00:25:26.640
+and always just choose their AI, never
+
+00:25:24.799 --> 00:25:30.240
+use their brain. That is absolutely not
+
+00:25:26.640 --> 00:25:32.640
+the case. So, 25 to 60, location, United
+
+00:25:30.240 --> 00:25:34.480
+States, men. We could do men and women
+
+00:25:32.640 --> 00:25:36.400
+because there's plenty of female leaders
+
+00:25:34.480 --> 00:25:38.720
+that send out these as well. So, I might
+
+00:25:36.400 --> 00:25:40.960
+change that. But, let's see the detailed
+
+00:25:38.720 --> 00:25:43.520
+targeting. It didn't target people by
+
+00:25:40.960 --> 00:25:45.360
+like BYU or anything, but what it is
+
+00:25:43.520 --> 00:25:47.600
+doing is it's doing that in the copy of
+
+00:25:45.360 --> 00:25:49.760
+the ad itself, right? Speaking to things
+
+00:25:47.600 --> 00:25:52.799
+that only they would know. Let's go back
+
+00:25:49.760 --> 00:25:55.520
+into Replet. How this is going. Database
+
+00:25:52.799 --> 00:25:57.600
+validated. Approve and publish. Okay,
+
+00:25:55.520 --> 00:25:59.840
+we're publishing. Here we go. It's still
+
+00:25:57.600 --> 00:26:01.919
+hosted on the Replet domain. So, I'm
+
+00:25:59.840 --> 00:26:04.960
+going to open domains. Type in my domain
+
+00:26:01.919 --> 00:26:07.840
+name again. Checking next. NameCheep.
+
+00:26:04.960 --> 00:26:09.039
+Manage 54 minutes ago. I just love how
+
+00:26:07.840 --> 00:26:12.640
+everything's working all at the same
+
+00:26:09.039 --> 00:26:14.240
+time here. Go back here. Overview, apply
+
+00:26:12.640 --> 00:26:15.919
+changes.
+
+00:26:14.240 --> 00:26:17.360
+Talk about removing friction. Like
+
+00:26:15.919 --> 00:26:19.360
+that's kind of been the theme of this
+
+00:26:17.360 --> 00:26:21.520
+video. Replet is removing friction by
+
+00:26:19.360 --> 00:26:23.120
+hiding all this stuff. 15 actions. Like
+
+00:26:21.520 --> 00:26:24.640
+you can read it if you want, but guess
+
+00:26:23.120 --> 00:26:26.000
+what? Most people using Replet don't
+
+00:26:24.640 --> 00:26:27.279
+know what any of these things mean,
+
+00:26:26.000 --> 00:26:28.320
+myself included. They don't want to
+
+00:26:27.279 --> 00:26:29.840
+confuse people. They don't want to give
+
+00:26:28.320 --> 00:26:31.039
+them more information than they need to.
+
+00:26:29.840 --> 00:26:32.880
+So they hide it. They remove the
+
+00:26:31.039 --> 00:26:34.799
+friction. And a year from now, Replet
+
+00:26:32.880 --> 00:26:39.200
+will probably look even more simplified
+
+00:26:34.799 --> 00:26:42.159
+than this. So, we go to domains, open
+
+00:26:39.200 --> 00:26:45.120
+domains. Still loading. Okay. Now, I
+
+00:26:42.159 --> 00:26:46.799
+need to make the creative, aka the, you
+
+00:26:45.120 --> 00:26:48.880
+know, what the ad actually looks like to
+
+00:26:46.799 --> 00:26:51.120
+the general public. So, I'm going to do
+
+00:26:48.880 --> 00:26:54.320
+that with this bad boy right here. Got
+
+00:26:51.120 --> 00:26:56.799
+this microphone. It's a DJI Mic 3, I
+
+00:26:54.320 --> 00:26:58.799
+believe. Bought it on Amazon. I'm going
+
+00:26:56.799 --> 00:27:00.720
+to show you how easy it is to actually
+
+00:26:58.799 --> 00:27:05.039
+make Facebook ads. How about that? I've
+
+00:27:00.720 --> 00:27:08.159
+got a receiver here and a transmitter
+
+00:27:05.039 --> 00:27:10.400
+here. And I've got an iPhone 17 right
+
+00:27:08.159 --> 00:27:13.200
+here. And so I'm just going to I'm
+
+00:27:10.400 --> 00:27:15.600
+plugging that in. Okay, you can see that
+
+00:27:13.200 --> 00:27:18.080
+little icon, which means it should be
+
+00:27:15.600 --> 00:27:20.080
+working. I'm going to talking to this.
+
+00:27:18.080 --> 00:27:22.240
+Hello. Hello. Hello. Hello. Hello. You
+
+00:27:20.080 --> 00:27:23.840
+see the mic's bouncing. So then I'm just
+
+00:27:22.240 --> 00:27:26.000
+going to open the camera app right here.
+
+00:27:23.840 --> 00:27:28.240
+That's it. I'm going to go to video
+
+00:27:26.000 --> 00:27:29.520
+frontfacing. Okay, there we go. Look at
+
+00:27:28.240 --> 00:27:30.799
+this freaking guy right here. If I
+
+00:27:29.520 --> 00:27:33.360
+wanted to get Claude to make a script
+
+00:27:30.799 --> 00:27:35.440
+for me and then put it on teleprompter
+
+00:27:33.360 --> 00:27:38.320
+app, I use this app. It's literally
+
+00:27:35.440 --> 00:27:40.400
+called Teleprompter. Okay, it's 20 bucks
+
+00:27:38.320 --> 00:27:42.799
+a year. I would just take the script,
+
+00:27:40.400 --> 00:27:44.480
+paste it into Teleprompter app, and then
+
+00:27:42.799 --> 00:27:45.840
+it would look like this. And I would
+
+00:27:44.480 --> 00:27:48.400
+just hit record, and then read the
+
+00:27:45.840 --> 00:27:50.320
+script as I'm filming. But this is
+
+00:27:48.400 --> 00:27:52.480
+stupid simple. It's only going to be 15
+
+00:27:50.320 --> 00:27:54.159
+seconds or so. And I probably won't even
+
+00:27:52.480 --> 00:27:56.480
+need to edit it because the goal will be
+
+00:27:54.159 --> 00:27:58.399
+to take this in one take. So, if you are
+
+00:27:56.480 --> 00:28:00.080
+20 to 50 years old and an active member
+
+00:27:58.399 --> 00:28:01.440
+of the LDS church here in the United
+
+00:28:00.080 --> 00:28:02.799
+States, as I am, you've probably
+
+00:28:01.440 --> 00:28:04.399
+experienced this problem. You've got a
+
+00:28:02.799 --> 00:28:06.240
+word activity, youth conference, state
+
+00:28:04.399 --> 00:28:08.000
+conference, lake day, and you need to
+
+00:28:06.240 --> 00:28:08.960
+send liability waiverss. But those
+
+00:28:08.000 --> 00:28:10.320
+things are a pain and they're
+
+00:28:08.960 --> 00:28:11.840
+cumbersome. You got to print them, sign
+
+00:28:10.320 --> 00:28:12.960
+them, give them to the bishop member.
+
+00:28:11.840 --> 00:28:14.480
+He's going to lose it. You don't bring
+
+00:28:12.960 --> 00:28:16.640
+it. Your kid doesn't swim. Maybe he
+
+00:28:14.480 --> 00:28:19.679
+does, but then the church is liable. I
+
+00:28:16.640 --> 00:28:21.679
+fixed all that. Onlywavers.com, $13 a
+
+00:28:19.679 --> 00:28:23.200
+year. Few clicks, you've got a waiver.
+
+00:28:21.679 --> 00:28:25.120
+Send it out to everyone you know, and
+
+00:28:23.200 --> 00:28:28.000
+it's fully compliant. Use it right here.
+
+00:28:25.120 --> 00:28:29.520
+onlywavers.com. All right, so I stumbled
+
+00:28:28.000 --> 00:28:31.279
+over my words. It was 30 seconds
+
+00:28:29.520 --> 00:28:33.279
+exactly, but we're going to yolo it.
+
+00:28:31.279 --> 00:28:33.679
+Okay, because done is better than
+
+00:28:33.279 --> 00:28:35.360
+perfect.
+
+00:28:33.679 --> 00:28:37.440
+>> The LDS church here in the United States
+
+00:28:35.360 --> 00:28:39.600
+as I am. There it is. Okay, not faking
+
+00:28:37.440 --> 00:28:41.600
+this. I'm just going to hit airplane or
+
+00:28:39.600 --> 00:28:43.279
+uh airdrop. I'm going to airdrop it to
+
+00:28:41.600 --> 00:28:44.720
+my computer. I'm not going to edit it.
+
+00:28:43.279 --> 00:28:46.159
+I'm not going to add captions. I'm not
+
+00:28:44.720 --> 00:28:47.600
+going to add a thumbnail. I'm not going
+
+00:28:46.159 --> 00:28:49.200
+to remove pauses. I'm just going to
+
+00:28:47.600 --> 00:28:50.799
+airdrop it and we're going to yolo it.
+
+00:28:49.200 --> 00:28:53.279
+So, let me share my screen again. We're
+
+00:28:50.799 --> 00:28:54.720
+going back to the ads. So, I'm just
+
+00:28:53.279 --> 00:28:56.799
+going to save some time and if it
+
+00:28:54.720 --> 00:28:58.640
+doesn't work, it doesn't work. But, um,
+
+00:28:56.799 --> 00:29:00.159
+I'm just going to upload it right here.
+
+00:28:58.640 --> 00:29:02.480
+And maybe it works. I don't know what
+
+00:29:00.159 --> 00:29:04.960
+API permissions it has through the
+
+00:29:02.480 --> 00:29:07.520
+Claude MCP, but we're about to find out.
+
+00:29:04.960 --> 00:29:09.360
+So, I would have liked for that video to
+
+00:29:07.520 --> 00:29:11.279
+be shorter. I have better luck with 15
+
+00:29:09.360 --> 00:29:13.120
+to 20 second videos, but at least I'm
+
+00:29:11.279 --> 00:29:16.640
+speaking directly to the audience. So,
+
+00:29:13.120 --> 00:29:18.559
+what that means is if I'm a 72-year-old
+
+00:29:16.640 --> 00:29:20.240
+woman who's not an active member of the
+
+00:29:18.559 --> 00:29:22.399
+LDS church, I'm going to swipe away from
+
+00:29:20.240 --> 00:29:23.520
+that so hard, which is perfect for me,
+
+00:29:22.399 --> 00:29:24.960
+right? And then YouTube's going to
+
+00:29:23.520 --> 00:29:26.720
+learn, oh, don't show it to 72-y old
+
+00:29:24.960 --> 00:29:29.279
+women that are members of the LDS church
+
+00:29:26.720 --> 00:29:30.720
+because all the 33y old men in Provo,
+
+00:29:29.279 --> 00:29:32.159
+Utah, who are members of the LDS church
+
+00:29:30.720 --> 00:29:33.120
+are clicking the heck out of this. We're
+
+00:29:32.159 --> 00:29:34.559
+going to show it to a lot more people
+
+00:29:33.120 --> 00:29:36.000
+like that. So, Facebook's going to
+
+00:29:34.559 --> 00:29:37.840
+figure out pretty quickly the video
+
+00:29:36.000 --> 00:29:40.720
+works for the ad. 31 seconds, perfect
+
+00:29:37.840 --> 00:29:42.960
+for reals, no public URL. I can't push
+
+00:29:40.720 --> 00:29:45.120
+it to them directly. Open ads manager.
+
+00:29:42.960 --> 00:29:47.440
+Go to media library. Upload to your
+
+00:29:45.120 --> 00:29:50.080
+phone. Okay. I can't read the file
+
+00:29:47.440 --> 00:29:52.640
+specs, but I can't watch it. I'm gonna
+
+00:29:50.080 --> 00:29:54.559
+push back a little bit and say
+
+00:29:52.640 --> 00:29:57.360
+read the transcript. I'll add it to meta
+
+00:29:54.559 --> 00:29:58.720
+myself. Oh, look at this. Look at this
+
+00:29:57.360 --> 00:30:01.279
+freaking thing right here. You see my
+
+00:29:58.720 --> 00:30:03.039
+URL? Only waiverss.com. There it is.
+
+00:30:01.279 --> 00:30:05.600
+We're live, baby. We're live. It's
+
+00:30:03.039 --> 00:30:07.279
+working. Okay. Uh, don't like that view
+
+00:30:05.600 --> 00:30:09.200
+pricing. Well, it hasn't made the
+
+00:30:07.279 --> 00:30:11.440
+changes that I I told it to make. Okay.
+
+00:30:09.200 --> 00:30:13.679
+Okay, so I Googled Meta Media Library
+
+00:30:11.440 --> 00:30:15.679
+and then I just clicked create a folder
+
+00:30:13.679 --> 00:30:18.320
+and it's loading that right now. I'm
+
+00:30:15.679 --> 00:30:20.880
+going to close my NameCheep tab cuz
+
+00:30:18.320 --> 00:30:22.880
+Okay, cuz I already fixed the domain.
+
+00:30:20.880 --> 00:30:24.960
+We're going to go to ads manager, top
+
+00:30:22.880 --> 00:30:27.120
+left, media library. I'm going to poke
+
+00:30:24.960 --> 00:30:29.120
+around in this while I share my replet
+
+00:30:27.120 --> 00:30:31.360
+screen. I'm all over the place. Prevent
+
+00:30:29.120 --> 00:30:32.480
+Stripe web hook. Sure. Catch broken
+
+00:30:31.360 --> 00:30:34.559
+Stripe payments before they reach
+
+00:30:32.480 --> 00:30:36.000
+customers. Sure. Look at all these blue
+
+00:30:34.559 --> 00:30:37.360
+things on the left. They're running
+
+00:30:36.000 --> 00:30:38.559
+concurrently. Let organizer view their
+
+00:30:37.360 --> 00:30:41.520
+plan and manage bling from the b
+
+00:30:38.559 --> 00:30:44.159
+dashboard. Sure. It's doing things that
+
+00:30:41.520 --> 00:30:46.399
+uh it just thinks I need and I do, which
+
+00:30:44.159 --> 00:30:48.240
+is really nice. So, I go back here. It
+
+00:30:46.399 --> 00:30:49.840
+shows it's not live on the domain, but
+
+00:30:48.240 --> 00:30:53.120
+we're going to refresh. And it should.
+
+00:30:49.840 --> 00:30:54.799
+There. So, there it is. Boom. And let's
+
+00:30:53.120 --> 00:30:57.200
+go ahead and click republish because why
+
+00:30:54.799 --> 00:31:00.399
+not. Okay. Let me go find the meta uh
+
+00:30:57.200 --> 00:31:02.880
+media library. Media control find media.
+
+00:31:00.399 --> 00:31:04.559
+There it is. Okay. Go back to meta media
+
+00:31:02.880 --> 00:31:07.679
+library. And we're going to create a
+
+00:31:04.559 --> 00:31:10.880
+folder called only waiverss. Go into the
+
+00:31:07.679 --> 00:31:13.360
+folder, add images and videos right
+
+00:31:10.880 --> 00:31:15.120
+there. Okay, now I can add that video or
+
+00:31:13.360 --> 00:31:17.200
+Claude can add that video to any
+
+00:31:15.120 --> 00:31:19.440
+campaign within that account. Speaking
+
+00:31:17.200 --> 00:31:21.520
+of Claude, it's still working to get
+
+00:31:19.440 --> 00:31:23.520
+that transcript from my video. Remember,
+
+00:31:21.520 --> 00:31:24.960
+if Claude says it can't do something, it
+
+00:31:23.520 --> 00:31:26.320
+doesn't mean it can't do it. It just
+
+00:31:24.960 --> 00:31:28.000
+probably means it doesn't want to spend
+
+00:31:26.320 --> 00:31:29.840
+credits doing that thing because it
+
+00:31:28.000 --> 00:31:31.520
+doesn't think it's necessary. It wants
+
+00:31:29.840 --> 00:31:33.520
+you to find the easier way. Because
+
+00:31:31.520 --> 00:31:35.679
+Anthropic, aka the owner of Claude,
+
+00:31:33.520 --> 00:31:36.720
+wants to save money. So, push back. Push
+
+00:31:35.679 --> 00:31:38.159
+back. Like, what do you have to what do
+
+00:31:36.720 --> 00:31:40.559
+you have to lose by pushing back? People
+
+00:31:38.159 --> 00:31:41.840
+pleaser. Not against AI. So, it's still
+
+00:31:40.559 --> 00:31:43.519
+trying to get the audio from the video
+
+00:31:41.840 --> 00:31:44.799
+cuz I want Claude to tell me if that's a
+
+00:31:43.519 --> 00:31:46.000
+good video or not. If it's not, I'm
+
+00:31:44.799 --> 00:31:48.640
+going to push it anyway cuz I don't want
+
+00:31:46.000 --> 00:31:52.880
+to take another one. If it is, great.
+
+00:31:48.640 --> 00:31:54.880
+So, websites live and meta media library
+
+00:31:52.880 --> 00:31:57.840
+video is uploaded. It's right there.
+
+00:31:54.880 --> 00:32:00.720
+Cool. So now once Claude is done trying
+
+00:31:57.840 --> 00:32:04.000
+to transcribe the video, it can go add
+
+00:32:00.720 --> 00:32:06.559
+it to my campaign. Now Stripe is just or
+
+00:32:04.000 --> 00:32:08.480
+Replet is just pushing all these changes
+
+00:32:06.559 --> 00:32:11.200
+that needs to be pushed all three
+
+00:32:08.480 --> 00:32:14.399
+services running yada yada yada. And you
+
+00:32:11.200 --> 00:32:16.399
+can see go back to replet that I've got
+
+00:32:14.399 --> 00:32:17.679
+three things running at once. Stop dev
+
+00:32:16.399 --> 00:32:18.799
+and production from fighting over the
+
+00:32:17.679 --> 00:32:20.559
+same web hook. Don't know what that
+
+00:32:18.799 --> 00:32:22.559
+means. Catch broken stripe payments.
+
+00:32:20.559 --> 00:32:23.840
+Cool. Let organizers view their plan and
+
+00:32:22.559 --> 00:32:26.399
+manage billing. It's billing all those
+
+00:32:23.840 --> 00:32:28.720
+at the same time. Okay. And the website
+
+00:32:26.399 --> 00:32:30.799
+is publishing at the same time. You guys
+
+00:32:28.720 --> 00:32:33.039
+watch me buy this domain name good hour
+
+00:32:30.799 --> 00:32:34.799
+ago or so. It's already live. It's so
+
+00:32:33.039 --> 00:32:37.360
+interesting what Claude is doing. It's
+
+00:32:34.799 --> 00:32:39.600
+installing tools to transcribe that
+
+00:32:37.360 --> 00:32:41.600
+video. He's like, "Oh gosh, he's right.
+
+00:32:39.600 --> 00:32:43.519
+I can I can transcribe it. I just didn't
+
+00:32:41.600 --> 00:32:45.039
+want to. We're going on like 5 minutes
+
+00:32:43.519 --> 00:32:47.200
+from this. Definitely would have been
+
+00:32:45.039 --> 00:32:49.600
+easier for me to uh just tell it what I
+
+00:32:47.200 --> 00:32:51.840
+said, but whatever. Let's just go look
+
+00:32:49.600 --> 00:32:54.159
+at it. Look at the preview. Okay, there
+
+00:32:51.840 --> 00:32:55.919
+it is. Okay. Every permission slip
+
+00:32:54.159 --> 00:32:57.440
+signed before the activity starts. Built
+
+00:32:55.919 --> 00:32:58.799
+for ward and stake activity leaders.
+
+00:32:57.440 --> 00:33:00.320
+Create your event. Text one link to the
+
+00:32:58.799 --> 00:33:01.840
+group chat and every parent signs from
+
+00:33:00.320 --> 00:33:04.159
+their phone in seconds. No app, no
+
+00:33:01.840 --> 00:33:06.000
+account. It's for parents. No chasing.
+
+00:33:04.159 --> 00:33:08.000
+Make it send away around four clicks.
+
+00:33:06.000 --> 00:33:09.919
+Set up your first event before you pay
+
+00:33:08.000 --> 00:33:12.480
+$13 a year when you're ready to send.
+
+00:33:09.919 --> 00:33:13.760
+Look at that. Send link. Cool. Watch the
+
+00:33:12.480 --> 00:33:15.519
+list fill up. Youth conference track
+
+00:33:13.760 --> 00:33:17.519
+girls camp out service projects. Design
+
+00:33:15.519 --> 00:33:20.399
+for the real world. Touch signatures.
+
+00:33:17.519 --> 00:33:21.679
+View pricing. Lifetime yearly. I love
+
+00:33:20.399 --> 00:33:23.919
+that. That looks great. Subscribe
+
+00:33:21.679 --> 00:33:25.360
+yearly. What happens? Okay, check out
+
+00:33:23.919 --> 00:33:27.519
+failed. Checkout failed. That's one of
+
+00:33:25.360 --> 00:33:29.679
+the what one of the commenters said. So,
+
+00:33:27.519 --> 00:33:31.200
+what happens when an error happens,
+
+00:33:29.679 --> 00:33:32.640
+which will always happen. I just
+
+00:33:31.200 --> 00:33:34.480
+screenshot it and I'm going to drag it
+
+00:33:32.640 --> 00:33:35.919
+over to Replet.
+
+00:33:34.480 --> 00:33:37.360
+Seems the checkout links aren't working.
+
+00:33:35.919 --> 00:33:39.600
+I need to be able to accept payments for
+
+00:33:37.360 --> 00:33:41.840
+this ASAP. Get on it, please. Always say
+
+00:33:39.600 --> 00:33:43.679
+please and thank you to your AI. Okay?
+
+00:33:41.840 --> 00:33:45.200
+Because once they're embodied, we don't
+
+00:33:43.679 --> 00:33:47.039
+want them to come kill us. That's just
+
+00:33:45.200 --> 00:33:48.320
+the fact of the matter, okay? I should
+
+00:33:47.039 --> 00:33:49.600
+say we want them to be a little less
+
+00:33:48.320 --> 00:33:51.600
+likely that they'll come kill us cuz
+
+00:33:49.600 --> 00:33:53.519
+they probably will anyway. Okay? So
+
+00:33:51.600 --> 00:33:55.279
+Claude was not able to read it. Uh, I
+
+00:33:53.519 --> 00:33:57.120
+pulled the audio, but the transcription
+
+00:33:55.279 --> 00:33:58.799
+model has to download from a server.
+
+00:33:57.120 --> 00:34:02.240
+yada yada yada. All right, I'm just
+
+00:33:58.799 --> 00:34:04.080
+going to tell Claude what I said.
+
+00:34:02.240 --> 00:34:06.799
+Okay, I just told Claude what I said.
+
+00:34:04.080 --> 00:34:08.639
+Okay, Replet is working on three
+
+00:34:06.799 --> 00:34:10.000
+different things at once. And here's
+
+00:34:08.639 --> 00:34:11.040
+what I'm going to do. This will be good.
+
+00:34:10.000 --> 00:34:13.040
+This will be good learning. I'm going to
+
+00:34:11.040 --> 00:34:15.040
+go to analytics.google.com.
+
+00:34:13.040 --> 00:34:17.200
+And I'm going to go to admin. I'm going
+
+00:34:15.040 --> 00:34:20.480
+to go up here. Uh, I'm going to go
+
+00:34:17.200 --> 00:34:23.040
+create account and I'm going to call it
+
+00:34:20.480 --> 00:34:24.800
+only waivers. Okay. Go to next. I'm
+
+00:34:23.040 --> 00:34:27.200
+going to go central time. You got to
+
+00:34:24.800 --> 00:34:31.599
+have Google Analytics. Okay. Uh, Chicago
+
+00:34:27.200 --> 00:34:36.240
+time. Cool. Industry, business, small.
+
+00:34:31.599 --> 00:34:38.879
+Next. Yes. Yes. Yes. Yes. Why not check
+
+00:34:36.240 --> 00:34:40.879
+the boxes? Yes. And then we're going to
+
+00:34:38.879 --> 00:34:43.280
+call it web. This is not an app. And
+
+00:34:40.879 --> 00:34:44.960
+then we're going to put in the domain
+
+00:34:43.280 --> 00:34:47.280
+onlywavers.com.
+
+00:34:44.960 --> 00:34:49.520
+And then stream name is the same.
+
+00:34:47.280 --> 00:34:52.639
+Enhance measurement. Absolutely. Create
+
+00:34:49.520 --> 00:34:55.440
+and continue. Now it's going to give us
+
+00:34:52.639 --> 00:34:57.520
+this. We're going to copy that. Okay.
+
+00:34:55.440 --> 00:34:59.440
+And then we're going to go back to
+
+00:34:57.520 --> 00:35:01.839
+replet. Please add Google Analytics.
+
+00:34:59.440 --> 00:35:03.839
+Give it my tag. And it's got that queued
+
+00:35:01.839 --> 00:35:05.599
+up, but it's in the queue because it
+
+00:35:03.839 --> 00:35:07.520
+doesn't want to confuse itself. So
+
+00:35:05.599 --> 00:35:09.760
+checkout fix is live. Publishing will
+
+00:35:07.520 --> 00:35:13.680
+put it on your real site. Let's try it.
+
+00:35:09.760 --> 00:35:15.280
+Okay. I click pay and it's making me
+
+00:35:13.680 --> 00:35:16.880
+it's making me sign in. I don't like
+
+00:35:15.280 --> 00:35:18.480
+that. Let's just go through the flow.
+
+00:35:16.880 --> 00:35:21.200
+Make and send a waiver in four clicks.
+
+00:35:18.480 --> 00:35:24.160
+Okay, I gotta fix that. Okay, we're
+
+00:35:21.200 --> 00:35:25.680
+swapping from Stripe Sandbox mode to
+
+00:35:24.160 --> 00:35:29.079
+Stripe real mode so we can actually
+
+00:35:25.680 --> 00:35:29.079
+accept payments.
+
+00:35:30.400 --> 00:35:34.079
+All right, so I'm going to take this
+
+00:35:31.760 --> 00:35:35.599
+prompt, which is I don't know, probably
+
+00:35:34.079 --> 00:35:38.000
+good enough, but I'm going to give it to
+
+00:35:35.599 --> 00:35:40.480
+Claude. I'm going to tattle on it. Okay,
+
+00:35:38.000 --> 00:35:43.359
+well Claude's already working on this,
+
+00:35:40.480 --> 00:35:45.839
+so scratch that. I'm gonna let Claude
+
+00:35:43.359 --> 00:35:47.680
+stay in the mindset of making the ads,
+
+00:35:45.839 --> 00:35:51.119
+and I'm gonna go back to Replet and just
+
+00:35:47.680 --> 00:35:53.280
+give it give it this prompt. Okay. Okay.
+
+00:35:51.119 --> 00:35:55.760
+Finish tripe sandbox.
+
+00:35:53.280 --> 00:35:58.320
+Okay, we'll click republish. I click
+
+00:35:55.760 --> 00:36:00.320
+republish like it's going out of style.
+
+00:35:58.320 --> 00:36:02.400
+Um I don't know if if Replet like
+
+00:36:00.320 --> 00:36:05.119
+charges you extra when you hit publish
+
+00:36:02.400 --> 00:36:07.280
+or not. Probably does. Whatever. I'm
+
+00:36:05.119 --> 00:36:09.839
+just excited to make all the updates go
+
+00:36:07.280 --> 00:36:11.040
+live. So, this is a very key update
+
+00:36:09.839 --> 00:36:13.200
+here, though. I don't want people to
+
+00:36:11.040 --> 00:36:16.560
+have to create an account to generate
+
+00:36:13.200 --> 00:36:18.160
+the link. That's that's important. Now,
+
+00:36:16.560 --> 00:36:20.160
+I'm very excited to see if the checkout
+
+00:36:18.160 --> 00:36:21.599
+link actually works because it should.
+
+00:36:20.160 --> 00:36:23.119
+And it's not in sandbox mode anymore.
+
+00:36:21.599 --> 00:36:24.240
+So, theoretically, I could get my first
+
+00:36:23.119 --> 00:36:26.560
+customer. All right, we've got our
+
+00:36:24.240 --> 00:36:28.400
+Google Analytics stuff. I asked Replet
+
+00:36:26.560 --> 00:36:30.640
+to do two things at once. Google
+
+00:36:28.400 --> 00:36:32.640
+Analytics is in. Now, lid's on every
+
+00:36:30.640 --> 00:36:34.000
+page on the site. Pay first, account
+
+00:36:32.640 --> 00:36:36.880
+second. Let me check what our login
+
+00:36:34.000 --> 00:36:38.880
+system supports. Republish. And then
+
+00:36:36.880 --> 00:36:41.359
+let's go to the website and then let's
+
+00:36:38.880 --> 00:36:44.400
+just see if I can check out like as a as
+
+00:36:41.359 --> 00:36:46.240
+a customer. So refresh. Refresh. Make
+
+00:36:44.400 --> 00:36:47.839
+and send a waiver. Okay, that hasn't
+
+00:36:46.240 --> 00:36:50.400
+updated yet. I should probably do some
+
+00:36:47.839 --> 00:36:52.640
+FAQs, but I'm not going to concern
+
+00:36:50.400 --> 00:36:54.160
+myself with that now. Um, when I click
+
+00:36:52.640 --> 00:36:57.040
+this, it doesn't take me back to the
+
+00:36:54.160 --> 00:36:59.440
+homepage, so I got to fix that. Sign in.
+
+00:36:57.040 --> 00:37:01.920
+Get started. Okay, it is really like
+
+00:36:59.440 --> 00:37:03.760
+pounding that home. Okay, let's go see
+
+00:37:01.920 --> 00:37:05.359
+where Claude's at with its ads. Uh,
+
+00:37:03.760 --> 00:37:07.280
+redundant video and copy is a real
+
+00:37:05.359 --> 00:37:09.119
+problem. Your video carries the pitch.
+
+00:37:07.280 --> 00:37:11.119
+The text carries the specifics. The
+
+00:37:09.119 --> 00:37:12.320
+video skips. New copy. Okay, I kind of
+
+00:37:11.119 --> 00:37:13.920
+like that. I don't want to take another
+
+00:37:12.320 --> 00:37:15.599
+video, but that is better. Oh, that's
+
+00:37:13.920 --> 00:37:16.880
+the primary text. That's not the script.
+
+00:37:15.599 --> 00:37:18.400
+So, I guess it's just going to switch
+
+00:37:16.880 --> 00:37:20.800
+the primary text, the headline, and the
+
+00:37:18.400 --> 00:37:22.480
+description in the ad to better match
+
+00:37:20.800 --> 00:37:23.760
+what I say in the video, which means I
+
+00:37:22.480 --> 00:37:27.040
+don't have to say another video. That's
+
+00:37:23.760 --> 00:37:29.040
+great. Okay. Ad set. Upload the video.
+
+00:37:27.040 --> 00:37:31.040
+Tell me the Facebook page it runs under.
+
+00:37:29.040 --> 00:37:33.119
+Okay.
+
+00:37:31.040 --> 00:37:35.359
+video is now in meta. Make the daily
+
+00:37:33.119 --> 00:37:36.880
+budget 200 instead of 20 because I want
+
+00:37:35.359 --> 00:37:38.800
+results as soon as possible. I can pause
+
+00:37:36.880 --> 00:37:41.839
+it or turn it off at any time. Push it
+
+00:37:38.800 --> 00:37:45.359
+live ASAP. Turn on closed captions.
+
+00:37:41.839 --> 00:37:47.839
+Okay, let's go check in on Replet.
+
+00:37:45.359 --> 00:37:50.800
+Pushing some changes. There issue
+
+00:37:47.839 --> 00:37:53.359
+publishing your artifact. So now, thanks
+
+00:37:50.800 --> 00:37:55.680
+to the fact that this is an agent, an AI
+
+00:37:53.359 --> 00:37:57.440
+agent, aka an AI that will go out and do
+
+00:37:55.680 --> 00:37:59.359
+stuff for you. replet agent 4. In this
+
+00:37:57.440 --> 00:38:01.440
+case, it found an issue and it's going
+
+00:37:59.359 --> 00:38:03.920
+to fix it for me with an agent. And I
+
+00:38:01.440 --> 00:38:06.160
+click that twice. So, let's see what
+
+00:38:03.920 --> 00:38:09.599
+we've got going over here. Over here,
+
+00:38:06.160 --> 00:38:12.000
+it's fixing web hooks or something over
+
+00:38:09.599 --> 00:38:13.760
+here. It's generating some images based
+
+00:38:12.000 --> 00:38:16.800
+on my prompt. And then over here, this
+
+00:38:13.760 --> 00:38:18.800
+is like the main build. So, this is
+
+00:38:16.800 --> 00:38:20.320
+already going to be fixed. And click
+
+00:38:18.800 --> 00:38:23.599
+republish.
+
+00:38:20.320 --> 00:38:26.480
+Approve and publish. Okay. Claude is
+
+00:38:23.599 --> 00:38:28.240
+basically asking for permissions to do
+
+00:38:26.480 --> 00:38:31.440
+some heavy lifting in my meta ads
+
+00:38:28.240 --> 00:38:34.480
+manager account. U and I said yes.
+
+00:38:31.440 --> 00:38:36.079
+Technical constraints ads update entity.
+
+00:38:34.480 --> 00:38:38.320
+Okay. Conversation's getting a little
+
+00:38:36.079 --> 00:38:41.520
+long. So it's compacting it. Okay. The
+
+00:38:38.320 --> 00:38:43.440
+full guest flow works end to end. That's
+
+00:38:41.520 --> 00:38:45.359
+what replet's telling me. Draft event
+
+00:38:43.440 --> 00:38:47.599
+Stripe checkout web hook activates the
+
+00:38:45.359 --> 00:38:49.520
+link. Stores the pending account and the
+
+00:38:47.599 --> 00:38:51.760
+clerk invitation email went out. Now
+
+00:38:49.520 --> 00:38:53.680
+checking the user interface. It looks
+
+00:38:51.760 --> 00:38:55.440
+right. Verifying the account claim step
+
+00:38:53.680 --> 00:38:57.839
+that a user signing up with the payment
+
+00:38:55.440 --> 00:38:59.920
+email inherits the plan and event. Okay,
+
+00:38:57.839 --> 00:39:02.480
+let's look at the preview. Okay, look at
+
+00:38:59.920 --> 00:39:04.000
+that. It fixed it. And look, even that
+
+00:39:02.480 --> 00:39:06.240
+is fixed. I didn't even ask that. It
+
+00:39:04.000 --> 00:39:08.000
+fixed itself. I when I click the logo,
+
+00:39:06.240 --> 00:39:11.119
+it goes back to the homepage. Make and
+
+00:39:08.000 --> 00:39:12.960
+send a waiver in four clicks. Trek. I
+
+00:39:11.119 --> 00:39:14.800
+went on Tre as a 16-year-old. It changed
+
+00:39:12.960 --> 00:39:17.520
+my life. It was awesome. When is it?
+
+00:39:14.800 --> 00:39:20.480
+Let's look at the calendar. Ooh, okay.
+
+00:39:17.520 --> 00:39:22.720
+October 14th. Cool. Generate my link.
+
+00:39:20.480 --> 00:39:26.640
+Oh, you got to pay. Let's do the yearly
+
+00:39:22.720 --> 00:39:30.079
+plan. Oh, my screen went away. I went
+
+00:39:26.640 --> 00:39:31.520
+through the sign up flow.
+
+00:39:30.079 --> 00:39:33.200
+Uh, I went through the signup flow and
+
+00:39:31.520 --> 00:39:35.359
+it work rate until I clicked on the $13
+
+00:39:33.200 --> 00:39:38.640
+link to pay. Stripe screen got stuck
+
+00:39:35.359 --> 00:39:40.880
+loading here. Okay. Now, okay. Okay. If
+
+00:39:38.640 --> 00:39:42.560
+I go to the public website, which anyone
+
+00:39:40.880 --> 00:39:44.960
+in the world can see now, and I go
+
+00:39:42.560 --> 00:39:48.320
+through the signup flow, there it is.
+
+00:39:44.960 --> 00:39:50.400
+Pick a date. Then I'm going to stop
+
+00:39:48.320 --> 00:39:53.280
+sharing my screen in case it shows my
+
+00:39:50.400 --> 00:39:55.040
+address. Generate my link. Pay 13 a
+
+00:39:53.280 --> 00:39:57.599
+year. I just want to see if this same
+
+00:39:55.040 --> 00:39:59.280
+glitch happened. And it did not. Um, and
+
+00:39:57.599 --> 00:40:01.440
+it's not showing my address either. So,
+
+00:39:59.280 --> 00:40:03.119
+I'm going to This is what happened. It
+
+00:40:01.440 --> 00:40:05.200
+worked fine in the real world. Now, it
+
+00:40:03.119 --> 00:40:07.200
+says sandbox, but this is on the
+
+00:40:05.200 --> 00:40:09.119
+internet. And it looks like it's going
+
+00:40:07.200 --> 00:40:11.280
+to let me pay, but it also says it's a
+
+00:40:09.119 --> 00:40:13.040
+sandbox. So, I don't want my address to
+
+00:40:11.280 --> 00:40:15.359
+autofill. So, I'm going to change back
+
+00:40:13.040 --> 00:40:17.920
+over to Replet and try to actually pay
+
+00:40:15.359 --> 00:40:19.520
+myself so I can see if this works. Even
+
+00:40:17.920 --> 00:40:22.480
+has Apple Pay. How cool is that? Okay,
+
+00:40:19.520 --> 00:40:25.359
+it's accepting my card. Put in my zip.
+
+00:40:22.480 --> 00:40:27.680
+Okay, subscribe. Your card was declined.
+
+00:40:25.359 --> 00:40:30.320
+Your request was in test mode, but used
+
+00:40:27.680 --> 00:40:31.920
+on a non-est card. Okay, that's fine.
+
+00:40:30.320 --> 00:40:33.440
+This is very fixable. It's still in test
+
+00:40:31.920 --> 00:40:36.240
+mode for some reason. So, it kind of
+
+00:40:33.440 --> 00:40:38.640
+makes me want to cancel this request to
+
+00:40:36.240 --> 00:40:42.640
+fix the UI on the signup flow because I
+
+00:40:38.640 --> 00:40:44.480
+think in the real world it works. So
+
+00:40:42.640 --> 00:40:48.079
+remove Stripe test mode. So I can
+
+00:40:44.480 --> 00:40:50.640
+actually accept payments test/sandbox
+
+00:40:48.079 --> 00:40:54.200
+mode. Okay, it says my video is missing
+
+00:40:50.640 --> 00:40:54.200
+from the ad account.
+
+00:40:54.880 --> 00:40:59.119
+Okay, the API has no caption toggle, so
+
+00:40:56.720 --> 00:41:00.960
+I have to do that myself. A pixel with a
+
+00:40:59.119 --> 00:41:03.760
+purchase event on the Stripe success
+
+00:41:00.960 --> 00:41:06.720
+page is a 15minute replet prompt. Okay,
+
+00:41:03.760 --> 00:41:09.440
+I do need a pixel. Now, a pixel is how
+
+00:41:06.720 --> 00:41:12.079
+my Facebook ad can optimize for
+
+00:41:09.440 --> 00:41:14.240
+conversions, right? Because the person
+
+00:41:12.079 --> 00:41:16.000
+that clicks on ads is completely
+
+00:41:14.240 --> 00:41:17.680
+different from the person that buys
+
+00:41:16.000 --> 00:41:19.280
+things from ads or the person that adds
+
+00:41:17.680 --> 00:41:21.440
+stuff to their cart is not necessarily
+
+00:41:19.280 --> 00:41:23.920
+the person that buys from ads. So, with
+
+00:41:21.440 --> 00:41:26.079
+the pixel, you basically get your
+
+00:41:23.920 --> 00:41:27.599
+website to talk back to Facebook and
+
+00:41:26.079 --> 00:41:29.839
+say, "Hey, that person that you sent,
+
+00:41:27.599 --> 00:41:31.648
+they actually purchased, right? Can you
+
+00:41:29.839 --> 00:41:32.720
+find more people just like that?" And it
+
+00:41:31.648 --> 00:41:34.400
+[clears throat] will. So, it's
+
+00:41:32.720 --> 00:41:36.880
+important. All right. It can't find it.
+
+00:41:34.400 --> 00:41:39.280
+Yada yada yada. Wrong library. Open the
+
+00:41:36.880 --> 00:41:41.440
+video in that folder. Copy the URL. I
+
+00:41:39.280 --> 00:41:43.520
+can do that. Facebook page is currenter
+
+00:41:41.440 --> 00:41:45.599
+office.
+
+00:41:43.520 --> 00:41:47.440
+Give me the prompt to give to replet to
+
+00:41:45.599 --> 00:41:50.079
+get what I need for the pixel. And then
+
+00:41:47.440 --> 00:41:53.200
+we're going to go back to meta ads
+
+00:41:50.079 --> 00:41:58.240
+manager. And then over here, we're going
+
+00:41:53.200 --> 00:42:00.240
+to go to here. Media library
+
+00:41:58.240 --> 00:42:03.599
+only waiverss
+
+00:42:00.240 --> 00:42:05.520
+video. Here we go. Uh, where is it?
+
+00:42:03.599 --> 00:42:06.800
+Okay, sorry. I got to change my screen
+
+00:42:05.520 --> 00:42:08.640
+again because I don't know what it's
+
+00:42:06.800 --> 00:42:11.119
+about to show. So, I'm going to go back
+
+00:42:08.640 --> 00:42:12.400
+to Replet. Okay, this is taking a bit.
+
+00:42:11.119 --> 00:42:14.240
+It's taking a good minute. We'll hit
+
+00:42:12.400 --> 00:42:15.520
+publish. I'm going to go back to meta. I
+
+00:42:14.240 --> 00:42:17.280
+think I figured it out. I think I
+
+00:42:15.520 --> 00:42:19.040
+uploaded the video to the wrong place.
+
+00:42:17.280 --> 00:42:20.640
+It looks like Facebook uh glitched out
+
+00:42:19.040 --> 00:42:22.240
+on me because I added it to the right
+
+00:42:20.640 --> 00:42:24.800
+place, but it wasn't the right place.
+
+00:42:22.240 --> 00:42:26.960
+So, I'm going to add media, add video,
+
+00:42:24.800 --> 00:42:28.640
+do the same thing all over again. Image
+
+00:42:26.960 --> 00:42:30.240
+3879.
+
+00:42:28.640 --> 00:42:32.319
+All right. I really think meta just
+
+00:42:30.240 --> 00:42:34.640
+glitched out and it I uploaded the video
+
+00:42:32.319 --> 00:42:36.720
+to the wrong ad account because you can
+
+00:42:34.640 --> 00:42:39.200
+see all these other videos here uploaded
+
+00:42:36.720 --> 00:42:41.599
+within, you know, this year. This is my
+
+00:42:39.200 --> 00:42:42.960
+active Meta Ads Manager account. So,
+
+00:42:41.599 --> 00:42:45.200
+it's actually uploading to the right
+
+00:42:42.960 --> 00:42:47.760
+place. Finished. Cool. It's going to be
+
+00:42:45.200 --> 00:42:50.000
+there right at the top, I imagine. And
+
+00:42:47.760 --> 00:42:52.160
+then I'm going to go tell Claude, go
+
+00:42:50.000 --> 00:42:54.800
+find it now. Oh, these are images. There
+
+00:42:52.160 --> 00:42:56.319
+it is. Cool. Okay. So, how cool is this?
+
+00:42:54.800 --> 00:42:58.160
+What Claude spit out. So, I could just
+
+00:42:56.319 --> 00:43:00.560
+say replet, you know, give me a pixel
+
+00:42:58.160 --> 00:43:03.359
+for meta, but I had Claude, you know,
+
+00:43:00.560 --> 00:43:05.040
+make an overkill of a prompt for me. And
+
+00:43:03.359 --> 00:43:06.240
+there's a lot going on here. I don't
+
+00:43:05.040 --> 00:43:08.000
+know what it means, but it looks cool
+
+00:43:06.240 --> 00:43:11.599
+and it looks like a lot. So, let's go
+
+00:43:08.000 --> 00:43:13.760
+give it to Replet. Copy. Paste. Boom.
+
+00:43:11.599 --> 00:43:16.640
+Okay. And looks like all of my tasks are
+
+00:43:13.760 --> 00:43:18.720
+done. Let's go ahead and hit republish.
+
+00:43:16.640 --> 00:43:20.400
+Nothing's broken. Okay. One publish
+
+00:43:18.720 --> 00:43:22.079
+attempt caught my work mid change. So,
+
+00:43:20.400 --> 00:43:24.079
+me over here saying hit publish, hit
+
+00:43:22.079 --> 00:43:26.240
+publish, hit publish. Actually, don't
+
+00:43:24.079 --> 00:43:29.119
+don't do that because I broke my own
+
+00:43:26.240 --> 00:43:31.040
+thing. Uh, okay. So, I need to go
+
+00:43:29.119 --> 00:43:32.079
+generate different API keys. I thought I
+
+00:43:31.040 --> 00:43:34.880
+was just going to use the one I already
+
+00:43:32.079 --> 00:43:36.800
+have in Replet, but it's not. So, I'm
+
+00:43:34.880 --> 00:43:38.640
+going to open that in a different page
+
+00:43:36.800 --> 00:43:40.880
+because I definitely don't want y'all to
+
+00:43:38.640 --> 00:43:43.920
+see that. I'm going to create secret
+
+00:43:40.880 --> 00:43:47.359
+key. I'm going to use my Touch ID to
+
+00:43:43.920 --> 00:43:49.440
+validate my identity. And I'm going to
+
+00:43:47.359 --> 00:43:51.680
+stop sharing my screen for a minute so I
+
+00:43:49.440 --> 00:43:53.680
+can put this API key in here. And I just
+
+00:43:51.680 --> 00:43:56.800
+told uh Replet, give me the field to
+
+00:43:53.680 --> 00:43:59.119
+enter my real Stripe API key. Okay. So
+
+00:43:56.800 --> 00:44:02.400
+to do that, you're going to go to
+
+00:43:59.119 --> 00:44:04.960
+settings and then secrets and then new
+
+00:44:02.400 --> 00:44:09.359
+secret. I'm going to go ahead and put in
+
+00:44:04.960 --> 00:44:11.440
+my Stripe API key. Let's go check on
+
+00:44:09.359 --> 00:44:12.880
+Claude. It's looking for my video. So
+
+00:44:11.440 --> 00:44:15.119
+right now Claude is asking for
+
+00:44:12.880 --> 00:44:17.359
+permissions to fetch videos in my
+
+00:44:15.119 --> 00:44:19.040
+Facebook ads account or to create an ad.
+
+00:44:17.359 --> 00:44:21.040
+And I think it found it cuz now it's
+
+00:44:19.040 --> 00:44:23.280
+making an ad. This is so cool, guys.
+
+00:44:21.040 --> 00:44:26.000
+This is so freaking cool. Like, just I'm
+
+00:44:23.280 --> 00:44:27.680
+using like PhD level experts that would
+
+00:44:26.000 --> 00:44:29.520
+cost thousands of dollars an hour,
+
+00:44:27.680 --> 00:44:32.400
+multiple at the same time. A coding
+
+00:44:29.520 --> 00:44:35.440
+expert, an ads expert, copywriting
+
+00:44:32.400 --> 00:44:37.359
+expert for like well 200 bucks a month,
+
+00:44:35.440 --> 00:44:39.920
+right? 250 a month. Most of that is
+
+00:44:37.359 --> 00:44:41.839
+clawed, but all right, guys. It's live.
+
+00:44:39.920 --> 00:44:43.920
+It's a freaking live. All three levels
+
+00:44:41.839 --> 00:44:45.760
+active. Campaign 200 a day. Ad set
+
+00:44:43.920 --> 00:44:48.160
+active ad active. Yourself a video under
+
+00:44:45.760 --> 00:44:50.880
+the corner office page. Learn more.
+
+00:44:48.160 --> 00:44:53.440
+Okay, it's going into the meta review
+
+00:44:50.880 --> 00:44:55.920
+queue first. So, we've got like a live
+
+00:44:53.440 --> 00:44:57.280
+ad and the business isn't even live yet.
+
+00:44:55.920 --> 00:44:58.800
+That's how you should do it. Sell it
+
+00:44:57.280 --> 00:45:01.599
+before you have it, guys. I've been
+
+00:44:58.800 --> 00:45:03.599
+saying this. Come on. Wonky cost yada
+
+00:45:01.599 --> 00:45:06.240
+yada yada. Captions. Okay, I can do that
+
+00:45:03.599 --> 00:45:08.640
+myself. Pixel. Oh, I still need that. At
+
+00:45:06.240 --> 00:45:10.240
+$200 a day, you'll roughly get one to
+
+00:45:08.640 --> 00:45:11.760
+200 landing page views a day. You need
+
+00:45:10.240 --> 00:45:13.680
+about 15 sales a day just to break even
+
+00:45:11.760 --> 00:45:15.839
+on ad spend, which almost no culture.
+
+00:45:13.680 --> 00:45:17.680
+That's okay. That's okay. Lose money on
+
+00:45:15.839 --> 00:45:20.240
+year one revenue. Year one, dude. Come
+
+00:45:17.680 --> 00:45:21.920
+on. Day one, week one. Your real bet is
+
+00:45:20.240 --> 00:45:23.920
+each buyer's word has 20 plus other
+
+00:45:21.920 --> 00:45:25.680
+units watching. That is my bet. Referral
+
+00:45:23.920 --> 00:45:27.680
+footer in every signed waiver email a
+
+00:45:25.680 --> 00:45:29.839
+lifetime value past year one. If you're
+
+00:45:27.680 --> 00:45:32.000
+judging this on week one rorowaz, you'll
+
+00:45:29.839 --> 00:45:34.000
+kill a campaign that might be working.
+
+00:45:32.000 --> 00:45:35.839
+Okay, we still have to give replet agent
+
+00:45:34.000 --> 00:45:38.000
+or our pixel prompt. Okay, I'm going to
+
+00:45:35.839 --> 00:45:39.599
+swap back over to the replet screen.
+
+00:45:38.000 --> 00:45:41.680
+That's cool. You toggle between design
+
+00:45:39.599 --> 00:45:43.520
+and build. I've never done this before.
+
+00:45:41.680 --> 00:45:46.319
+Okay, we're going to go back to build.
+
+00:45:43.520 --> 00:45:48.880
+Uh, okay. Finish Stripe sandbox setup.
+
+00:45:46.319 --> 00:45:51.200
+Open publishing.
+
+00:45:48.880 --> 00:45:54.640
+Are my stripe keys good now? Probably
+
+00:45:51.200 --> 00:45:55.920
+not. Look at this. A publishable key, a
+
+00:45:54.640 --> 00:45:57.359
+secret key. I don't know what the
+
+00:45:55.920 --> 00:45:58.800
+difference is. I guess it needs both of
+
+00:45:57.359 --> 00:46:00.880
+them, but I only saw a place to put in
+
+00:45:58.800 --> 00:46:03.119
+one, so we're just we're working through
+
+00:46:00.880 --> 00:46:05.760
+it. That's what you got to do. So, right
+
+00:46:03.119 --> 00:46:08.319
+here, Stripe API key, but there's only
+
+00:46:05.760 --> 00:46:10.800
+one field, so don't want to click that.
+
+00:46:08.319 --> 00:46:13.839
+Confirm the live site is accepting real
+
+00:46:10.800 --> 00:46:16.240
+cards after republish. So, I'm going to
+
+00:46:13.839 --> 00:46:18.000
+go to my site in a different window and
+
+00:46:16.240 --> 00:46:21.599
+I'm going to do this. I'm just filling
+
+00:46:18.000 --> 00:46:22.800
+it out. Generate my link. $13 a year. I
+
+00:46:21.599 --> 00:46:24.480
+don't think it's going to work yet, but
+
+00:46:22.800 --> 00:46:26.480
+it's telling me to check it. So, I'm
+
+00:46:24.480 --> 00:46:29.040
+going to I'm going to check it. Card.
+
+00:46:26.480 --> 00:46:31.599
+Cool. Password. I know you can't see
+
+00:46:29.040 --> 00:46:33.520
+this, but that's okay. Subscribe. Okay.
+
+00:46:31.599 --> 00:46:35.119
+Still in sandbox mode. Still in sandbox
+
+00:46:33.520 --> 00:46:36.640
+mode. Tell me what Stripe key you still
+
+00:46:35.119 --> 00:46:38.640
+need from me based on what you see in my
+
+00:46:36.640 --> 00:46:40.480
+settings. I'm gonna have Replet get to
+
+00:46:38.640 --> 00:46:42.079
+work on the pixel stuff and then I'm
+
+00:46:40.480 --> 00:46:46.000
+gonna ask Claude how to fix the Stripe
+
+00:46:42.079 --> 00:46:48.160
+API key stuff. Copy that.
+
+00:46:46.000 --> 00:46:49.920
+Okay, I'm gonna work on Stripe for now.
+
+00:46:48.160 --> 00:46:52.000
+Do this. Okay, we're going to go back to
+
+00:46:49.920 --> 00:46:53.520
+Claude. Okay, so I asked Claude, "Having
+
+00:46:52.000 --> 00:46:54.640
+issues in Replet with the Stripe API
+
+00:46:53.520 --> 00:46:56.000
+key. It wants both secret and
+
+00:46:54.640 --> 00:46:57.520
+publishable, but I only see a field for
+
+00:46:56.000 --> 00:46:58.960
+one of those. Still in sandbox mode.
+
+00:46:57.520 --> 00:47:00.640
+What and where to add which key in
+
+00:46:58.960 --> 00:47:02.640
+Replet to make this finally work?" The
+
+00:47:00.640 --> 00:47:04.560
+secret key is the only one that's truly
+
+00:47:02.640 --> 00:47:06.880
+required. The publishable key only
+
+00:47:04.560 --> 00:47:08.640
+matters if the code uses Stripe.js. JS
+
+00:47:06.880 --> 00:47:10.560
+on the front end. Okay, so I need the
+
+00:47:08.640 --> 00:47:12.160
+secret key. I've been using the
+
+00:47:10.560 --> 00:47:14.960
+publishable one. All right, so I'm
+
+00:47:12.160 --> 00:47:16.720
+instripe create secret key and I have
+
+00:47:14.960 --> 00:47:19.119
+it. Okay, so now I'm going to go back
+
+00:47:16.720 --> 00:47:21.040
+into replet. I'm going to add it, but
+
+00:47:19.119 --> 00:47:23.680
+not I'm not going to show you. Not going
+
+00:47:21.040 --> 00:47:25.680
+to show you for obvious reasons. So I'm
+
+00:47:23.680 --> 00:47:27.520
+going to click edit and I need to know
+
+00:47:25.680 --> 00:47:29.440
+if I leave this checked or not. This is
+
+00:47:27.520 --> 00:47:31.440
+the last mile I was talking about, guys.
+
+00:47:29.440 --> 00:47:34.000
+Leave it on. So I'm saying the one I
+
+00:47:31.440 --> 00:47:36.319
+generated starts with SK live. Put that
+
+00:47:34.000 --> 00:47:40.000
+here. Then I'm going to screenshot over
+
+00:47:36.319 --> 00:47:43.760
+this and use replet to check. Yes, paste
+
+00:47:40.000 --> 00:47:46.400
+it there. Okay, I got a stripe secret
+
+00:47:43.760 --> 00:47:50.319
+key. Okay, so go back here. I'm going to
+
+00:47:46.400 --> 00:47:52.480
+go back to replet. Paste that in. Okay,
+
+00:47:50.319 --> 00:47:54.480
+so now I'm going to share my replet
+
+00:47:52.480 --> 00:47:56.319
+screen. Endpoints behave correctly with
+
+00:47:54.480 --> 00:47:57.920
+no pixel configured. Site works
+
+00:47:56.319 --> 00:48:00.640
+identically. Nothing fires. And I'll ask
+
+00:47:57.920 --> 00:48:03.520
+you for the pixel ID. Okay, check my
+
+00:48:00.640 --> 00:48:05.520
+stripe key now. We good? So, Replet
+
+00:48:03.520 --> 00:48:07.359
+still needs my pixel ID. So, I'm going
+
+00:48:05.520 --> 00:48:10.240
+to get that from Claude. Now, keep in
+
+00:48:07.359 --> 00:48:12.079
+mind, you can use one Facebook like meta
+
+00:48:10.240 --> 00:48:13.680
+ads pixel across multiple different
+
+00:48:12.079 --> 00:48:15.599
+campaigns, right? You got it. This kind
+
+00:48:13.680 --> 00:48:18.319
+of app, a tree sharing business, like it
+
+00:48:15.599 --> 00:48:21.119
+doesn't need to be one pixel for one
+
+00:48:18.319 --> 00:48:24.319
+website. Let's see what Claude says.
+
+00:48:21.119 --> 00:48:26.160
+Okay, Claude gave me my um pixel ID.
+
+00:48:24.319 --> 00:48:28.880
+We're going to paste that in meta pixel
+
+00:48:26.160 --> 00:48:30.880
+ID secret and replet. I'm going to stop
+
+00:48:28.880 --> 00:48:32.800
+sharing my screen so you can't see that.
+
+00:48:30.880 --> 00:48:34.559
+So, I put in the stripe key. I put in
+
+00:48:32.800 --> 00:48:36.880
+the meta pixel ID. And then I hit
+
+00:48:34.559 --> 00:48:38.000
+publish. So, surely we're not done.
+
+00:48:36.880 --> 00:48:39.760
+There's going to be something else that
+
+00:48:38.000 --> 00:48:41.920
+breaks, but we should be pretty dang
+
+00:48:39.760 --> 00:48:43.599
+close. Meanwhile, Meta is approving my
+
+00:48:41.920 --> 00:48:44.960
+ad. It might even be approved by now. I
+
+00:48:43.599 --> 00:48:47.119
+don't even know. All right, we're back
+
+00:48:44.960 --> 00:48:48.800
+in Replet. We're publishing. Make ad
+
+00:48:47.119 --> 00:48:50.800
+tracking survive ad blockers by
+
+00:48:48.800 --> 00:48:52.079
+reporting purchases from the server.
+
+00:48:50.800 --> 00:48:53.599
+That's cool. Wouldn't have thought to
+
+00:48:52.079 --> 00:48:55.359
+ask you that. Okay, look at this. Look
+
+00:48:53.599 --> 00:48:57.280
+at all these check marks. Pixel is set
+
+00:48:55.359 --> 00:48:59.520
+up and live in the preview. Base pixel
+
+00:48:57.280 --> 00:49:01.359
+code. View content. Initiate checkout.
+
+00:48:59.520 --> 00:49:03.359
+Purchase on the success page. Event ID.
+
+00:49:01.359 --> 00:49:05.119
+Green green green green checkboxes.
+
+00:49:03.359 --> 00:49:06.800
+Republish. Done. After it's live, say
+
+00:49:05.119 --> 00:49:08.720
+the word and I'll confirm live card mode
+
+00:49:06.800 --> 00:49:10.160
+is on. I've also added an option
+
+00:49:08.720 --> 00:49:11.760
+optional task. Sending purchase events
+
+00:49:10.160 --> 00:49:13.760
+from the server so ad blockers can't
+
+00:49:11.760 --> 00:49:16.559
+hide your sales from meta. Worth doing
+
+00:49:13.760 --> 00:49:18.800
+before you spend real ad budget. Genius.
+
+00:49:16.559 --> 00:49:20.079
+Genius. I don't want to click that while
+
+00:49:18.800 --> 00:49:22.720
+it's publishing because I don't want to
+
+00:49:20.079 --> 00:49:24.079
+screw up again. But yeah, let's wait for
+
+00:49:22.720 --> 00:49:27.359
+this to publish and then we're going to
+
+00:49:24.079 --> 00:49:29.839
+go to the website and see if we can like
+
+00:49:27.359 --> 00:49:33.119
+check out. Okay. Publishing. Publishing.
+
+00:49:29.839 --> 00:49:35.119
+Okay, done. Publishing your app. While
+
+00:49:33.119 --> 00:49:36.400
+we go test it, we're going to click
+
+00:49:35.119 --> 00:49:37.680
+start on this. All right, so we're
+
+00:49:36.400 --> 00:49:40.000
+published. So now I'm going to
+
+00:49:37.680 --> 00:49:41.440
+onlywavers.com and let me just share
+
+00:49:40.000 --> 00:49:43.760
+this. I'm going to click on make and
+
+00:49:41.440 --> 00:49:45.680
+send a waiver in four clicks. Type in
+
+00:49:43.760 --> 00:49:49.359
+anything. Go to the calendar, type in
+
+00:49:45.680 --> 00:49:50.400
+any date, generate my link, and then I'm
+
+00:49:49.359 --> 00:49:52.160
+not going to click on this yet. I'm
+
+00:49:50.400 --> 00:49:54.079
+going to stop sharing my screen because
+
+00:49:52.160 --> 00:49:55.359
+I don't want it to autofill my address.
+
+00:49:54.079 --> 00:49:58.480
+So I'll just walk you through what I'm
+
+00:49:55.359 --> 00:50:01.359
+doing. Pay $13 a year. Clicking that.
+
+00:49:58.480 --> 00:50:03.839
+Loading. Stripe pages. Open. So far so
+
+00:50:01.359 --> 00:50:06.640
+good. Putting in my email. Putting in my
+
+00:50:03.839 --> 00:50:08.480
+card information. Fingerprint ID.
+
+00:50:06.640 --> 00:50:09.839
+Putting in my zip code. Don't want you
+
+00:50:08.480 --> 00:50:12.000
+to save my information for faster
+
+00:50:09.839 --> 00:50:13.920
+checkout. Clicking subscribe. Gosh dang
+
+00:50:12.000 --> 00:50:15.440
+it. Still doesn't work. Why doesn't it
+
+00:50:13.920 --> 00:50:17.520
+work?
+
+00:50:15.440 --> 00:50:20.960
+All right. Back to Replet to give him a
+
+00:50:17.520 --> 00:50:25.920
+piece of my mind. Live card mode on.
+
+00:50:20.960 --> 00:50:27.280
+Still not working. And I know the key is
+
+00:50:25.920 --> 00:50:28.800
+good.
+
+00:50:27.280 --> 00:50:30.640
+If I do all caps, it's going to know
+
+00:50:28.800 --> 00:50:33.680
+that I'm serious. All right, so I need
+
+00:50:30.640 --> 00:50:35.440
+to ask Claude what my meta Capi access
+
+00:50:33.680 --> 00:50:37.599
+token is. Maybe it knows, maybe it
+
+00:50:35.440 --> 00:50:39.920
+doesn't. Okay, asking Claude that. All
+
+00:50:37.599 --> 00:50:43.520
+right, so I got to do a couple more
+
+00:50:39.920 --> 00:50:44.960
+steps to get the CAPI access token.
+
+00:50:43.520 --> 00:50:46.960
+Ignore that task for now. We're going to
+
+00:50:44.960 --> 00:50:48.079
+push that through. Okay, I found the
+
+00:50:46.960 --> 00:50:49.760
+problem. It's not your key. I checked
+
+00:50:48.079 --> 00:50:51.119
+the project settings. The keys you
+
+00:50:49.760 --> 00:50:52.480
+entered never got saved. That's not
+
+00:50:51.119 --> 00:50:54.079
+true. There's no Livestripe connection
+
+00:50:52.480 --> 00:50:56.400
+on file, which is why the site That's
+
+00:50:54.079 --> 00:50:57.680
+not true. Open the publishing page. Look
+
+00:50:56.400 --> 00:50:59.680
+for the Stripe payment section and
+
+00:50:57.680 --> 00:51:02.240
+choose connect. Okay. Got to go
+
+00:50:59.680 --> 00:51:06.440
+integrations. Look for Stripe. Click
+
+00:51:02.240 --> 00:51:06.440
+enable. Oh my goodness.
+
+00:51:07.920 --> 00:51:14.800
+Cancel. Cancel task. Click publish.
+
+00:51:11.920 --> 00:51:16.640
+Okay. This is the publish pane. In that
+
+00:51:14.800 --> 00:51:17.680
+pane, find the Stripe/Payment section.
+
+00:51:16.640 --> 00:51:20.319
+Click the option to connect your
+
+00:51:17.680 --> 00:51:24.079
+Livestripe account.
+
+00:51:20.319 --> 00:51:27.280
+Okay. Thank you for the URL. Stripe app
+
+00:51:24.079 --> 00:51:31.119
+marketplace gave me this page. Install
+
+00:51:27.280 --> 00:51:32.800
+app. Okay. Live mode. That's my Stripe
+
+00:51:31.119 --> 00:51:34.800
+account. That's what we're talking
+
+00:51:32.800 --> 00:51:36.640
+about. Gosh dang it. Come on, man. I've
+
+00:51:34.800 --> 00:51:39.760
+never had this issue. I've got a literal
+
+00:51:36.640 --> 00:51:41.920
+headache. Okay. Okay. I should I should
+
+00:51:39.760 --> 00:51:44.800
+be good. I better freaking be good, man.
+
+00:51:41.920 --> 00:51:47.440
+What a rigomearroll. Okay. Done. Check.
+
+00:51:44.800 --> 00:51:48.800
+Oh, you better work. Don't Don't tell me
+
+00:51:47.440 --> 00:51:50.960
+it works again and then have it not
+
+00:51:48.800 --> 00:51:53.280
+actually work. [sighs]
+
+00:51:50.960 --> 00:51:56.800
+Okay, I still have to freaking publish.
+
+00:51:53.280 --> 00:51:59.040
+Okay, I 91%
+
+00:51:56.800 --> 00:52:00.559
+sure that it works now. Okay, it's
+
+00:51:59.040 --> 00:52:03.520
+publishing. It's publishing. We're
+
+00:52:00.559 --> 00:52:06.800
+waiting. I'm going to ask Claude,
+
+00:52:03.520 --> 00:52:10.480
+is my ad approved and live yet? Okay,
+
+00:52:06.800 --> 00:52:12.240
+now I guess I could check myself. Boom.
+
+00:52:10.480 --> 00:52:13.760
+Approved and live. Active at every
+
+00:52:12.240 --> 00:52:15.359
+level. Delivery active. That means
+
+00:52:13.760 --> 00:52:17.599
+review pass and meta is serving it right
+
+00:52:15.359 --> 00:52:19.200
+now. Learning phase runs 37 days. It
+
+00:52:17.599 --> 00:52:21.280
+doesn't take that long, guys. it, you
+
+00:52:19.200 --> 00:52:23.520
+know, it it's always it depends. But now
+
+00:52:21.280 --> 00:52:25.680
+I'm going to go to the meta ad library
+
+00:52:23.520 --> 00:52:27.680
+and just Google it, meta ad library. And
+
+00:52:25.680 --> 00:52:30.000
+I'm gonna go see if the world can see my
+
+00:52:27.680 --> 00:52:31.920
+ad because sure it's approved, but does
+
+00:52:30.000 --> 00:52:34.240
+it appear there yet? And maybe there's a
+
+00:52:31.920 --> 00:52:35.680
+delay. There shouldn't be. So this is
+
+00:52:34.240 --> 00:52:38.480
+one of my favorite websites in the
+
+00:52:35.680 --> 00:52:40.000
+world. You can see anyone's ad. Uh we're
+
+00:52:38.480 --> 00:52:44.640
+going to go all ads. We're going to go
+
+00:52:40.000 --> 00:52:47.599
+the kerner office. Okay,
+
+00:52:44.640 --> 00:52:49.920
+there it is. and it shows nothing is
+
+00:52:47.599 --> 00:52:53.040
+active. But I bet you anything that is
+
+00:52:49.920 --> 00:52:57.520
+outdated. We're going to check by going
+
+00:52:53.040 --> 00:52:59.119
+to my actual Meta Business Suite and
+
+00:52:57.520 --> 00:53:04.000
+we're going to go to ads manager
+
+00:52:59.119 --> 00:53:05.599
+campaigns. I'm going to share my screen.
+
+00:53:04.000 --> 00:53:08.000
+You guys are going to like this. You're
+
+00:53:05.599 --> 00:53:10.319
+going to like this. Oh, I hate having to
+
+00:53:08.000 --> 00:53:13.760
+switch my screen. I am such a complainer
+
+00:53:10.319 --> 00:53:17.440
+today. Look at this. Only waivers right
+
+00:53:13.760 --> 00:53:20.880
+there. adsets right there. It's learning
+
+00:53:17.440 --> 00:53:22.400
+ads right there. There it is, guys.
+
+00:53:20.880 --> 00:53:24.079
+Instead of last 30 days, we're going to
+
+00:53:22.400 --> 00:53:26.800
+do today so we can see if it has any
+
+00:53:24.079 --> 00:53:30.400
+impressions yet. Aka, has anyone seen it
+
+00:53:26.800 --> 00:53:31.920
+yet? August 18th. Loading. Loading.
+
+00:53:30.400 --> 00:53:33.839
+Impressions. No impressions yet. But
+
+00:53:31.920 --> 00:53:35.599
+that will change within minutes. I can
+
+00:53:33.839 --> 00:53:37.440
+almost guarantee it. We're going to
+
+00:53:35.599 --> 00:53:40.400
+look. We're going to click edit. Kerner
+
+00:53:37.440 --> 00:53:43.680
+office Instagram page. There it is. And
+
+00:53:40.400 --> 00:53:48.400
+let's do exactly what Claude suggested.
+
+00:53:43.680 --> 00:53:50.079
+And let's go um to display link. So
+
+00:53:48.400 --> 00:53:52.079
+that's where it's sending people. Yep,
+
+00:53:50.079 --> 00:53:54.079
+there it is. We could say, hey, I want
+
+00:53:52.079 --> 00:53:55.680
+to AB test five different descriptions,
+
+00:53:54.079 --> 00:53:58.880
+headlines, and primary text. I think
+
+00:53:55.680 --> 00:54:03.280
+I'll do that actually. Learn more pixel
+
+00:53:58.880 --> 00:54:06.880
+languages, creative testing, 25 to 60,
+
+00:54:03.280 --> 00:54:10.559
+um attribution model, standard, $200 a
+
+00:54:06.880 --> 00:54:12.880
+day. Now, I think I want that website
+
+00:54:10.559 --> 00:54:15.040
+event, right? Yeah. Why would that not
+
+00:54:12.880 --> 00:54:16.319
+be checked? Definitely want that. So,
+
+00:54:15.040 --> 00:54:18.880
+here's the problem with making changes
+
+00:54:16.319 --> 00:54:20.319
+to your ad once it's live. Sometimes it
+
+00:54:18.880 --> 00:54:22.640
+has to get reapproved and it could take
+
+00:54:20.319 --> 00:54:24.800
+minutes to hours for that to happen. So,
+
+00:54:22.640 --> 00:54:26.960
+you want to avoid that as much as
+
+00:54:24.800 --> 00:54:30.720
+possible. I'm going to go up here to my
+
+00:54:26.960 --> 00:54:34.400
+ad and we're going to go here. Edit
+
+00:54:30.720 --> 00:54:37.760
+media. Edit video. There we go. Okay. Uh
+
+00:54:34.400 --> 00:54:39.680
+captions. Boom. Generate automatically.
+
+00:54:37.760 --> 00:54:42.640
+That's it. I could add a call to action
+
+00:54:39.680 --> 00:54:44.480
+sticker. Review captions. There they
+
+00:54:42.640 --> 00:54:46.400
+are. Saved a video. You could edit them
+
+00:54:44.480 --> 00:54:48.160
+because if it if it You know what?
+
+00:54:46.400 --> 00:54:50.240
+Actually, Claude told me to make sure.
+
+00:54:48.160 --> 00:54:53.040
+LDS right there. It says it right. Saved
+
+00:54:50.240 --> 00:54:55.520
+a video. Okay. Save. So, we've made two
+
+00:54:53.040 --> 00:54:57.920
+changes. We've made sure that the pixel
+
+00:54:55.520 --> 00:55:01.680
+is tracking website events. We added
+
+00:54:57.920 --> 00:55:03.680
+captions. Now, we hit publish. Okay. So,
+
+00:55:01.680 --> 00:55:06.240
+we're going to go back to Claude and
+
+00:55:03.680 --> 00:55:08.400
+say,
+
+00:55:06.240 --> 00:55:10.079
+I just want to make sure that checking
+
+00:55:08.400 --> 00:55:12.079
+the box was the right thing. Okay. Hey,
+
+00:55:10.079 --> 00:55:15.040
+events manager, check your pixel. I'm
+
+00:55:12.079 --> 00:55:17.200
+going to say you go do that
+
+00:55:15.040 --> 00:55:18.880
+and we'll see if it can. Man, we're
+
+00:55:17.200 --> 00:55:20.720
+Yeah, we're getting hot and heavy in
+
+00:55:18.880 --> 00:55:22.800
+here. All right, let's go check on
+
+00:55:20.720 --> 00:55:25.040
+Replet. Replet was published. So, let's
+
+00:55:22.800 --> 00:55:26.880
+go to the website. I'm going to stop
+
+00:55:25.040 --> 00:55:29.200
+sharing my screen because I'm going to
+
+00:55:26.880 --> 00:55:31.599
+go to the website. Refresh it just in
+
+00:55:29.200 --> 00:55:35.040
+case. Make and send a waiver. yada yada
+
+00:55:31.599 --> 00:55:37.200
+yada. Generate my link. Opens $13 per
+
+00:55:35.040 --> 00:55:39.839
+year. Click on that. Opening the Stripe
+
+00:55:37.200 --> 00:55:41.760
+page successfully. It still shows it's
+
+00:55:39.839 --> 00:55:43.200
+in the agent go sandbox. So, I don't
+
+00:55:41.760 --> 00:55:45.119
+think it's going to work. Going to drag
+
+00:55:43.200 --> 00:55:47.359
+that over to replet. I just yelled at
+
+00:55:45.119 --> 00:55:50.160
+replet because I'm an ungrateful little
+
+00:55:47.359 --> 00:55:52.000
+brat and I said still in sandbox. I
+
+00:55:50.160 --> 00:55:55.040
+published then refresh my site and no
+
+00:55:52.000 --> 00:55:56.720
+dice. Fix it ASAP. That's really
+
+00:55:55.040 --> 00:55:59.280
+annoying. But what's not annoying is
+
+00:55:56.720 --> 00:56:01.680
+that my ad is live. Okay, I'm very very
+
+00:55:59.280 --> 00:56:06.799
+happy about that. And if we go back into
+
+00:56:01.680 --> 00:56:09.680
+the ads manager, it shows my new ad is
+
+00:56:06.799 --> 00:56:15.200
+in review. Oh, but I've got landing page
+
+00:56:09.680 --> 00:56:17.520
+views. Holy crap, guys. Oh my gosh.
+
+00:56:15.200 --> 00:56:19.920
+I spent $44
+
+00:56:17.520 --> 00:56:22.480
+in the first like 10 minutes. Oh man.
+
+00:56:19.920 --> 00:56:25.040
+And people can't even buy. Yikes. I'm
+
+00:56:22.480 --> 00:56:26.400
+spending $137 per landing page view.
+
+00:56:25.040 --> 00:56:28.240
+Hey, that's okay. This [clears throat]
+
+00:56:26.400 --> 00:56:29.280
+is Hey, sell it before you have it.
+
+00:56:28.240 --> 00:56:31.200
+That's the trade-off. That's the
+
+00:56:29.280 --> 00:56:32.880
+trade-off you make. I wouldn't have it
+
+00:56:31.200 --> 00:56:35.920
+any other way. Hey, at least I'm failing
+
+00:56:32.880 --> 00:56:37.760
+live, right? So, for now, I'm going to
+
+00:56:35.920 --> 00:56:39.680
+pause my ad. Okay, I did the hard part.
+
+00:56:37.760 --> 00:56:41.760
+I built it. I'm going to pause it. Okay,
+
+00:56:39.680 --> 00:56:43.839
+for now so I don't burn money. This is
+
+00:56:41.760 --> 00:56:45.599
+Replet's fault. I checked again after
+
+00:56:43.839 --> 00:56:47.520
+you publish. This is what Replet is
+
+00:56:45.599 --> 00:56:49.440
+saying. Site really is on the sandbox.
+
+00:56:47.520 --> 00:56:51.040
+It never got attached. In your replet
+
+00:56:49.440 --> 00:56:54.000
+workspace, click on the integrations
+
+00:56:51.040 --> 00:56:56.240
+tab. Gosh, dude. I was just trying to do
+
+00:56:54.000 --> 00:56:58.319
+this. View all integrations. Let me
+
+00:56:56.240 --> 00:57:00.160
+finish reading first. Stripe. Click
+
+00:56:58.319 --> 00:57:02.720
+manage. You'll see two sections. Stripe
+
+00:57:00.160 --> 00:57:05.119
+API keys. Expand the live. Okay, I'm
+
+00:57:02.720 --> 00:57:07.520
+going to duplicate this window so I
+
+00:57:05.119 --> 00:57:10.720
+could still do that. Integrations. View
+
+00:57:07.520 --> 00:57:13.760
+all integrations. Stripe. Enable.
+
+00:57:10.720 --> 00:57:16.160
+Configure. Manage connection. Okay. Test
+
+00:57:13.760 --> 00:57:18.240
+connection. Healthy. Live account is not
+
+00:57:16.160 --> 00:57:20.319
+connected. Okay. So, I'm going to change
+
+00:57:18.240 --> 00:57:22.240
+my screen. Okay. Here's where I'm at. I
+
+00:57:20.319 --> 00:57:24.960
+clicked manage connection under Stripe.
+
+00:57:22.240 --> 00:57:27.520
+Claim sandbox. It opened a new window
+
+00:57:24.960 --> 00:57:30.319
+into Stripe. Okay. The kerner office.
+
+00:57:27.520 --> 00:57:32.240
+I'm claiming my sandbox. Okay. I'm
+
+00:57:30.319 --> 00:57:35.359
+clicking continue. Okay. Now, I'm
+
+00:57:32.240 --> 00:57:37.680
+looking at a fake Stripe account. Okay.
+
+00:57:35.359 --> 00:57:40.880
+activate your live Stripe account. You
+
+00:57:37.680 --> 00:57:42.960
+can see this, right? Okay, got it. Done.
+
+00:57:40.880 --> 00:57:46.000
+Install Repla app on your live Stripe
+
+00:57:42.960 --> 00:57:47.839
+account. So, it's showing me like the
+
+00:57:46.000 --> 00:57:50.079
+approval page that you guys saw earlier.
+
+00:57:47.839 --> 00:57:51.359
+Taking It's just one click. Okay. Okay.
+
+00:57:50.079 --> 00:57:53.119
+This is what it showed me when I clicked
+
+00:57:51.359 --> 00:57:55.119
+on that last step. You got to click
+
+00:57:53.119 --> 00:57:57.200
+this. There's all my Stripe accounts.
+
+00:57:55.119 --> 00:58:00.079
+Here's the one I want on refreshes the
+
+00:57:57.200 --> 00:58:02.480
+page automatically. Already installed.
+
+00:58:00.079 --> 00:58:04.160
+Live mode. Continue. Oh, this better
+
+00:58:02.480 --> 00:58:05.920
+work.
+
+00:58:04.160 --> 00:58:07.760
+App installed successfully. That is the
+
+00:58:05.920 --> 00:58:10.880
+first time I've seen that. Now I got to
+
+00:58:07.760 --> 00:58:13.599
+publish. Publishing. Republish. All
+
+00:58:10.880 --> 00:58:15.680
+right, this should work. All right,
+
+00:58:13.599 --> 00:58:18.799
+we're published. I'm going to ask Replet
+
+00:58:15.680 --> 00:58:21.920
+at the same time that I go check myself.
+
+00:58:18.799 --> 00:58:24.640
+Okay, blah blah blah. Generate my link.
+
+00:58:21.920 --> 00:58:29.160
+$13 a year. Oh my gosh, it didn't
+
+00:58:24.640 --> 00:58:29.160
+freaking work for me. I'm so annoyed.
+
+00:58:32.079 --> 00:58:36.559
+All right, I'm just waiting for for
+
+00:58:33.920 --> 00:58:37.920
+Replet to figure this out. I think I'm
+
+00:58:36.559 --> 00:58:39.520
+guessing Replet just needs to fix
+
+00:58:37.920 --> 00:58:41.520
+something on their side. This should be
+
+00:58:39.520 --> 00:58:43.839
+very simple. Like, this is not rocket
+
+00:58:41.520 --> 00:58:46.640
+science here. Okay, here we go. Bug is
+
+00:58:43.839 --> 00:58:48.400
+fixed. I'm going to hit republish again.
+
+00:58:46.640 --> 00:58:49.920
+In the meantime, for redundancy, I'm
+
+00:58:48.400 --> 00:58:52.000
+going to go into my Stripe account.
+
+00:58:49.920 --> 00:58:53.599
+Product catalog. We're going to go
+
+00:58:52.000 --> 00:58:55.760
+Here's my Stripe account. I'm zoomed way
+
+00:58:53.599 --> 00:58:59.200
+in. Two new Stripe products created by
+
+00:58:55.760 --> 00:59:02.400
+the API by Replet today. updated today.
+
+00:58:59.200 --> 00:59:04.880
+13 per year, $17. So, those have been
+
+00:59:02.400 --> 00:59:06.160
+created. So, let's go back here. Once
+
+00:59:04.880 --> 00:59:08.160
+this is published, we're going to go try
+
+00:59:06.160 --> 00:59:09.599
+to check out ourselves. All right. So,
+
+00:59:08.160 --> 00:59:11.760
+now I'm going to go try to check out
+
+00:59:09.599 --> 00:59:13.280
+myself. Your store is fully open for
+
+00:59:11.760 --> 00:59:14.720
+business. Live payments, live products,
+
+00:59:13.280 --> 00:59:16.480
+and ad tracking. All running on
+
+00:59:14.720 --> 00:59:17.760
+onlywavers.com.
+
+00:59:16.480 --> 00:59:19.760
+When sales start coming in, you'll see
+
+00:59:17.760 --> 00:59:22.559
+them in your dashboard. We'll see about
+
+00:59:19.760 --> 00:59:24.960
+that. Okay. I'm going to test this for
+
+00:59:22.559 --> 00:59:27.520
+myself, and I'm going to even share my
+
+00:59:24.960 --> 00:59:29.599
+screen as I do so. So, I'm going to wait
+
+00:59:27.520 --> 00:59:31.520
+for this to finish publishing. Oh, I
+
+00:59:29.599 --> 00:59:34.240
+also need to add like a a contact us
+
+00:59:31.520 --> 00:59:36.400
+form to the homepage because if people
+
+00:59:34.240 --> 00:59:38.960
+aren't able to check out, they got to
+
+00:59:36.400 --> 00:59:42.880
+reach me somehow, right? So, okay, it's
+
+00:59:38.960 --> 00:59:45.359
+published. Refresh. Refresh. Refresh.
+
+00:59:42.880 --> 00:59:49.440
+Make and send a waiver. Generate my
+
+00:59:45.359 --> 00:59:53.119
+link. $13 per year. It no longer says
+
+00:59:49.440 --> 00:59:56.720
+sandbox subscribe. Here we go. 13 per
+
+00:59:53.119 --> 00:59:59.760
+year. Come on. Are we in business? Come
+
+00:59:56.720 --> 01:00:02.000
+on, baby. Come on. Come on. Why is it
+
+00:59:59.760 --> 01:00:03.599
+taking so long? Oh, so it still needs to
+
+01:00:02.000 --> 01:00:07.119
+make my link. Of course, it's confirming
+
+01:00:03.599 --> 01:00:08.319
+my payment and it's supposedly making a
+
+01:00:07.119 --> 01:00:10.559
+the whole thing we're actually doing
+
+01:00:08.319 --> 01:00:12.640
+here, a link for this form. We don't
+
+01:00:10.559 --> 01:00:14.640
+even know if the product works yet. So,
+
+01:00:12.640 --> 01:00:16.559
+this shows like it's broken. It's stuck.
+
+01:00:14.640 --> 01:00:20.880
+But when I go in my Stripe account, look
+
+01:00:16.559 --> 01:00:23.200
+at transactions. $13. Chris K succeeded.
+
+01:00:20.880 --> 01:00:24.720
+I just got paid. How lame would it be if
+
+01:00:23.200 --> 01:00:26.960
+I counted that as my first customer?
+
+01:00:24.720 --> 01:00:28.559
+Don't worry, I'm not that lame. But it
+
+01:00:26.960 --> 01:00:30.799
+works. It works. My website works. Does
+
+01:00:28.559 --> 01:00:32.160
+the product work? I don't know yet.
+
+01:00:30.799 --> 01:00:34.720
+Believe it or not, that's actually less
+
+01:00:32.160 --> 01:00:36.319
+important because we can fix that. But
+
+01:00:34.720 --> 01:00:40.480
+if we can't accept money, we can't fix
+
+01:00:36.319 --> 01:00:43.599
+that. So, I'm going to screenshot that.
+
+01:00:40.480 --> 01:00:45.280
+We're going to go back to replet.
+
+01:00:43.599 --> 01:00:46.960
+Okay. I kind of asked it to do a few
+
+01:00:45.280 --> 01:00:49.119
+things at once, which I I shouldn't do,
+
+01:00:46.960 --> 01:00:51.119
+but I'm impatient. So, I told her to fix
+
+01:00:49.119 --> 01:00:52.480
+this. I told her to make sure the link
+
+01:00:51.119 --> 01:00:54.160
+generation actually works because it
+
+01:00:52.480 --> 01:00:56.240
+might, but we just didn't get that far
+
+01:00:54.160 --> 01:00:59.680
+and to add a contact us form. I just
+
+01:00:56.240 --> 01:01:01.280
+told Claude that I've had 60 plus
+
+01:00:59.680 --> 01:01:03.040
+landing page visits from the Facebook
+
+01:01:01.280 --> 01:01:04.400
+ad. Go see if the pixel is good and
+
+01:01:03.040 --> 01:01:06.400
+everything is working. I also paid the
+
+01:01:04.400 --> 01:01:08.720
+$13 myself and it worked. Do you see
+
+01:01:06.400 --> 01:01:11.040
+that conversion in the pixel? Okay, so
+
+01:01:08.720 --> 01:01:13.839
+it's working on everything. It's doing a
+
+01:01:11.040 --> 01:01:15.760
+bunch of stuff. Just waiting here. I
+
+01:01:13.839 --> 01:01:17.200
+might need to come back here and finish
+
+01:01:15.760 --> 01:01:19.359
+this up because my kids are going home
+
+01:01:17.200 --> 01:01:22.000
+from school and I tried to log off when
+
+01:01:19.359 --> 01:01:23.599
+that happens. You can see here Cloud is
+
+01:01:22.000 --> 01:01:26.000
+just taking forever. Replet's taking
+
+01:01:23.599 --> 01:01:27.839
+forever. Last week I spent 3 hours
+
+01:01:26.000 --> 01:01:30.000
+building this only waivers.com. I'm
+
+01:01:27.839 --> 01:01:32.160
+using replet.com to build it. I'm trying
+
+01:01:30.000 --> 01:01:35.280
+to solve a problem that I actually have
+
+01:01:32.160 --> 01:01:37.839
+for myself and that is getting parents
+
+01:01:35.280 --> 01:01:40.160
+to sign liability waivers for youth.
+
+01:01:37.839 --> 01:01:42.799
+That's actually quite hard to do because
+
+01:01:40.160 --> 01:01:44.240
+it's a cumbersome form and there's like,
+
+01:01:42.799 --> 01:01:45.920
+you know, what allergies do they have
+
+01:01:44.240 --> 01:01:47.440
+and you have to like handwrite it and
+
+01:01:45.920 --> 01:01:48.960
+it's just outdated. So, I'm trying to
+
+01:01:47.440 --> 01:01:51.599
+fix that so we can all be honest with
+
+01:01:48.960 --> 01:01:52.720
+each other here. I worked on the app a
+
+01:01:51.599 --> 01:01:53.920
+little bit. So, I'm going to get you
+
+01:01:52.720 --> 01:01:55.760
+caught up to speed on everything I've
+
+01:01:53.920 --> 01:01:57.359
+done. It's not done yet. I think the
+
+01:01:55.760 --> 01:01:58.880
+product is basically done. Surely, there
+
+01:01:57.359 --> 01:02:00.640
+are some bugs that I'll find later, but
+
+01:01:58.880 --> 01:02:02.319
+I have not started Facebook ads. I
+
+01:02:00.640 --> 01:02:03.680
+haven't done any marketing yet except
+
+01:02:02.319 --> 01:02:04.880
+for one little thing that has zero
+
+01:02:03.680 --> 01:02:07.200
+views. So, I won't even count that,
+
+01:02:04.880 --> 01:02:09.280
+which I'll talk about in a minute. So,
+
+01:02:07.200 --> 01:02:11.200
+I'm redesigning the homepage a little
+
+01:02:09.280 --> 01:02:12.480
+bit to add more trust signals. I want
+
+01:02:11.200 --> 01:02:14.000
+people to know that a real human is
+
+01:02:12.480 --> 01:02:17.119
+behind this, that I'm behind this, and
+
+01:02:14.000 --> 01:02:19.280
+that I stand behind these 13 and $17
+
+01:02:17.119 --> 01:02:21.920
+fees that I'm charging and that I have a
+
+01:02:19.280 --> 01:02:24.319
+100% satisfaction guarantee, lifetime
+
+01:02:21.920 --> 01:02:25.440
+refund policy. I don't care. I'm just
+
+01:02:24.319 --> 01:02:27.119
+trying to get a customer. I'm trying to
+
+01:02:25.440 --> 01:02:28.559
+get a foot in the door. So, I'm willing
+
+01:02:27.119 --> 01:02:30.079
+to do whatever it takes to make that
+
+01:02:28.559 --> 01:02:33.040
+happen. I'm going to do some new
+
+01:02:30.079 --> 01:02:36.160
+marketing methods. I'm going to post to
+
+01:02:33.040 --> 01:02:37.599
+Reddit a couple targeted subreddits and
+
+01:02:36.160 --> 01:02:38.880
+I'm going to post to some Facebook
+
+01:02:37.599 --> 01:02:40.000
+groups and then I'm going to run my
+
+01:02:38.880 --> 01:02:41.520
+Facebook ads because those are already
+
+01:02:40.000 --> 01:02:45.280
+set up. Hard part's been done. I just
+
+01:02:41.520 --> 01:02:47.920
+need to hit reactivate. Okay, so here's
+
+01:02:45.280 --> 01:02:49.920
+what I've done over the last hour. I
+
+01:02:47.920 --> 01:02:52.799
+just did one prompt and here is what the
+
+01:02:49.920 --> 01:02:54.960
+prompt was. I said add more trust
+
+01:02:52.799 --> 01:02:56.960
+signals. If you remember, I took a a
+
+01:02:54.960 --> 01:02:58.799
+selfie video for my Facebook ad. I
+
+01:02:56.960 --> 01:03:00.480
+uploaded that video to Google Drive. I
+
+01:02:58.799 --> 01:03:02.880
+gave the Google Drive link to Replet and
+
+01:03:00.480 --> 01:03:04.799
+I said, "Embpage."
+
+01:03:02.880 --> 01:03:07.119
+That way, people coming from Facebook
+
+01:03:04.799 --> 01:03:08.400
+ads can see the video that they've
+
+01:03:07.119 --> 01:03:09.839
+already seen. And you might think, well,
+
+01:03:08.400 --> 01:03:11.839
+that's redundant. Why would you do that?
+
+01:03:09.839 --> 01:03:13.520
+Because it's a trust signal. It signals
+
+01:03:11.839 --> 01:03:15.119
+to them that the video that they just
+
+01:03:13.520 --> 01:03:16.640
+clicked on is also on this website. It's
+
+01:03:15.119 --> 01:03:18.319
+not a bait and switch. I'm getting what
+
+01:03:16.640 --> 01:03:19.839
+I'm expecting. I also said, go to
+
+01:03:18.319 --> 01:03:22.319
+chrisjkerner.com.
+
+01:03:19.839 --> 01:03:24.240
+Extract info from my bio there because I
+
+01:03:22.319 --> 01:03:26.319
+didn't want to have to type out my bio
+
+01:03:24.240 --> 01:03:27.760
+and put like a head shot and some bullet
+
+01:03:26.319 --> 01:03:29.039
+points of my bio on the homepage as
+
+01:03:27.760 --> 01:03:30.720
+well. So they can see that a real human
+
+01:03:29.039 --> 01:03:33.520
+is behind this. And then here's my
+
+01:03:30.720 --> 01:03:35.680
+replet page. Beautiful. Start. Start.
+
+01:03:33.520 --> 01:03:37.599
+Start. And so if you can see these four
+
+01:03:35.680 --> 01:03:39.200
+things, we've got an SEO scan happening.
+
+01:03:37.599 --> 01:03:41.039
+That's the green one. And then these
+
+01:03:39.200 --> 01:03:43.760
+three blue ones are the tasks that I
+
+01:03:41.039 --> 01:03:46.400
+just had it start. So let's go back to
+
+01:03:43.760 --> 01:03:48.400
+my homepage and see if those updates are
+
+01:03:46.400 --> 01:03:50.640
+there. I told Replet to make it a little
+
+01:03:48.400 --> 01:03:52.400
+tongue-in-cheek. Add some like niche
+
+01:03:50.640 --> 01:03:54.319
+references, some deep cuts. There it is.
+
+01:03:52.400 --> 01:03:56.160
+Yes, I built this. Watch it work. No guy
+
+01:03:54.319 --> 01:03:57.680
+in a headset. No stock footage of people
+
+01:03:56.160 --> 01:03:59.520
+shaking hands. just the actual product
+
+01:03:57.680 --> 01:04:01.039
+doing the actual thing. If you are 20 to
+
+01:03:59.520 --> 01:04:03.440
+50 years, designed for the real world,
+
+01:04:01.039 --> 01:04:05.280
+looks clean. Full transparency. This app
+
+01:04:03.440 --> 01:04:06.880
+is new. 100% lifetime money back
+
+01:04:05.280 --> 01:04:09.280
+guarantee. Not we've been around since
+
+01:04:06.880 --> 01:04:12.079
+2019. I have 50,000 users. Actually new.
+
+01:04:09.280 --> 01:04:13.599
+Built in 2025. That's not the year that
+
+01:04:12.079 --> 01:04:15.280
+we're in. So, I'll have to fix that
+
+01:04:13.599 --> 01:04:16.559
+because I kept watching leaders chase
+
+01:04:15.280 --> 01:04:17.920
+paper permission slips around the
+
+01:04:16.559 --> 01:04:19.359
+cultural hall the Saturday before every
+
+01:04:17.920 --> 01:04:21.760
+activity. That's actually true. The
+
+01:04:19.359 --> 01:04:23.599
+waiver process it replaces is about 40
+
+01:04:21.760 --> 01:04:25.359
+years old. I like our odds. Don't trust
+
+01:04:23.599 --> 01:04:26.960
+me yet. Google my name. I have a
+
+01:04:25.359 --> 01:04:29.359
+Wikipedia page. I built four companies,
+
+01:04:26.960 --> 01:04:31.520
+yada yada yada. I'm not going to risk it
+
+01:04:29.359 --> 01:04:32.799
+for $13. That would be embarrassing. If
+
+01:04:31.520 --> 01:04:34.319
+you hate it, I'll refund you. No
+
+01:04:32.799 --> 01:04:35.839
+questions asked. I'm the ward member who
+
+01:04:34.319 --> 01:04:38.640
+got tired of a clipboard. There it is.
+
+01:04:35.839 --> 01:04:41.039
+It pulled all this from my uh website.
+
+01:04:38.640 --> 01:04:42.880
+Oh, Wikipedia. Okay, current office.
+
+01:04:41.039 --> 01:04:45.599
+Awesome. Get in touch. That works. I
+
+01:04:42.880 --> 01:04:48.000
+tested it earlier. 2026 there, but it
+
+01:04:45.599 --> 01:04:50.160
+says 2025 in the blurb. Got to fix that.
+
+01:04:48.000 --> 01:04:52.720
+We now have This is another thing I did.
+
+01:04:50.160 --> 01:04:54.880
+Resources page with one prompt. I added
+
+01:04:52.720 --> 01:04:56.880
+a blog that's SEOfriendly. how to send
+
+01:04:54.880 --> 01:04:59.039
+liability waiverss. I want to get Chad
+
+01:04:56.880 --> 01:05:01.280
+GPT to start recommending me. Still has
+
+01:04:59.039 --> 01:05:05.039
+my pricing, but what I'm most excited
+
+01:05:01.280 --> 01:05:08.559
+about is this. I now have like a live
+
+01:05:05.039 --> 01:05:10.640
+preview page so I can see how the form
+
+01:05:08.559 --> 01:05:14.799
+filling out process actually looks and
+
+01:05:10.640 --> 01:05:17.359
+feels without having to pay 13 or $17 as
+
+01:05:14.799 --> 01:05:19.359
+a phony customer and trying it myself.
+
+01:05:17.359 --> 01:05:21.839
+The version of the form that was live a
+
+01:05:19.359 --> 01:05:23.440
+few days ago when I last filmed was not
+
+01:05:21.839 --> 01:05:25.520
+thorough enough. It didn't ask for
+
+01:05:23.440 --> 01:05:26.799
+allergies or emergency contact. It just
+
+01:05:25.520 --> 01:05:29.280
+said, "What's your kid's name? Sign
+
+01:05:26.799 --> 01:05:31.680
+here." That's not going to fly. So now
+
+01:05:29.280 --> 01:05:33.280
+it's like super super intuitive. And I
+
+01:05:31.680 --> 01:05:35.200
+used Claude. I'll show you the prompt
+
+01:05:33.280 --> 01:05:37.520
+that I used later, but I used Claude to
+
+01:05:35.200 --> 01:05:39.920
+like describe in a technical way how
+
+01:05:37.520 --> 01:05:41.920
+this prompt should look. Address,
+
+01:05:39.920 --> 01:05:44.319
+emergency name, medical info. Look at
+
+01:05:41.920 --> 01:05:46.240
+this. None of these apply is the default
+
+01:05:44.319 --> 01:05:48.319
+option cuz most people don't write these
+
+01:05:46.240 --> 01:05:50.480
+in. If you check yes on any of them,
+
+01:05:48.319 --> 01:05:53.200
+then none of these apply. Reverts back
+
+01:05:50.480 --> 01:05:55.760
+that way. If no one checks anything,
+
+01:05:53.200 --> 01:05:58.400
+then it will fill out the actual form
+
+01:05:55.760 --> 01:06:00.319
+with the answers submitted on this page.
+
+01:05:58.400 --> 01:06:02.400
+Okay? And then you can add other kids
+
+01:06:00.319 --> 01:06:03.599
+and it's super cool. And most of it's
+
+01:06:02.400 --> 01:06:05.920
+going to be done on the phone and you
+
+01:06:03.599 --> 01:06:08.720
+can just use your finger and sign. So
+
+01:06:05.920 --> 01:06:12.160
+pretty dang cool. This is what my app is
+
+01:06:08.720 --> 01:06:13.680
+filling out. So in the database of the
+
+01:06:12.160 --> 01:06:15.200
+church leader collecting all these
+
+01:06:13.680 --> 01:06:16.400
+forms, they're not going to have
+
+01:06:15.200 --> 01:06:18.079
+something that looks different than
+
+01:06:16.400 --> 01:06:21.280
+this. They're going to have a bunch of
+
+01:06:18.079 --> 01:06:23.680
+this exact form that's filled out with a
+
+01:06:21.280 --> 01:06:25.680
+digital signature carried over from my
+
+01:06:23.680 --> 01:06:27.920
+app. It's going to work. So, all that to
+
+01:06:25.680 --> 01:06:29.359
+be said, the homepage is live. Let's
+
+01:06:27.920 --> 01:06:31.920
+start marketing this thing. This is
+
+01:06:29.359 --> 01:06:34.880
+going to be the fun part of this. So,
+
+01:06:31.920 --> 01:06:37.520
+I'm going to start with Reddit. I'm
+
+01:06:34.880 --> 01:06:39.520
+using Fable 5 to type a Reddit post for
+
+01:06:37.520 --> 01:06:42.000
+me that I can post in the Latterday
+
+01:06:39.520 --> 01:06:44.880
+Saint about what I've built. I think I
+
+01:06:42.000 --> 01:06:47.039
+have a whole other video about marketing
+
+01:06:44.880 --> 01:06:49.119
+on Reddit. There are ways to profitably
+
+01:06:47.039 --> 01:06:51.520
+launch products on Reddit, but you have
+
+01:06:49.119 --> 01:06:53.440
+to go through the back doors back door.
+
+01:06:51.520 --> 01:06:55.680
+In my experience, the best way to
+
+01:06:53.440 --> 01:06:57.520
+promote on Reddit is to just write a
+
+01:06:55.680 --> 01:06:59.839
+true factual story about what you've
+
+01:06:57.520 --> 01:07:02.000
+done and why you did it and not link to
+
+01:06:59.839 --> 01:07:04.160
+it. Not even name what it is. Just tell
+
+01:07:02.000 --> 01:07:06.240
+your story. And then as it starts to do
+
+01:07:04.160 --> 01:07:08.480
+well and you see the views climb and you
+
+01:07:06.240 --> 01:07:10.559
+see people are commenting, a answer
+
+01:07:08.480 --> 01:07:13.039
+comments telling people what it is cuz
+
+01:07:10.559 --> 01:07:15.680
+that's usually allowed. B, you can edit
+
+01:07:13.039 --> 01:07:17.680
+the post and add a link or the name of
+
+01:07:15.680 --> 01:07:19.359
+your thing near the bottom of the post.
+
+01:07:17.680 --> 01:07:21.039
+Sometimes if moderators are really
+
+01:07:19.359 --> 01:07:23.119
+strict and grumpy, they'll delete your
+
+01:07:21.039 --> 01:07:24.559
+post when you add a link. Usually, in my
+
+01:07:23.119 --> 01:07:27.119
+experience, they won't. They'll leave it
+
+01:07:24.559 --> 01:07:29.200
+up because you've derisked the post by
+
+01:07:27.119 --> 01:07:30.880
+then. The moderators already see that
+
+01:07:29.200 --> 01:07:32.240
+their own community loves your post and
+
+01:07:30.880 --> 01:07:35.280
+they love you and they can see what the
+
+01:07:32.240 --> 01:07:37.119
+upvote rate is. It's 93% of people are
+
+01:07:35.280 --> 01:07:38.480
+upvoting it versus downvoting it. They
+
+01:07:37.119 --> 01:07:39.680
+can see all the comments, engagements,
+
+01:07:38.480 --> 01:07:41.119
+they can see the sentiment, and they're
+
+01:07:39.680 --> 01:07:43.520
+like, "Probably going to do more harm
+
+01:07:41.119 --> 01:07:45.599
+than good if we delete this post." So,
+
+01:07:43.520 --> 01:07:48.559
+we don't want to do that. Okay. But
+
+01:07:45.599 --> 01:07:50.240
+Claude wrote a story here that is not
+
+01:07:48.559 --> 01:07:52.400
+true. Okay. So, I basically just told
+
+01:07:50.240 --> 01:07:55.039
+Claude, "Don't lie." Meanwhile, we're
+
+01:07:52.400 --> 01:07:59.280
+going to go over to Facebook. We are
+
+01:07:55.039 --> 01:08:02.559
+going to see if I was accepted into any
+
+01:07:59.280 --> 01:08:05.839
+of these groups. Okay, this one has
+
+01:08:02.559 --> 01:08:09.599
+500,000 members. It's a public group.
+
+01:08:05.839 --> 01:08:11.599
+300 likes. Okay, 200 likes. Okay, this
+
+01:08:09.599 --> 01:08:13.039
+one looks pretty active. There's almost
+
+01:08:11.599 --> 01:08:15.039
+too many people in here and there's not
+
+01:08:13.039 --> 01:08:16.239
+a ton of engagement compared to how many
+
+01:08:15.039 --> 01:08:18.560
+people are in here, but it looks good
+
+01:08:16.239 --> 01:08:20.159
+enough for me to post. So, I'm not going
+
+01:08:18.560 --> 01:08:22.080
+to use AI to post this cuz sometimes
+
+01:08:20.159 --> 01:08:24.080
+it's faster to just write it yourself.
+
+01:08:22.080 --> 01:08:27.120
+So, I'm just going to say, okay, so I'm
+
+01:08:24.080 --> 01:08:29.839
+speaking to the pain point and posts
+
+01:08:27.120 --> 01:08:32.640
+that have a picture or a video of some
+
+01:08:29.839 --> 01:08:34.319
+sort always perform better. Always. So,
+
+01:08:32.640 --> 01:08:35.600
+I'm just going to screenshot the waiver
+
+01:08:34.319 --> 01:08:37.600
+itself so they know what I'm talking
+
+01:08:35.600 --> 01:08:39.120
+about and I'm going to post it and it
+
+01:08:37.600 --> 01:08:40.960
+should get approved. You know, different
+
+01:08:39.120 --> 01:08:42.719
+groups have different rules. Some groups
+
+01:08:40.960 --> 01:08:44.480
+go through like the moderators first.
+
+01:08:42.719 --> 01:08:45.839
+Yep, this one's going to the moderators.
+
+01:08:44.480 --> 01:08:47.679
+I don't know how long it will take to be
+
+01:08:45.839 --> 01:08:49.440
+approved, but it should be approved. And
+
+01:08:47.679 --> 01:08:51.199
+then in the comments is where the magic
+
+01:08:49.440 --> 01:08:53.120
+will happen. I will talk about my
+
+01:08:51.199 --> 01:08:54.799
+solution and basically finish what I was
+
+01:08:53.120 --> 01:08:55.920
+saying in that post. Let's go to another
+
+01:08:54.799 --> 01:08:57.520
+group. Let's do the same thing.
+
+01:08:55.920 --> 01:08:59.839
+Surprised there hasn't been a better
+
+01:08:57.520 --> 01:09:01.279
+solution for this. Okay. And it is
+
+01:08:59.839 --> 01:09:02.640
+actually interesting. Sometimes I see
+
+01:09:01.279 --> 01:09:04.960
+groups that don't have much engagement,
+
+01:09:02.640 --> 01:09:07.520
+but if you post like a thought-provoking
+
+01:09:04.960 --> 01:09:09.920
+question that is designed to generate
+
+01:09:07.520 --> 01:09:11.759
+replies, answers, comments, Facebook
+
+01:09:09.920 --> 01:09:13.520
+will start showing it to a lot more
+
+01:09:11.759 --> 01:09:15.440
+people in the group than it usually
+
+01:09:13.520 --> 01:09:17.359
+shows post to because it sees that this
+
+01:09:15.440 --> 01:09:18.880
+post is an outlier. It's getting a lot
+
+01:09:17.359 --> 01:09:20.719
+more engagement than normal because
+
+01:09:18.880 --> 01:09:22.640
+you're soliciting comments. So, it will
+
+01:09:20.719 --> 01:09:24.000
+show it to more people. And sometimes
+
+01:09:22.640 --> 01:09:25.679
+it's not that hard to be the best
+
+01:09:24.000 --> 01:09:27.520
+performing post in a group even if
+
+01:09:25.679 --> 01:09:29.839
+you're brand new. Okay, let's just try
+
+01:09:27.520 --> 01:09:33.839
+it. Same thing. and we're going to
+
+01:09:29.839 --> 01:09:36.719
+screenshot the waiver again. All right,
+
+01:09:33.839 --> 01:09:38.880
+post. Okay, submitted for approval. Now,
+
+01:09:36.719 --> 01:09:40.719
+let's go to our Facebook ads. So, right
+
+01:09:38.880 --> 01:09:42.400
+before this live stream started, I found
+
+01:09:40.719 --> 01:09:44.480
+this post in the Latter Day Saints
+
+01:09:42.400 --> 01:09:46.880
+subreddit that's pinned and it says self
+
+01:09:44.480 --> 01:09:48.880
+promotion time. 28 days ago, and they're
+
+01:09:46.880 --> 01:09:51.839
+encouraging people to promote
+
+01:09:48.880 --> 01:09:53.920
+themselves. So, I posted right here. You
+
+01:09:51.839 --> 01:09:56.719
+can see 10 minutes ago it was posted. I
+
+01:09:53.920 --> 01:09:58.480
+have one view and it's my own. So, I
+
+01:09:56.719 --> 01:10:00.400
+didn't expect it to do much, but it's an
+
+01:09:58.480 --> 01:10:02.320
+asymmetric bet. If I wanted, I could
+
+01:10:00.400 --> 01:10:03.840
+send the link directly to my comment to
+
+01:10:02.320 --> 01:10:05.120
+a bunch of friends that are on uh Reddit
+
+01:10:03.840 --> 01:10:06.880
+and say, "Hey, could you upvote this?"
+
+01:10:05.120 --> 01:10:08.719
+And that would kind of send a signal to
+
+01:10:06.880 --> 01:10:10.800
+Reddit that maybe we should surface this
+
+01:10:08.719 --> 01:10:13.199
+to more people cuz it can it can sort
+
+01:10:10.800 --> 01:10:15.840
+comments however it sees fit. So, let's
+
+01:10:13.199 --> 01:10:18.320
+go in here. I want to see how active
+
+01:10:15.840 --> 01:10:21.120
+this community is. 3,000 weekly
+
+01:10:18.320 --> 01:10:23.199
+contributors out of 53,000 people. Now,
+
+01:10:21.120 --> 01:10:26.719
+let's see how that compares. 3,000 out
+
+01:10:23.199 --> 01:10:30.640
+of 53,000. This one has 400 out of
+
+01:10:26.719 --> 01:10:33.120
+9,800. So that's 4% verse like 8% on the
+
+01:10:30.640 --> 01:10:34.800
+other one, give or take. So I win in two
+
+01:10:33.120 --> 01:10:38.480
+different ways. This one's five times
+
+01:10:34.800 --> 01:10:42.000
+bigger and it's twice as active. We're
+
+01:10:38.480 --> 01:10:43.600
+going to go to hot post. I love doing
+
+01:10:42.000 --> 01:10:45.679
+this. You can totally see what type of
+
+01:10:43.600 --> 01:10:47.440
+post resonates with people. Top post
+
+01:10:45.679 --> 01:10:48.800
+this week. Anyone else just not care
+
+01:10:47.440 --> 01:10:50.640
+about church anymore? All right, that
+
+01:10:48.800 --> 01:10:52.239
+was six days ago. Opening chapters of
+
+01:10:50.640 --> 01:10:55.280
+Job, which we've been learning about
+
+01:10:52.239 --> 01:10:57.920
+this week. some drama. So, we'll go to
+
+01:10:55.280 --> 01:10:59.600
+create post and we're going to paste
+
+01:10:57.920 --> 01:11:02.000
+that in there and I'm going to do kind
+
+01:10:59.600 --> 01:11:03.760
+of an intriguing title. That looks too
+
+01:11:02.000 --> 01:11:06.880
+perfect. So, I'm gonna take it back to
+
+01:11:03.760 --> 01:11:08.560
+Claude and say I said add in some typos
+
+01:11:06.880 --> 01:11:10.800
+and sloppy grammar. Just a few not
+
+01:11:08.560 --> 01:11:12.480
+perfect sentences. Needs to look more
+
+01:11:10.800 --> 01:11:14.480
+real. All right, it's a little better.
+
+01:11:12.480 --> 01:11:16.719
+It still doesn't look super realistic.
+
+01:11:14.480 --> 01:11:18.239
+And then let's go ahead and So, we're
+
+01:11:16.719 --> 01:11:21.199
+speaking to the pain points. We're going
+
+01:11:18.239 --> 01:11:23.040
+to screenshot it and we're going to add
+
+01:11:21.199 --> 01:11:25.120
+the image. Actually, we're not going to
+
+01:11:23.040 --> 01:11:26.159
+add an image because in some subreddits,
+
+01:11:25.120 --> 01:11:27.679
+it can put it in like a different
+
+01:11:26.159 --> 01:11:30.159
+section. So, I'm going to leave this
+
+01:11:27.679 --> 01:11:32.560
+image free. Okay. So, it's telling me to
+
+01:11:30.159 --> 01:11:34.800
+repost in other communities. Okay. So, I
+
+01:11:32.560 --> 01:11:36.400
+will post it in one more subreddit.
+
+01:11:34.800 --> 01:11:38.560
+Okay. Start running my Facebook ad
+
+01:11:36.400 --> 01:11:40.400
+campaigns again. Posted twice to Reddit
+
+01:11:38.560 --> 01:11:42.400
+and it's already removed by the
+
+01:11:40.400 --> 01:11:45.280
+moderators of the second subreddit. So,
+
+01:11:42.400 --> 01:11:47.920
+that's okay. I have 49 views on the
+
+01:11:45.280 --> 01:11:49.840
+original subreddit. And right there.
+
+01:11:47.920 --> 01:11:51.679
+Okay. So, we'll go back. Look at this.
+
+01:11:49.840 --> 01:11:52.800
+It was removed by the moderators, which
+
+01:11:51.679 --> 01:11:54.719
+means they probably don't allow
+
+01:11:52.800 --> 01:11:57.520
+crossosting. Like it was an automated
+
+01:11:54.719 --> 01:12:00.159
+thing, not manual. So 58 views. It's
+
+01:11:57.520 --> 01:12:03.199
+kind of crazy. Like 58 eyeballs on this
+
+01:12:00.159 --> 01:12:05.120
+within the first 3 minutes. Literally 58
+
+01:12:03.199 --> 01:12:07.199
+eyeballs for free. And I don't have like
+
+01:12:05.120 --> 01:12:08.800
+a paid Reddit account. Like this is just
+
+01:12:07.199 --> 01:12:10.800
+I don't have a bunch of followers. The
+
+01:12:08.800 --> 01:12:12.320
+whole premise of this video is I can't
+
+01:12:10.800 --> 01:12:13.679
+use my audience, which is one reason why
+
+01:12:12.320 --> 01:12:14.960
+I'm posting to Reddit because Reddit's
+
+01:12:13.679 --> 01:12:17.360
+not a place where you really build an
+
+01:12:14.960 --> 01:12:19.199
+audience. So 75 views in the first four
+
+01:12:17.360 --> 01:12:20.640
+minutes. I'm enthused by that. Now, no
+
+01:12:19.199 --> 01:12:22.640
+one knows what it is yet. No one could
+
+01:12:20.640 --> 01:12:24.480
+go to my website, but theoretically,
+
+01:12:22.640 --> 01:12:25.840
+people will start commenting and I can
+
+01:12:24.480 --> 01:12:28.400
+reply to those comments and it's
+
+01:12:25.840 --> 01:12:31.760
+tedious, but it's worth it. So, let's go
+
+01:12:28.400 --> 01:12:33.600
+over to ads manager. There it is. Okay,
+
+01:12:31.760 --> 01:12:36.000
+check the box. There it is. It's
+
+01:12:33.600 --> 01:12:37.360
+learning right now. LDS selfie video
+
+01:12:36.000 --> 01:12:40.719
+right there. We're going to change the
+
+01:12:37.360 --> 01:12:43.360
+date to today. Update. We do not have
+
+01:12:40.719 --> 01:12:44.880
+any landing page views yet, but that's
+
+01:12:43.360 --> 01:12:46.560
+okay. We're going to AB test. We're
+
+01:12:44.880 --> 01:12:48.640
+going to add four more to the primary
+
+01:12:46.560 --> 01:12:51.760
+text, the headline, and the description.
+
+01:12:48.640 --> 01:12:54.080
+Super easy. We'll go back to Claude. My
+
+01:12:51.760 --> 01:12:56.239
+prompt to Claude. Take the one ad and AB
+
+01:12:54.080 --> 01:12:57.840
+test five different headline, text, and
+
+01:12:56.239 --> 01:12:59.920
+description on it to accelerate my
+
+01:12:57.840 --> 01:13:01.840
+learning and results. Also do an audit
+
+01:12:59.920 --> 01:13:04.000
+of what we can maybe fix in the ad. Very
+
+01:13:01.840 --> 01:13:05.920
+impatient. Don't want to make a new ad
+
+01:13:04.000 --> 01:13:07.920
+or get it approved again. Okay, let's
+
+01:13:05.920 --> 01:13:09.600
+look what Claude is saying. Any copy
+
+01:13:07.920 --> 01:13:11.440
+change is technically new creative, so
+
+01:13:09.600 --> 01:13:13.040
+re-review is physically unavoidable.
+
+01:13:11.440 --> 01:13:15.120
+There's a version. Okay, we're going to
+
+01:13:13.040 --> 01:13:17.600
+duplicate it. multiple text options.
+
+01:13:15.120 --> 01:13:19.760
+Dude, no, you do this for me. You add
+
+01:13:17.600 --> 01:13:21.360
+the UTMs and those five variations for
+
+01:13:19.760 --> 01:13:23.679
+me is what I said. I don't know that it
+
+01:13:21.360 --> 01:13:26.239
+can. It only has so many permissions. A
+
+01:13:23.679 --> 01:13:28.880
+UTM parameter is basically adding
+
+01:13:26.239 --> 01:13:31.040
+something like that to a link so you can
+
+01:13:28.880 --> 01:13:32.880
+track where that link came from. It says
+
+01:13:31.040 --> 01:13:34.560
+this will reset the learning phase, but
+
+01:13:32.880 --> 01:13:37.440
+our learning phase has only been like an
+
+01:13:34.560 --> 01:13:39.120
+hour. We ran this this ad on Tuesday for
+
+01:13:37.440 --> 01:13:40.880
+like an hour, so I'm not really worried
+
+01:13:39.120 --> 01:13:44.000
+about resetting anything. Another thing
+
+01:13:40.880 --> 01:13:45.920
+we can do is duplicate the ad and AB
+
+01:13:44.000 --> 01:13:47.199
+test it. That way we don't have to reset
+
+01:13:45.920 --> 01:13:48.880
+anything. I'm actually going to stop it
+
+01:13:47.199 --> 01:13:53.840
+and tell it to do that. Let's see if
+
+01:13:48.880 --> 01:13:55.920
+anyone has read it. 192 views, two up
+
+01:13:53.840 --> 01:13:57.760
+votes, one comment. Let's look at how
+
+01:13:55.920 --> 01:14:00.000
+much Claude is doing for me here. Look
+
+01:13:57.760 --> 01:14:01.520
+at that. It's creating ads. That's so
+
+01:14:00.000 --> 01:14:03.280
+cool. Like, if you've never run Facebook
+
+01:14:01.520 --> 01:14:05.440
+ads before, you couldn't know how
+
+01:14:03.280 --> 01:14:08.640
+magical this is. Facebook ads are either
+
+01:14:05.440 --> 01:14:10.080
+thousands a month paid to an agency or
+
+01:14:08.640 --> 01:14:12.080
+hours per month banging your head
+
+01:14:10.080 --> 01:14:13.600
+against the wall. Tedious, tedious, AB
+
+01:14:12.080 --> 01:14:15.360
+test, try this, try this, test that,
+
+01:14:13.600 --> 01:14:16.960
+watch this, babysit that, fix that, that
+
+01:14:15.360 --> 01:14:18.480
+broke, make more creative, more videos,
+
+01:14:16.960 --> 01:14:20.880
+more ads, more, more, more. Like, it is
+
+01:14:18.480 --> 01:14:22.640
+a literal full-time job. So, to just
+
+01:14:20.880 --> 01:14:24.880
+type a prompt into Claude, it's insane.
+
+01:14:22.640 --> 01:14:28.239
+Look, done. I even need to reprompt it,
+
+01:14:24.880 --> 01:14:29.840
+duplicate it, done. Okay, so now we have
+
+01:14:28.239 --> 01:14:32.080
+six ads running, but I'm not sure if
+
+01:14:29.840 --> 01:14:34.640
+what it did, which is make five separate
+
+01:14:32.080 --> 01:14:36.320
+ads under one ad set, is better than
+
+01:14:34.640 --> 01:14:38.320
+just making one ad that has five
+
+01:14:36.320 --> 01:14:40.320
+variations of those three things. Is
+
+01:14:38.320 --> 01:14:42.239
+making five ads in an ad set a cleaner
+
+01:14:40.320 --> 01:14:43.520
+AB test than one ad with five different
+
+01:14:42.239 --> 01:14:45.360
+variations of text, headline,
+
+01:14:43.520 --> 01:14:50.320
+description? No, it's messier. Then why
+
+01:14:45.360 --> 01:14:52.080
+did you do it? All I wanted you to do
+
+01:14:50.320 --> 01:14:54.560
+should we still do that or roll with
+
+01:14:52.080 --> 01:14:56.880
+this? Said we should roll with it. All
+
+01:14:54.560 --> 01:14:59.920
+right, it is it does give me per message
+
+01:14:56.880 --> 01:15:01.920
+UTMs as in I can see specifically in
+
+01:14:59.920 --> 01:15:04.320
+Stripe where the paying customers are
+
+01:15:01.920 --> 01:15:06.560
+coming from which ad whereas if we did
+
+01:15:04.320 --> 01:15:10.159
+this all within one ad I couldn't. Let's
+
+01:15:06.560 --> 01:15:11.760
+go check on ads manager ourselves. Wow,
+
+01:15:10.159 --> 01:15:13.760
+two of the five are already active and
+
+01:15:11.760 --> 01:15:15.920
+these three are in review per landing
+
+01:15:13.760 --> 01:15:18.640
+page view. So remember, meta is
+
+01:15:15.920 --> 01:15:21.199
+optimizing, aka working hard to try to
+
+01:15:18.640 --> 01:15:23.120
+find people that are more likely to
+
+01:15:21.199 --> 01:15:24.560
+click and actually get to the landing
+
+01:15:23.120 --> 01:15:26.400
+page, which is not the same thing as
+
+01:15:24.560 --> 01:15:27.679
+merely clicking. Some people click and
+
+01:15:26.400 --> 01:15:29.120
+then they bounce. They need to land on
+
+01:15:27.679 --> 01:15:31.280
+the landing page and Meta knows that
+
+01:15:29.120 --> 01:15:32.960
+they're landing there because I have a
+
+01:15:31.280 --> 01:15:34.800
+pixel there. If you don't know what that
+
+01:15:32.960 --> 01:15:37.120
+means or how to do it, you just say,
+
+01:15:34.800 --> 01:15:38.640
+"Claude, how do I add a pixel to my
+
+01:15:37.120 --> 01:15:41.280
+website?" And it will tell you. We're
+
+01:15:38.640 --> 01:15:43.679
+going to check on Reddit. 319 views in
+
+01:15:41.280 --> 01:15:46.320
+16 minutes. This is one of your top 100
+
+01:15:43.679 --> 01:15:49.760
+posts of all time. Four up votes, five
+
+01:15:46.320 --> 01:15:52.080
+comments. Gonna go back to Facebook Ads
+
+01:15:49.760 --> 01:15:54.000
+Manager. Refresh it. All right, we got
+
+01:15:52.080 --> 01:15:55.920
+some views. This doesn't take long. It's
+
+01:15:54.000 --> 01:15:58.000
+been like 10 minutes since I made that
+
+01:15:55.920 --> 01:16:00.960
+live. Here we go. The original one that
+
+01:15:58.000 --> 01:16:03.520
+I posted 3 days ago has 11 clicks, 11
+
+01:16:00.960 --> 01:16:06.320
+landing page views. It's reached 3200
+
+01:16:03.520 --> 01:16:08.960
+people. The frequency is 1.12, which
+
+01:16:06.320 --> 01:16:12.320
+means of these 3,200 people, they have
+
+01:16:08.960 --> 01:16:14.239
+all seen it on average 1.12 times. So
+
+01:16:12.320 --> 01:16:15.227
+10% of people have seen it twice. I
+
+01:16:14.239 --> 01:16:17.440
+think I'm doing that right. And
+
+01:16:15.227 --> 01:16:20.080
+[clears throat] I'm paying $1.49 per
+
+01:16:17.440 --> 01:16:21.920
+landing page view. Sheesh. That is a
+
+01:16:20.080 --> 01:16:25.440
+lot. It can only go down from there.
+
+01:16:21.920 --> 01:16:29.760
+Hopefully. I'm paying 456 per,000 views,
+
+01:16:25.440 --> 01:16:32.480
+17 link clicks, 96 cent cost per click.
+
+01:16:29.760 --> 01:16:35.679
+Okay, so I'm spending a dollar cost per
+
+01:16:32.480 --> 01:16:37.600
+click, $150 per landing page view. So I
+
+01:16:35.679 --> 01:16:39.120
+think that's like twothirds of clickers
+
+01:16:37.600 --> 01:16:40.880
+are ending up on the landing page.
+
+01:16:39.120 --> 01:16:42.719
+Clickthrough rate is only 1%. That is
+
+01:16:40.880 --> 01:16:44.640
+not good. All right. Now, let me show
+
+01:16:42.719 --> 01:16:46.560
+you how to do this. So, you got to go to
+
+01:16:44.640 --> 01:16:48.960
+columns, performance and clicks, and you
+
+01:16:46.560 --> 01:16:51.679
+go to customize columns. And we can look
+
+01:16:48.960 --> 01:16:53.840
+at all of the columns that only we want
+
+01:16:51.679 --> 01:16:55.760
+to see. So, I already know they're
+
+01:16:53.840 --> 01:16:57.840
+delivering results. I don't need to see
+
+01:16:55.760 --> 01:17:00.000
+that frequency. I don't care. I don't
+
+01:16:57.840 --> 01:17:01.440
+care when it ends, what the schedule is.
+
+01:17:00.000 --> 01:17:02.880
+I don't care about the quality ranking,
+
+01:17:01.440 --> 01:17:05.840
+engagement rate. I don't care about any
+
+01:17:02.880 --> 01:17:08.960
+of these. I don't care about CPM, shop
+
+01:17:05.840 --> 01:17:11.440
+clicks. I do want cost per landing page
+
+01:17:08.960 --> 01:17:14.320
+view. And then you can just go down here
+
+01:17:11.440 --> 01:17:16.800
+and see what else do I want to see. How
+
+01:17:14.320 --> 01:17:19.840
+many 3- second video plays? How many
+
+01:17:16.800 --> 01:17:22.320
+through plays, which means 15 seconds.
+
+01:17:19.840 --> 01:17:25.120
+Remember, my video, my ad is 31 seconds.
+
+01:17:22.320 --> 01:17:27.040
+A through play is them watching at least
+
+01:17:25.120 --> 01:17:29.600
+15 seconds. I want to see that. I want
+
+01:17:27.040 --> 01:17:31.440
+to see cost per unique click. I don't
+
+01:17:29.600 --> 01:17:34.560
+need to see those. Some of these are
+
+01:17:31.440 --> 01:17:36.719
+redundant. I'll see that. And then I'm
+
+01:17:34.560 --> 01:17:39.760
+going to hit the dropown save as a new
+
+01:17:36.719 --> 01:17:42.080
+preset. Only waiverss. So now when I
+
+01:17:39.760 --> 01:17:43.920
+have this preset selected, I will only
+
+01:17:42.080 --> 01:17:46.000
+see the columns that I want to see. I
+
+01:17:43.920 --> 01:17:48.080
+don't need to see actions or reach.
+
+01:17:46.000 --> 01:17:51.199
+Let's look at Google Analytics. Only
+
+01:17:48.080 --> 01:17:53.440
+waiverss view real time. 49 active users
+
+01:17:51.199 --> 01:17:57.120
+in the last 2 minutes. I'm going to make
+
+01:17:53.440 --> 01:17:59.280
+sure that my contact us form still
+
+01:17:57.120 --> 01:18:01.360
+works. And it doesn't. My contact us
+
+01:17:59.280 --> 01:18:03.360
+form does not work. Oh, another thing I
+
+01:18:01.360 --> 01:18:06.880
+did over the last few days that I
+
+01:18:03.360 --> 01:18:08.719
+switched the email sending service from
+
+01:18:06.880 --> 01:18:10.719
+Send Grid to resend. I got them
+
+01:18:08.719 --> 01:18:12.560
+confused. I always use resend. I already
+
+01:18:10.719 --> 01:18:15.120
+had resend connected to my replet
+
+01:18:12.560 --> 01:18:17.600
+account, so I just I use that again. All
+
+01:18:15.120 --> 01:18:20.480
+right. Hopefully it fixes the contact us
+
+01:18:17.600 --> 01:18:22.800
+form. Go check on ads manager. So my
+
+01:18:20.480 --> 01:18:25.360
+cost per landing page view was what was
+
+01:18:22.800 --> 01:18:26.800
+it? $1.50. If you look at this, it has
+
+01:18:25.360 --> 01:18:30.960
+already dropped over the course of 10
+
+01:18:26.800 --> 01:18:34.480
+minutes to 65 from $1.50. So that's
+
+01:18:30.960 --> 01:18:37.600
+great. I'm spending 47 cents per unique
+
+01:18:34.480 --> 01:18:39.760
+click and 65 cents per unique landing
+
+01:18:37.600 --> 01:18:42.880
+page view. Click-through rate, what was
+
+01:18:39.760 --> 01:18:47.040
+it? 1% before, so that's gone up 14%.
+
+01:18:42.880 --> 01:18:49.760
+We've have 158 3se secondond video plays
+
+01:18:47.040 --> 01:18:52.080
+and 23 through plays. Oh, a lot of
+
+01:18:49.760 --> 01:18:53.840
+traffic on the website at this point. 22
+
+01:18:52.080 --> 01:18:55.600
+users in the last 5 minutes. It was just
+
+01:18:53.840 --> 01:18:57.360
+five. So, people are using it. You know
+
+01:18:55.600 --> 01:18:59.679
+what? I kind of just want to like only
+
+01:18:57.360 --> 01:19:01.920
+show this ad to people in Utah or Utah
+
+01:18:59.679 --> 01:19:03.760
+County. highest concentration of members
+
+01:19:01.920 --> 01:19:05.600
+of the church in the world. I would bet
+
+01:19:03.760 --> 01:19:07.679
+that some of my new ads are active,
+
+01:19:05.600 --> 01:19:10.000
+which is why we went from five to 28
+
+01:19:07.679 --> 01:19:12.640
+users over the last five or 10 minutes.
+
+01:19:10.000 --> 01:19:15.440
+Okay. Yep, there we go. The Crayon story
+
+01:19:12.640 --> 01:19:17.120
+video has six impressions in one click.
+
+01:19:15.440 --> 01:19:19.760
+Clickthrough rate just went up a little
+
+01:19:17.120 --> 01:19:22.000
+bit more. We'll refresh Ads Manager.
+
+01:19:19.760 --> 01:19:25.760
+Clickthrough rate went up again from 1
+
+01:19:22.000 --> 01:19:28.239
+to 1.14 to 1.3%. That's a good sign on
+
+01:19:25.760 --> 01:19:30.640
+this ad. It's already 4 and 1.5% but
+
+01:19:28.239 --> 01:19:32.560
+it's a small sample size. Just as a way
+
+01:19:30.640 --> 01:19:34.400
+of zooming out, like I used to have a
+
+01:19:32.560 --> 01:19:36.640
+lot of heartburn with Facebook ads, how
+
+01:19:34.400 --> 01:19:38.800
+much they cost to really learn. But then
+
+01:19:36.640 --> 01:19:41.199
+I thought, man, how much is tuition? How
+
+01:19:38.800 --> 01:19:43.520
+much is college tuition? Costs $100,000
+
+01:19:41.199 --> 01:19:45.360
+a year to go to USC. And I know that's a
+
+01:19:43.520 --> 01:19:47.199
+random stat in a random school, but I
+
+01:19:45.360 --> 01:19:48.640
+just my best friend Nick went to USC and
+
+01:19:47.199 --> 01:19:50.320
+he told me that yesterday. It's like
+
+01:19:48.640 --> 01:19:52.560
+twice as much as what it was when he
+
+01:19:50.320 --> 01:19:54.239
+went there. $100,000 a year. $400,000
+
+01:19:52.560 --> 01:19:56.480
+for a four-year degree. You can buy a
+
+01:19:54.239 --> 01:19:58.640
+lot of Facebook ads for $400,000. You
+
+01:19:56.480 --> 01:20:01.360
+can do a lot of learning on an offer
+
+01:19:58.640 --> 01:20:02.640
+with $400,000. This one's got a 20%
+
+01:20:01.360 --> 01:20:05.520
+click-through rate. I should keep
+
+01:20:02.640 --> 01:20:07.199
+waiting. So, opportunity score 96.
+
+01:20:05.520 --> 01:20:08.320
+That's a grade out of 100. I don't know
+
+01:20:07.199 --> 01:20:09.840
+if you remember this, but when we
+
+01:20:08.320 --> 01:20:12.320
+started the ads, it was very low. It was
+
+01:20:09.840 --> 01:20:13.840
+under 50. But as Meta starts to see, oh
+
+01:20:12.320 --> 01:20:15.440
+man, maybe this guy kind of knows what
+
+01:20:13.840 --> 01:20:17.520
+he's doing. Maybe the fact that he
+
+01:20:15.440 --> 01:20:18.890
+rebuffed all of our sales pitches was a
+
+01:20:17.520 --> 01:20:19.920
+good decision for him. Hm. Who
+
+01:20:18.890 --> 01:20:21.840
+[clears throat] would have thought? And
+
+01:20:19.920 --> 01:20:23.440
+the contact us form is now fixed. One
+
+01:20:21.840 --> 01:20:25.360
+prompt. You heard the ding in the
+
+01:20:23.440 --> 01:20:28.080
+background. I just sent myself a message
+
+01:20:25.360 --> 01:20:30.800
+on the contact us form and it is fixed.
+
+01:20:28.080 --> 01:20:33.920
+Also refreshing Stripe. Oh, okay. We got
+
+01:20:30.800 --> 01:20:35.679
+a lot of impressions here now. See, this
+
+01:20:33.920 --> 01:20:37.360
+is where all those Google Analytics
+
+01:20:35.679 --> 01:20:39.520
+visitors were coming from. We got even
+
+01:20:37.360 --> 01:20:41.040
+more now, close to 30. Look at the
+
+01:20:39.520 --> 01:20:42.640
+click-through rate. The more
+
+01:20:41.040 --> 01:20:44.159
+impressions, the more accurate this
+
+01:20:42.640 --> 01:20:46.560
+number, right? Because these are very
+
+01:20:44.159 --> 01:20:49.600
+small sample sizes. But this one has 8%
+
+01:20:46.560 --> 01:20:51.199
+of the impressions as this one. 15 times
+
+01:20:49.600 --> 01:20:53.440
+better click-through rate. I like what I
+
+01:20:51.199 --> 01:20:55.760
+see here so far. Uh, I wish I could see
+
+01:20:53.440 --> 01:20:57.600
+who these ads were being shown to. Maybe
+
+01:20:55.760 --> 01:20:58.800
+Claude knows. All right, we're going
+
+01:20:57.600 --> 01:21:01.040
+over to Claude. We're checking on the
+
+01:20:58.800 --> 01:21:03.199
+MCP. I said, "How can I see where these
+
+01:21:01.040 --> 01:21:05.280
+ads are being shown to? My API access
+
+01:21:03.199 --> 01:21:07.360
+can't split stats by location, but ads
+
+01:21:05.280 --> 01:21:10.400
+manager does in two clicks." Campaign
+
+01:21:07.360 --> 01:21:12.560
+breakdown menu by delivery region. Okay,
+
+01:21:10.400 --> 01:21:16.400
+let's go do that. Breakdown. Okay, here
+
+01:21:12.560 --> 01:21:21.679
+we go. Geography region. California,
+
+01:21:16.400 --> 01:21:23.760
+Florida. Where's Utah? 41. Come on,
+
+01:21:21.679 --> 01:21:26.719
+dude. I mean, either it's magically
+
+01:21:23.760 --> 01:21:28.880
+finding members of my faith in all of
+
+01:21:26.719 --> 01:21:30.960
+these states, which it could be, but I
+
+01:21:28.880 --> 01:21:33.120
+don't I don't like this. Most of these
+
+01:21:30.960 --> 01:21:35.040
+states have 3% members of my church. I
+
+01:21:33.120 --> 01:21:36.159
+don't think it's that good that fast at
+
+01:21:35.040 --> 01:21:37.920
+finding them. All right, I'm going to
+
+01:21:36.159 --> 01:21:41.520
+tell Claude to fix it. So, I'm going to
+
+01:21:37.920 --> 01:21:45.840
+screenshot this big problem. Those
+
+01:21:41.520 --> 01:21:50.640
+states do not dominate. Show in Utah
+
+01:21:45.840 --> 01:21:52.719
+only or even Utah County only. Make the
+
+01:21:50.640 --> 01:21:55.040
+change ASAP. And it might need to like
+
+01:21:52.719 --> 01:21:56.719
+make a new ad. I don't know. Okay. Wow,
+
+01:21:55.040 --> 01:21:59.360
+it fixed it. All right. That's so cool.
+
+01:21:56.719 --> 01:22:01.360
+That is so cool. Utah only men 20 to 60
+
+01:21:59.360 --> 01:22:03.120
+hard age cap kept. All six ads still
+
+01:22:01.360 --> 01:22:04.719
+active. No re-review. Takes effect.
+
+01:22:03.120 --> 01:22:06.719
+You're right to call it. Meta is
+
+01:22:04.719 --> 01:22:08.400
+optimizing for cheap clicks anywhere. I
+
+01:22:06.719 --> 01:22:10.239
+would push back on Utah County only.
+
+01:22:08.400 --> 01:22:14.159
+County level isn't a meta option anyway.
+
+01:22:10.239 --> 01:22:18.239
+Good to know. Okay, cool. Let's based on
+
+01:22:14.159 --> 01:22:21.120
+the screenshots I sent, I want to see
+
+01:22:18.239 --> 01:22:23.840
+that if there's any correlation to
+
+01:22:21.120 --> 01:22:26.080
+success in those LDS heavy states or
+
+01:22:23.840 --> 01:22:27.840
+not. That's interesting. I had 7.3%
+
+01:22:26.080 --> 01:22:30.080
+clickthrough rate on 41 impressions in
+
+01:22:27.840 --> 01:22:32.000
+Utah, the absolute highest, which makes
+
+01:22:30.080 --> 01:22:33.840
+sense, but it's small sample size, but
+
+01:22:32.000 --> 01:22:36.080
+that's what my results could look like,
+
+01:22:33.840 --> 01:22:38.719
+right? I was getting 1%. That's seven
+
+01:22:36.080 --> 01:22:40.480
+times better early on. So, that has me
+
+01:22:38.719 --> 01:22:42.400
+excited, but it doesn't seem to be
+
+01:22:40.480 --> 01:22:44.159
+correlated with states that have a lot
+
+01:22:42.400 --> 01:22:45.679
+of members of the church. Okay, now I'm
+
+01:22:44.159 --> 01:22:47.040
+really excited to see how this does.
+
+01:22:45.679 --> 01:22:49.520
+Still no approval on the Facebook
+
+01:22:47.040 --> 01:22:51.679
+groups. Reddit seems to be dying down.
+
+01:22:49.520 --> 01:22:54.000
+We're at 1,400 views, but this is the
+
+01:22:51.679 --> 01:22:55.679
+number eight post on the Latter Day
+
+01:22:54.000 --> 01:22:57.360
+Saints subreddit today. So, there's
+
+01:22:55.679 --> 01:23:00.800
+something. All right. So, if we go to
+
+01:22:57.360 --> 01:23:03.360
+Google Analytics in real time, we'll see
+
+01:23:00.800 --> 01:23:05.199
+Utah is dark blue. That's looking great.
+
+01:23:03.360 --> 01:23:07.679
+Pricing. Three people are on the pricing
+
+01:23:05.199 --> 01:23:08.960
+page. Create a waiver. Six people are on
+
+01:23:07.679 --> 01:23:10.800
+that. So, people are going through the
+
+01:23:08.960 --> 01:23:12.239
+funnel. Form start. This is looking
+
+01:23:10.800 --> 01:23:14.432
+good. All right. I'm going to refresh
+
+01:23:12.239 --> 01:23:15.199
+Stripe.
+
+01:23:14.432 --> 01:23:18.560
+[laughter]
+
+01:23:15.199 --> 01:23:19.760
+Okay. Okay. I see a 13 in here. I
+
+01:23:18.560 --> 01:23:21.520
+haven't clicked on it yet. I'm going to
+
+01:23:19.760 --> 01:23:23.199
+change my screen over. So, this is my
+
+01:23:21.520 --> 01:23:26.000
+real Stripe page. You can see the
+
+01:23:23.199 --> 01:23:27.440
+timestamps the day. These 19 and $38.
+
+01:23:26.000 --> 01:23:29.280
+These are business plans that I sell for
+
+01:23:27.440 --> 01:23:31.440
+my YouTube videos. Okay? They come in
+
+01:23:29.280 --> 01:23:33.040
+right here. But right here, invoice
+
+01:23:31.440 --> 01:23:35.120
+subscription creation. So, this one
+
+01:23:33.040 --> 01:23:36.639
+right here, this is me. This is my test
+
+01:23:35.120 --> 01:23:37.840
+transaction that I did this morning,
+
+01:23:36.639 --> 01:23:39.120
+right? And I can't click on it because
+
+01:23:37.840 --> 01:23:40.880
+it's going to show my home address, my
+
+01:23:39.120 --> 01:23:42.880
+number, and everything. This looks
+
+01:23:40.880 --> 01:23:44.080
+exactly like this, but this is not me.
+
+01:23:42.880 --> 01:23:46.639
+All right, this is a different card
+
+01:23:44.080 --> 01:23:48.159
+number. And this happened minutes ago. I
+
+01:23:46.639 --> 01:23:50.159
+think this is a customer. I think this
+
+01:23:48.159 --> 01:23:51.679
+is our first customer. But let me click
+
+01:23:50.159 --> 01:23:53.679
+into it. I'm going to change over to
+
+01:23:51.679 --> 01:23:56.000
+Google Analytics so I can see actually
+
+01:23:53.679 --> 01:23:58.400
+who it is. Dude, the first dollar for
+
+01:23:56.000 --> 01:23:59.760
+any business is the best dollar in the
+
+01:23:58.400 --> 01:24:02.320
+world. It will never get old. I don't
+
+01:23:59.760 --> 01:24:04.719
+care if it's literally $1, $1,000,
+
+01:24:02.320 --> 01:24:07.040
+doesn't matter. We got people in Utah,
+
+01:24:04.719 --> 01:24:11.120
+Idaho, Spanish Fork, Truella. Okay, let
+
+01:24:07.040 --> 01:24:14.159
+me click into Stripe. Let's go.
+
+01:24:11.120 --> 01:24:16.159
+Boom. My dog just jumped. Sorry, bud. He
+
+01:24:14.159 --> 01:24:18.880
+was asleep. [sighs] We got a customer.
+
+01:24:16.159 --> 01:24:20.960
+Only waiverss, yearly plan, 68 cents in
+
+01:24:18.880 --> 01:24:22.639
+Stripe fees. Idaho. It's not even in
+
+01:24:20.960 --> 01:24:25.040
+Utah. It's in Idaho. It's probably that
+
+01:24:22.639 --> 01:24:27.199
+person that's been browsing in Boise
+
+01:24:25.040 --> 01:24:30.880
+who's still on my website in Boise for a
+
+01:24:27.199 --> 01:24:33.199
+while. So, there it is, folks. We did
+
+01:24:30.880 --> 01:24:35.360
+it. I've clearly lost money. I've spent
+
+01:24:33.199 --> 01:24:37.199
+probably around 100 bucks in ads so far,
+
+01:24:35.360 --> 01:24:39.760
+including the time I spent offline six
+
+01:24:37.199 --> 01:24:42.080
+hours building this app to make $13. But
+
+01:24:39.760 --> 01:24:43.840
+I feel amazing and I'm going to reach
+
+01:24:42.080 --> 01:24:45.120
+out to this person and wonder like what
+
+01:24:43.840 --> 01:24:48.719
+are they doing? What are they using it
+
+01:24:45.120 --> 01:24:50.080
+for? Yes, LDS Dr. Pepper is $13 in my
+
+01:24:48.719 --> 01:24:52.639
+Stripe account. This is real. It's
+
+01:24:50.080 --> 01:24:54.320
+confirmed. Card ending in 2525. I think
+
+01:24:52.639 --> 01:24:55.920
+that's that's what it was. Beautiful.
+
+01:24:54.320 --> 01:24:57.520
+Guys, thank you for watching. Thanks for
+
+01:24:55.920 --> 01:24:59.120
+hanging out in the Ker office. Uh this
+
+01:24:57.520 --> 01:25:00.800
+has been fun. If you want me to do this
+
+01:24:59.120 --> 01:25:03.040
+again, then let me know and I will. Love
+
+01:25:00.800 --> 01:25:03.040
+you. Bye-bye.
+

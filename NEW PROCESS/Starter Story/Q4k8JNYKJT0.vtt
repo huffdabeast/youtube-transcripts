@@ -1,0 +1,1733 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.520
+I went from a college student who had
+
+00:00:01.640 --> 00:00:05.680
+never built anything in his life before
+
+00:00:03.520 --> 00:00:08.200
+to creating my first project with over
+
+00:00:05.680 --> 00:00:08.640
+100,000 users and making $25,000 a
+
+00:00:08.200 --> 00:00:11.320
+month.
+
+00:00:08.640 --> 00:00:13.840
+>> This is Kian. He's 21, [music] still in
+
+00:00:11.320 --> 00:00:16.160
+college, and just 5 months ago, he
+
+00:00:13.840 --> 00:00:16.880
+shipped his very first [music] app idea
+
+00:00:16.160 --> 00:00:18.520
+to the world.
+
+00:00:16.880 --> 00:00:20.800
+>> I used Cursor to build the entire
+
+00:00:18.520 --> 00:00:21.480
+project. Took me about a week to build
+
+00:00:20.800 --> 00:00:24.040
+everything.
+
+00:00:21.480 --> 00:00:26.080
+>> What I love about his app idea is that
+
+00:00:24.040 --> 00:00:28.920
+it's dead simple. It's not some crazy
+
+00:00:26.080 --> 00:00:31.600
+trend or viral idea. It's just a useful
+
+00:00:28.920 --> 00:00:33.405
+tool for a very niche audience, which is
+
+00:00:31.600 --> 00:00:34.280
+why it's already making him $25,000
+
+00:00:33.405 --> 00:00:34.840
+[music]
+
+00:00:34.280 --> 00:00:37.400
+a month.
+
+00:00:34.840 --> 00:00:39.280
+>> If you have a tiny little problem, there
+
+00:00:37.400 --> 00:00:40.800
+are at least thousands, [music] if not
+
+00:00:39.280 --> 00:00:42.360
+tens of thousands of people out there
+
+00:00:40.800 --> 00:00:42.800
+with the exact same problem that you
+
+00:00:42.360 --> 00:00:44.520
+have.
+
+00:00:42.800 --> 00:00:46.120
+>> I asked Kian to come on to the channel
+
+00:00:44.520 --> 00:00:48.600
+to share everything, and in this
+
+00:00:46.120 --> 00:00:50.880
+episode, we'll dive into the incredibly
+
+00:00:48.600 --> 00:00:52.800
+simple app that he built, what everyone
+
+00:00:50.880 --> 00:00:55.160
+gets wrong about finding a good app
+
+00:00:52.800 --> 00:00:58.240
+idea, and his advice for how to go from
+
+00:00:55.160 --> 00:01:00.200
+idea to revenue in just a couple months.
+
+00:00:58.240 --> 00:01:03.240
+All [music] right, let's dive in. I'm
+
+00:01:00.200 --> 00:01:05.040
+Pat Walls, and this is Starter Story.
+
+00:01:03.240 --> 00:01:06.720
+All right, Kian, welcome to the channel.
+
+00:01:05.040 --> 00:01:08.320
+I'm stoked to have you on here. Tell me
+
+00:01:06.720 --> 00:01:09.160
+about who you are, what you built, and
+
+00:01:08.320 --> 00:01:11.280
+what's your story.
+
+00:01:09.160 --> 00:01:12.800
+>> Yeah, so my name is Kian, and I went
+
+00:01:11.280 --> 00:01:15.080
+from a college student who had never
+
+00:01:12.800 --> 00:01:16.840
+built anything in his life before to
+
+00:01:15.080 --> 00:01:19.720
+creating my first project with over
+
+00:01:16.840 --> 00:01:21.800
+100,000 users and making $25,000 a month
+
+00:01:19.720 --> 00:01:23.520
+in under 5 months by just vibe coding
+
+00:01:21.800 --> 00:01:24.880
+and posting on social media. Today, I'm
+
+00:01:23.520 --> 00:01:26.400
+excited to share more about how I was
+
+00:01:24.880 --> 00:01:28.080
+able to turn my hobby into a
+
+00:01:26.400 --> 00:01:28.760
+money-making machine and how I grew so
+
+00:01:28.080 --> 00:01:31.080
+fast.
+
+00:01:28.760 --> 00:01:33.160
+>> This is crazy. Usually, people don't get
+
+00:01:31.080 --> 00:01:34.640
+this lucky. They don't They don't hit it
+
+00:01:33.160 --> 00:01:35.840
+right on their first try, which is one
+
+00:01:34.640 --> 00:01:38.360
+of the reasons why I wanted to bring you
+
+00:01:35.840 --> 00:01:40.400
+on. Super cool app that you built, and
+
+00:01:38.360 --> 00:01:41.760
+it's absolutely crushing it in 5 months.
+
+00:01:40.400 --> 00:01:42.840
+Let's talk about that. Can you explain
+
+00:01:41.760 --> 00:01:44.520
+the app that you built in a few
+
+00:01:42.840 --> 00:01:46.680
+sentences, and then can you pull up your
+
+00:01:44.520 --> 00:01:48.600
+revenue screenshots to show that this is
+
+00:01:46.680 --> 00:01:51.040
+actually making $25,000 a month?
+
+00:01:48.600 --> 00:01:53.080
+>> Yeah, for sure. So, Tone Up is a website
+
+00:01:51.040 --> 00:01:54.680
+and a mobile app for guitarists that
+
+00:01:53.080 --> 00:01:56.880
+allows any user to sound like their
+
+00:01:54.680 --> 00:01:59.080
+favorite song in under 30 seconds. Every
+
+00:01:56.880 --> 00:02:00.520
+guitar, amp, and pedal board sounds
+
+00:01:59.080 --> 00:02:02.320
+slightly different or has slightly
+
+00:02:00.520 --> 00:02:04.400
+different settings. Tone adapts bridges
+
+00:02:02.320 --> 00:02:06.200
+the gap between guitarists and their
+
+00:02:04.400 --> 00:02:08.119
+gear, telling them exactly how to set up
+
+00:02:06.200 --> 00:02:09.320
+their rig to sound like any song they
+
+00:02:08.119 --> 00:02:11.280
+want. We have different tier
+
+00:02:09.320 --> 00:02:13.680
+subscriptions, so we have weekly prices
+
+00:02:11.280 --> 00:02:15.720
+for $10 a week, and we have annual plans
+
+00:02:13.680 --> 00:02:17.880
+for around $60 a year. Yeah, so we
+
+00:02:15.720 --> 00:02:20.240
+launched originally as a website, and
+
+00:02:17.880 --> 00:02:22.320
+then we also have a mobile app as well.
+
+00:02:20.240 --> 00:02:23.800
+So, combined revenue between the website
+
+00:02:22.320 --> 00:02:26.120
+and the mobile app, we've done over
+
+00:02:23.800 --> 00:02:27.920
+$25,000 in the past [music] 4 weeks.
+
+00:02:26.120 --> 00:02:29.720
+>> Yeah, so the last 4 weeks on the Stripe
+
+00:02:27.920 --> 00:02:31.640
+dashboard, you can see we've done around
+
+00:02:29.720 --> 00:02:33.480
+11 and 1/2 thousand dollars in revenue.
+
+00:02:31.640 --> 00:02:34.581
+Uh, this is the past 4 weeks on the
+
+00:02:33.480 --> 00:02:37.520
+mobile app, you can see we've done
+
+00:02:34.581 --> 00:02:40.120
+[music] another $14,000 and have over
+
+00:02:37.520 --> 00:02:41.440
+397 active subscribers all in the past
+
+00:02:40.120 --> 00:02:43.440
+month since we've launched the mobile
+
+00:02:41.440 --> 00:02:46.280
+app. So, this is my growth in the past 3
+
+00:02:43.440 --> 00:02:48.480
+months, we've done $45,000 on the
+
+00:02:46.280 --> 00:02:50.240
+website, and we have 1,400 new
+
+00:02:48.480 --> 00:02:52.480
+subscribers in the past 3 months.
+
+00:02:50.240 --> 00:02:55.480
+>> Okay, amazing growth. I mean, to do this
+
+00:02:52.480 --> 00:02:57.000
+all in 5 months is crazy. That's super
+
+00:02:55.480 --> 00:02:58.320
+fast. Last year around this time, you
+
+00:02:57.000 --> 00:03:00.519
+hadn't even started this app, which is
+
+00:02:58.320 --> 00:03:02.280
+super cool. So, let's talk about that.
+
+00:03:00.519 --> 00:03:04.040
+How do you even get to the place? I
+
+00:03:02.280 --> 00:03:05.519
+really I I You told me earlier that
+
+00:03:04.040 --> 00:03:06.680
+you're in college. How do we even get to
+
+00:03:05.519 --> 00:03:08.959
+the place where you've built an app
+
+00:03:06.680 --> 00:03:09.840
+that's making over $25,000 a month while
+
+00:03:08.959 --> 00:03:11.040
+you're in college?
+
+00:03:09.840 --> 00:03:13.040
+>> Yeah, so I was a completely normal
+
+00:03:11.040 --> 00:03:15.320
+college student majoring in CS at San
+
+00:03:13.040 --> 00:03:17.200
+Diego State University. I began learning
+
+00:03:15.320 --> 00:03:18.680
+the guitar about a year and a half ago,
+
+00:03:17.200 --> 00:03:20.760
+and I was immediately obsessed. I was
+
+00:03:18.680 --> 00:03:23.239
+playing the guitar almost every day. And
+
+00:03:20.760 --> 00:03:24.920
+in the fall, I began doing UGC content
+
+00:03:23.239 --> 00:03:26.800
+for brands to make some extra money on
+
+00:03:24.920 --> 00:03:29.000
+the side, which really opened up my eyes
+
+00:03:26.800 --> 00:03:30.640
+to the power of social media and taught
+
+00:03:29.000 --> 00:03:31.160
+me how to create viral content that gets
+
+00:03:30.640 --> 00:03:32.120
+attention.
+
+00:03:31.160 --> 00:03:33.640
+>> All right, cool. I like that. You
+
+00:03:32.120 --> 00:03:35.519
+usually don't hear You hear about people
+
+00:03:33.640 --> 00:03:36.640
+building apps, but typically you don't
+
+00:03:35.519 --> 00:03:38.080
+hear as much about people who are
+
+00:03:36.640 --> 00:03:39.320
+creating content and then they want to
+
+00:03:38.080 --> 00:03:42.239
+build an app. So, I think that's super
+
+00:03:39.320 --> 00:03:44.360
+cool. How did you then get the idea for
+
+00:03:42.239 --> 00:03:45.760
+this app? And then how did you know that
+
+00:03:44.360 --> 00:03:46.440
+it was something that could actually
+
+00:03:45.760 --> 00:03:48.160
+crush it?
+
+00:03:46.440 --> 00:03:50.280
+>> Yeah, so at the time, I was struggling
+
+00:03:48.160 --> 00:03:52.960
+to get internships. So, I went looking
+
+00:03:50.280 --> 00:03:54.800
+for a project to put on my resume. And
+
+00:03:52.960 --> 00:03:56.840
+loving the guitar at the time, I began
+
+00:03:54.800 --> 00:03:58.480
+brainstorming pain points that I faced
+
+00:03:56.840 --> 00:04:00.280
+while playing the guitar. And I realized
+
+00:03:58.480 --> 00:04:02.240
+I was using ChatGPT at the time to
+
+00:04:00.280 --> 00:04:03.920
+figure out how to get guitar tones, but
+
+00:04:02.240 --> 00:04:06.120
+it wasn't really all that accurate. And
+
+00:04:03.920 --> 00:04:08.080
+I talked to other guitarists on Reddit,
+
+00:04:06.120 --> 00:04:10.240
+on Instagram, mainly in comment
+
+00:04:08.080 --> 00:04:11.640
+sections, and many of them had the exact
+
+00:04:10.240 --> 00:04:13.200
+same problem, but there was no real
+
+00:04:11.640 --> 00:04:15.120
+solution out there. So, I knew if I had
+
+00:04:13.200 --> 00:04:16.440
+the problem and a few other guitarists I
+
+00:04:15.120 --> 00:04:17.959
+know also had the problem, there's
+
+00:04:16.440 --> 00:04:19.720
+probably millions of others out there
+
+00:04:17.959 --> 00:04:22.440
+that have the exact same problem.
+
+00:04:19.720 --> 00:04:24.120
+>> I love this app that Kion built. Why?
+
+00:04:22.440 --> 00:04:25.760
+Because it's simple and it solves a
+
+00:04:24.120 --> 00:04:28.280
+problem that he personally [music]
+
+00:04:25.760 --> 00:04:30.919
+experienced. But, here's the thing. Even
+
+00:04:28.280 --> 00:04:33.320
+if you build the best idea in the world,
+
+00:04:30.919 --> 00:04:35.440
+people still need to find it. And that's
+
+00:04:33.320 --> 00:04:38.040
+why I put together this free guide
+
+00:04:35.440 --> 00:04:40.360
+called $1 million attention. It's a
+
+00:04:38.040 --> 00:04:42.160
+massive resource packed with real
+
+00:04:40.360 --> 00:04:44.240
+examples and strategies [music] for
+
+00:04:42.160 --> 00:04:46.160
+getting eyeballs and attention on your
+
+00:04:44.240 --> 00:04:48.640
+product, which is the most important
+
+00:04:46.160 --> 00:04:50.680
+thing you can do in 2026. The goal of
+
+00:04:48.640 --> 00:04:52.640
+this resource is to help you stop
+
+00:04:50.680 --> 00:04:54.720
+building in silence and start getting
+
+00:04:52.640 --> 00:04:55.760
+your idea out there in front of real
+
+00:04:54.720 --> 00:04:57.360
+people. [music] So, if you're building
+
+00:04:55.760 --> 00:04:58.680
+something and you're ready to actually
+
+00:04:57.360 --> 00:05:00.880
+grow it, just head to the link in the
+
+00:04:58.680 --> 00:05:02.440
+description to get started for free. All
+
+00:05:00.880 --> 00:05:04.960
+right, let's get back to the episode.
+
+00:05:02.440 --> 00:05:06.200
+Nice. So, I I love that you built it
+
+00:05:04.960 --> 00:05:07.800
+from a place of like, "Hey, this is
+
+00:05:06.200 --> 00:05:09.240
+something cool that I could build that's
+
+00:05:07.800 --> 00:05:11.280
+useful for me." That I think that's
+
+00:05:09.240 --> 00:05:13.080
+always the best type of apps to build.
+
+00:05:11.280 --> 00:05:15.040
+It's just like a almost like a personal
+
+00:05:13.080 --> 00:05:17.280
+curiosity like, "Could I make something
+
+00:05:15.040 --> 00:05:19.000
+better than ChatGPT?" So, for anyone
+
+00:05:17.280 --> 00:05:20.960
+watching, that's a always a great reason
+
+00:05:19.000 --> 00:05:22.520
+to build an app which is I need [music]
+
+00:05:20.960 --> 00:05:24.360
+this. I have this problem. Let's talk
+
+00:05:22.520 --> 00:05:26.280
+about how you went ahead and built it.
+
+00:05:24.360 --> 00:05:27.680
+So, you had this idea. How did you
+
+00:05:26.280 --> 00:05:28.919
+actually build it and how long did it
+
+00:05:27.680 --> 00:05:30.520
+take to build the app?
+
+00:05:28.919 --> 00:05:32.680
+>> Yeah, so I had the idea for a few months
+
+00:05:30.520 --> 00:05:35.080
+actually. Over Thanksgiving break, I had
+
+00:05:32.680 --> 00:05:37.200
+some free time and I decided to build
+
+00:05:35.080 --> 00:05:39.360
+V1. Since it was literally the first
+
+00:05:37.200 --> 00:05:41.320
+thing I'd ever built, it took me about a
+
+00:05:39.360 --> 00:05:43.240
+week to build everything and get
+
+00:05:41.320 --> 00:05:45.080
+everything working properly. Nowadays, I
+
+00:05:43.240 --> 00:05:47.120
+would say the same project would take me
+
+00:05:45.080 --> 00:05:49.400
+a couple hours to build. And yeah, every
+
+00:05:47.120 --> 00:05:51.200
+line of code was Vibecoded. Not a single
+
+00:05:49.400 --> 00:05:53.880
+line of code has been written myself.
+
+00:05:51.200 --> 00:05:56.520
+So, I use Superbase for my database and
+
+00:05:53.880 --> 00:05:59.520
+Vercel for hosting and analytics,
+
+00:05:56.520 --> 00:06:02.080
+Mailgun for emails, uh Stripe for
+
+00:05:59.520 --> 00:06:05.240
+payment processing, and then for APIs, I
+
+00:06:02.080 --> 00:06:07.880
+use the OpenAI API and the Tavily web
+
+00:06:05.240 --> 00:06:09.760
+search API. And then I use CloudCode to
+
+00:06:07.880 --> 00:06:11.320
+do all of my code writing. And yeah,
+
+00:06:09.760 --> 00:06:13.320
+this is the web app stack that allows
+
+00:06:11.320 --> 00:06:14.520
+you to ship a web app tonight and get
+
+00:06:13.320 --> 00:06:15.080
+someone to pay for it as soon as
+
+00:06:14.520 --> 00:06:17.040
+possible.
+
+00:06:15.080 --> 00:06:18.960
+>> For the app, I also use Vercel for all
+
+00:06:17.040 --> 00:06:20.800
+of the back-end API routes. I use
+
+00:06:18.960 --> 00:06:22.720
+Superbase for the database as well. And
+
+00:06:20.800 --> 00:06:24.600
+then I use RevenueCat to track all my
+
+00:06:22.720 --> 00:06:26.800
+payments and subscriptions. I use
+
+00:06:24.600 --> 00:06:28.720
+Superwall for paywalls and AB testing
+
+00:06:26.800 --> 00:06:30.080
+different experiments, and it is built
+
+00:06:28.720 --> 00:06:31.960
+in Swift natively. [music]
+
+00:06:30.080 --> 00:06:33.640
+>> I mean, it just goes to show you how
+
+00:06:31.960 --> 00:06:35.040
+fast you can build stuff now. You just
+
+00:06:33.640 --> 00:06:36.720
+said, "Screw it. I'm going to build the
+
+00:06:35.040 --> 00:06:38.160
+iPhone app now after I've built the web
+
+00:06:36.720 --> 00:06:39.400
+app." And you built it really fast. And
+
+00:06:38.160 --> 00:06:41.440
+the mobile app you built has done over
+
+00:06:39.400 --> 00:06:43.640
+15,000 in the last month, which is just
+
+00:06:41.440 --> 00:06:45.440
+super crazy to think about. But I'm sure
+
+00:06:43.640 --> 00:06:47.480
+just building it didn't make all the
+
+00:06:45.440 --> 00:06:49.320
+customers come, right? Anybody can build
+
+00:06:47.480 --> 00:06:50.919
+a guitar app right now and they may not
+
+00:06:49.320 --> 00:06:52.680
+make a single dollar. So, let's talk
+
+00:06:50.919 --> 00:06:54.400
+about growth. How did you actually get
+
+00:06:52.680 --> 00:06:55.919
+users for this app? How did you get your
+
+00:06:54.400 --> 00:06:56.840
+first users and how did you kind of
+
+00:06:55.919 --> 00:06:58.080
+scale it out?
+
+00:06:56.840 --> 00:07:00.240
+>> Yeah, for sure. So, my marketing
+
+00:06:58.080 --> 00:07:02.360
+approach was dead simple. The first
+
+00:07:00.240 --> 00:07:04.760
+video I actually ever posted about Tone
+
+00:07:02.360 --> 00:07:06.680
+Adapt went viral overnight. And I
+
+00:07:04.760 --> 00:07:08.800
+realized quickly it's not just about one
+
+00:07:06.680 --> 00:07:10.720
+viral video, but it's about repeating
+
+00:07:08.800 --> 00:07:12.360
+that process consistently and turning
+
+00:07:10.720 --> 00:07:14.320
+that attention into real paying
+
+00:07:12.360 --> 00:07:16.960
+subscribers. So, my marketing approach
+
+00:07:14.320 --> 00:07:19.080
+was very simple. I posted media three
+
+00:07:16.960 --> 00:07:21.440
+times a day, reposted across as many
+
+00:07:19.080 --> 00:07:23.520
+platforms as I can, Instagram, TikTok,
+
+00:07:21.440 --> 00:07:25.240
+YouTube, Facebook, and I put my face
+
+00:07:23.520 --> 00:07:27.280
+behind the brand immediately to build
+
+00:07:25.240 --> 00:07:29.320
+trust with users from day one. And have
+
+00:07:27.280 --> 00:07:30.645
+them almost feel like they are joining
+
+00:07:29.320 --> 00:07:32.440
+the journey with me as I continue
+
+00:07:30.645 --> 00:07:34.360
+[music] to make improvements to the app,
+
+00:07:32.440 --> 00:07:36.840
+add more gear, and make the entire thing
+
+00:07:34.360 --> 00:07:38.520
+better. Once formats converted, I scaled
+
+00:07:36.840 --> 00:07:39.360
+those formats aggressively.
+
+00:07:38.520 --> 00:07:40.520
+>> You mentioned one thing that I thought
+
+00:07:39.360 --> 00:07:41.720
+was interesting is that you decided to
+
+00:07:40.520 --> 00:07:43.280
+put your face behind the brand
+
+00:07:41.720 --> 00:07:45.080
+immediately. Were you not like
+
+00:07:43.280 --> 00:07:47.400
+embarrassed to like put your face out
+
+00:07:45.080 --> 00:07:48.760
+there and like be super cringe or like
+
+00:07:47.400 --> 00:07:50.640
+had you already done that or what are
+
+00:07:48.760 --> 00:07:52.080
+your thoughts and advice for people who
+
+00:07:50.640 --> 00:07:53.920
+might be thinking of doing the same?
+
+00:07:52.080 --> 00:07:56.440
+>> Yeah, so the first video I posted was
+
+00:07:53.920 --> 00:07:58.080
+honestly super embarrassing. All of my
+
+00:07:56.440 --> 00:07:59.680
+friends saw it. Some of them were making
+
+00:07:58.080 --> 00:08:01.080
+fun of me a little bit, but once you get
+
+00:07:59.680 --> 00:08:02.480
+over that first video and it's on the
+
+00:08:01.080 --> 00:08:04.000
+internet for everyone to see, you
+
+00:08:02.480 --> 00:08:05.560
+realize it doesn't actually matter and
+
+00:08:04.000 --> 00:08:06.960
+every video after that first one,
+
+00:08:05.560 --> 00:08:08.480
+there's no embarrassment anymore.
+
+00:08:06.960 --> 00:08:10.200
+>> Okay, on that note, all your friends
+
+00:08:08.480 --> 00:08:11.720
+that saw your cringe video, I'm sure
+
+00:08:10.200 --> 00:08:13.440
+they were thinking, "I kind of want to
+
+00:08:11.720 --> 00:08:14.800
+do the same. I want to build an app. I
+
+00:08:13.440 --> 00:08:17.040
+want to make money online. I want to
+
+00:08:14.800 --> 00:08:18.640
+build something cool around a hobby that
+
+00:08:17.040 --> 00:08:20.400
+I picked up like guitar", which I think
+
+00:08:18.640 --> 00:08:21.800
+is super cool. If you were to start over
+
+00:08:20.400 --> 00:08:22.960
+based on everything that you've learned
+
+00:08:21.800 --> 00:08:24.800
+in the last 5 months, you have this
+
+00:08:22.960 --> 00:08:26.200
+really successful app and you had to
+
+00:08:24.800 --> 00:08:28.640
+start over right now based on everything
+
+00:08:26.200 --> 00:08:30.240
+you know about content, building,
+
+00:08:28.640 --> 00:08:32.400
+everything, what would be like your
+
+00:08:30.240 --> 00:08:34.599
+playbook to finding another app idea
+
+00:08:32.400 --> 00:08:36.120
+like this or just advice for anyone out
+
+00:08:34.599 --> 00:08:36.800
+there who's watching this who wants to
+
+00:08:36.120 --> 00:08:38.640
+do the same?
+
+00:08:36.800 --> 00:08:40.919
+>> Yeah, so I would tell them to pick a
+
+00:08:38.640 --> 00:08:43.479
+hobby or a niche that they already know.
+
+00:08:40.919 --> 00:08:45.120
+Pick something that you do every day or
+
+00:08:43.479 --> 00:08:46.520
+every week yourself. For me, that was
+
+00:08:45.120 --> 00:08:48.880
+learning the guitar. I've been playing
+
+00:08:46.520 --> 00:08:50.240
+the guitar almost every day for over a
+
+00:08:48.880 --> 00:08:51.560
+year before I thought about building
+
+00:08:50.240 --> 00:08:53.360
+Tone That Up. I think this matters
+
+00:08:51.560 --> 00:08:55.320
+because you understand and face the
+
+00:08:53.360 --> 00:08:57.400
+exact pain points that you're trying to
+
+00:08:55.320 --> 00:08:59.320
+solve without doing any market research.
+
+00:08:57.400 --> 00:09:00.960
+Technically, you are your own customer
+
+00:08:59.320 --> 00:09:02.880
+that you're targeting and you understand
+
+00:09:00.960 --> 00:09:04.560
+your niche better than anyone else.
+
+00:09:02.880 --> 00:09:06.400
+>> Yeah, I think a lot of people
+
+00:09:04.560 --> 00:09:08.120
+underestimate like how like cool of
+
+00:09:06.400 --> 00:09:09.551
+little hobbies or passions or interests
+
+00:09:08.120 --> 00:09:10.920
+that they have and they don't even think
+
+00:09:09.551 --> 00:09:12.839
+[music] that there could potentially be
+
+00:09:10.920 --> 00:09:14.200
+like a business idea there and they
+
+00:09:12.839 --> 00:09:16.280
+think, "Oh, I don't have any passions. I
+
+00:09:14.200 --> 00:09:18.080
+don't have any hobbies." But if you do
+
+00:09:16.280 --> 00:09:20.280
+have something that you enjoy, let's say
+
+00:09:18.080 --> 00:09:21.720
+it's not guitar, but it's um you know,
+
+00:09:20.280 --> 00:09:24.600
+running or something like that, [music]
+
+00:09:21.720 --> 00:09:26.720
+how would you go and find an actual app
+
+00:09:24.600 --> 00:09:27.320
+worth building around that [music]
+
+00:09:26.720 --> 00:09:29.480
+hobby?
+
+00:09:27.320 --> 00:09:31.440
+>> Yeah, so in whatever hobby that you have
+
+00:09:29.480 --> 00:09:33.080
+in your life, there could be a tiny
+
+00:09:31.440 --> 00:09:36.240
+little pain point where there's no
+
+00:09:33.080 --> 00:09:38.240
+solution or a slow process or inaccurate
+
+00:09:36.240 --> 00:09:39.600
+results, any convenience at all. You can
+
+00:09:38.240 --> 00:09:41.440
+make something out of that and that's a
+
+00:09:39.600 --> 00:09:43.480
+business opportunity. So, I came up for
+
+00:09:41.440 --> 00:09:45.960
+the idea for Tone Adapt simply because I
+
+00:09:43.480 --> 00:09:47.720
+was using ChatGPT to get tones and there
+
+00:09:45.960 --> 00:09:49.120
+was no real product that was doing the
+
+00:09:47.720 --> 00:09:51.160
+same thing yet. There's a lot of people
+
+00:09:49.120 --> 00:09:53.680
+out there, so chances are if you have a
+
+00:09:51.160 --> 00:09:55.600
+tiny little problem, there are at least
+
+00:09:53.680 --> 00:09:57.240
+thousands if not tens of thousands of
+
+00:09:55.600 --> 00:09:58.200
+people out there with the exact same
+
+00:09:57.240 --> 00:09:59.840
+problem that you have.
+
+00:09:58.200 --> 00:10:02.600
+>> I talked to a lot of people, they have
+
+00:09:59.840 --> 00:10:04.840
+maybe an idea, but they almost have this
+
+00:10:02.600 --> 00:10:07.800
+like obsession with perfection and they
+
+00:10:04.840 --> 00:10:09.320
+build all these features and it ends up
+
+00:10:07.800 --> 00:10:10.520
+being this like thing that doesn't even
+
+00:10:09.320 --> 00:10:11.840
+really work that well. What would be
+
+00:10:10.520 --> 00:10:14.320
+your advice around that?
+
+00:10:11.840 --> 00:10:16.640
+>> Yeah, I'd say ship V1 on the web right
+
+00:10:14.320 --> 00:10:18.400
+now. You can ship a web app today and
+
+00:10:16.640 --> 00:10:19.880
+get someone to pay for your product by
+
+00:10:18.400 --> 00:10:22.200
+tonight if you ship on the internet.
+
+00:10:19.880 --> 00:10:24.080
+Don't spend hours picking a logo, don't
+
+00:10:22.200 --> 00:10:25.760
+polish anything, just build something,
+
+00:10:24.080 --> 00:10:27.400
+put it on the internet and charge money
+
+00:10:25.760 --> 00:10:29.440
+for it. You'll be getting revenue from
+
+00:10:27.400 --> 00:10:30.800
+day one and feedback for improvements
+
+00:10:29.440 --> 00:10:32.880
+when you eventually build out the mobile
+
+00:10:30.800 --> 00:10:35.080
+app. I'd say post about it every single
+
+00:10:32.880 --> 00:10:36.920
+day on social media. This is where I see
+
+00:10:35.080 --> 00:10:39.080
+so many people quit. They build an
+
+00:10:36.920 --> 00:10:40.720
+amazing product, it looks beautiful, it
+
+00:10:39.080 --> 00:10:42.320
+solves a great problem and they never
+
+00:10:40.720 --> 00:10:44.360
+get anyone's eyes on it. Commit to
+
+00:10:42.320 --> 00:10:46.120
+posting three times every single day for
+
+00:10:44.360 --> 00:10:48.280
+at least a month and I guarantee you
+
+00:10:46.120 --> 00:10:50.560
+will make money and get users. Show your
+
+00:10:48.280 --> 00:10:52.320
+product solving something in real time
+
+00:10:50.560 --> 00:10:53.800
+and you might not go viral on day one,
+
+00:10:52.320 --> 00:10:55.440
+but you'll figure out which formats
+
+00:10:53.800 --> 00:10:57.280
+convert and which don't. If you aren't
+
+00:10:55.440 --> 00:10:58.839
+posting your product for people to see,
+
+00:10:57.280 --> 00:11:00.320
+then nothing [music] else here matters.
+
+00:10:58.839 --> 00:11:02.000
+You honestly don't even think about what
+
+00:11:00.320 --> 00:11:03.640
+you're posting. Any content is better
+
+00:11:02.000 --> 00:11:05.839
+than no content at all. Every time you
+
+00:11:03.640 --> 00:11:07.640
+post content, someone is seeing it and
+
+00:11:05.839 --> 00:11:08.920
+someone will be willing to go and use
+
+00:11:07.640 --> 00:11:10.440
+your app. Once you find a piece of
+
+00:11:08.920 --> 00:11:12.040
+content that works, this is where it
+
+00:11:10.440 --> 00:11:14.080
+gets a little bit easier. Your first
+
+00:11:12.040 --> 00:11:15.600
+piece of content that converts is now
+
+00:11:14.080 --> 00:11:17.480
+your template for everything else that
+
+00:11:15.600 --> 00:11:20.240
+you're about to do. Remake it 50 times
+
+00:11:17.480 --> 00:11:22.920
+with tiny variations, hire UGC creators
+
+00:11:20.240 --> 00:11:24.960
+to copy that exact same format 60 times
+
+00:11:22.920 --> 00:11:26.480
+a month. Put money behind it on Meta ads
+
+00:11:24.960 --> 00:11:28.160
+and TikTok ads. Once you find this
+
+00:11:26.480 --> 00:11:30.320
+format that converts, you need to ride
+
+00:11:28.160 --> 00:11:32.520
+it until it dies. That's [music] the the
+
+00:11:30.320 --> 00:11:34.320
+formula. You need to post relentlessly,
+
+00:11:32.520 --> 00:11:36.480
+so you have one winner, take that one
+
+00:11:34.320 --> 00:11:38.680
+winner, and pour gasoline on it until it
+
+00:11:36.480 --> 00:11:40.280
+doesn't work anymore, and then repeat.
+
+00:11:38.680 --> 00:11:42.240
+>> All right. So, I mean, one thing that I
+
+00:11:40.280 --> 00:11:44.760
+love about this kind of playbook that
+
+00:11:42.240 --> 00:11:47.080
+you shared is just posting content every
+
+00:11:44.760 --> 00:11:49.160
+single day. There are a million tone
+
+00:11:47.080 --> 00:11:51.600
+guitar tone and tune apps. I'm looking
+
+00:11:49.160 --> 00:11:54.040
+on the App Store right now, but yours
+
+00:11:51.600 --> 00:11:57.280
+shows up after the sponsor results as
+
+00:11:54.040 --> 00:11:59.080
+number two for the keyword guitar tone,
+
+00:11:57.280 --> 00:12:00.600
+and there's a lot of reasons why, but I
+
+00:11:59.080 --> 00:12:02.960
+think one of them is that you just been
+
+00:12:00.600 --> 00:12:05.240
+sharing it so much on social media. Like
+
+00:12:02.960 --> 00:12:06.560
+you mentioned, two to three clips a day.
+
+00:12:05.240 --> 00:12:09.240
+That is going to make you stand out in
+
+00:12:06.560 --> 00:12:11.440
+this sea of guitar tone apps. And as AI
+
+00:12:09.240 --> 00:12:12.600
+coding gets even more easy, there's
+
+00:12:11.440 --> 00:12:14.640
+going to be even more of them. So, how
+
+00:12:12.600 --> 00:12:16.720
+do you stand out? Creating content. On
+
+00:12:14.640 --> 00:12:18.160
+that note, I would love to actually see
+
+00:12:16.720 --> 00:12:19.560
+this app. I was about to download it,
+
+00:12:18.160 --> 00:12:21.320
+but maybe you can give me a quick demo
+
+00:12:19.560 --> 00:12:23.000
+of how it works, and I'd just love to
+
+00:12:21.320 --> 00:12:24.200
+see cuz I used to play the guitar. I
+
+00:12:23.000 --> 00:12:26.280
+would have loved to have this back in
+
+00:12:24.200 --> 00:12:27.120
+the day, but yeah, give me a quick demo
+
+00:12:26.280 --> 00:12:29.080
+of what it does.
+
+00:12:27.120 --> 00:12:31.120
+>> Yeah, for sure. So, this is Tone Detect,
+
+00:12:29.080 --> 00:12:33.000
+and this is the main page that users
+
+00:12:31.120 --> 00:12:35.280
+will be using. Down here, the user will
+
+00:12:33.000 --> 00:12:36.880
+input whatever guitar that they play on,
+
+00:12:35.280 --> 00:12:39.640
+and whatever amp that they play on. We
+
+00:12:36.880 --> 00:12:41.240
+have over 1,500 guitars and 2,000 amps
+
+00:12:39.640 --> 00:12:43.440
+in the database, so most users are
+
+00:12:41.240 --> 00:12:45.400
+covered. Down here, you could add any
+
+00:12:43.440 --> 00:12:47.120
+built-in amp effects or any pedals that
+
+00:12:45.400 --> 00:12:49.280
+you might have as well. And then, you
+
+00:12:47.120 --> 00:12:50.800
+will look up whatever song that you want
+
+00:12:49.280 --> 00:12:53.200
+to sound like. For example, if I want to
+
+00:12:50.800 --> 00:12:54.800
+get the tone of Hotel California by The
+
+00:12:53.200 --> 00:12:56.880
+Eagles, I'll come down here and search
+
+00:12:54.800 --> 00:12:59.120
+it up, and then you click research. And
+
+00:12:56.880 --> 00:13:01.360
+you can see in under 30 seconds, you
+
+00:12:59.120 --> 00:13:03.160
+will get the entire original gear that
+
+00:13:01.360 --> 00:13:06.240
+the original artist used to record the
+
+00:13:03.160 --> 00:13:07.880
+song, his guitar, pickups, amp, and
+
+00:13:06.240 --> 00:13:09.920
+it'll estimate the amp settings that the
+
+00:13:07.880 --> 00:13:12.000
+original artist was using on the record.
+
+00:13:09.920 --> 00:13:14.480
+It'll also show you the entire effects
+
+00:13:12.000 --> 00:13:16.000
+and pedals section as well. And then,
+
+00:13:14.480 --> 00:13:18.760
+this is the main selling point for
+
+00:13:16.000 --> 00:13:20.320
+users. We adapt the guitar tone to the
+
+00:13:18.760 --> 00:13:22.240
+user's gear. So, you could see we'll
+
+00:13:20.320 --> 00:13:23.720
+recommend presets that the user should
+
+00:13:22.240 --> 00:13:25.120
+use because that's what they have on
+
+00:13:23.720 --> 00:13:26.720
+their amp. We'll show them the pickup
+
+00:13:25.120 --> 00:13:28.600
+choice, and we'll show them how to set
+
+00:13:26.720 --> 00:13:30.400
+up their amp sound just like the song.
+
+00:13:28.600 --> 00:13:32.880
+You can see the adjustments between the
+
+00:13:30.400 --> 00:13:34.160
+original song and the user's gear. We
+
+00:13:32.880 --> 00:13:36.120
+also show them how to set up their
+
+00:13:34.160 --> 00:13:36.400
+signal chain and other amp effects as
+
+00:13:36.120 --> 00:13:37.920
+well.
+
+00:13:36.400 --> 00:13:40.000
+>> This is awesome. I mean, I think it's
+
+00:13:37.920 --> 00:13:43.400
+super cool. We talked to a few founders
+
+00:13:40.000 --> 00:13:45.680
+who do just tools that help in the music
+
+00:13:43.400 --> 00:13:47.240
+industry or music production process.
+
+00:13:45.680 --> 00:13:48.840
+Like we interviewed this one guy, it's
+
+00:13:47.240 --> 00:13:51.000
+more event production, but he has like a
+
+00:13:48.840 --> 00:13:53.440
+timer for being on stage. We interviewed
+
+00:13:51.000 --> 00:13:55.240
+another guy who does AI-generated music
+
+00:13:53.440 --> 00:13:57.360
+videos for artists so they can save on
+
+00:13:55.240 --> 00:13:59.680
+music video costs. There's all sorts of
+
+00:13:57.360 --> 00:14:02.240
+cool ideas. So, if you're watching this
+
+00:13:59.680 --> 00:14:04.000
+and you are passionate about music or
+
+00:14:02.240 --> 00:14:05.280
+instruments or or something in that
+
+00:14:04.000 --> 00:14:07.000
+space, or it can even be out of that
+
+00:14:05.280 --> 00:14:09.000
+space. There's just so many cool ideas
+
+00:14:07.000 --> 00:14:11.120
+like this that clearly can do well. This
+
+00:14:09.000 --> 00:14:12.640
+app you're making over $25,000 a month,
+
+00:14:11.120 --> 00:14:14.160
+which is awesome. The last question that
+
+00:14:12.640 --> 00:14:16.320
+we ask everyone who comes onto the
+
+00:14:14.160 --> 00:14:18.560
+channel is, if you go back in time
+
+00:14:16.320 --> 00:14:20.600
+before you decided to build this app,
+
+00:14:18.560 --> 00:14:22.200
+and obviously worked out great for you,
+
+00:14:20.600 --> 00:14:24.400
+what advice would you give to your
+
+00:14:22.200 --> 00:14:26.240
+younger self or to anyone watching this
+
+00:14:24.400 --> 00:14:28.040
+who wants to do the same?
+
+00:14:26.240 --> 00:14:29.800
+>> Yeah, I would tell you to start posting
+
+00:14:28.040 --> 00:14:31.520
+on social media today. It doesn't have
+
+00:14:29.800 --> 00:14:32.800
+to be for a specific product, or you
+
+00:14:31.520 --> 00:14:34.760
+don't have to be selling anything. Just
+
+00:14:32.800 --> 00:14:36.960
+start posting on social media. It will
+
+00:14:34.760 --> 00:14:38.839
+open up so many doors for you. I think
+
+00:14:36.960 --> 00:14:40.320
+it's the most valuable skill that anyone
+
+00:14:38.839 --> 00:14:41.920
+can have in today's world.
+
+00:14:40.320 --> 00:14:43.920
+>> Yeah, I agree. I mean, we talked to so
+
+00:14:41.920 --> 00:14:46.080
+many founders on here. Feels like eight
+
+00:14:43.920 --> 00:14:49.040
+or nine out of 10 founders I ask, "How
+
+00:14:46.080 --> 00:14:50.920
+do you grow?" TikTok, Instagram, social
+
+00:14:49.040 --> 00:14:52.560
+media. It's the number one skill to
+
+00:14:50.920 --> 00:14:53.920
+grow. So, you might as well, even if you
+
+00:14:52.560 --> 00:14:55.240
+hate it, you might as well figure it out
+
+00:14:53.920 --> 00:14:56.720
+and learn it, cuz that's how businesses
+
+00:14:55.240 --> 00:14:58.400
+grow these days. Thank you, Kian, for
+
+00:14:56.720 --> 00:14:59.720
+coming on and sharing everything, even
+
+00:14:58.400 --> 00:15:01.400
+though you didn't have to. Appreciate
+
+00:14:59.720 --> 00:15:03.120
+you coming on and inspiring the world
+
+00:15:01.400 --> 00:15:04.000
+with this awesome business idea.
+
+00:15:03.120 --> 00:15:06.520
+>> Thank you, guys.
+
+00:15:04.000 --> 00:15:09.080
+>> Gus, producer of Starter Story, what did
+
+00:15:06.520 --> 00:15:10.520
+you think of Kian and this guitar tone
+
+00:15:09.080 --> 00:15:12.160
+tuner app that he built?
+
+00:15:10.520 --> 00:15:13.920
+>> I know, so simple, right? I mean, that's
+
+00:15:12.160 --> 00:15:16.240
+kind of the like That's my takeaway.
+
+00:15:13.920 --> 00:15:18.520
+It's like, man, what a cool like little
+
+00:15:16.240 --> 00:15:19.920
+idea, you know? I used to play guitar in
+
+00:15:18.520 --> 00:15:21.800
+college. I actually taught myself how to
+
+00:15:19.920 --> 00:15:23.640
+play guitar. I used to use this website
+
+00:15:21.800 --> 00:15:25.760
+called like it was like free guitar
+
+00:15:23.640 --> 00:15:27.320
+lessons.com and that's how I learned
+
+00:15:25.760 --> 00:15:29.000
+taught myself. So I know it's different
+
+00:15:27.320 --> 00:15:31.400
+but it just reminds me like man there's
+
+00:15:29.000 --> 00:15:33.800
+like riches and niches, right? Like his
+
+00:15:31.400 --> 00:15:36.660
+is his isn't even like a learn guitar
+
+00:15:33.800 --> 00:15:37.320
+app, it's just like a match the sound.
+
+00:15:36.660 --> 00:15:38.760
+>> [laughter]
+
+00:15:37.320 --> 00:15:40.080
+>> So anyways, I'm super impressed. He just
+
+00:15:38.760 --> 00:15:41.560
+seems like a chill dude. Yeah, I don't
+
+00:15:40.080 --> 00:15:42.200
+know. Those are I'm rambling but those
+
+00:15:41.560 --> 00:15:44.360
+are some thoughts.
+
+00:15:42.200 --> 00:15:46.080
+>> Yeah, no you mentioned something smart I
+
+00:15:44.360 --> 00:15:47.520
+thought which was it doesn't teach you
+
+00:15:46.080 --> 00:15:49.480
+how to use the guitar which is like a
+
+00:15:47.520 --> 00:15:51.360
+crazy app like you know that that would
+
+00:15:49.480 --> 00:15:52.640
+be like a really ambitious project. It's
+
+00:15:51.360 --> 00:15:54.440
+just something that helps you match the
+
+00:15:52.640 --> 00:15:55.880
+tone. It's simple. You could build that
+
+00:15:54.440 --> 00:15:57.320
+pretty easily. I bet you could go build
+
+00:15:55.880 --> 00:15:59.520
+it right now. I think that sometimes
+
+00:15:57.320 --> 00:16:00.880
+people doubt that such a small idea can
+
+00:15:59.520 --> 00:16:02.400
+make a lot of money and that's one of
+
+00:16:00.880 --> 00:16:04.040
+the reasons why I really wanted to do
+
+00:16:02.400 --> 00:16:05.880
+this interview is he pulled up his
+
+00:16:04.040 --> 00:16:07.440
+revenue dashboard and showed it, right?
+
+00:16:05.880 --> 00:16:09.080
+There are enough guitar players out
+
+00:16:07.440 --> 00:16:10.480
+there that want to match their tone and
+
+00:16:09.080 --> 00:16:12.480
+need to solve that problem enough to pay
+
+00:16:10.480 --> 00:16:14.280
+for it that that is enough. And this is
+
+00:16:12.480 --> 00:16:16.280
+the change that's happening right now in
+
+00:16:14.280 --> 00:16:19.320
+this world which is you can build that
+
+00:16:16.280 --> 00:16:20.640
+so easily now with AI five coding tools
+
+00:16:19.320 --> 00:16:22.560
+someone like him who didn't have a whole
+
+00:16:20.640 --> 00:16:24.160
+lot of experience as long as you have an
+
+00:16:22.560 --> 00:16:25.800
+idea because you could just build it.
+
+00:16:24.160 --> 00:16:27.360
+>> Yeah yeah just it's a good reminder that
+
+00:16:25.800 --> 00:16:30.040
+like any you know I don't want to say
+
+00:16:27.360 --> 00:16:32.120
+like any ideas a good idea as long as it
+
+00:16:30.040 --> 00:16:34.280
+solves like a painful problem even if
+
+00:16:32.120 --> 00:16:35.800
+it's just for you like he said there's a
+
+00:16:34.280 --> 00:16:38.080
+good chance someone else out there has
+
+00:16:35.800 --> 00:16:40.280
+probably had the same feeling or like
+
+00:16:38.080 --> 00:16:41.600
+man I wish this existed that's probably
+
+00:16:40.280 --> 00:16:44.200
+that's all that's what he said, right?
+
+00:16:41.600 --> 00:16:46.000
+And um it's just a good reminder. I
+
+00:16:44.200 --> 00:16:47.839
+don't know like the the AI coding has
+
+00:16:46.000 --> 00:16:50.520
+made it so like you can kind of create
+
+00:16:47.839 --> 00:16:51.600
+any idea really fast and that's It's a
+
+00:16:50.520 --> 00:16:52.520
+really it's really cool, you know, I
+
+00:16:51.600 --> 00:16:55.400
+think that's really cool.
+
+00:16:52.520 --> 00:16:57.040
+>> Yeah and right now we're on this like AI
+
+00:16:55.400 --> 00:16:58.720
+can create anything that's really cool
+
+00:16:57.040 --> 00:16:59.720
+but what's going to happen is a lot of
+
+00:16:58.720 --> 00:17:02.680
+everyone's going to be able to build
+
+00:16:59.720 --> 00:17:04.560
+anything and there'll just be this flood
+
+00:17:02.680 --> 00:17:06.360
+this sea of apps. I'm sure it's already
+
+00:17:04.560 --> 00:17:09.160
+happening right now but it's going to be
+
+00:17:06.360 --> 00:17:11.839
+way way crazier in one, two, five years.
+
+00:17:09.160 --> 00:17:13.600
+So why does his app win? Well, it was
+
+00:17:11.839 --> 00:17:15.720
+this content he created, right? One to
+
+00:17:13.600 --> 00:17:17.360
+three Tik Toks or Instagrams that he was
+
+00:17:15.720 --> 00:17:19.720
+posting every single day and he actually
+
+00:17:17.360 --> 00:17:21.560
+had a background in UGC. So, I would go
+
+00:17:19.720 --> 00:17:23.040
+and look at his channels and see what
+
+00:17:21.560 --> 00:17:24.439
+the type of content that he created. Go
+
+00:17:23.040 --> 00:17:26.480
+all the way to the end and look at the
+
+00:17:24.439 --> 00:17:28.079
+first one that he created. And on that
+
+00:17:26.480 --> 00:17:30.160
+note, we have our million-dollar
+
+00:17:28.079 --> 00:17:32.360
+attention guide that I wanted to share
+
+00:17:30.160 --> 00:17:34.520
+with you. This has a bunch of examples
+
+00:17:32.360 --> 00:17:36.320
+and strategies for how to get eyeballs
+
+00:17:34.520 --> 00:17:38.120
+and attention on your product. If you
+
+00:17:36.320 --> 00:17:40.520
+want to get it, this is the stuff that
+
+00:17:38.120 --> 00:17:42.400
+matters. Ideas are important, but
+
+00:17:40.520 --> 00:17:45.120
+getting attention in the sea of
+
+00:17:42.400 --> 00:17:46.320
+AI-generated tools is the most important
+
+00:17:45.120 --> 00:17:47.400
+thing that you can do. So, click that
+
+00:17:46.320 --> 00:17:48.720
+link [music] in the description if you
+
+00:17:47.400 --> 00:17:50.800
+want to get that guide right now. It's
+
+00:17:48.720 --> 00:17:53.040
+100% free. Let us know what you thought
+
+00:17:50.800 --> 00:17:56.840
+about this episode. Otherwise, we will
+
+00:17:53.040 --> 00:17:56.840
+see you in the next one. Peace.
+

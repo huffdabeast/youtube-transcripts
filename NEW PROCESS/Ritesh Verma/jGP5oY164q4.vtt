@@ -1,0 +1,1259 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.760
+The smartest entrepreneurs making six to
+
+00:00:01.880 --> 00:00:05.840
+seven figures online are one-person
+
+00:00:03.760 --> 00:00:07.680
+business machines who use Claude Co-work
+
+00:00:05.840 --> 00:00:08.480
+to do 90% of their work. So, in this
+
+00:00:07.680 --> 00:00:10.520
+video, I'm going to show you
+
+00:00:08.480 --> 00:00:12.200
+step-by-step how to use Claude Co-work
+
+00:00:10.520 --> 00:00:14.520
+to build AI employees that can replace
+
+00:00:12.200 --> 00:00:16.920
+real humans, how I combined multiple AI
+
+00:00:14.520 --> 00:00:19.200
+employees to build a $50,000 system with
+
+00:00:16.920 --> 00:00:20.680
+a single Claude Max subscription, and
+
+00:00:19.200 --> 00:00:21.840
+how you can create your own AI employee
+
+00:00:20.680 --> 00:00:24.440
+system that does all your work [music]
+
+00:00:21.840 --> 00:00:25.480
+so you can operate as a one-person CEO.
+
+00:00:24.440 --> 00:00:27.440
+And if you stick to the end, you'll see
+
+00:00:25.480 --> 00:00:28.960
+how to sell this system to enterprises.
+
+00:00:27.440 --> 00:00:30.560
+That's for the big boy. Now, before we
+
+00:00:28.960 --> 00:00:32.599
+get started, you have to understand the
+
+00:00:30.560 --> 00:00:34.080
+power of Claude Co-work. And for that,
+
+00:00:32.599 --> 00:00:35.800
+you got to know what it is. Claude
+
+00:00:34.080 --> 00:00:37.480
+Co-work is a desktop tool built by
+
+00:00:35.800 --> 00:00:39.360
+Anthropic, where Claude doesn't just
+
+00:00:37.480 --> 00:00:40.920
+talk to you, it works for you. It has
+
+00:00:39.360 --> 00:00:42.560
+direct access to your files, your
+
+00:00:40.920 --> 00:00:44.520
+folders, your actual computer. It can
+
+00:00:42.560 --> 00:00:46.640
+open documents, scrape websites, write
+
+00:00:44.520 --> 00:00:49.000
+code, build presentations, read PDFs,
+
+00:00:46.640 --> 00:00:50.880
+search the web, and execute multi-step
+
+00:00:49.000 --> 00:00:53.000
+tasks completely on its own. Think about
+
+00:00:50.880 --> 00:00:54.840
+it like this. ChatGPT is a friend who
+
+00:00:53.000 --> 00:00:56.920
+gives you advice. Claude Co-work is an
+
+00:00:54.840 --> 00:00:58.320
+employee who actually does all the work.
+
+00:00:56.920 --> 00:01:00.080
+And here's where it gets crazy.
+
+00:00:58.320 --> 00:01:02.320
+Introducing Claude skills. These are
+
+00:01:00.080 --> 00:01:04.920
+actual reusable skills that tell Claude
+
+00:01:02.320 --> 00:01:06.600
+exactly how to handle specific workflows
+
+00:01:04.920 --> 00:01:08.040
+for your business every single time
+
+00:01:06.600 --> 00:01:09.760
+without you having to re-explain
+
+00:01:08.040 --> 00:01:11.440
+anything. Here are some examples of
+
+00:01:09.760 --> 00:01:13.400
+Claude skills I made that allowed me to
+
+00:01:11.440 --> 00:01:16.240
+fire my creative director, who I used to
+
+00:01:13.400 --> 00:01:18.120
+pay $1,000 a month to. These two skills
+
+00:01:16.240 --> 00:01:20.400
+are able to research new topics to make
+
+00:01:18.120 --> 00:01:21.800
+videos on and even write the script for
+
+00:01:20.400 --> 00:01:23.800
+the videos. This is something that used
+
+00:01:21.800 --> 00:01:25.480
+to take me hours to do every single day.
+
+00:01:23.800 --> 00:01:27.160
+And I'm not generically asking Claude to
+
+00:01:25.480 --> 00:01:28.520
+write scripts. I'm giving it my highest
+
+00:01:27.160 --> 00:01:31.200
+converting scripts that I've made in the
+
+00:01:28.520 --> 00:01:32.720
+past and using that to make sure the
+
+00:01:31.200 --> 00:01:34.000
+scripts that it's writing are in my
+
+00:01:32.720 --> 00:01:35.960
+voice and tone. But I know what you're
+
+00:01:34.000 --> 00:01:37.400
+thinking. Okay, cool, another AI tool,
+
+00:01:35.960 --> 00:01:39.520
+but how is this actually going to help
+
+00:01:37.400 --> 00:01:41.720
+me make more income as a one-person
+
+00:01:39.520 --> 00:01:44.120
+business? Let me show you. Before Claude
+
+00:01:41.720 --> 00:01:45.440
+Co-work, I was spending roughly $4,500 a
+
+00:01:44.120 --> 00:01:47.760
+month on help. There was a part-time
+
+00:01:45.440 --> 00:01:49.720
+copywriter I had for about $2,500 a
+
+00:01:47.760 --> 00:01:51.360
+month, a creative director for $1,000 a
+
+00:01:49.720 --> 00:01:52.720
+month, and another $1,000 for a random
+
+00:01:51.360 --> 00:01:53.960
+freelance worker for things like
+
+00:01:52.720 --> 00:01:57.240
+presentations, research, and email
+
+00:01:53.960 --> 00:01:59.120
+drafts. That's $54,000 a year gone. Now,
+
+00:01:57.240 --> 00:02:01.120
+my entire operation runs on Claude Max,
+
+00:01:59.120 --> 00:02:02.560
+which is only $100 a month. And that's
+
+00:02:01.120 --> 00:02:06.760
+$1,200 a year I'm spending versus
+
+00:02:02.560 --> 00:02:09.399
+$54,000 a year. That's a 97.8% reduction
+
+00:02:06.760 --> 00:02:11.280
+in operational costs. Now, I run a near
+
+00:02:09.399 --> 00:02:12.440
+seven-figure AI business, but look at
+
+00:02:11.280 --> 00:02:14.000
+all the companies that are eight
+
+00:02:12.440 --> 00:02:16.560
+figures, nine figures. If you're able to
+
+00:02:14.000 --> 00:02:18.080
+reduce their expenses by even 70%,
+
+00:02:16.560 --> 00:02:19.920
+you're able to profit multiple
+
+00:02:18.080 --> 00:02:21.920
+six-to-seven figures. But to build these
+
+00:02:19.920 --> 00:02:23.640
+enterprise-level AI operating systems,
+
+00:02:21.920 --> 00:02:25.720
+first you got to understand how to build
+
+00:02:23.640 --> 00:02:27.440
+AI employees. And to do that, we're
+
+00:02:25.720 --> 00:02:28.800
+going to build some skills using Claude
+
+00:02:27.440 --> 00:02:30.520
+Co-work. Now, remember what we said
+
+00:02:28.800 --> 00:02:31.840
+earlier. A skill in Claude Co-work is
+
+00:02:30.520 --> 00:02:33.440
+basically a set of instructions that
+
+00:02:31.840 --> 00:02:34.800
+lives inside of a file. You create it
+
+00:02:33.440 --> 00:02:36.480
+once, and every time you start a new
+
+00:02:34.800 --> 00:02:38.280
+session in Co-work, Claude reads all
+
+00:02:36.480 --> 00:02:40.040
+your active skills and knows exactly how
+
+00:02:38.280 --> 00:02:41.360
+to behave. It's like hiring someone and
+
+00:02:40.040 --> 00:02:42.880
+giving them a training manual on their
+
+00:02:41.360 --> 00:02:45.040
+first day, [music] except this employee
+
+00:02:42.880 --> 00:02:46.720
+memorizes the entire manual instantly
+
+00:02:45.040 --> 00:02:48.720
+and never forgets a single word. This is
+
+00:02:46.720 --> 00:02:50.400
+also why Claude Co-work is legitimately
+
+00:02:48.720 --> 00:02:52.680
+replacing employees at
+
+00:02:50.400 --> 00:02:53.760
+multi-million-dollar corporations. Now,
+
+00:02:52.680 --> 00:02:55.000
+there are two ways to build your first
+
+00:02:53.760 --> 00:02:56.800
+Claude skill. You can write them
+
+00:02:55.000 --> 00:02:57.760
+manually, which I do not recommend
+
+00:02:56.800 --> 00:02:59.280
+unless you already know what you're
+
+00:02:57.760 --> 00:03:01.840
+doing and you can create a proper skill
+
+00:02:59.280 --> 00:03:04.080
+MD file, or you can do what I do and
+
+00:03:01.840 --> 00:03:06.360
+what 99% of people do, and that's use
+
+00:03:04.080 --> 00:03:07.840
+the skill creator, which comes built in
+
+00:03:06.360 --> 00:03:09.560
+inside Co-work. Now, here's how the
+
+00:03:07.840 --> 00:03:11.080
+skill creator works. You open a new
+
+00:03:09.560 --> 00:03:12.480
+Co-work session, and you tell Claude
+
+00:03:11.080 --> 00:03:14.920
+something like, "I want you to create a
+
+00:03:12.480 --> 00:03:16.400
+skill that does X." So, let's say I want
+
+00:03:14.920 --> 00:03:17.880
+to create a skill that writes YouTube
+
+00:03:16.400 --> 00:03:19.840
+video scripts in my voice and style,
+
+00:03:17.880 --> 00:03:21.040
+since I'm obviously a YouTuber. Claude
+
+00:03:19.840 --> 00:03:22.480
+Co-work will ask you clarifying
+
+00:03:21.040 --> 00:03:24.040
+questions, things like, "What's your
+
+00:03:22.480 --> 00:03:26.080
+tone? What format do you use? Do you
+
+00:03:24.040 --> 00:03:27.920
+have example scripts it can study? How
+
+00:03:26.080 --> 00:03:29.680
+long the script should be?" Then you got
+
+00:03:27.920 --> 00:03:30.880
+to answer those questions, maybe feed it
+
+00:03:29.680 --> 00:03:32.680
+a few of your existing scripts or
+
+00:03:30.880 --> 00:03:34.480
+documents as reference material, and
+
+00:03:32.680 --> 00:03:36.200
+then Claude will draft the first version
+
+00:03:34.480 --> 00:03:37.720
+of the skill for you. Now, the cool
+
+00:03:36.200 --> 00:03:40.080
+thing about Claude is that it will
+
+00:03:37.720 --> 00:03:41.600
+actually test its own self when it's
+
+00:03:40.080 --> 00:03:43.080
+working with these skills as making sure
+
+00:03:41.600 --> 00:03:44.800
+that's actually writing scripts that you
+
+00:03:43.080 --> 00:03:46.720
+like, and it'll ask you for approval.
+
+00:03:44.800 --> 00:03:48.400
+Now, the first time you write a a skill,
+
+00:03:46.720 --> 00:03:50.560
+it might not be the best. I'm saying
+
+00:03:48.400 --> 00:03:52.160
+it'll probably be 70-80% of what you
+
+00:03:50.560 --> 00:03:54.120
+want, but the magic happens when you
+
+00:03:52.160 --> 00:03:55.800
+actually use the skill for real over the
+
+00:03:54.120 --> 00:03:57.920
+next 2 weeks. Every time you use the
+
+00:03:55.800 --> 00:04:00.080
+skill and you don't like something it it
+
+00:03:57.920 --> 00:04:02.960
+does, you can always tell it, "Hey, make
+
+00:04:00.080 --> 00:04:04.840
+the hook punchier. Make the the ending
+
+00:04:02.960 --> 00:04:07.040
+be a pointer to next video. Don't use a
+
+00:04:04.840 --> 00:04:09.200
+generic CTA. Have a stronger CTA." And
+
+00:04:07.040 --> 00:04:10.960
+Claude will do what most people don't.
+
+00:04:09.200 --> 00:04:12.280
+See, Claude has memory. It memorizes
+
+00:04:10.960 --> 00:04:14.200
+everything. It'll remember your feedback
+
+00:04:12.280 --> 00:04:16.320
+across sessions and it'll implement the
+
+00:04:14.200 --> 00:04:17.840
+exact feedback you give it to refine its
+
+00:04:16.320 --> 00:04:19.440
+skills. This is something you wish every
+
+00:04:17.840 --> 00:04:21.040
+employee of yours would probably do. And
+
+00:04:19.440 --> 00:04:24.600
+this is how you can turn your skills
+
+00:04:21.040 --> 00:04:26.920
+from 60% 70% success rate to 95% success
+
+00:04:24.600 --> 00:04:29.120
+rate. But here's a massive mistake I see
+
+00:04:26.920 --> 00:04:30.600
+people make. They try to build one giant
+
+00:04:29.120 --> 00:04:32.000
+skill that does everything. This is not
+
+00:04:30.600 --> 00:04:33.920
+what you want to do. The results from
+
+00:04:32.000 --> 00:04:35.480
+one massive skill are significantly
+
+00:04:33.920 --> 00:04:37.360
+worse than having multiple focused
+
+00:04:35.480 --> 00:04:39.280
+skills. Now, think about it like this.
+
+00:04:37.360 --> 00:04:41.000
+In a real company, you don't hire one
+
+00:04:39.280 --> 00:04:42.400
+person to do marketing, accounting,
+
+00:04:41.000 --> 00:04:44.560
+script writing, customer support, and
+
+00:04:42.400 --> 00:04:45.800
+design. You hire specialists. Granted,
+
+00:04:44.560 --> 00:04:47.480
+these specialists might cost you
+
+00:04:45.800 --> 00:04:49.720
+hundreds of thousands of dollars a year.
+
+00:04:47.480 --> 00:04:51.760
+However, Claude Max only costs $100 a
+
+00:04:49.720 --> 00:04:53.400
+month. Now, with AI skills, you want a
+
+00:04:51.760 --> 00:04:54.840
+script writing skill, a LinkedIn post
+
+00:04:53.400 --> 00:04:56.520
+skill, an ideation skill, a research
+
+00:04:54.840 --> 00:04:59.240
+skill, a financial reporting skill. Each
+
+00:04:56.520 --> 00:05:01.160
+skill should be the equivalent of one
+
+00:04:59.240 --> 00:05:03.040
+employee in a business that's doing just
+
+00:05:01.160 --> 00:05:05.280
+one thing. And that's why you saw I have
+
+00:05:03.040 --> 00:05:07.280
+a bunch of different skills all for just
+
+00:05:05.280 --> 00:05:09.520
+YouTube itself, but each skill has its
+
+00:05:07.280 --> 00:05:11.320
+own purpose. I'm not using one big skill
+
+00:05:09.520 --> 00:05:13.200
+that does everything all in one, at
+
+00:05:11.320 --> 00:05:15.200
+least not yet. One of the mentees I work
+
+00:05:13.200 --> 00:05:16.720
+with in my coaching program messaged me
+
+00:05:15.200 --> 00:05:17.960
+showing me some of the skills he made
+
+00:05:16.720 --> 00:05:19.800
+for his personal AI business, and you
+
+00:05:17.960 --> 00:05:21.920
+can see that he's been cooking. Another
+
+00:05:19.800 --> 00:05:24.160
+mentee built his own UI creation skill
+
+00:05:21.920 --> 00:05:25.720
+that builds UIs that rival Apple and
+
+00:05:24.160 --> 00:05:27.360
+Google. And you can also give your
+
+00:05:25.720 --> 00:05:28.680
+skills to your friends or your business
+
+00:05:27.360 --> 00:05:30.600
+partners, and they can use the exact
+
+00:05:28.680 --> 00:05:32.080
+same skills you use for their own
+
+00:05:30.600 --> 00:05:34.320
+business, or you can use their skills
+
+00:05:32.080 --> 00:05:36.000
+for your business. Skills this, skills
+
+00:05:34.320 --> 00:05:38.440
+that. Okay, how do you turn these skills
+
+00:05:36.000 --> 00:05:40.320
+into genuine AI employees? Because right
+
+00:05:38.440 --> 00:05:42.200
+now, each individual skill is like a
+
+00:05:40.320 --> 00:05:44.120
+mini employee, but they can't really
+
+00:05:42.200 --> 00:05:46.680
+replace an actual human who gets paid
+
+00:05:44.120 --> 00:05:47.880
+65-70,000 dollars a year. Well, let's
+
+00:05:46.680 --> 00:05:49.240
+change that. See, this is what people
+
+00:05:47.880 --> 00:05:50.400
+do. They have a script writing skill,
+
+00:05:49.240 --> 00:05:51.560
+they have a research skill, and they
+
+00:05:50.400 --> 00:05:53.840
+think that's it, right? They're using
+
+00:05:51.560 --> 00:05:56.120
+Co-work as a fancy ChatGPT. No, that's
+
+00:05:53.840 --> 00:05:58.000
+leaving 90% of the power on the table.
+
+00:05:56.120 --> 00:05:59.360
+Here's what you actually want to do. Now
+
+00:05:58.000 --> 00:06:01.400
+that you have a bunch of mini skills
+
+00:05:59.360 --> 00:06:02.880
+together, maybe um a bunch of finance
+
+00:06:01.400 --> 00:06:04.640
+skills, a bunch of content creation
+
+00:06:02.880 --> 00:06:06.400
+skills, a bunch of uh lead management
+
+00:06:04.640 --> 00:06:08.840
+skills, you want to chain skills
+
+00:06:06.400 --> 00:06:10.800
+together into workflows that mimic what
+
+00:06:08.840 --> 00:06:12.280
+an actual employee would do throughout
+
+00:06:10.800 --> 00:06:14.440
+their entire work day. Let me give you a
+
+00:06:12.280 --> 00:06:16.560
+real example from my content business. I
+
+00:06:14.440 --> 00:06:18.120
+have what I call my content director.
+
+00:06:16.560 --> 00:06:19.600
+It's not one skill, it's a chain of
+
+00:06:18.120 --> 00:06:21.480
+skills that work together. When I tell
+
+00:06:19.600 --> 00:06:23.400
+Claude, "Plan and script my next batch
+
+00:06:21.480 --> 00:06:25.120
+of videos," here's what actually happens
+
+00:06:23.400 --> 00:06:26.720
+behind the scenes. It's not just one big
+
+00:06:25.120 --> 00:06:28.560
+skill that I'm using. First, the
+
+00:06:26.720 --> 00:06:30.640
+ideation skill kicks in. [music] It goes
+
+00:06:28.560 --> 00:06:32.560
+and researches my competitors' channels,
+
+00:06:30.640 --> 00:06:34.200
+finds what's trending in my niche,
+
+00:06:32.560 --> 00:06:35.800
+calculates [music] view multipliers to
+
+00:06:34.200 --> 00:06:37.920
+see which videos are outperforming, and
+
+00:06:35.800 --> 00:06:39.560
+generates nine video ideas tagged by the
+
+00:06:37.920 --> 00:06:40.840
+funnel stage, like top of the funnel,
+
+00:06:39.560 --> 00:06:42.280
+middle of the funnel, or bottom of the
+
+00:06:40.840 --> 00:06:43.520
+funnel. If you don't understand funnels,
+
+00:06:42.280 --> 00:06:45.640
+I have a future video coming on that
+
+00:06:43.520 --> 00:06:47.520
+soon. Then, after the ideation is done,
+
+00:06:45.640 --> 00:06:49.480
+the script write skill takes over. It
+
+00:06:47.520 --> 00:06:51.480
+takes those nine ideas and writes full
+
+00:06:49.480 --> 00:06:53.200
+scripts in my exact voice, my sentence
+
+00:06:51.480 --> 00:06:54.800
+structure, my expressions, my humor, and
+
+00:06:53.200 --> 00:06:57.240
+my pacing. If you don't find my videos
+
+00:06:54.800 --> 00:06:58.640
+funny, then I guess I'm not humorous.
+
+00:06:57.240 --> 00:07:00.280
+But once it does that, it organizes
+
+00:06:58.640 --> 00:07:02.080
+everything, all the scripts and video
+
+00:07:00.280 --> 00:07:04.320
+ideas into a content calendar [music]
+
+00:07:02.080 --> 00:07:05.800
+with upload dates and upload order. All
+
+00:07:04.320 --> 00:07:07.480
+that is done with just one command,
+
+00:07:05.800 --> 00:07:09.680
+which is plan and script my next batch
+
+00:07:07.480 --> 00:07:11.560
+of videos, and I get nine researched
+
+00:07:09.680 --> 00:07:13.840
+video ideas with scripts and a
+
+00:07:11.560 --> 00:07:15.920
+publishing calendar. That's not a tool,
+
+00:07:13.840 --> 00:07:17.520
+that's a content director. And for most
+
+00:07:15.920 --> 00:07:20.160
+businesses, that would cost them about
+
+00:07:17.520 --> 00:07:21.680
+$5,000 a month to hire a human who could
+
+00:07:20.160 --> 00:07:23.560
+do who could do all that to such a high
+
+00:07:21.680 --> 00:07:25.760
+extent. $5,000 a month. You're literally
+
+00:07:23.560 --> 00:07:27.320
+saving $60,000 a year with just one
+
+00:07:25.760 --> 00:07:28.720
+Claude subscription. Coolest part is
+
+00:07:27.320 --> 00:07:30.520
+Claude Co-work is smart enough to
+
+00:07:28.720 --> 00:07:32.200
+automatically figure out which skills to
+
+00:07:30.520 --> 00:07:33.640
+use based on what you're asking. You
+
+00:07:32.200 --> 00:07:35.800
+don't have to manually tell it use skill
+
+00:07:33.640 --> 00:07:37.560
+A, then skill B, then skill C. You just
+
+00:07:35.800 --> 00:07:38.560
+describe the task, and Co-work looks at
+
+00:07:37.560 --> 00:07:40.400
+all your active skills and [music]
+
+00:07:38.560 --> 00:07:41.880
+decides which one to apply. So, once
+
+00:07:40.400 --> 00:07:43.440
+your skills are set up, you're literally
+
+00:07:41.880 --> 00:07:45.160
+just talking to your AI employees like
+
+00:07:43.440 --> 00:07:46.880
+you would talk to a real person. "Hey,
+
+00:07:45.160 --> 00:07:49.520
+plan my next videos. Hey, see how many
+
+00:07:46.880 --> 00:07:50.880
+leads I got in my uh sales funnel. Hey,
+
+00:07:49.520 --> 00:07:52.800
+how many book calls did I have this
+
+00:07:50.880 --> 00:07:54.600
+week? Hey, how many sales did my company
+
+00:07:52.800 --> 00:07:56.120
+make this week? Hey, how is my LinkedIn
+
+00:07:54.600 --> 00:07:57.600
+post performing? How are the ad
+
+00:07:56.120 --> 00:07:58.920
+campaigns you have running? How What's
+
+00:07:57.600 --> 00:08:00.880
+the What's the CPM on them? What's the
+
+00:07:58.920 --> 00:08:02.080
+CPC?" You can track [music] everything,
+
+00:08:00.880 --> 00:08:04.080
+and your employees can do all the work
+
+00:08:02.080 --> 00:08:05.680
+for you. And this is where we get into
+
+00:08:04.080 --> 00:08:07.000
+that one-person CEO framework I
+
+00:08:05.680 --> 00:08:08.680
+mentioned at the beginning. So, the
+
+00:08:07.000 --> 00:08:10.400
+structure of most AI businesses is
+
+00:08:08.680 --> 00:08:11.880
+you're a CEO, then you have a marketer,
+
+00:08:10.400 --> 00:08:13.240
+or you have a developer. Now, sometimes
+
+00:08:11.880 --> 00:08:14.640
+you're all three, sometimes you might
+
+00:08:13.240 --> 00:08:16.280
+have partners in uh different
+
+00:08:14.640 --> 00:08:17.840
+departments. But if you don't have any
+
+00:08:16.280 --> 00:08:19.600
+partners and you're a one-person AI
+
+00:08:17.840 --> 00:08:21.320
+business, it can be kind of hard doing
+
+00:08:19.600 --> 00:08:22.960
+the marketing, development, and the CEO
+
+00:08:21.320 --> 00:08:24.960
+duties. [music] So, here's how you can
+
+00:08:22.960 --> 00:08:26.400
+use AI employees to handle that.
+
+00:08:24.960 --> 00:08:28.400
+Starting from the development, I have a
+
+00:08:26.400 --> 00:08:30.000
+skill that handles technical research.
+
+00:08:28.400 --> 00:08:31.840
+When I'm exploring a new app idea or a
+
+00:08:30.000 --> 00:08:34.080
+new AI tool to integrate into a client
+
+00:08:31.840 --> 00:08:36.039
+project, I tell Co-work, "Research this
+
+00:08:34.080 --> 00:08:37.320
+technology, find out what it can do, how
+
+00:08:36.039 --> 00:08:38.800
+people are using it, and write me
+
+00:08:37.320 --> 00:08:40.120
+tutorial script combining it with this
+
+00:08:38.800 --> 00:08:41.719
+other tool." Let's say I'm trying to
+
+00:08:40.120 --> 00:08:43.560
+connect Claude Code and Google Stitch,
+
+00:08:41.719 --> 00:08:45.240
+or like Obsidian and Claude Code. So, AI
+
+00:08:43.560 --> 00:08:47.280
+employee goes out, searches the web for
+
+00:08:45.240 --> 00:08:48.440
+the latest documentation, finds real use
+
+00:08:47.280 --> 00:08:49.960
+cases, reads through forums and
+
+00:08:48.440 --> 00:08:52.440
+communities, and comes back with a
+
+00:08:49.960 --> 00:08:53.880
+comprehensive breakdown, plus a draft
+
+00:08:52.440 --> 00:08:55.320
+script if I want to turn it into a
+
+00:08:53.880 --> 00:08:56.840
+video, cuz it knows that I'm a content
+
+00:08:55.320 --> 00:08:58.560
+creator. And then on the development
+
+00:08:56.840 --> 00:09:00.320
+side, for actual coding, I still use
+
+00:08:58.560 --> 00:09:01.400
+Claude Code for building apps, but the
+
+00:09:00.320 --> 00:09:02.880
+planning, the research, the
+
+00:09:01.400 --> 00:09:04.880
+documentation, the feature specs, the
+
+00:09:02.880 --> 00:09:06.600
+feature list, all that is handled in my
+
+00:09:04.880 --> 00:09:07.880
+Co-work skills. So, if on development
+
+00:09:06.600 --> 00:09:09.840
+side, all I really have to do is copy
+
+00:09:07.880 --> 00:09:11.840
+and paste that into one prompt in Claude
+
+00:09:09.840 --> 00:09:13.400
+Code. Now, on the marketing side, which
+
+00:09:11.840 --> 00:09:15.200
+I know most people hate marketing, they
+
+00:09:13.400 --> 00:09:17.080
+struggle with it, I built a LinkedIn
+
+00:09:15.200 --> 00:09:19.000
+director that runs my entire LinkedIn
+
+00:09:17.080 --> 00:09:20.520
+strategy. It generates 10 to 12 post
+
+00:09:19.000 --> 00:09:22.440
+ideas based on what's trending, what
+
+00:09:20.520 --> 00:09:24.280
+drives leads to my agency, and what
+
+00:09:22.440 --> 00:09:26.360
+positions me as authority in [music] my
+
+00:09:24.280 --> 00:09:28.480
+niche. Then it writes two variations of
+
+00:09:26.360 --> 00:09:29.880
+every single post in my exact voice, and
+
+00:09:28.480 --> 00:09:32.520
+organizes them into a posting [music]
+
+00:09:29.880 --> 00:09:34.200
+calendar, all from one command. And this
+
+00:09:32.520 --> 00:09:35.800
+LinkedIn strategy and social media
+
+00:09:34.200 --> 00:09:37.280
+strategy applies not just AI
+
+00:09:35.800 --> 00:09:39.560
+service-based businesses, but also AI
+
+00:09:37.280 --> 00:09:41.440
+product-based businesses like apps and
+
+00:09:39.560 --> 00:09:43.560
+um digital products. And on the YouTube
+
+00:09:41.440 --> 00:09:44.960
+side, I also have a ideation and
+
+00:09:43.560 --> 00:09:46.680
+research skill that helps me plan my
+
+00:09:44.960 --> 00:09:48.400
+videos, and as you saw, it also script
+
+00:09:46.680 --> 00:09:50.120
+write my videos for me. So, my entire
+
+00:09:48.400 --> 00:09:51.440
+marketing team is literally AI-ified. I
+
+00:09:50.120 --> 00:09:52.960
+have no people in my marketing team
+
+00:09:51.440 --> 00:09:54.600
+anymore. And funny enough, I'm working
+
+00:09:52.960 --> 00:09:56.480
+with three clients right now to replace
+
+00:09:54.600 --> 00:09:58.400
+their marketing teams with my exact AI
+
+00:09:56.480 --> 00:09:59.880
+employees, And the average deal size is
+
+00:09:58.400 --> 00:10:01.520
+$15,000, [music]
+
+00:09:59.880 --> 00:10:02.800
+and these are all US clients. You might
+
+00:10:01.520 --> 00:10:04.200
+call this lazy, but when clients are
+
+00:10:02.800 --> 00:10:05.360
+willing to pay tens of thousands of
+
+00:10:04.200 --> 00:10:07.480
+dollars for this type of AI operating
+
+00:10:05.360 --> 00:10:09.200
+system, I call it smart. Now, before we
+
+00:10:07.480 --> 00:10:10.440
+get to the last part of the CEO
+
+00:10:09.200 --> 00:10:12.040
+framework, there's [music] one thing
+
+00:10:10.440 --> 00:10:13.560
+that you have to have an AI employee
+
+00:10:12.040 --> 00:10:15.800
+for, and that's just to manage your
+
+00:10:13.560 --> 00:10:17.240
+finances. I know a lot of solopreneurs
+
+00:10:15.800 --> 00:10:18.720
+and one-person businesses [music] ignore
+
+00:10:17.240 --> 00:10:20.240
+this. They don't look into their
+
+00:10:18.720 --> 00:10:21.640
+finances, they don't track their leads,
+
+00:10:20.240 --> 00:10:23.160
+their sales pipelines. They just care
+
+00:10:21.640 --> 00:10:24.720
+about getting more customers and doing
+
+00:10:23.160 --> 00:10:25.840
+more projects, but you need to have at
+
+00:10:24.720 --> 00:10:27.480
+least one AI employee that can track
+
+00:10:25.840 --> 00:10:29.320
+your expenses, organize your revenue,
+
+00:10:27.480 --> 00:10:30.720
+make sure invoices were sent, figuring
+
+00:10:29.320 --> 00:10:32.880
+out if there's any lost revenue
+
+00:10:30.720 --> 00:10:34.160
+anywhere. I'd rather build five apps
+
+00:10:32.880 --> 00:10:35.640
+than spend 30 minutes looking at a
+
+00:10:34.160 --> 00:10:37.280
+spreadsheet, but even if building five
+
+00:10:35.640 --> 00:10:39.200
+apps is a lot, so instead, I just built
+
+00:10:37.280 --> 00:10:41.280
+a financial reporting skill in Cloud
+
+00:10:39.200 --> 00:10:42.760
+Co-Work that handles all the finances
+
+00:10:41.280 --> 00:10:45.160
+for my company for me. It's like my own
+
+00:10:42.760 --> 00:10:46.760
+personal income tax advisor. [music]
+
+00:10:45.160 --> 00:10:49.160
+Now, is this an obvious replacement for
+
+00:10:46.760 --> 00:10:50.640
+a CFO or accountant? No, but this does
+
+00:10:49.160 --> 00:10:52.600
+help keep things [music] financially
+
+00:10:50.640 --> 00:10:54.280
+organized better than if you had no one
+
+00:10:52.600 --> 00:10:56.440
+doing it, or better than paying someone
+
+00:10:54.280 --> 00:10:58.600
+like $65,000 a year to do so. But now
+
+00:10:56.440 --> 00:11:00.280
+with your marketing, development, and
+
+00:10:58.600 --> 00:11:02.520
+your financial [music] departments made,
+
+00:11:00.280 --> 00:11:05.960
+now comes the final step, operating as a
+
+00:11:02.520 --> 00:11:07.760
+one-person CEO that [music] is running a
+
+00:11:05.960 --> 00:11:09.720
+amazing AI business. Now, before
+
+00:11:07.760 --> 00:11:11.120
+Co-Work, I was my entire business. In
+
+00:11:09.720 --> 00:11:12.080
+fact, I was writing the scripts, I was
+
+00:11:11.120 --> 00:11:13.640
+posting on social media, I was
+
+00:11:12.080 --> 00:11:15.280
+recording, I was building the apps,
+
+00:11:13.640 --> 00:11:16.920
+handling the finances. I was doing
+
+00:11:15.280 --> 00:11:18.880
+almost every single task myself, and
+
+00:11:16.920 --> 00:11:20.360
+while I was making money, and a lot of
+
+00:11:18.880 --> 00:11:22.440
+it, I was also burnt out, working
+
+00:11:20.360 --> 00:11:24.120
+14-hour days, constantly behind on
+
+00:11:22.440 --> 00:11:26.920
+something. My mind was not able to
+
+00:11:24.120 --> 00:11:28.600
+relax. vacation, which is a a work trip
+
+00:11:26.920 --> 00:11:30.040
+in a different spot of the world. But
+
+00:11:28.600 --> 00:11:31.480
+when I built my AI employee system on
+
+00:11:30.040 --> 00:11:32.997
+Co-Work, something clicked. I stopped
+
+00:11:31.480 --> 00:11:33.520
+being the worker, I became the CEO.
+
+00:11:32.997 --> 00:11:34.960
+[music]
+
+00:11:33.520 --> 00:11:36.480
+And this is how my day looks. I wake up,
+
+00:11:34.960 --> 00:11:37.920
+I open Cloud Co-Work, I check what needs
+
+00:11:36.480 --> 00:11:39.160
+to happen this week, I tell my content
+
+00:11:37.920 --> 00:11:40.480
+director to plan the next batch of
+
+00:11:39.160 --> 00:11:42.000
+videos, I tell my LinkedIn director to
+
+00:11:40.480 --> 00:11:43.680
+draft this week's post, I review the
+
+00:11:42.000 --> 00:11:45.240
+financial summary from last month, and I
+
+00:11:43.680 --> 00:11:47.640
+have all these employees working on a
+
+00:11:45.240 --> 00:11:49.240
+Sunday because I use a schedule ability
+
+00:11:47.640 --> 00:11:51.400
+in Cloud Co-Work, which will run my
+
+00:11:49.240 --> 00:11:52.720
+employees on a set day at a set time.
+
+00:11:51.400 --> 00:11:55.600
+So, every Sunday [music] when I open my
+
+00:11:52.720 --> 00:11:58.640
+laptop, I have all the week's to-dos,
+
+00:11:55.600 --> 00:12:00.600
+videos, finances there. [music] So, now
+
+00:11:58.640 --> 00:12:01.920
+I can just focus on the strategy, the
+
+00:12:00.600 --> 00:12:04.360
+high-level decisions, and the
+
+00:12:01.920 --> 00:12:06.160
+relationships that I can build as a CEO.
+
+00:12:04.360 --> 00:12:08.000
+And this AI operating system is what
+
+00:12:06.160 --> 00:12:09.920
+businesses and enterprises are spending
+
+00:12:08.000 --> 00:12:12.720
+tens of thousands of dollars for, and
+
+00:12:09.920 --> 00:12:13.760
+this is the biggest opportunity of 2026.
+
+00:12:12.720 --> 00:12:15.720
+I know this because I'm literally
+
+00:12:13.760 --> 00:12:17.320
+working with 190 plus entrepreneurs
+
+00:12:15.720 --> 00:12:19.000
+one-on-one, and helping them build their
+
+00:12:17.320 --> 00:12:20.480
+own AI operating systems, and building
+
+00:12:19.000 --> 00:12:21.839
+their AI businesses, and they're
+
+00:12:20.480 --> 00:12:23.600
+bringing in deals that are in
+
+00:12:21.839 --> 00:12:25.360
+five-figure range. If you want to see me
+
+00:12:23.600 --> 00:12:28.360
+build an AI operating system live, watch
+
+00:12:25.360 --> 00:12:28.360
+this video next.
+

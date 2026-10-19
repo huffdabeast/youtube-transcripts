@@ -1,0 +1,7142 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.680
+Zack Mutnick, welcome to Acquiring
+
+00:00:02.120 --> 00:00:05.600
+Minds. Thank you for having me.
+
+00:00:03.680 --> 00:00:07.680
+Appreciate it.
+
+00:00:05.600 --> 00:00:10.400
+Zack, you bought an electrical
+
+00:00:07.680 --> 00:00:13.040
+contractor in South Florida.
+
+00:00:10.400 --> 00:00:14.440
+Things are looking good now, but it has
+
+00:00:13.040 --> 00:00:16.320
+been a ride.
+
+00:00:14.440 --> 00:00:18.280
+Let's get into it. Please start us off
+
+00:00:16.320 --> 00:00:20.280
+with a little background on you, Zack.
+
+00:00:18.280 --> 00:00:21.760
+Sure. Thanks, Will. Listen to this for
+
+00:00:20.280 --> 00:00:24.360
+years. Happy to be here, by the way.
+
+00:00:21.760 --> 00:00:27.520
+Thank you. Um Awesome. It's exciting.
+
+00:00:24.360 --> 00:00:29.960
+Let's just start uh I don't know, 18,
+
+00:00:27.520 --> 00:00:31.080
+right? So, I graduated high school.
+
+00:00:29.960 --> 00:00:32.200
+You It's It's interesting to see where
+
+00:00:31.080 --> 00:00:32.750
+everybody starts cuz you can go anywhere
+
+00:00:32.200 --> 00:00:33.040
+with it.
+
+00:00:32.750 --> 00:00:34.880
+>> [snorts]
+
+00:00:33.040 --> 00:00:36.840
+>> Um and I went to college cuz that's what
+
+00:00:34.880 --> 00:00:38.200
+you do. That's what everybody did.
+
+00:00:36.840 --> 00:00:39.360
+Uh no idea what I wanted to do, so I
+
+00:00:38.200 --> 00:00:40.840
+went to business management cuz I knew
+
+00:00:39.360 --> 00:00:42.280
+eventually I wanted to
+
+00:00:40.840 --> 00:00:44.120
+own my own business.
+
+00:00:42.280 --> 00:00:46.480
+Didn't work out. Not very good at
+
+00:00:44.120 --> 00:00:47.815
+college. Went back, forth, right? Did
+
+00:00:46.480 --> 00:00:48.080
+that for several years.
+
+00:00:47.815 --> 00:00:50.120
+>> [snorts]
+
+00:00:48.080 --> 00:00:52.280
+>> Did a bunch of dumb stuff as a kid till
+
+00:00:50.120 --> 00:00:54.520
+I was about 23, started getting my life
+
+00:00:52.280 --> 00:00:56.280
+together. Uh joined the Navy and it took
+
+00:00:54.520 --> 00:00:58.240
+a a while, so
+
+00:00:56.280 --> 00:01:00.760
+25, I went to boot camp.
+
+00:00:58.240 --> 00:01:01.920
+And I was stationed in Norfolk, Virginia
+
+00:01:00.760 --> 00:01:03.600
+for 5 years.
+
+00:01:01.920 --> 00:01:04.360
+I was a gas turbine electrician, which
+
+00:01:03.600 --> 00:01:06.600
+is
+
+00:01:04.360 --> 00:01:09.640
+more or less where I started um in terms
+
+00:01:06.600 --> 00:01:10.840
+of my qualifications. Um
+
+00:01:09.640 --> 00:01:12.520
+And so
+
+00:01:10.840 --> 00:01:15.120
+yeah, well, I was on a ship all all day,
+
+00:01:12.520 --> 00:01:17.240
+every day, and we went out to sea
+
+00:01:15.120 --> 00:01:19.680
+consistently, all the time.
+
+00:01:17.240 --> 00:01:21.560
+So, you have to learn. They say it's
+
+00:01:19.680 --> 00:01:23.760
+called a small boy, a destroyer. It's a
+
+00:01:21.560 --> 00:01:25.080
+small ship. And they say uh it's good
+
+00:01:23.760 --> 00:01:26.600
+cuz you get to learn everything. You get
+
+00:01:25.080 --> 00:01:28.440
+to learn a lot because there's nobody
+
+00:01:26.600 --> 00:01:30.120
+there to fix stuff, and it's all you.
+
+00:01:28.440 --> 00:01:32.720
+You got to fix everything. So, I did
+
+00:01:30.120 --> 00:01:33.800
+learn a lot. Um and we we did two
+
+00:01:32.720 --> 00:01:34.560
+deployments.
+
+00:01:33.800 --> 00:01:37.240
+Uh
+
+00:01:34.560 --> 00:01:38.760
+we did a deployment in the Middle East,
+
+00:01:37.240 --> 00:01:39.800
+which was the freedom of trade
+
+00:01:38.760 --> 00:01:41.120
+operation. Basically, what you're
+
+00:01:39.800 --> 00:01:42.920
+hearing right now.
+
+00:01:41.120 --> 00:01:46.000
+It was the Straits of Hormuz,
+
+00:01:42.920 --> 00:01:47.280
+uh Gibraltar, all that good stuff. Um
+
+00:01:46.000 --> 00:01:48.320
+Yeah, everything checks out.
+
+00:01:47.280 --> 00:01:49.160
+Everything's accurate with that over
+
+00:01:48.320 --> 00:01:51.600
+there.
+
+00:01:49.160 --> 00:01:52.960
+And we So, that was that was Sorry, that
+
+00:01:51.600 --> 00:01:54.120
+was during COVID. So, we pulled into
+
+00:01:52.960 --> 00:01:57.640
+Greece
+
+00:01:54.120 --> 00:02:00.000
+in late 2019, and then COVID hit.
+
+00:01:57.640 --> 00:02:01.400
+So, we got 1 day out in Greece, one
+
+00:02:00.000 --> 00:02:02.640
+night, and then we were quarantined to
+
+00:02:01.400 --> 00:02:05.000
+the ship.
+
+00:02:02.640 --> 00:02:07.120
+And then we left, and we never pulled in
+
+00:02:05.000 --> 00:02:08.600
+anywhere until the deployment was done,
+
+00:02:07.120 --> 00:02:10.479
+so it was about 9 months.
+
+00:02:08.600 --> 00:02:12.120
+And we had the record for most
+
+00:02:10.479 --> 00:02:14.320
+consecutive days out at sea for any
+
+00:02:12.120 --> 00:02:16.960
+destroyer. It's like the worst record to
+
+00:02:14.320 --> 00:02:19.880
+have. Nobody wants that. But a lot of
+
+00:02:16.960 --> 00:02:19.880
+people were
+
+00:02:19.920 --> 00:02:23.080
+playing video games, watching movies,
+
+00:02:21.680 --> 00:02:25.160
+just trying to pass the time, right? Cuz
+
+00:02:23.080 --> 00:02:27.720
+the the days just blur. There's a period
+
+00:02:25.160 --> 00:02:31.240
+where I didn't see light sunlight for 3
+
+00:02:27.720 --> 00:02:33.080
+weeks. Just happens. Um So, I had my my
+
+00:02:31.240 --> 00:02:35.080
+family send me books, and I read a lot
+
+00:02:33.080 --> 00:02:37.000
+of books. There's no internet.
+
+00:02:35.080 --> 00:02:38.720
+So, I probably read 30 or 40 books
+
+00:02:37.000 --> 00:02:41.960
+all on
+
+00:02:38.720 --> 00:02:43.440
+buying businesses, finance, real estate.
+
+00:02:41.960 --> 00:02:45.320
+And real estate caught my interest
+
+00:02:43.440 --> 00:02:46.240
+because it seemed feasible. Like it
+
+00:02:45.320 --> 00:02:47.200
+seemed something I could actually do
+
+00:02:46.240 --> 00:02:49.160
+right now.
+
+00:02:47.200 --> 00:02:51.080
+And so, I got back and I bought a couple
+
+00:02:49.160 --> 00:02:53.480
+properties with a buddy.
+
+00:02:51.080 --> 00:02:55.160
+We bought three properties in 8 months,
+
+00:02:53.480 --> 00:02:56.120
+and then kind of stopped cuz I was
+
+00:02:55.160 --> 00:02:57.680
+getting out. I wanted to save a little
+
+00:02:56.120 --> 00:03:01.520
+bit of money.
+
+00:02:57.680 --> 00:03:03.000
+So, I got out, and I did this internship
+
+00:03:01.520 --> 00:03:04.960
+the last few months of my contract. It's
+
+00:03:03.000 --> 00:03:06.920
+called the SkillBridge program.
+
+00:03:04.960 --> 00:03:09.080
+So, I worked at a
+
+00:03:06.920 --> 00:03:12.360
+commercial real estate firm. It was a
+
+00:03:09.080 --> 00:03:13.080
+nice building downtown, very corporate,
+
+00:03:12.360 --> 00:03:15.960
+nice people.
+
+00:03:13.080 --> 00:03:17.520
+>> Where Where? Uh downtown Miami.
+
+00:03:15.960 --> 00:03:18.560
+Ah, you're in Okay, you're in Miami now.
+
+00:03:17.520 --> 00:03:19.720
+Okay.
+
+00:03:18.560 --> 00:03:21.400
+Good job.
+
+00:03:19.720 --> 00:03:22.440
+Um I loved real estate, so I said, "This
+
+00:03:21.400 --> 00:03:23.680
+is great. I want to get into commercial
+
+00:03:22.440 --> 00:03:26.280
+real estate." But ultimately, it wasn't
+
+00:03:23.680 --> 00:03:27.400
+for me. You know, corporate. Not really
+
+00:03:26.280 --> 00:03:30.880
+big on it.
+
+00:03:27.400 --> 00:03:33.600
+I think um I think you can get it. But
+
+00:03:30.880 --> 00:03:36.280
+after that, I delved in back back into
+
+00:03:33.600 --> 00:03:37.720
+what I knew. So, I I knew I
+
+00:03:36.280 --> 00:03:38.760
+knew stuff, right? So, I was like, "What
+
+00:03:37.720 --> 00:03:40.280
+can I do?"
+
+00:03:38.760 --> 00:03:41.520
+Generators. I know a lot about
+
+00:03:40.280 --> 00:03:42.760
+generators.
+
+00:03:41.520 --> 00:03:44.600
+So, I got a job working for Lumen
+
+00:03:42.760 --> 00:03:46.680
+Technologies, which is CenturyLink,
+
+00:03:44.600 --> 00:03:49.480
+essentially. And I did the backup diesel
+
+00:03:46.680 --> 00:03:51.760
+generators for their their sites. So,
+
+00:03:49.480 --> 00:03:53.760
+telecommunication, internet, phone, when
+
+00:03:51.760 --> 00:03:55.200
+their power goes out, that's my job.
+
+00:03:53.760 --> 00:03:57.400
+Battery backup, generators, all that
+
+00:03:55.200 --> 00:03:59.000
+good stuff.
+
+00:03:57.400 --> 00:04:00.520
+Amazing gig.
+
+00:03:59.000 --> 00:04:03.520
+I loved the people I worked with.
+
+00:04:00.520 --> 00:04:04.960
+Seriously, everybody was great. Um I I
+
+00:04:03.520 --> 00:04:07.600
+made good money,
+
+00:04:04.960 --> 00:04:09.280
+and nobody bugged me. I had my own
+
+00:04:07.600 --> 00:04:11.520
+hours. I had my own truck, and I just
+
+00:04:09.280 --> 00:04:12.800
+went around the state fixing stuff. It
+
+00:04:11.520 --> 00:04:14.000
+was great.
+
+00:04:12.800 --> 00:04:16.280
+But [snorts]
+
+00:04:14.000 --> 00:04:18.320
+I just got the bug, you know?
+
+00:04:16.280 --> 00:04:20.200
+I just wanted to It wasn't mine. It
+
+00:04:18.320 --> 00:04:21.440
+wasn't my business. I had a lot of time
+
+00:04:20.200 --> 00:04:23.120
+on my hands. I was doing real estate and
+
+00:04:21.440 --> 00:04:25.040
+stuff, and ultimately, I got up to like
+
+00:04:23.120 --> 00:04:26.320
+six properties.
+
+00:04:25.040 --> 00:04:28.440
+But it wasn't mine.
+
+00:04:26.320 --> 00:04:29.880
+I started looking online.
+
+00:04:28.440 --> 00:04:32.320
+And I went on BizBuySell. I don't know
+
+00:04:29.880 --> 00:04:34.480
+what to do. It was my first time. So, I
+
+00:04:32.320 --> 00:04:36.800
+basically looked like like anybody would
+
+00:04:34.480 --> 00:04:39.160
+for a home, Zillow, right? dot com. So,
+
+00:04:36.800 --> 00:04:41.800
+BizBuySell, Crexi, all that good stuff.
+
+00:04:39.160 --> 00:04:44.280
+And I I I messaged a lot of brokers. No
+
+00:04:41.800 --> 00:04:45.960
+had no idea what I'm doing. So
+
+00:04:44.280 --> 00:04:46.240
+But you had read a couple books about
+
+00:04:45.960 --> 00:04:47.760
+it.
+
+00:04:46.240 --> 00:04:49.520
+>> I had read a couple books about it, and
+
+00:04:47.760 --> 00:04:50.360
+I listened to your podcast. I listened
+
+00:04:49.520 --> 00:04:51.960
+to
+
+00:04:50.360 --> 00:04:55.400
+all these podcasts, YouTubes. And so,
+
+00:04:51.960 --> 00:04:57.600
+theoretically, sure. But that process
+
+00:04:55.400 --> 00:04:59.800
+was not anything that I could have
+
+00:04:57.600 --> 00:05:02.040
+dreamt of, the whole process.
+
+00:04:59.800 --> 00:05:04.320
+And so, yeah, step one was a little bit
+
+00:05:02.040 --> 00:05:05.920
+obvious to contact brokers, and the
+
+00:05:04.320 --> 00:05:08.440
+first step was, "Hey, you know, do you
+
+00:05:05.920 --> 00:05:09.840
+have financing? Let me see money." So,
+
+00:05:08.440 --> 00:05:12.320
+then I sold
+
+00:05:09.840 --> 00:05:15.040
+two properties, and that was that was
+
+00:05:12.320 --> 00:05:17.520
+our our financing for the business. So,
+
+00:05:15.040 --> 00:05:19.160
+I did. I had financing. I can prove it.
+
+00:05:17.520 --> 00:05:20.760
+And the next step was SBA loan. I got an
+
+00:05:19.160 --> 00:05:22.880
+SBA 7(a) loan.
+
+00:05:20.760 --> 00:05:24.880
+The Wait, Zack, how much when you sold
+
+00:05:22.880 --> 00:05:26.280
+the properties? So, how liquid were you
+
+00:05:24.880 --> 00:05:27.360
+at that point? How much cash on your
+
+00:05:26.280 --> 00:05:30.800
+balance sheet did Yeah, I was a little
+
+00:05:27.360 --> 00:05:32.200
+bit over six figures um from that sale.
+
+00:05:30.800 --> 00:05:34.400
+And then I had other assets. I had real
+
+00:05:32.200 --> 00:05:37.000
+estate. I had investments and stuff. So,
+
+00:05:34.400 --> 00:05:38.600
+that all added to it.
+
+00:05:37.000 --> 00:05:40.520
+It It was interesting going through that
+
+00:05:38.600 --> 00:05:42.080
+SBA process because
+
+00:05:40.520 --> 00:05:44.040
+it didn't seem like
+
+00:05:42.080 --> 00:05:46.280
+I didn't need it any anything. I Yeah, I
+
+00:05:44.040 --> 00:05:48.160
+needed a down payment, but ultimately,
+
+00:05:46.280 --> 00:05:49.560
+what what I got from it was that they
+
+00:05:48.160 --> 00:05:51.200
+will
+
+00:05:49.560 --> 00:05:52.520
+they will take my assets as collateral
+
+00:05:51.200 --> 00:05:54.600
+if I have them.
+
+00:05:52.520 --> 00:05:56.360
+But if I don't have them,
+
+00:05:54.600 --> 00:05:58.240
+they won't. And but I would still get
+
+00:05:56.360 --> 00:06:01.280
+the loan. That's kind of the gist, you
+
+00:05:58.240 --> 00:06:04.520
+know? Well, and this is why for, you
+
+00:06:01.280 --> 00:06:06.040
+know, a a personal guarantee is has
+
+00:06:04.520 --> 00:06:07.600
+different weight for different people,
+
+00:06:06.040 --> 00:06:08.960
+but it's the same personal guarantee.
+
+00:06:07.600 --> 00:06:11.520
+So, if you get a personal guarantee as a
+
+00:06:08.960 --> 00:06:13.200
+25-year-old with no assets, it's a good
+
+00:06:11.520 --> 00:06:14.480
+time to get a personal guarantee cuz if
+
+00:06:13.200 --> 00:06:16.120
+if they come after you, there's nothing
+
+00:06:14.480 --> 00:06:18.480
+to there's nothing to take. The
+
+00:06:16.120 --> 00:06:20.200
+45-year-old, same personal guarantee,
+
+00:06:18.480 --> 00:06:22.240
+but has a lot of assets behind it, stuff
+
+00:06:20.200 --> 00:06:25.520
+that can be vulnerable to being taken.
+
+00:06:22.240 --> 00:06:27.360
+So, um it's why, you know, people with
+
+00:06:25.520 --> 00:06:29.240
+families and mortgages are that much
+
+00:06:27.360 --> 00:06:31.040
+less inclined to
+
+00:06:29.240 --> 00:06:32.040
+uh to take a personal guarantee. So,
+
+00:06:31.040 --> 00:06:33.960
+you're right about that. But just So,
+
+00:06:32.040 --> 00:06:35.960
+you had about a hundred-ish, a little
+
+00:06:33.960 --> 00:06:38.000
+over a hundred thousand dollars that you
+
+00:06:35.960 --> 00:06:39.560
+could put toward the hard costs of
+
+00:06:38.000 --> 00:06:40.520
+getting the deal done and the 10%
+
+00:06:39.560 --> 00:06:42.120
+equity.
+
+00:06:40.520 --> 00:06:44.400
+Sure. So,
+
+00:06:42.120 --> 00:06:46.880
+yes, I I wanted to do it sooner rather
+
+00:06:44.400 --> 00:06:48.680
+than later as, you know, I was uh 33 at
+
+00:06:46.880 --> 00:06:50.320
+the time or 32.
+
+00:06:48.680 --> 00:06:51.880
+And I knew that if I did wait and I had
+
+00:06:50.320 --> 00:06:53.320
+more assets and I I had more
+
+00:06:51.880 --> 00:06:56.320
+responsibility, it'd be a lot harder to
+
+00:06:53.320 --> 00:06:58.120
+do it. Um I thought
+
+00:06:56.320 --> 00:06:59.640
+This is my This is my thought process
+
+00:06:58.120 --> 00:07:01.080
+going through it. I said, "What's the
+
+00:06:59.640 --> 00:07:03.080
+difference between I'm going to own a
+
+00:07:01.080 --> 00:07:04.560
+business. I'm going to. All right? I
+
+00:07:03.080 --> 00:07:06.440
+don't know when. So, what's the
+
+00:07:04.560 --> 00:07:08.240
+difference between me owning one now and
+
+00:07:06.440 --> 00:07:10.160
+me owning one at say in 17 years when
+
+00:07:08.240 --> 00:07:12.080
+I'm 50 years old?"
+
+00:07:10.160 --> 00:07:14.200
+I went through it, and ultimately, I
+
+00:07:12.080 --> 00:07:16.440
+decided uh I I I figured out there was
+
+00:07:14.200 --> 00:07:17.840
+just age. I would just be older. I would
+
+00:07:16.440 --> 00:07:18.960
+have no more experience. I would have no
+
+00:07:17.840 --> 00:07:20.640
+more business experience. I'd be
+
+00:07:18.960 --> 00:07:22.680
+listening to more podcasts, watching
+
+00:07:20.640 --> 00:07:24.680
+more YouTube videos, but it's still all
+
+00:07:22.680 --> 00:07:27.120
+theoretical. I would have
+
+00:07:24.680 --> 00:07:28.720
+n- nothing different, nothing better.
+
+00:07:27.120 --> 00:07:29.080
+So, why not do it now? That was my
+
+00:07:28.720 --> 00:07:31.880
+theory.
+
+00:07:29.080 --> 00:07:33.920
+>> So, you get on BizBuySell. You are
+
+00:07:31.880 --> 00:07:36.080
+living in Miami at this point?
+
+00:07:33.920 --> 00:07:38.840
+Yes, I was in Miami. I was in Broward
+
+00:07:36.080 --> 00:07:41.880
+County. Okay. And you go on BizBuySell,
+
+00:07:38.840 --> 00:07:43.760
+and you start looking for businesses in
+
+00:07:41.880 --> 00:07:45.480
+there with the idea that you're just
+
+00:07:43.760 --> 00:07:48.120
+kind of learning, but maybe actually
+
+00:07:45.480 --> 00:07:49.720
+might jump on something. Right. And And
+
+00:07:48.120 --> 00:07:50.760
+so, what do you Do you find the business
+
+00:07:49.720 --> 00:07:52.400
+that we're here to talk about on
+
+00:07:50.760 --> 00:07:54.720
+BizBuySell? I did. I found this
+
+00:07:52.400 --> 00:07:57.400
+business. My criteria was
+
+00:07:54.720 --> 00:07:58.600
+loose. I didn't have a hard uh radius.
+
+00:07:57.400 --> 00:08:01.480
+It was kind of
+
+00:07:58.600 --> 00:08:03.280
+m- local-ish, right? I didn't want to go
+
+00:08:01.480 --> 00:08:04.880
+to Georgia, but
+
+00:08:03.280 --> 00:08:06.920
+I went across the state, you know? So,
+
+00:08:04.880 --> 00:08:09.080
+it wasn't uh it wasn't really
+
+00:08:06.920 --> 00:08:11.240
+>> South Florida. South Florida Correct. I
+
+00:08:09.080 --> 00:08:13.360
+was in South Florida. I'm I'm now on the
+
+00:08:11.240 --> 00:08:15.080
+West Coast, uh about 2 2 and 1/2 hours
+
+00:08:13.360 --> 00:08:17.000
+away.
+
+00:08:15.080 --> 00:08:18.080
+And I Yeah, that was my criteria. I
+
+00:08:17.000 --> 00:08:20.000
+wanted a business that was over a
+
+00:08:18.080 --> 00:08:22.560
+million dollars.
+
+00:08:20.000 --> 00:08:24.560
+That's the That's the information that I
+
+00:08:22.560 --> 00:08:27.440
+gathered, the data that I gathered in
+
+00:08:24.560 --> 00:08:29.000
+terms of risk, right? And I also didn't
+
+00:08:27.440 --> 00:08:30.280
+The whole reason
+
+00:08:29.000 --> 00:08:32.320
+I thought to buy the business was to
+
+00:08:30.280 --> 00:08:34.400
+start at level three instead of ground
+
+00:08:32.320 --> 00:08:36.159
+zero. So, why would I why would I want
+
+00:08:34.400 --> 00:08:38.280
+to go low when I could just I could do
+
+00:08:36.159 --> 00:08:40.520
+that in a year or two, right? I might as
+
+00:08:38.280 --> 00:08:41.599
+well skip a few years. So, that was my
+
+00:08:40.520 --> 00:08:43.080
+theory.
+
+00:08:41.599 --> 00:08:44.720
+And so, it was kind of right in the
+
+00:08:43.080 --> 00:08:46.400
+ballpark of what I wanted. I was
+
+00:08:44.720 --> 00:08:48.200
+thinking between one and two, maybe two
+
+00:08:46.400 --> 00:08:50.000
+and a half, something like that.
+
+00:08:48.200 --> 00:08:50.680
+So, ultimately, the purchase price was
+
+00:08:50.000 --> 00:08:52.840
+uh
+
+00:08:50.680 --> 00:08:54.480
+1.651.
+
+00:08:52.840 --> 00:08:56.120
+Yeah. But But were you looking for
+
+00:08:54.480 --> 00:08:57.800
+something that that took advantage of
+
+00:08:56.120 --> 00:08:59.400
+your skills, or were you open to all
+
+00:08:57.800 --> 00:09:01.000
+kinds of different businesses? I was
+
+00:08:59.400 --> 00:09:02.400
+looking for an an electrical business
+
+00:09:01.000 --> 00:09:04.480
+specifically, either an electrical
+
+00:09:02.400 --> 00:09:05.720
+business or a generator business.
+
+00:09:04.480 --> 00:09:07.760
+And the idea was to incorporate the
+
+00:09:05.720 --> 00:09:10.360
+other one, whichever one I chose. So,
+
+00:09:07.760 --> 00:09:11.516
+now I'm incorporating generators um cuz
+
+00:09:10.360 --> 00:09:11.800
+that's my background.
+
+00:09:11.516 --> 00:09:12.600
+>> [snorts]
+
+00:09:11.800 --> 00:09:14.760
+>> And anyway, I was going to get my
+
+00:09:12.600 --> 00:09:16.920
+electrical contractor's license. Also
+
+00:09:14.760 --> 00:09:18.840
+theoretical. I have no idea. I've never
+
+00:09:16.920 --> 00:09:20.800
+worked in an electrical company, either
+
+00:09:18.840 --> 00:09:24.600
+residential or commercial. And I just
+
+00:09:20.800 --> 00:09:26.600
+looked up the requirements, and based on
+
+00:09:24.600 --> 00:09:28.080
+black and white, I met the requirements.
+
+00:09:26.600 --> 00:09:30.000
+So, I just jumped in, and I figured that
+
+00:09:28.080 --> 00:09:32.040
+if if I couldn't get my license, I'll
+
+00:09:30.000 --> 00:09:34.680
+find somebody to qualify. I'm in the I'm
+
+00:09:32.040 --> 00:09:36.920
+in the camp of shoot first, aim later.
+
+00:09:34.680 --> 00:09:39.080
+That's kind of my thing, and it's So
+
+00:09:36.920 --> 00:09:41.560
+far, it's worked out. So, you do see an
+
+00:09:39.080 --> 00:09:43.160
+electrical business in South Florida
+
+00:09:41.560 --> 00:09:45.040
+that's above the revenue number that you
+
+00:09:43.160 --> 00:09:46.720
+wanted or the When you said a million
+
+00:09:45.040 --> 00:09:49.520
+bucks, over a million in revenue or over
+
+00:09:46.720 --> 00:09:50.120
+a million in purchase price? Revenue.
+
+00:09:49.520 --> 00:09:51.680
+In revenue.
+
+00:09:50.120 --> 00:09:52.560
+>> Yes. And I wanted to make sure that was
+
+00:09:51.680 --> 00:09:53.800
+going to cover the debt service,
+
+00:09:52.560 --> 00:09:55.720
+obviously.
+
+00:09:53.800 --> 00:09:57.560
+A little bit more would be nice, you
+
+00:09:55.720 --> 00:09:59.480
+know? Yeah.
+
+00:09:57.560 --> 00:10:01.280
+Great. So, So So you see this on
+
+00:09:59.480 --> 00:10:03.720
+BizBuySell. Tell us more about this
+
+00:10:01.280 --> 00:10:06.360
+business. Sure. So I saw it was for sale
+
+00:10:03.720 --> 00:10:08.520
+at 1.7 I think it was 1.5 for sale.
+
+00:10:06.360 --> 00:10:11.360
+And it was
+
+00:10:08.520 --> 00:10:13.520
+five vans. It was about 10 employees,
+
+00:10:11.360 --> 00:10:15.240
+five lead electricians,
+
+00:10:13.520 --> 00:10:17.400
+an admin.
+
+00:10:15.240 --> 00:10:19.080
+And the owner was doing
+
+00:10:17.400 --> 00:10:20.720
+the bulk of the managing.
+
+00:10:19.080 --> 00:10:22.120
+Uh all of it. He was actually doing all
+
+00:10:20.720 --> 00:10:25.760
+of it. Him and his wife were working
+
+00:10:22.120 --> 00:10:27.680
+here. And it seemed perfect because he
+
+00:10:25.760 --> 00:10:29.680
+started the business at the age that I
+
+00:10:27.680 --> 00:10:31.560
+was buying it. And he's working with his
+
+00:10:29.680 --> 00:10:33.520
+wife. And he was in the Coast Guard. I
+
+00:10:31.560 --> 00:10:35.520
+was in the Navy. It was just so perfect.
+
+00:10:33.520 --> 00:10:37.000
+And I I thought this is going to go
+
+00:10:35.520 --> 00:10:39.240
+swimmingly. So it was residential
+
+00:10:37.000 --> 00:10:41.880
+primarily. Mostly service work. I would
+
+00:10:39.240 --> 00:10:43.800
+say 70% service work, 30% new
+
+00:10:41.880 --> 00:10:46.240
+construction. The majority being
+
+00:10:43.800 --> 00:10:47.640
+residential. They They don't do any new
+
+00:10:46.240 --> 00:10:49.360
+construction commercial. They don't do
+
+00:10:47.640 --> 00:10:51.680
+any generators, no industrial, nothing
+
+00:10:49.360 --> 00:10:53.280
+like that. It was uh what he What the
+
+00:10:51.680 --> 00:10:55.200
+seller told me is I like to pick up
+
+00:10:53.280 --> 00:10:56.317
+pennies rather than dollars.
+
+00:10:55.200 --> 00:10:57.000
+I hated that.
+
+00:10:56.317 --> 00:10:57.720
+>> [laughter]
+
+00:10:57.000 --> 00:10:59.720
+>> I don't know why you would want to do
+
+00:10:57.720 --> 00:11:00.080
+that. I'm not even sure what he means by
+
+00:10:59.720 --> 00:11:01.720
+that.
+
+00:11:00.080 --> 00:11:04.000
+>> It means he wants a bunch of He wants a
+
+00:11:01.720 --> 00:11:07.120
+bunch of small jobs. He wants a a lot of
+
+00:11:04.000 --> 00:11:08.800
+jobs between $1 and $10,000. And he
+
+00:11:07.120 --> 00:11:10.720
+would be the one to go estimate it. And
+
+00:11:08.800 --> 00:11:12.520
+he'd come back every day and he'd do it
+
+00:11:10.720 --> 00:11:13.839
+in the afternoon. And that that was his
+
+00:11:12.520 --> 00:11:16.360
+life. He lived a good life. He had a
+
+00:11:13.839 --> 00:11:17.880
+good income and he had no debt.
+
+00:11:16.360 --> 00:11:20.320
+That was he So he he This was a
+
+00:11:17.880 --> 00:11:22.360
+lifestyle business and he was kind of
+
+00:11:20.320 --> 00:11:24.480
+happy to keep the jobs small. He wasn't
+
+00:11:22.360 --> 00:11:26.040
+trying to get bigger, basically. Is that
+
+00:11:24.480 --> 00:11:27.760
+what he was saying? He'd found his He'd
+
+00:11:26.040 --> 00:11:29.560
+found his sweet spot.
+
+00:11:27.760 --> 00:11:31.760
+That's what it seemed like. He owned it
+
+00:11:29.560 --> 00:11:34.080
+since 1987. So it was essentially 40
+
+00:11:31.760 --> 00:11:36.200
+years. And it seemed like he had a
+
+00:11:34.080 --> 00:11:38.640
+larger business at one point. It grew up
+
+00:11:36.200 --> 00:11:40.600
+to 30 employees. And then
+
+00:11:38.640 --> 00:11:42.200
+now we're down to 10. He didn't really
+
+00:11:40.600 --> 00:11:44.480
+give me specifics, but it didn't seem
+
+00:11:42.200 --> 00:11:45.800
+like it was uh it was great. Didn't seem
+
+00:11:44.480 --> 00:11:48.240
+like he liked it or it worked out or
+
+00:11:45.800 --> 00:11:49.960
+whatever the case was. So he he found
+
+00:11:48.240 --> 00:11:52.160
+his sweet spot, yeah. About 10
+
+00:11:49.960 --> 00:11:53.600
+employees. And so you meet him at some
+
+00:11:52.160 --> 00:11:55.800
+point.
+
+00:11:53.600 --> 00:11:57.120
+I did. I met him twice through the
+
+00:11:55.800 --> 00:11:59.560
+process.
+
+00:11:57.120 --> 00:12:01.120
+And I you know, drove over and went to
+
+00:11:59.560 --> 00:12:05.680
+went to the office right here in my
+
+00:12:01.120 --> 00:12:05.680
+office to talk to him. And both times
+
+00:12:06.560 --> 00:12:11.280
+it was okay, you know? It didn't go
+
+00:12:08.960 --> 00:12:13.200
+great, but it also didn't go terrible.
+
+00:12:11.280 --> 00:12:15.320
+And I figured doesn't matter. Buying the
+
+00:12:13.200 --> 00:12:15.800
+business, right? I don't care. As long
+
+00:12:15.320 --> 00:12:17.320
+as everything is
+
+00:12:15.800 --> 00:12:19.520
+>> What What did What didn't go great about
+
+00:12:17.320 --> 00:12:19.520
+it?
+
+00:12:19.680 --> 00:12:23.640
+Just the back and forth. I mean
+
+00:12:23.760 --> 00:12:28.720
+it We didn't really click very much,
+
+00:12:26.080 --> 00:12:31.560
+right? Me and the seller. And it was
+
+00:12:28.720 --> 00:12:32.800
+just a little bit off, man. It was
+
+00:12:31.560 --> 00:12:34.240
+you can't really look in the books
+
+00:12:32.800 --> 00:12:35.560
+anymore.
+
+00:12:34.240 --> 00:12:37.080
+Cuz I actually took my dad. My dad's a
+
+00:12:35.560 --> 00:12:38.320
+CPA. He helped me through this whole
+
+00:12:37.080 --> 00:12:39.240
+process.
+
+00:12:38.320 --> 00:12:40.463
+Mhm.
+
+00:12:39.240 --> 00:12:40.839
+Pretty good.
+
+00:12:40.463 --> 00:12:42.280
+>> [laughter]
+
+00:12:40.839 --> 00:12:43.760
+>> Yeah, pretty lucky, right? To have that
+
+00:12:42.280 --> 00:12:45.080
+in my back pocket.
+
+00:12:43.760 --> 00:12:46.480
+Teach me what a profit and loss
+
+00:12:45.080 --> 00:12:47.680
+statement is. Like who you know, who
+
+00:12:46.480 --> 00:12:48.920
+gets that?
+
+00:12:47.680 --> 00:12:50.880
+It's awesome.
+
+00:12:48.920 --> 00:12:53.080
+And so he was there and he wanted more
+
+00:12:50.880 --> 00:12:54.600
+information because he gave us limited
+
+00:12:53.080 --> 00:12:55.760
+uh financial statements.
+
+00:12:54.600 --> 00:12:57.160
+He said, "No.
+
+00:12:55.760 --> 00:12:59.200
+You're not getting anything else. I'm
+
+00:12:57.160 --> 00:13:00.680
+giving you whatever you have, whatever's
+
+00:12:59.200 --> 00:13:02.000
+required, but
+
+00:13:00.680 --> 00:13:03.839
+nothing more."
+
+00:13:02.000 --> 00:13:06.800
+And come to find out everything is
+
+00:13:03.839 --> 00:13:08.440
+paper. Like carbon copy paper.
+
+00:13:06.800 --> 00:13:10.440
+In boxes.
+
+00:13:08.440 --> 00:13:11.880
+A lot of them. Which I don't have. I
+
+00:13:10.440 --> 00:13:13.120
+have none of them. But apparently
+
+00:13:11.880 --> 00:13:16.160
+they're there.
+
+00:13:13.120 --> 00:13:18.080
+He doesn't have any records. We have
+
+00:13:16.160 --> 00:13:20.240
+QuickBooks. I think it's QuickBooks
+
+00:13:18.080 --> 00:13:21.880
+Desktop 2014. So they don't make it
+
+00:13:20.240 --> 00:13:25.080
+anymore. It is
+
+00:13:21.880 --> 00:13:27.680
+It's terrible. We do payroll manually.
+
+00:13:25.080 --> 00:13:29.240
+We write checks. It's It's archaic and
+
+00:13:27.680 --> 00:13:30.960
+we man, we're going to switch to
+
+00:13:29.240 --> 00:13:32.320
+QuickBooks online. You know, we're we're
+
+00:13:30.960 --> 00:13:33.360
+we're on the process. We're on the
+
+00:13:32.320 --> 00:13:35.800
+process of
+
+00:13:33.360 --> 00:13:37.280
+creating, you know,
+
+00:13:35.800 --> 00:13:39.720
+a real business, I feel like.
+
+00:13:37.280 --> 00:13:42.320
+>> Yeah. You know. And so at this stage
+
+00:13:39.720 --> 00:13:45.640
+where he's like not being forthcoming
+
+00:13:42.320 --> 00:13:48.160
+with a lot of information,
+
+00:13:45.640 --> 00:13:49.239
+you How do you get comfortable with it?
+
+00:13:48.160 --> 00:13:49.600
+I didn't.
+
+00:13:49.239 --> 00:13:51.360
+>> [laughter]
+
+00:13:49.600 --> 00:13:53.600
+>> I never did.
+
+00:13:51.360 --> 00:13:55.080
+I just I just wanted to do it so bad. I
+
+00:13:53.600 --> 00:13:57.160
+just wanted
+
+00:13:55.080 --> 00:13:58.360
+to do this. I've always wanted to do
+
+00:13:57.160 --> 00:13:59.480
+this.
+
+00:13:58.360 --> 00:14:01.480
+And I already made the decision in my
+
+00:13:59.480 --> 00:14:03.280
+head. If I make a decision like I don't
+
+00:14:01.480 --> 00:14:05.320
+Whatever's downhill this, I'll figure it
+
+00:14:03.280 --> 00:14:07.400
+out. I made a decision in my head this
+
+00:14:05.320 --> 00:14:08.600
+is happening. So we're going to move.
+
+00:14:07.400 --> 00:14:09.839
+We're going to quit our jobs. We're
+
+00:14:08.600 --> 00:14:11.160
+going to move over here. This is
+
+00:14:09.839 --> 00:14:14.000
+happening.
+
+00:14:11.160 --> 00:14:15.640
+And so there was a lot of red
+
+00:14:14.000 --> 00:14:17.640
+Hindsight is 20/20. I didn't know
+
+00:14:15.640 --> 00:14:19.600
+anything. I've never bought a business
+
+00:14:17.640 --> 00:14:22.079
+before. My dad was an amazing help, but
+
+00:14:19.600 --> 00:14:24.760
+he's never bought a business before. So
+
+00:14:22.079 --> 00:14:26.320
+we didn't have um counseling at all. We
+
+00:14:24.760 --> 00:14:27.600
+didn't have a representative. I was
+
+00:14:26.320 --> 00:14:29.360
+using
+
+00:14:27.600 --> 00:14:31.120
+his broker for everything. The guy was
+
+00:14:29.360 --> 00:14:33.280
+nice. He was a cool dude.
+
+00:14:31.120 --> 00:14:35.240
+Um I liked him. I trusted him for the
+
+00:14:33.280 --> 00:14:37.079
+most part, but I you know, I don't know
+
+00:14:35.240 --> 00:14:38.520
+if if everything was forthcoming. You
+
+00:14:37.079 --> 00:14:39.760
+you never know. And going through it
+
+00:14:38.520 --> 00:14:42.440
+again, I would do things completely
+
+00:14:39.760 --> 00:14:45.200
+different now, of course. Mhm. Um but
+
+00:14:42.440 --> 00:14:47.280
+yeah, I I was never totally comfortable.
+
+00:14:45.200 --> 00:14:48.520
+But and you didn't work with attorneys
+
+00:14:47.280 --> 00:14:51.880
+or
+
+00:14:48.520 --> 00:14:54.839
+diligence a diligence provider. I did. I
+
+00:14:51.880 --> 00:14:58.320
+had an attorney, um but midway he he
+
+00:14:54.839 --> 00:15:00.800
+quit his his job. So Yeah. that was
+
+00:14:58.320 --> 00:15:02.959
+turned over to somebody else. That was
+
+00:15:00.800 --> 00:15:05.320
+turned over to a senior guy. But the guy
+
+00:15:02.959 --> 00:15:08.280
+had no reference. Apparently he told him
+
+00:15:05.320 --> 00:15:11.920
+nothing about the business. So we had to
+
+00:15:08.280 --> 00:15:14.079
+start from zero again. And it was just
+
+00:15:11.920 --> 00:15:16.600
+Communication was slow. It was I felt
+
+00:15:14.079 --> 00:15:18.839
+like every Not only like my attorney,
+
+00:15:16.600 --> 00:15:20.640
+his attorney, broker, seller. Every time
+
+00:15:18.839 --> 00:15:22.520
+I would call someone, send an email, it
+
+00:15:20.640 --> 00:15:25.440
+would take 2 weeks to get a response.
+
+00:15:22.520 --> 00:15:26.600
+I'm I'm like that. Like I I don't care
+
+00:15:25.440 --> 00:15:28.400
+when I'm doing it, I'm going to respond.
+
+00:15:26.600 --> 00:15:30.079
+Doesn't take long.
+
+00:15:28.400 --> 00:15:32.839
+But they weren't. So it took 9 months.
+
+00:15:30.079 --> 00:15:34.360
+That's why. Wow. So this So from the
+
+00:15:32.839 --> 00:15:36.959
+first time you reached out to the close
+
+00:15:34.360 --> 00:15:38.360
+was 9 months even though
+
+00:15:36.959 --> 00:15:39.880
+there really wasn't a lot of moving
+
+00:15:38.360 --> 00:15:42.120
+pieces cuz it's not like there were
+
+00:15:39.880 --> 00:15:44.120
+vendors who were bottlenecking this. It
+
+00:15:42.120 --> 00:15:45.839
+was mostly
+
+00:15:44.120 --> 00:15:46.680
+pretty direct. He They were just very
+
+00:15:45.839 --> 00:15:48.400
+slow.
+
+00:15:46.680 --> 00:15:51.040
+Yeah. Yeah, everything was pretty
+
+00:15:48.400 --> 00:15:52.920
+direct. There was a little bit more um
+
+00:15:51.040 --> 00:15:55.600
+customer concentration than I thought
+
+00:15:52.920 --> 00:15:58.800
+that was initially disclosed, but Mhm.
+
+00:15:55.600 --> 00:16:00.880
+there wasn't much that I saw that was a
+
+00:15:58.800 --> 00:16:03.480
+glaring red flag that said, "Don't do
+
+00:16:00.880 --> 00:16:04.880
+this." The tax returns looked good. You
+
+00:16:03.480 --> 00:16:05.760
+know, um
+
+00:16:04.880 --> 00:16:08.200
+there
+
+00:16:05.760 --> 00:16:09.800
+everything looked good on paper. So
+
+00:16:08.200 --> 00:16:12.520
+I said, "I don't know anything about
+
+00:16:09.800 --> 00:16:13.839
+this. This looks legit. The IRS says
+
+00:16:12.520 --> 00:16:16.240
+it's cool.
+
+00:16:13.839 --> 00:16:18.200
+Why wouldn't I, you know? So
+
+00:16:16.240 --> 00:16:20.560
+came in here blind, but
+
+00:16:18.200 --> 00:16:22.640
+the process was was a huge huge learning
+
+00:16:20.560 --> 00:16:23.480
+curve, yeah.
+
+00:16:22.640 --> 00:16:25.760
+What was the hardest part of the
+
+00:16:23.480 --> 00:16:27.640
+process, do you think?
+
+00:16:25.760 --> 00:16:29.040
+The ups and downs of it.
+
+00:16:27.640 --> 00:16:30.320
+And I think I'm not the only one. I
+
+00:16:29.040 --> 00:16:32.040
+think a lot of people think the same
+
+00:16:30.320 --> 00:16:33.200
+thing. It's like I mean just like
+
+00:16:32.040 --> 00:16:34.200
+business. Like every day there's
+
+00:16:33.200 --> 00:16:35.360
+something great and then something
+
+00:16:34.200 --> 00:16:37.240
+terrible.
+
+00:16:35.360 --> 00:16:38.440
+It's It's almost like
+
+00:16:37.240 --> 00:16:39.520
+awesome, this is going to go through.
+
+00:16:38.440 --> 00:16:43.360
+The entire thing's going to go through
+
+00:16:39.520 --> 00:16:44.600
+this week. And then everything is done.
+
+00:16:43.360 --> 00:16:46.600
+You're not You're not buying it, you
+
+00:16:44.600 --> 00:16:48.440
+know? Mhm. And you never know. I didn't
+
+00:16:46.600 --> 00:16:50.400
+know. I didn't know what was next. So I
+
+00:16:48.440 --> 00:16:52.000
+was just doing one step at a time. And
+
+00:16:50.400 --> 00:16:53.560
+you just, you know, you knock them down
+
+00:16:52.000 --> 00:16:56.120
+whenever they come up.
+
+00:16:53.560 --> 00:16:57.760
+Mhm. Yeah. And so give us some some more
+
+00:16:56.120 --> 00:16:59.440
+bullet points on the business, Zach.
+
+00:16:57.760 --> 00:17:01.360
+What What the revenue was, what the
+
+00:16:59.440 --> 00:17:02.480
+earnings were.
+
+00:17:01.360 --> 00:17:04.439
+Sure. You've told us You've told us
+
+00:17:02.480 --> 00:17:06.320
+employees and and trucks and stuff, but
+
+00:17:04.439 --> 00:17:08.480
+give us more financial numbers. Sure. So
+
+00:17:06.320 --> 00:17:10.160
+I bought the business
+
+00:17:08.480 --> 00:17:11.160
+early 2025.
+
+00:17:10.160 --> 00:17:13.199
+But I didn't have many records from
+
+00:17:11.160 --> 00:17:15.079
+2024. And we're already like way past
+
+00:17:13.199 --> 00:17:16.560
+that. It was about to close, so I didn't
+
+00:17:15.079 --> 00:17:18.199
+really care about the tax return and all
+
+00:17:16.560 --> 00:17:22.520
+that.
+
+00:17:18.199 --> 00:17:24.040
+Hindsight, right? So 2023 they did 1.7.
+
+00:17:22.520 --> 00:17:26.280
+And
+
+00:17:24.040 --> 00:17:28.840
+2024 he did 1.3.
+
+00:17:26.280 --> 00:17:31.360
+It was a spike. It was probably I think
+
+00:17:28.840 --> 00:17:33.240
+I got records from 2019. And COVID was
+
+00:17:31.360 --> 00:17:35.720
+like a little bit good because of COVID.
+
+00:17:33.240 --> 00:17:39.200
+And then we had hurricanes, which is
+
+00:17:35.720 --> 00:17:41.440
+also another factor. It's hard to
+
+00:17:39.200 --> 00:17:43.160
+um put a number on that. How much How
+
+00:17:41.440 --> 00:17:46.000
+much is a hurricane worth? In
+
+00:17:43.160 --> 00:17:48.560
+electrical. Cuz a ton of things break. A
+
+00:17:46.000 --> 00:17:50.040
+ton of people's poles come down and
+
+00:17:48.560 --> 00:17:51.640
+it's like it's constant work. We're
+
+00:17:50.040 --> 00:17:52.480
+We're still fixing houses from 2 years
+
+00:17:51.640 --> 00:17:55.000
+ago.
+
+00:17:52.480 --> 00:17:56.200
+Wow. Yeah, you know, it's good for us,
+
+00:17:55.000 --> 00:17:59.200
+sadly.
+
+00:17:56.200 --> 00:17:59.200
+But
+
+00:17:59.280 --> 00:18:03.120
+those were the spikes
+
+00:18:00.560 --> 00:18:04.480
+when the hurricanes came. And then it
+
+00:18:03.120 --> 00:18:05.640
+trickled down and then just shot up to
+
+00:18:04.480 --> 00:18:06.800
+don't know why.
+
+00:18:05.640 --> 00:18:09.400
+And then
+
+00:18:06.800 --> 00:18:11.160
+shot back down to 1.3. And when we
+
+00:18:09.400 --> 00:18:14.120
+closed the deal, it was
+
+00:18:11.160 --> 00:18:16.560
+nothing going on. So I I felt like um
+
+00:18:14.120 --> 00:18:17.080
+I didn't get a 1.7 business.
+
+00:18:16.560 --> 00:18:18.720
+That's what I thought.
+
+00:18:17.080 --> 00:18:20.200
+>> You did not. You did not. That was the
+
+00:18:18.720 --> 00:18:22.320
+feeling.
+
+00:18:20.200 --> 00:18:24.240
+Okay. And And what do you think their
+
+00:18:22.320 --> 00:18:26.840
+earnings were? Like how What were
+
+00:18:24.240 --> 00:18:29.400
+margins and profitability on
+
+00:18:26.840 --> 00:18:32.040
+you know, call it a 1.5 business as the
+
+00:18:29.400 --> 00:18:35.960
+average. Sure. So let's say
+
+00:18:32.040 --> 00:18:36.560
+it was like a 30% net profit.
+
+00:18:35.960 --> 00:18:39.560
+Which is
+
+00:18:36.560 --> 00:18:40.919
+>> Okay. very high. Suspiciously high. I
+
+00:18:39.560 --> 00:18:44.840
+wouldn't know that though. So it was
+
+00:18:40.919 --> 00:18:46.600
+like $700,000 or something in EBITDA.
+
+00:18:44.840 --> 00:18:48.360
+On a 1.7 revenue.
+
+00:18:46.600 --> 00:18:49.880
+And I would say good a good chunk of
+
+00:18:48.360 --> 00:18:51.800
+that was new construction. So it was
+
+00:18:49.880 --> 00:18:54.200
+just reoccurring with with the same
+
+00:18:51.800 --> 00:18:57.120
+people. All right. So you thought you
+
+00:18:54.200 --> 00:18:59.840
+were getting a 700-ish
+
+00:18:57.120 --> 00:19:01.600
+thousand dollars of earnings
+
+00:18:59.840 --> 00:19:03.919
+electrical contractor. Which is Which is
+
+00:19:01.600 --> 00:19:07.800
+like that's in the range of what people
+
+00:19:03.919 --> 00:19:09.120
+really desire. Uh and and you are also a
+
+00:19:07.800 --> 00:19:11.440
+guy who has You don't have the
+
+00:19:09.120 --> 00:19:13.159
+electrical background really, but you
+
+00:19:11.440 --> 00:19:15.000
+have generator experience. And you feel
+
+00:19:13.159 --> 00:19:17.679
+like you can get your electrical your
+
+00:19:15.000 --> 00:19:20.400
+electrical contractor's license
+
+00:19:17.679 --> 00:19:21.919
+easily. Did you do it before closing?
+
+00:19:20.400 --> 00:19:23.840
+I did it after closing, actually. It was
+
+00:19:21.919 --> 00:19:25.520
+a couple months after.
+
+00:19:23.840 --> 00:19:27.159
+And he carried the license in the
+
+00:19:25.520 --> 00:19:29.560
+meantime. Yes. So that was the plan. He
+
+00:19:27.159 --> 00:19:32.679
+carried the license with 5% equity. So
+
+00:19:29.560 --> 00:19:33.880
+we we structured the deal with a stock
+
+00:19:32.679 --> 00:19:34.960
+purchase.
+
+00:19:33.880 --> 00:19:36.240
+There's a stock purchase and an asset
+
+00:19:34.960 --> 00:19:38.480
+purchase.
+
+00:19:36.240 --> 00:19:41.560
+Didn't know this. Asset purchase I would
+
+00:19:38.480 --> 00:19:43.320
+have loved based on what I have read,
+
+00:19:41.560 --> 00:19:45.720
+but the SBA wouldn't let us. They said
+
+00:19:43.320 --> 00:19:47.600
+we had to do a stock purchase, which I I
+
+00:19:45.720 --> 00:19:50.000
+genuinely don't understand. There's a
+
+00:19:47.600 --> 00:19:51.520
+lot of things that were vague with the
+
+00:19:50.000 --> 00:19:52.560
+the They were great. The people I worked
+
+00:19:51.520 --> 00:19:54.600
+with were excellent. Seriously,
+
+00:19:52.560 --> 00:19:56.400
+everybody was phenomenal. Um but there
+
+00:19:54.600 --> 00:19:57.880
+was a lot of paperwork. There was a lot
+
+00:19:56.400 --> 00:19:59.600
+of due diligence. There was a lot of
+
+00:19:57.880 --> 00:20:01.160
+like, let's check your
+
+00:19:59.600 --> 00:20:03.800
+you know, fourth grade
+
+00:20:01.160 --> 00:20:04.920
+records. Like, stuff like that. A little
+
+00:20:03.800 --> 00:20:06.600
+little [snorts] bit of a probe, but I
+
+00:20:04.920 --> 00:20:09.320
+expected that.
+
+00:20:06.600 --> 00:20:11.360
+And so he did, he carried it 5%. And the
+
+00:20:09.320 --> 00:20:12.960
+But But you're saying the SBA or your
+
+00:20:11.360 --> 00:20:15.440
+lender required that it be a stock
+
+00:20:12.960 --> 00:20:16.400
+purchase rather than an asset purchase.
+
+00:20:15.440 --> 00:20:18.400
+Yes.
+
+00:20:16.400 --> 00:20:19.440
+Which, if I did over again,
+
+00:20:18.400 --> 00:20:21.240
+I'd have to find a way to get the asset
+
+00:20:19.440 --> 00:20:22.520
+purchase.
+
+00:20:21.240 --> 00:20:23.960
+Why?
+
+00:20:22.520 --> 00:20:25.880
+I'm involved in two lawsuits right now I
+
+00:20:23.960 --> 00:20:29.400
+didn't know of.
+
+00:20:25.880 --> 00:20:31.560
+And if I had a new entity, I wouldn't.
+
+00:20:29.400 --> 00:20:33.520
+Yeah. Yeah, exactly. That That is the
+
+00:20:31.560 --> 00:20:36.280
+That's the big reason. Were those law-
+
+00:20:33.520 --> 00:20:37.880
+lawsuits ongoing from before you bought
+
+00:20:36.280 --> 00:20:39.760
+it or they Oh, wow.
+
+00:20:37.880 --> 00:20:41.560
+>> Years. Okay.
+
+00:20:39.760 --> 00:20:42.840
+Wow. And so those were undisclosed to
+
+00:20:41.560 --> 00:20:45.400
+you, of course.
+
+00:20:42.840 --> 00:20:48.320
+Okay. Um and so how did you How else did
+
+00:20:45.400 --> 00:20:50.000
+you structure it? It was It was 10% of
+
+00:20:48.320 --> 00:20:52.080
+equity?
+
+00:20:50.000 --> 00:20:54.160
+It was 5% equity. They They tried to
+
+00:20:52.080 --> 00:20:55.240
+push for 15% down payment. I got them to
+
+00:20:54.160 --> 00:20:57.880
+10.
+
+00:20:55.240 --> 00:21:00.600
+Um I put up my cash from the real
+
+00:20:57.880 --> 00:21:04.320
+estate, and he put up, you know, put up
+
+00:21:00.600 --> 00:21:05.640
+his his portion of it, which was 5%.
+
+00:21:04.320 --> 00:21:08.240
+He carried
+
+00:21:05.640 --> 00:21:11.120
+the business with his license until I
+
+00:21:08.240 --> 00:21:13.120
+got my license or I can find somebody
+
+00:21:11.120 --> 00:21:16.400
+else to qualify the business. Yeah. Now,
+
+00:21:13.120 --> 00:21:19.320
+he would own 5% until that happened.
+
+00:21:16.400 --> 00:21:21.120
+And when it did happen, I I got mine,
+
+00:21:19.320 --> 00:21:24.520
+and I paid him out. I paid him that
+
+00:21:21.120 --> 00:21:26.600
+portion from from our bank account,
+
+00:21:24.520 --> 00:21:29.240
+our our seed money,
+
+00:21:26.600 --> 00:21:30.840
+and I paid him I think it was $83,500
+
+00:21:29.240 --> 00:21:33.480
+each time. So, that was my down payment,
+
+00:21:30.840 --> 00:21:36.480
+and that was what I paid him to to to
+
+00:21:33.480 --> 00:21:39.800
+relinquish his ownership. And it was a
+
+00:21:36.480 --> 00:21:42.600
+3-month turnover. I got my contractor's
+
+00:21:39.800 --> 00:21:44.760
+license like 4 days before that date,
+
+00:21:42.600 --> 00:21:47.040
+which is very serendipitous. It worked
+
+00:21:44.760 --> 00:21:50.240
+out very well, and I paid him off, and
+
+00:21:47.040 --> 00:21:51.280
+it was it was a a break-in. I am a 100%
+
+00:21:50.240 --> 00:21:54.080
+owner now.
+
+00:21:51.280 --> 00:21:55.880
+And And so you said it was about 83, so
+
+00:21:54.080 --> 00:21:58.280
+$165,000
+
+00:21:55.880 --> 00:22:01.720
+out of pocket Right. for you. Mhm. And
+
+00:21:58.280 --> 00:22:03.280
+the And the SBA loan ended up being 90%?
+
+00:22:01.720 --> 00:22:05.320
+Did I get that right?
+
+00:22:03.280 --> 00:22:08.360
+The SBA loan Oh, sorry, he's carrying in
+
+00:22:05.320 --> 00:22:10.600
+another $83,000, which
+
+00:22:08.360 --> 00:22:13.160
+I completely forgot about
+
+00:22:10.600 --> 00:22:14.720
+until 3 or 4 weeks ago
+
+00:22:13.160 --> 00:22:15.960
+when we had an issue.
+
+00:22:14.720 --> 00:22:17.679
+But
+
+00:22:15.960 --> 00:22:20.679
+that's another story. That starts in
+
+00:22:17.679 --> 00:22:22.600
+2027. I have to pay him for 3 years.
+
+00:22:20.679 --> 00:22:24.730
+Uh it's it's amortized over 3 years
+
+00:22:22.600 --> 00:22:25.040
+starting in 2027, January.
+
+00:22:24.730 --> 00:22:28.240
+>> [snorts]
+
+00:22:25.040 --> 00:22:30.720
+>> Um So, that sounds like a 5% seller note
+
+00:22:28.240 --> 00:22:32.560
+that was on standby for 2 years.
+
+00:22:30.720 --> 00:22:33.800
+>> that was the original 5%. That's It's
+
+00:22:32.560 --> 00:22:35.000
+terrible that I don't know this, but I'm
+
+00:22:33.800 --> 00:22:36.760
+at the point where it's like that's
+
+00:22:35.000 --> 00:22:38.440
+over, you know? I see the contract, I
+
+00:22:36.760 --> 00:22:39.480
+see I owe him $83,000. I'm going to do
+
+00:22:38.440 --> 00:22:41.400
+that.
+
+00:22:39.480 --> 00:22:42.320
+That the why is whatever.
+
+00:22:41.400 --> 00:22:43.960
+That's how I feel, but I think you're
+
+00:22:42.320 --> 00:22:46.760
+right. It's the It's the original the
+
+00:22:43.960 --> 00:22:50.160
+seller carry note. Um
+
+00:22:46.760 --> 00:22:51.800
+Yes. So, Okay. There was also
+
+00:22:50.160 --> 00:22:54.920
+receivables and working capital that
+
+00:22:51.800 --> 00:22:56.920
+came with, as I recall. Yes. Receivables
+
+00:22:54.920 --> 00:22:58.960
+and working capital. So, they pushed me
+
+00:22:56.920 --> 00:23:01.400
+to buy the receivables. They said it's
+
+00:22:58.960 --> 00:23:02.679
+going to be a clean break because
+
+00:23:01.400 --> 00:23:04.560
+you know, you have you have the You can
+
+00:23:02.679 --> 00:23:05.720
+buy the receivables or you cannot and
+
+00:23:04.560 --> 00:23:07.960
+just get more working capital from the
+
+00:23:05.720 --> 00:23:11.880
+bank. Same amount of money.
+
+00:23:07.960 --> 00:23:13.000
+The the bank, but mostly the broker,
+
+00:23:11.880 --> 00:23:16.600
+uh
+
+00:23:13.000 --> 00:23:18.520
+pushed me to buy the receivables, and
+
+00:23:16.600 --> 00:23:20.200
+Ah, yeah, I
+
+00:23:18.520 --> 00:23:22.080
+wouldn't have if I knew.
+
+00:23:20.200 --> 00:23:23.880
+I won't do it again. I am going to make
+
+00:23:22.080 --> 00:23:26.960
+more business purchases in the future,
+
+00:23:23.880 --> 00:23:29.520
+and I will not buy receivables. So, it's
+
+00:23:26.960 --> 00:23:32.200
+W- Why? What happened there? Well, they
+
+00:23:29.520 --> 00:23:34.880
+They weren't great. It took forever to
+
+00:23:32.200 --> 00:23:36.840
+get the money. I got $75,000
+
+00:23:34.880 --> 00:23:40.560
+in working capital from the bank, and I
+
+00:23:36.840 --> 00:23:42.120
+bought $75,000 of receivables from him.
+
+00:23:40.560 --> 00:23:43.679
+Some of them
+
+00:23:42.120 --> 00:23:45.160
+I never got. Some of them I never
+
+00:23:43.679 --> 00:23:49.640
+collected. There was one lady that filed
+
+00:23:45.160 --> 00:23:51.120
+bankruptcy um many many months ago,
+
+00:23:49.640 --> 00:23:52.800
+and it was still on the books, and I
+
+00:23:51.120 --> 00:23:55.520
+bought it.
+
+00:23:52.800 --> 00:23:56.640
+$2,000. I'll never see it.
+
+00:23:55.520 --> 00:23:58.840
+And if I wanted to, am I going to battle
+
+00:23:56.640 --> 00:24:00.560
+her in court? It's not worth it.
+
+00:23:58.840 --> 00:24:03.960
+Right.
+
+00:24:00.560 --> 00:24:06.679
+And so this this $75,000 in receivables,
+
+00:24:03.960 --> 00:24:08.120
+these are all These are all residential,
+
+00:24:06.679 --> 00:24:10.200
+you said, so consumers. These are
+
+00:24:08.120 --> 00:24:11.880
+people, individuals, not businesses.
+
+00:24:10.200 --> 00:24:13.040
+>> Yeah, we do have commercial clients, but
+
+00:24:11.880 --> 00:24:14.480
+they pay, you know, we have
+
+00:24:13.040 --> 00:24:16.080
+relationships with them. They're They're
+
+00:24:14.480 --> 00:24:17.800
+pretty good. Even if it's a net 30, take
+
+00:24:16.080 --> 00:24:19.600
+a month, they pay.
+
+00:24:17.800 --> 00:24:21.800
+Okay. Okay.
+
+00:24:19.600 --> 00:24:23.040
+Okay. And so you inherit remind us how
+
+00:24:21.800 --> 00:24:24.040
+many people?
+
+00:24:23.040 --> 00:24:26.160
+10.
+
+00:24:24.040 --> 00:24:27.520
+10 people, five trucks, you said? Five
+
+00:24:26.160 --> 00:24:29.679
+trucks.
+
+00:24:27.520 --> 00:24:31.280
+Five trucks. Okay. So,
+
+00:24:29.679 --> 00:24:34.600
+how does it go?
+
+00:24:31.280 --> 00:24:34.600
+Tell us about the transition.
+
+00:24:34.679 --> 00:24:37.679
+So,
+
+00:24:35.920 --> 00:24:40.080
+business closes.
+
+00:24:37.679 --> 00:24:42.440
+Come back to the other side. I've got to
+
+00:24:40.080 --> 00:24:44.640
+pack up and move because everything's
+
+00:24:42.440 --> 00:24:47.920
+happening in one weekend. I quit my job.
+
+00:24:44.640 --> 00:24:49.560
+My fiancée at the time quit her job.
+
+00:24:47.920 --> 00:24:51.240
+We packed everything up. We bought a
+
+00:24:49.560 --> 00:24:54.160
+house over here to literally a city
+
+00:24:51.240 --> 00:24:54.920
+we've never heard of. I've never
+
+00:24:54.160 --> 00:24:56.160
+experienced
+
+00:24:54.920 --> 00:24:58.400
+>> What city is that?
+
+00:24:56.160 --> 00:25:01.560
+>> I live in North Port, Florida. There is
+
+00:24:58.400 --> 00:25:02.360
+no streetlights on my street.
+
+00:25:01.560 --> 00:25:03.240
+It's normal here.
+
+00:25:02.360 --> 00:25:04.679
+>> Oh.
+
+00:25:03.240 --> 00:25:07.480
+Not to us.
+
+00:25:04.679 --> 00:25:08.960
+But it's it's quite uh interesting
+
+00:25:07.480 --> 00:25:11.560
+interesting where There's raccoons
+
+00:25:08.960 --> 00:25:13.600
+everywhere and deer and rabbits and
+
+00:25:11.560 --> 00:25:14.320
+So, it's a rural community on the west
+
+00:25:13.600 --> 00:25:16.000
+coast of Florida.
+
+00:25:14.320 --> 00:25:17.800
+>> Yeah. I mean it's I mean there's there's
+
+00:25:16.000 --> 00:25:19.600
+a lot of residential homes, but it's
+
+00:25:17.800 --> 00:25:22.280
+it's definitely not as built up as the
+
+00:25:19.600 --> 00:25:24.520
+other side, and they're working on that.
+
+00:25:22.280 --> 00:25:25.200
+Okay. Is it Like, how far from Tampa is
+
+00:25:24.520 --> 00:25:26.920
+it, for example?
+
+00:25:25.200 --> 00:25:27.760
+>> About an hour and a half.
+
+00:25:26.920 --> 00:25:29.560
+Okay. South, yeah.
+
+00:25:27.760 --> 00:25:32.240
+>> Is it on the water? It is on the water.
+
+00:25:29.560 --> 00:25:35.160
+We're in a My shop is in a flood zone.
+
+00:25:32.240 --> 00:25:36.840
+Bad flood zone. Yeah. Oh, okay. Yeah. Um
+
+00:25:35.160 --> 00:25:39.040
+this whole street got like 6 ft of water
+
+00:25:36.840 --> 00:25:41.320
+last hurricane. So, you move over there,
+
+00:25:39.040 --> 00:25:43.720
+and how does it go with the team in the
+
+00:25:41.320 --> 00:25:45.640
+the early days of the transition?
+
+00:25:43.720 --> 00:25:47.240
+So, day one,
+
+00:25:45.640 --> 00:25:50.440
+nobody knew anything. None of the
+
+00:25:47.240 --> 00:25:51.640
+employees were told anything. So, I'm
+
+00:25:50.440 --> 00:25:53.920
+sitting
+
+00:25:51.640 --> 00:25:55.480
+in my office over in that chair, and
+
+00:25:53.920 --> 00:25:56.800
+he's sitting here, and all of our guys
+
+00:25:55.480 --> 00:25:57.920
+are around.
+
+00:25:56.800 --> 00:25:59.160
+And
+
+00:25:57.920 --> 00:26:00.520
+we have this like little
+
+00:25:59.160 --> 00:26:02.120
+you know, meeting this little huddle in
+
+00:26:00.520 --> 00:26:03.480
+the office, and he says, I sold the
+
+00:26:02.120 --> 00:26:04.812
+business
+
+00:26:03.480 --> 00:26:04.960
+to that guy.
+
+00:26:04.812 --> 00:26:06.520
+>> [laughter]
+
+00:26:04.960 --> 00:26:08.000
+>> I'm like, what's up? Like,
+
+00:26:06.520 --> 00:26:09.040
+what's up, guys? Like,
+
+00:26:08.000 --> 00:26:10.160
+yep.
+
+00:26:09.040 --> 00:26:12.160
+And they had a relationship with this
+
+00:26:10.160 --> 00:26:13.800
+dude for many years. You know, a lot of
+
+00:26:12.160 --> 00:26:16.600
+a lot of them didn't like that. They
+
+00:26:13.800 --> 00:26:18.280
+didn't feel respected. They felt like
+
+00:26:16.600 --> 00:26:20.440
+they should have known he was selling
+
+00:26:18.280 --> 00:26:22.560
+the business in a way. Yeah. But I also
+
+00:26:20.440 --> 00:26:24.720
+see his point because
+
+00:26:22.560 --> 00:26:27.480
+it it leaves him vulnerable to people
+
+00:26:24.720 --> 00:26:29.360
+leaving. If he's If he's doing that and
+
+00:26:27.480 --> 00:26:31.600
+half of the people leave, half of his
+
+00:26:29.360 --> 00:26:33.520
+revenue income leaves, the deal might
+
+00:26:31.600 --> 00:26:34.600
+completely fall through. So, I get both
+
+00:26:33.520 --> 00:26:35.760
+sides.
+
+00:26:34.600 --> 00:26:37.120
+And
+
+00:26:35.760 --> 00:26:39.080
+It's delicate.
+
+00:26:37.120 --> 00:26:41.000
+There were
+
+00:26:39.080 --> 00:26:42.960
+I wanted to be in the field for 3 weeks.
+
+00:26:41.000 --> 00:26:45.760
+I wanted to be in the field with my guys
+
+00:26:42.960 --> 00:26:48.360
+before I did anything with any of the
+
+00:26:45.760 --> 00:26:50.640
+ownership. I felt like the relationship
+
+00:26:48.360 --> 00:26:51.960
+with these people is more important than
+
+00:26:50.640 --> 00:26:53.920
+any I can learn it all. I can learn all
+
+00:26:51.960 --> 00:26:56.440
+this stuff, right? Learn QuickBooks and
+
+00:26:53.920 --> 00:26:58.760
+so whatever. Estimating, not a big deal,
+
+00:26:56.440 --> 00:27:02.160
+but I need to get to know these people,
+
+00:26:58.760 --> 00:27:03.800
+and I did. It took It took weeks. Um
+
+00:27:02.160 --> 00:27:05.880
+Some of them
+
+00:27:03.800 --> 00:27:08.120
+had a issue with the transition, you
+
+00:27:05.880 --> 00:27:09.480
+know? It was um It was tough for them.
+
+00:27:08.120 --> 00:27:13.080
+They had a real relationship with this
+
+00:27:09.480 --> 00:27:14.880
+guy, and he was
+
+00:27:13.080 --> 00:27:17.679
+micro-managing every aspect of the
+
+00:27:14.880 --> 00:27:19.040
+business. That was his style.
+
+00:27:17.679 --> 00:27:21.640
+And when I came in, I said, "No, dude,
+
+00:27:19.040 --> 00:27:23.960
+I'm not doing that. I'm not going to
+
+00:27:21.640 --> 00:27:26.840
+want to spend my life like that." Like,
+
+00:27:23.960 --> 00:27:28.720
+"So, you guys need to be capable
+
+00:27:26.840 --> 00:27:30.360
+of being independent. That's the
+
+00:27:28.720 --> 00:27:32.160
+business I'm going to run. And if you
+
+00:27:30.360 --> 00:27:33.880
+can't, like, this may may not be for
+
+00:27:32.160 --> 00:27:35.520
+you, you know?" And a lot of them
+
+00:27:33.880 --> 00:27:37.560
+couldn't
+
+00:27:35.520 --> 00:27:40.000
+handle it. There was many instances
+
+00:27:37.560 --> 00:27:42.400
+where they would do things like pull the
+
+00:27:40.000 --> 00:27:43.880
+GPS out of their vans and go somewhere
+
+00:27:42.400 --> 00:27:46.240
+where I couldn't see them, like, sit
+
+00:27:43.880 --> 00:27:48.080
+somewhere for 2 hours.
+
+00:27:46.240 --> 00:27:50.240
+Things that they would have never gotten
+
+00:27:48.080 --> 00:27:50.720
+away with with the last guy. They were
+
+00:27:50.240 --> 00:27:52.679
+pushing
+
+00:27:50.720 --> 00:27:55.679
+>> So, wait. So, he he was he was a
+
+00:27:52.679 --> 00:27:57.920
+micro-manager. He over-managed them, but
+
+00:27:55.679 --> 00:27:59.400
+it it kept them on a tight leash. And
+
+00:27:57.920 --> 00:28:02.320
+then you actually wanted to give them
+
+00:27:59.400 --> 00:28:05.360
+more agency, more autonomy, but when you
+
+00:28:02.320 --> 00:28:07.080
+did that, they abused it. They abused
+
+00:28:05.360 --> 00:28:08.400
+it. They They They wanted to push and
+
+00:28:07.080 --> 00:28:10.640
+see how far they can get. You know, they
+
+00:28:08.400 --> 00:28:12.840
+didn't know me, and they want to They
+
+00:28:10.640 --> 00:28:15.200
+want to see what what what kind of job
+
+00:28:12.840 --> 00:28:16.560
+they can have. Can they Can they
+
+00:28:15.200 --> 00:28:18.679
+we call it skate in the Navy, but it's
+
+00:28:16.560 --> 00:28:21.240
+like, can they do not Can they not work
+
+00:28:18.679 --> 00:28:22.800
+and get paid? Let's see. So, they did
+
+00:28:21.240 --> 00:28:24.720
+push it. They pushed the boundaries,
+
+00:28:22.800 --> 00:28:26.360
+which is It sucks, man, cuz I have I
+
+00:28:24.720 --> 00:28:28.280
+have uh good intentions for all these
+
+00:28:26.360 --> 00:28:29.800
+people, and you know, it's like, work
+
+00:28:28.280 --> 00:28:31.560
+with me, I'll work with you, but some
+
+00:28:29.800 --> 00:28:33.880
+people just like pushed it a little too
+
+00:28:31.560 --> 00:28:36.200
+much, a little too much, and um yeah,
+
+00:28:33.880 --> 00:28:38.760
+ultimately, we have two people from the
+
+00:28:36.200 --> 00:28:41.480
+original 10 right now. So, eight people
+
+00:28:38.760 --> 00:28:43.600
+quit or left or quit or fired, and
+
+00:28:41.480 --> 00:28:45.040
+several people were hired and left. A
+
+00:28:43.600 --> 00:28:46.919
+lot of people were hired and left. So,
+
+00:28:45.040 --> 00:28:48.320
+we've had a significant amount of churn
+
+00:28:46.919 --> 00:28:50.560
+in the last year.
+
+00:28:48.320 --> 00:28:52.880
+We have a pretty solid crew right now.
+
+00:28:50.560 --> 00:28:53.149
+It's It's the culture. It's
+
+00:28:52.880 --> 00:28:53.400
+It's
+
+00:28:53.149 --> 00:28:55.480
+>> [snorts]
+
+00:28:53.400 --> 00:28:57.919
+>> selectively choosing people now as
+
+00:28:55.480 --> 00:29:00.480
+opposed to inheriting everyone. So, I
+
+00:28:57.919 --> 00:29:01.919
+can choose, hey, does this guy fit with
+
+00:29:00.480 --> 00:29:03.600
+the rest of our guys?
+
+00:29:01.919 --> 00:29:05.400
+Will they get along? That's That's big
+
+00:29:03.600 --> 00:29:06.280
+one. That's big for me. You like,
+
+00:29:05.400 --> 00:29:07.480
+yeah, [snorts] a lot of a lot of people
+
+00:29:06.280 --> 00:29:09.560
+have experience. There's a lot of people
+
+00:29:07.480 --> 00:29:11.120
+with a lot of experience.
+
+00:29:09.560 --> 00:29:13.120
+W- Well, actually, Zach, let me ask you
+
+00:29:11.120 --> 00:29:15.240
+about that cuz as you pointed out, like,
+
+00:29:13.120 --> 00:29:18.200
+they are your your people are who
+
+00:29:15.240 --> 00:29:20.240
+generates revenue for you. And so if you
+
+00:29:18.200 --> 00:29:22.480
+part of the fear of losing people is
+
+00:29:20.240 --> 00:29:25.040
+that is that they walk out the door with
+
+00:29:22.480 --> 00:29:27.960
+revenue. And And that it is actually
+
+00:29:25.040 --> 00:29:30.400
+hard hard to find people
+
+00:29:27.960 --> 00:29:32.560
+as we all know in the trades these days.
+
+00:29:30.400 --> 00:29:35.080
+Um and it sounds like where you are,
+
+00:29:32.560 --> 00:29:36.600
+it's not like the most populous area, so
+
+00:29:35.080 --> 00:29:38.040
+it might be even harder, but it doesn't
+
+00:29:36.600 --> 00:29:39.919
+sound like you struggled with that and
+
+00:29:38.040 --> 00:29:41.919
+or that it worried you.
+
+00:29:39.919 --> 00:29:44.560
+It didn't Well, I I was worried they
+
+00:29:41.919 --> 00:29:46.280
+were going to leave. I I worried so much
+
+00:29:44.560 --> 00:29:48.680
+that everybody was going to walk out on
+
+00:29:46.280 --> 00:29:51.445
+day one, and I had nothing and I got to
+
+00:29:48.680 --> 00:29:51.960
+figure it out and I got all this debt.
+
+00:29:51.445 --> 00:29:53.440
+>> [laughter]
+
+00:29:51.960 --> 00:29:54.720
+>> And it's funny because they thought I
+
+00:29:53.440 --> 00:29:57.320
+was going to fire them.
+
+00:29:54.720 --> 00:29:59.560
+So, we're both like shielding ourselves
+
+00:29:57.320 --> 00:30:00.920
+and you know, we we sussed that out over
+
+00:29:59.560 --> 00:30:02.600
+several months, but
+
+00:30:00.920 --> 00:30:03.840
+it's reasonable on both sides. You don't
+
+00:30:02.600 --> 00:30:05.360
+know.
+
+00:30:03.840 --> 00:30:08.040
+Yeah, sure.
+
+00:30:05.360 --> 00:30:11.240
+And so, the but all of the turnover that
+
+00:30:08.040 --> 00:30:13.440
+happened, what anything to
+
+00:30:11.240 --> 00:30:14.600
+any learnings from that? I mean,
+
+00:30:13.440 --> 00:30:16.840
+do you think it was healthy? Do you
+
+00:30:14.600 --> 00:30:18.160
+think it was what you would want or did
+
+00:30:16.840 --> 00:30:21.560
+some of the people leave that you wished
+
+00:30:18.160 --> 00:30:22.960
+hadn't or what can we take from that?
+
+00:30:21.560 --> 00:30:24.880
+After
+
+00:30:22.960 --> 00:30:26.400
+weeks, my wife and I we, you know, we
+
+00:30:24.880 --> 00:30:29.160
+talked and we said like who do you think
+
+00:30:26.400 --> 00:30:30.960
+is going to be with us long-term or who
+
+00:30:29.160 --> 00:30:33.040
+do we want, you know? Who's going to fit
+
+00:30:30.960 --> 00:30:35.680
+the culture? And it wasn't it wasn't
+
+00:30:33.040 --> 00:30:37.800
+many. It was these two people here. I
+
+00:30:35.680 --> 00:30:39.560
+felt like everyone else didn't and they
+
+00:30:37.800 --> 00:30:41.480
+they weren't bad. They weren't, you
+
+00:30:39.560 --> 00:30:44.520
+know, they weren't evil. They just they
+
+00:30:41.480 --> 00:30:45.920
+just didn't fit with with who we are.
+
+00:30:44.520 --> 00:30:47.840
+And so, we selectively chose people,
+
+00:30:45.920 --> 00:30:49.160
+yeah. And then going back Zach to
+
+00:30:47.840 --> 00:30:50.840
+something you said earlier about
+
+00:30:49.160 --> 00:30:52.400
+starting, you know, part of the reason
+
+00:30:50.840 --> 00:30:55.040
+you buy a business is to so that it's a
+
+00:30:52.400 --> 00:30:57.280
+bit of a shortcut. But if you basically
+
+00:30:55.040 --> 00:30:59.120
+are here with just two of the original
+
+00:30:57.280 --> 00:31:00.440
+people, you start to wonder if like
+
+00:30:59.120 --> 00:31:01.680
+could you have spun that up from
+
+00:31:00.440 --> 00:31:02.040
+scratch?
+
+00:31:01.680 --> 00:31:03.496
+And hired
+
+00:31:02.040 --> 00:31:05.516
+>> You start to think that.
+
+00:31:03.496 --> 00:31:05.516
+>> [laughter]
+
+00:31:05.720 --> 00:31:11.320
+>> Yes, one does think that and and yeah,
+
+00:31:09.600 --> 00:31:14.440
+it goes across my mind all the time, but
+
+00:31:11.320 --> 00:31:16.440
+I will say I will say that I have I have
+
+00:31:14.440 --> 00:31:18.720
+Hannah. She's our office manager. She's
+
+00:31:16.440 --> 00:31:19.800
+She's doing our our lead categorization
+
+00:31:18.720 --> 00:31:21.920
+right now. So, I created I'm a
+
+00:31:19.800 --> 00:31:24.400
+spreadsheet nerd. So, I created a
+
+00:31:21.920 --> 00:31:26.920
+spreadsheet and our CRM system isn't
+
+00:31:24.400 --> 00:31:29.240
+like fantastic. It's Jobber. It's not
+
+00:31:26.920 --> 00:31:30.320
+you know, all around. It was a little
+
+00:31:29.240 --> 00:31:31.720
+bit cheaper than the other one, so we
+
+00:31:30.320 --> 00:31:33.840
+chose it. So, we're doing some things by
+
+00:31:31.720 --> 00:31:35.360
+manual, but I'm seeing
+
+00:31:33.840 --> 00:31:36.320
+where the leads are coming from. I'm
+
+00:31:35.360 --> 00:31:37.720
+looking at the conversion rate. I'm
+
+00:31:36.320 --> 00:31:39.080
+looking at how much it cost per lead,
+
+00:31:37.720 --> 00:31:41.520
+where it's coming from.
+
+00:31:39.080 --> 00:31:44.040
+And we have a lot of existing customers,
+
+00:31:41.520 --> 00:31:47.000
+the majority. It was it's it's like
+
+00:31:44.040 --> 00:31:49.160
+50/50 with Google and then
+
+00:31:47.000 --> 00:31:50.960
+other trickle in, you know, Angie's List
+
+00:31:49.160 --> 00:31:52.480
+or whatever, like small but it's it's
+
+00:31:50.960 --> 00:31:54.880
+mainly
+
+00:31:52.480 --> 00:31:58.560
+uh existing customers, Google and
+
+00:31:54.880 --> 00:32:01.280
+referrals. So, I did buy
+
+00:31:58.560 --> 00:32:03.160
+a a business with with with people that
+
+00:32:01.280 --> 00:32:05.200
+want to pay me money. There's A lot of
+
+00:32:03.160 --> 00:32:06.720
+it is the panel stickers. I listened to
+
+00:32:05.200 --> 00:32:08.280
+that other podcast you had and he's
+
+00:32:06.720 --> 00:32:10.520
+doing the same thing. And it's funny
+
+00:32:08.280 --> 00:32:12.920
+because it's so true, man.
+
+00:32:10.520 --> 00:32:15.280
+This guy that owned it put the same
+
+00:32:12.920 --> 00:32:17.120
+panel sticker, little bit fancy creative
+
+00:32:15.280 --> 00:32:18.720
+now, but it's essentially the same panel
+
+00:32:17.120 --> 00:32:21.640
+sticker on every electrical panel that
+
+00:32:18.720 --> 00:32:24.560
+he did in 40 years. So, wow. All the
+
+00:32:21.640 --> 00:32:27.337
+time I see people customers with with a
+
+00:32:24.560 --> 00:32:28.400
+a 40-year-old sticker and it looks good.
+
+00:32:27.337 --> 00:32:30.320
+>> [laughter]
+
+00:32:28.400 --> 00:32:32.320
+>> Nobody opens the panel ever. So, it
+
+00:32:30.320 --> 00:32:35.360
+looks it looks, you know, preserved
+
+00:32:32.320 --> 00:32:37.800
+almost. So, a lot of people call us. And
+
+00:32:35.360 --> 00:32:40.000
+when people buy houses here all the
+
+00:32:37.800 --> 00:32:41.240
+time, there's an electrical issue.
+
+00:32:40.000 --> 00:32:42.640
+Who do we know? We're new here. I don't
+
+00:32:41.240 --> 00:32:44.240
+know. Well, there's a sticker on the
+
+00:32:42.640 --> 00:32:46.640
+panel. I'm going to call him. All the
+
+00:32:44.240 --> 00:32:48.679
+time. So, yeah, you know,
+
+00:32:46.640 --> 00:32:50.720
+is it worth what I paid?
+
+00:32:48.679 --> 00:32:51.960
+Yeah, yeah, no, I don't know. I don't
+
+00:32:50.720 --> 00:32:54.000
+even think about that anymore. I just
+
+00:32:51.960 --> 00:32:55.480
+think about growth. Like how how do we
+
+00:32:54.000 --> 00:32:58.600
+send it at this point, you know what I
+
+00:32:55.480 --> 00:33:00.440
+mean? I think I'm going to start
+
+00:32:58.600 --> 00:33:01.600
+other locations. I don't think I'm going
+
+00:33:00.440 --> 00:33:02.880
+to buy one.
+
+00:33:01.600 --> 00:33:04.320
+Because of what I know now, I think I
+
+00:33:02.880 --> 00:33:07.040
+can
+
+00:33:04.320 --> 00:33:09.160
+spin it up, you know? Um maybe let's
+
+00:33:07.040 --> 00:33:10.200
+let's let's put a pin in that Zach cuz I
+
+00:33:09.160 --> 00:33:12.720
+want to return to it. That could be a
+
+00:33:10.200 --> 00:33:14.840
+really interesting topic. Did I ask you
+
+00:33:12.720 --> 00:33:15.760
+yet for the or before for the purchase
+
+00:33:14.840 --> 00:33:18.120
+price?
+
+00:33:15.760 --> 00:33:20.040
+Yeah, it was 1.65.
+
+00:33:18.120 --> 00:33:22.280
+1.65. So,
+
+00:33:20.040 --> 00:33:25.200
+so it seemed like it was a great deal if
+
+00:33:22.280 --> 00:33:27.520
+it was about 700 in earnings.
+
+00:33:25.200 --> 00:33:29.360
+1.4 1.65.
+
+00:33:27.520 --> 00:33:33.560
+So, that was that's less than two and a
+
+00:33:29.360 --> 00:33:35.800
+half, Yeah. Right. It's 2.3. Um and
+
+00:33:33.560 --> 00:33:38.920
+it was fantastic numbers. I actually saw
+
+00:33:35.800 --> 00:33:40.280
+that deal several months ago even if not
+
+00:33:38.920 --> 00:33:43.440
+a year ago
+
+00:33:40.280 --> 00:33:45.800
+prior to uh inquiring about it. And when
+
+00:33:43.440 --> 00:33:46.960
+I was working and looking to buy a
+
+00:33:45.800 --> 00:33:48.160
+business and I was out sending
+
+00:33:46.960 --> 00:33:50.360
+inquiries,
+
+00:33:48.160 --> 00:33:51.560
+I told myself I found this business. I
+
+00:33:50.360 --> 00:33:53.360
+found this one. I was like, "Oh my god,
+
+00:33:51.560 --> 00:33:55.600
+it's still for sale." I told myself if
+
+00:33:53.360 --> 00:33:58.360
+the broker calls me, which they never
+
+00:33:55.600 --> 00:34:00.280
+do, if he calls me, I'm going to buy it.
+
+00:33:58.360 --> 00:34:02.920
+The next day, I'm doing an oil change on
+
+00:34:00.280 --> 00:34:04.840
+this diesel engine and he calls me. He's
+
+00:34:02.920 --> 00:34:06.679
+like, "I think you'd be a great fit."
+
+00:34:04.840 --> 00:34:09.760
+And it was just, you know, it's
+
+00:34:06.679 --> 00:34:11.440
+it worked out from there, but
+
+00:34:09.760 --> 00:34:15.520
+yeah, it looked like a fantastic deal. I
+
+00:34:11.440 --> 00:34:17.280
+was like, "What? 30%? 30%?" Yeah. It's
+
+00:34:15.520 --> 00:34:19.840
+got to be, you know, it's just the
+
+00:34:17.280 --> 00:34:21.000
+industry. It's just the industry. And
+
+00:34:19.840 --> 00:34:22.760
+then little have I learned, you know,
+
+00:34:21.000 --> 00:34:24.440
+I've I've seen many profit and losses
+
+00:34:22.760 --> 00:34:25.560
+now and
+
+00:34:24.440 --> 00:34:27.520
+it's not the same.
+
+00:34:25.560 --> 00:34:29.080
+Um what do you mean? What have what else
+
+00:34:27.520 --> 00:34:31.480
+have you discovered?
+
+00:34:29.080 --> 00:34:33.480
+I've discovered that our labor cost is a
+
+00:34:31.480 --> 00:34:35.600
+little higher than his because I gave
+
+00:34:33.480 --> 00:34:37.640
+everybody raises.
+
+00:34:35.600 --> 00:34:39.720
+He was not I felt like
+
+00:34:37.640 --> 00:34:42.480
+paying them what they deserved. Granted
+
+00:34:39.720 --> 00:34:44.440
+this area is more rural, you know, a lot
+
+00:34:42.480 --> 00:34:46.520
+of people come from the north,
+
+00:34:44.440 --> 00:34:47.600
+Pennsylvania and New York specifically,
+
+00:34:46.520 --> 00:34:49.320
+and they were used to getting paid a lot
+
+00:34:47.600 --> 00:34:51.159
+more.
+
+00:34:49.320 --> 00:34:54.640
+But they take a huge hit and I felt like
+
+00:34:51.159 --> 00:34:57.520
+it wasn't fair. So, everybody slowly got
+
+00:34:54.640 --> 00:34:59.880
+a raise when when I thought it was fit.
+
+00:34:57.520 --> 00:35:01.960
+And so, our labor cost rose. We we added
+
+00:34:59.880 --> 00:35:03.720
+some commission stuff. Our our labor
+
+00:35:01.960 --> 00:35:04.800
+cost rose cuz he never did any of that.
+
+00:35:03.720 --> 00:35:07.640
+He told them they would pay them
+
+00:35:04.800 --> 00:35:09.880
+commission, but he didn't. So, they
+
+00:35:07.640 --> 00:35:10.760
+wouldn't they didn't trust me for a long
+
+00:35:09.880 --> 00:35:12.920
+time.
+
+00:35:10.760 --> 00:35:15.120
+I had to prove myself over time that I
+
+00:35:12.920 --> 00:35:17.520
+would actually do the things that I say
+
+00:35:15.120 --> 00:35:19.720
+I'm going to do. You know, Zach, given
+
+00:35:17.520 --> 00:35:21.760
+things like that that you just said and
+
+00:35:19.720 --> 00:35:24.760
+that he was a micromanager
+
+00:35:21.760 --> 00:35:26.800
+and that you came in
+
+00:35:24.760 --> 00:35:28.440
+encouraging people to have like more
+
+00:35:26.800 --> 00:35:30.359
+autonomy,
+
+00:35:28.440 --> 00:35:32.720
+I would have thought that people would
+
+00:35:30.359 --> 00:35:34.440
+be really receptive to a new owner and
+
+00:35:32.720 --> 00:35:36.480
+excited about a new owner. It doesn't
+
+00:35:34.440 --> 00:35:37.720
+sound like it it it it it sounds like it
+
+00:35:36.480 --> 00:35:41.120
+might not have been the best culture in
+
+00:35:37.720 --> 00:35:43.184
+the world under the previous regime.
+
+00:35:41.120 --> 00:35:43.920
+And I think about that all the time.
+
+00:35:43.184 --> 00:35:45.720
+>> [laughter]
+
+00:35:43.920 --> 00:35:47.600
+>> Not as much anymore cuz it's not my
+
+00:35:45.720 --> 00:35:50.800
+day-to-day, but I used to. I mean, I was
+
+00:35:47.600 --> 00:35:52.760
+I I at this point I've
+
+00:35:50.800 --> 00:35:55.560
+my my thesis is that it's Stockholm
+
+00:35:52.760 --> 00:35:57.720
+Syndrome. They're just so used to it and
+
+00:35:55.560 --> 00:36:00.320
+they're used to being That's that's the
+
+00:35:57.720 --> 00:36:01.800
+way it is, right? That's how it's done.
+
+00:36:00.320 --> 00:36:04.640
+And so, they just became it's
+
+00:36:01.800 --> 00:36:06.720
+normalized. And then when when I came in
+
+00:36:04.640 --> 00:36:08.160
+and I, you know, gave them
+
+00:36:06.720 --> 00:36:10.120
+access to things they'd never had access
+
+00:36:08.160 --> 00:36:12.600
+to, they felt like it was They
+
+00:36:10.120 --> 00:36:14.920
+felt like that's not real,
+
+00:36:12.600 --> 00:36:17.800
+you know? Cuz it's done like this. It's
+
+00:36:14.920 --> 00:36:18.640
+been done like this for decades.
+
+00:36:17.800 --> 00:36:20.400
+You're going to tell me this guy's
+
+00:36:18.640 --> 00:36:23.200
+coming in, changing everything and
+
+00:36:20.400 --> 00:36:24.960
+that's going to work? Mhm, you know?
+
+00:36:23.200 --> 00:36:27.240
+A lot of blue-collar people like their
+
+00:36:24.960 --> 00:36:28.280
+job. They want to do their job and they
+
+00:36:27.240 --> 00:36:30.080
+want to do it well. They want to get
+
+00:36:28.280 --> 00:36:31.440
+paid well and they want to go home.
+
+00:36:30.080 --> 00:36:33.880
+And I respect that.
+
+00:36:31.440 --> 00:36:35.400
+And so, when you switch it up,
+
+00:36:33.880 --> 00:36:36.760
+even if it's for the better, you give
+
+00:36:35.400 --> 00:36:38.680
+them raises,
+
+00:36:36.760 --> 00:36:40.960
+sometimes it doesn't work. And then so,
+
+00:36:38.680 --> 00:36:43.080
+finding new people was not was not a
+
+00:36:40.960 --> 00:36:44.240
+problem. There there were electricians
+
+00:36:43.080 --> 00:36:46.065
+to be had.
+
+00:36:44.240 --> 00:36:46.520
+In quantity, yes.
+
+00:36:46.065 --> 00:36:50.280
+>> [laughter]
+
+00:36:46.520 --> 00:36:51.880
+>> In quality, no. We've had we've had some
+
+00:36:50.280 --> 00:36:53.760
+some good, some bad.
+
+00:36:51.880 --> 00:36:56.040
+We started
+
+00:36:53.760 --> 00:36:58.560
+uh advertising like they used to on
+
+00:36:56.040 --> 00:37:00.640
+Craigslist, which is absolutely insane
+
+00:36:58.560 --> 00:37:03.440
+to me, right? But we did it and we would
+
+00:37:00.640 --> 00:37:05.800
+get people and the quality was
+
+00:37:03.440 --> 00:37:07.320
+it's exactly what you think, you know,
+
+00:37:05.800 --> 00:37:08.720
+from Craigslist ad.
+
+00:37:07.320 --> 00:37:10.640
+But then we started posting on Indeed
+
+00:37:08.720 --> 00:37:13.240
+and even still like there's just not
+
+00:37:10.640 --> 00:37:15.480
+that many people here in general. It's a
+
+00:37:13.240 --> 00:37:18.080
+town of two Is it Is it a county of
+
+00:37:15.480 --> 00:37:20.440
+220,000? Over where I'm from, it's it's
+
+00:37:18.080 --> 00:37:21.400
+10x that. So, there's just not a big
+
+00:37:20.440 --> 00:37:23.640
+pool.
+
+00:37:21.400 --> 00:37:26.240
+And so, we would get people, but
+
+00:37:23.640 --> 00:37:29.120
+we kind of had to poach a few of them.
+
+00:37:26.240 --> 00:37:30.560
+We got some good ones from um
+
+00:37:29.120 --> 00:37:32.359
+either they were working for someone
+
+00:37:30.560 --> 00:37:34.600
+else or they were they were just working
+
+00:37:32.359 --> 00:37:36.480
+for themselves, freelancing. A lot of
+
+00:37:34.600 --> 00:37:37.880
+electricians do that.
+
+00:37:36.480 --> 00:37:39.160
+And they're like, "Yeah, I'll give them
+
+00:37:37.880 --> 00:37:40.720
+an opportunity. Hey, want to come work
+
+00:37:39.160 --> 00:37:42.840
+for us? Culture,
+
+00:37:40.720 --> 00:37:45.200
+future, you know, stuff like that." And
+
+00:37:42.840 --> 00:37:47.400
+and it worked. That's that's it's sad,
+
+00:37:45.200 --> 00:37:49.600
+it but it works. It's what it is. And
+
+00:37:47.400 --> 00:37:52.200
+so, you went from 10 down to two and now
+
+00:37:49.600 --> 00:37:55.920
+you're back up to 10? We didn't go from
+
+00:37:52.200 --> 00:37:55.920
+10 I mean, the original
+
+00:37:56.640 --> 00:38:01.640
+replaced people as we had people leave.
+
+00:37:59.680 --> 00:38:03.720
+So, it was almost like a one-for-one.
+
+00:38:01.640 --> 00:38:07.160
+There was at some point where we had
+
+00:38:03.720 --> 00:38:09.640
+maybe six, something like that. Maybe
+
+00:38:07.160 --> 00:38:11.280
+five, but yes, it it it does keep up.
+
+00:38:09.640 --> 00:38:12.840
+Now, we're about
+
+00:38:11.280 --> 00:38:13.836
+eight or nine, something like that. It's
+
+00:38:12.840 --> 00:38:14.120
+flux.
+
+00:38:13.836 --> 00:38:17.520
+>> [laughter]
+
+00:38:14.120 --> 00:38:18.560
+>> Yeah, sure. And and you feel like your
+
+00:38:17.520 --> 00:38:20.560
+um
+
+00:38:18.560 --> 00:38:22.840
+more stable now or do you feel like this
+
+00:38:20.560 --> 00:38:24.120
+churn, this turnover is
+
+00:38:22.840 --> 00:38:25.760
+is
+
+00:38:24.120 --> 00:38:27.040
+is going to be a feature of the business
+
+00:38:25.760 --> 00:38:28.840
+kind of forever. It's just the nature of
+
+00:38:27.040 --> 00:38:30.160
+the industry. No? No, I knew that it was
+
+00:38:28.840 --> 00:38:32.120
+like going to be a snake shedding its
+
+00:38:30.160 --> 00:38:33.720
+skin. I I knew it. I was telling my wife
+
+00:38:32.120 --> 00:38:36.280
+that, you know, it's it was tough. It
+
+00:38:33.720 --> 00:38:38.200
+was tough days. And so, I would have a
+
+00:38:36.280 --> 00:38:40.000
+mantra, you know, it's like it's not
+
+00:38:38.200 --> 00:38:42.200
+forever. This this
+
+00:38:40.000 --> 00:38:45.359
+this issue specifically and these issues
+
+00:38:42.200 --> 00:38:46.760
+are going to subside once
+
+00:38:45.359 --> 00:38:47.960
+you know, you chop it
+
+00:38:46.760 --> 00:38:49.760
+every day a little bit. Bite the
+
+00:38:47.960 --> 00:38:52.160
+elephant, whatever.
+
+00:38:49.760 --> 00:38:53.680
+And it did. It did. It worked out. And
+
+00:38:52.160 --> 00:38:55.960
+right now,
+
+00:38:53.680 --> 00:38:57.680
+fantastic. I mean, we just got back from
+
+00:38:55.960 --> 00:39:00.280
+Japan from our honeymoon.
+
+00:38:57.680 --> 00:39:02.200
+For 9 days we went. I got like two
+
+00:39:00.280 --> 00:39:02.760
+calls.
+
+00:39:02.200 --> 00:39:04.720
+Wow.
+
+00:39:02.760 --> 00:39:07.080
+>> Things things were things were good.
+
+00:39:04.720 --> 00:39:09.280
+They were overloaded with work. My main,
+
+00:39:07.080 --> 00:39:11.640
+you know, my head guys were uh
+
+00:39:09.280 --> 00:39:13.600
+little flustered. So, there's
+
+00:39:11.640 --> 00:39:16.720
+things to fix, but it was kind of like
+
+00:39:13.600 --> 00:39:19.680
+the stress test. Let's see what breaks.
+
+00:39:16.720 --> 00:39:22.240
+And And the big things didn't. So, we
+
+00:39:19.680 --> 00:39:25.080
+have a really good solid crew right now.
+
+00:39:22.240 --> 00:39:28.240
+And Zach, let's hear about your own
+
+00:39:25.080 --> 00:39:30.640
+knowledge. So, you come from do working
+
+00:39:28.240 --> 00:39:33.800
+on generators. So, you understand
+
+00:39:30.640 --> 00:39:35.359
+generators and sort of energy, but you
+
+00:39:33.800 --> 00:39:37.080
+weren't an electrician, but you did get
+
+00:39:35.359 --> 00:39:38.840
+your electric electrician your
+
+00:39:37.080 --> 00:39:41.920
+electrical contractor's license. So,
+
+00:39:38.840 --> 00:39:43.360
+anyway, talk talk to us about is is
+
+00:39:41.920 --> 00:39:44.800
+taking over a business like this
+
+00:39:43.360 --> 00:39:46.760
+something that only
+
+00:39:44.800 --> 00:39:48.960
+you could do or
+
+00:39:46.760 --> 00:39:51.440
+how much of your existing pre-existing
+
+00:39:48.960 --> 00:39:54.200
+knowledge has been helpful here and that
+
+00:39:51.440 --> 00:39:55.362
+even necessary? Completely 100%. I
+
+00:39:54.200 --> 00:39:57.382
+wouldn't advise
+
+00:39:55.362 --> 00:39:57.382
+>> [laughter]
+
+00:39:57.560 --> 00:39:59.280
+>> No.
+
+00:39:57.760 --> 00:40:01.720
+>> So you're really leaning you're leaning
+
+00:39:59.280 --> 00:40:02.120
+all on all that time in the Navy and all
+
+00:40:01.720 --> 00:40:04.840
+of the
+
+00:40:02.120 --> 00:40:06.600
+>> 100% I mean I'm into this stuff. I build
+
+00:40:04.840 --> 00:40:08.800
+things on the side. I've done it for you
+
+00:40:06.600 --> 00:40:11.960
+know, probably since I was a kid. I've
+
+00:40:08.800 --> 00:40:13.760
+just loved how things work and the older
+
+00:40:11.960 --> 00:40:16.240
+I got the more I did. Now I do like
+
+00:40:13.760 --> 00:40:19.040
+circuitry for fun at home, right? But
+
+00:40:16.240 --> 00:40:21.000
+it was the the Navy was the industrial
+
+00:40:19.040 --> 00:40:22.920
+side of it. That was the main like
+
+00:40:21.000 --> 00:40:24.520
+here's what you can do to make money,
+
+00:40:22.920 --> 00:40:26.160
+right? You could do all these things for
+
+00:40:24.520 --> 00:40:28.120
+fun. You can make lamps and speakers and
+
+00:40:26.160 --> 00:40:29.720
+all this stuff, but here's how you make
+
+00:40:28.120 --> 00:40:32.000
+real money. You work at a power plant.
+
+00:40:29.720 --> 00:40:34.440
+Essentially, I ran not I didn't run. I
+
+00:40:32.000 --> 00:40:36.120
+worked at a power plant. And What do you
+
+00:40:34.440 --> 00:40:36.760
+on the on the boat you mean?
+
+00:40:36.120 --> 00:40:38.360
+>> Yeah, on the ship.
+
+00:40:36.760 --> 00:40:38.680
+>> What same same war what what is that
+
+00:40:38.360 --> 00:40:40.760
+mean?
+
+00:40:38.680 --> 00:40:43.120
+>> a gas turbine electrician. So I was a
+
+00:40:40.760 --> 00:40:46.400
+mechanic and electrician for yes, gas
+
+00:40:43.120 --> 00:40:48.080
+turbines. We had two forms. One was
+
+00:40:46.400 --> 00:40:49.720
+purely propulsion. One was for
+
+00:40:48.080 --> 00:40:51.160
+generators.
+
+00:40:49.720 --> 00:40:53.080
+And there was three generators, four
+
+00:40:51.160 --> 00:40:54.480
+propulsion. We had probably crew of 30
+
+00:40:53.080 --> 00:40:57.600
+in our division. So we would all work on
+
+00:40:54.480 --> 00:40:59.560
+it, but it was so much equipment.
+
+00:40:57.600 --> 00:41:02.080
+There's so much auxiliary equipment to
+
+00:40:59.560 --> 00:41:04.080
+move a 500-ft ship
+
+00:41:02.080 --> 00:41:06.160
+there's there's so much that goes on
+
+00:41:04.080 --> 00:41:08.560
+that you don't hear about on a cruise
+
+00:41:06.160 --> 00:41:09.920
+ship. You sip your margarita. It's on
+
+00:41:08.560 --> 00:41:11.760
+every ship. They all have the same
+
+00:41:09.920 --> 00:41:13.520
+issues. They all have pumps, motors,
+
+00:41:11.760 --> 00:41:16.400
+motor controllers. They all have lube
+
+00:41:13.520 --> 00:41:19.600
+oil leaks and fuel to transfer and so
+
+00:41:16.400 --> 00:41:21.760
+much to do every day. I know
+
+00:41:19.600 --> 00:41:23.440
+a certain interval I was working over
+
+00:41:21.760 --> 00:41:25.040
+100 hours a week for
+
+00:41:23.440 --> 00:41:27.320
+probably like 3 months straight. So I
+
+00:41:25.040 --> 00:41:29.840
+knew the military wasn't a long-term
+
+00:41:27.320 --> 00:41:31.880
+thing for me. I knew that going in. Um
+
+00:41:29.840 --> 00:41:33.400
+but but yeah, it was it was a lot of
+
+00:41:31.880 --> 00:41:36.040
+work. It was a lot of work, but I
+
+00:41:33.400 --> 00:41:37.160
+learned so much and I became a leader in
+
+00:41:36.040 --> 00:41:39.440
+the Navy.
+
+00:41:37.160 --> 00:41:40.440
+I was never in charge of anything before
+
+00:41:39.440 --> 00:41:42.440
+that.
+
+00:41:40.440 --> 00:41:43.600
+And they do that. It's a systematic
+
+00:41:42.440 --> 00:41:44.748
+thing. That's what's amazing about the
+
+00:41:43.600 --> 00:41:44.800
+military.
+
+00:41:44.748 --> 00:41:45.040
+>> [snorts]
+
+00:41:44.800 --> 00:41:46.680
+>> Yeah.
+
+00:41:45.040 --> 00:41:48.000
+>> They build leaders if you want to be,
+
+00:41:46.680 --> 00:41:50.240
+right? If you want they don't not
+
+00:41:48.000 --> 00:41:53.040
+everybody becomes something basically,
+
+00:41:50.240 --> 00:41:55.960
+right? So if you if you want to do that
+
+00:41:53.040 --> 00:41:58.400
+you can. And I did and it was just a
+
+00:41:55.960 --> 00:42:00.640
+really fulfilling thing to have you
+
+00:41:58.400 --> 00:42:02.680
+know, my guys under me and work with
+
+00:42:00.640 --> 00:42:04.160
+them every day being the field and the
+
+00:42:02.680 --> 00:42:06.400
+field in the in the ship with them and
+
+00:42:04.160 --> 00:42:08.680
+work and show them the ropes. I love
+
+00:42:06.400 --> 00:42:11.280
+that. I love being a leader. Um
+
+00:42:08.680 --> 00:42:12.760
+but ultimately, I learned there and
+
+00:42:11.280 --> 00:42:15.360
+definitely here that I'm not a good
+
+00:42:12.760 --> 00:42:18.600
+manager. I am a good leader. I'm a
+
+00:42:15.360 --> 00:42:20.920
+visionary, but the day-to-day and which
+
+00:42:18.600 --> 00:42:22.560
+is probably a reason some of these guys
+
+00:42:20.920 --> 00:42:25.240
+left maybe it felt a little chaotic to
+
+00:42:22.560 --> 00:42:27.080
+be honest. I was learning and I'm not
+
+00:42:25.240 --> 00:42:29.480
+I'm not a great organizer. I got
+
+00:42:27.080 --> 00:42:31.280
+allegedly I got ADHD. I don't know.
+
+00:42:29.480 --> 00:42:33.200
+Never diagnosed, but everybody tells me
+
+00:42:31.280 --> 00:42:36.520
+that. So I got
+
+00:42:33.200 --> 00:42:38.760
+I don't know. 17 notepads on my freaking
+
+00:42:36.520 --> 00:42:41.360
+desk right now. I have a lot going on.
+
+00:42:38.760 --> 00:42:42.960
+It's chaos it is chaotic. Right? And how
+
+00:42:41.360 --> 00:42:45.880
+you do one thing is how you do
+
+00:42:42.960 --> 00:42:47.160
+everything. My house is chaotic, too. So
+
+00:42:45.880 --> 00:42:48.760
+I don't
+
+00:42:47.160 --> 00:42:49.920
+I get it, you know, I get that part of
+
+00:42:48.760 --> 00:42:50.840
+it.
+
+00:42:49.920 --> 00:42:52.120
+But
+
+00:42:50.840 --> 00:42:54.080
+those are the things you figure out what
+
+00:42:52.120 --> 00:42:54.920
+breaks, right? And then you fix it and
+
+00:42:54.080 --> 00:42:56.520
+that's what we're doing and that's
+
+00:42:54.920 --> 00:42:59.280
+that's one thing that I learned in the
+
+00:42:56.520 --> 00:43:00.720
+Navy that that not a great manager.
+
+00:42:59.280 --> 00:43:02.080
+Um I am a good leader. I'm a good
+
+00:43:00.720 --> 00:43:03.800
+teacher.
+
+00:43:02.080 --> 00:43:06.240
+And how and Zach, how do you work around
+
+00:43:03.800 --> 00:43:07.960
+that? Because when we think of we
+
+00:43:06.240 --> 00:43:10.800
+normally civilians when we think
+
+00:43:07.960 --> 00:43:13.680
+military, we think order above all.
+
+00:43:10.800 --> 00:43:17.000
+Order, authority that there are systems
+
+00:43:13.680 --> 00:43:18.400
+and and the opposite of chaos. So you
+
+00:43:17.000 --> 00:43:21.320
+you figured out a way to make your
+
+00:43:18.400 --> 00:43:23.840
+chaotic self work in a very ordered
+
+00:43:21.320 --> 00:43:25.000
+system. And now here you're
+
+00:43:23.840 --> 00:43:27.160
+in your own business that you've
+
+00:43:25.000 --> 00:43:29.360
+acquired and you're creating the system
+
+00:43:27.160 --> 00:43:33.200
+from above and you probably recognize
+
+00:43:29.360 --> 00:43:34.800
+that order is valuable that the chaos
+
+00:43:33.200 --> 00:43:36.240
+it works for you, but it not what might
+
+00:43:34.800 --> 00:43:37.680
+not work for everybody. So how do you
+
+00:43:36.240 --> 00:43:39.960
+how are you going to
+
+00:43:37.680 --> 00:43:42.160
+deal with this or or
+
+00:43:39.960 --> 00:43:45.200
+manage around your own your own chaos?
+
+00:43:42.160 --> 00:43:48.480
+>> Yeah. For a long time I battled with
+
+00:43:45.200 --> 00:43:49.400
+do I work on my weaknesses or do I not?
+
+00:43:48.480 --> 00:43:50.040
+Basically.
+
+00:43:49.400 --> 00:43:52.800
+>> Yeah.
+
+00:43:50.040 --> 00:43:54.480
+>> where I outsource everything. I am all
+
+00:43:52.800 --> 00:43:56.680
+in on the things I'm good at because I
+
+00:43:54.480 --> 00:44:00.520
+know those can produce
+
+00:43:56.680 --> 00:44:01.960
+fruitful things, right? And to me, I am
+
+00:44:00.520 --> 00:44:04.359
+so inefficient at doing those other
+
+00:44:01.960 --> 00:44:08.480
+tasks. It would it would cost so much
+
+00:44:04.359 --> 00:44:10.720
+more in my time my my lifetime to do
+
+00:44:08.480 --> 00:44:12.000
+the books or to do you know, scheduling
+
+00:44:10.720 --> 00:44:13.240
+stuff like that. So that's all
+
+00:44:12.000 --> 00:44:15.880
+outsourced.
+
+00:44:13.240 --> 00:44:17.840
+Um I do as little as I can, but it's it
+
+00:44:15.880 --> 00:44:20.200
+yeah, the owner. It's there's so much.
+
+00:44:17.840 --> 00:44:22.800
+There's so much to do, but it's learning
+
+00:44:20.200 --> 00:44:25.000
+systems that I'm still working on, but
+
+00:44:22.800 --> 00:44:27.190
+moving and growing it is just it's the
+
+00:44:25.000 --> 00:44:27.920
+who not how. I'm not doing that.
+
+00:44:27.190 --> 00:44:29.520
+>> [laughter]
+
+00:44:27.920 --> 00:44:31.440
+>> And so you're you're often thinking
+
+00:44:29.520 --> 00:44:32.560
+about who to put in this seat
+
+00:44:31.440 --> 00:44:34.520
+>> All the time. I'm thinking about the
+
+00:44:32.560 --> 00:44:35.960
+stuff that I'm delegating. All the time.
+
+00:44:34.520 --> 00:44:37.000
+I got to figure out who's going where,
+
+00:44:35.960 --> 00:44:39.000
+you know, and that's something that I'm
+
+00:44:37.000 --> 00:44:41.760
+still working on. With this one
+
+00:44:39.000 --> 00:44:43.480
+location, it's fairly straightforward.
+
+00:44:41.760 --> 00:44:45.480
+Essentially, I want
+
+00:44:43.480 --> 00:44:47.040
+when we grow, I want to almost triple
+
+00:44:45.480 --> 00:44:49.560
+this business. Okay, so we have we have
+
+00:44:47.040 --> 00:44:51.240
+five bands still. I want to have 15
+
+00:44:49.560 --> 00:44:52.520
+essentially about 5 million in revenue
+
+00:44:51.240 --> 00:44:55.280
+is my goal.
+
+00:44:52.520 --> 00:44:56.840
+And I want to have almost divisions. So
+
+00:44:55.280 --> 00:44:58.680
+we'll have a generator division.
+
+00:44:56.840 --> 00:45:01.600
+Residential, commercial,
+
+00:44:58.680 --> 00:45:02.840
+um and generators. So everybody will
+
+00:45:01.600 --> 00:45:04.960
+kind of stay in their own lane.
+
+00:45:02.840 --> 00:45:07.120
+Everybody has the shop and you know, get
+
+00:45:04.960 --> 00:45:09.440
+together materials all that good stuff.
+
+00:45:07.120 --> 00:45:11.000
+But there will be a guy in charge of
+
+00:45:09.440 --> 00:45:12.120
+this one and this division and this
+
+00:45:11.000 --> 00:45:13.560
+division.
+
+00:45:12.120 --> 00:45:15.600
+And then there'll be a GM. That's my
+
+00:45:13.560 --> 00:45:17.359
+thesis, right?
+
+00:45:15.600 --> 00:45:19.400
+Only we'll only know in practice. Right
+
+00:45:17.359 --> 00:45:22.359
+now I got um essentially one guy below
+
+00:45:19.400 --> 00:45:24.760
+me. He's like my number two. He
+
+00:45:22.359 --> 00:45:26.600
+does all of the field work. Like I told
+
+00:45:24.760 --> 00:45:29.040
+the guys don't call me.
+
+00:45:26.600 --> 00:45:30.040
+I was getting like 40 calls a day. I and
+
+00:45:29.040 --> 00:45:32.160
+doing you know, I couldn't do
+
+00:45:30.040 --> 00:45:35.320
+everything. I was I was going crazy.
+
+00:45:32.160 --> 00:45:37.320
+Before I delegated anything, I had so
+
+00:45:35.320 --> 00:45:40.320
+much to do and it was so overwhelming
+
+00:45:37.320 --> 00:45:41.840
+and I I just I hated I hated it. So I
+
+00:45:40.320 --> 00:45:44.320
+was like you know what? I have I have to
+
+00:45:41.840 --> 00:45:46.480
+delegate. There's no alternative. Like
+
+00:45:44.320 --> 00:45:47.000
+this is not going to work if I don't. So
+
+00:45:46.480 --> 00:45:48.320
+I did.
+
+00:45:47.000 --> 00:45:49.760
+>> So there there was a stretch there where
+
+00:45:48.320 --> 00:45:50.840
+you hated the business that you bought
+
+00:45:49.760 --> 00:45:52.600
+or hated the
+
+00:45:50.840 --> 00:45:54.000
+>> Yeah. I mean those first 3 months of the
+
+00:45:52.600 --> 00:45:55.000
+the transition was 3 months with the
+
+00:45:54.000 --> 00:45:58.200
+seller.
+
+00:45:55.000 --> 00:46:00.640
+Awful. Awful time in my life. Awful. And
+
+00:45:58.200 --> 00:46:02.400
+then it it was that it was not very good
+
+00:46:00.640 --> 00:46:04.240
+for a while because I was still figuring
+
+00:46:02.400 --> 00:46:05.320
+stuff out. Now I'm by myself. I got to
+
+00:46:04.240 --> 00:46:08.000
+do everything. He didn't teach me
+
+00:46:05.320 --> 00:46:09.400
+anything. So I that's why I I wish it
+
+00:46:08.000 --> 00:46:12.520
+was like a 3-hour transition. I didn't
+
+00:46:09.400 --> 00:46:14.080
+learn anything. So I had a day one was
+
+00:46:12.520 --> 00:46:17.040
+in 3 months. And so for the next 3
+
+00:46:14.080 --> 00:46:19.359
+months to 6 months was a learning curve
+
+00:46:17.040 --> 00:46:21.520
+and it was a lot of a lot of stressful
+
+00:46:19.359 --> 00:46:23.240
+days, you know? And how do I do this?
+
+00:46:21.520 --> 00:46:25.359
+Like who do I call?
+
+00:46:23.240 --> 00:46:27.080
+Every day is something new that I've
+
+00:46:25.359 --> 00:46:28.560
+never encountered and I got to figure it
+
+00:46:27.080 --> 00:46:30.760
+out. But that's like that's what I've
+
+00:46:28.560 --> 00:46:34.200
+done for years. I figured it out.
+
+00:46:30.760 --> 00:46:36.120
+And for people it for people who might
+
+00:46:34.200 --> 00:46:37.760
+find themselves in a similar situation,
+
+00:46:36.120 --> 00:46:39.520
+was there anything you learned from just
+
+00:46:37.760 --> 00:46:41.520
+getting through that period or is it
+
+00:46:39.520 --> 00:46:43.432
+just kind of like
+
+00:46:41.520 --> 00:46:46.120
+keep going? I would advise find
+
+00:46:43.432 --> 00:46:47.840
+[laughter] people that
+
+00:46:46.120 --> 00:46:49.960
+are doing what you're doing or have done
+
+00:46:47.840 --> 00:46:51.800
+what you've done and talk to them.
+
+00:46:49.960 --> 00:46:54.080
+I'm doing that now. I'm starting to do
+
+00:46:51.800 --> 00:46:56.160
+that now. I'm on social media now. I
+
+00:46:54.080 --> 00:46:58.480
+like post on Tik Tok and
+
+00:46:56.160 --> 00:47:00.280
+um people sometimes tell me hey, I'm a
+
+00:46:58.480 --> 00:47:01.440
+contractor in your area. And this guy
+
+00:47:00.280 --> 00:47:03.737
+hit me up this week. He's like you want
+
+00:47:01.440 --> 00:47:05.560
+to go golfing? I said, no. But
+
+00:47:03.737 --> 00:47:07.440
+[laughter] I'll go to the driving range.
+
+00:47:05.560 --> 00:47:09.320
+So I I'm going to go buy a driver today.
+
+00:47:07.440 --> 00:47:11.760
+So we're going to do that and it you
+
+00:47:09.320 --> 00:47:13.320
+know, it's it's cool. Um
+
+00:47:11.760 --> 00:47:15.320
+Find people
+
+00:47:13.320 --> 00:47:18.600
+that are like you and it's I feel like
+
+00:47:15.320 --> 00:47:20.920
+it's tough cuz I I'm a very like unique
+
+00:47:18.600 --> 00:47:23.200
+person I feel like. I'm very like I'm
+
+00:47:20.920 --> 00:47:25.440
+super motivated. A lot of people like
+
+00:47:23.200 --> 00:47:27.800
+don't want to do as much as I do, be
+
+00:47:25.440 --> 00:47:29.960
+like as risky as I am and I get it. I
+
+00:47:27.800 --> 00:47:32.560
+100% understand the I want to live a
+
+00:47:29.960 --> 00:47:34.640
+good stable life. I totally get it. And
+
+00:47:32.560 --> 00:47:38.080
+my wife is more on that line, too.
+
+00:47:34.640 --> 00:47:40.440
+So it's it's it's you know,
+
+00:47:38.080 --> 00:47:42.480
+who can you talk to that understands?
+
+00:47:40.440 --> 00:47:44.720
+And I'm I am now I I hired a business
+
+00:47:42.480 --> 00:47:46.920
+coach. I'm talking to a mentor through
+
+00:47:44.720 --> 00:47:48.960
+score the SBA program, which is
+
+00:47:46.920 --> 00:47:51.280
+fantastic by the way. It's free.
+
+00:47:48.960 --> 00:47:52.520
+And it's it's helpful. Not that you
+
+00:47:51.280 --> 00:47:54.400
+know, they're running my business, but
+
+00:47:52.520 --> 00:47:56.240
+it's nice to say hey, I got an idea, you
+
+00:47:54.400 --> 00:47:57.359
+know, I got this marketing idea. Let me
+
+00:47:56.240 --> 00:47:58.400
+bounce it off you. What do you think?
+
+00:47:57.359 --> 00:47:59.840
+And they're like
+
+00:47:58.400 --> 00:48:01.200
+and I did it.
+
+00:47:59.840 --> 00:48:03.440
+Don't do it. You're like okay, you just
+
+00:48:01.200 --> 00:48:06.280
+saved me three grand, you know?
+
+00:48:03.440 --> 00:48:09.760
+So find people earlier than you think
+
+00:48:06.280 --> 00:48:11.440
+you need them. Great, Zach. And on the
+
+00:48:09.760 --> 00:48:13.200
+finances of the business, we've heard
+
+00:48:11.440 --> 00:48:15.400
+you say a couple times that it was too
+
+00:48:13.200 --> 00:48:17.320
+good to be true or that it that the
+
+00:48:15.400 --> 00:48:18.640
+purchase price for the earnings, the
+
+00:48:17.320 --> 00:48:20.240
+reported earnings or the claimed
+
+00:48:18.640 --> 00:48:21.200
+earnings
+
+00:48:20.240 --> 00:48:23.640
+too good to be true.
+
+00:48:21.200 --> 00:48:26.120
+>> Right. So what did you what did you find
+
+00:48:23.640 --> 00:48:28.200
+about the actual earnings and revenue of
+
+00:48:26.120 --> 00:48:29.520
+this business when you got in there?
+
+00:48:28.200 --> 00:48:31.520
+Day one.
+
+00:48:29.520 --> 00:48:33.040
+It was quiet. Phones were not ringing.
+
+00:48:31.520 --> 00:48:34.440
+Nothing was happening. My guys were
+
+00:48:33.040 --> 00:48:36.600
+going home early.
+
+00:48:34.440 --> 00:48:38.920
+And it was it was like that for months
+
+00:48:36.600 --> 00:48:42.160
+several months. I would you know, just
+
+00:48:38.920 --> 00:48:44.680
+sit waiting what do I do? This guy never
+
+00:48:42.160 --> 00:48:46.400
+advertised once in 40 years. He was a
+
+00:48:44.680 --> 00:48:48.160
+part of the Chamber of Commerce, you
+
+00:48:46.400 --> 00:48:49.880
+know, he'd sometimes network, but it was
+
+00:48:48.160 --> 00:48:51.840
+all word of mouth.
+
+00:48:49.880 --> 00:48:54.200
+I'm you know, I got 150 grand in the
+
+00:48:51.840 --> 00:48:55.680
+bank from the bank and these are
+
+00:48:54.200 --> 00:48:57.053
+accounts receivables. Not Okay, so maybe
+
+00:48:55.680 --> 00:48:57.800
+not 150 it's close, right?
+
+00:48:57.053 --> 00:48:59.680
+>> [laughter]
+
+00:48:57.800 --> 00:49:01.640
+>> So I was like what do I do with it? How
+
+00:48:59.680 --> 00:49:04.400
+do I how do I get work? And that was a
+
+00:49:01.640 --> 00:49:07.840
+big stressor of mine, you know? Yeah.
+
+00:49:04.400 --> 00:49:11.120
+>> Having having this huge debt service. I
+
+00:49:07.840 --> 00:49:12.774
+have over $100,000 in overhead a month.
+
+00:49:11.120 --> 00:49:13.800
+And that's new to me,
+
+00:49:12.774 --> 00:49:15.080
+>> [laughter]
+
+00:49:13.800 --> 00:49:17.520
+>> you know? And I got all these guys that
+
+00:49:15.080 --> 00:49:19.960
+need a paycheck, you know? I got these
+
+00:49:17.520 --> 00:49:21.840
+So who who do I call? How do I get
+
+00:49:19.960 --> 00:49:23.800
+people to call me? So I spent a lot of
+
+00:49:21.840 --> 00:49:25.000
+money on marketing. Like I like I said,
+
+00:49:23.800 --> 00:49:27.040
+if I had these people maybe I would have
+
+00:49:25.000 --> 00:49:28.480
+bounced ideas off them, but I spent I've
+
+00:49:27.040 --> 00:49:29.520
+done everything under the sun that you
+
+00:49:28.480 --> 00:49:31.040
+could think of. And I've learned what
+
+00:49:29.520 --> 00:49:32.200
+works and what doesn't. A lot of it
+
+00:49:31.040 --> 00:49:34.320
+doesn't.
+
+00:49:32.200 --> 00:49:36.560
+I I wasted a lot of money.
+
+00:49:34.320 --> 00:49:38.440
+Um so And and what and you're talking
+
+00:49:36.560 --> 00:49:40.520
+about putting stuff putting
+
+00:49:38.440 --> 00:49:43.720
+Google Ads and social media ads
+
+00:49:40.520 --> 00:49:45.520
+>> Meta Ads, YouTube, flyers, um
+
+00:49:43.720 --> 00:49:47.480
+in person, you know, just driving
+
+00:49:45.520 --> 00:49:49.280
+around, talking to people, networking,
+
+00:49:47.480 --> 00:49:50.200
+different groups, everything.
+
+00:49:49.280 --> 00:49:52.720
+>> Community barbecues?
+
+00:49:50.200 --> 00:49:52.720
+>> Yes.
+
+00:49:53.560 --> 00:49:56.000
+What?
+
+00:49:53.840 --> 00:49:57.920
+>> Tell us that story. So we had a 4th of
+
+00:49:56.000 --> 00:49:59.480
+July barbecue. This was
+
+00:49:57.920 --> 00:50:01.680
+4 months into owning the business. So we
+
+00:49:59.480 --> 00:50:03.360
+knew nobody. Like we didn't definitely
+
+00:50:01.680 --> 00:50:04.600
+not outside of the business because we
+
+00:50:03.360 --> 00:50:05.840
+had no time. We didn't do anything with
+
+00:50:04.600 --> 00:50:07.080
+anybody.
+
+00:50:05.840 --> 00:50:08.480
+So we threw this barbecue. We're like,
+
+00:50:07.080 --> 00:50:10.440
+we're going to have so many people. We
+
+00:50:08.480 --> 00:50:12.880
+got 100 chairs. We got tables. We got
+
+00:50:10.440 --> 00:50:14.160
+cornhole, free beer. I got my grill from
+
+00:50:12.880 --> 00:50:16.080
+my home. So we're like, this will be
+
+00:50:14.160 --> 00:50:17.560
+great. Community American flags
+
+00:50:16.080 --> 00:50:19.840
+everywhere. It was sweet. I thought it
+
+00:50:17.560 --> 00:50:22.080
+was good. Nobody showed up. Sorry.
+
+00:50:19.840 --> 00:50:23.480
+Sorry. One person showed up with her
+
+00:50:22.080 --> 00:50:25.360
+husband. And it was
+
+00:50:23.480 --> 00:50:26.560
+>> Literally. Literally one person. And it
+
+00:50:25.360 --> 00:50:27.000
+was so awkward, dude.
+
+00:50:26.560 --> 00:50:28.920
+>> god.
+
+00:50:27.000 --> 00:50:30.600
+>> It was so bad. I felt
+
+00:50:28.920 --> 00:50:32.440
+for the first time in my life, I felt
+
+00:50:30.600 --> 00:50:34.600
+awkward. I was sitting there and I'm
+
+00:50:32.440 --> 00:50:35.800
+like, dude, what do I say? How do I tell
+
+00:50:34.600 --> 00:50:37.280
+cuz she's a customer that we did work
+
+00:50:35.800 --> 00:50:38.920
+for like 2 weeks ago. We're like, hey,
+
+00:50:37.280 --> 00:50:41.800
+we got this barbecue. It's going to be
+
+00:50:38.920 --> 00:50:43.360
+sick. Like come by. It's going to be It
+
+00:50:41.800 --> 00:50:45.120
+was going to be fun. Everybody's coming.
+
+00:50:43.360 --> 00:50:46.880
+ nobody came. It was my family.
+
+00:50:45.120 --> 00:50:47.750
+We were eating macaroni, just hanging
+
+00:50:46.880 --> 00:50:48.440
+out.
+
+00:50:47.750 --> 00:50:50.440
+>> [laughter]
+
+00:50:48.440 --> 00:50:52.800
+>> And did employees didn't come either?
+
+00:50:50.440 --> 00:50:53.880
+Sorry, they did. Yeah. Most of them did.
+
+00:50:52.800 --> 00:50:56.480
+Some of them brought their kids and
+
+00:50:53.880 --> 00:50:57.960
+stuff. So they stayed I I feel like it
+
+00:50:56.480 --> 00:50:59.680
+was a little obligatory. They probably
+
+00:50:57.960 --> 00:51:01.280
+didn't want to be there. Some a couple
+
+00:50:59.680 --> 00:51:03.120
+did, but most probably was like, oh, the
+
+00:51:01.280 --> 00:51:05.520
+boss is doing this thing, you know. Let
+
+00:51:03.120 --> 00:51:08.600
+me just Let me stay for a half an hour.
+
+00:51:05.520 --> 00:51:09.520
+So yeah, it didn't last, but yeah, man,
+
+00:51:08.600 --> 00:51:11.920
+this thing was
+
+00:51:09.520 --> 00:51:14.000
+good. No, it's funny because I start I
+
+00:51:11.920 --> 00:51:16.000
+started TikToking around that time. And
+
+00:51:14.000 --> 00:51:17.680
+I posted this video. I made a little
+
+00:51:16.000 --> 00:51:19.200
+mashup of what happened.
+
+00:51:17.680 --> 00:51:20.880
+And I got like hundreds of thousands of
+
+00:51:19.200 --> 00:51:22.480
+views, comments saying like, no, we
+
+00:51:20.880 --> 00:51:25.560
+would have came. You should have told
+
+00:51:22.480 --> 00:51:26.800
+us. So it kind of was
+
+00:51:25.560 --> 00:51:29.160
+our I mean, it was our fault. We didn't
+
+00:51:26.800 --> 00:51:31.320
+put it out like we should have. And it
+
+00:51:29.160 --> 00:51:33.360
+we we could have a pretty sweet barbecue
+
+00:51:31.320 --> 00:51:35.520
+right now. I I'd be confident I can get
+
+00:51:33.360 --> 00:51:37.160
+enough people to where it'd be fun. But
+
+00:51:35.520 --> 00:51:39.520
+it's that like we've never done it. You
+
+00:51:37.160 --> 00:51:40.920
+know, how do we do this? We You know, we
+
+00:51:39.520 --> 00:51:42.680
+gave a Chamber of Commerce 100 bucks.
+
+00:51:40.920 --> 00:51:44.760
+They put it on the website. Oh, 5,000
+
+00:51:42.680 --> 00:51:46.840
+people get our newsletter. Whatever.
+
+00:51:44.760 --> 00:51:48.480
+Zero, right? Zero. So this lady came. I
+
+00:51:46.840 --> 00:51:50.760
+didn't know what to say to her. But she
+
+00:51:48.480 --> 00:51:51.960
+was sweet. Yeah, she was so nice. And
+
+00:51:50.760 --> 00:51:52.960
+her husband like trying to make
+
+00:51:51.960 --> 00:51:54.480
+conversation. He's like, yeah, I'm a
+
+00:51:52.960 --> 00:51:56.920
+veteran, too. And I'm just like, you can
+
+00:51:54.480 --> 00:51:58.720
+see my face. I'm not happy.
+
+00:51:56.920 --> 00:52:00.520
+I couldn't help it. I was like, damn,
+
+00:51:58.720 --> 00:52:03.040
+this sucks, dude.
+
+00:52:00.520 --> 00:52:05.440
+I felt bad, but very sweet people. Very
+
+00:52:03.040 --> 00:52:06.720
+sweet people. Well, nice of you to share
+
+00:52:05.440 --> 00:52:08.080
+that with us, Zach. I'm sure that would
+
+00:52:06.720 --> 00:52:08.720
+have been That would have been brutal.
+
+00:52:08.080 --> 00:52:10.600
+Um
+
+00:52:08.720 --> 00:52:12.240
+I kind of I kind of do want to encourage
+
+00:52:10.600 --> 00:52:14.040
+you to take another stab at it this this
+
+00:52:12.240 --> 00:52:15.200
+coming 4th of July. I mean
+
+00:52:14.040 --> 00:52:15.800
+Oh, you were you're going to. You're
+
+00:52:15.200 --> 00:52:16.760
+definitely going to do it.
+
+00:52:15.800 --> 00:52:19.000
+>> My thing is I want to have like a
+
+00:52:16.760 --> 00:52:20.600
+Veterans Day party. I want to have a big
+
+00:52:19.000 --> 00:52:22.160
+Veterans Day where you can invite
+
+00:52:20.600 --> 00:52:23.800
+anybody, but specifically veterans. A
+
+00:52:22.160 --> 00:52:25.080
+lot of veterans are here. And it's just
+
+00:52:23.800 --> 00:52:26.560
+a get-together, you know, a community
+
+00:52:25.080 --> 00:52:27.800
+get-together. It's not about electrical
+
+00:52:26.560 --> 00:52:29.880
+work. It's not about business. It's just
+
+00:52:27.800 --> 00:52:33.680
+about like community.
+
+00:52:29.880 --> 00:52:35.160
+Yeah. Yeah, great. Um okay, back to the
+
+00:52:33.680 --> 00:52:37.160
+phone is actually not ringing. You're
+
+00:52:35.160 --> 00:52:38.760
+not getting any inbound. You're pouring
+
+00:52:37.160 --> 00:52:40.680
+money into marketing. A lot of it's not
+
+00:52:38.760 --> 00:52:41.000
+working. So how do you how do you fix
+
+00:52:40.680 --> 00:52:43.080
+that?
+
+00:52:41.000 --> 00:52:45.600
+>> So I drove around. I didn't know what to
+
+00:52:43.080 --> 00:52:47.600
+do. I I talked to anybody and everybody
+
+00:52:45.600 --> 00:52:49.720
+that would listen to me. I I got
+
+00:52:47.600 --> 00:52:51.560
+marketing material and I passed them
+
+00:52:49.720 --> 00:52:52.640
+around.
+
+00:52:51.560 --> 00:52:54.680
+And I was so frustrated because it
+
+00:52:52.640 --> 00:52:55.800
+wasn't working. Immediately. It wasn't
+
+00:52:54.680 --> 00:52:57.320
+like
+
+00:52:55.800 --> 00:52:58.751
+here's a pamphlet. They're like, cool.
+
+00:52:57.320 --> 00:52:59.520
+Here's a generator work.
+
+00:52:58.751 --> 00:53:00.320
+>> [laughter]
+
+00:52:59.520 --> 00:53:02.200
+>> It didn't work.
+
+00:53:00.320 --> 00:53:03.640
+>> It doesn't work like that? It did It's
+
+00:53:02.200 --> 00:53:05.920
+funny because
+
+00:53:03.640 --> 00:53:08.120
+last month, I got a call from this RV
+
+00:53:05.920 --> 00:53:10.120
+park that I I passed out flyers to 6
+
+00:53:08.120 --> 00:53:11.800
+months ago. And we're doing work for
+
+00:53:10.120 --> 00:53:13.840
+them. They have like 300 lots. It just
+
+00:53:11.800 --> 00:53:15.240
+it takes time. And that's that happens
+
+00:53:13.840 --> 00:53:17.480
+all the time. What do they say on
+
+00:53:15.240 --> 00:53:19.200
+average? 3% of people are ready to buy?
+
+00:53:17.480 --> 00:53:20.840
+So it's it's a numbers game and I knew
+
+00:53:19.200 --> 00:53:24.160
+that. I knew that, but I couldn't
+
+00:53:20.840 --> 00:53:26.480
+produce the numbers maybe that I needed.
+
+00:53:24.160 --> 00:53:27.640
+Um I drove around But but but on the but
+
+00:53:26.480 --> 00:53:29.720
+on the other hand, Zach, part of the
+
+00:53:27.640 --> 00:53:31.600
+reason we buy business is because the
+
+00:53:29.720 --> 00:53:34.200
+phone should already be ringing. You've
+
+00:53:31.600 --> 00:53:35.680
+got stickers in the electrical panels of
+
+00:53:34.200 --> 00:53:37.600
+hundreds, maybe thousands of people
+
+00:53:35.680 --> 00:53:40.120
+around the area. Why wasn't that
+
+00:53:37.600 --> 00:53:41.680
+generating inbound? I didn't
+
+00:53:40.120 --> 00:53:44.400
+I don't know.
+
+00:53:41.680 --> 00:53:46.320
+Um you know, I got suspicions, but I
+
+00:53:44.400 --> 00:53:48.320
+don't know ultimately. You can easily
+
+00:53:46.320 --> 00:53:50.760
+say like, the economy sucks, but it's
+
+00:53:48.320 --> 00:53:51.840
+such a cop-out. It's such a cop-out. I
+
+00:53:50.760 --> 00:53:52.960
+get people that come in here all the
+
+00:53:51.840 --> 00:53:54.480
+time for interviews that are like, oh,
+
+00:53:52.960 --> 00:53:56.320
+my company's going out of business. I
+
+00:53:54.480 --> 00:53:58.280
+need a new job. And I'm like, damn, must
+
+00:53:56.320 --> 00:53:59.920
+suck. But there's also company over
+
+00:53:58.280 --> 00:54:02.280
+there that's making a ton of money.
+
+00:53:59.920 --> 00:54:03.560
+Like don't blame the economy. What are
+
+00:54:02.280 --> 00:54:06.440
+you doing? What's your strategy? And if
+
+00:54:03.560 --> 00:54:08.560
+you're not making money, pivot. Okay. So
+
+00:54:06.440 --> 00:54:10.400
+yeah, it was tough.
+
+00:54:08.560 --> 00:54:12.359
+Okay. And so then how did you how did
+
+00:54:10.400 --> 00:54:13.800
+you fix it?
+
+00:54:12.359 --> 00:54:15.440
+Just kept hustling and eventually the
+
+00:54:13.800 --> 00:54:16.880
+phone started ringing or was there was
+
+00:54:15.440 --> 00:54:18.320
+there a silver bullet? It wasn't a
+
+00:54:16.880 --> 00:54:19.600
+silver bullet. It was a little bit of
+
+00:54:18.320 --> 00:54:22.400
+everything.
+
+00:54:19.600 --> 00:54:24.359
+Um it was uh it's still there's still no
+
+00:54:22.400 --> 00:54:26.240
+silver bullet. It's
+
+00:54:24.359 --> 00:54:29.000
+I'm getting there. I'm I'm close. I can
+
+00:54:26.240 --> 00:54:30.600
+feel it. I'm close. I'm coming close to
+
+00:54:29.000 --> 00:54:33.080
+a strategy.
+
+00:54:30.600 --> 00:54:34.720
+But there's it's it's it's just waiting.
+
+00:54:33.080 --> 00:54:35.920
+I mean, it's basically what he did. I
+
+00:54:34.720 --> 00:54:37.359
+didn't know what else to do. I was doing
+
+00:54:35.920 --> 00:54:38.800
+Facebook ads. I was spending so much
+
+00:54:37.359 --> 00:54:41.520
+money on ads.
+
+00:54:38.800 --> 00:54:44.040
+I wanted work so bad. I felt so bad
+
+00:54:41.520 --> 00:54:44.800
+sending my guys home at 11:00. You know?
+
+00:54:44.040 --> 00:54:46.040
+Yeah. Yeah.
+
+00:54:44.800 --> 00:54:48.240
+>> How do I look them in the face and say,
+
+00:54:46.040 --> 00:54:50.760
+I just bought this business. By the way,
+
+00:54:48.240 --> 00:54:51.640
+you got 20 hours this week.
+
+00:54:50.760 --> 00:54:53.720
+Yeah.
+
+00:54:51.640 --> 00:54:55.120
+And it wasn't a seasonality thing. It
+
+00:54:53.720 --> 00:54:57.200
+wasn't just that you bought into the low
+
+00:54:55.120 --> 00:54:58.880
+season and through the natural
+
+00:54:57.200 --> 00:55:00.400
+progression of months, business was
+
+00:54:58.880 --> 00:55:03.400
+going to come back.
+
+00:55:00.400 --> 00:55:05.240
+I don't know. This is my first cycle. So
+
+00:55:03.400 --> 00:55:08.040
+we bought it last March. You know, what
+
+00:55:05.240 --> 00:55:10.680
+is it? April. So it's our first year. So
+
+00:55:08.040 --> 00:55:12.480
+over time we're going to see because I
+
+00:55:10.680 --> 00:55:15.560
+I don't trust the records I have.
+
+00:55:12.480 --> 00:55:18.600
+I don't know um historically what's
+
+00:55:15.560 --> 00:55:20.320
+happened month to month.
+
+00:55:18.600 --> 00:55:22.280
+Uh what do you what do you mean? Cuz
+
+00:55:20.320 --> 00:55:24.560
+it's all paper and you haven't you just
+
+00:55:22.280 --> 00:55:26.960
+it's not easy to analyze or I can
+
+00:55:24.560 --> 00:55:29.440
+analyze it. It's very black and white. I
+
+00:55:26.960 --> 00:55:32.000
+just don't trust it.
+
+00:55:29.440 --> 00:55:33.359
+Oh. You know, I don't I don't know. And
+
+00:55:32.000 --> 00:55:35.560
+I don't want to I don't I don't want to
+
+00:55:33.359 --> 00:55:36.640
+lean on that for my data. I want to make
+
+00:55:35.560 --> 00:55:38.320
+new data. I want to figure out my own
+
+00:55:36.640 --> 00:55:40.520
+stuff that I know is legit.
+
+00:55:38.320 --> 00:55:43.520
+And yeah, so I I don't have that data. I
+
+00:55:40.520 --> 00:55:45.640
+know like macro level, April is peak
+
+00:55:43.520 --> 00:55:48.359
+season and then it slowly drops off. So
+
+00:55:45.640 --> 00:55:49.800
+we were in a good time. Oh, yeah.
+
+00:55:48.359 --> 00:55:53.320
+>> It was a You bought it right at the the
+
+00:55:49.800 --> 00:55:54.600
+peak. Yeah. Yeah. And I you know,
+
+00:55:53.320 --> 00:55:56.120
+sit down with the seller. You know,
+
+00:55:54.600 --> 00:55:57.520
+what's going on? He's like,
+
+00:55:56.120 --> 00:55:59.160
+I don't know.
+
+00:55:57.520 --> 00:56:00.520
+I don't know. Phones aren't ringing. I
+
+00:55:59.160 --> 00:56:03.440
+don't know what to tell you.
+
+00:56:00.520 --> 00:56:05.428
+All right. Go like keep your 1.5. Like
+
+00:56:03.440 --> 00:56:07.080
+drink a margarita. I'll fix this.
+
+00:56:05.428 --> 00:56:08.800
+>> [laughter]
+
+00:56:07.080 --> 00:56:09.760
+>> Yeah. So how did that relationship with
+
+00:56:08.800 --> 00:56:11.760
+him
+
+00:56:09.760 --> 00:56:13.720
+evolve or devolve?
+
+00:56:11.760 --> 00:56:16.680
+>> my landlord.
+
+00:56:13.720 --> 00:56:19.520
+That's it. Um it didn't it didn't go
+
+00:56:16.680 --> 00:56:21.280
+well. We've had some arguments.
+
+00:56:19.520 --> 00:56:23.113
+Many arguments. Um
+
+00:56:21.280 --> 00:56:23.359
+there was times it was just
+
+00:56:23.113 --> 00:56:26.120
+>> [snorts]
+
+00:56:23.359 --> 00:56:27.280
+>> it it it it wasn't good, man. Um
+
+00:56:26.120 --> 00:56:29.560
+For instance, you know, there's times
+
+00:56:27.280 --> 00:56:31.680
+where he wanted to I wanted him to take
+
+00:56:29.560 --> 00:56:32.520
+me on an estimate. There was I didn't
+
+00:56:31.680 --> 00:56:33.600
+know what estimating. I didn't know
+
+00:56:32.520 --> 00:56:34.600
+anything. I'm like, dude, teach me
+
+00:56:33.600 --> 00:56:36.800
+everything. Nothing.
+
+00:56:34.600 --> 00:56:37.720
+>> He says no to that request because that
+
+00:56:36.800 --> 00:56:39.120
+seems like
+
+00:56:37.720 --> 00:56:40.520
+>> yes and then he would just go and not
+
+00:56:39.120 --> 00:56:41.120
+tell me when he's going.
+
+00:56:40.520 --> 00:56:43.120
+I see.
+
+00:56:41.120 --> 00:56:45.840
+>> Yeah. So he would say I would I said,
+
+00:56:43.120 --> 00:56:47.280
+yeah, there's a generator um
+
+00:56:45.840 --> 00:56:48.280
+estimate for a car dealership. I was
+
+00:56:47.280 --> 00:56:50.720
+like, dude, I really want to meet these
+
+00:56:48.280 --> 00:56:52.560
+people, you know. I want that account.
+
+00:56:50.720 --> 00:56:53.640
+Okay, for sure, for sure. No, I didn't
+
+00:56:52.560 --> 00:56:55.320
+get to go.
+
+00:56:53.640 --> 00:56:57.280
+And then when I did,
+
+00:56:55.320 --> 00:56:59.200
+it I I didn't learn much. I felt like I
+
+00:56:57.280 --> 00:57:01.160
+didn't. So I stopped. I stopped even
+
+00:56:59.200 --> 00:57:03.320
+trying, right? I was like, I'll figure
+
+00:57:01.160 --> 00:57:05.240
+this out on my own. I don't care. And so
+
+00:57:03.320 --> 00:57:06.960
+the relationship
+
+00:57:05.240 --> 00:57:08.520
+went downhill and basically
+
+00:57:06.960 --> 00:57:11.040
+>> went downhill.
+
+00:57:08.520 --> 00:57:12.120
+Uh a lot. Yeah, he would like
+
+00:57:11.040 --> 00:57:16.040
+he would
+
+00:57:12.120 --> 00:57:18.080
+put USB outlets in his closet and say,
+
+00:57:16.040 --> 00:57:19.720
+I think your guys stole some material.
+
+00:57:18.080 --> 00:57:21.480
+Like he's trying to like drive a wedge
+
+00:57:19.720 --> 00:57:22.760
+between it. It is
+
+00:57:21.480 --> 00:57:24.280
+you know,
+
+00:57:22.760 --> 00:57:25.640
+it's just very odd.
+
+00:57:24.280 --> 00:57:27.640
+Very odd. Some very
+
+00:57:25.640 --> 00:57:30.000
+>> what how how do you deal with or how do
+
+00:57:27.640 --> 00:57:32.480
+you recommend people deal with
+
+00:57:30.000 --> 00:57:35.000
+a seller that they
+
+00:57:32.480 --> 00:57:36.920
+don't feel like they can trust or are
+
+00:57:35.000 --> 00:57:40.200
+are are don't like having around. It's
+
+00:57:36.920 --> 00:57:40.720
+just clearly a toxic relationship.
+
+00:57:40.200 --> 00:57:42.680
+Get rid of him.
+
+00:57:40.720 --> 00:57:44.440
+>> Just to ask him to You got to go. Is
+
+00:57:42.680 --> 00:57:45.840
+that what you eventually did? Yeah, I
+
+00:57:44.440 --> 00:57:47.359
+probably would have
+
+00:57:45.840 --> 00:57:48.600
+like fired him. In the contract, you
+
+00:57:47.359 --> 00:57:50.280
+could I could say, you know, go home.
+
+00:57:48.600 --> 00:57:51.359
+I'll pay you, but go home.
+
+00:57:50.280 --> 00:57:52.680
+Um
+
+00:57:51.359 --> 00:57:55.120
+do that.
+
+00:57:52.680 --> 00:57:56.359
+But really, if I'm being honest, I
+
+00:57:55.120 --> 00:57:58.280
+probably wouldn't I wouldn't have bought
+
+00:57:56.359 --> 00:58:01.720
+the business if I knew
+
+00:57:58.280 --> 00:58:02.880
+who the seller was. Real, you know?
+
+00:58:01.720 --> 00:58:04.920
+But I didn't know. I didn't know what I
+
+00:58:02.880 --> 00:58:06.920
+was buying. I'm happy now. Obviously,
+
+00:58:04.920 --> 00:58:08.640
+I'm happy. It's like you have a
+
+00:58:06.920 --> 00:58:09.920
+a kid at 16. You're not happy when
+
+00:58:08.640 --> 00:58:12.000
+you're pregnant, but like you have the
+
+00:58:09.920 --> 00:58:13.810
+kid. You love the kid, right?
+
+00:58:12.000 --> 00:58:15.080
+One of those.
+
+00:58:13.810 --> 00:58:17.080
+>> [laughter]
+
+00:58:15.080 --> 00:58:20.120
+>> One of those. Speaking of how your
+
+00:58:17.080 --> 00:58:22.080
+psyche is now, things are going well.
+
+00:58:20.120 --> 00:58:24.560
+You despite the fact that you struggled
+
+00:58:22.080 --> 00:58:28.400
+to get to generate demand for the
+
+00:58:24.560 --> 00:58:29.960
+business. In fact, you ended last year
+
+00:58:28.400 --> 00:58:32.400
+at what you think was higher revenue
+
+00:58:29.960 --> 00:58:34.960
+than than your prior, right?
+
+00:58:32.400 --> 00:58:37.359
+>> Mhm, it was 1.73. Yeah. He He closed it
+
+00:58:34.960 --> 00:58:39.000
+at 1.3 last year. I dude, I hustled my
+
+00:58:37.359 --> 00:58:41.840
+butt off. I mean, the phone was not
+
+00:58:39.000 --> 00:58:43.720
+ringing, but I was I was making sure
+
+00:58:41.840 --> 00:58:45.600
+something happened, right? And it was
+
+00:58:43.720 --> 00:58:48.160
+working. We upped our prices. That's
+
+00:58:45.600 --> 00:58:50.640
+another thing that helped a lot. Um and
+
+00:58:48.160 --> 00:58:53.400
+I I I kept my guys busy for the most
+
+00:58:50.640 --> 00:58:57.200
+part. And it worked out ultimately at
+
+00:58:53.400 --> 00:58:58.640
+1.7. We're still here. Right? We became
+
+00:58:57.200 --> 00:59:00.160
+>> Well, you're not only still here, you're
+
+00:58:58.640 --> 00:59:01.600
+you're doing better than you you It
+
+00:59:00.160 --> 00:59:02.720
+seems like the business is in much
+
+00:59:01.600 --> 00:59:05.400
+better shape than when you bought it.
+
+00:59:02.720 --> 00:59:08.560
+Not only is revenue higher, the culture
+
+00:59:05.400 --> 00:59:10.200
+is more and more yours. And you've
+
+00:59:08.560 --> 00:59:11.600
+turned over people who were not going to
+
+00:59:10.200 --> 00:59:13.040
+agree with your culture. And now you
+
+00:59:11.600 --> 00:59:14.320
+have people you said as you said
+
+00:59:13.040 --> 00:59:18.480
+earlier, you have a crew that you're
+
+00:59:14.320 --> 00:59:20.280
+really pretty psyched about. So you I on
+
+00:59:18.480 --> 00:59:21.960
+the one hand, I hear like last year was
+
+00:59:20.280 --> 00:59:23.920
+this brutal struggle and the phone
+
+00:59:21.960 --> 00:59:25.520
+wasn't ringing and failed marketing and
+
+00:59:23.920 --> 00:59:27.880
+pouring money into that, a lot of
+
+00:59:25.520 --> 00:59:29.800
+turnover. On the other hand,
+
+00:59:27.880 --> 00:59:31.440
+it seems like where you emerged was a
+
+00:59:29.800 --> 00:59:33.320
+really is a really good place. It was
+
+00:59:31.440 --> 00:59:35.440
+also cyclical. There was some months
+
+00:59:33.320 --> 00:59:36.840
+hurricane season big here. We did over
+
+00:59:35.440 --> 00:59:39.800
+200,000
+
+00:59:36.840 --> 00:59:41.960
+made my July August was very similar. So
+
+00:59:39.800 --> 00:59:43.360
+those are it's our bread and butter and
+
+00:59:41.960 --> 00:59:45.600
+like I can sell generators like no
+
+00:59:43.360 --> 00:59:47.040
+other. I mean that's my thing, dude. So
+
+00:59:45.600 --> 00:59:48.240
+we were doing that a lot and it was
+
+00:59:47.040 --> 00:59:49.600
+working and we still are. We're going to
+
+00:59:48.240 --> 00:59:50.800
+do that again.
+
+00:59:49.600 --> 00:59:52.280
+Uh but it was cyclical. So there was
+
+00:59:50.800 --> 00:59:54.040
+some months that was very low. Some
+
+00:59:52.280 --> 00:59:55.360
+months that are high, you know. It was
+
+00:59:54.040 --> 00:59:57.160
+It was rough.
+
+00:59:55.360 --> 00:59:59.480
+But yeah, no, we're we're doing great.
+
+00:59:57.160 --> 01:00:00.840
+We're um we're crushing it right now and
+
+00:59:59.480 --> 01:00:03.760
+we're rebranding and it's like a it's
+
+01:00:00.840 --> 01:00:06.280
+like a it's going to be sick.
+
+01:00:03.760 --> 01:00:08.840
+Rebranding. Talk Talk us Talk to us
+
+01:00:06.280 --> 01:00:10.920
+about that because that's usually one of
+
+01:00:08.840 --> 01:00:13.760
+the things that we buy a business for is
+
+01:00:10.920 --> 01:00:15.240
+the brand name recognition. So but
+
+01:00:13.760 --> 01:00:16.440
+you're getting
+
+01:00:15.240 --> 01:00:16.760
+tossing that out. So talk us through
+
+01:00:16.440 --> 01:00:18.760
+that.
+
+01:00:16.760 --> 01:00:20.680
+>> Highly controversial thing to do.
+
+01:00:18.760 --> 01:00:22.240
+Uh a lot of people do not agree with me
+
+01:00:20.680 --> 01:00:25.040
+and rightly so. I understand where
+
+01:00:22.240 --> 01:00:26.240
+they're coming from. However,
+
+01:00:25.040 --> 01:00:28.560
+I don't want it.
+
+01:00:26.240 --> 01:00:30.840
+I want my own. I want my own business
+
+01:00:28.560 --> 01:00:32.880
+and I feel like it's not fully mine
+
+01:00:30.840 --> 01:00:34.000
+because that's not my name, you know?
+
+01:00:32.880 --> 01:00:35.280
+It's his name? It's his It's called
+
+01:00:34.000 --> 01:00:36.760
+>> What's the name of the business? Right
+
+01:00:35.280 --> 01:00:38.720
+here is Jeff Masters Electric and we
+
+01:00:36.760 --> 01:00:40.720
+still go by that right now. All right,
+
+01:00:38.720 --> 01:00:42.440
+we're slowly rebranding. I just got a
+
+01:00:40.720 --> 01:00:44.000
+new website. Um
+
+01:00:42.440 --> 01:00:45.400
+There's a lot that's going on.
+
+01:00:44.000 --> 01:00:47.960
+I just got a new website, but it's like
+
+01:00:45.400 --> 01:00:49.200
+it's for this business cuz I was like I
+
+01:00:47.960 --> 01:00:51.080
+did it before we rebranded. So I was
+
+01:00:49.200 --> 01:00:52.322
+like, hey, by the way, Yeah. new website
+
+01:00:51.080 --> 01:00:53.240
+again.
+
+01:00:52.322 --> 01:00:54.560
+>> [laughter]
+
+01:00:53.240 --> 01:00:57.000
+>> But yeah, it's going to be it's going to
+
+01:00:54.560 --> 01:00:59.160
+be cool. We just got our first new van
+
+01:00:57.000 --> 01:01:01.400
+delivered yesterday. It's electric. It's
+
+01:00:59.160 --> 01:01:03.000
+massive. It's just I bought it because
+
+01:01:01.400 --> 01:01:05.200
+it's a billboard. So it's going to be
+
+01:01:03.000 --> 01:01:06.720
+wrapped um and right now we have those
+
+01:01:05.200 --> 01:01:09.440
+like
+
+01:01:06.720 --> 01:01:11.120
+How do I say this? The white no window
+
+01:01:09.440 --> 01:01:13.080
+vans, right? With a couple like a
+
+01:01:11.120 --> 01:01:16.320
+handyman. It looks like a discount
+
+01:01:13.080 --> 01:01:18.280
+handyman and I hate it. Uniforms suck. I
+
+01:01:16.320 --> 01:01:20.280
+mean I could change it, but whatever.
+
+01:01:18.280 --> 01:01:21.600
+It just doesn't look
+
+01:01:20.280 --> 01:01:23.760
+value.
+
+01:01:21.600 --> 01:01:25.840
+And that's what I want. I want a company
+
+01:01:23.760 --> 01:01:28.280
+that is like prestigious almost, right?
+
+01:01:25.840 --> 01:01:30.080
+Like people respect and
+
+01:01:28.280 --> 01:01:32.760
+It's not like they don't respect cuz I
+
+01:01:30.080 --> 01:01:34.480
+We have an amazing electricians, but
+
+01:01:32.760 --> 01:01:37.040
+it's definitely that local like mom and
+
+01:01:34.480 --> 01:01:38.480
+pop they'll do it for cheap almost like
+
+01:01:37.040 --> 01:01:40.200
+kind of vibe, you know what I mean? And
+
+01:01:38.480 --> 01:01:41.640
+I don't I that's that's not me, you
+
+01:01:40.200 --> 01:01:43.280
+know? We're growing. It's going to be a
+
+01:01:41.640 --> 01:01:45.800
+completely different business. And do
+
+01:01:43.280 --> 01:01:47.760
+you So this is a interesting question.
+
+01:01:45.800 --> 01:01:49.600
+So So you have all of that, you have
+
+01:01:47.760 --> 01:01:52.360
+referral business, and you have all
+
+01:01:49.600 --> 01:01:53.920
+those stickers on all those panels.
+
+01:01:52.360 --> 01:01:56.720
+Um
+
+01:01:53.920 --> 01:01:59.360
+you do wonder like it is it Maybe it's
+
+01:01:56.720 --> 01:02:02.480
+just the phone number being everywhere.
+
+01:01:59.360 --> 01:02:06.040
+>> at with it. And maybe the Jeff Masters
+
+01:02:02.480 --> 01:02:07.960
+brand actually isn't that valuable. It's
+
+01:02:06.040 --> 01:02:10.400
+more like the phone number being on the
+
+01:02:07.960 --> 01:02:11.680
+side of all these panels. Of course
+
+01:02:10.400 --> 01:02:13.400
+although when you think about like the
+
+01:02:11.680 --> 01:02:16.280
+referral business that comes in, people
+
+01:02:13.400 --> 01:02:18.160
+probably refer to the business as
+
+01:02:16.280 --> 01:02:19.680
+Jeff Masters business. So that will be
+
+01:02:18.160 --> 01:02:21.440
+confusing. So you'll probably lose
+
+01:02:19.680 --> 01:02:23.400
+something there. So
+
+01:02:21.440 --> 01:02:24.800
+But it's interesting because you know, I
+
+01:02:23.400 --> 01:02:26.080
+think it's too simplistic to be like,
+
+01:02:24.800 --> 01:02:28.080
+well, part of the reason that you buy a
+
+01:02:26.080 --> 01:02:29.880
+business is for the brand recognition.
+
+01:02:28.080 --> 01:02:32.080
+Well, maybe the the brand, the actual
+
+01:02:29.880 --> 01:02:34.560
+name of the business isn't always so
+
+01:02:32.080 --> 01:02:35.720
+valuable. It's It's true. It's tough.
+
+01:02:34.560 --> 01:02:37.600
+It's a tough It was a tough decision,
+
+01:02:35.720 --> 01:02:38.880
+honestly. Um the phone number is
+
+01:02:37.600 --> 01:02:40.600
+important. That's kind of where I'm at
+
+01:02:38.880 --> 01:02:42.320
+with it, too, is it's the same phone
+
+01:02:40.600 --> 01:02:43.760
+number. We're going to reroute the
+
+01:02:42.320 --> 01:02:44.920
+emails as well. So we're still keeping
+
+01:02:43.760 --> 01:02:46.680
+the same email, but it's going to be
+
+01:02:44.920 --> 01:02:47.960
+forwarded to our new email. Every
+
+01:02:46.680 --> 01:02:49.840
+Everybody that comes in is still going
+
+01:02:47.960 --> 01:02:51.600
+to come to us, but it is going to be a
+
+01:02:49.840 --> 01:02:53.520
+learning process. There's going to I
+
+01:02:51.600 --> 01:02:55.480
+think it's going to be years. Um cuz
+
+01:02:53.520 --> 01:02:58.440
+people call us from years ago that they
+
+01:02:55.480 --> 01:02:59.960
+haven't seen us in a long time. So it's
+
+01:02:58.440 --> 01:03:02.640
+going to happen in 5 years for the
+
+01:02:59.960 --> 01:03:03.520
+person didn't know uh we changed. So I'm
+
+01:03:02.640 --> 01:03:07.040
+you know, I'm going to have to change my
+
+01:03:03.520 --> 01:03:08.320
+email footer like we changed everywhere.
+
+01:03:07.040 --> 01:03:10.840
+Everywhere and everywhere. I'm doing a
+
+01:03:08.320 --> 01:03:12.680
+marketing campaign. It's a whole thing
+
+01:03:10.840 --> 01:03:14.880
+and it sucks that, you know, we got to
+
+01:03:12.680 --> 01:03:16.920
+do that. But ultimately I know long term
+
+01:03:14.880 --> 01:03:18.240
+that's the move and I just like
+
+01:03:16.920 --> 01:03:20.360
+I'm happy with it. Like I think it looks
+
+01:03:18.240 --> 01:03:22.880
+cool and I you know, I want to rock it.
+
+01:03:20.360 --> 01:03:24.600
+Like honestly, dude, I don't wear this
+
+01:03:22.880 --> 01:03:26.920
+when I'm in the gym or when I go to Home
+
+01:03:24.600 --> 01:03:28.360
+Depot. Like
+
+01:03:26.920 --> 01:03:30.600
+I don't want There's some negative
+
+01:03:28.360 --> 01:03:31.760
+connotation as well as we've
+
+01:03:30.600 --> 01:03:34.360
+alluded to.
+
+01:03:31.760 --> 01:03:37.200
+We are the um county's electrical
+
+01:03:34.360 --> 01:03:38.800
+contractor now. So I won the bid to be
+
+01:03:37.200 --> 01:03:40.040
+the contractor for I think up to 3
+
+01:03:38.800 --> 01:03:42.160
+years.
+
+01:03:40.040 --> 01:03:44.320
+And we gave them it's like a flat labor
+
+01:03:42.160 --> 01:03:46.359
+rate, but we get we get business in. And
+
+01:03:44.320 --> 01:03:48.280
+when we had our first meeting, we had
+
+01:03:46.359 --> 01:03:51.000
+six, you know, head dudes from the
+
+01:03:48.280 --> 01:03:54.200
+utility and maintenance department.
+
+01:03:51.000 --> 01:03:55.680
+And the vibe was such that they expected
+
+01:03:54.200 --> 01:03:57.800
+the seller.
+
+01:03:55.680 --> 01:04:00.800
+They didn't know they that he sold it.
+
+01:03:57.800 --> 01:04:03.880
+Jeff Masters Electric bought or they won
+
+01:04:00.800 --> 01:04:06.560
+the bid. Not me. They have no idea. So I
+
+01:04:03.880 --> 01:04:09.000
+walk in with my wife and it was like a
+
+01:04:06.560 --> 01:04:10.720
+sigh of relief from them. And they they
+
+01:04:09.000 --> 01:04:12.760
+talked about it a little bit, you know,
+
+01:04:10.720 --> 01:04:14.880
+talked about like they knew him type
+
+01:04:12.760 --> 01:04:17.160
+stuff. So it is
+
+01:04:14.880 --> 01:04:19.120
+>> But wait, so even though he they had
+
+01:04:17.160 --> 01:04:20.640
+awarded him this contract, they weren't
+
+01:04:19.120 --> 01:04:21.960
+psyched about
+
+01:04:20.640 --> 01:04:22.480
+they weren't psyched about the business
+
+01:04:21.960 --> 01:04:24.280
+in the past.
+
+01:04:22.480 --> 01:04:25.960
+>> bidder. It's one of those.
+
+01:04:24.280 --> 01:04:28.720
+I see. Yeah, they have they have no say
+
+01:04:25.960 --> 01:04:30.400
+in it. It's just It's just bureaucracy.
+
+01:04:28.720 --> 01:04:32.080
+So they don't get to choose who they
+
+01:04:30.400 --> 01:04:34.200
+work with. It's
+
+01:04:32.080 --> 01:04:35.720
+contractual, you know?
+
+01:04:34.200 --> 01:04:36.640
+I think they're a little happy now, but
+
+01:04:35.720 --> 01:04:38.760
+yeah.
+
+01:04:36.640 --> 01:04:39.880
+Yeah, there's a lot of burned bridges.
+
+01:04:38.760 --> 01:04:41.359
+And that's another reason. Like yes,
+
+01:04:39.880 --> 01:04:42.760
+there is
+
+01:04:41.359 --> 01:04:45.240
+a lot of brand recognition, a lot of
+
+01:04:42.760 --> 01:04:47.120
+people that that that know this and call
+
+01:04:45.240 --> 01:04:48.960
+because they know it. They specifically
+
+01:04:47.120 --> 01:04:50.240
+search that name in Google. And we'll
+
+01:04:48.960 --> 01:04:52.200
+still have that. That'll still be a
+
+01:04:50.240 --> 01:04:54.359
+thing. It'll just be rerouted. But
+
+01:04:52.200 --> 01:04:56.520
+there's also a lot of people that don't
+
+01:04:54.359 --> 01:04:58.359
+work with us anymore. Don't want to work
+
+01:04:56.520 --> 01:04:59.880
+with us anymore.
+
+01:04:58.359 --> 01:05:01.359
+You know, go around to specific people
+
+01:04:59.880 --> 01:05:02.720
+who are like
+
+01:05:01.359 --> 01:05:04.240
+They will never work with you anymore,
+
+01:05:02.720 --> 01:05:06.480
+no matter what if that's the name, you
+
+01:05:04.240 --> 01:05:08.200
+know? And that's I think and I bet I can
+
+01:05:06.480 --> 01:05:09.120
+get it. It's a goal of mine. I'm going
+
+01:05:08.200 --> 01:05:12.320
+to get them.
+
+01:05:09.120 --> 01:05:14.480
+You know? New business.
+
+01:05:12.320 --> 01:05:17.120
+And what's the new the new brand? Uh
+
+01:05:14.480 --> 01:05:19.960
+it's called Mutts Electric, m u t t
+
+01:05:17.120 --> 01:05:22.040
+lightning bolt s and it's a play on my
+
+01:05:19.960 --> 01:05:22.920
+name, So is that that's the new logo?
+
+01:05:22.040 --> 01:05:25.120
+That's the new branding?
+
+01:05:22.920 --> 01:05:27.320
+>> logo. Um Oh, that's great. I can't see
+
+01:05:25.120 --> 01:05:28.840
+the I can't It's a little
+
+01:05:27.320 --> 01:05:30.359
+Oh, oh yeah, yeah. I couldn't see the
+
+01:05:28.840 --> 01:05:31.040
+apostrophe is lightning bolt, but that's
+
+01:05:30.359 --> 01:05:33.160
+great.
+
+01:05:31.040 --> 01:05:35.520
+>> little bit still. But it it I think it
+
+01:05:33.160 --> 01:05:37.200
+looks sweet. So I was drawing on my iPad
+
+01:05:35.520 --> 01:05:38.800
+for a year trying to figure this out. I
+
+01:05:37.200 --> 01:05:40.080
+was like, I feel like I should rebrand.
+
+01:05:38.800 --> 01:05:43.160
+I don't know, but I'm not in love with
+
+01:05:40.080 --> 01:05:44.240
+anything that I figured out. And
+
+01:05:43.160 --> 01:05:45.440
+I just I never pulled the trigger
+
+01:05:44.240 --> 01:05:47.760
+because I wasn't in love with it and I
+
+01:05:45.440 --> 01:05:48.880
+was like, if I'm not totally digging it,
+
+01:05:47.760 --> 01:05:51.720
+I'm not doing it cuz it's going to be
+
+01:05:48.880 --> 01:05:53.600
+such a headache. So then finally
+
+01:05:51.720 --> 01:05:55.440
+I came up with this and I was like,
+
+01:05:53.600 --> 01:05:56.720
+that's it, you know? That's it. I'm
+
+01:05:55.440 --> 01:05:59.280
+going to do that.
+
+01:05:56.720 --> 01:06:01.040
+You came up with the the
+
+01:05:59.280 --> 01:06:02.960
+logo. Mhm.
+
+01:06:01.040 --> 01:06:05.440
+Oh. Yeah, so it's Mutts and then there's
+
+01:06:02.960 --> 01:06:07.680
+electric here that isn't going to be on,
+
+01:06:05.440 --> 01:06:11.160
+you know, a lot of stuff. I think I I I
+
+01:06:07.680 --> 01:06:13.680
+just want it as a a symbol, right?
+
+01:06:11.160 --> 01:06:14.840
+Chase, not Chase Bank. So you're going
+
+01:06:13.680 --> 01:06:16.160
+to you're going to see the symbol
+
+01:06:14.840 --> 01:06:17.520
+everywhere and it's going to be
+
+01:06:16.160 --> 01:06:19.400
+ubiquitous. You're going to know it's an
+
+01:06:17.520 --> 01:06:20.640
+electrical company cuz you know Mutts.
+
+01:06:19.400 --> 01:06:22.240
+Doesn't need to say electrical and I
+
+01:06:20.640 --> 01:06:23.080
+think it looks pretty sweet just, you
+
+01:06:22.240 --> 01:06:25.400
+know, one word.
+
+01:06:23.080 --> 01:06:26.720
+>> Yeah. Yeah, and you were going for kind
+
+01:06:25.400 --> 01:06:28.960
+of vintage vibes.
+
+01:06:26.720 --> 01:06:32.080
+>> Yeah, I the whole the whole time while I
+
+01:06:28.960 --> 01:06:35.440
+was designing it was focused on 1950s,
+
+01:06:32.080 --> 01:06:37.800
+1960s aesthetic. We have a lot of old
+
+01:06:35.440 --> 01:06:38.720
+people where we're at and and on the
+
+01:06:37.800 --> 01:06:40.320
+other side of the state, Florida in
+
+01:06:38.720 --> 01:06:42.680
+general, you know what I mean? They call
+
+01:06:40.320 --> 01:06:44.640
+this area Heaven's Waiting Room.
+
+01:06:42.680 --> 01:06:47.720
+The average
+
+01:06:44.640 --> 01:06:51.040
+person in this county is 65 years old.
+
+01:06:47.720 --> 01:06:52.760
+So we do work for 90-year-olds. Um
+
+01:06:51.040 --> 01:06:54.720
+and so yeah, it's kind of like nostalgic
+
+01:06:52.760 --> 01:06:56.680
+for boomers, you know?
+
+01:06:54.720 --> 01:06:58.400
+I think it looks cool, but also like I
+
+01:06:56.680 --> 01:07:00.040
+know what I'm doing, you know? I think
+
+01:06:58.400 --> 01:07:02.160
+Mutts is a great
+
+01:07:00.040 --> 01:07:03.160
+Mutts So Mutts, yeah. It's a little
+
+01:07:02.160 --> 01:07:05.280
+confusing. I know people are like, well,
+
+01:07:03.160 --> 01:07:08.640
+is there a dog mascot? Which I totally
+
+01:07:05.280 --> 01:07:10.720
+understand, but like no.
+
+01:07:08.640 --> 01:07:12.600
+And I I assume Mutts is a nickname that
+
+01:07:10.720 --> 01:07:14.640
+you've had in life? Yeah, [snorts] my
+
+01:07:12.600 --> 01:07:16.960
+last name is Mutnik, you know? It's It's
+
+01:07:14.640 --> 01:07:19.240
+a play on that. I added two t's cuz
+
+01:07:16.960 --> 01:07:20.640
+people can't like pronounce it with one.
+
+01:07:19.240 --> 01:07:22.400
+And people would call me Mutt on in the
+
+01:07:20.640 --> 01:07:24.320
+Navy and stuff. So I figured short and
+
+01:07:22.400 --> 01:07:26.320
+sweet. I always I wanted it one or two
+
+01:07:24.320 --> 01:07:28.880
+syllables. I don't want a long name. I
+
+01:07:26.320 --> 01:07:31.160
+hate saying Jeff Masters Electric. It's
+
+01:07:28.880 --> 01:07:33.640
+too long. I hate So I wanted something
+
+01:07:31.160 --> 01:07:35.359
+short and sweet. Mutts Electric. Boom.
+
+01:07:33.640 --> 01:07:37.160
+Money.
+
+01:07:35.359 --> 01:07:38.840
+You know, Zach, one of the things that
+
+01:07:37.160 --> 01:07:41.800
+about you that is different than many of
+
+01:07:38.840 --> 01:07:43.080
+my guests is you
+
+01:07:41.800 --> 01:07:46.080
+uh
+
+01:07:43.080 --> 01:07:47.760
+go with your gut a lot. You have strong
+
+01:07:46.080 --> 01:07:50.600
+um feelings about things and you go with
+
+01:07:47.760 --> 01:07:52.840
+the feeling. On this podcast
+
+01:07:50.600 --> 01:07:54.440
+uh in our in our world, probably
+
+01:07:52.840 --> 01:07:55.680
+certainly my personality, but I think
+
+01:07:54.440 --> 01:07:57.800
+the personality of a lot of people who
+
+01:07:55.680 --> 01:08:00.960
+are on and listen to this podcast very
+
+01:07:57.800 --> 01:08:03.640
+analytical, need to justify every
+
+01:08:00.960 --> 01:08:04.800
+decision with a
+
+01:08:03.640 --> 01:08:06.720
+you know,
+
+01:08:04.800 --> 01:08:09.200
+a coherent argument as opposed to
+
+01:08:06.720 --> 01:08:11.960
+instinct. And you are a guy who acts on
+
+01:08:09.200 --> 01:08:13.240
+instinct. Fair? I mean, I think we've
+
+01:08:11.960 --> 01:08:15.680
+we've been seeing that for
+
+01:08:13.240 --> 01:08:17.520
+>> I think about this, too. I
+
+01:08:15.680 --> 01:08:19.080
+I know for a fact I'm good at marketing
+
+01:08:17.520 --> 01:08:20.480
+and I know I'm good at business, but I
+
+01:08:19.080 --> 01:08:22.319
+have no proof.
+
+01:08:20.480 --> 01:08:23.520
+I've never done it. So now I got to do
+
+01:08:22.319 --> 01:08:24.160
+it.
+
+01:08:23.520 --> 01:08:26.520
+Historically [snorts]
+
+01:08:24.160 --> 01:08:27.920
+throughout my life, I just like a very I
+
+01:08:26.520 --> 01:08:29.719
+don't know, mechanical and creative. So
+
+01:08:27.920 --> 01:08:30.960
+I like to invent things. So I write them
+
+01:08:29.719 --> 01:08:33.440
+down. I own things. I have several
+
+01:08:30.960 --> 01:08:35.520
+notepads from when I was like six, you
+
+01:08:33.440 --> 01:08:36.520
+know, seven.
+
+01:08:35.520 --> 01:08:38.200
+And
+
+01:08:36.520 --> 01:08:40.160
+I would have these inventions and then a
+
+01:08:38.200 --> 01:08:41.962
+few years later it would be a thing. I'm
+
+01:08:40.160 --> 01:08:42.560
+like, dude, that was my idea.
+
+01:08:41.962 --> 01:08:45.240
+>> [laughter]
+
+01:08:42.560 --> 01:08:49.480
+>> Dozens of them like all the time. Um and
+
+01:08:45.240 --> 01:08:50.880
+so I did have that like confirmation.
+
+01:08:49.480 --> 01:08:52.480
+It is kind of kind of like, eh, dude,
+
+01:08:50.880 --> 01:08:54.480
+that sucks. But like also, I didn't do
+
+01:08:52.480 --> 01:08:56.400
+anything about it. And I can't be mad
+
+01:08:54.480 --> 01:08:58.000
+because I didn't I didn't act on it. So
+
+01:08:56.400 --> 01:09:00.319
+now when I have an idea, I'm like, screw
+
+01:08:58.000 --> 01:09:02.000
+it. I'm going to do it. Every single Not
+
+01:09:00.319 --> 01:09:04.080
+every single I have a lot of ideas. Not
+
+01:09:02.000 --> 01:09:05.799
+every single idea. Let me focus, but I'm
+
+01:09:04.080 --> 01:09:07.240
+going to do it, right? I'm going to pick
+
+01:09:05.799 --> 01:09:08.880
+the one I want to do and I'm going to
+
+01:09:07.240 --> 01:09:10.359
+I'm going to I'm an actor. Like I do
+
+01:09:08.880 --> 01:09:12.640
+things, man.
+
+01:09:10.359 --> 01:09:14.000
+I'm sick of thinking. I've been doing
+
+01:09:12.640 --> 01:09:15.920
+that my whole life. I've been sick of
+
+01:09:14.000 --> 01:09:18.160
+dreaming. I'm going to do it.
+
+01:09:15.920 --> 01:09:19.560
+That's awesome. That's That's a a great
+
+01:09:18.160 --> 01:09:21.200
+philosophy, Zach.
+
+01:09:19.560 --> 01:09:22.560
+Uh that probably is where we should end
+
+01:09:21.200 --> 01:09:25.160
+it, but I I just a couple things to
+
+01:09:22.560 --> 01:09:27.080
+wrap. So you you've touched on what you
+
+01:09:25.160 --> 01:09:28.520
+want to get into, the areas that you
+
+01:09:27.080 --> 01:09:30.640
+want to take the business. Say those
+
+01:09:28.520 --> 01:09:32.960
+again for us. What's the kind of
+
+01:09:30.640 --> 01:09:34.960
+flesh out that that that vision, that
+
+01:09:32.960 --> 01:09:37.640
+dream to triple the business to from
+
+01:09:34.960 --> 01:09:39.080
+1.5, 1.7 to 5 million of revenue over
+
+01:09:37.640 --> 01:09:40.799
+the next few years. So, I think it could
+
+01:09:39.080 --> 01:09:43.359
+be a pretty substantial residential. I
+
+01:09:40.799 --> 01:09:46.480
+think it has good brand awareness. It'll
+
+01:09:43.359 --> 01:09:49.120
+be good for for residential leads. I do
+
+01:09:46.480 --> 01:09:50.560
+also want commercial service work. We've
+
+01:09:49.120 --> 01:09:52.319
+been bidding commercial new construction
+
+01:09:50.560 --> 01:09:53.440
+and ultimately I don't think that's our
+
+01:09:52.319 --> 01:09:54.840
+I don't think that's our thing, man. I'm
+
+01:09:53.440 --> 01:09:56.840
+not into it.
+
+01:09:54.840 --> 01:09:58.680
+Too much liability, just not into it.
+
+01:09:56.840 --> 01:10:01.240
+So, service work all in.
+
+01:09:58.680 --> 01:10:03.120
+Residential new construction as well.
+
+01:10:01.240 --> 01:10:05.200
+But, we're also doing industrial and
+
+01:10:03.120 --> 01:10:07.280
+commercial commercial. We're doing
+
+01:10:05.200 --> 01:10:09.280
+cruise ships, you know? I I go on cruise
+
+01:10:07.280 --> 01:10:10.200
+ships sometimes and fix stuff and we're
+
+01:10:09.280 --> 01:10:12.440
+doing everything. We're doing
+
+01:10:10.200 --> 01:10:13.960
+generators, obviously. I'm the generator
+
+01:10:12.440 --> 01:10:15.680
+guy. So, we're now doing, you know,
+
+01:10:13.960 --> 01:10:17.080
+Generac whole home generators. We're
+
+01:10:15.680 --> 01:10:19.040
+doing commercial diesel generators
+
+01:10:17.080 --> 01:10:21.040
+install and fix.
+
+01:10:19.040 --> 01:10:22.640
+Anything and everything. We're not doing
+
+01:10:21.040 --> 01:10:25.040
+solar. That's probably the only thing
+
+01:10:22.640 --> 01:10:26.520
+we're not doing. Everything else we do
+
+01:10:25.040 --> 01:10:28.480
+and everybody in this in this building
+
+01:10:26.520 --> 01:10:30.280
+has a specific
+
+01:10:28.480 --> 01:10:31.600
+experience, right? And it's all
+
+01:10:30.280 --> 01:10:34.200
+different. So, everybody kind of meshes
+
+01:10:31.600 --> 01:10:36.040
+together and has their specific
+
+01:10:34.200 --> 01:10:38.200
+thing that they're good at. So,
+
+01:10:36.040 --> 01:10:40.280
+yeah, I feel very comfortable with it.
+
+01:10:38.200 --> 01:10:42.720
+And so, when you talk about growing,
+
+01:10:40.280 --> 01:10:44.880
+it's basically adding service lines,
+
+01:10:42.720 --> 01:10:48.280
+although you've already added a lot. And
+
+01:10:44.880 --> 01:10:49.880
+then as demand drives
+
+01:10:48.280 --> 01:10:51.600
+drives you to have to hire more people
+
+01:10:49.880 --> 01:10:53.560
+into that division, you just do so and
+
+01:10:51.600 --> 01:10:54.880
+you grow along with demand. But, I guess
+
+01:10:53.560 --> 01:10:56.600
+the point is your perception is that
+
+01:10:54.880 --> 01:10:59.360
+there's I mean, obviously electrical's
+
+01:10:56.600 --> 01:11:01.640
+an enormous market and you feel like you
+
+01:10:59.360 --> 01:11:03.440
+can just grow into a much larger
+
+01:11:01.640 --> 01:11:04.600
+business if you're hustling after it
+
+01:11:03.440 --> 01:11:06.720
+than
+
+01:11:04.600 --> 01:11:08.160
+it was when you bought it. Exactly.
+
+01:11:06.720 --> 01:11:11.280
+Yeah. I think I could probably double
+
+01:11:08.160 --> 01:11:12.960
+the residential side and then
+
+01:11:11.280 --> 01:11:14.800
+you know, increase the commercial,
+
+01:11:12.960 --> 01:11:16.760
+increase the industrial and those things
+
+01:11:14.800 --> 01:11:18.880
+will trickle in. I'm not going to focus
+
+01:11:16.760 --> 01:11:20.760
+heavily on it. But, it's nice. I think
+
+01:11:18.880 --> 01:11:23.680
+that stuff's interesting. But, we are
+
+01:11:20.760 --> 01:11:25.600
+going to be still primarily residential
+
+01:11:23.680 --> 01:11:28.360
+service work and new construction. And I
+
+01:11:25.600 --> 01:11:28.880
+heard you say you go on riverboats or or
+
+01:11:28.360 --> 01:11:30.160
+cruise
+
+01:11:28.880 --> 01:11:32.640
+>> Yeah, that was like the first job I ever
+
+01:11:30.160 --> 01:11:33.400
+did. I don't go in the field, you know?
+
+01:11:32.640 --> 01:11:34.640
+Not my thing
+
+01:11:33.400 --> 01:11:36.920
+>> Well,
+
+01:11:34.640 --> 01:11:38.080
+talk to us about that, Zach, cuz I on
+
+01:11:36.920 --> 01:11:40.160
+working in the business or on the
+
+01:11:38.080 --> 01:11:42.040
+business or as a technician, cuz you did
+
+01:11:40.160 --> 01:11:43.400
+say that all of your background has been
+
+01:11:42.040 --> 01:11:46.360
+super relevant to doing this
+
+01:11:43.400 --> 01:11:47.520
+successfully. But, in fact, you're
+
+01:11:46.360 --> 01:11:48.960
+you're not getting your hands dirty
+
+01:11:47.520 --> 01:11:51.200
+anymore.
+
+01:11:48.960 --> 01:11:53.240
+I will say No, I will say being a
+
+01:11:51.200 --> 01:11:55.520
+veteran has helped a lot with networking
+
+01:11:53.240 --> 01:11:56.760
+and like a lot, you know? It's a It's a
+
+01:11:55.520 --> 01:11:58.360
+It's a little secret code. Like you're
+
+01:11:56.760 --> 01:11:59.760
+in a little secret society. Once you
+
+01:11:58.360 --> 01:12:01.800
+know you're someone else is a veteran,
+
+01:11:59.760 --> 01:12:03.240
+you're like all guards down, you know?
+
+01:12:01.800 --> 01:12:04.920
+Immediately you can talk to them as like
+
+01:12:03.240 --> 01:12:06.680
+you're you already know them.
+
+01:12:04.920 --> 01:12:08.280
+So, [snorts]
+
+01:12:06.680 --> 01:12:10.320
+it's a lot of who you know. Someone
+
+01:12:08.280 --> 01:12:11.960
+called in. We have a lot of people that
+
+01:12:10.320 --> 01:12:13.880
+find us from Google.
+
+01:12:11.960 --> 01:12:15.800
+Someone called in and she's, you know, a
+
+01:12:13.880 --> 01:12:16.920
+manager of sorts for cruise ships and
+
+01:12:15.800 --> 01:12:19.000
+she said, "I need I need to fix this
+
+01:12:16.920 --> 01:12:20.480
+thing. Nobody can help me. I don't know
+
+01:12:19.000 --> 01:12:21.960
+what to do. No company can go out right
+
+01:12:20.480 --> 01:12:22.920
+now." I was like,
+
+01:12:21.960 --> 01:12:25.240
+"I don't know, man. We don't really do
+
+01:12:22.920 --> 01:12:26.920
+that, but that's exactly what I did in
+
+01:12:25.240 --> 01:12:28.200
+the Navy." Like let me see. So, I was
+
+01:12:26.920 --> 01:12:29.360
+like, "Let me talk to the engineer." So,
+
+01:12:28.200 --> 01:12:32.080
+I got on the phone with the engineer.
+
+01:12:29.360 --> 01:12:34.160
+Turns out we had the exact same job in
+
+01:12:32.080 --> 01:12:36.560
+the Navy and we were in the same city at
+
+01:12:34.160 --> 01:12:38.240
+the same time and we like it we just
+
+01:12:36.560 --> 01:12:41.600
+clicked. And I was like, "Dude, I'll
+
+01:12:38.240 --> 01:12:43.240
+come." You know? I'll come out. I I came
+
+01:12:41.600 --> 01:12:45.120
+out in like 2 hours. I took one of my
+
+01:12:43.240 --> 01:12:46.800
+guys and
+
+01:12:45.120 --> 01:12:48.240
+it was just fun, man. I had I enjoyed
+
+01:12:46.800 --> 01:12:50.640
+it. I'm not going to do that all the
+
+01:12:48.240 --> 01:12:52.000
+time, but sometimes it was fun. So, yes,
+
+01:12:50.640 --> 01:12:53.400
+we are looking for people that can do
+
+01:12:52.000 --> 01:12:55.920
+that kind of stuff. We're partnering
+
+01:12:53.400 --> 01:12:58.440
+with other companies that already do it.
+
+01:12:55.920 --> 01:13:00.320
+I found I found a guy in Fort Myers is
+
+01:12:58.440 --> 01:13:02.120
+pretty solid. He can He does that work.
+
+01:13:00.320 --> 01:13:03.440
+So, we're just going to almost like sub
+
+01:13:02.120 --> 01:13:05.040
+it out, but we're going to be with him,
+
+01:13:03.440 --> 01:13:06.480
+right? We're going to I told them the
+
+01:13:05.040 --> 01:13:09.040
+cruise ship I said, "You know what?
+
+01:13:06.480 --> 01:13:10.880
+Hydraulic it was just water, fuel, I
+
+01:13:09.040 --> 01:13:13.240
+don't care what it is. Call me. If it's
+
+01:13:10.880 --> 01:13:14.760
+broken, call me. I'll be your dude, all
+
+01:13:13.240 --> 01:13:16.720
+right? I'll be your once I'll I'll fix
+
+01:13:14.760 --> 01:13:18.800
+your pain. Stop dealing with everybody
+
+01:13:16.720 --> 01:13:20.480
+else. I'll figure it out." And so, how
+
+01:13:18.800 --> 01:13:21.840
+are you spending your your days these
+
+01:13:20.480 --> 01:13:25.520
+days, Zach?
+
+01:13:21.840 --> 01:13:27.200
+In this chair, man. It's uh
+
+01:13:25.520 --> 01:13:30.520
+It's [snorts] like uh
+
+01:13:27.200 --> 01:13:32.120
+a lot of monitors, you know? There's so
+
+01:13:30.520 --> 01:13:33.840
+much to do. There's just so much to do,
+
+01:13:32.120 --> 01:13:35.480
+but I've realized I needed leave the
+
+01:13:33.840 --> 01:13:37.080
+office. Um
+
+01:13:35.480 --> 01:13:38.120
+I don't get much done when I'm here and
+
+01:13:37.080 --> 01:13:40.520
+I feel like my team kind of does the
+
+01:13:38.120 --> 01:13:42.680
+same because I get interrupted
+
+01:13:40.520 --> 01:13:45.320
+all the time. And it's, you know, ADHD,
+
+01:13:42.680 --> 01:13:46.600
+pretty bad. I got my calendar and I'm
+
+01:13:45.320 --> 01:13:48.840
+I'm very good with using my calendar
+
+01:13:46.600 --> 01:13:50.280
+because, you know, the ADHD, whatever. I
+
+01:13:48.840 --> 01:13:52.840
+have come up with systems for my
+
+01:13:50.280 --> 01:13:54.080
+personal, you know, for myself. And I
+
+01:13:52.840 --> 01:13:55.840
+have this calendar that I follow. I have
+
+01:13:54.080 --> 01:13:58.400
+notes in my app, blah blah blah. I have
+
+01:13:55.840 --> 01:14:01.520
+alarms for my appointments and stuff. I
+
+01:13:58.400 --> 01:14:03.040
+have alarms to say look at the calendar.
+
+01:14:01.520 --> 01:14:04.226
+Yeah, yeah, it sucks, but you know what?
+
+01:14:03.040 --> 01:14:04.320
+That's what I have to do.
+
+01:14:04.226 --> 01:14:06.840
+>> [snorts]
+
+01:14:04.320 --> 01:14:09.280
+>> And I don't get to check off any of
+
+01:14:06.840 --> 01:14:11.560
+those several, you know, most days
+
+01:14:09.280 --> 01:14:13.680
+because I'm just there's just so much
+
+01:14:11.560 --> 01:14:15.200
+other stuff to do. There's always stuff
+
+01:14:13.680 --> 01:14:17.040
+to do. So, I got to go home. I got to go
+
+01:14:15.200 --> 01:14:18.960
+to Starbucks. Go to Jimmy John's. I
+
+01:14:17.040 --> 01:14:20.720
+don't care. I just go hang out and work
+
+01:14:18.960 --> 01:14:22.200
+from there and I get more done.
+
+01:14:20.720 --> 01:14:24.120
+And and because a lot of times you're
+
+01:14:22.200 --> 01:14:25.520
+being interrupted by your team. They
+
+01:14:24.120 --> 01:14:27.320
+just come in with a quick question sort
+
+01:14:25.520 --> 01:14:28.480
+of thing. But, constantly. But, it's so
+
+01:14:27.320 --> 01:14:30.160
+funny cuz like if I'm not there, they
+
+01:14:28.480 --> 01:14:31.600
+figure it out.
+
+01:14:30.160 --> 01:14:33.320
+They don't need it. They don't need me.
+
+01:14:31.600 --> 01:14:35.640
+Maybe it's like a hey, we should ask the
+
+01:14:33.320 --> 01:14:37.560
+boss of respect kind of thing cuz most
+
+01:14:35.640 --> 01:14:39.440
+most of what I do now is approving
+
+01:14:37.560 --> 01:14:40.600
+things. I don't
+
+01:14:39.440 --> 01:14:41.640
+you know, I'm not I'm not doing as much
+
+01:14:40.600 --> 01:14:42.880
+as I mean I'm not doing any of this
+
+01:14:41.640 --> 01:14:44.160
+stuff. So, they come to me they say,
+
+01:14:42.880 --> 01:14:45.680
+"Hey, what do you think about this job?"
+
+01:14:44.160 --> 01:14:46.960
+I laid it all out and I was like, "What
+
+01:14:45.680 --> 01:14:48.200
+do you What do you think?" And they're
+
+01:14:46.960 --> 01:14:49.760
+like, "Well, I think we should do this."
+
+01:14:48.200 --> 01:14:51.480
+And I was like, "Do it."
+
+01:14:49.760 --> 01:14:52.920
+So, I'm just doing more and more of that
+
+01:14:51.480 --> 01:14:54.240
+for them to get comfortable with like,
+
+01:14:52.920 --> 01:14:56.400
+"Okay, the thing that I chose is
+
+01:14:54.240 --> 01:14:57.840
+correct." So, cuz I tell them, "Take
+
+01:14:56.400 --> 01:15:00.120
+ownership, you know? You got You got
+
+01:14:57.840 --> 01:15:02.040
+control." But, you know, it's taken time
+
+01:15:00.120 --> 01:15:04.240
+for them to be comfortable with it.
+
+01:15:02.040 --> 01:15:05.800
+Great, Zach. Anything we didn't get to
+
+01:15:04.240 --> 01:15:08.080
+that you wanted to? You're feeling good
+
+01:15:05.800 --> 01:15:10.680
+about this this move in life. Oh, yeah,
+
+01:15:08.080 --> 01:15:12.440
+man. Oh, solid. It's like the It's the
+
+01:15:10.680 --> 01:15:16.160
+best decision I ever made. I would I
+
+01:15:12.440 --> 01:15:17.480
+would always do it over again, you know?
+
+01:15:16.160 --> 01:15:19.520
+Ultimately, it was what I was going to
+
+01:15:17.480 --> 01:15:21.360
+do. So, just do it now. That's what I
+
+01:15:19.520 --> 01:15:23.720
+got If I If I had to tell somebody,
+
+01:15:21.360 --> 01:15:26.280
+you're not going to be ready ever. Just
+
+01:15:23.720 --> 01:15:28.560
+do it. Like just do it. You know? And
+
+01:15:26.280 --> 01:15:29.720
+it's it's fun It's stressful, but it's
+
+01:15:28.560 --> 01:15:31.800
+probably the most rewarding thing you
+
+01:15:29.720 --> 01:15:34.560
+can ever do. And you know, to give
+
+01:15:31.800 --> 01:15:35.840
+people bonuses when you don't have to.
+
+01:15:34.560 --> 01:15:38.160
+Just like it's
+
+01:15:35.840 --> 01:15:39.640
+I don't know. It's really rewarding. Um
+
+01:15:38.160 --> 01:15:40.680
+I like to help people and I want to I
+
+01:15:39.640 --> 01:15:41.960
+want to help the community. I want to
+
+01:15:40.680 --> 01:15:43.800
+help our employees. I want to have a
+
+01:15:41.960 --> 01:15:46.080
+dope place to work where they get paid
+
+01:15:43.800 --> 01:15:50.160
+more than they ever did. And like it
+
+01:15:46.080 --> 01:15:52.080
+just feels good. I My My goal is to have
+
+01:15:50.160 --> 01:15:53.120
+a company picnic like in the office
+
+01:15:52.080 --> 01:15:55.040
+where they have all those different
+
+01:15:53.120 --> 01:15:57.280
+branches and they have like softball
+
+01:15:55.040 --> 01:15:59.040
+team or or volleyball. That's my goal. I
+
+01:15:57.280 --> 01:16:01.080
+want that, right? I want that culture. I
+
+01:15:59.040 --> 01:16:02.600
+want that, you know, everybody's cool
+
+01:16:01.080 --> 01:16:04.400
+with each other. Um
+
+01:16:02.600 --> 01:16:06.080
+and it's I work here, too. I tell them
+
+01:16:04.400 --> 01:16:07.720
+all the time. Like I want to have fun,
+
+01:16:06.080 --> 01:16:09.320
+too. Like I don't want to be miserable.
+
+01:16:07.720 --> 01:16:11.360
+So, I want I want to like you guys and
+
+01:16:09.320 --> 01:16:13.680
+you likewise, right?
+
+01:16:11.360 --> 01:16:15.920
+It's It's great, man. You get to You get
+
+01:16:13.680 --> 01:16:16.840
+to choose. You get to do things. If you
+
+01:16:15.920 --> 01:16:18.520
+want to do the marketing, you want to
+
+01:16:16.840 --> 01:16:20.360
+change your business, you can do it. I
+
+01:16:18.520 --> 01:16:22.880
+mean, there may be repercussions, but
+
+01:16:20.360 --> 01:16:25.320
+you can do it and it's it's just fun,
+
+01:16:22.880 --> 01:16:27.120
+you know? Zach Montnick, really fun
+
+01:16:25.320 --> 01:16:28.240
+interview, great story. Thanks for
+
+01:16:27.120 --> 01:16:30.000
+joining us on Acquiring [music] Minds.
+
+01:16:28.240 --> 01:16:31.960
+>> Yeah, man. Appreciate it. Anytime.
+
+01:16:30.000 --> 01:16:33.800
+Hope you enjoyed that interview. Don't
+
+01:16:31.960 --> 01:16:36.440
+forget to subscribe to the Acquiring
+
+01:16:33.800 --> 01:16:38.840
+Minds newsletter. We send an email for
+
+01:16:36.440 --> 01:16:41.000
+every episode with an introduction to
+
+01:16:38.840 --> 01:16:44.200
+the interview, a link to the video
+
+01:16:41.000 --> 01:16:47.240
+version on YouTube and soon key
+
+01:16:44.200 --> 01:16:49.200
+takeaways, numbers and more essentials
+
+01:16:47.240 --> 01:16:51.760
+from the interview for those of you who
+
+01:16:49.200 --> 01:16:55.200
+don't have time to listen or watch it.
+
+01:16:51.760 --> 01:16:57.480
+Subscribe at acquiringminds.co.
+
+01:16:55.200 --> 01:16:59.720
+You'll also find all our webinars there
+
+01:16:57.480 --> 01:17:02.160
+on the website, both those we have
+
+01:16:59.720 --> 01:17:04.640
+coming up and recordings of past
+
+01:17:02.160 --> 01:17:07.560
+webinars. At this point, there are over
+
+01:17:04.640 --> 01:17:09.760
+30 webinar recordings, a wealth of
+
+01:17:07.560 --> 01:17:12.000
+information on all the technical
+
+01:17:09.760 --> 01:17:15.000
+nitty-gritty of buying a business.
+
+01:17:12.000 --> 01:17:15.000
+Acquiringminds.co.
+

@@ -1,0 +1,1442 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+four AI agents you can build today that
+
+00:00:02.480 --> 00:00:07.320
+will save you hours of work every week.
+
+00:00:05.000 --> 00:00:09.160
+You don't need any technical skills. If
+
+00:00:07.320 --> 00:00:10.920
+you can type, you can build them and
+
+00:00:09.160 --> 00:00:13.120
+start using them today. We'll do it
+
+00:00:10.920 --> 00:00:15.680
+together, step-by-step. For those who
+
+00:00:13.120 --> 00:00:18.840
+are new here, I spent more than 20 years
+
+00:00:15.680 --> 00:00:21.640
+as a CEO, board member, and investor in
+
+00:00:18.840 --> 00:00:23.580
+tech and AI companies, and I use these
+
+00:00:21.640 --> 00:00:25.880
+agents in my work every day. They're
+
+00:00:23.580 --> 00:00:28.080
+[music] game-changing. But, the agents
+
+00:00:25.880 --> 00:00:30.400
+are the easy part. You want to learn not
+
+00:00:28.080 --> 00:00:32.920
+just the tools, but the way of thinking
+
+00:00:30.400 --> 00:00:35.440
+or the system that changes how you work
+
+00:00:32.920 --> 00:00:37.480
+with AI agents forever. And that system
+
+00:00:35.440 --> 00:00:39.840
+works on any AI, Claude, Gemini,
+
+00:00:37.480 --> 00:00:42.400
+ChatGPT, you pick. We're going to build
+
+00:00:39.840 --> 00:00:45.080
+four agents around four pillars. I call
+
+00:00:42.400 --> 00:00:48.560
+it four C's framework: coordination,
+
+00:00:45.080 --> 00:00:50.600
+creativity, clarity, and coaching. Each
+
+00:00:48.560 --> 00:00:53.320
+of these pillars make your life less
+
+00:00:50.600 --> 00:00:55.760
+chaotic and more productive. So, let's
+
+00:00:53.320 --> 00:00:58.040
+get to the first pillar. The first C is
+
+00:00:55.760 --> 00:01:01.080
+coordination, because before anything
+
+00:00:58.040 --> 00:01:03.560
+else, AI should stop your day from
+
+00:01:01.080 --> 00:01:05.920
+getting hijacked. Microsoft studied how
+
+00:01:03.560 --> 00:01:09.680
+we actually work, and the numbers are
+
+00:01:05.920 --> 00:01:12.320
+brutal. The average worker gets 117
+
+00:01:09.680 --> 00:01:15.040
+emails a day, and we're interrupted
+
+00:01:12.320 --> 00:01:19.200
+every 2 minutes by an email, or a
+
+00:01:15.040 --> 00:01:21.560
+meeting, or a message. That's 275
+
+00:01:19.200 --> 00:01:23.160
+times a day. And by the way, none of
+
+00:01:21.560 --> 00:01:25.440
+that counts the social media
+
+00:01:23.160 --> 00:01:29.000
+interruptions. Our attention gets
+
+00:01:25.440 --> 00:01:31.440
+chopped into pieces every day. So, let's
+
+00:01:29.000 --> 00:01:34.520
+build a coordination agent that reads
+
+00:01:31.440 --> 00:01:36.800
+your inbox, checks the calendar, plans
+
+00:01:34.520 --> 00:01:38.880
+your day, and gives you the time and
+
+00:01:36.800 --> 00:01:41.760
+attention back. [music] We will start by
+
+00:01:38.880 --> 00:01:44.000
+building the email agent first, and then
+
+00:01:41.760 --> 00:01:46.280
+we'll add the calendar right after. For
+
+00:01:44.000 --> 00:01:48.560
+this walkthrough, I'm using Claude
+
+00:01:46.280 --> 00:01:51.080
+Cohaerence. Chat is where you ask
+
+00:01:48.560 --> 00:01:53.560
+questions. Cohaerence is where you
+
+00:01:51.080 --> 00:01:56.240
+assign work. But, don't get hung up on
+
+00:01:53.560 --> 00:01:59.400
+the interface. If you use ChatGPT or
+
+00:01:56.240 --> 00:02:01.600
+Gemini or any other agent tool, the same
+
+00:01:59.400 --> 00:02:04.800
+principles will work. The buttons will
+
+00:02:01.600 --> 00:02:06.880
+change, the workflow will not. So, okay.
+
+00:02:04.800 --> 00:02:07.726
+Here's the Claude app. You can select
+
+00:02:06.880 --> 00:02:07.960
+the mode,
+
+00:02:07.726 --> 00:02:10.160
+>> [music]
+
+00:02:07.960 --> 00:02:13.400
+>> whether you want to be in a chat tab or
+
+00:02:10.160 --> 00:02:15.800
+a co-work tab. Select co-work and it
+
+00:02:13.400 --> 00:02:19.000
+switches you into tasks.
+
+00:02:15.800 --> 00:02:20.720
+That's where we will build agents. Now,
+
+00:02:19.000 --> 00:02:22.840
+we want to think about email, so the
+
+00:02:20.720 --> 00:02:26.360
+first thing we're going to do is connect
+
+00:02:22.840 --> 00:02:29.480
+Gmail so the agent can reach and access
+
+00:02:26.360 --> 00:02:30.480
+your inbox. You do this from the plus
+
+00:02:29.480 --> 00:02:34.080
+menu.
+
+00:02:30.480 --> 00:02:36.720
+Connectors, add connectors, browse, then
+
+00:02:34.080 --> 00:02:40.080
+select. And congratulations, this is
+
+00:02:36.720 --> 00:02:42.920
+your first leap from chatbot to agent.
+
+00:02:40.080 --> 00:02:45.200
+Once Gmail is connected, you no longer
+
+00:02:42.920 --> 00:02:47.840
+have to copy emails into your chat. You
+
+00:02:45.200 --> 00:02:49.680
+can say, "Summarize my unread emails
+
+00:02:47.840 --> 00:02:51.280
+from yesterday." And the agent knows
+
+00:02:49.680 --> 00:02:54.480
+where to go and what to do. And by the
+
+00:02:51.280 --> 00:02:57.720
+way, if you're little uneasy about
+
+00:02:54.480 --> 00:03:00.480
+letting AI into your inbox, that's a
+
+00:02:57.720 --> 00:03:03.120
+good sign. Trust your hesitation. When
+
+00:03:00.480 --> 00:03:05.400
+you connect Gmail, Google shows you
+
+00:03:03.120 --> 00:03:07.720
+exactly what permissions you're giving
+
+00:03:05.400 --> 00:03:10.800
+it. Read it. Don't click through it
+
+00:03:07.720 --> 00:03:14.720
+blindly. For the first demo, I want the
+
+00:03:10.800 --> 00:03:17.720
+agent to read and draft emails, not send
+
+00:03:14.720 --> 00:03:19.840
+them. Now, we write the prompt. Same
+
+00:03:17.720 --> 00:03:21.560
+plain English you would type in chat.
+
+00:03:19.840 --> 00:03:24.200
+The difference is that now you're
+
+00:03:21.560 --> 00:03:27.000
+handing it a job. The prompt has five
+
+00:03:24.200 --> 00:03:29.360
+parts: the job, the tool, the
+
+00:03:27.000 --> 00:03:31.600
+categories, the output, and the
+
+00:03:29.360 --> 00:03:34.519
+boundary. You could say something like,
+
+00:03:31.600 --> 00:03:36.880
+"Review my unread Gmail from the last 24
+
+00:03:34.519 --> 00:03:39.840
+hours. Sort it into three buckets:
+
+00:03:36.880 --> 00:03:42.040
+urgent, informational, and ignore. For
+
+00:03:39.840 --> 00:03:43.959
+anything urgent, draft a reply that
+
+00:03:42.040 --> 00:03:46.000
+sounds like me. Don't send anything
+
+00:03:43.959 --> 00:03:49.519
+without my approval." Notice the five
+
+00:03:46.000 --> 00:03:50.480
+parts in that one sentence? The job, the
+
+00:03:49.519 --> 00:03:53.000
+tool, [music]
+
+00:03:50.480 --> 00:03:56.240
+the buckets, the output, and the
+
+00:03:53.000 --> 00:03:59.640
+boundary. Now, underneath every agent
+
+00:03:56.240 --> 00:04:01.920
+runs the same loop. It reasons, it acts,
+
+00:03:59.640 --> 00:04:02.840
+it looks at the output, and reasons
+
+00:04:01.920 --> 00:04:05.960
+again.
+
+00:04:02.840 --> 00:04:10.120
+Researchers have a name for it, react,
+
+00:04:05.960 --> 00:04:12.480
+reason and act. But, email is only half
+
+00:04:10.120 --> 00:04:15.200
+of our coordination agent, correct? Once
+
+00:04:12.480 --> 00:04:17.760
+we've used the email agent for a few
+
+00:04:15.200 --> 00:04:20.000
+days or maybe even a few weeks, we're
+
+00:04:17.760 --> 00:04:22.240
+getting comfortable now. We're ready to
+
+00:04:20.000 --> 00:04:24.320
+add the second coordination layer,
+
+00:04:22.240 --> 00:04:27.000
+calendar. Now, for the walk-through,
+
+00:04:24.320 --> 00:04:30.919
+same path as Gmail, plus menu,
+
+00:04:27.000 --> 00:04:33.919
+connectors, add connectors. This time,
+
+00:04:30.919 --> 00:04:36.760
+select Google Calendar to connect to
+
+00:04:33.919 --> 00:04:39.800
+Google Calendar. Again, I'm not giving
+
+00:04:36.760 --> 00:04:42.680
+the agent permission to move meetings or
+
+00:04:39.800 --> 00:04:44.800
+change my day without my approval.
+
+00:04:42.680 --> 00:04:47.120
+At least in the beginning. Here's what I
+
+00:04:44.800 --> 00:04:49.040
+would prompt. Look at my Google Calendar
+
+00:04:47.120 --> 00:04:51.640
+for today and tomorrow.
+
+00:04:49.040 --> 00:04:54.000
+Compare it against all the urgent emails
+
+00:04:51.640 --> 00:04:56.560
+that you found. Organize my day by
+
+00:04:54.000 --> 00:04:59.160
+telling me what creates conflict in my
+
+00:04:56.560 --> 00:05:01.400
+schedule, what needs an action or prep
+
+00:04:59.160 --> 00:05:04.200
+before a meeting, and what can wait.
+
+00:05:01.400 --> 00:05:06.560
+This is the moment the email and
+
+00:05:04.200 --> 00:05:09.880
+calendar start collaborating with each
+
+00:05:06.560 --> 00:05:12.400
+other. Now, the agent starts helping me
+
+00:05:09.880 --> 00:05:15.713
+shape my day. Once I run both these
+
+00:05:12.400 --> 00:05:15.720
+email and calendar versions a few times,
+
+00:05:15.713 --> 00:05:18.800
+>> [music]
+
+00:05:15.720 --> 00:05:21.120
+>> and I trust both outputs, I can schedule
+
+00:05:18.800 --> 00:05:23.360
+the full coordination run every morning.
+
+00:05:21.120 --> 00:05:25.800
+And from that point onward, every
+
+00:05:23.360 --> 00:05:28.480
+morning, you'll know exactly what your
+
+00:05:25.800 --> 00:05:31.200
+day is going to look like. In Coda, you
+
+00:05:28.480 --> 00:05:33.280
+do this by going to the schedule tab in
+
+00:05:31.200 --> 00:05:35.363
+the sidebar or using the schedule
+
+00:05:33.280 --> 00:05:37.400
+command inside a task. Of course,
+
+00:05:35.363 --> 00:05:40.160
+[music] be careful about scheduling
+
+00:05:37.400 --> 00:05:42.040
+anything that touches sensitive data or
+
+00:05:40.160 --> 00:05:44.600
+acts on your behalf without your
+
+00:05:42.040 --> 00:05:47.280
+approval. And then, as you get more
+
+00:05:44.600 --> 00:05:49.680
+comfortable, you can promote this agent
+
+00:05:47.280 --> 00:05:53.040
+as your executive assistant. You can
+
+00:05:49.680 --> 00:05:54.880
+prompt, "Can you block two slots for 30
+
+00:05:53.040 --> 00:05:57.600
+minutes each so I can go running with my
+
+00:05:54.880 --> 00:05:59.800
+buddy?" The agent will find time for you
+
+00:05:57.600 --> 00:06:01.920
+so you can do things you want to do on
+
+00:05:59.800 --> 00:06:05.200
+your busy day. So that's your
+
+00:06:01.920 --> 00:06:08.360
+coordination agent. The first lesson,
+
+00:06:05.200 --> 00:06:11.280
+don't delegate the decision immediately.
+
+00:06:08.360 --> 00:06:14.120
+First, make the work visible, then make
+
+00:06:11.280 --> 00:06:17.640
+it efficient, then make it automatic,
+
+00:06:14.120 --> 00:06:20.440
+and then and only then use your judgment
+
+00:06:17.640 --> 00:06:23.760
+to delegate and hand off slowly. [music]
+
+00:06:20.440 --> 00:06:25.640
+And the second lesson is to not hurry
+
+00:06:23.760 --> 00:06:27.640
+through this process.
+
+00:06:25.640 --> 00:06:30.440
+Start with email,
+
+00:06:27.640 --> 00:06:33.840
+add calendar later after you trust the
+
+00:06:30.440 --> 00:06:36.360
+output. Let your agent earn higher
+
+00:06:33.840 --> 00:06:38.880
+responsibility one step at a time. You
+
+00:06:36.360 --> 00:06:40.680
+know, we don't get promoted easily,
+
+00:06:38.880 --> 00:06:42.480
+neither should your agent. And by the
+
+00:06:40.680 --> 00:06:45.280
+way, if you like these kind of
+
+00:06:42.480 --> 00:06:47.400
+frameworks and systems thinking, I write
+
+00:06:45.280 --> 00:06:50.600
+a newsletter that goes deep into these
+
+00:06:47.400 --> 00:06:52.600
+themes every Tuesday. One insight, one
+
+00:06:50.600 --> 00:06:55.200
+tool, one practice.
+
+00:06:52.600 --> 00:06:57.000
+Link is below and it's free. All right,
+
+00:06:55.200 --> 00:07:00.680
+now it's time to move to the second
+
+00:06:57.000 --> 00:07:03.919
+pillar, C for creativity. Here, you
+
+00:07:00.680 --> 00:07:06.720
+bring your rough cut, notes, documents,
+
+00:07:03.919 --> 00:07:09.680
+background, messy thoughts, whatever you
+
+00:07:06.720 --> 00:07:12.320
+already have. The agent helps assemble
+
+00:07:09.680 --> 00:07:14.640
+it into something you can judge. You're
+
+00:07:12.320 --> 00:07:17.160
+still the director. You own the
+
+00:07:14.640 --> 00:07:19.919
+decision. So let's do a walk-through on
+
+00:07:17.160 --> 00:07:22.560
+how to build this agent. This time,
+
+00:07:19.919 --> 00:07:24.600
+you're giving the agent your rough cut
+
+00:07:22.560 --> 00:07:27.360
+and a target. It is the same prompt
+
+00:07:24.600 --> 00:07:29.600
+skeleton from the last agent, the job,
+
+00:07:27.360 --> 00:07:32.000
+the tool, the categories, the output,
+
+00:07:29.600 --> 00:07:34.760
+the boundary. And for this particular
+
+00:07:32.000 --> 00:07:36.320
+agent, the output is where you focus the
+
+00:07:34.760 --> 00:07:39.200
+most because that's where you're going
+
+00:07:36.320 --> 00:07:42.200
+to define who it's for, how long, what
+
+00:07:39.200 --> 00:07:44.080
+format, what voice. Okay, so let's use
+
+00:07:42.200 --> 00:07:46.840
+this creativity agent to make a
+
+00:07:44.080 --> 00:07:50.320
+PowerPoint presentation. I open Claude
+
+00:07:46.840 --> 00:07:53.520
+Co-work on my desktop and point it to a
+
+00:07:50.320 --> 00:07:55.920
+folder on my computer. That folder is
+
+00:07:53.520 --> 00:07:58.560
+where I drop my rough notes and it's
+
+00:07:55.920 --> 00:08:01.000
+where the finished deck will be created
+
+00:07:58.560 --> 00:08:03.320
+as well. I give it the notes and tell it
+
+00:08:01.000 --> 00:08:07.200
+what I want. Here are my notes for an
+
+00:08:03.320 --> 00:08:09.600
+idea. I want to pitch this to the CFO.
+
+00:08:07.200 --> 00:08:11.680
+Build me a short pitch deck. Ask me
+
+00:08:09.600 --> 00:08:15.919
+questions if you have any gaps in your
+
+00:08:11.680 --> 00:08:18.600
+understanding. I want 8 to 10 slides and
+
+00:08:15.919 --> 00:08:20.760
+I want that pitch to last for maybe 15
+
+00:08:18.600 --> 00:08:23.200
+minutes. It will read my notes. It will
+
+00:08:20.760 --> 00:08:25.280
+ask me questions if it has any. It will
+
+00:08:23.200 --> 00:08:29.200
+even fill the gaps with a little
+
+00:08:25.280 --> 00:08:32.400
+research and build the actual deck.
+
+00:08:29.200 --> 00:08:35.120
+What comes out is a real PowerPoint file
+
+00:08:32.400 --> 00:08:38.240
+that I can open and edit in Microsoft
+
+00:08:35.120 --> 00:08:40.599
+PowerPoint. Now, I can direct. I see
+
+00:08:38.240 --> 00:08:42.880
+what's working, what's weak. I can tell
+
+00:08:40.599 --> 00:08:45.400
+the agent what to change.
+
+00:08:42.880 --> 00:08:47.760
+Make this longer, make this shorter,
+
+00:08:45.400 --> 00:08:50.400
+make this a three bullet slide. Can we
+
+00:08:47.760 --> 00:08:52.839
+make the opening slide cleaner? Delete
+
+00:08:50.400 --> 00:08:55.040
+this slide. Whatever comes to mind. The
+
+00:08:52.839 --> 00:08:57.520
+agent will help you rebuild. Now, this
+
+00:08:55.040 --> 00:09:00.320
+deck came out as a real file because
+
+00:08:57.520 --> 00:09:02.160
+Claude uses something called a skill.
+
+00:09:00.320 --> 00:09:04.960
+That's just a set of instructions for
+
+00:09:02.160 --> 00:09:07.880
+doing a specific job. It ships with
+
+00:09:04.960 --> 00:09:11.680
+skills for PowerPoint, Word, Excel,
+
+00:09:07.880 --> 00:09:13.080
+PDFs, which is why you get real files.
+
+00:09:11.680 --> 00:09:14.920
+Now, what if you want to change the look
+
+00:09:13.080 --> 00:09:17.080
+and feel? Well, you can drop one of the
+
+00:09:14.920 --> 00:09:19.160
+decks that you like and ask the agent to
+
+00:09:17.080 --> 00:09:21.400
+match that style. Another cool way of
+
+00:09:19.160 --> 00:09:23.960
+doing it is that you can even ask the
+
+00:09:21.400 --> 00:09:26.000
+agent to turn your brand template into a
+
+00:09:23.960 --> 00:09:28.760
+skill. From that point, the agent will
+
+00:09:26.000 --> 00:09:31.480
+then always apply the same colors, the
+
+00:09:28.760 --> 00:09:33.760
+same fonts, the same layout to every
+
+00:09:31.480 --> 00:09:36.200
+deck and document you'll ever make. Now,
+
+00:09:33.760 --> 00:09:39.200
+this is just one example of using
+
+00:09:36.200 --> 00:09:41.000
+skills. You can come up with 100 others.
+
+00:09:39.200 --> 00:09:43.360
+We're not just learning tools here.
+
+00:09:41.000 --> 00:09:45.560
+We're learning a new way of thinking.
+
+00:09:43.360 --> 00:09:48.240
+Now, make sure that the ultimate
+
+00:09:45.560 --> 00:09:50.600
+direction comes from you. These agents
+
+00:09:48.240 --> 00:09:53.480
+are your multipliers. If you come in
+
+00:09:50.600 --> 00:09:56.280
+clear, AI will multiply your clarity. If
+
+00:09:53.480 --> 00:09:58.040
+you come in confused, well, the AI
+
+00:09:56.280 --> 00:10:00.520
+multiplies the confusion. And the best
+
+00:09:58.040 --> 00:10:02.520
+way to create that clarity is to do a
+
+00:10:00.520 --> 00:10:04.840
+lot of experiments
+
+00:10:02.520 --> 00:10:07.600
+and figure out what's the best way to
+
+00:10:04.840 --> 00:10:10.720
+tweak your output and even your agents.
+
+00:10:07.600 --> 00:10:12.431
+And over time, you'll build a very
+
+00:10:10.720 --> 00:10:12.840
+strong intuition
+
+00:10:12.431 --> 00:10:14.760
+>> [music]
+
+00:10:12.840 --> 00:10:17.120
+>> to get what you want. But what if you're
+
+00:10:14.760 --> 00:10:20.200
+spending hours trying to understand a
+
+00:10:17.120 --> 00:10:22.440
+confusing and complex document? What if
+
+00:10:20.200 --> 00:10:24.720
+you need clarity to even understand
+
+00:10:22.440 --> 00:10:28.280
+what's going on in that document? That's
+
+00:10:24.720 --> 00:10:31.040
+our third time-saving pillar. C for
+
+00:10:28.280 --> 00:10:33.680
+clarity. We've all signed things we
+
+00:10:31.040 --> 00:10:36.280
+didn't understand. A loan contract, a
+
+00:10:33.680 --> 00:10:39.280
+car lease, a medical report, an
+
+00:10:36.280 --> 00:10:42.680
+insurance policy. It's all right there.
+
+00:10:39.280 --> 00:10:44.760
+It's correct, but it's so confusing
+
+00:10:42.680 --> 00:10:47.480
+because many of these documents are
+
+00:10:44.760 --> 00:10:49.600
+written in a language built to protect
+
+00:10:47.480 --> 00:10:51.800
+those who wrote them. That's where the
+
+00:10:49.600 --> 00:10:54.440
+clarity agent will save you a ton of
+
+00:10:51.800 --> 00:10:56.000
+time and hassle. It's your translator,
+
+00:10:54.440 --> 00:10:57.920
+and that's what we're going to build.
+
+00:10:56.000 --> 00:11:01.440
+The best way to understand what we're
+
+00:10:57.920 --> 00:11:05.040
+building is to think about two scopes, a
+
+00:11:01.440 --> 00:11:07.280
+telescope and a microscope. Sometimes
+
+00:11:05.040 --> 00:11:10.120
+what you're looking for is scattered
+
+00:11:07.280 --> 00:11:12.720
+across so many places that you need the
+
+00:11:10.120 --> 00:11:14.760
+agent to pull it all together. And
+
+00:11:12.720 --> 00:11:17.200
+sometimes it's the exact opposite.
+
+00:11:14.760 --> 00:11:20.120
+Sometimes what you're looking for is
+
+00:11:17.200 --> 00:11:23.400
+buried so deep in a single dense
+
+00:11:20.120 --> 00:11:25.880
+document that the agent has to dig in,
+
+00:11:23.400 --> 00:11:28.760
+extract the key ideas, explain the
+
+00:11:25.880 --> 00:11:31.320
+jargon, flag the risks. That is your
+
+00:11:28.760 --> 00:11:34.400
+microscope. So, let's go through both of
+
+00:11:31.320 --> 00:11:37.240
+them and build both ideas. Say I'm about
+
+00:11:34.400 --> 00:11:39.640
+to sign a deal with a company I don't
+
+00:11:37.240 --> 00:11:41.760
+know well. So, I can tell the agent,
+
+00:11:39.640 --> 00:11:43.800
+find out who they are. Find out
+
+00:11:41.760 --> 00:11:46.240
+everything you can from the internet.
+
+00:11:43.800 --> 00:11:48.680
+Analyze our past emails with them
+
+00:11:46.240 --> 00:11:51.080
+because, hey, we've already built our
+
+00:11:48.680 --> 00:11:53.880
+coordination agent, remember? Find out
+
+00:11:51.080 --> 00:11:56.440
+anything recent in the news.
+
+00:11:53.880 --> 00:11:58.520
+And tell me more about this deal that
+
+00:11:56.440 --> 00:12:01.480
+I'm trying to strike with them. And if I
+
+00:11:58.520 --> 00:12:04.240
+have uploaded documents, the agent will
+
+00:12:01.480 --> 00:12:07.560
+search all my documents, all my
+
+00:12:04.240 --> 00:12:10.880
+connected tools, my Google Drive, and
+
+00:12:07.560 --> 00:12:13.120
+the web and come back with one picture.
+
+00:12:10.880 --> 00:12:16.200
+And what if I want to know more about
+
+00:12:13.120 --> 00:12:18.560
+their product or competitive strategy?
+
+00:12:16.200 --> 00:12:21.280
+We let the agent do the work for us. And
+
+00:12:18.560 --> 00:12:23.720
+the prompt could be, now go and do deep
+
+00:12:21.280 --> 00:12:26.360
+research on their core product from
+
+00:12:23.720 --> 00:12:30.040
+reliable sources, create a document in
+
+00:12:26.360 --> 00:12:32.960
+my folder, and cite the sources. Cloud
+
+00:12:30.040 --> 00:12:35.920
+agents already have web search and deep
+
+00:12:32.960 --> 00:12:38.520
+research built in. Same for Gemini and
+
+00:12:35.920 --> 00:12:40.880
+ChatGPT. The interface may look
+
+00:12:38.520 --> 00:12:43.880
+different, but it's the same idea. Two
+
+00:12:40.880 --> 00:12:47.240
+phrases I use the most when I work in
+
+00:12:43.880 --> 00:12:49.920
+telescope mode. Please verify,
+
+00:12:47.240 --> 00:12:52.720
+and be concise. They can be super
+
+00:12:49.920 --> 00:12:56.040
+helpful. Sometimes I take the research
+
+00:12:52.720 --> 00:12:58.960
+output from one AI engine to another one
+
+00:12:56.040 --> 00:13:01.320
+and make sure I can cross-verify. That
+
+00:12:58.960 --> 00:13:04.839
+is my advisory board. And there are
+
+00:13:01.320 --> 00:13:07.200
+three members in it, Claude, Gemini, and
+
+00:13:04.839 --> 00:13:09.720
+ChatGPT. And sometimes they fight among
+
+00:13:07.200 --> 00:13:11.640
+themselves, which is great for me. Now
+
+00:13:09.720 --> 00:13:14.320
+it's time to change our scope. We're
+
+00:13:11.640 --> 00:13:16.040
+going to use the microscope. Let's say
+
+00:13:14.320 --> 00:13:19.360
+we have a contract from the same
+
+00:13:16.040 --> 00:13:22.440
+company. I uploaded the first mistake
+
+00:13:19.360 --> 00:13:24.720
+most people make is asking, summarize
+
+00:13:22.440 --> 00:13:28.040
+this contract. A summary makes a
+
+00:13:24.720 --> 00:13:31.160
+confusing document shorter, sure. But in
+
+00:13:28.040 --> 00:13:34.320
+legal contracts or long policies, the
+
+00:13:31.160 --> 00:13:38.080
+devil is always in the details. So
+
+00:13:34.320 --> 00:13:40.000
+instead, my prompt would be, "Read this
+
+00:13:38.080 --> 00:13:42.960
+document carefully.
+
+00:13:40.000 --> 00:13:45.760
+Find the key terms like fee structure
+
+00:13:42.960 --> 00:13:48.160
+and obligations and deadlines and
+
+00:13:45.760 --> 00:13:51.640
+exclusions and risks.
+
+00:13:48.160 --> 00:13:54.720
+Pay attention to anything that's unclear
+
+00:13:51.640 --> 00:13:57.520
+or anything that makes me liable."
+
+00:13:54.720 --> 00:14:00.080
+Create a table with five columns. What
+
+00:13:57.520 --> 00:14:03.800
+the contract says, what it means in
+
+00:14:00.080 --> 00:14:06.760
+plain English, why it matters, the risk
+
+00:14:03.800 --> 00:14:09.240
+level, and the questions I should be
+
+00:14:06.760 --> 00:14:11.200
+asking. Again, that's just one of many
+
+00:14:09.240 --> 00:14:13.600
+prompts you can give it, but you get the
+
+00:14:11.200 --> 00:14:16.600
+point. You want to break that document
+
+00:14:13.600 --> 00:14:18.480
+open, not get a bird's-eye view on it.
+
+00:14:16.600 --> 00:14:22.000
+That's what agents can do for you. And
+
+00:14:18.480 --> 00:14:25.760
+now, one more important thing, your
+
+00:14:22.000 --> 00:14:28.400
+mileage may vary, but I personally don't
+
+00:14:25.760 --> 00:14:32.040
+like uploading sensitive information
+
+00:14:28.400 --> 00:14:35.000
+like personal financial data or medical
+
+00:14:32.040 --> 00:14:37.320
+reports. So, be mindful about all of
+
+00:14:35.000 --> 00:14:40.160
+that. All right, we're on to the fourth
+
+00:14:37.320 --> 00:14:42.520
+pillar. This last agent helps you handle
+
+00:14:40.160 --> 00:14:45.120
+the moment once you're in the room, the
+
+00:14:42.520 --> 00:14:47.280
+interview, the raise, the pitch. With
+
+00:14:45.120 --> 00:14:49.680
+some conversations, you only get one
+
+00:14:47.280 --> 00:14:52.480
+shot. That's why you have to rehearse. I
+
+00:14:49.680 --> 00:14:55.400
+remember my first job interview. It was
+
+00:14:52.480 --> 00:14:58.560
+long time ago. And I had no idea what to
+
+00:14:55.400 --> 00:15:00.600
+do, what to wear. I didn't even know how
+
+00:14:58.560 --> 00:15:03.800
+to tie a tie.
+
+00:15:00.600 --> 00:15:06.600
+I don't think I even owned a tie. So, I
+
+00:15:03.800 --> 00:15:09.800
+asked my roommate if I could borrow his
+
+00:15:06.600 --> 00:15:11.320
+tie. His name was Mike Green. Awesome
+
+00:15:09.800 --> 00:15:14.680
+awesome roommate.
+
+00:15:11.320 --> 00:15:16.000
+He said, "Sure, but do you know how to
+
+00:15:14.680 --> 00:15:18.400
+wear it?"
+
+00:15:16.000 --> 00:15:21.440
+And I shook my head and we both cracked
+
+00:15:18.400 --> 00:15:24.120
+up. So, he got a tie, tied it around his
+
+00:15:21.440 --> 00:15:26.960
+neck first, loosened it, and handed it
+
+00:15:24.120 --> 00:15:28.800
+to me and said, "Good luck."
+
+00:15:26.960 --> 00:15:30.920
+Of course, I walked in wearing a
+
+00:15:28.800 --> 00:15:33.160
+borrowed tie, but still had the same
+
+00:15:30.920 --> 00:15:34.680
+anxiety about my first interview. Turns
+
+00:15:33.160 --> 00:15:37.680
+out that when it comes to interview
+
+00:15:34.680 --> 00:15:40.800
+anxiety, I'm not alone. In a survey done
+
+00:15:37.680 --> 00:15:42.720
+by JDP, 93%
+
+00:15:40.800 --> 00:15:45.280
+of people said they get anxious about
+
+00:15:42.720 --> 00:15:47.280
+job interviews. That's almost all of us.
+
+00:15:45.280 --> 00:15:50.000
+But the survey also said something very
+
+00:15:47.280 --> 00:15:52.400
+useful. One of the best ways to reduce
+
+00:15:50.000 --> 00:15:54.760
+that anxiety is to practice that
+
+00:15:52.400 --> 00:15:57.360
+interview out loud. That's the whole
+
+00:15:54.760 --> 00:15:59.680
+point of the coaching agent. The first
+
+00:15:57.360 --> 00:16:01.560
+time you say the most important thing,
+
+00:15:59.680 --> 00:16:03.880
+you should not be in the most important
+
+00:16:01.560 --> 00:16:07.040
+room. We are going to build an agent
+
+00:16:03.880 --> 00:16:10.000
+that helps you rehearse. I know CEOs who
+
+00:16:07.040 --> 00:16:13.080
+rehearse their entire board meeting with
+
+00:16:10.000 --> 00:16:15.640
+six or seven agents, where each agent is
+
+00:16:13.080 --> 00:16:17.800
+designed to mimic the personality of a
+
+00:16:15.640 --> 00:16:20.560
+specific board member.
+
+00:16:17.800 --> 00:16:22.840
+Yeah. It's that important. We will use
+
+00:16:20.560 --> 00:16:25.080
+job interview as an example as we build
+
+00:16:22.840 --> 00:16:27.560
+it, but you can use it for any
+
+00:16:25.080 --> 00:16:30.960
+professional or personal conversation or
+
+00:16:27.560 --> 00:16:33.680
+negotiations. Okay, first, I add all the
+
+00:16:30.960 --> 00:16:37.560
+context, the company background, job
+
+00:16:33.680 --> 00:16:39.720
+description, my cover letter, my resume,
+
+00:16:37.560 --> 00:16:42.600
+my position statement, [music] and so
+
+00:16:39.720 --> 00:16:45.920
+on. Second, we want to tell the agent
+
+00:16:42.600 --> 00:16:48.360
+who to be. You are the hiring manager
+
+00:16:45.920 --> 00:16:51.600
+for a senior product role. You are
+
+00:16:48.360 --> 00:16:54.160
+sharp. You're a little skeptical.
+
+00:16:51.600 --> 00:16:56.600
+And you've read my resume, so go ahead
+
+00:16:54.160 --> 00:16:59.680
+and interview me. Ask one question at a
+
+00:16:56.600 --> 00:17:02.640
+time. And push back on weak answers like
+
+00:16:59.680 --> 00:17:05.120
+a real interviewer would. And keep track
+
+00:17:02.640 --> 00:17:08.240
+of our entire interview so we can
+
+00:17:05.120 --> 00:17:11.240
+analyze and improve my performance. And
+
+00:17:08.240 --> 00:17:14.280
+here's the move that makes it all real.
+
+00:17:11.240 --> 00:17:17.600
+Don't type it. Talk to it. Turn on the
+
+00:17:14.280 --> 00:17:20.120
+voice mode. On your phone. So ChatGPT,
+
+00:17:17.600 --> 00:17:22.439
+Gemini, Claude, they all let you speak
+
+00:17:20.120 --> 00:17:24.600
+out loud, and they all can have natural
+
+00:17:22.439 --> 00:17:26.600
+conversation with you. You can interrupt
+
+00:17:24.600 --> 00:17:29.480
+it, you can ask clarifying questions.
+
+00:17:26.600 --> 00:17:32.080
+It's a real conversation. I do this all
+
+00:17:29.480 --> 00:17:34.840
+the time on my walks. And when I'm done,
+
+00:17:32.080 --> 00:17:37.760
+I want both the agent and me to break
+
+00:17:34.840 --> 00:17:40.200
+character. I would say, "Okay, we're
+
+00:17:37.760 --> 00:17:42.640
+done with the interview. Now, you're my
+
+00:17:40.200 --> 00:17:43.720
+interview coach. Tell me where I was
+
+00:17:42.640 --> 00:17:45.800
+weak,
+
+00:17:43.720 --> 00:17:47.920
+where I fumbled,
+
+00:17:45.800 --> 00:17:50.480
+what I should have said.
+
+00:17:47.920 --> 00:17:52.520
+Tell me where I rambled on. Give me
+
+00:17:50.480 --> 00:17:54.520
+three ways I could have answered that
+
+00:17:52.520 --> 00:17:57.640
+question better." And once the coaching
+
+00:17:54.520 --> 00:18:01.240
+session is over, now you can turn up the
+
+00:17:57.640 --> 00:18:04.280
+heat. Give that agent a persona of a
+
+00:18:01.240 --> 00:18:06.840
+tougher hiring manager. Maybe you're
+
+00:18:04.280 --> 00:18:09.000
+applying to a startup, and the CEO will
+
+00:18:06.840 --> 00:18:11.880
+be the one interviewing you at the end.
+
+00:18:09.000 --> 00:18:14.080
+Give that persona to the agent. Let the
+
+00:18:11.880 --> 00:18:17.040
+agent know that it should conduct the
+
+00:18:14.080 --> 00:18:19.080
+interview in that persona for 45
+
+00:18:17.040 --> 00:18:22.320
+minutes, and give you the last 15
+
+00:18:19.080 --> 00:18:25.080
+minutes to ask questions to the CEO.
+
+00:18:22.320 --> 00:18:27.440
+Because that will happen in real life.
+
+00:18:25.080 --> 00:18:28.760
+And finally, once you're done with all
+
+00:18:27.440 --> 00:18:31.520
+your reps,
+
+00:18:28.760 --> 00:18:34.720
+don't forget to ask. Turn what you've
+
+00:18:31.520 --> 00:18:37.080
+learned into a one-page prep card, so I
+
+00:18:34.720 --> 00:18:38.560
+can review it before the interview. Now,
+
+00:18:37.080 --> 00:18:42.120
+you have something you can use. [music]
+
+00:18:38.560 --> 00:18:44.600
+Your goal here is not to create a set of
+
+00:18:42.120 --> 00:18:47.600
+scripted answers, but to build the
+
+00:18:44.600 --> 00:18:50.200
+capacity to deliver good answers, no
+
+00:18:47.600 --> 00:18:53.280
+matter what the questions are. Like all
+
+00:18:50.200 --> 00:18:56.360
+great musicians, rehearsals teach you to
+
+00:18:53.280 --> 00:18:59.200
+build judgment and taste, so you can
+
+00:18:56.360 --> 00:19:02.000
+become comfortable improvising on stage.
+
+00:18:59.200 --> 00:19:06.640
+So, those are the four pillars. You
+
+00:19:02.000 --> 00:19:08.880
+know, as AI becomes more entangled in
+
+00:19:06.640 --> 00:19:11.240
+our lives, there's definitely a sense of
+
+00:19:08.880 --> 00:19:14.440
+fear running under all of this.
+
+00:19:11.240 --> 00:19:18.160
+According to a recent survey, 70%
+
+00:19:14.440 --> 00:19:21.480
+of Americans believe AI will shrink job
+
+00:19:18.160 --> 00:19:26.480
+opportunities. And among Gen Z, it is
+
+00:19:21.480 --> 00:19:28.760
+81%. Sure, some jobs will be displaced.
+
+00:19:26.480 --> 00:19:30.040
+There will definitely be some pain
+
+00:19:28.760 --> 00:19:33.560
+around that.
+
+00:19:30.040 --> 00:19:37.240
+But, many, many more new jobs will be
+
+00:19:33.560 --> 00:19:40.560
+created over time because of AI.
+
+00:19:37.240 --> 00:19:44.120
+We have been here before.
+
+00:19:40.560 --> 00:19:46.440
+Every age has believed that the machine
+
+00:19:44.120 --> 00:19:48.680
+would swallow the person.
+
+00:19:46.440 --> 00:19:51.840
+Charlie Chaplin showed it in Modern
+
+00:19:48.680 --> 00:19:54.360
+Times. A man literally pulled into the
+
+00:19:51.840 --> 00:19:55.960
+gears of a factory. And that was made in
+
+00:19:54.360 --> 00:20:00.360
+1936.
+
+00:19:55.960 --> 00:20:04.040
+If the contest is speed, memory, or
+
+00:20:00.360 --> 00:20:05.400
+faster output, machines will win every
+
+00:20:04.040 --> 00:20:07.840
+single time.
+
+00:20:05.400 --> 00:20:11.560
+But, I think the real contest will be
+
+00:20:07.840 --> 00:20:13.200
+about the things machines cannot own.
+
+00:20:11.560 --> 00:20:15.000
+Your attention,
+
+00:20:13.200 --> 00:20:17.080
+your creativity,
+
+00:20:15.000 --> 00:20:19.440
+your clarity,
+
+00:20:17.080 --> 00:20:21.440
+and that one thing that matters most
+
+00:20:19.440 --> 00:20:22.920
+when you build your career, your life,
+
+00:20:21.440 --> 00:20:25.120
+your company,
+
+00:20:22.920 --> 00:20:27.080
+your judgment.
+
+00:20:25.120 --> 00:20:29.560
+Those are the four pillars we talked
+
+00:20:27.080 --> 00:20:29.560
+about.
+
+00:20:29.600 --> 00:20:34.920
+Sure, the machines will keep getting
+
+00:20:31.640 --> 00:20:36.600
+smarter and faster.
+
+00:20:34.920 --> 00:20:38.680
+Let them.
+
+00:20:36.600 --> 00:20:42.080
+Use the machines.
+
+00:20:38.680 --> 00:20:42.080
+You don't have to become one.
+
+00:20:42.520 --> 00:20:47.920
+See you next week. Thank you.
+
+00:20:45.240 --> 00:20:47.920
+And I love you.
+

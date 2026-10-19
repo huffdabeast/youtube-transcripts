@@ -1,0 +1,839 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.880
+1,700.
+
+00:00:01.800 --> 00:00:06.120
+That's how many short video ads one
+
+00:00:03.880 --> 00:00:08.480
+drinkware brand posted and all of those
+
+00:00:06.120 --> 00:00:10.880
+ads pulled in over 100 million views and
+
+00:00:08.480 --> 00:00:12.960
+more than $100,000 in sales. Now, the
+
+00:00:10.880 --> 00:00:15.065
+brand is called Frost Buddy, the
+
+00:00:12.960 --> 00:00:17.240
+universal can coolers, and none of
+
+00:00:15.065 --> 00:00:19.480
+[music] that came from this ginormous ad
+
+00:00:17.240 --> 00:00:21.440
+budget. It actually came from volume.
+
+00:00:19.480 --> 00:00:23.320
+So, flooding the market with short video
+
+00:00:21.440 --> 00:00:25.480
+ads and then letting the market tell
+
+00:00:23.320 --> 00:00:27.160
+them which ones worked. Their founder
+
+00:00:25.480 --> 00:00:30.640
+reports that over the same period their
+
+00:00:27.160 --> 00:00:33.640
+TikTok shop went from around $25,000 to
+
+00:00:30.640 --> 00:00:35.080
+over $13 million. This is the power of
+
+00:00:33.640 --> 00:00:36.960
+marketing that I talk about all of the
+
+00:00:35.080 --> 00:00:38.680
+time on this channel and one that so
+
+00:00:36.960 --> 00:00:41.000
+many of you ask, you know, how can I do
+
+00:00:38.680 --> 00:00:43.360
+marketing videos? Now, this does leave
+
+00:00:41.000 --> 00:00:46.640
+one obvious problem. Who has time to
+
+00:00:43.360 --> 00:00:48.000
+film 1,700 short-form videos? Now, if
+
+00:00:46.640 --> 00:00:50.080
+you don't want to be on camera in the
+
+00:00:48.000 --> 00:00:52.520
+first place, the whole strategy is a
+
+00:00:50.080 --> 00:00:54.520
+non-starter. Except, it doesn't have to
+
+00:00:52.520 --> 00:00:56.560
+be. A brand called Lathe is running that
+
+00:00:54.520 --> 00:00:58.880
+same volume playbook without ever
+
+00:00:56.560 --> 00:01:00.920
+pointing a camera at a single person. No
+
+00:00:58.880 --> 00:01:03.560
+actors, no studio, and no face on
+
+00:01:00.920 --> 00:01:04.760
+screen, just [music] AI avatars. So,
+
+00:01:03.560 --> 00:01:06.640
+that's exactly what I'm going to be
+
+00:01:04.760 --> 00:01:08.840
+building today, the volume engine that
+
+00:01:06.640 --> 00:01:10.640
+Frost Buddy proved works with the
+
+00:01:08.840 --> 00:01:12.560
+faceless approach for many of you out
+
+00:01:10.640 --> 00:01:14.400
+there who don't want to show your face
+
+00:01:12.560 --> 00:01:16.440
+in marketing content. So, we're going to
+
+00:01:14.400 --> 00:01:18.160
+be going start to finish with Polo AI's
+
+00:01:16.440 --> 00:01:20.160
+new agent. So, if you have your own
+
+00:01:18.160 --> 00:01:21.800
+computer at home or smartphone, you can
+
+00:01:20.160 --> 00:01:24.200
+follow along whether you're doing print
+
+00:01:21.800 --> 00:01:25.840
+on demand, you've started a TikTok shop,
+
+00:01:24.200 --> 00:01:27.560
+or whatever small business or side
+
+00:01:25.840 --> 00:01:29.200
+hustle that you've started to run, this
+
+00:01:27.560 --> 00:01:31.840
+is going to be helpful for you. The tool
+
+00:01:29.200 --> 00:01:34.480
+I'm using today is Polo Agent 2.0. It's
+
+00:01:31.840 --> 00:01:36.480
+powered by Seedance 2.5, one of the most
+
+00:01:34.480 --> 00:01:38.520
+advanced and powerful AI video models
+
+00:01:36.480 --> 00:01:41.160
+available today. You give it a product
+
+00:01:38.520 --> 00:01:43.200
+like a photo, a link, even a rough idea,
+
+00:01:41.160 --> 00:01:44.960
+and it turns that into finished video
+
+00:01:43.200 --> 00:01:46.240
+ads. You don't have to do editing and
+
+00:01:44.960 --> 00:01:47.360
+you don't have to have prompt
+
+00:01:46.240 --> 00:01:48.560
+engineering. And we're going to be
+
+00:01:47.360 --> 00:01:50.400
+starting with the one that does all of
+
+00:01:48.560 --> 00:01:52.360
+the heavy lifting and that's the UGC
+
+00:01:50.400 --> 00:01:54.200
+style avatar ad. Now, I'm going to be
+
+00:01:52.360 --> 00:01:56.000
+building this around a print on demand
+
+00:01:54.200 --> 00:01:57.760
+item because we We talk about print on
+
+00:01:56.000 --> 00:01:58.960
+demand all of the time on this channel
+
+00:01:57.760 --> 00:02:01.680
+and the first thing that I'm going to be
+
+00:01:58.960 --> 00:02:03.880
+doing is coming right here to Palo AI,
+
+00:02:01.680 --> 00:02:06.160
+signing in and then coming over here to
+
+00:02:03.880 --> 00:02:09.080
+agent. Now, just a little backstory on
+
+00:02:06.160 --> 00:02:11.360
+what agent actually is, Palo agent is an
+
+00:02:09.080 --> 00:02:13.800
+AI video creation assistant. It's built
+
+00:02:11.360 --> 00:02:15.600
+specifically for e-commerce marketing
+
+00:02:13.800 --> 00:02:18.120
+and content creators. So, it's going to
+
+00:02:15.600 --> 00:02:20.640
+be turning those product links, photos,
+
+00:02:18.120 --> 00:02:23.280
+or even raw ideas into high-converting
+
+00:02:20.640 --> 00:02:25.600
+video ads and viral content in seconds
+
+00:02:23.280 --> 00:02:27.320
+with zero editing skills or prompt
+
+00:02:25.600 --> 00:02:29.000
+engineering required. So, this is where
+
+00:02:27.320 --> 00:02:30.720
+we're going to operate from for the
+
+00:02:29.000 --> 00:02:32.840
+entire video and you're going to be able
+
+00:02:30.720 --> 00:02:34.440
+to see everything is handled inside of
+
+00:02:32.840 --> 00:02:35.800
+this chat. You're also going to see that
+
+00:02:34.440 --> 00:02:37.959
+you're going to be able to make all
+
+00:02:35.800 --> 00:02:39.440
+adjustments right here without ever
+
+00:02:37.959 --> 00:02:40.800
+having to leave the chat with your
+
+00:02:39.440 --> 00:02:43.400
+agent. Now, the first thing we want to
+
+00:02:40.800 --> 00:02:45.959
+do is create those UGC style ads. So,
+
+00:02:43.400 --> 00:02:47.760
+I'm going to select UG video ads tab
+
+00:02:45.959 --> 00:02:50.120
+right here and you can see in the prompt
+
+00:02:47.760 --> 00:02:51.800
+box, it already has the prompt and it
+
+00:02:50.120 --> 00:02:54.160
+asks you to do a couple of things. The
+
+00:02:51.800 --> 00:02:56.200
+first is to upload the persona that you
+
+00:02:54.160 --> 00:02:58.000
+want to feature and then to upload your
+
+00:02:56.200 --> 00:03:00.120
+product features. Now, I'm going to go
+
+00:02:58.000 --> 00:03:03.000
+in here and upload four photos of the
+
+00:03:00.120 --> 00:03:04.880
+print on demand ring. However, also note
+
+00:03:03.000 --> 00:03:07.320
+here that you are able to upload a
+
+00:03:04.880 --> 00:03:08.920
+product link as well. So, if you already
+
+00:03:07.320 --> 00:03:10.440
+have a storefront, you just have your
+
+00:03:08.920 --> 00:03:12.239
+product link, you can go ahead and
+
+00:03:10.440 --> 00:03:14.160
+upload that link without doing the
+
+00:03:12.239 --> 00:03:15.920
+photos. For this, I don't want to upload
+
+00:03:14.160 --> 00:03:17.720
+a character and I'm also just going to
+
+00:03:15.920 --> 00:03:20.000
+add a short simple prompt here that
+
+00:03:17.720 --> 00:03:22.160
+says, "Create a marketing video of this
+
+00:03:20.000 --> 00:03:24.519
+product showing off its high quality.
+
+00:03:22.160 --> 00:03:26.120
+Use a beautiful blonde Gen Zer as the
+
+00:03:24.519 --> 00:03:27.280
+avatar." And then after a few minutes,
+
+00:03:26.120 --> 00:03:28.760
+let's go ahead and take a look at what
+
+00:03:27.280 --> 00:03:30.800
+this created.
+
+00:03:28.760 --> 00:03:33.532
+>> Oh my gosh, you guys have to see the
+
+00:03:30.800 --> 00:03:35.880
+quality of this. It honestly feels
+
+00:03:33.532 --> 00:03:36.720
+[music] so premium and well-made. I'm
+
+00:03:35.880 --> 00:03:38.400
+obsessed.
+
+00:03:36.720 --> 00:03:40.400
+>> So, as you all can see, this is pretty
+
+00:03:38.400 --> 00:03:42.480
+good. It really shows the product, which
+
+00:03:40.400 --> 00:03:44.400
+is crucial. We're trying to show off the
+
+00:03:42.480 --> 00:03:46.480
+product to sell the product. Now, let's
+
+00:03:44.400 --> 00:03:48.239
+say that you don't want the AI avatar or
+
+00:03:46.480 --> 00:03:50.280
+the character in this and you just want
+
+00:03:48.239 --> 00:03:51.880
+a product showcase of your product. What
+
+00:03:50.280 --> 00:03:54.880
+I'm going to do is come right here to
+
+00:03:51.880 --> 00:03:57.280
+skills, then marketing, and then photo
+
+00:03:54.880 --> 00:03:59.640
+to video ads. What I have to do first is
+
+00:03:57.280 --> 00:04:01.280
+upload my product photos. So, I'm just
+
+00:03:59.640 --> 00:04:03.320
+going to go back into my computer,
+
+00:04:01.280 --> 00:04:05.080
+upload those product photos, and then
+
+00:04:03.320 --> 00:04:07.640
+I'm going to input this prompt.
+
+00:04:05.080 --> 00:04:10.120
+Close-up, a woman's hand slowly tilts
+
+00:04:07.640 --> 00:04:12.400
+the gold ring to show the sunshine from
+
+00:04:10.120 --> 00:04:15.280
+the natural window light on the ring.
+
+00:04:12.400 --> 00:04:17.760
+Shallow depth of field, warm cozy tones,
+
+00:04:15.280 --> 00:04:21.200
+authentic UGC feel. Now, let's take a
+
+00:04:17.760 --> 00:04:21.200
+look at what this created.
+
+00:04:26.587 --> 00:04:29.040
+>> [music]
+
+00:04:27.120 --> 00:04:31.120
+>> So, again, very good quality here in
+
+00:04:29.040 --> 00:04:33.000
+showcasing that product in great detail,
+
+00:04:31.120 --> 00:04:34.560
+which is really great for marketing
+
+00:04:33.000 --> 00:04:36.600
+because this is exactly what your
+
+00:04:34.560 --> 00:04:38.640
+customers want to see. They want to see
+
+00:04:36.600 --> 00:04:40.560
+that product. That's the whole I have a
+
+00:04:38.640 --> 00:04:42.560
+product but no video problem that I see
+
+00:04:40.560 --> 00:04:44.280
+a lot in my comment sections when it
+
+00:04:42.560 --> 00:04:46.240
+comes to actually marketing your
+
+00:04:44.280 --> 00:04:47.960
+products with print on demand or TikTok
+
+00:04:46.240 --> 00:04:49.600
+shop or whatever it may be. Now, moving
+
+00:04:47.960 --> 00:04:51.800
+right along into the second feature that
+
+00:04:49.600 --> 00:04:53.600
+I want to show you, clone video ads.
+
+00:04:51.800 --> 00:04:55.760
+This is great for copying videos that
+
+00:04:53.600 --> 00:04:58.040
+have already done really well on other
+
+00:04:55.760 --> 00:05:00.400
+platforms for your own product. So, when
+
+00:04:58.040 --> 00:05:02.440
+a video does well, it's usually not just
+
+00:05:00.400 --> 00:05:04.800
+luck, it's structure. So, the hook in
+
+00:05:02.440 --> 00:05:07.240
+the first seconds, the pacing, the way
+
+00:05:04.800 --> 00:05:09.960
+that the shots are cut. Clone video ads
+
+00:05:07.240 --> 00:05:12.040
+here lets you paste in a viral TikTok or
+
+00:05:09.960 --> 00:05:13.760
+a short or a reel, and the agent breaks
+
+00:05:12.040 --> 00:05:15.720
+down why it works. So, the hook, the
+
+00:05:13.760 --> 00:05:17.760
+pacing, the visual structure, then it's
+
+00:05:15.720 --> 00:05:19.520
+going to rebuild that same structure
+
+00:05:17.760 --> 00:05:21.160
+with your product or your character
+
+00:05:19.520 --> 00:05:23.080
+swapped in. So, you're not stealing
+
+00:05:21.160 --> 00:05:24.640
+anyone's footage, you're borrowing the
+
+00:05:23.080 --> 00:05:26.640
+framework that already proved that it
+
+00:05:24.640 --> 00:05:28.320
+can hold the attention and make it about
+
+00:05:26.640 --> 00:05:30.600
+your product. For this, we're going to
+
+00:05:28.320 --> 00:05:32.680
+stay right here inside Palo Agent and
+
+00:05:30.600 --> 00:05:35.200
+select the skills tab, and then clone
+
+00:05:32.680 --> 00:05:36.800
+video ads. A quick note, once you select
+
+00:05:35.200 --> 00:05:38.560
+this, you can also browse these
+
+00:05:36.800 --> 00:05:40.080
+different scenarios right down here and
+
+00:05:38.560 --> 00:05:42.000
+quickly find, you know, a relevant
+
+00:05:40.080 --> 00:05:43.600
+feature you may want to use based on
+
+00:05:42.000 --> 00:05:45.760
+your specific need. But, what it's
+
+00:05:43.600 --> 00:05:47.960
+asking for is your product images and
+
+00:05:45.760 --> 00:05:49.960
+the link you want it to go off of for
+
+00:05:47.960 --> 00:05:51.800
+the video creation. I also want to point
+
+00:05:49.960 --> 00:05:54.280
+out that when you hover right here, it's
+
+00:05:51.800 --> 00:05:56.520
+pulling up direct sites that you may be
+
+00:05:54.280 --> 00:05:58.520
+selling from to make this whole process
+
+00:05:56.520 --> 00:06:00.600
+easier. So, that's perfect for if you've
+
+00:05:58.520 --> 00:06:02.160
+already got your Shopify storefront or
+
+00:06:00.600 --> 00:06:04.760
+if you're already running that Etsy
+
+00:06:02.160 --> 00:06:06.520
+shop, Amazon storefront, or the TikTok
+
+00:06:04.760 --> 00:06:08.320
+shop. I talk about these a lot on this
+
+00:06:06.520 --> 00:06:10.440
+channel and this streamlines that. So,
+
+00:06:08.320 --> 00:06:12.360
+if you've got your product there, great.
+
+00:06:10.440 --> 00:06:13.920
+Select it and choose your product. For
+
+00:06:12.360 --> 00:06:15.800
+the video link, I just went over to
+
+00:06:13.920 --> 00:06:17.600
+TikTok and I found this really popular
+
+00:06:15.800 --> 00:06:19.640
+jewelry page with really great views on
+
+00:06:17.600 --> 00:06:21.360
+the videos. Means she's doing a really
+
+00:06:19.640 --> 00:06:23.800
+great job. So, what I did was just
+
+00:06:21.360 --> 00:06:25.600
+choose one. I copied the link. I came
+
+00:06:23.800 --> 00:06:27.640
+right back over here and pasted it in
+
+00:06:25.600 --> 00:06:30.240
+Palo AI, and then again, input my
+
+00:06:27.640 --> 00:06:31.280
+product images. No prompt for this one.
+
+00:06:30.240 --> 00:06:33.919
+Let's go ahead and take a look at the
+
+00:06:31.280 --> 00:06:34.969
+video it created. Meet the Kimmie signet
+
+00:06:33.919 --> 00:06:36.989
+ring.
+
+00:06:34.969 --> 00:06:36.989
+>> [music]
+
+00:06:37.520 --> 00:06:43.080
+>> A personal gold piece made to be worn
+
+00:06:40.200 --> 00:06:43.080
+every day.
+
+00:06:44.139 --> 00:06:47.520
+>> [music]
+
+00:06:44.440 --> 00:06:49.000
+>> The kind of gift they'll never forget.
+
+00:06:47.520 --> 00:06:50.840
+Now, I can't lie with this one. This one
+
+00:06:49.000 --> 00:06:53.120
+is my favorite. It could be the quality,
+
+00:06:50.840 --> 00:06:54.960
+but the product really pops. It's shown
+
+00:06:53.120 --> 00:06:57.280
+off in a really great fashion. This one
+
+00:06:54.960 --> 00:06:59.400
+is super impressive. I also want you to
+
+00:06:57.280 --> 00:07:02.120
+note right here that you can really see
+
+00:06:59.400 --> 00:07:04.960
+like the texture of the hand and how
+
+00:07:02.120 --> 00:07:07.560
+real the skin looks and how real the
+
+00:07:04.960 --> 00:07:09.800
+product looks. I just am very impressed
+
+00:07:07.560 --> 00:07:12.680
+with this specific one. This is really
+
+00:07:09.800 --> 00:07:14.840
+great for a TikTok product page or an
+
+00:07:12.680 --> 00:07:17.040
+Instagram product page [music] or a
+
+00:07:14.840 --> 00:07:18.840
+Facebook brand page. Now, I want to go
+
+00:07:17.040 --> 00:07:20.680
+ahead and talk about creating a brand
+
+00:07:18.840 --> 00:07:22.240
+kit. This is the last feature that I
+
+00:07:20.680 --> 00:07:23.680
+really want to point out for this
+
+00:07:22.240 --> 00:07:25.919
+because I think it's really important
+
+00:07:23.680 --> 00:07:27.919
+for marketing and starting a brand or a
+
+00:07:25.919 --> 00:07:30.000
+small business, and that's creating this
+
+00:07:27.919 --> 00:07:31.520
+brand kit cuz it's going to assist your
+
+00:07:30.000 --> 00:07:33.280
+store and your products in looking
+
+00:07:31.520 --> 00:07:35.600
+consistent. So, having those same
+
+00:07:33.280 --> 00:07:38.680
+colors, the same vibe every single post
+
+00:07:35.600 --> 00:07:40.000
+that you do has a brand or a vibe to it.
+
+00:07:38.680 --> 00:07:41.960
+So, to do this, I'm just going to be
+
+00:07:40.000 --> 00:07:43.920
+coming down here and selecting the brand
+
+00:07:41.960 --> 00:07:45.600
+kit button. Then go ahead and select
+
+00:07:43.920 --> 00:07:48.280
+create a brand kit, and then I'm just
+
+00:07:45.600 --> 00:07:50.760
+pasting a website URL to automatically
+
+00:07:48.280 --> 00:07:52.640
+extract, you know, brand assets from the
+
+00:07:50.760 --> 00:07:54.360
+already built store. And then let's just
+
+00:07:52.640 --> 00:07:56.160
+give it a few minutes to run. You can
+
+00:07:54.360 --> 00:07:58.240
+see everything is really consistent. The
+
+00:07:56.160 --> 00:08:00.840
+colors are really beautiful. The vibe is
+
+00:07:58.240 --> 00:08:02.560
+there for the specific shop. So, it did
+
+00:08:00.840 --> 00:08:04.840
+a really great job. For anyone building
+
+00:08:02.560 --> 00:08:07.560
+something that is recognizable, the
+
+00:08:04.840 --> 00:08:09.040
+consistency is half the battle, right?
+
+00:08:07.560 --> 00:08:11.040
+In the beginning, you don't really think
+
+00:08:09.040 --> 00:08:12.720
+about branding or marketing or the
+
+00:08:11.040 --> 00:08:13.880
+overall vibe or look of your shop.
+
+00:08:12.720 --> 00:08:15.840
+You're kind of thinking about the
+
+00:08:13.880 --> 00:08:18.200
+products. It is a lot in the beginning.
+
+00:08:15.840 --> 00:08:19.800
+So, having this tool to help create that
+
+00:08:18.200 --> 00:08:22.200
+brand kit on top of the marketing
+
+00:08:19.800 --> 00:08:24.240
+content is extremely beneficial. Where I
+
+00:08:22.200 --> 00:08:26.000
+would personally set my expectations is
+
+00:08:24.240 --> 00:08:28.000
+that this is a starting point, not a
+
+00:08:26.000 --> 00:08:30.160
+replace your whole brain button. So, the
+
+00:08:28.000 --> 00:08:31.840
+first version won't always be the final
+
+00:08:30.160 --> 00:08:33.440
+version, you know, you may have to work
+
+00:08:31.840 --> 00:08:35.760
+on it a couple of times. But, that's
+
+00:08:33.440 --> 00:08:37.680
+exactly what the chat iteration is for.
+
+00:08:35.760 --> 00:08:39.280
+So, your taste does still matter. You do
+
+00:08:37.680 --> 00:08:41.159
+need to have a little bit of a say.
+
+00:08:39.280 --> 00:08:42.840
+You're the director. Treat the AI like
+
+00:08:41.159 --> 00:08:44.960
+your crew. I'm not going to promise you
+
+00:08:42.840 --> 00:08:47.080
+sales, and nobody honest will. But, what
+
+00:08:44.960 --> 00:08:49.160
+I will say is that this cuts, you know,
+
+00:08:47.080 --> 00:08:51.920
+a majority of I can't make marketing
+
+00:08:49.160 --> 00:08:52.920
+content excuses down to almost nothing.
+
+00:08:51.920 --> 00:08:54.520
+If you do want to try it out for
+
+00:08:52.920 --> 00:08:56.480
+yourself, I'm going to drop a link in
+
+00:08:54.520 --> 00:08:58.520
+the description box down below. Thank
+
+00:08:56.480 --> 00:09:00.360
+you to Paulo AI for sponsoring today's
+
+00:08:58.520 --> 00:09:02.480
+video, for letting me get in early, and
+
+00:09:00.360 --> 00:09:04.240
+for letting my viewers get in early on
+
+00:09:02.480 --> 00:09:06.880
+this. If this helped anyone out there
+
+00:09:04.240 --> 00:09:08.480
+see what's possible with AI, do the free
+
+00:09:06.880 --> 00:09:10.280
+thing that helps the channel more than
+
+00:09:08.480 --> 00:09:11.920
+anything else, and that is the like
+
+00:09:10.280 --> 00:09:13.320
+button and the subscribe button. Let me
+
+00:09:11.920 --> 00:09:15.640
+know in the comments down below what you
+
+00:09:13.320 --> 00:09:16.960
+thought of what this tool created today.
+
+00:09:15.640 --> 00:09:18.400
+What did you think about the marketing
+
+00:09:16.960 --> 00:09:20.320
+content, and what did you think about
+
+00:09:18.400 --> 00:09:21.880
+the quality of the videos? As always,
+
+00:09:20.320 --> 00:09:23.320
+thank you guys so much for all of your
+
+00:09:21.880 --> 00:09:24.880
+continuous support on this channel, and
+
+00:09:23.320 --> 00:09:27.960
+I do look forward to seeing you in my
+
+00:09:24.880 --> 00:09:27.960
+next one. Bye-bye.
+

@@ -1,0 +1,1508 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.080
+My name is Ivan and I built Lancer. We
+
+00:00:02.160 --> 00:00:06.920
+managed to get to $10,000 a month the
+
+00:00:05.080 --> 00:00:10.080
+third or fourth month after launching.
+
+00:00:06.920 --> 00:00:11.920
+This is Ivan, a builder from Macedonia
+
+00:00:10.080 --> 00:00:14.880
+who ran into a problem we've all
+
+00:00:11.920 --> 00:00:16.480
+experienced, boring, repetitive tasks.
+
+00:00:14.880 --> 00:00:18.480
+This seems like a perfect case where an
+
+00:00:16.480 --> 00:00:20.560
+agent would outperform a human by like
+
+00:00:18.480 --> 00:00:22.440
+10 times or even more. [music] So, he
+
+00:00:20.560 --> 00:00:24.640
+built an AI agent to automate the
+
+00:00:22.440 --> 00:00:27.800
+boring, repetitive tasks. In just a few
+
+00:00:24.640 --> 00:00:30.440
+months, he went from zero to $10,000 MRR
+
+00:00:27.800 --> 00:00:32.200
+and he did it without running ads or
+
+00:00:30.440 --> 00:00:34.200
+building an audience. I think the most
+
+00:00:32.200 --> 00:00:36.200
+interesting part of how we grew Lancer
+
+00:00:34.200 --> 00:00:38.520
+is that we used
+
+00:00:36.200 --> 00:00:40.200
+and we did zero paid ads. So, I asked
+
+00:00:38.520 --> 00:00:42.200
+Ivan to come on the channel and break
+
+00:00:40.200 --> 00:00:44.920
+down his entire strategy. And in this
+
+00:00:42.200 --> 00:00:47.320
+video, we'll dive into how to find ideas
+
+00:00:44.920 --> 00:00:49.200
+in plain sight in your daily life, how
+
+00:00:47.320 --> 00:00:51.160
+to shortcut the entire process of
+
+00:00:49.200 --> 00:00:54.320
+building an audience and get customers
+
+00:00:51.160 --> 00:00:57.040
+on day one, and the huge opportunity in
+
+00:00:54.320 --> 00:01:00.000
+building AI agents that automate tedious
+
+00:00:57.040 --> 00:01:02.560
+work on platforms. This one you cannot
+
+00:01:00.000 --> 00:01:04.960
+miss. I'm Pat Walls and this is Starter
+
+00:01:02.560 --> 00:01:05.920
+Story.
+
+00:01:04.960 --> 00:01:07.520
+All right, real quick. If you're
+
+00:01:05.920 --> 00:01:09.760
+watching this and want some ideas on how
+
+00:01:07.520 --> 00:01:11.320
+to build your own AI agent, well, I put
+
+00:01:09.760 --> 00:01:12.760
+a link in the description right there
+
+00:01:11.320 --> 00:01:14.360
+that breaks it all down. We'll talk a
+
+00:01:12.760 --> 00:01:16.640
+little bit more about that later, but
+
+00:01:14.360 --> 00:01:18.440
+for now, let's jump into the episode.
+
+00:01:16.640 --> 00:01:19.920
+Ivan, welcome to the channel. Tell me
+
+00:01:18.440 --> 00:01:21.640
+about who you are, what you built, and
+
+00:01:19.920 --> 00:01:24.080
+what's your story? Hi Pat. My name is
+
+00:01:21.640 --> 00:01:25.560
+Ivan and I built Lancer, an AI agent
+
+00:01:24.080 --> 00:01:26.960
+that automates the job discovery,
+
+00:01:25.560 --> 00:01:28.360
+qualifying, and bidding process on
+
+00:01:26.960 --> 00:01:30.880
+Upwork. I think the most interesting
+
+00:01:28.360 --> 00:01:32.680
+part of how we grew Lancer is that we
+
+00:01:30.880 --> 00:01:34.440
+used something I call connectors and we
+
+00:01:32.680 --> 00:01:36.040
+did zero paid ads. And I'm very excited
+
+00:01:34.440 --> 00:01:37.560
+to share this strategy with you and your
+
+00:01:36.040 --> 00:01:39.480
+audience today. Uh we're going to get
+
+00:01:37.560 --> 00:01:40.600
+all into this connector idea,
+
+00:01:39.480 --> 00:01:41.960
+affiliates, whatever you want to call
+
+00:01:40.600 --> 00:01:43.120
+it. I really, really like how you
+
+00:01:41.960 --> 00:01:45.160
+approach that, but before we're going to
+
+00:01:43.120 --> 00:01:47.560
+talk about the idea and what you built.
+
+00:01:45.160 --> 00:01:49.560
+Can you explain what Lancer is, how it
+
+00:01:47.560 --> 00:01:51.080
+makes money, and potentially show off
+
+00:01:49.560 --> 00:01:53.240
+some of your revenue dashboards and show
+
+00:01:51.080 --> 00:01:54.840
+that this thing is legit? Yeah, Lancer
+
+00:01:53.240 --> 00:01:56.840
+it essentially helps freelancers and
+
+00:01:54.840 --> 00:01:58.240
+agencies turn Upwork into an automated
+
+00:01:56.840 --> 00:01:59.960
+acquisition channel that generates
+
+00:01:58.240 --> 00:02:02.640
+between five and six [music] figures for
+
+00:01:59.960 --> 00:02:04.440
+them each month and also saves them over
+
+00:02:02.640 --> 00:02:06.120
+10 hours a week of very boring and
+
+00:02:04.440 --> 00:02:08.840
+repetitive work. Essentially, we managed
+
+00:02:06.120 --> 00:02:10.640
+to get to $10,000 a month third or
+
+00:02:08.840 --> 00:02:12.360
+fourth month after launching. Uh, it's a
+
+00:02:10.640 --> 00:02:13.920
+classic subscription model. So, I would
+
+00:02:12.360 --> 00:02:15.640
+say it's a premium pricing tier for a
+
+00:02:13.920 --> 00:02:17.440
+SaaS. Uh, we're offering now three
+
+00:02:15.640 --> 00:02:20.160
+plans, which is the pay you go, which
+
+00:02:17.440 --> 00:02:22.560
+you offer $79, you get 30 proposals, and
+
+00:02:20.160 --> 00:02:24.160
+then you pay $2 for each extra proposal
+
+00:02:22.560 --> 00:02:27.560
+sent. Then you have a light plan, which
+
+00:02:24.160 --> 00:02:28.680
+is $300 for 250 proposals, $1.50 for
+
+00:02:27.560 --> 00:02:30.240
+each extra proposal, and then an
+
+00:02:28.680 --> 00:02:33.160
+unlimited plan, which was initially the
+
+00:02:30.240 --> 00:02:35.520
+launch offer for $500 a month. Okay. I
+
+00:02:33.160 --> 00:02:37.600
+mean, this app is super cool. I love the
+
+00:02:35.520 --> 00:02:41.200
+idea of Lancer, especially because I
+
+00:02:37.600 --> 00:02:43.520
+have spent time and pain going through
+
+00:02:41.200 --> 00:02:44.480
+and handling things on Upwork. Before we
+
+00:02:43.520 --> 00:02:46.000
+get into that, we're going to talk all
+
+00:02:44.480 --> 00:02:47.400
+about your app, how you grew it, how you
+
+00:02:46.000 --> 00:02:48.400
+built it, but before we do, I got to
+
+00:02:47.400 --> 00:02:50.320
+understand a little bit more about your
+
+00:02:48.400 --> 00:02:52.720
+background. How do you even find an idea
+
+00:02:50.320 --> 00:02:54.320
+like this? I just made a solution for a
+
+00:02:52.720 --> 00:02:56.880
+problem that I had. So, for the past
+
+00:02:54.320 --> 00:02:58.840
+five years, uh, I ran MB Masters, which
+
+00:02:56.880 --> 00:03:00.959
+is a software development agency. Uh, we
+
+00:02:58.840 --> 00:03:03.080
+did over seven figures and grew to
+
+00:03:00.959 --> 00:03:04.760
+almost 20 full-time employees. Our main
+
+00:03:03.080 --> 00:03:06.760
+client acquisition channel is Upwork,
+
+00:03:04.760 --> 00:03:08.120
+which turned out to be a very underrated
+
+00:03:06.760 --> 00:03:10.160
+source of quality leads. There are
+
+00:03:08.120 --> 00:03:11.840
+around 200,000 jobs posted on platform
+
+00:03:10.160 --> 00:03:14.160
+each month. Since these jobs are posted
+
+00:03:11.840 --> 00:03:16.200
+across 24 hours in a day, and it takes
+
+00:03:14.160 --> 00:03:18.000
+around 10 minutes to qualify a job and
+
+00:03:16.200 --> 00:03:19.480
+then write a personalized proposal, this
+
+00:03:18.000 --> 00:03:21.360
+seemed like a perfect case where an
+
+00:03:19.480 --> 00:03:23.120
+agent would outperform a human in this
+
+00:03:21.360 --> 00:03:24.560
+task by like [music] 10 times or even
+
+00:03:23.120 --> 00:03:26.400
+more. So, we initially built this as an
+
+00:03:24.560 --> 00:03:27.880
+internal tool, and it crushed for us.
+
+00:03:26.400 --> 00:03:29.440
+Then we did a beta test where I invited
+
+00:03:27.880 --> 00:03:31.080
+several friends which are also agency
+
+00:03:29.440 --> 00:03:32.680
+owners as well. And when they both
+
+00:03:31.080 --> 00:03:34.480
+closed like between them three
+
+00:03:32.680 --> 00:03:35.600
+five-figure clients within two weeks of
+
+00:03:34.480 --> 00:03:37.280
+using the tool, I really thought we
+
+00:03:35.600 --> 00:03:38.280
+really had something here and decided to
+
+00:03:37.280 --> 00:03:40.400
+launch it as a standalone [music]
+
+00:03:38.280 --> 00:03:41.480
+product called Lancer, and that's that.
+
+00:03:40.400 --> 00:03:44.400
+There there seems to be a huge
+
+00:03:41.480 --> 00:03:46.200
+opportunity right now in this sort of
+
+00:03:44.400 --> 00:03:48.320
+almost platform automation thing. I've
+
+00:03:46.200 --> 00:03:50.480
+talked to a few founders recently. Have
+
+00:03:48.320 --> 00:03:52.720
+a few videos coming out where we help
+
+00:03:50.480 --> 00:03:56.120
+you automate something on Poshmark, on
+
+00:03:52.720 --> 00:03:57.480
+Pinterest, on Upwork. AI is certainly
+
+00:03:56.120 --> 00:03:59.520
+helping with that. What do you think the
+
+00:03:57.480 --> 00:04:02.160
+opportunity is here and how could other
+
+00:03:59.520 --> 00:04:04.360
+people watching this find ideas in their
+
+00:04:02.160 --> 00:04:06.040
+daily life like you? Yeah, I think
+
+00:04:04.360 --> 00:04:08.480
+there's a huge opportunity here. AI
+
+00:04:06.040 --> 00:04:10.440
+agents and automating like parts of the
+
+00:04:08.480 --> 00:04:12.600
+workflows that live on top of existing
+
+00:04:10.440 --> 00:04:14.280
+software platforms is very powerful. I
+
+00:04:12.600 --> 00:04:16.400
+would say maybe software niche if I can
+
+00:04:14.280 --> 00:04:18.359
+say it. And I I would say this allows
+
+00:04:16.400 --> 00:04:20.720
+you to get to the customer much easier
+
+00:04:18.359 --> 00:04:22.960
+as well because the users are basically
+
+00:04:20.720 --> 00:04:24.560
+live on the platform. On Upwork, you can
+
+00:04:22.960 --> 00:04:26.680
+you can find your ICP very perfectly
+
+00:04:24.560 --> 00:04:29.040
+because it's all public, you know, it's
+
+00:04:26.680 --> 00:04:30.480
+a it's a public marketplace for talent.
+
+00:04:29.040 --> 00:04:33.480
+And I would say
+
+00:04:30.480 --> 00:04:35.680
+every platform which has a huge user
+
+00:04:33.480 --> 00:04:37.480
+base is something that you can automate
+
+00:04:35.680 --> 00:04:39.480
+and build something on top of. Okay, I
+
+00:04:37.480 --> 00:04:40.919
+agree. I mean there's this sort of
+
+00:04:39.480 --> 00:04:43.280
+buzzword that's going around a lot,
+
+00:04:40.919 --> 00:04:46.480
+which is AI agents. But this is a great
+
+00:04:43.280 --> 00:04:48.280
+example of an AI agent, but actually one
+
+00:04:46.480 --> 00:04:50.080
+that makes money. And as you said, there
+
+00:04:48.280 --> 00:04:51.760
+are so many platforms and so many use
+
+00:04:50.080 --> 00:04:53.080
+cases to build cool stuff here. So for
+
+00:04:51.760 --> 00:04:54.520
+anyone that watches the Starter Story
+
+00:04:53.080 --> 00:04:56.040
+channel, you're probably noticing that
+
+00:04:54.520 --> 00:04:58.120
+there are a lot of similar ideas like
+
+00:04:56.040 --> 00:05:00.320
+this coming over and over. So take note
+
+00:04:58.120 --> 00:05:02.640
+of that. Let's move over to the build.
+
+00:05:00.320 --> 00:05:04.880
+How you actually built this AI agent or
+
+00:05:02.640 --> 00:05:06.600
+this SaaS tool? How'd you build it? So
+
+00:05:04.880 --> 00:05:08.360
+the initial tool that we used it
+
+00:05:06.600 --> 00:05:09.720
+internally in the agency, I built it to
+
+00:05:08.360 --> 00:05:11.600
+and I put it together like over a
+
+00:05:09.720 --> 00:05:13.080
+weekend myself. And it was far from a
+
+00:05:11.600 --> 00:05:15.200
+commercially ready product. Then we
+
+00:05:13.080 --> 00:05:17.080
+built an MVP over the next 3 months
+
+00:05:15.200 --> 00:05:18.480
+using the text that we already used in
+
+00:05:17.080 --> 00:05:20.160
+the agency, which is basically
+
+00:05:18.480 --> 00:05:22.600
+TypeScript on both the front end and the
+
+00:05:20.160 --> 00:05:25.080
+back end using Next.js and Node.js. And
+
+00:05:22.600 --> 00:05:27.760
+then GCP and Firestore for the hosting.
+
+00:05:25.080 --> 00:05:30.240
+And then we use LLMs in two ways on
+
+00:05:27.760 --> 00:05:32.320
+Lancer. This is for job qualification
+
+00:05:30.240 --> 00:05:34.053
+and then proposal writing. I think what
+
+00:05:32.320 --> 00:05:37.000
+he's showing us right now is awesome.
+
+00:05:34.053 --> 00:05:39.520
+[music] There is a huge opportunity in
+
+00:05:37.000 --> 00:05:40.960
+AI agents right now. But my guess is
+
+00:05:39.520 --> 00:05:42.600
+that you might be wondering, where do I
+
+00:05:40.960 --> 00:05:44.720
+even start? That's why I want to tell
+
+00:05:42.600 --> 00:05:46.800
+you about this free guide from
+
+00:05:44.720 --> 00:05:49.200
+Mindstream. [music] It breaks down five
+
+00:05:46.800 --> 00:05:51.800
+proven paths to make money with AI
+
+00:05:49.200 --> 00:05:53.640
+agents. From landing your first client
+
+00:05:51.800 --> 00:05:55.600
+to building a full consulting business,
+
+00:05:53.640 --> 00:05:58.080
+this guide will teach you how to spot
+
+00:05:55.600 --> 00:06:00.360
+high-value ideas hiding in plain sight.
+
+00:05:58.080 --> 00:06:02.240
+They even give you a 30-day roadmap on
+
+00:06:00.360 --> 00:06:03.800
+how to go from zero to your first
+
+00:06:02.240 --> 00:06:05.320
+high-paying client. [music] Combinator,
+
+00:06:03.800 --> 00:06:07.320
+who we're talking to today, figured all
+
+00:06:05.320 --> 00:06:09.080
+this out on his own, but you don't have
+
+00:06:07.320 --> 00:06:10.734
+to. If you're interested, just head to
+
+00:06:09.080 --> 00:06:12.400
+the first link in the description to
+
+00:06:10.734 --> 00:06:13.800
+[music] grab the guide for free. I can't
+
+00:06:12.400 --> 00:06:15.440
+wait to see what you build. All right,
+
+00:06:13.800 --> 00:06:18.640
+let's get back to the episode. I mean,
+
+00:06:15.440 --> 00:06:20.200
+this is the power of LLMs in AI. You
+
+00:06:18.640 --> 00:06:23.120
+know, 5 years ago, you wouldn't have
+
+00:06:20.200 --> 00:06:25.200
+been able to code up in a solution that
+
+00:06:23.120 --> 00:06:27.080
+helped you qualify jobs and then even
+
+00:06:25.200 --> 00:06:29.000
+write proposals to jobs because there's
+
+00:06:27.080 --> 00:06:30.680
+so many nuances and you know, someone
+
+00:06:29.000 --> 00:06:33.040
+wants you to write a secret word, well,
+
+00:06:30.680 --> 00:06:34.919
+your AI can probably do that and write a
+
+00:06:33.040 --> 00:06:36.760
+really nice proposal. That is the power
+
+00:06:34.919 --> 00:06:38.360
+of building with AI and a huge
+
+00:06:36.760 --> 00:06:40.120
+opportunity right now. We're not going
+
+00:06:38.360 --> 00:06:41.480
+to go as far into that because what I
+
+00:06:40.120 --> 00:06:43.040
+really wanted to talk to you about and
+
+00:06:41.480 --> 00:06:44.400
+one of the reasons why I wanted to bring
+
+00:06:43.040 --> 00:06:46.240
+you on the channel is again because we
+
+00:06:44.400 --> 00:06:47.760
+always talk about distribution. We can
+
+00:06:46.240 --> 00:06:49.560
+talk about building stuff all day, but
+
+00:06:47.760 --> 00:06:52.640
+how do you get in front of users and you
+
+00:06:49.560 --> 00:06:54.160
+have a very unique approach with this
+
+00:06:52.640 --> 00:06:56.120
+app, which isn't, you know, post on
+
+00:06:54.160 --> 00:06:57.720
+TikTok or something like that. You
+
+00:06:56.120 --> 00:06:59.040
+approached growth differently. Tell me
+
+00:06:57.720 --> 00:07:00.840
+how you approached growth in the
+
+00:06:59.040 --> 00:07:03.120
+beginning and then what really worked
+
+00:07:00.840 --> 00:07:05.000
+for taking Lancer all the way to 10k per
+
+00:07:03.120 --> 00:07:06.560
+month. Uh to me and this is the most
+
+00:07:05.000 --> 00:07:08.600
+intuitive ways for me to sell, at least
+
+00:07:06.560 --> 00:07:11.040
+is to identify first, obviously, what
+
+00:07:08.600 --> 00:07:13.960
+the ICPs and instead of like going out
+
+00:07:11.040 --> 00:07:16.320
+to them directly using paid ads or cold
+
+00:07:13.960 --> 00:07:18.480
+email at at scale, I identify the layer
+
+00:07:16.320 --> 00:07:21.360
+above them, basically a profile of user
+
+00:07:18.480 --> 00:07:23.320
+who has access to them. So, basically, I
+
+00:07:21.360 --> 00:07:25.120
+call them connectors and essentially
+
+00:07:23.320 --> 00:07:27.720
+convince them to be affiliates. In that
+
+00:07:25.120 --> 00:07:29.840
+way, convincing a connector to sell your
+
+00:07:27.720 --> 00:07:31.880
+to sell a product, so in in this case,
+
+00:07:29.840 --> 00:07:33.360
+Lancer becomes a high-ticket sales call
+
+00:07:31.880 --> 00:07:35.200
+compared to jumping on a hundreds of
+
+00:07:33.360 --> 00:07:36.919
+calls to convince people to try out our
+
+00:07:35.200 --> 00:07:38.480
+$200 a month SaaS product. The right
+
+00:07:36.919 --> 00:07:40.520
+connector is someone that first of all
+
+00:07:38.480 --> 00:07:43.000
+has a network with a ton of basically
+
+00:07:40.520 --> 00:07:44.040
+people that you've identified as your
+
+00:07:43.000 --> 00:07:46.320
+And then they also have a great
+
+00:07:44.040 --> 00:07:48.800
+reputation plus command a ton of trust
+
+00:07:46.320 --> 00:07:50.600
+within your ICP in their network. And if
+
+00:07:48.800 --> 00:07:52.160
+they're a great at sales, that's on top
+
+00:07:50.600 --> 00:07:54.520
+of all of this, that's a great bonus. So
+
+00:07:52.160 --> 00:07:56.560
+in Lancer's case, I identified Upwork
+
+00:07:54.520 --> 00:07:58.880
+coaches as those connectors. Depending
+
+00:07:56.560 --> 00:08:00.800
+on the coach they have, between 5 and 10
+
+00:07:58.880 --> 00:08:02.600
+20 paying customers, so new paying
+
+00:08:00.800 --> 00:08:05.600
+customers each month, which pay them
+
+00:08:02.600 --> 00:08:07.360
+between 600 and sometimes even more than
+
+00:08:05.600 --> 00:08:09.160
+1,000 dollars to help them get leads on
+
+00:08:07.360 --> 00:08:10.840
+Upwork. They have great reviews on their
+
+00:08:09.160 --> 00:08:12.240
+own Upwork profiles and so they
+
+00:08:10.840 --> 00:08:14.000
+basically have a great Upwork profile
+
+00:08:12.240 --> 00:08:16.080
+themselves, so they have a ton of
+
+00:08:14.000 --> 00:08:17.640
+inbound from Upwork and it's very easy
+
+00:08:16.080 --> 00:08:19.560
+for them to upsell Lancer to their
+
+00:08:17.640 --> 00:08:21.080
+customers as the best way to build on
+
+00:08:19.560 --> 00:08:23.960
+Upwork [music] jobs themselves. Okay,
+
+00:08:21.080 --> 00:08:25.400
+this is actually genius. You get to do
+
+00:08:23.960 --> 00:08:27.800
+what you do best, which is developing a
+
+00:08:25.400 --> 00:08:30.280
+great product. It could take years to
+
+00:08:27.800 --> 00:08:32.320
+build an audience in this space. Why not
+
+00:08:30.280 --> 00:08:33.840
+go straight to the source and find the
+
+00:08:32.320 --> 00:08:35.320
+coaches, the experts, [music] the
+
+00:08:33.840 --> 00:08:37.120
+influencers. We've had a lot of people
+
+00:08:35.320 --> 00:08:38.640
+on the channel that have done very
+
+00:08:37.120 --> 00:08:39.919
+similar stuff. There's something to
+
+00:08:38.640 --> 00:08:42.760
+learn here and I want to learn a little
+
+00:08:39.919 --> 00:08:44.680
+bit more about how you go about finding
+
+00:08:42.760 --> 00:08:46.520
+these, in this case coaches, Upwork
+
+00:08:44.680 --> 00:08:48.480
+coaches. How did you go about finding
+
+00:08:46.520 --> 00:08:50.200
+them, contacting them, convincing them
+
+00:08:48.480 --> 00:08:51.800
+to become your affiliates? Most of our
+
+00:08:50.200 --> 00:08:53.480
+growth came from actually just two
+
+00:08:51.800 --> 00:08:54.960
+Upwork coaches. For the first one, one
+
+00:08:53.480 --> 00:08:56.560
+of our beta users could actually work
+
+00:08:54.960 --> 00:08:58.280
+with one of them and he made the
+
+00:08:56.560 --> 00:09:00.040
+recommendation and intro and all I had
+
+00:08:58.280 --> 00:09:02.800
+to do was just demo the product. He was
+
+00:09:00.040 --> 00:09:05.080
+blown away basically at what we've built
+
+00:09:02.800 --> 00:09:06.880
+and he started referring every client
+
+00:09:05.080 --> 00:09:08.680
+since then. The second coach was a bit
+
+00:09:06.880 --> 00:09:10.320
+more difficult. I did cold outreach to
+
+00:09:08.680 --> 00:09:11.760
+him over LinkedIn and basically I
+
+00:09:10.320 --> 00:09:14.160
+straight up just offered him a 1,000
+
+00:09:11.760 --> 00:09:15.960
+dollars to jump on a call with me and
+
+00:09:14.160 --> 00:09:17.320
+essentially pay him to be our user. As
+
+00:09:15.960 --> 00:09:19.320
+far as we set up the commissions, this
+
+00:09:17.320 --> 00:09:22.080
+is how we do it. If they completely sign
+
+00:09:19.320 --> 00:09:24.440
+a client, they onboard them and they set
+
+00:09:22.080 --> 00:09:26.680
+them up on Lancer, they get 30%
+
+00:09:24.440 --> 00:09:29.320
+commission for lifetime and if they just
+
+00:09:26.680 --> 00:09:31.160
+refer them, then that's 20%. Okay, so
+
+00:09:29.320 --> 00:09:33.320
+this connector strategy. I really like
+
+00:09:31.160 --> 00:09:34.800
+how you did it, how you went to this
+
+00:09:33.320 --> 00:09:36.200
+Upwork coaches, but I think a lot of
+
+00:09:34.800 --> 00:09:37.960
+people watching this might be building
+
+00:09:36.200 --> 00:09:39.600
+somewhe- something in some other
+
+00:09:37.960 --> 00:09:40.680
+platform. And what I'd love to
+
+00:09:39.600 --> 00:09:42.960
+understand for you is if you were to
+
+00:09:40.680 --> 00:09:44.720
+start over and build a new SaaS, a new
+
+00:09:42.960 --> 00:09:46.000
+AI agent, what would be your playbook
+
+00:09:44.720 --> 00:09:47.720
+for starting over if you had to start
+
+00:09:46.000 --> 00:09:50.200
+over right now? I would I guess the
+
+00:09:47.720 --> 00:09:52.560
+first step is always defining the ICP.
+
+00:09:50.200 --> 00:09:54.360
+ICP basically meaning ideal customer
+
+00:09:52.560 --> 00:09:55.600
+profile or prospect. So basically who
+
+00:09:54.360 --> 00:09:57.840
+are the people that your product or
+
+00:09:55.600 --> 00:09:59.760
+service solves a problem for and
+
+00:09:57.840 --> 00:10:01.360
+actually are willing and ready to pay to
+
+00:09:59.760 --> 00:10:03.160
+use it. Before you actually start
+
+00:10:01.360 --> 00:10:04.480
+building customers and you have paying
+
+00:10:03.160 --> 00:10:06.600
+users, you don't really you can't really
+
+00:10:04.480 --> 00:10:08.640
+tell who your ICP is. I would I guess
+
+00:10:06.600 --> 00:10:10.280
+defining an ICP for a SaaS product is
+
+00:10:08.640 --> 00:10:11.880
+essentially one that onboards very
+
+00:10:10.280 --> 00:10:13.360
+easily. So there's very low friction,
+
+00:10:11.880 --> 00:10:14.960
+hopefully self onboards, and then like
+
+00:10:13.360 --> 00:10:16.920
+they stay very long time or they don't
+
+00:10:14.960 --> 00:10:17.720
+really churn. And in our case, this has
+
+00:10:16.920 --> 00:10:20.480
+become
+
+00:10:17.720 --> 00:10:22.600
+turned out to be an agency user more
+
+00:10:20.480 --> 00:10:24.520
+than a freelancer that are doing like a
+
+00:10:22.600 --> 00:10:26.800
+high volume of proposals. So the next
+
+00:10:24.520 --> 00:10:29.520
+step is going a level above that,
+
+00:10:26.800 --> 00:10:31.600
+finding a type of user who actually has
+
+00:10:29.520 --> 00:10:34.160
+a network, a wide network of of your
+
+00:10:31.600 --> 00:10:35.800
+ICP. And basically this is
+
+00:10:34.160 --> 00:10:37.960
+you need to ask ask and answer the
+
+00:10:35.800 --> 00:10:39.920
+question is who are the people that have
+
+00:10:37.960 --> 00:10:41.640
+a network of a lot of your basically
+
+00:10:39.920 --> 00:10:44.200
+ideal customers. And but they they also
+
+00:10:41.640 --> 00:10:46.520
+demand a ton of respect toward them. And
+
+00:10:44.200 --> 00:10:48.440
+basically the the your ICP has a high
+
+00:10:46.520 --> 00:10:51.080
+level of trust. Again, for Lancer, this
+
+00:10:48.440 --> 00:10:54.600
+is upper coaches. So step three would be
+
+00:10:51.080 --> 00:10:55.960
+then to write and send a pitch or an
+
+00:10:54.600 --> 00:10:57.520
+offer to the connectors. Go very
+
+00:10:55.960 --> 00:10:59.600
+personalized, do a lot of research about
+
+00:10:57.520 --> 00:11:01.800
+them, reference things about them, and
+
+00:10:59.600 --> 00:11:04.080
+essentially do even like a long loom
+
+00:11:01.800 --> 00:11:06.120
+video or reference again like some of
+
+00:11:04.080 --> 00:11:09.760
+their work closing one affiliate, a
+
+00:11:06.120 --> 00:11:09.760
+random subscriber
+
+00:11:09.960 --> 00:11:13.480
+for for your SaaS platform. But for an
+
+00:11:11.680 --> 00:11:15.520
+affiliate, you can afford to to do this.
+
+00:11:13.480 --> 00:11:17.080
+Then the fourth step would be actually
+
+00:11:15.520 --> 00:11:19.120
+working out the details. So once you get
+
+00:11:17.080 --> 00:11:20.720
+them in a conversation, you need to
+
+00:11:19.120 --> 00:11:21.839
+offer them what do they get get in
+
+00:11:20.720 --> 00:11:24.160
+return? And I would say here the
+
+00:11:21.839 --> 00:11:26.560
+standard is I would say it's 20 to to
+
+00:11:24.160 --> 00:11:28.560
+30% lifetime commission. And then
+
+00:11:26.560 --> 00:11:30.000
+depending on the size of their network,
+
+00:11:28.560 --> 00:11:32.520
+if they're very active on social media,
+
+00:11:30.000 --> 00:11:34.280
+the number of followers, maybe like
+
+00:11:32.520 --> 00:11:35.960
+existing agreements they have with
+
+00:11:34.280 --> 00:11:37.840
+competitors. You can play around with.
+
+00:11:35.960 --> 00:11:40.040
+So, this may might be paying them up
+
+00:11:37.840 --> 00:11:42.120
+front. This is usually again like
+
+00:11:40.040 --> 00:11:43.720
+case-by-case basis depending on what's
+
+00:11:42.120 --> 00:11:45.240
+the affiliate and what's their actual
+
+00:11:43.720 --> 00:11:46.640
+value and how big is their network and
+
+00:11:45.240 --> 00:11:48.600
+you need to determine like how much
+
+00:11:46.640 --> 00:11:50.840
+value get out of it back. And then the
+
+00:11:48.600 --> 00:11:52.880
+fifth step is essentially just tracking
+
+00:11:50.840 --> 00:11:54.960
+the affiliate and doing monthly payouts.
+
+00:11:52.880 --> 00:11:56.320
+So, the good thing here is once you
+
+00:11:54.960 --> 00:11:58.480
+close one of these affiliates or
+
+00:11:56.320 --> 00:12:01.160
+connectors, you get like inbound Stripe
+
+00:11:58.480 --> 00:12:02.640
+sales or booked calls. What we do is to
+
+00:12:01.160 --> 00:12:04.760
+then track the affiliates, if you have
+
+00:12:02.640 --> 00:12:06.960
+multiple affiliates, and then do
+
+00:12:04.760 --> 00:12:09.800
+automate payment payouts, is we use this
+
+00:12:06.960 --> 00:12:11.040
+software tool called Told. So, this is
+
+00:12:09.800 --> 00:12:12.800
+an affiliate marketing software. It's
+
+00:12:11.040 --> 00:12:14.760
+pretty great. And that this makes our
+
+00:12:12.800 --> 00:12:16.400
+life very easy when it comes to this.
+
+00:12:14.760 --> 00:12:18.400
+This is exactly what I would do if I
+
+00:12:16.400 --> 00:12:19.680
+were to replicate this strategy starting
+
+00:12:18.400 --> 00:12:21.800
+today. Well, well, thanks for showing
+
+00:12:19.680 --> 00:12:23.120
+that. I mean, just to see this project
+
+00:12:21.800 --> 00:12:25.520
+here, it's super cool. It just gets me
+
+00:12:23.120 --> 00:12:27.360
+thinking of all the other niche AI
+
+00:12:25.520 --> 00:12:28.760
+agents you could create. I mean, if I
+
+00:12:27.360 --> 00:12:31.040
+was watching this video, if I'm this far
+
+00:12:28.760 --> 00:12:34.600
+into this video right now, I would go to
+
+00:12:31.040 --> 00:12:37.280
+chat GPT and look up platforms similar
+
+00:12:34.600 --> 00:12:39.440
+to Upwork that require a lot of tedious
+
+00:12:37.280 --> 00:12:42.640
+manual work where maybe some sort of AI
+
+00:12:39.440 --> 00:12:45.040
+agent could assist you in
+
+00:12:42.640 --> 00:12:46.320
+saving time on this platform. There's so
+
+00:12:45.040 --> 00:12:48.360
+much opportunity here. This is such a
+
+00:12:46.320 --> 00:12:51.320
+cool idea. Let's talk about tech stack.
+
+00:12:48.360 --> 00:12:53.560
+What tools and what stack are you using
+
+00:12:51.320 --> 00:12:55.120
+for this app making $10,000 a month?
+
+00:12:53.560 --> 00:12:56.400
+Well, first of all, for the programming
+
+00:12:55.120 --> 00:12:58.160
+language,
+
+00:12:56.400 --> 00:12:59.360
+TypeScript, as I mentioned for the
+
+00:12:58.160 --> 00:13:00.560
+agency,
+
+00:12:59.360 --> 00:13:02.440
+the same tech stack we use for the
+
+00:13:00.560 --> 00:13:04.320
+agency, which is TypeScript on both
+
+00:13:02.440 --> 00:13:06.600
+front and back end, which is Next.js and
+
+00:13:04.320 --> 00:13:08.000
+Node.js. Even though at this point we're
+
+00:13:06.600 --> 00:13:11.960
+all using
+
+00:13:08.000 --> 00:13:13.720
+Cursor with Opus 4.5 and we barely touch
+
+00:13:11.960 --> 00:13:16.960
+any actual programming language. And
+
+00:13:13.720 --> 00:13:19.000
+then we use Open Router for the APIs for
+
+00:13:16.960 --> 00:13:21.960
+the LLMs. For hosting, we use a
+
+00:13:19.000 --> 00:13:23.640
+combination of Hetzner and GCP. We use
+
+00:13:21.960 --> 00:13:25.920
+various proxy providers [music]
+
+00:13:23.640 --> 00:13:28.760
+for connecting safely to the Upwork
+
+00:13:25.920 --> 00:13:31.200
+accounts. We use Elastic Search for
+
+00:13:28.760 --> 00:13:33.600
+basically querying the jobs and all the
+
+00:13:31.200 --> 00:13:35.040
+data we store and then told as an
+
+00:13:33.600 --> 00:13:36.800
+affiliate marketing software. Okay,
+
+00:13:35.040 --> 00:13:38.760
+cool. Well, thanks for sharing that.
+
+00:13:36.800 --> 00:13:40.640
+Last question that we ask everyone who
+
+00:13:38.760 --> 00:13:43.760
+comes on the channel, Ivan, if you could
+
+00:13:40.640 --> 00:13:45.360
+stand on young Ivan's shoulders before
+
+00:13:43.760 --> 00:13:47.480
+you got started in business, maybe even
+
+00:13:45.360 --> 00:13:50.280
+before you got started with your dev
+
+00:13:47.480 --> 00:13:52.080
+agency, what would be your advice to
+
+00:13:50.280 --> 00:13:53.600
+young Ivan or to anyone who's watching
+
+00:13:52.080 --> 00:13:55.240
+this who wants to build software and
+
+00:13:53.600 --> 00:13:57.200
+build stuff online? If I could give
+
+00:13:55.240 --> 00:13:59.360
+myself from a young Ivan from few years
+
+00:13:57.200 --> 00:14:00.800
+ago any advice, it would be to actually
+
+00:13:59.360 --> 00:14:02.520
+start building software products right
+
+00:14:00.800 --> 00:14:05.480
+there and then. So, I delayed jumping
+
+00:14:02.520 --> 00:14:07.560
+into the what I call arena to optimize
+
+00:14:05.480 --> 00:14:08.640
+for income and financial security. I
+
+00:14:07.560 --> 00:14:11.000
+think a lot of people watching Star
+
+00:14:08.640 --> 00:14:13.120
+Story can resonate with this. For most,
+
+00:14:11.000 --> 00:14:15.280
+it's a high-paying job. In my case, it
+
+00:14:13.120 --> 00:14:17.360
+was running dev agency, which was very
+
+00:14:15.280 --> 00:14:19.480
+highly profitable, but with a very hard
+
+00:14:17.360 --> 00:14:20.960
+ceiling and a lack of opportunities to
+
+00:14:19.480 --> 00:14:23.000
+learn basically interesting and
+
+00:14:20.960 --> 00:14:25.000
+high-level skills. We actually debated
+
+00:14:23.000 --> 00:14:27.320
+with my co-founder to go all in on AI
+
+00:14:25.000 --> 00:14:29.880
+products even back when OpenAI released
+
+00:14:27.320 --> 00:14:31.760
+their initial API. We decided to focus
+
+00:14:29.880 --> 00:14:33.760
+on growing the agency and even though it
+
+00:14:31.760 --> 00:14:35.280
+made us a bunch of money, I now think it
+
+00:14:33.760 --> 00:14:36.720
+was probably the wrong approach since
+
+00:14:35.280 --> 00:14:38.520
+the problems you get to solve when
+
+00:14:36.720 --> 00:14:40.360
+building and growing a software product
+
+00:14:38.520 --> 00:14:41.680
+these days are so highly leveraged and
+
+00:14:40.360 --> 00:14:43.480
+applicable to almost any online
+
+00:14:41.680 --> 00:14:44.920
+business. Mastering them would be worth
+
+00:14:43.480 --> 00:14:46.400
+more than any income you can generate in
+
+00:14:44.920 --> 00:14:48.680
+a year or two. And I'm talking about
+
+00:14:46.400 --> 00:14:49.960
+even six-figure salaries. So, I guess
+
+00:14:48.680 --> 00:14:51.440
+anyone watching this and is still
+
+00:14:49.960 --> 00:14:53.520
+debating where they should start, I'd
+
+00:14:51.440 --> 00:14:55.360
+say go for it. Like, we are still very
+
+00:14:53.520 --> 00:14:57.240
+early in this like tech revolution,
+
+00:14:55.360 --> 00:14:58.920
+which is AI, and we have decades in
+
+00:14:57.240 --> 00:15:00.120
+front of us where there'll be a ton of
+
+00:14:58.920 --> 00:15:02.120
+opportunities to make a dent [music]
+
+00:15:00.120 --> 00:15:03.400
+with this technology. So true. Thank you
+
+00:15:02.120 --> 00:15:05.120
+for coming on, Ivan. I mean, it just
+
+00:15:03.400 --> 00:15:06.760
+shows you the power of this is really a
+
+00:15:05.120 --> 00:15:08.080
+side project for you. You have your dev
+
+00:15:06.760 --> 00:15:10.040
+agency that you're running, but you got
+
+00:15:08.080 --> 00:15:13.000
+it to $10,000 a month and it just shows
+
+00:15:10.040 --> 00:15:15.000
+all the opportunities to build cool AI
+
+00:15:13.000 --> 00:15:16.640
+agents or just apps that help you
+
+00:15:15.000 --> 00:15:17.760
+automate things in your life. There's so
+
+00:15:16.640 --> 00:15:19.360
+much opportunity right now. So, thanks
+
+00:15:17.760 --> 00:15:21.560
+for coming on and sharing and being open
+
+00:15:19.360 --> 00:15:23.080
+and sharing on playbook. Thank you, Bet.
+
+00:15:21.560 --> 00:15:25.080
+Thank you for having me on.
+
+00:15:23.080 --> 00:15:27.160
+Bye-bye. Thank you to Ivan for coming on
+
+00:15:25.080 --> 00:15:29.120
+to the channel. This is really powerful
+
+00:15:27.160 --> 00:15:30.680
+episode because it shows the opportunity
+
+00:15:29.120 --> 00:15:32.080
+of building an AI and I know that
+
+00:15:30.680 --> 00:15:33.280
+everyone's talking about AI and the AI
+
+00:15:32.080 --> 00:15:35.080
+bubble and all this stuff, but this is
+
+00:15:33.280 --> 00:15:36.840
+just such a great example of product
+
+00:15:35.080 --> 00:15:38.760
+that couldn't exist before that is
+
+00:15:36.840 --> 00:15:40.590
+extremely valuable and grew really fast.
+
+00:15:38.760 --> 00:15:41.280
+Automating repetitive work on platforms.
+
+00:15:40.590 --> 00:15:42.960
+[music]
+
+00:15:41.280 --> 00:15:44.520
+This example is Upwork, but imagine
+
+00:15:42.960 --> 00:15:47.080
+there could be apps for Fiverr, for
+
+00:15:44.520 --> 00:15:48.680
+LinkedIn. All these platforms that have
+
+00:15:47.080 --> 00:15:50.520
+tedious work. We just interviewed
+
+00:15:48.680 --> 00:15:52.560
+someone who does it on Photoshop. There
+
+00:15:50.520 --> 00:15:55.200
+is huge opportunity right now to
+
+00:15:52.560 --> 00:15:57.320
+automate boring repetitive tasks using
+
+00:15:55.200 --> 00:15:59.320
+LLMs. This wasn't possible even a couple
+
+00:15:57.320 --> 00:16:00.560
+years ago. It's possible now and that's
+
+00:15:59.320 --> 00:16:01.960
+where the opportunity [music] is. If you
+
+00:16:00.560 --> 00:16:03.280
+want to do something similar, check out
+
+00:16:01.960 --> 00:16:05.120
+Starter Story Build. I put a link in the
+
+00:16:03.280 --> 00:16:06.680
+description. You can click that. You can
+
+00:16:05.120 --> 00:16:08.360
+get started right now and you'll build
+
+00:16:06.680 --> 00:16:09.480
+an app in a couple days and launch it to
+
+00:16:08.360 --> 00:16:11.400
+the real world and get it into [music]
+
+00:16:09.480 --> 00:16:12.800
+the hands of real users. All right, I'll
+
+00:16:11.400 --> 00:16:14.720
+put the link in the description. It's
+
+00:16:12.800 --> 00:16:16.000
+your choice if you want to get started.
+
+00:16:14.720 --> 00:16:19.920
+Otherwise, we'll see you in the next
+
+00:16:16.000 --> 00:16:19.920
+one. Thank you for watching. Peace.
+

@@ -1,0 +1,1376 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.640
+Everyone thinks you need a huge idea to
+
+00:00:02.680 --> 00:00:07.080
+make money, but Jonathan did the
+
+00:00:04.640 --> 00:00:10.480
+opposite. His tiny open-source project
+
+00:00:07.080 --> 00:00:12.760
+makes $9,000 a month. This one post got
+
+00:00:10.480 --> 00:00:14.760
+us thousands of users in one day. His
+
+00:00:12.760 --> 00:00:16.760
+approach is genius. He did not build
+
+00:00:14.760 --> 00:00:18.800
+something that works for everyone.
+
+00:00:16.760 --> 00:00:21.440
+Instead, he built something with just
+
+00:00:18.800 --> 00:00:23.760
+one type of person in mind. I built this
+
+00:00:21.440 --> 00:00:25.320
+app specifically for developers. So, I
+
+00:00:23.760 --> 00:00:26.720
+invited Jonathan onto the channel to
+
+00:00:25.320 --> 00:00:28.960
+break it all down for me. And in this
+
+00:00:26.720 --> 00:00:30.800
+episode, we'll get into what developers
+
+00:00:28.960 --> 00:00:32.920
+get wrong about building profitable
+
+00:00:30.800 --> 00:00:35.200
+products, the one piece of content that
+
+00:00:32.920 --> 00:00:37.480
+got him thousands of users overnight,
+
+00:00:35.200 --> 00:00:39.160
+and the five steps that you should take
+
+00:00:37.480 --> 00:00:41.880
+if you're a developer building stuff in
+
+00:00:39.160 --> 00:00:45.720
+2026. All right, let's get into it. I'm
+
+00:00:41.880 --> 00:00:47.600
+Pat Walls, and this is Starter Story.
+
+00:00:45.720 --> 00:00:49.400
+All right, real quick before we dive in.
+
+00:00:47.600 --> 00:00:52.200
+Jonathan is about to break down how he
+
+00:00:49.400 --> 00:00:53.360
+built and found customers for his SaaS.
+
+00:00:52.200 --> 00:00:55.320
+If you're trying to figure out how to
+
+00:00:53.360 --> 00:00:57.360
+find customers for your app, [music]
+
+00:00:55.320 --> 00:00:59.120
+well, I have an Ideas template that I
+
+00:00:57.360 --> 00:01:00.640
+think might help you out. You can grab
+
+00:00:59.120 --> 00:01:02.840
+it right now at the link in the
+
+00:01:00.640 --> 00:01:04.480
+description, but more on that later.
+
+00:01:02.840 --> 00:01:06.040
+Let's get into the episode. All right,
+
+00:01:04.480 --> 00:01:07.360
+Jonathan, welcome to the channel. Tell
+
+00:01:06.040 --> 00:01:09.440
+me about who you are, what you built,
+
+00:01:07.360 --> 00:01:11.360
+and what's your story? Hi, I'm Jonathan
+
+00:01:09.440 --> 00:01:13.200
+Fishner. I'm a developer, and I'm the
+
+00:01:11.360 --> 00:01:15.320
+co-founder of Chartbrew. Chartbrew is an
+
+00:01:13.200 --> 00:01:16.920
+open-source uh database visualization
+
+00:01:15.320 --> 00:01:20.400
+for developers. We launched the
+
+00:01:16.920 --> 00:01:23.560
+open-source uh 16 months ago, and lately
+
+00:01:20.400 --> 00:01:25.680
+we just make about 9,000 in MRR. And
+
+00:01:23.560 --> 00:01:27.360
+today I'm excited to share more about
+
+00:01:25.680 --> 00:01:29.280
+that with you. All right, well,
+
+00:01:27.360 --> 00:01:30.400
+developer products, I'm excited to talk
+
+00:01:29.280 --> 00:01:31.640
+about today. Something that I'm
+
+00:01:30.400 --> 00:01:33.520
+passionate about, and I think a lot of
+
+00:01:31.640 --> 00:01:34.800
+people watching will enjoy. But before
+
+00:01:33.520 --> 00:01:36.720
+we do that, can you just explain a
+
+00:01:34.800 --> 00:01:39.040
+little bit more about what your product
+
+00:01:36.720 --> 00:01:41.320
+does and how it works? Yeah, so the core
+
+00:01:39.040 --> 00:01:43.960
+product is an open-source self-hosted
+
+00:01:41.320 --> 00:01:46.320
+developers like can just install locally
+
+00:01:43.960 --> 00:01:48.200
+on their uh machines, and basically
+
+00:01:46.320 --> 00:01:50.480
+visualize their database. On top of
+
+00:01:48.200 --> 00:01:52.360
+that, we have the paid cloud version,
+
+00:01:50.480 --> 00:01:53.920
+that's the hosted version that we
+
+00:01:52.360 --> 00:01:56.160
+provide in Chartbrew. And the cloud
+
+00:01:53.920 --> 00:01:58.360
+version is where we basically monetize.
+
+00:01:56.160 --> 00:02:00.880
+So, developers find Chartbrew and
+
+00:01:58.360 --> 00:02:03.920
+through GitHub as we an open source and
+
+00:02:00.880 --> 00:02:05.880
+use it for free and once they become to
+
+00:02:03.920 --> 00:02:08.600
+be more streamlined on their workflow,
+
+00:02:05.880 --> 00:02:10.200
+they decided to jump on the paid plans.
+
+00:02:08.600 --> 00:02:13.000
+So, this is our GitHub Charted Be
+
+00:02:10.200 --> 00:02:15.120
+Charted Be and we just passed 21,000
+
+00:02:13.000 --> 00:02:17.280
+stars on GitHub. Here is the analytics.
+
+00:02:15.120 --> 00:02:19.920
+We had the passing during the year
+
+00:02:17.280 --> 00:02:23.040
+250,000 developers that use the product.
+
+00:02:19.920 --> 00:02:24.959
+In the revenue side and we passed
+
+00:02:23.040 --> 00:02:26.280
+almost 9400.
+
+00:02:24.959 --> 00:02:27.560
+Okay, cool. Well, one thing I'm curious
+
+00:02:26.280 --> 00:02:30.040
+about is there's a lot of developers
+
+00:02:27.560 --> 00:02:31.640
+watching this right now looking for
+
+00:02:30.040 --> 00:02:32.959
+developer tools that maybe they could
+
+00:02:31.640 --> 00:02:34.720
+build or just something that they can
+
+00:02:32.959 --> 00:02:36.080
+build. I know there's a ton of developer
+
+00:02:34.720 --> 00:02:37.760
+tools out there that are making millions
+
+00:02:36.080 --> 00:02:39.280
+of dollars. Cursor, Cloud Code, that's
+
+00:02:37.760 --> 00:02:40.880
+like the big examples, but there's tons
+
+00:02:39.280 --> 00:02:42.280
+tons of stuff out there doing well. For
+
+00:02:40.880 --> 00:02:43.959
+developers who are watching this right
+
+00:02:42.280 --> 00:02:45.600
+now, my question to you is how did you
+
+00:02:43.959 --> 00:02:47.480
+come up with this idea? How did you come
+
+00:02:45.600 --> 00:02:48.959
+across something that had the potential
+
+00:02:47.480 --> 00:02:50.400
+to have hundreds of thousands of
+
+00:02:48.959 --> 00:02:52.760
+downloads by developers? How did it
+
+00:02:50.400 --> 00:02:55.320
+start? In the beginning, Charted Be, we
+
+00:02:52.760 --> 00:02:57.440
+started like with a different idea and
+
+00:02:55.320 --> 00:02:59.959
+we thought about like trying like to
+
+00:02:57.440 --> 00:03:01.480
+build a database clients that incubate
+
+00:02:59.959 --> 00:03:04.280
+AI into that. So, we started that
+
+00:03:01.480 --> 00:03:07.160
+direction and we had like big stop
+
+00:03:04.280 --> 00:03:08.959
+because people don't really adopt that.
+
+00:03:07.160 --> 00:03:10.959
+That product needed to provide like
+
+00:03:08.959 --> 00:03:12.680
+access, they needed to credentials to
+
+00:03:10.959 --> 00:03:14.360
+connect to your database to run all
+
+00:03:12.680 --> 00:03:15.959
+those queries and you need to install
+
+00:03:14.360 --> 00:03:17.360
+something on your machine and without
+
+00:03:15.959 --> 00:03:19.480
+any credibility and trust from the
+
+00:03:17.360 --> 00:03:22.440
+engineers, we said like, all right, it's
+
+00:03:19.480 --> 00:03:23.800
+too tough. So, that way we thought about
+
+00:03:22.440 --> 00:03:25.080
+like, all right, I think let's start
+
+00:03:23.800 --> 00:03:27.120
+Charted Be, it's going to take your
+
+00:03:25.080 --> 00:03:28.880
+database and make it into a chart.
+
+00:03:27.120 --> 00:03:31.480
+Simple as that. The two things that I
+
+00:03:28.880 --> 00:03:33.959
+think made it work is one, the product
+
+00:03:31.480 --> 00:03:36.160
+Charted Be, it's much more visual and
+
+00:03:33.959 --> 00:03:39.120
+easy to people to see the value right
+
+00:03:36.160 --> 00:03:41.480
+away and it's very giving like a better
+
+00:03:39.120 --> 00:03:43.840
+wow effect. And the second thing is
+
+00:03:41.480 --> 00:03:45.640
+reduction of the friction. So, let's say
+
+00:03:43.840 --> 00:03:47.320
+you don't need to provide any access and
+
+00:03:45.640 --> 00:03:49.280
+you don't need to install any software
+
+00:03:47.320 --> 00:03:51.800
+on your machine. So, reducing that
+
+00:03:49.280 --> 00:03:54.200
+friction really helped to provide
+
+00:03:51.800 --> 00:03:55.840
+engagement for developers. Okay, cool.
+
+00:03:54.200 --> 00:03:57.360
+So, the idea took a little bit of a
+
+00:03:55.840 --> 00:03:59.560
+pivot
+
+00:03:57.360 --> 00:04:01.760
+and you found some things that clearly
+
+00:03:59.560 --> 00:04:03.480
+resonated or you you came up with some
+
+00:04:01.760 --> 00:04:05.040
+ideas of what was going to resonate more
+
+00:04:03.480 --> 00:04:06.600
+with developers. The next thing that I
+
+00:04:05.040 --> 00:04:09.200
+want to talk about is growth. Anybody
+
+00:04:06.600 --> 00:04:12.000
+can release a code repository or a
+
+00:04:09.200 --> 00:04:13.840
+package on GitHub or online. It costs
+
+00:04:12.000 --> 00:04:16.640
+nothing to do that. There are thousands
+
+00:04:13.840 --> 00:04:18.880
+if not millions of unused software
+
+00:04:16.640 --> 00:04:20.120
+online. Clearly, that wasn't the case
+
+00:04:18.880 --> 00:04:21.680
+for yours. So, how did you get
+
+00:04:20.120 --> 00:04:23.960
+visibility and how did you grow Chart
+
+00:04:21.680 --> 00:04:26.040
+DB? I would say that
+
+00:04:23.960 --> 00:04:27.960
+the growth for Chart DB started with
+
+00:04:26.040 --> 00:04:29.320
+launch on Hacker News
+
+00:04:27.960 --> 00:04:31.280
+that got us like for the front [music]
+
+00:04:29.320 --> 00:04:33.760
+page. So, we started like developing
+
+00:04:31.280 --> 00:04:35.680
+Chart DB and after three weeks of
+
+00:04:33.760 --> 00:04:38.040
+development, we decided to go for launch
+
+00:04:35.680 --> 00:04:40.360
+and we did some preparation and then we
+
+00:04:38.040 --> 00:04:42.560
+decide, all right, let's choose a day
+
+00:04:40.360 --> 00:04:45.400
+and put ourselves like as a Show HN.
+
+00:04:42.560 --> 00:04:47.760
+This Show HN got working and blow up to
+
+00:04:45.400 --> 00:04:50.000
+get to the front page what gave us
+
+00:04:47.760 --> 00:04:51.320
+thousands of engineers on the same day
+
+00:04:50.000 --> 00:04:54.880
+landing on our product.
+
+00:04:51.320 --> 00:04:57.800
+>> I think it's just amazing that one post
+
+00:04:54.880 --> 00:04:59.200
+on one platform can essentially catapult
+
+00:04:57.800 --> 00:05:00.720
+your business. It's not going to make
+
+00:04:59.200 --> 00:05:02.560
+you a million dollars overnight, but it
+
+00:05:00.720 --> 00:05:04.440
+can be the one thing that can change
+
+00:05:02.560 --> 00:05:07.040
+your life essentially. What do you think
+
+00:05:04.440 --> 00:05:08.480
+worked about that Hacker News post? If
+
+00:05:07.040 --> 00:05:09.520
+you were to do it again, what would
+
+00:05:08.480 --> 00:05:11.200
+advice would you give someone who's
+
+00:05:09.520 --> 00:05:13.720
+launching on Hacker News? Yeah, so I
+
+00:05:11.200 --> 00:05:15.600
+think like a few few things. So,
+
+00:05:13.720 --> 00:05:18.160
+developers really appreciate open source
+
+00:05:15.600 --> 00:05:19.560
+because they can test it with no like
+
+00:05:18.160 --> 00:05:21.720
+really sign up and things that they
+
+00:05:19.560 --> 00:05:24.400
+don't like. And I think the second thing
+
+00:05:21.720 --> 00:05:26.800
+is like if you provide something unique
+
+00:05:24.400 --> 00:05:29.440
+they never saw before, I think that's
+
+00:05:26.800 --> 00:05:31.360
+something that like if you have a wedge
+
+00:05:29.440 --> 00:05:32.720
+that like it's very unique to what
+
+00:05:31.360 --> 00:05:35.440
+you're trying to solve, they will
+
+00:05:32.720 --> 00:05:37.480
+provide appreciation with their upvote
+
+00:05:35.440 --> 00:05:40.000
+and those upvotes will bring you to the
+
+00:05:37.480 --> 00:05:42.800
+homepage and the homepage is where so
+
+00:05:40.000 --> 00:05:45.000
+many developers every day going and
+
+00:05:42.800 --> 00:05:46.280
+checking those launches. [music] Before
+
+00:05:45.000 --> 00:05:48.080
+Before back into the episode, I want to
+
+00:05:46.280 --> 00:05:50.600
+talk to those of you who want to build
+
+00:05:48.080 --> 00:05:53.440
+something but don't know what yet. My
+
+00:05:50.600 --> 00:05:55.669
+best advice is don't start coding just
+
+00:05:53.440 --> 00:05:57.600
+yet. The best businesses actually
+
+00:05:55.669 --> 00:05:59.440
+[music] solve problems that are hiding
+
+00:05:57.600 --> 00:06:01.480
+in plain sight right in front of you
+
+00:05:59.440 --> 00:06:04.040
+right now. And this is why I created the
+
+00:06:01.480 --> 00:06:05.920
+free business idea template. It's our
+
+00:06:04.040 --> 00:06:08.320
+guide that walks you through the seven
+
+00:06:05.920 --> 00:06:10.240
+proven methods to find real problems
+
+00:06:08.320 --> 00:06:12.720
+that real people will actually pay you
+
+00:06:10.240 --> 00:06:14.880
+to solve. Inside, you will learn how to
+
+00:06:12.720 --> 00:06:17.200
+spot 21 different problems in your daily
+
+00:06:14.880 --> 00:06:19.720
+life, how to validate how painful those
+
+00:06:17.200 --> 00:06:21.720
+problems actually are, and finally how
+
+00:06:19.720 --> 00:06:23.680
+to pick the one that makes sense for you
+
+00:06:21.720 --> 00:06:26.120
+to build right now. [music] In less than
+
+00:06:23.680 --> 00:06:28.640
+30 minutes, this might completely change
+
+00:06:26.120 --> 00:06:30.320
+how you think about business ideas. So,
+
+00:06:28.640 --> 00:06:31.880
+if you're ready, just head to that link
+
+00:06:30.320 --> 00:06:33.659
+right down there in the description to
+
+00:06:31.880 --> 00:06:33.720
+grab the template for free.
+
+00:06:33.659 --> 00:06:34.560
+>> [music]
+
+00:06:33.720 --> 00:06:35.640
+>> All right, let's get back to the
+
+00:06:34.560 --> 00:06:37.640
+episode.
+
+00:06:35.640 --> 00:06:39.240
+I mean, I this space of building for
+
+00:06:37.640 --> 00:06:40.480
+developers, I just think there's so much
+
+00:06:39.240 --> 00:06:42.120
+opportunity here. You know, there's a
+
+00:06:40.480 --> 00:06:44.840
+recent obviously the big one in the
+
+00:06:42.120 --> 00:06:46.680
+space right now is Claude Bot. It got
+
+00:06:44.840 --> 00:06:48.200
+hundreds of thousands of stars within a
+
+00:06:46.680 --> 00:06:49.560
+week. This is what's possible with
+
+00:06:48.200 --> 00:06:51.520
+building developer tools. I just think
+
+00:06:49.560 --> 00:06:52.760
+it's an amazing space. So, I'm curious,
+
+00:06:51.520 --> 00:06:53.840
+if you were to start over, you obviously
+
+00:06:52.760 --> 00:06:55.440
+have a business that you're going to run
+
+00:06:53.840 --> 00:06:57.480
+now, and you're going to start a new
+
+00:06:55.440 --> 00:06:59.880
+developer tool. What would be your like
+
+00:06:57.480 --> 00:07:01.480
+playbook for finding an idea, building
+
+00:06:59.880 --> 00:07:03.720
+it, getting validation, and turning into
+
+00:07:01.480 --> 00:07:05.640
+a business? Yeah, so we start with like
+
+00:07:03.720 --> 00:07:07.240
+be the user or ideally build for
+
+00:07:05.640 --> 00:07:08.840
+yourself. So, if it's for yourself,
+
+00:07:07.240 --> 00:07:11.400
+something that you see the value right
+
+00:07:08.840 --> 00:07:14.040
+away, you really understand how to do it
+
+00:07:11.400 --> 00:07:16.000
+uh because you got experience around
+
+00:07:14.040 --> 00:07:18.480
+what you do. For example, in Chart Bee,
+
+00:07:16.000 --> 00:07:20.160
+we find out that you wants to visualize
+
+00:07:18.480 --> 00:07:22.280
+something very simple. Like, I want an
+
+00:07:20.160 --> 00:07:23.800
+ERD, and I want to look good that I can
+
+00:07:22.280 --> 00:07:26.040
+interact with that. That is something
+
+00:07:23.800 --> 00:07:28.720
+that just like very specific thing about
+
+00:07:26.040 --> 00:07:31.720
+that specific value that I can start
+
+00:07:28.720 --> 00:07:33.960
+from and get something super cool out of
+
+00:07:31.720 --> 00:07:36.440
+it. So, step two, I think design for
+
+00:07:33.960 --> 00:07:38.480
+constraint, not for ideal. Every persona
+
+00:07:36.440 --> 00:07:40.520
+have their constraints. Uh for example,
+
+00:07:38.480 --> 00:07:43.240
+developers, they are really prefer
+
+00:07:40.520 --> 00:07:45.400
+self-hosted tools that they can test and
+
+00:07:43.240 --> 00:07:48.360
+check on their local environment instead
+
+00:07:45.400 --> 00:07:49.960
+of going through any kind of sign up
+
+00:07:48.360 --> 00:07:52.040
+wall. So, I think like reducing that
+
+00:07:49.960 --> 00:07:54.520
+friction as we talked before, that's why
+
+00:07:52.040 --> 00:07:56.440
+Charted B have no sign up, no sales
+
+00:07:54.520 --> 00:07:58.360
+calls. You don't need to provide any
+
+00:07:56.440 --> 00:08:00.360
+credentials. Step three, I would say
+
+00:07:58.360 --> 00:08:02.120
+start with a wedge and not from the full
+
+00:08:00.360 --> 00:08:04.040
+vision. Starting from something that
+
+00:08:02.120 --> 00:08:06.040
+like people will appreciate and see the
+
+00:08:04.040 --> 00:08:08.200
+value out of it right away and then
+
+00:08:06.040 --> 00:08:10.360
+evolve that based on their feedback.
+
+00:08:08.200 --> 00:08:12.600
+That's the like the right path like how
+
+00:08:10.360 --> 00:08:14.480
+to go and continue to build
+
+00:08:12.600 --> 00:08:17.120
+in small iterations. Okay, so the next
+
+00:08:14.480 --> 00:08:18.680
+step is going to be let usage to lead
+
+00:08:17.120 --> 00:08:20.640
+you what to monetize. So, in the
+
+00:08:18.680 --> 00:08:22.400
+beginning we didn't monetize at all. We
+
+00:08:20.640 --> 00:08:24.440
+just like providing the tool with the
+
+00:08:22.400 --> 00:08:26.960
+utility in a way that [music] you can do
+
+00:08:24.440 --> 00:08:28.880
+it by yourself. Then like people started
+
+00:08:26.960 --> 00:08:30.919
+to ask to work with their team and then
+
+00:08:28.880 --> 00:08:32.599
+we needed to provide a more complex
+
+00:08:30.919 --> 00:08:34.000
+real-time collaboration and we
+
+00:08:32.599 --> 00:08:37.360
+understood there is like something very
+
+00:08:34.000 --> 00:08:39.360
+complex to support. So, that's probably
+
+00:08:37.360 --> 00:08:41.000
+how we going to start to monetize. So,
+
+00:08:39.360 --> 00:08:43.159
+monetization should not be a guess and
+
+00:08:41.000 --> 00:08:45.440
+should be response to your behavior. And
+
+00:08:43.159 --> 00:08:48.040
+we watched our users and how people
+
+00:08:45.440 --> 00:08:49.760
+using Charted B over the time and based
+
+00:08:48.040 --> 00:08:51.200
+on their patterns and how they merge
+
+00:08:49.760 --> 00:08:53.160
+their patterns, we started like to
+
+00:08:51.200 --> 00:08:55.000
+understand how to take it from there and
+
+00:08:53.160 --> 00:08:57.360
+how to charge for it. And the last thing
+
+00:08:55.000 --> 00:08:59.600
+is like you want to market where the ICP
+
+00:08:57.360 --> 00:09:02.760
+lives. So, distribution should feel
+
+00:08:59.600 --> 00:09:04.920
+natural and we didn't look for invent
+
+00:09:02.760 --> 00:09:07.160
+any new channels and we show out where
+
+00:09:04.920 --> 00:09:09.360
+developers already are. So, GitHub and
+
+00:09:07.160 --> 00:09:11.400
+Hacker News and also Reddit in
+
+00:09:09.360 --> 00:09:14.120
+self-hosted and subreddits that were the
+
+00:09:11.400 --> 00:09:15.800
+developer used to be and internal teams
+
+00:09:14.120 --> 00:09:17.560
+sharing between them. So, the final
+
+00:09:15.800 --> 00:09:19.720
+takeaway, I would say that pick the
+
+00:09:17.560 --> 00:09:21.520
+persona and remove aggressively all the
+
+00:09:19.720 --> 00:09:24.360
+friction as much as possible and be
+
+00:09:21.520 --> 00:09:26.760
+obsessed with one core value until you
+
+00:09:24.360 --> 00:09:28.640
+really see the adoption and it feel
+
+00:09:26.760 --> 00:09:29.800
+effortless. Okay, thanks for sharing the
+
+00:09:28.640 --> 00:09:31.280
+playbook. That's amazing. I think
+
+00:09:29.800 --> 00:09:33.000
+there's so much opportunity to build in
+
+00:09:31.280 --> 00:09:34.640
+developer tools. If you could just build
+
+00:09:33.000 --> 00:09:36.520
+something that's useful for developers,
+
+00:09:34.640 --> 00:09:38.160
+there there's often a business behind
+
+00:09:36.520 --> 00:09:40.040
+it, which I think is super cool. One
+
+00:09:38.160 --> 00:09:41.320
+thing that I wanted to understand from
+
+00:09:40.040 --> 00:09:43.400
+you a little bit more is how your
+
+00:09:41.320 --> 00:09:46.360
+product even works. I know it's like a
+
+00:09:43.400 --> 00:09:47.240
+visualization tool for charts, ChartDB,
+
+00:09:46.360 --> 00:09:49.480
+but would you be able to just show a
+
+00:09:47.240 --> 00:09:51.080
+quick demo of how it works
+
+00:09:49.480 --> 00:09:52.880
+and what it does? Okay, yeah,
+
+00:09:51.080 --> 00:09:54.600
+absolutely. So, let's start. Even in the
+
+00:09:52.880 --> 00:09:56.800
+home page we see the visualization and
+
+00:09:54.600 --> 00:09:58.600
+it's live and you can like embed it.
+
+00:09:56.800 --> 00:10:00.280
+Once you're going to the tool itself,
+
+00:09:58.600 --> 00:10:02.480
+let's say that you wants to bring your
+
+00:10:00.280 --> 00:10:04.000
+database. You choose your platform,
+
+00:10:02.480 --> 00:10:05.800
+you're taking one query that is the
+
+00:10:04.000 --> 00:10:07.880
+smart query, running into one of your
+
+00:10:05.800 --> 00:10:09.680
+database clients. I'm connecting here to
+
+00:10:07.880 --> 00:10:11.880
+the database called PokemonDB, running
+
+00:10:09.680 --> 00:10:13.960
+the query that got from ChartDB, copy
+
+00:10:11.880 --> 00:10:15.880
+the JSON, paste it over here, and just
+
+00:10:13.960 --> 00:10:18.160
+click on import. Basically, that's going
+
+00:10:15.880 --> 00:10:20.520
+to show me the entire database already
+
+00:10:18.160 --> 00:10:22.840
+how it looks, connecting between the
+
+00:10:20.520 --> 00:10:24.480
+tables and everything. Once I click, I
+
+00:10:22.840 --> 00:10:26.480
+can see all the relationship, how they
+
+00:10:24.480 --> 00:10:28.840
+get connected between tables like types,
+
+00:10:26.480 --> 00:10:30.440
+move, Pokemon moves, whatever, etc., and
+
+00:10:28.840 --> 00:10:32.920
+start to iterate in it. Like, let's say
+
+00:10:30.440 --> 00:10:34.680
+I want to add a field or anything, I can
+
+00:10:32.920 --> 00:10:37.240
+see that differences between the
+
+00:10:34.680 --> 00:10:38.560
+database and my development. Okay, cool.
+
+00:10:37.240 --> 00:10:40.920
+Well, thanks for sharing that. Super
+
+00:10:38.560 --> 00:10:42.640
+cool-looking tool, very visual, I love
+
+00:10:40.920 --> 00:10:44.480
+that. On a similar note, I'm curious how
+
+00:10:42.640 --> 00:10:45.880
+you built it. What's your tech stack?
+
+00:10:44.480 --> 00:10:48.080
+What are all the open source languages
+
+00:10:45.880 --> 00:10:50.440
+that you used to build this and maintain
+
+00:10:48.080 --> 00:10:53.720
+it? Yeah, so everything is React, we're
+
+00:10:50.440 --> 00:10:55.760
+using React Vite and Node.js, Tailwind,
+
+00:10:53.720 --> 00:10:56.880
+and React Flow for the canvas and all
+
+00:10:55.760 --> 00:10:58.320
+the entities. [music]
+
+00:10:56.880 --> 00:11:00.800
+Um, that's for the development side.
+
+00:10:58.320 --> 00:11:02.640
+From what we used to build it with, so
+
+00:11:00.800 --> 00:11:05.560
+using all the time Cloud Code, we're
+
+00:11:02.640 --> 00:11:07.160
+using the max 200 per month. We started
+
+00:11:05.560 --> 00:11:08.960
+to use the Tri-com account, it's
+
+00:11:07.160 --> 00:11:11.000
+providing a compliance for big clients
+
+00:11:08.960 --> 00:11:13.839
+that's starting to come up and ask for
+
+00:11:11.000 --> 00:11:14.880
+Soc 2, it's cost 500 a month. ChatGPT
+
+00:11:13.839 --> 00:11:18.160
+and
+
+00:11:14.880 --> 00:11:19.880
+the API for our AI assistant is cost 20
+
+00:11:18.160 --> 00:11:22.280
+bucks for the subscription and 50 bucks
+
+00:11:19.880 --> 00:11:24.400
+around that and the API tokens. Recent
+
+00:11:22.280 --> 00:11:26.200
+for sending the transactional emails
+
+00:11:24.400 --> 00:11:28.839
+that we send for people that sign up.
+
+00:11:26.200 --> 00:11:32.240
+AWS is where we have the cloud hosting,
+
+00:11:28.839 --> 00:11:33.600
+so cost 600 a month. ChartMogul is free.
+
+00:11:32.240 --> 00:11:35.640
+Better Analytics is for our own
+
+00:11:33.600 --> 00:11:38.440
+analytics and it's called 25 per month
+
+00:11:35.640 --> 00:11:40.520
+and Framer is 30 bucks per month for the
+
+00:11:38.440 --> 00:11:41.920
+marketing website. We using Stripe so
+
+00:11:40.520 --> 00:11:44.560
+transactional fee based on the
+
+00:11:41.920 --> 00:11:46.800
+subscriptions and Chris for interaction
+
+00:11:44.560 --> 00:11:49.160
+with the users and having the chat to
+
+00:11:46.800 --> 00:11:52.880
+communicate quickly with them. We using
+
+00:11:49.160 --> 00:11:56.000
+HH ref for SEO and getting keywords and
+
+00:11:52.880 --> 00:11:57.480
+how to increase our marketing and
+
+00:11:56.000 --> 00:11:59.440
+organic marketing. Thanks for sharing
+
+00:11:57.480 --> 00:12:01.400
+that. Last question that we ask every
+
+00:11:59.440 --> 00:12:03.240
+founder who comes on. Jonathan, if you
+
+00:12:01.400 --> 00:12:05.720
+could stand on young Jonathan's
+
+00:12:03.240 --> 00:12:07.240
+shoulders before you got started and you
+
+00:12:05.720 --> 00:12:09.200
+could give him some advice or advice for
+
+00:12:07.240 --> 00:12:11.720
+anyone watching this who's a developer
+
+00:12:09.200 --> 00:12:13.680
+who wants to have their own projects and
+
+00:12:11.720 --> 00:12:15.080
+earn money from their own projects, what
+
+00:12:13.680 --> 00:12:17.640
+would it be? Yeah, so I would tell
+
+00:12:15.080 --> 00:12:19.800
+myself like to pick one core value and
+
+00:12:17.640 --> 00:12:21.120
+defend it and like aggressively.
+
+00:12:19.800 --> 00:12:23.960
+Everything started working when we
+
+00:12:21.120 --> 00:12:26.480
+double down on once we focus entirely on
+
+00:12:23.960 --> 00:12:28.880
+making database visualization obvious
+
+00:12:26.480 --> 00:12:30.600
+and ignore everything else. Like that's
+
+00:12:28.880 --> 00:12:33.000
+what I would say. Like double down on
+
+00:12:30.600 --> 00:12:35.360
+what you really feel it's working and
+
+00:12:33.000 --> 00:12:36.520
+you see the traction coming up. I think
+
+00:12:35.360 --> 00:12:37.760
+there's a lot to learn from that.
+
+00:12:36.520 --> 00:12:39.160
+There's a lot of developers who want to
+
+00:12:37.760 --> 00:12:40.640
+build they want to build everything and
+
+00:12:39.160 --> 00:12:42.000
+it has the SaaS and it has all these
+
+00:12:40.640 --> 00:12:44.240
+elements but you can start with one
+
+00:12:42.000 --> 00:12:45.880
+wedge and do one thing really well. Like
+
+00:12:44.240 --> 00:12:47.520
+database visualization which is not
+
+00:12:45.880 --> 00:12:49.520
+something that I even knew was a product
+
+00:12:47.520 --> 00:12:51.720
+before. This is super cool and shows you
+
+00:12:49.520 --> 00:12:53.720
+if you can narrow down like you said, do
+
+00:12:51.720 --> 00:12:55.040
+one thing and do it really really well,
+
+00:12:53.720 --> 00:12:56.920
+you can have a business. So thanks for
+
+00:12:55.040 --> 00:12:58.240
+coming on and sharing and looking
+
+00:12:56.920 --> 00:13:00.080
+forward to seeing the growth. Thank you
+
+00:12:58.240 --> 00:13:02.320
+so much. Appreciate it. All right,
+
+00:13:00.080 --> 00:13:06.400
+producer Gus, what did you think? Yeah,
+
+00:13:02.320 --> 00:13:07.974
+I think my first takeaway is I think
+
+00:13:06.400 --> 00:13:10.520
+it's really cool how you built this tool
+
+00:13:07.974 --> 00:13:12.640
+[music] that's like just for like
+
+00:13:10.520 --> 00:13:14.280
+developers. That's kind of my takeaway,
+
+00:13:12.640 --> 00:13:15.800
+right? I'm not a developer so I'm not
+
+00:13:14.280 --> 00:13:18.454
+like really in that world but my
+
+00:13:15.800 --> 00:13:19.000
+takeaway is like he knew that so well
+
+00:13:18.454 --> 00:13:20.800
+[music]
+
+00:13:19.000 --> 00:13:23.080
+that he could like almost predict like
+
+00:13:20.800 --> 00:13:24.880
+what issues they would face or like what
+
+00:13:23.080 --> 00:13:26.640
+they would complain about and [music] so
+
+00:13:24.880 --> 00:13:28.760
+that's my takeaway is like building
+
+00:13:26.640 --> 00:13:30.600
+stuff in the spaces that you know about.
+
+00:13:28.760 --> 00:13:33.280
+Yeah, I mean he it not to get too
+
+00:13:30.600 --> 00:13:36.960
+technical. He basically what he knew was
+
+00:13:33.280 --> 00:13:40.040
+this like really kind of niche sequel
+
+00:13:36.960 --> 00:13:42.240
+query where you could get the whole
+
+00:13:40.040 --> 00:13:43.920
+schema of the database and then they
+
+00:13:42.240 --> 00:13:46.080
+turned it into something visual. It's
+
+00:13:43.920 --> 00:13:48.600
+too niche to even talk about right now.
+
+00:13:46.080 --> 00:13:50.360
+It's it's just so but it but as you're
+
+00:13:48.600 --> 00:13:53.640
+saying it's crazy. You can take one tiny
+
+00:13:50.360 --> 00:13:55.320
+idea which is so niche and that can be a
+
+00:13:53.640 --> 00:13:56.600
+business that makes $10,000 a month,
+
+00:13:55.320 --> 00:13:58.160
+right? And this is his business is going
+
+00:13:56.600 --> 00:14:01.040
+to grow. He's going to launch other
+
+00:13:58.160 --> 00:14:02.680
+products. That's the power of you know,
+
+00:14:01.040 --> 00:14:04.440
+you see this the cloud bot, you know,
+
+00:14:02.680 --> 00:14:06.640
+that's been taken off right now. That
+
+00:14:04.440 --> 00:14:07.960
+was downloaded and that was downloaded
+
+00:14:06.640 --> 00:14:12.080
+millions and millions of times in a
+
+00:14:07.960 --> 00:14:14.080
+matter of weeks. That is how huge
+
+00:14:12.080 --> 00:14:15.800
+developer tools are because they're free
+
+00:14:14.080 --> 00:14:17.160
+to download. They're free to try and
+
+00:14:15.800 --> 00:14:19.080
+that's what he basically did and then he
+
+00:14:17.160 --> 00:14:21.000
+built a little monetization back on the
+
+00:14:19.080 --> 00:14:23.040
+back end of it. This costs no money to
+
+00:14:21.000 --> 00:14:25.600
+do. There's a lot of developers watching
+
+00:14:23.040 --> 00:14:28.520
+this. It's just it blows my mind how
+
+00:14:25.600 --> 00:14:30.000
+much what you can do with one tiny idea.
+
+00:14:28.520 --> 00:14:31.560
+Totally and I think sometimes the
+
+00:14:30.000 --> 00:14:33.080
+developer stuff like I said because I'm
+
+00:14:31.560 --> 00:14:34.480
+not one, I'm kind of like why would
+
+00:14:33.080 --> 00:14:36.600
+people pay for something they can
+
+00:14:34.480 --> 00:14:38.600
+download for free but he did a good job
+
+00:14:36.600 --> 00:14:40.330
+explaining like the developers in this
+
+00:14:38.600 --> 00:14:41.520
+case were like the entry point to
+
+00:14:40.330 --> 00:14:42.920
+[music] people that would pay for it.
+
+00:14:41.520 --> 00:14:45.200
+And so that I think yeah,
+
+00:14:42.920 --> 00:14:47.120
+underestimating the size of like how
+
+00:14:45.200 --> 00:14:48.480
+many developers out there are like I
+
+00:14:47.120 --> 00:14:50.400
+don't know really interested in finding
+
+00:14:48.480 --> 00:14:52.000
+new and interesting tools that solve one
+
+00:14:50.400 --> 00:14:53.839
+problem kind of thing. I think it's
+
+00:14:52.000 --> 00:14:55.560
+interesting what he said which is that
+
+00:14:53.839 --> 00:14:58.920
+the idea he had before the developer
+
+00:14:55.560 --> 00:15:00.160
+tool was the sequel AI wrapper thing
+
+00:14:58.920 --> 00:15:01.880
+that didn't work out. It's funny because
+
+00:15:00.160 --> 00:15:03.160
+I see that a lot of developers try to
+
+00:15:01.880 --> 00:15:05.920
+build that idea. That doesn't mean it
+
+00:15:03.160 --> 00:15:07.040
+was necessarily bad. It was necessary to
+
+00:15:05.920 --> 00:15:09.320
+build that thing that didn't work and
+
+00:15:07.040 --> 00:15:11.640
+then they pivoted. So, my shameless plug
+
+00:15:09.320 --> 00:15:13.000
+is for you to join Starter Story Build
+
+00:15:11.640 --> 00:15:14.440
+and build something even if you know
+
+00:15:13.000 --> 00:15:16.280
+it's not going to be successful like the
+
+00:15:14.440 --> 00:15:18.360
+AI database wrapper that clearly didn't
+
+00:15:16.280 --> 00:15:19.800
+work for him. Still get it out there.
+
+00:15:18.360 --> 00:15:21.240
+Join Starter Story Build. Click that
+
+00:15:19.800 --> 00:15:22.480
+link below. Build something and launch
+
+00:15:21.240 --> 00:15:24.160
+it in a couple days and get that
+
+00:15:22.480 --> 00:15:25.440
+validation now. What are you waiting
+
+00:15:24.160 --> 00:15:28.480
+for? All right, guys. I'll see you in
+
+00:15:25.440 --> 00:15:28.480
+the next one. Peace.
+

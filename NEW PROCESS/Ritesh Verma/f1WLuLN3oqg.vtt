@@ -1,0 +1,1079 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Is it possible to build an AI app from
+
+00:00:01.720 --> 00:00:05.920
+scratch that's proven to be profitable?
+
+00:00:04.000 --> 00:00:07.840
+Wait, how can you build it and still be
+
+00:00:05.920 --> 00:00:10.120
+profitable? That's impossible. Wrong.
+
+00:00:07.840 --> 00:00:11.440
+With AI, it definitely is. And to prove
+
+00:00:10.120 --> 00:00:13.200
+that, in this video, I'm going to build
+
+00:00:11.440 --> 00:00:15.400
+a profitable AI app completely from
+
+00:00:13.200 --> 00:00:18.880
+scratch and show you exactly how to do
+
+00:00:15.400 --> 00:00:21.560
+it step-by-step. All right, so
+
+00:00:18.880 --> 00:00:23.600
+here is a diagram of what exactly we are
+
+00:00:21.560 --> 00:00:25.680
+going to be building. It's going to be a
+
+00:00:23.600 --> 00:00:28.080
+Reddit app that has an AI matching
+
+00:00:25.680 --> 00:00:29.960
+engine that takes in your business niche
+
+00:00:28.080 --> 00:00:32.000
+and website and tells you where to post,
+
+00:00:29.960 --> 00:00:33.760
+like what subreddits to post on, what to
+
+00:00:32.000 --> 00:00:35.440
+post. So, we'll have some ready posts
+
+00:00:33.760 --> 00:00:37.080
+generated from this tool. So, you can
+
+00:00:35.440 --> 00:00:38.440
+generate more customers with basically
+
+00:00:37.080 --> 00:00:41.000
+free marketing. We don't want you to do
+
+00:00:38.440 --> 00:00:42.600
+ad spend. So, we have the plan.
+
+00:00:41.000 --> 00:00:45.000
+Describe the idea, you can type what the
+
+00:00:42.600 --> 00:00:46.040
+app does, map the features. And you
+
+00:00:45.000 --> 00:00:48.080
+know, we're not going to be doing any
+
+00:00:46.040 --> 00:00:50.200
+coding. We'll be using Base 44 to build
+
+00:00:48.080 --> 00:00:51.520
+this entire tool.
+
+00:00:50.200 --> 00:00:53.560
+Now,
+
+00:00:51.520 --> 00:00:55.840
+the Base 44 will be able to build the V1
+
+00:00:53.560 --> 00:00:58.120
+app in minutes. And we can add the match
+
+00:00:55.840 --> 00:01:00.280
+rank subreddits by niche. And we'll also
+
+00:00:58.120 --> 00:01:01.480
+add the post writer for our tool that
+
+00:01:00.280 --> 00:01:02.880
+can write Reddit posts for our
+
+00:01:01.480 --> 00:01:06.080
+customers.
+
+00:01:02.880 --> 00:01:08.000
+We'll test it live with a real business.
+
+00:01:06.080 --> 00:01:09.960
+And then, we have one-click publish with
+
+00:01:08.000 --> 00:01:12.200
+Base 44. So,
+
+00:01:09.960 --> 00:01:13.200
+this is the overall plan.
+
+00:01:12.200 --> 00:01:14.440
+Um
+
+00:01:13.200 --> 00:01:16.760
+yeah, it it should be pretty
+
+00:01:14.440 --> 00:01:19.080
+straightforward, you know? So, let's get
+
+00:01:16.760 --> 00:01:20.440
+to building now. This is the Base 44
+
+00:01:19.080 --> 00:01:23.120
+workspace that I have. If you want to
+
+00:01:20.440 --> 00:01:25.720
+use Base 44, simply put it in Google.
+
+00:01:23.120 --> 00:01:28.040
+It's really famous right now, so you can
+
+00:01:25.720 --> 00:01:30.920
+find it anywhere. So, go ahead and just
+
+00:01:28.040 --> 00:01:33.600
+click it. And you'll see the platform
+
+00:01:30.920 --> 00:01:35.760
+looks like this.
+
+00:01:33.600 --> 00:01:37.960
+And yeah, yeah, it's really easy to
+
+00:01:35.760 --> 00:01:40.520
+navigate to it. So, let's go ahead and
+
+00:01:37.960 --> 00:01:43.360
+we're going to use plan mode in Base 44,
+
+00:01:40.520 --> 00:01:45.440
+so that way we are able to make sure
+
+00:01:43.360 --> 00:01:47.160
+that our app's features and
+
+00:01:45.440 --> 00:01:49.960
+documentations flushed out before we
+
+00:01:47.160 --> 00:01:52.440
+actually go ahead and get to building.
+
+00:01:49.960 --> 00:01:53.200
+So, just copy what I'm writing right
+
+00:01:52.440 --> 00:01:54.480
+here. [snorts]
+
+00:01:53.200 --> 00:01:56.600
+So, business enters their niche and
+
+00:01:54.480 --> 00:01:58.480
+website and gets a ranked list of the
+
+00:01:56.600 --> 00:02:01.240
+best subreddits
+
+00:01:58.480 --> 00:02:03.479
+to market in.
+
+00:02:01.240 --> 00:02:05.720
+Plus, remember we're also
+
+00:02:03.479 --> 00:02:08.800
+want to write AI-generated, you know,
+
+00:02:05.720 --> 00:02:10.039
+human-sounding posts
+
+00:02:08.800 --> 00:02:12.560
+that
+
+00:02:10.039 --> 00:02:15.080
+the user can just post on Reddit to get
+
+00:02:12.560 --> 00:02:16.720
+more exposure.
+
+00:02:15.080 --> 00:02:18.080
+We want these posts curated for the
+
+00:02:16.720 --> 00:02:20.640
+subreddit. So, let's go ahead and press
+
+00:02:18.080 --> 00:02:20.640
+enter.
+
+00:02:21.600 --> 00:02:26.040
+All right, it's thinking. Remember,
+
+00:02:23.959 --> 00:02:28.120
+we're in plan mode right now.
+
+00:02:26.040 --> 00:02:29.800
+So, we're not building anything, okay?
+
+00:02:28.120 --> 00:02:31.520
+Plan mode comes first. Basically, the
+
+00:02:29.800 --> 00:02:33.800
+x-calibre draft I showed you earlier,
+
+00:02:31.520 --> 00:02:36.280
+we're going to be using that and we're
+
+00:02:33.800 --> 00:02:38.320
+going to be planning around that to go
+
+00:02:36.280 --> 00:02:39.959
+ahead and build our tool. So, primary
+
+00:02:38.320 --> 00:02:42.040
+user,
+
+00:02:39.959 --> 00:02:44.400
+um honestly, everyone could benefit from
+
+00:02:42.040 --> 00:02:45.640
+this.
+
+00:02:44.400 --> 00:02:50.120
+But,
+
+00:02:45.640 --> 00:02:54.600
+hmm, yeah, I'll say both solo founders,
+
+00:02:50.120 --> 00:02:58.520
+marketing teams, and small businesses
+
+00:02:54.600 --> 00:03:02.040
+looking to use Reddit as a channel
+
+00:02:58.520 --> 00:03:03.720
+alongside other strategies.
+
+00:03:02.040 --> 00:03:05.440
+Press next.
+
+00:03:03.720 --> 00:03:06.400
+Um
+
+00:03:05.440 --> 00:03:09.280
+I love how it's asking me these
+
+00:03:06.400 --> 00:03:10.920
+questions to make sure the plan is fully
+
+00:03:09.280 --> 00:03:13.480
+sound, and that's what a lot of AI tools
+
+00:03:10.920 --> 00:03:13.480
+don't do.
+
+00:03:13.560 --> 00:03:17.680
+That should be good. Save results and
+
+00:03:15.080 --> 00:03:20.800
+refine. Uh free anonymous too. Oh, yeah,
+
+00:03:17.680 --> 00:03:23.400
+we need to make sure that uh users can
+
+00:03:20.800 --> 00:03:23.400
+log in.
+
+00:03:25.640 --> 00:03:30.320
+Okay, so now it's thinking.
+
+00:03:28.040 --> 00:03:33.720
+Let's see what it says.
+
+00:03:30.320 --> 00:03:35.640
+All right, so two more questions.
+
+00:03:33.720 --> 00:03:37.080
+It's like we have our
+
+00:03:35.640 --> 00:03:40.320
+a teammate, a real-life human we're
+
+00:03:37.080 --> 00:03:40.320
+talking to, but just AI.
+
+00:03:40.800 --> 00:03:43.760
+Hmm.
+
+00:03:44.040 --> 00:03:46.440
+Uh
+
+00:03:44.760 --> 00:03:48.360
+posting rules might be a little bit hard
+
+00:03:46.440 --> 00:03:49.519
+to
+
+00:03:48.360 --> 00:03:50.880
+uh
+
+00:03:49.519 --> 00:03:52.400
+um
+
+00:03:50.880 --> 00:03:54.240
+Yeah, deepest I do like that. The
+
+00:03:52.400 --> 00:03:56.520
+deepest
+
+00:03:54.240 --> 00:03:57.920
+ban prone subs.
+
+00:03:56.520 --> 00:03:59.920
+Thing is some of the best subreddits are
+
+00:03:57.920 --> 00:04:03.160
+ban prone.
+
+00:03:59.920 --> 00:04:07.000
+Yeah, let's just do this balance.
+
+00:04:03.160 --> 00:04:11.200
+Um soft sub value first.
+
+00:04:07.000 --> 00:04:14.480
+Storytelling. Yeah, we need both styles.
+
+00:04:11.200 --> 00:04:14.480
+We don't want to be too salesy.
+
+00:04:15.680 --> 00:04:18.160
+Okay.
+
+00:04:30.080 --> 00:04:32.960
+Thinking.
+
+00:04:34.560 --> 00:04:40.240
+Let's go ahead and see what PRD it comes
+
+00:04:37.840 --> 00:04:41.960
+up with. Oh, wow. That was actually very
+
+00:04:40.240 --> 00:04:43.240
+quick.
+
+00:04:41.960 --> 00:04:44.919
+Wow, this is actually faster than a lot
+
+00:04:43.240 --> 00:04:46.680
+of AI tools.
+
+00:04:44.919 --> 00:04:51.240
+I [snorts] can see the hype now.
+
+00:04:46.680 --> 00:04:51.240
+Tenten go sub radar. Interesting name.
+
+00:04:55.160 --> 00:05:00.200
+Reddit ready content in minutes.
+
+00:05:05.040 --> 00:05:08.520
+Okay, yeah, the Tenten go is pretty
+
+00:05:06.640 --> 00:05:10.040
+clear.
+
+00:05:08.520 --> 00:05:11.840
+And I think this this is exactly what
+
+00:05:10.040 --> 00:05:16.720
+we're looking for.
+
+00:05:11.840 --> 00:05:16.720
+So, this is perfect.
+
+00:05:22.040 --> 00:05:28.800
+Look at audience and roles though.
+
+00:05:24.120 --> 00:05:28.800
+Single row, core flows.
+
+00:05:29.720 --> 00:05:35.320
+Tenten requirements. So, see the plan is
+
+00:05:31.680 --> 00:05:36.640
+very fleshed out. It's very thorough.
+
+00:05:35.320 --> 00:05:40.480
+The best part is we can just hand this
+
+00:05:36.640 --> 00:05:43.000
+off to the development side of things.
+
+00:05:40.480 --> 00:05:44.560
+So, we don't have to really do anything.
+
+00:05:43.000 --> 00:05:47.440
+So, literally just click start building
+
+00:05:44.560 --> 00:05:49.320
+and boom, it's going to start building.
+
+00:05:47.440 --> 00:05:52.080
+So, let me go ahead and put that. All
+
+00:05:49.320 --> 00:05:54.160
+right, so Reddit Reach. Okay, that's the
+
+00:05:52.080 --> 00:05:57.840
+real name, Reddit Reach. Wait, oh,
+
+00:05:54.160 --> 00:05:57.840
+that's a workspace, yeah. Sub Radar.
+
+00:05:59.520 --> 00:06:04.440
+All right, so the plan mode is complete
+
+00:06:02.160 --> 00:06:06.400
+and now we're entering the build mode.
+
+00:06:04.440 --> 00:06:08.360
+So, we're going to build the full V1 app
+
+00:06:06.400 --> 00:06:11.320
+in minutes cuz
+
+00:06:08.360 --> 00:06:14.280
+Base104 is known to build pretty solid
+
+00:06:11.320 --> 00:06:15.800
+apps very quickly, quicker than most
+
+00:06:14.280 --> 00:06:17.560
+these most of the AI builder tools out
+
+00:06:15.800 --> 00:06:20.400
+there. So, I'm expecting this to be
+
+00:06:17.560 --> 00:06:22.120
+pretty quick. It's great for, you know,
+
+00:06:20.400 --> 00:06:24.640
+building MVPs that you want to test to
+
+00:06:22.120 --> 00:06:26.800
+the market. All right, so it's still
+
+00:06:24.640 --> 00:06:29.000
+building. Sub Radar now off of the
+
+00:06:26.800 --> 00:06:31.520
+parallel.
+
+00:06:29.000 --> 00:06:33.200
+Okay, it hasn't been much time at all.
+
+00:06:31.520 --> 00:06:34.720
+I'm excited to see what this comes up
+
+00:06:33.200 --> 00:06:36.840
+with.
+
+00:06:34.720 --> 00:06:39.000
+The first The first build preview is
+
+00:06:36.840 --> 00:06:40.800
+always the coolest one cuz like all your
+
+00:06:39.000 --> 00:06:44.000
+ideas are now
+
+00:06:40.800 --> 00:06:47.400
+in a live, clickable, working product.
+
+00:06:44.000 --> 00:06:49.800
+So, you can see it wrote styles.
+
+00:06:47.400 --> 00:06:51.200
+Let me go ahead and click preview.
+
+00:06:49.800 --> 00:06:54.840
+Um, goes right back to dashboard, sorry.
+
+00:06:51.200 --> 00:06:56.480
+Okay, Sub Reddit Card.
+
+00:06:54.840 --> 00:06:58.000
+You can continue this in the background
+
+00:06:56.480 --> 00:07:00.720
+as well if you wanted to in the bottom
+
+00:06:58.000 --> 00:07:00.720
+left.
+
+00:07:04.880 --> 00:07:08.280
+Okay, so it's working and this is a
+
+00:07:06.280 --> 00:07:11.800
+pretty like intense application. The
+
+00:07:08.280 --> 00:07:14.520
+plan mode as you saw was pretty deep.
+
+00:07:11.800 --> 00:07:16.960
+This isn't a simple app. All right, our
+
+00:07:14.520 --> 00:07:22.160
+product is ready.
+
+00:07:16.960 --> 00:07:22.160
+Sub Radar, find your audience on Reddit.
+
+00:07:22.680 --> 00:07:29.840
+Okay, so
+
+00:07:25.400 --> 00:07:31.840
+you scroll up, you can kind of see
+
+00:07:29.840 --> 00:07:34.480
+everything, this history of
+
+00:07:31.840 --> 00:07:37.680
+what we've been doing.
+
+00:07:34.480 --> 00:07:41.120
+All right, so your business niche, nice.
+
+00:07:37.680 --> 00:07:43.440
+So, let's just put in HVAC.
+
+00:07:41.120 --> 00:07:44.840
+Then we can find any HVAC companies.
+
+00:07:43.440 --> 00:07:46.480
+This We're pretending we're an HVAC
+
+00:07:44.840 --> 00:07:48.840
+company right now.
+
+00:07:46.480 --> 00:07:50.480
+Okay, so Petri plumbing. I'm in New York
+
+00:07:48.840 --> 00:07:53.640
+City, by the way, guys. In case you're
+
+00:07:50.480 --> 00:07:53.640
+wondering why is it New York.
+
+00:07:53.960 --> 00:07:56.120
+Um
+
+00:07:56.520 --> 00:07:59.520
+website
+
+00:07:59.800 --> 00:08:05.680
+Okay.
+
+00:08:00.560 --> 00:08:05.680
+Just copy that. To find my subreddits.
+
+00:08:07.120 --> 00:08:10.240
+Uh
+
+00:08:07.920 --> 00:08:11.880
+say issue resolved AI.
+
+00:08:10.240 --> 00:08:13.720
+Any errors come up, just pass it to the
+
+00:08:11.880 --> 00:08:17.400
+AI tool. It'll go ahead and fix it. We
+
+00:08:13.720 --> 00:08:18.640
+don't have to try to debug it ourselves.
+
+00:08:17.400 --> 00:08:20.480
+While that's happening, he's analyzing
+
+00:08:18.640 --> 00:08:24.120
+our niche website.
+
+00:08:20.480 --> 00:08:24.120
+So, let's go back to the build mode.
+
+00:08:24.280 --> 00:08:29.640
+Um sorry, the build plan. And
+
+00:08:28.160 --> 00:08:31.440
+we're still We just want to make sure
+
+00:08:29.640 --> 00:08:34.840
+our MVP works. That's pretty much it. If
+
+00:08:31.440 --> 00:08:36.960
+MVP works, we're all good. Okay.
+
+00:08:34.840 --> 00:08:36.960
+Um
+
+00:08:39.320 --> 00:08:46.200
+All right, so there's a 500 error.
+
+00:08:42.479 --> 00:08:46.200
+Do the non-text responses. Okay.
+
+00:08:53.839 --> 00:08:57.839
+HVAC for
+
+00:08:58.800 --> 00:09:04.200
+warehouses.
+
+00:09:01.240 --> 00:09:07.800
+https
+
+00:09:04.200 --> 00:09:07.800
+Put that affiliate signs.
+
+00:09:08.360 --> 00:09:11.080
+Okay.
+
+00:09:11.680 --> 00:09:15.080
+Okay, so we're saying upgrade our base
+
+00:09:13.200 --> 00:09:17.040
+44 plan. So,
+
+00:09:15.080 --> 00:09:19.200
+pretty easy to do.
+
+00:09:17.040 --> 00:09:20.440
+And I'll get back to you after upgrade.
+
+00:09:19.200 --> 00:09:22.160
+So, I've upgraded, go back to Reddit
+
+00:09:20.440 --> 00:09:24.360
+reach.
+
+00:09:22.160 --> 00:09:29.080
+Or sorry, sub radar.
+
+00:09:24.360 --> 00:09:30.720
+Put in HVAC for warehouses.
+
+00:09:29.080 --> 00:09:33.880
+Put our website.
+
+00:09:30.720 --> 00:09:33.880
+Our website.
+
+00:09:34.680 --> 00:09:37.839
+Let me just refresh.
+
+00:09:38.839 --> 00:09:43.400
+All right. So, I have AI writing to a
+
+00:09:40.360 --> 00:09:45.840
+content marketers. Just decided to do a
+
+00:09:43.400 --> 00:09:48.240
+different niche make it quicker.
+
+00:09:45.840 --> 00:09:51.480
+You can see all the different subreddits
+
+00:09:48.240 --> 00:09:54.320
+that we have as well as story letting
+
+00:09:51.480 --> 00:09:56.680
+value first posts.
+
+00:09:54.320 --> 00:10:00.040
+I want to That's one change when I
+
+00:09:56.680 --> 00:10:03.440
+highlight text, make sure
+
+00:10:00.040 --> 00:10:07.680
+the highlight doesn't make the text
+
+00:10:03.440 --> 00:10:07.680
+disappear due to the
+
+00:10:08.960 --> 00:10:14.040
+contrast.
+
+00:10:10.840 --> 00:10:16.440
+So, it's very small nitpick.
+
+00:10:14.040 --> 00:10:18.720
+body
+
+00:10:16.440 --> 00:10:20.440
+This is a solid post. There are a good
+
+00:10:18.720 --> 00:10:21.560
+amount of m dashes though. I will say
+
+00:10:20.440 --> 00:10:25.440
+that.
+
+00:10:21.560 --> 00:10:28.320
+Yeah, like there's a lot of m dashes.
+
+00:10:25.440 --> 00:10:32.480
+M dashes make posts sound way too AI
+
+00:10:28.320 --> 00:10:32.480
+generated. So, we got to specify.
+
+00:10:39.640 --> 00:10:47.839
+All right. This should do the trick. And
+
+00:10:42.440 --> 00:10:47.839
+it's perplexity on the language is
+
+00:10:48.200 --> 00:10:52.200
+optimized for human.
+
+00:10:52.560 --> 00:10:54.720
+All right. We don't want to sound like
+
+00:10:53.760 --> 00:10:56.560
+some
+
+00:10:54.720 --> 00:10:58.160
+Al Roker sound over here.
+
+00:10:56.560 --> 00:11:01.080
+So, we have value first post which I
+
+00:10:58.160 --> 00:11:02.600
+like a lot listed. So, again we're
+
+00:11:01.080 --> 00:11:05.200
+giving value in these posts, building an
+
+00:11:02.600 --> 00:11:07.680
+audience.
+
+00:11:05.200 --> 00:11:12.880
+Um we we got to have a link to each
+
+00:11:07.680 --> 00:11:16.040
+subreddit so that I can um easily, you
+
+00:11:12.880 --> 00:11:16.040
+know, go there.
+
+00:11:34.200 --> 00:11:38.920
+Okay. This should be good. Simplify the
+
+00:11:36.120 --> 00:11:38.920
+prompt a bit.
+
+00:11:40.440 --> 00:11:46.520
+And now this fixture should be applied
+
+00:11:43.320 --> 00:11:46.520
+rather quickly.
+
+00:11:49.200 --> 00:11:52.960
+All right, look here we got a message
+
+00:11:50.520 --> 00:11:52.960
+back.
+
+00:11:54.120 --> 00:11:57.520
+And again, the reason for this is guys,
+
+00:11:55.920 --> 00:11:58.560
+we don't want to sound too AI even
+
+00:11:57.520 --> 00:12:00.920
+though we're using AI to generate our
+
+00:11:58.560 --> 00:12:02.520
+post because then we will get blocked on
+
+00:12:00.920 --> 00:12:05.880
+Reddit. And we want to make sure we
+
+00:12:02.520 --> 00:12:07.320
+sound like a human and not an AI in
+
+00:12:05.880 --> 00:12:10.040
+terms of this perplexity in the way we
+
+00:12:07.320 --> 00:12:11.520
+talk. AI has AI likes to talk like
+
+00:12:10.040 --> 00:12:12.600
+you're a college professor when you're
+
+00:12:11.520 --> 00:12:14.160
+just trying to sound like a regular
+
+00:12:12.600 --> 00:12:15.120
+human being.
+
+00:12:14.160 --> 00:12:16.640
+We also want to add a link to each
+
+00:12:15.120 --> 00:12:18.080
+subreddit so we can check out the
+
+00:12:16.640 --> 00:12:20.120
+subreddit for ourselves, make sure it's
+
+00:12:18.080 --> 00:12:22.760
+even worth checking out or worth even
+
+00:12:20.120 --> 00:12:22.760
+posting in.
+
+00:12:23.720 --> 00:12:26.800
+Okay, so let's wait for these changes to
+
+00:12:25.240 --> 00:12:28.600
+be added.
+
+00:12:26.800 --> 00:12:31.120
+All right, it looks like everything is
+
+00:12:28.600 --> 00:12:31.120
+done.
+
+00:12:32.720 --> 00:12:37.160
+So, there's only one way to track that
+
+00:12:35.400 --> 00:12:40.200
+and figure that out. Let's go ahead and
+
+00:12:37.160 --> 00:12:40.200
+test it once more.
+
+00:12:50.160 --> 00:12:57.720
+Okay, so
+
+00:12:52.440 --> 00:13:01.160
+let's do HVAC for warehouses once more.
+
+00:12:57.720 --> 00:13:01.160
+And then we're just going to
+
+00:13:02.480 --> 00:13:05.680
+copy that, find my subreddit. So, this
+
+00:13:04.440 --> 00:13:07.560
+is the original test you know that
+
+00:13:05.680 --> 00:13:09.240
+wasn't working earlier. We moved to AI
+
+00:13:07.560 --> 00:13:11.960
+writing tool but now
+
+00:13:09.240 --> 00:13:13.320
+test it one more time. It should work.
+
+00:13:11.960 --> 00:13:16.360
+It should work.
+
+00:13:13.320 --> 00:13:18.240
+Okay, wow, five subreddits found
+
+00:13:16.360 --> 00:13:19.880
+for HVAC for warehouses.
+
+00:13:18.240 --> 00:13:21.320
+r/hvac See, I didn't know that was a
+
+00:13:19.880 --> 00:13:23.360
+subreddit.
+
+00:13:21.320 --> 00:13:24.839
+Holy.
+
+00:13:23.360 --> 00:13:29.680
+Okay, now this is way better. Sounds
+
+00:13:24.839 --> 00:13:32.040
+like a real person is writing that.
+
+00:13:29.680 --> 00:13:33.560
+Quick tips for the value. Okay, this is
+
+00:13:32.040 --> 00:13:35.280
+pretty good.
+
+00:13:33.560 --> 00:13:37.600
+Facilities.
+
+00:13:35.280 --> 00:13:40.680
+Nice, and it has a direct link to the
+
+00:13:37.600 --> 00:13:42.680
+subreddit. Okay, and that works.
+
+00:13:40.680 --> 00:13:45.040
+Amazing.
+
+00:13:42.680 --> 00:13:46.880
+Uh commercial real estate. Wow, another
+
+00:13:45.040 --> 00:13:49.280
+quick link. So, I can just check this
+
+00:13:46.880 --> 00:13:51.760
+out very easy myself. I don't have to
+
+00:13:49.280 --> 00:13:54.040
+just blindly rely on
+
+00:13:51.760 --> 00:13:56.000
+the scan.
+
+00:13:54.040 --> 00:13:59.680
+Property management.
+
+00:13:56.000 --> 00:14:02.040
+These are all solid subreddits.
+
+00:13:59.680 --> 00:14:04.800
+And you can track a lot of HVAC business
+
+00:14:02.040 --> 00:14:04.800
+owners in this.
+
+00:14:06.040 --> 00:14:08.640
+So, you can save this search, save to
+
+00:14:07.400 --> 00:14:10.880
+history.
+
+00:14:08.640 --> 00:14:12.600
+Go to my history. Look at that.
+
+00:14:10.880 --> 00:14:14.200
+Everything is saved, the posts as well
+
+00:14:12.600 --> 00:14:16.680
+as the subreddits.
+
+00:14:14.200 --> 00:14:19.240
+That's a fully functional app.
+
+00:14:16.680 --> 00:14:21.600
+So, you click published, publish.
+
+00:14:19.240 --> 00:14:23.720
+And we do web or mobile app. We'll do
+
+00:14:21.600 --> 00:14:25.440
+web for this. We click publish app, and
+
+00:14:23.720 --> 00:14:27.560
+boom.
+
+00:14:25.440 --> 00:14:29.640
+You put the link right here.
+
+00:14:27.560 --> 00:14:31.160
+Continue with Google, and we're logged
+
+00:14:29.640 --> 00:14:33.000
+in, and you can just see all of our
+
+00:14:31.160 --> 00:14:34.760
+posts and history. This is a fully
+
+00:14:33.000 --> 00:14:38.680
+functional app that you can start
+
+00:14:34.760 --> 00:14:40.480
+selling right now if you wanted to.
+
+00:14:38.680 --> 00:14:43.680
+And now to show you the full version of
+
+00:14:40.480 --> 00:14:43.680
+this, this is
+
+00:14:44.520 --> 00:14:48.560
+version which you saw in this video.
+
+00:14:46.520 --> 00:14:51.640
+This does exactly what you just saw. So,
+
+00:14:48.560 --> 00:14:54.160
+this app already has made money. It has
+
+00:14:51.640 --> 00:14:55.560
+paying customers, has MRR. So, this is
+
+00:14:54.160 --> 00:14:59.960
+me proving to you that what we just
+
+00:14:55.560 --> 00:15:01.240
+built is a profitable app from the jump.
+
+00:14:59.960 --> 00:15:03.080
+And you can feel free to check this out
+
+00:15:01.240 --> 00:15:04.400
+in the link in the description. Now,
+
+00:15:03.080 --> 00:15:05.520
+building this app would not have been
+
+00:15:04.400 --> 00:15:08.560
+possible if it wasn't for today's
+
+00:15:05.520 --> 00:15:11.280
+sponsor, Base 44. Base 44 is one of the
+
+00:15:08.560 --> 00:15:13.560
+most popular AI app building tools that
+
+00:15:11.280 --> 00:15:15.400
+exist on today's market. As you can see,
+
+00:15:13.560 --> 00:15:17.440
+building with Base 44 is extremely easy,
+
+00:15:15.400 --> 00:15:19.200
+and you can deploy apps with a one-click
+
+00:15:17.440 --> 00:15:21.120
+deployment, and you can start selling
+
+00:15:19.200 --> 00:15:22.760
+them all the same exact day. [music]
+
+00:15:21.120 --> 00:15:24.600
+From planning to building to hosting,
+
+00:15:22.760 --> 00:15:26.560
+Base 44 handles everything. So, if you
+
+00:15:24.600 --> 00:15:27.920
+want to check out Base 44 and use this
+
+00:15:26.560 --> 00:15:29.560
+tool for yourself to build profitable
+
+00:15:27.920 --> 00:15:31.320
+apps, check the first link description
+
+00:15:29.560 --> 00:15:32.840
+below. So, go ahead and build something
+
+00:15:31.320 --> 00:15:34.920
+incredible. And if you want to see how I
+
+00:15:32.840 --> 00:15:38.160
+built a profitable AI app from scratch,
+
+00:15:34.920 --> 00:15:38.160
+watch this video next.
+

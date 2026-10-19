@@ -1,0 +1,1373 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.840
+Your mistake is you are trying to sell
+
+00:00:02.000 --> 00:00:05.600
+AI. But the people quietly making the
+
+00:00:03.840 --> 00:00:07.200
+most money in the space right now aren't
+
+00:00:05.600 --> 00:00:09.720
+selling AI at all. They're selling a
+
+00:00:07.200 --> 00:00:11.560
+normal boring service, writing, email,
+
+00:00:09.720 --> 00:00:13.720
+editing, recruiting, SEO, and they're
+
+00:00:11.560 --> 00:00:15.920
+using AI to deliver it. The client never
+
+00:00:13.720 --> 00:00:17.960
+sees AI, they see the outcome. This is a
+
+00:00:15.920 --> 00:00:19.960
+very business model that Y Combinator is
+
+00:00:17.960 --> 00:00:22.080
+spending millions on. So why aren't you
+
+00:00:19.960 --> 00:00:23.320
+doing it? Oh, you don't know how? Well,
+
+00:00:22.080 --> 00:00:25.760
+in this video I'm going to show you the
+
+00:00:23.320 --> 00:00:27.920
+exact model, the skill audit that tells
+
+00:00:25.760 --> 00:00:30.040
+you which service to sell, and the five
+
+00:00:27.920 --> 00:00:32.119
+steps to your first client with this new
+
+00:00:30.040 --> 00:00:34.360
+business model. For context, I made over
+
+00:00:32.119 --> 00:00:36.760
+$1 million through AI businesses. I've
+
+00:00:34.360 --> 00:00:39.440
+scaled 200-plus founders across 33
+
+00:00:36.760 --> 00:00:41.080
+countries to over $4 million in revenue,
+
+00:00:39.440 --> 00:00:42.640
+and this is the model most of them are
+
+00:00:41.080 --> 00:00:44.440
+running right now. And when you see my
+
+00:00:42.640 --> 00:00:46.240
+five-step plan to landing your first
+
+00:00:44.440 --> 00:00:48.470
+client, step four would [snorts] be the
+
+00:00:46.240 --> 00:00:49.680
+difference between a 2K client and 8K
+
+00:00:48.470 --> 00:00:51.320
+[music] client. So make sure you pay
+
+00:00:49.680 --> 00:00:53.200
+attention when that time comes. Now,
+
+00:00:51.320 --> 00:00:55.080
+before I deep dive into this model, let
+
+00:00:53.200 --> 00:00:57.480
+me prove that it works. My mentee,
+
+00:00:55.080 --> 00:01:00.120
+Wussal, sold an email ghostwriting agent
+
+00:00:57.480 --> 00:01:02.240
+to a client for 3,000 euros. Not a SaaS,
+
+00:01:00.120 --> 00:01:03.560
+not a dashboard, emails. A service
+
+00:01:02.240 --> 00:01:05.480
+business that has people have been
+
+00:01:03.560 --> 00:01:08.120
+buying for 20 years, he just up-scouted
+
+00:01:05.480 --> 00:01:10.080
+it with AI. Timothy closed two 5K deals
+
+00:01:08.120 --> 00:01:12.840
+for an email system that he built that
+
+00:01:10.080 --> 00:01:16.040
+was powered with AI. Tessa landed a 1K
+
+00:01:12.840 --> 00:01:18.160
+MRR client where she handles TikTok SEO
+
+00:01:16.040 --> 00:01:19.720
+and CRM pipeline growth for this
+
+00:01:18.160 --> 00:01:21.800
+e-commerce brand. And of course, she
+
+00:01:19.720 --> 00:01:24.000
+runs them all. Notice how none of these
+
+00:01:21.800 --> 00:01:25.480
+examples were I built a chatbot and sold
+
+00:01:24.000 --> 00:01:27.720
+it. Instead, it was a service that
+
+00:01:25.480 --> 00:01:29.720
+people have already been known to buy,
+
+00:01:27.720 --> 00:01:31.440
+and they just added AI layer on top and
+
+00:01:29.720 --> 00:01:32.800
+they're delivering it. That is the whole
+
+00:01:31.440 --> 00:01:35.080
+business. See, what you're doing right
+
+00:01:32.800 --> 00:01:36.840
+now is racing to the bottom. Right now
+
+00:01:35.080 --> 00:01:39.800
+you are probably selling maybe voice AI
+
+00:01:36.840 --> 00:01:42.120
+receptionists, AI automation agents, uh
+
+00:01:39.800 --> 00:01:44.000
+custom dashboards, AI operating systems,
+
+00:01:42.120 --> 00:01:45.920
+second brains, or just plain out
+
+00:01:44.000 --> 00:01:47.720
+chatbots. And this is the scary part.
+
+00:01:45.920 --> 00:01:49.440
+See, I've been on live sales calls with
+
+00:01:47.720 --> 00:01:51.240
+HVAC companies, roofing companies who
+
+00:01:49.440 --> 00:01:53.160
+are comparing five or six different AI
+
+00:01:51.240 --> 00:01:56.000
+agencies all pitching the exact same
+
+00:01:53.160 --> 00:01:58.040
+voice AI, all using the same 11 Labs
+
+00:01:56.000 --> 00:02:00.440
+voice, all acting the same way with the
+
+00:01:58.040 --> 00:02:02.440
+same exact demos. So, what's left to
+
+00:02:00.440 --> 00:02:03.960
+compete on? Well, these HVAC and roofing
+
+00:02:02.440 --> 00:02:05.400
+clients of mine, they were saying,
+
+00:02:03.960 --> 00:02:07.680
+"Well, we're just looking at price.
+
+00:02:05.400 --> 00:02:09.600
+Which one is the cheapest?" So, now your
+
+00:02:07.680 --> 00:02:12.040
+only differentiator is price, and the
+
+00:02:09.600 --> 00:02:14.240
+problem with that is your lifetime value
+
+00:02:12.040 --> 00:02:17.280
+per client collapses. What used to be a
+
+00:02:14.240 --> 00:02:18.920
+$1,000 client is now a $200 client, and
+
+00:02:17.280 --> 00:02:21.200
+then becomes someone on Fiverr from
+
+00:02:18.920 --> 00:02:23.040
+India doing it for $80. Meanwhile,
+
+00:02:21.200 --> 00:02:25.160
+nobody's undercutting the marketing
+
+00:02:23.040 --> 00:02:27.280
+agency charging $8,000 a month because
+
+00:02:25.160 --> 00:02:29.440
+that agency isn't selling a tool, it's
+
+00:02:27.280 --> 00:02:31.080
+selling an outcome. You want to be on
+
+00:02:29.440 --> 00:02:33.360
+that side of the table. Well, are you
+
+00:02:31.080 --> 00:02:34.560
+telling me to abandon my AI agency? No,
+
+00:02:33.360 --> 00:02:36.080
+I'm not telling you to burn down your
+
+00:02:34.560 --> 00:02:38.000
+agency. If you're selling voice agents
+
+00:02:36.080 --> 00:02:40.640
+and it's working, keep going. What you
+
+00:02:38.000 --> 00:02:42.480
+have to do is add a layer where you are
+
+00:02:40.640 --> 00:02:44.600
+delivering a service that's already
+
+00:02:42.480 --> 00:02:46.120
+known to work, but you're using your AI
+
+00:02:44.600 --> 00:02:48.080
+system that you already built to help
+
+00:02:46.120 --> 00:02:49.720
+you deliver it. In fact, Y Combinator
+
+00:02:48.080 --> 00:02:51.840
+has been openly saying that they want
+
+00:02:49.720 --> 00:02:53.480
+founders to replace services, not
+
+00:02:51.840 --> 00:02:54.680
+founders who ship more software. And
+
+00:02:53.480 --> 00:02:56.280
+once you sit with that first second,
+
+00:02:54.680 --> 00:02:58.680
+it's obvious. The software market is
+
+00:02:56.280 --> 00:03:00.360
+big, the services market is bigger, way
+
+00:02:58.680 --> 00:03:01.720
+bigger. Look around you. Your barber,
+
+00:03:00.360 --> 00:03:03.400
+your dentist, your accountant, your
+
+00:03:01.720 --> 00:03:05.920
+local massage place, the marketing
+
+00:03:03.400 --> 00:03:07.239
+agency, the last client you fired, none
+
+00:03:05.920 --> 00:03:09.200
+of them are selling you software.
+
+00:03:07.239 --> 00:03:10.959
+They're selling you labor with a result
+
+00:03:09.200 --> 00:03:13.160
+attached. A dentist is cleaning your
+
+00:03:10.959 --> 00:03:15.040
+teeth. A doctor's making sure you don't
+
+00:03:13.160 --> 00:03:17.480
+have a you know, something wrong with
+
+00:03:15.040 --> 00:03:19.480
+your body. Software replaces a task,
+
+00:03:17.480 --> 00:03:21.200
+services are entire departments. An
+
+00:03:19.480 --> 00:03:23.600
+entire department has a budget that a
+
+00:03:21.200 --> 00:03:24.600
+task never will. So, here's a reframe
+
+00:03:23.600 --> 00:03:26.440
+that can literally be a difference
+
+00:03:24.600 --> 00:03:28.160
+between your $10,000 a month business
+
+00:03:26.440 --> 00:03:30.000
+and your $50,000 a month business. You
+
+00:03:28.160 --> 00:03:32.160
+are not an AI business, you are a
+
+00:03:30.000 --> 00:03:34.760
+service business with an unfair delivery
+
+00:03:32.160 --> 00:03:36.480
+engine. That is the AI delivery business
+
+00:03:34.760 --> 00:03:37.920
+model that we will talk about more in
+
+00:03:36.480 --> 00:03:39.360
+this video. So, let me place side by
+
+00:03:37.920 --> 00:03:40.519
+side. You have AI agency, you have AI
+
+00:03:39.360 --> 00:03:42.160
+delivery business, because the
+
+00:03:40.519 --> 00:03:43.480
+difference is worth a lot of money, so I
+
+00:03:42.160 --> 00:03:45.080
+want to make sure it's very clear for
+
+00:03:43.480 --> 00:03:46.840
+you. If you are an AI agency, you're
+
+00:03:45.080 --> 00:03:48.480
+selling a tool. If you're an AI delivery
+
+00:03:46.840 --> 00:03:51.160
+business, you're selling an outcome. An
+
+00:03:48.480 --> 00:03:53.520
+AI agency might charge $1,500 to $2,000
+
+00:03:51.160 --> 00:03:55.800
+setup fees and $200 to $500 a month
+
+00:03:53.520 --> 00:03:57.480
+retainers. An AI delivery business,
+
+00:03:55.800 --> 00:03:59.520
+whatever the service market already
+
+00:03:57.480 --> 00:04:01.640
+pays, you can match that price. This can
+
+00:03:59.520 --> 00:04:04.320
+be $8,000 a month, it can be $5,000 a
+
+00:04:01.640 --> 00:04:06.080
+month. It can go as high as $15,000 a
+
+00:04:04.320 --> 00:04:07.240
+month because you're not being compared
+
+00:04:06.080 --> 00:04:09.520
+to another AI vendor, you're being
+
+00:04:07.240 --> 00:04:11.320
+compared to a human agency with a bunch
+
+00:04:09.520 --> 00:04:12.480
+of humans and because of that, they have
+
+00:04:11.320 --> 00:04:14.720
+to charge, you know, these crazy
+
+00:04:12.480 --> 00:04:16.040
+retainers of five, $10,000 a month. Now,
+
+00:04:14.720 --> 00:04:17.400
+you might be thinking, "Well, selling AI
+
+00:04:16.040 --> 00:04:18.480
+tools so much easier cuz you don't have
+
+00:04:17.400 --> 00:04:20.120
+to do much work." Well, if you use
+
+00:04:18.480 --> 00:04:21.840
+Claude skills and Claude code, then AI
+
+00:04:20.120 --> 00:04:23.160
+delivery business is even easier. You're
+
+00:04:21.840 --> 00:04:25.400
+literally letting You're You're letting
+
+00:04:23.160 --> 00:04:27.919
+AI do 80% of the work. And this is the
+
+00:04:25.400 --> 00:04:29.960
+main point. What you compete on as an AI
+
+00:04:27.919 --> 00:04:31.919
+agency is price. But an AI delivery
+
+00:04:29.960 --> 00:04:33.800
+business, you compete on results. And
+
+00:04:31.919 --> 00:04:35.600
+results is where the number goes up over
+
+00:04:33.800 --> 00:04:37.919
+time instead of down. Let me give you an
+
+00:04:35.600 --> 00:04:39.720
+example. And I I always use this example
+
+00:04:37.919 --> 00:04:41.600
+in my videos because it's so, like,
+
+00:04:39.720 --> 00:04:43.040
+popular. There's so much income and
+
+00:04:41.600 --> 00:04:44.720
+money in this field. LinkedIn
+
+00:04:43.040 --> 00:04:46.480
+ghostwriting is one of the biggest
+
+00:04:44.720 --> 00:04:48.200
+emerging service markets right now
+
+00:04:46.480 --> 00:04:50.400
+because all these, you know, funded YC
+
+00:04:48.200 --> 00:04:51.520
+startups need LinkedIn presence. These
+
+00:04:50.400 --> 00:04:53.240
+founders don't know how to write on
+
+00:04:51.520 --> 00:04:55.240
+LinkedIn. They're not social. So,
+
+00:04:53.240 --> 00:04:56.760
+they're hiring agencies, these LinkedIn
+
+00:04:55.240 --> 00:04:58.440
+ghostwriting agencies, and they're
+
+00:04:56.760 --> 00:05:00.440
+paying them five, six grand a month to
+
+00:04:58.440 --> 00:05:01.840
+do ghostwriting for them. Now, as a
+
+00:05:00.440 --> 00:05:03.919
+human ghostwriter, you might write four
+
+00:05:01.840 --> 00:05:05.280
+posts a week per client. Each client
+
+00:05:03.919 --> 00:05:06.600
+takes you about 10 hours a week once you
+
+00:05:05.280 --> 00:05:08.080
+factor in researching, drafting,
+
+00:05:06.600 --> 00:05:09.919
+revisions, and the back and forth on
+
+00:05:08.080 --> 00:05:11.160
+Slack. So, maybe you can only handle
+
+00:05:09.919 --> 00:05:12.480
+four or five clients. You're still
+
+00:05:11.160 --> 00:05:14.560
+making about 10, you know, 12 grand a
+
+00:05:12.480 --> 00:05:16.240
+month if you charge, let's say, $2,000 a
+
+00:05:14.560 --> 00:05:17.840
+client, which is great. But that's the
+
+00:05:16.240 --> 00:05:20.000
+target most people in the space are
+
+00:05:17.840 --> 00:05:21.520
+chasing and you with the AI delivery
+
+00:05:20.000 --> 00:05:23.480
+business can go even further than that.
+
+00:05:21.520 --> 00:05:25.560
+Here's how. Right now, you're being
+
+00:05:23.480 --> 00:05:27.600
+capped not based on your demand, not
+
+00:05:25.560 --> 00:05:29.760
+based on the value of, you know, what
+
+00:05:27.600 --> 00:05:31.960
+you provide, but your literal hands.
+
+00:05:29.760 --> 00:05:33.320
+There is no version of that week of work
+
+00:05:31.960 --> 00:05:35.240
+that you have where you take on a sixth
+
+00:05:33.320 --> 00:05:36.919
+client because you are the bottleneck
+
+00:05:35.240 --> 00:05:38.560
+and you can't hire fast enough and you
+
+00:05:36.919 --> 00:05:40.720
+can't fulfill fast enough to take on
+
+00:05:38.560 --> 00:05:43.480
+more clients. So, now you introduce an
+
+00:05:40.720 --> 00:05:45.760
+AI pipeline. Same service, same clients,
+
+00:05:43.480 --> 00:05:47.880
+same deliverable, different factory. And
+
+00:05:45.760 --> 00:05:49.920
+here's how this looks like. Step one,
+
+00:05:47.880 --> 00:05:51.760
+scrape every post that a creator has
+
+00:05:49.920 --> 00:05:53.200
+ever published. Step two, train their
+
+00:05:51.760 --> 00:05:54.320
+voice into a cloud skill, their
+
+00:05:53.200 --> 00:05:55.840
+phrasing, their opinions, their
+
+00:05:54.320 --> 00:05:58.360
+formatting, the stories they tell over
+
+00:05:55.840 --> 00:05:59.960
+and over. Step three, pull trend angles
+
+00:05:58.360 --> 00:06:02.480
+from what's actually working in their
+
+00:05:59.960 --> 00:06:04.360
+niche this week. Step four, generate 20
+
+00:06:02.480 --> 00:06:06.160
+drafts. And step five, you edit it
+
+00:06:04.360 --> 00:06:08.040
+manually and post. So, you're still the
+
+00:06:06.160 --> 00:06:09.720
+writer. You're just not the typist
+
+00:06:08.040 --> 00:06:12.040
+anymore who's doing everything
+
+00:06:09.720 --> 00:06:14.480
+end-to-end. You're more of a director.
+
+00:06:12.040 --> 00:06:16.160
+You're directing your AI to do 80% of
+
+00:06:14.480 --> 00:06:18.640
+the heavy lifting and you do that last
+
+00:06:16.160 --> 00:06:20.560
+20%. And now you can take on maybe 10,
+
+00:06:18.640 --> 00:06:22.040
+11 clients and double, triple your
+
+00:06:20.560 --> 00:06:23.440
+monthly revenue. Okay, so now that you
+
+00:06:22.040 --> 00:06:24.800
+understand the model, how do you
+
+00:06:23.440 --> 00:06:26.360
+actually start one? Well, it's a
+
+00:06:24.800 --> 00:06:28.360
+five-step plan and you just have to
+
+00:06:26.360 --> 00:06:29.560
+follow it exactly in order. Step one is
+
+00:06:28.360 --> 00:06:30.919
+the one everyone skips and that's the
+
+00:06:29.560 --> 00:06:32.800
+reason most people are still watching
+
+00:06:30.919 --> 00:06:34.800
+this video instead of getting paid. You
+
+00:06:32.800 --> 00:06:36.240
+already have skills, all right? You
+
+00:06:34.800 --> 00:06:37.919
+might not believe in yourself, but I do.
+
+00:06:36.240 --> 00:06:39.880
+You just don't respect it because it's
+
+00:06:37.919 --> 00:06:41.720
+not AI. So, you need to do what's called
+
+00:06:39.880 --> 00:06:43.560
+a skill audit and here's how you do it.
+
+00:06:41.720 --> 00:06:45.720
+You open a Google Doc or Notion and you
+
+00:06:43.560 --> 00:06:47.880
+answer three questions honestly. One,
+
+00:06:45.720 --> 00:06:49.840
+what have people actually paid you to do
+
+00:06:47.880 --> 00:06:51.240
+or have asked you to do even for free,
+
+00:06:49.840 --> 00:06:53.000
+but they know that you do it very well.
+
+00:06:51.240 --> 00:06:55.400
+Not what you're interested in. Where has
+
+00:06:53.000 --> 00:06:57.120
+money actually already changed hands for
+
+00:06:55.400 --> 00:06:59.000
+you or someone has praised you very well
+
+00:06:57.120 --> 00:07:00.720
+for that skill. Two, what do people ask
+
+00:06:59.000 --> 00:07:02.760
+you for free? That's a service with
+
+00:07:00.720 --> 00:07:04.080
+demand and no price tag yet. Friends
+
+00:07:02.760 --> 00:07:05.240
+asking you to fix a resume, someone
+
+00:07:04.080 --> 00:07:07.160
+asking you to look at their website
+
+00:07:05.240 --> 00:07:08.640
+copy, your old manager asking to just
+
+00:07:07.160 --> 00:07:10.720
+take a quick look at the hiring
+
+00:07:08.640 --> 00:07:12.400
+pipeline. And three, what did your last
+
+00:07:10.720 --> 00:07:14.240
+job, if you've ever had one, actually
+
+00:07:12.400 --> 00:07:15.880
+consist of? If you're a recruiter, you
+
+00:07:14.240 --> 00:07:17.400
+know sourcing. If you're in finance, you
+
+00:07:15.880 --> 00:07:18.919
+know bookkeeping and reporting. If
+
+00:07:17.400 --> 00:07:21.640
+you're in marketing, you know content
+
+00:07:18.919 --> 00:07:23.440
+and paid ads. That's not a resume. This
+
+00:07:21.640 --> 00:07:24.919
+will be used, right? To build your
+
+00:07:23.440 --> 00:07:26.720
+offer. Now, whatever your previous skill
+
+00:07:24.919 --> 00:07:29.080
+was, you run it through one filter. Can
+
+00:07:26.720 --> 00:07:31.480
+AI do 80% of the delivery? Not 100%,
+
+00:07:29.080 --> 00:07:33.400
+80%. Ghostwriting, yes, as we talked
+
+00:07:31.480 --> 00:07:34.360
+about. Cold email outbound, yes.
+
+00:07:33.400 --> 00:07:36.600
+Short-form video editing and
+
+00:07:34.360 --> 00:07:38.520
+repurposing, eh, not so much. SEO
+
+00:07:36.600 --> 00:07:40.320
+content, yes. Bookkeeping, cleaning,
+
+00:07:38.520 --> 00:07:42.960
+reporting, yes. Recruiting and candidate
+
+00:07:40.320 --> 00:07:44.640
+sourcing, yes. Podcast production, no.
+
+00:07:42.960 --> 00:07:45.960
+Massage therapy,
+
+00:07:44.640 --> 00:07:48.040
+no, not at all. That'll be That'll be
+
+00:07:45.960 --> 00:07:51.240
+pretty crazy. So, once you've found that
+
+00:07:48.040 --> 00:07:53.480
+skill that AI can do 80% of, you can now
+
+00:07:51.240 --> 00:07:55.120
+mold a business around it. So, here's
+
+00:07:53.480 --> 00:07:57.040
+where step two comes in. You take that
+
+00:07:55.120 --> 00:07:58.720
+service and you split it in half on
+
+00:07:57.040 --> 00:08:00.200
+paper. You write out every single thing
+
+00:07:58.720 --> 00:08:01.880
+that gets delivered, start to finish,
+
+00:08:00.200 --> 00:08:03.120
+like you're training a new hire. For
+
+00:08:01.880 --> 00:08:04.920
+ghostwriting, that's research the
+
+00:08:03.120 --> 00:08:06.760
+creator's voice, pull trending angles,
+
+00:08:04.920 --> 00:08:08.400
+draft posts, edit for voice, schedule,
+
+00:08:06.760 --> 00:08:10.920
+report on performance, and hop on a
+
+00:08:08.400 --> 00:08:12.560
+monthly call. Now, mark each one AI or
+
+00:08:10.920 --> 00:08:14.360
+human. Research, angle pulling,
+
+00:08:12.560 --> 00:08:16.360
+drafting, scheduling, reporting, all
+
+00:08:14.360 --> 00:08:18.200
+that AI can handle. Final voice edit,
+
+00:08:16.360 --> 00:08:20.160
+strategy, the monthly call, the judgment
+
+00:08:18.200 --> 00:08:22.000
+call, what not to post, that's what you
+
+00:08:20.160 --> 00:08:23.880
+handle. That line you just drew is your
+
+00:08:22.000 --> 00:08:25.880
+entire business model. Everything above
+
+00:08:23.880 --> 00:08:28.080
+it is your margin. Everything below it
+
+00:08:25.880 --> 00:08:30.240
+is why the client keeps paying you and
+
+00:08:28.080 --> 00:08:32.360
+doesn't just go by Claude themselves,
+
+00:08:30.240 --> 00:08:33.840
+because they know that you have that
+
+00:08:32.360 --> 00:08:35.719
+finishing touch that they can't
+
+00:08:33.840 --> 00:08:37.640
+replicate. That's that human element,
+
+00:08:35.719 --> 00:08:38.880
+the differentiator as to why, you know,
+
+00:08:37.640 --> 00:08:40.479
+someone can't just use Claude to do
+
+00:08:38.880 --> 00:08:42.200
+everything in today's world. Now, if you
+
+00:08:40.479 --> 00:08:43.919
+hear this objection, why would I pay you
+
+00:08:42.200 --> 00:08:45.760
+when I can use the AI myself? Here's how
+
+00:08:43.919 --> 00:08:47.440
+to just kill it instantly. These people
+
+00:08:45.760 --> 00:08:49.160
+that are hiring you have company to run.
+
+00:08:47.440 --> 00:08:51.000
+The same reason people pay bookkeeper
+
+00:08:49.160 --> 00:08:52.880
+when TurboTax exists, pay for haircut
+
+00:08:51.000 --> 00:08:54.600
+when scissors cost $9. You're not
+
+00:08:52.880 --> 00:08:56.080
+selling access to a tool. I mean, Claude
+
+00:08:54.600 --> 00:08:57.560
+is only 20 bucks a month, anyone can use
+
+00:08:56.080 --> 00:08:59.240
+it. You're selling the fact that it's
+
+00:08:57.560 --> 00:09:01.360
+handled, it's consistent, and it's good,
+
+00:08:59.240 --> 00:09:02.960
+which is the 20% that you've kept for
+
+00:09:01.360 --> 00:09:04.480
+yourself. This is your human element.
+
+00:09:02.960 --> 00:09:05.960
+So, that human element is the last
+
+00:09:04.480 --> 00:09:07.560
+differentiator. Now, here comes step
+
+00:09:05.960 --> 00:09:09.280
+three. You want to build what's called a
+
+00:09:07.560 --> 00:09:10.920
+delivery engine. I want you to build it
+
+00:09:09.280 --> 00:09:12.640
+for what's specific to the client, not a
+
+00:09:10.920 --> 00:09:14.040
+some universal product. This is a big
+
+00:09:12.640 --> 00:09:15.320
+mental shift. You're not building a
+
+00:09:14.040 --> 00:09:17.280
+thing you sell, you are building the
+
+00:09:15.320 --> 00:09:19.120
+factory that produces what you sell.
+
+00:09:17.280 --> 00:09:20.600
+Nobody buys a factory, they buy what
+
+00:09:19.120 --> 00:09:21.960
+comes off the line. So, let's take the
+
+00:09:20.600 --> 00:09:23.240
+ghostwriting example. What would be the
+
+00:09:21.960 --> 00:09:24.920
+factory? In this case, it would be a
+
+00:09:23.240 --> 00:09:26.480
+Claude skill that holds everything that
+
+00:09:24.920 --> 00:09:27.760
+client has ever published. Their voice
+
+00:09:26.480 --> 00:09:29.440
+rules are non-negotiable, their
+
+00:09:27.760 --> 00:09:30.920
+audience, their offers, and the formats
+
+00:09:29.440 --> 00:09:33.280
+that have historically performed for
+
+00:09:30.920 --> 00:09:35.200
+them. The actual result from the factory
+
+00:09:33.280 --> 00:09:37.080
+is that final LinkedIn post that goes
+
+00:09:35.200 --> 00:09:38.920
+public on the client's profile. You can
+
+00:09:37.080 --> 00:09:40.560
+also do this on Cloud Code. You simply
+
+00:09:38.920 --> 00:09:42.440
+put this prompt in and you will see
+
+00:09:40.560 --> 00:09:43.960
+Cloud Code scrape all the LinkedIn posts
+
+00:09:42.440 --> 00:09:46.160
+and generate a voice profile for the
+
+00:09:43.960 --> 00:09:47.560
+client. You use that to write that final
+
+00:09:46.160 --> 00:09:49.240
+LinkedIn post and you publish it to
+
+00:09:47.560 --> 00:09:50.960
+their profile. Again, the client only
+
+00:09:49.240 --> 00:09:52.320
+sees a post, they don't see the factory.
+
+00:09:50.960 --> 00:09:54.120
+Now, you don't have to spend too much
+
+00:09:52.320 --> 00:09:55.760
+time on building this factory in the
+
+00:09:54.120 --> 00:09:57.480
+beginning. You can build a very ugly
+
+00:09:55.760 --> 00:09:58.840
+version of it, like a very MVP version
+
+00:09:57.480 --> 00:10:00.520
+of it. Get the client and let the
+
+00:09:58.840 --> 00:10:02.480
+client's feedback finish building it for
+
+00:10:00.520 --> 00:10:03.960
+you. Done is always better than perfect.
+
+00:10:02.480 --> 00:10:05.240
+Okay, with three steps down, move on to
+
+00:10:03.960 --> 00:10:06.960
+step four and this is where you actually
+
+00:10:05.240 --> 00:10:08.200
+get paid. This step only takes 10
+
+00:10:06.960 --> 00:10:10.480
+minutes and is worth more than the
+
+00:10:08.200 --> 00:10:12.400
+previous three combined, literally. Go
+
+00:10:10.480 --> 00:10:13.880
+look up what a human agency charges for
+
+00:10:12.400 --> 00:10:16.160
+the exact service you just picked or
+
+00:10:13.880 --> 00:10:19.000
+even another AI delivery business. Don't
+
+00:10:16.160 --> 00:10:20.840
+look for an AI SaaS or AI SaaS that, you
+
+00:10:19.000 --> 00:10:22.640
+know, accomplishes the exact task. Look
+
+00:10:20.840 --> 00:10:24.240
+literally for a human agency. For
+
+00:10:22.640 --> 00:10:25.880
+ghostwriting agency, you can probably
+
+00:10:24.240 --> 00:10:28.760
+expect two to 10 grand a month. Cold
+
+00:10:25.880 --> 00:10:31.200
+email agency, 3 to 5K plus commissions.
+
+00:10:28.760 --> 00:10:33.280
+Content repurposing, 2.5K. Fashion
+
+00:10:31.200 --> 00:10:35.120
+bookkeeping, 1.5K about I think 3K a
+
+00:10:33.280 --> 00:10:37.160
+month. These are all human-led
+
+00:10:35.120 --> 00:10:39.000
+businesses. You can charge the exact
+
+00:10:37.160 --> 00:10:40.960
+same fee. Maybe go even 100 bucks
+
+00:10:39.000 --> 00:10:42.720
+cheaper just to undercut your
+
+00:10:40.960 --> 00:10:44.880
+competitors. But the reason you succeed
+
+00:10:42.720 --> 00:10:46.400
+more is because you have AI in your back
+
+00:10:44.880 --> 00:10:47.640
+pocket that's doing most of the work for
+
+00:10:46.400 --> 00:10:49.560
+you. So, while your competitors are
+
+00:10:47.640 --> 00:10:51.600
+capped out at maybe five clients and
+
+00:10:49.560 --> 00:10:53.360
+burning up and they can't handle
+
+00:10:51.600 --> 00:10:55.040
+anything more, you're smooth sailing
+
+00:10:53.360 --> 00:10:56.680
+with 10 to 12 clients because AI is
+
+00:10:55.040 --> 00:10:58.080
+doing all the heavy lifting for you. And
+
+00:10:56.680 --> 00:10:59.640
+the great part is you're not charging
+
+00:10:58.080 --> 00:11:01.520
+for your hours, you're charging for the
+
+00:10:59.640 --> 00:11:02.880
+outcome. This is why, you know, having
+
+00:11:01.520 --> 00:11:05.120
+AI delivery business so much better than
+
+00:11:02.880 --> 00:11:07.080
+9-5. 9-5, you're literally getting paid
+
+00:11:05.120 --> 00:11:08.800
+by the hour. But with the AI delivery
+
+00:11:07.080 --> 00:11:10.520
+business, it can take you two hours to
+
+00:11:08.800 --> 00:11:12.520
+do something. But if that something
+
+00:11:10.520 --> 00:11:13.800
+yields $10,000 in results for your
+
+00:11:12.520 --> 00:11:16.320
+client, they'll be more than happy to
+
+00:11:13.800 --> 00:11:18.040
+pay you 5K, which amounts to 2.5K an
+
+00:11:16.320 --> 00:11:19.080
+hour for you. Think about that. Now, if
+
+00:11:18.040 --> 00:11:20.960
+you're watching this and thinking,
+
+00:11:19.080 --> 00:11:22.880
+"Okay, I know what skill I'd pick. I
+
+00:11:20.960 --> 00:11:24.360
+just don't know if I package it right or
+
+00:11:22.880 --> 00:11:26.400
+what to even say on the call to close a
+
+00:11:24.360 --> 00:11:28.040
+client." That's the exact gap I close
+
+00:11:26.400 --> 00:11:29.560
+with people one-on-one. I help founders
+
+00:11:28.040 --> 00:11:31.360
+like you build a one-person successful
+
+00:11:29.560 --> 00:11:33.240
+AI business through working with myself
+
+00:11:31.360 --> 00:11:34.560
+and my team one-on-one for 16 weeks
+
+00:11:33.240 --> 00:11:36.360
+straight. It's how Timothy went from
+
+00:11:34.560 --> 00:11:38.200
+zero to 10K a month, Ty had his first
+
+00:11:36.360 --> 00:11:40.160
+20K a month, Diane went from 1K to
+
+00:11:38.200 --> 00:11:42.120
+$20,000 a month, and how Yannick landed
+
+00:11:40.160 --> 00:11:44.000
+a $102,000 deal while sitting in
+
+00:11:42.120 --> 00:11:45.120
+Madagascar. If you're interested, apply
+
+00:11:44.000 --> 00:11:46.640
+using the first link in the description
+
+00:11:45.120 --> 00:11:48.000
+below. There's very limited spots, and
+
+00:11:46.640 --> 00:11:50.480
+there's only one of me, and my team is
+
+00:11:48.000 --> 00:11:52.960
+very selective. And now, the final step.
+
+00:11:50.480 --> 00:11:54.320
+Do not send 5,000 cold emails. Do not
+
+00:11:52.960 --> 00:11:55.920
+build a lead gen system before you've
+
+00:11:54.320 --> 00:11:57.800
+had a single conversation. You only need
+
+00:11:55.920 --> 00:12:00.200
+one client, one. But, here's how to get
+
+00:11:57.800 --> 00:12:01.720
+that one client. You find 15 to 20
+
+00:12:00.200 --> 00:12:03.080
+people who visibly need the service you
+
+00:12:01.720 --> 00:12:04.640
+picked. If it's ghostwriting, that's a
+
+00:12:03.080 --> 00:12:06.160
+founder posting inconsistently on
+
+00:12:04.640 --> 00:12:08.520
+LinkedIn who clearly wants to be
+
+00:12:06.160 --> 00:12:09.640
+posting, they just have horrible reach.
+
+00:12:08.520 --> 00:12:11.640
+If it's email, that's someone with a
+
+00:12:09.640 --> 00:12:13.920
+newsletter they've abandoned. If it's
+
+00:12:11.640 --> 00:12:15.320
+video, that's a podcast with zero clips
+
+00:12:13.920 --> 00:12:16.720
+being cut from it. The evidence is
+
+00:12:15.320 --> 00:12:19.200
+pretty public. You just have to see
+
+00:12:16.720 --> 00:12:21.600
+who's already doing what you are going
+
+00:12:19.200 --> 00:12:23.480
+to automate {slash} do for that person,
+
+00:12:21.600 --> 00:12:24.520
+but they're doing it very poorly. And
+
+00:12:23.480 --> 00:12:25.640
+you're going to come in and help them
+
+00:12:24.520 --> 00:12:27.320
+and kind of save the day, be their
+
+00:12:25.640 --> 00:12:29.080
+Superman. Simply send this outreach
+
+00:12:27.320 --> 00:12:31.240
+message right here, and it will help you
+
+00:12:29.080 --> 00:12:32.840
+land your first Now, now you want to
+
+00:12:31.240 --> 00:12:35.080
+track how much outreach you're doing. I
+
+00:12:32.840 --> 00:12:37.400
+would say go for about 40 messages a day
+
+00:12:35.080 --> 00:12:39.600
+across various platforms. Do this for 2
+
+00:12:37.400 --> 00:12:42.320
+weeks straight, and you will have some
+
+00:12:39.600 --> 00:12:43.920
+sort of data you can now use to figure
+
+00:12:42.320 --> 00:12:46.080
+out whether to make a new outreach
+
+00:12:43.920 --> 00:12:48.440
+message, perfect your current one, focus
+
+00:12:46.080 --> 00:12:50.720
+on one platform or one ICP, and just go
+
+00:12:48.440 --> 00:12:52.400
+from there. Now, here's how to maximize
+
+00:12:50.720 --> 00:12:54.080
+your clientele once you get your first
+
+00:12:52.400 --> 00:12:55.480
+client. After your first client gets
+
+00:12:54.080 --> 00:12:58.000
+some results, you write it up as a case
+
+00:12:55.480 --> 00:12:59.720
+study, before after numbers, timeline.
+
+00:12:58.000 --> 00:13:01.640
+You post it publicly, and you build a
+
+00:12:59.720 --> 00:13:03.200
+brand around it. You basically build a
+
+00:13:01.640 --> 00:13:04.960
+ton of content around that just that one
+
+00:13:03.200 --> 00:13:06.320
+client, so the other clients will see
+
+00:13:04.960 --> 00:13:08.120
+that, and they'll be like, "Wait, I I
+
+00:13:06.320 --> 00:13:09.720
+want to work with this person." And
+
+00:13:08.120 --> 00:13:12.000
+then, they're going to flock to you, and
+
+00:13:09.720 --> 00:13:13.760
+now that one client has led to five more
+
+00:13:12.000 --> 00:13:15.160
+clients, and those clients lead to four
+
+00:13:13.760 --> 00:13:17.080
+more clients. That's how you grow your
+
+00:13:15.160 --> 00:13:18.920
+business, and you have your one-person
+
+00:13:17.080 --> 00:13:20.640
+business machine that's able to replace
+
+00:13:18.920 --> 00:13:21.760
+like a 9-to-5 job. In fact, that's
+
+00:13:20.640 --> 00:13:23.160
+what's happened to my business. My
+
+00:13:21.760 --> 00:13:25.800
+personal brand has led me to make over
+
+00:13:23.160 --> 00:13:28.280
+$100,000 in a single month. My mentee Ty
+
+00:13:25.800 --> 00:13:29.960
+went from 400 subscribers to 4,300
+
+00:13:28.280 --> 00:13:31.520
+subscribers on YouTube working with me.
+
+00:13:29.960 --> 00:13:32.960
+And now he's landing four to five figure
+
+00:13:31.520 --> 00:13:35.600
+deals. In fact, he just hit his first
+
+00:13:32.960 --> 00:13:37.400
+$20,000 a month at 16 years old.
+
+00:13:35.600 --> 00:13:39.760
+Neymar's app grew to over 70,000
+
+00:13:37.400 --> 00:13:41.400
+followers in a single month, made 5K MRR
+
+00:13:39.760 --> 00:13:42.880
+by working with me and my team, and we
+
+00:13:41.400 --> 00:13:44.880
+employed the exact system that you've
+
+00:13:42.880 --> 00:13:46.360
+learned in this video into his business.
+
+00:13:44.880 --> 00:13:48.800
+A brand is what's going to take your
+
+00:13:46.360 --> 00:13:51.120
+business to big, big months, record
+
+00:13:48.800 --> 00:13:52.560
+numbers, and places you'd want to go to.
+
+00:13:51.120 --> 00:13:54.280
+If you want to have a success story like
+
+00:13:52.560 --> 00:13:55.440
+these clients, be sure to apply to work
+
+00:13:54.280 --> 00:13:56.680
+with me using the first thing in the
+
+00:13:55.440 --> 00:13:58.840
+description below. And if you want to
+
+00:13:56.680 --> 00:14:00.160
+become a master at building a one-person
+
+00:13:58.840 --> 00:14:04.160
+AI business with Claude, watch this
+
+00:14:00.160 --> 00:14:04.160
+five-hour free course next.
+
